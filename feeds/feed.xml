@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from Psychology Today]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Feb 2026 16:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 17:26:50 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Feb 2026 16:32:45 GMT</pubDate>
+        <pubDate>Sun, 22 Feb 2026 17:26:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Best Way to Stop Liars in Their Tracks]]></title>
@@ -43,6 +43,15 @@
             <dc:creator><![CDATA[Jer Clifton Ph.D.]]></dc:creator>
             <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
             <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2741410223.jpg?itok=6pet0zIA" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Is It About Women in Leadership That Reduces Corruption?]]></title>
+            <description><![CDATA[<img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/wingwomen%20air.png.jpg?itok=WSKmm5Go" alt="What Is It About Women in Leadership That Reduces Corruption?" style="max-width:100%;"/><br/><strong>Leadership</strong><br/><p>Women leaders and lower corruption: Consistent findings from 25 years of data.</p><p><em>By Debbie Peterson</em></p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/where-women-govern/202602/what-is-it-about-women-in-leadership-that-reduces-corruption</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/where-women-govern/202602/what-is-it-about-women-in-leadership-that-reduces-corruption</guid>
+            <dc:creator><![CDATA[Debbie Peterson]]></dc:creator>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/wingwomen%20air.png.jpg?itok=WSKmm5Go" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Purpose Is Simple; Courage Is Hard]]></title>
@@ -178,15 +187,6 @@
             <dc:creator><![CDATA[Stephen A. Diamond Ph.D.]]></dc:creator>
             <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
             <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-shvets-production-7176033.jpg?itok=5gvbvNyi" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Could Glial Cells Be the Key to New Schizophrenia Treatments?]]></title>
-            <description><![CDATA[<img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/bioscience-image-library-by-fayette-reynolds-S07-mK6zNeY-unsplash.jpg?itok=p9bRswCj" alt="Could Glial Cells Be the Key to New Schizophrenia Treatments?" style="max-width:100%;"/><br/><strong>Neuroscience</strong><br/><p>Long-term research into cellular function in schizophrenia could offer new hope.</p><p><em>By Sarah An Myers</em></p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/living-as-an-outlier/202602/could-glial-cells-be-the-key-to-new-schizophrenia-treatments</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/living-as-an-outlier/202602/could-glial-cells-be-the-key-to-new-schizophrenia-treatments</guid>
-            <dc:creator><![CDATA[Sarah An Myers]]></dc:creator>
-            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/bioscience-image-library-by-fayette-reynolds-S07-mK6zNeY-unsplash.jpg?itok=p9bRswCj" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
