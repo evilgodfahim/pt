@@ -4,9 +4,9 @@
         <description><![CDATA[Latest articles from Psychology Today]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Feb 2026 23:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2026 02:23:02 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Feb 2026 23:27:59 GMT</pubDate>
+        <pubDate>Mon, 23 Feb 2026 02:23:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[The Risks of Replacing Human Subjects With NPCs]]></title>
@@ -43,6 +43,15 @@
             <dc:creator><![CDATA[Jordan Grumet M.D.]]></dc:creator>
             <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
             <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/giovannid-nature-3302773_1280.jpg?itok=bX4Ef-WC" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Most Dangerous Negotiation of All]]></title>
+            <description><![CDATA[<img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/sasun-bughdaryan-5dFJavB5Twk-unsplash.jpg?itok=VmbjqURP" alt="The Most Dangerous Negotiation of All" style="max-width:100%;"/><br/><strong>Domestic Violence</strong><br/><p>When domestic violence enters the conversation, one question often surfaces with startling frequency: Why doesn’t she just leave?</p><p><em>By Cindy Watson B.A., LLB, JD</em></p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/life-as-a-negotiation/202602/the-most-dangerous-negotiation-of-all</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/life-as-a-negotiation/202602/the-most-dangerous-negotiation-of-all</guid>
+            <dc:creator><![CDATA[Cindy Watson B.A., LLB, JD]]></dc:creator>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/sasun-bughdaryan-5dFJavB5Twk-unsplash.jpg?itok=VmbjqURP" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[The First Task of Estrangement: Stabilize]]></title>
@@ -178,15 +187,6 @@
             <dc:creator><![CDATA[Paul J Dunion Ed.D.]]></dc:creator>
             <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
             <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/mathieu-gauzy-ItsEF1_h3KQ-unsplash.jpg?itok=299iEB8W" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI Can Help Solve the Reading Achievement Gap]]></title>
-            <description><![CDATA[<img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/bigstock-Outdoor-Portrait-Of-A-Cute-You-45302887.jpg?itok=SiPhkyNv" alt="AI Can Help Solve the Reading Achievement Gap" style="max-width:100%;"/><br/><strong>Artificial Intelligence</strong><br/><p>The reading achievement gap affects us all through heavy special education spending and societal problems. AI can have a transformational impact on these endemic issues.</p><p><em>By Coral PS Hoh Ph.D.</em></p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/unlocking-language/202602/ai-can-help-solve-the-reading-achievement-gap</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unlocking-language/202602/ai-can-help-solve-the-reading-achievement-gap</guid>
-            <dc:creator><![CDATA[Coral PS Hoh Ph.D.]]></dc:creator>
-            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/bigstock-Outdoor-Portrait-Of-A-Cute-You-45302887.jpg?itok=SiPhkyNv" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
