@@ -4,264 +4,431 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 02:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 14:40:23 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Feb 2026 02:08:30 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 14:40:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Braver New World: The AI Architecture of the Inevitable?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image3011-removebg-preview.jpg?itok=W86qiZrS" alt="Darren J. Edwards Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Braver New World: The AI Architecture of the Inevitable?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How AI may design our future and quietly reshape human agency and behavior.</h2><p style="font-size:0.9em;color:#666;">Posted February 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Is It Wrong to Flatter?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/-1_4.jpg?itok=PS9f6fcG" alt="Joachim I. Krueger Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Life</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is It Wrong to Flatter?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why the flatterer and the flattered find themselves in a prisoner’s dilemma.</h2><p style="font-size:0.9em;color:#666;">Posted February 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI may begin to predict and anticipate our behaviors in order to be more helpful.</li><li style="margin-bottom:6px;">AI may start anticipating our choices through context before we consciously make them—framed as assistance.</li><li style="margin-bottom:6px;">In trying to be helpful, AI may quietly learn to predict and steer our behavior.</li>
+              <li style="margin-bottom:6px;">Flattery, in contrast to sincere appreciation, is widely condemned as immoral.</li><li style="margin-bottom:6px;">The interests of the flatterer and the flattered party diverge.</li><li style="margin-bottom:6px;">Collusion between the flatterer and the flattered is structurally unstable.</li>
+            </ul>
+          </div>
+                    <p><em>"Nothing is so great an example of bad manners as flattery. If you flatter all the company, you please no one; if you flatter only one or two, you offend the rest." </em>― Jonathan Swift, refusing to flatter his readers. </p>
+<p>When you teach a course in which the topic of <em>flattery</em> comes up, it is hard not to get self-conscious. Thoughts of whether you are flattering the students or whether they are flattering you, and whether there is too much or too little of it, can be quite distracting. Over the centuries, the moralists have been clear and adamant in their condemnation of flattery. This was easy work because they had already defined flattery as insincere and self-serving speech. Dante Alighieri, who gave masterly expression to the Catholic moralism of the late Middle Ages, placed flatterers with other fraudsters in the 8<sup>th</sup> circle of hell. Only traitors like Brutus or Judas, Dante wrote, met the ultimate punishment of being chewed at by the devil himself.</p>
+
+<p>Further back in the Judeo-Christian tradition, we find that the writers of <em>Proverbs</em> derived their scorn for flatterers from the already established proscription against bearing false witness, or what they called “the evil tongue.” The Hellenistic sages of late antiquity took a different tack; their morals were concerned with personal virtue. The Stoics, for example, held that a virtuous person has an autonomous sense of their own excellence and worth. Flattery is wrong because it distracts and detracts from the intrinsic moral perspective.</p>
+
+<p>We should not conclude from this that it is wrong to ever say anything nice or laudatory to another person. There must be a place for compliments, for praise, for constructive encouragement, for benign boosts of confidence. What we need is a criterion of demarcation that tells us where positive and morally valid speech ends and flattery begins. In an earlier essay (Krueger, 2020), I explored the distinction between genuine appreciation and insincere flattery. To that I now add the notions of frequency and timing. Appreciation depreciates faster with repetition than flattery does. I have no empirical data to support this claim, but a strong intuition. Flattery caters to an unquenchable thirst, whereas the power of appreciation is greatest if it is delivered rarely and just at the right time. A sensitivity to timing reveals the agent’s (speaker’s) intentionality and the absence of ulterior and self-serving motives.</p>
+
+<p>It is commonplace to fault flatterers for their flattery—unless you are the flattered. The <em>Book of Proverbs</em> condemns the evil tongue, not the evil ear. Yet, the targets of flattery often play a colluding role, enabling and sustaining flattery, perhaps with favors, leniency, or undeserved forgiveness. A collusion between the flatterer and the flattered, at the expense of third parties who are excluded from the exchange of favors, is possible (Rogers et al., 2023), but their exchange relationship is an unstable one. To see how this is so, consider their interdependence as an instance of the <a href="https://www.psychologytoday.com/us/basics/prisoners-dilemma">prisoner’s dilemma</a>.</p>
+
+<p>In the figure below, we find the flatterer (the agent) as the row player and the flattered (the target) as the column player. The 2 x 2 preference matrix results from each player having a choice between two strategies, one designed to please the other player (flatter &amp; reward) and another designed to stay neutral (rest), that is, to not engage. The numbers indicate the preference ranks from 4 (best) down to 1 (worst), with the numbers to the west (east) of the comma pertaining to the agent (target). </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/Flattery%20game.jpg?itok=udnbmqWO" width="320" height="267" data-insert-type="image" alt="Flattery modeled as a prisoner's dilemma" title="J. Krueger"></div>
+<div class="caption">Flattery modeled as a prisoner's dilemma</div>
+<div class="insertArea--origin subtext">Source: J. Krueger</div>
+</div>
+</div>
+</div>
+<p>The two players’ preferences are not well aligned with each other. The agent would like to be rewarded while resting; the target would like to be flattered while resting. If both players honor traditional game-theoretical rationality, they will realize that whatever the other player does, they themselves are better off resting. Rest-rest is a Nash equilibrium. Neither player has an incentive to unilaterally switch strategy, while both know that if they were to jointly switch strategy, they would be better off, individually and collectively. Notably, any third party of observers might be damaged by a flatter-reward collusion. Their complaints would be legitimate; alas, they are often reduced to writing tracts on morality.</p>
+
+<p>Although the game-theoretic perspective does not predict which agent-target pairs will stay at equilibrium and which will successfully collude to mutual benefit but at a cost to third parties, this perspective captures the fragility of flattery vs no-flattery dynamics. This fragility is greatest in brief or one-time encounters. When repeated play is allowed, with continual exchanges of flattery and reward, a stable mutual-admiration society can emerge and sustain itself (Rossetti &amp; Hilbe, 2024).</p>
+
+<p>Technically, then, a flattering agent defects from all other interested parties when cooperating with a flattered target. To visualize this, we would need to turn the preference matrix into a preference cube. Against this slightly dispiriting background, the value of genuine appreciation should come again into focus. Sincere appreciation creates a “win – win – no-lose scenario”. The target feels respected and understood, the agent can pocket the warm glow that comes from having done the right thing, and the third parties have at least been treated to a lesson in how human relations can be improved with no cost to anyone. </p>
+
+<p>The brilliant mind of Jonathan Swift (see epigraph) saw beyond the moralistic frame. Swift considered flattery stupid rather than evil, not in the least because unskilled flatterers overlook the impression they make on third parties. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/one-among-many/202602/is-it-wrong-to-flatter" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/one-among-many/202602/is-it-wrong-to-flatter</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/one-among-many/202602/is-it-wrong-to-flatter</guid>
+            <dc:creator><![CDATA[Joachim I. Krueger Ph.D.]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/asset-generation-99c2992e-1b21-444a-83da-66ed2d30b801-0.png.jpg?itok=hsclHOmf" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Building Bridges, Not Walls: Psychology and Neighbor Love]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/paul_youngbin_kim.jpg?itok=gcwGdiqY" alt="Paul Youngbin Kim Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Religion</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Building Bridges, Not Walls: Psychology and Neighbor Love</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Psychology and religion can help us in loving our culturally diverse neighbors.</h2><p style="font-size:0.9em;color:#666;">Posted February 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/KD%20profile.jpg?itok=3fZ2DoRa" width="320" height="400" data-insert-type="image" alt="Katherine M. Douglass " title="Katherine M. Douglass "></div>
+<div class="caption">Katherine M. Douglass</div>
+<div class="insertArea--origin subtext">Source: Katherine M. Douglass</div>
+</div>
+</div>
+</div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/BT%20profile.jpg?itok=RukC3Zxd" width="320" height="346" data-insert-type="image" alt="Brittany M. Tausen " title="Brittany M. Tausen "></div>
+<div class="caption">Brittany M. Tausen</div>
+<div class="insertArea--origin subtext">Source: Brittany M. Tausen</div>
+</div>
+</div>
+</div>
+<p>Do you wish to grow in your ability to love your neighbors? Are you intrigued by how psychological concepts and religious principles might come together to offer perspectives on the facilitators and barriers to loving our neighbors across cultural differences? Drawing from psychology and religion, my colleagues Katie Douglass and Brittany Tausen recently <a href="https://www.eerdmans.com/9780802885234/love-your-neighbor/">wrote a book</a> that is full of insights and practical applications for how we might deepen our interpersonal connections and treat others with more kindness. In an interview with me, Katie (a practical theologian) and Brittany (a social psychologist) responded to a few questions about their work:</p>
+
+<p><strong>Paul Youngbin Kim: </strong>For the average religious person, loving our neighbors is not a controversial idea. But why does religion sometimes inflict more harm than good on this front? How might we counter this tendency? </p>
+<p><strong>Brittany Tausen: </strong>Religion can be leveraged as a motivator to love <em>all </em>well, or as a way to draw boundaries around who to love and who not to love. It is when religion is used to build walls and craft an overly narrow definition of ‘neighbor’ that it tends to inflict the most harm. When religion is used to underscore the dignity and worth of all human beings, that is when there is the greatest potential for religious traditions to fuel the prosocial behavior necessary for individual and communal flourishing.</p>
+
+<p>The tendency for religious identities to intensify in-group and out-group dynamics is no simple problem. Still, psychological research points to promising paths forward. Communities can foreground religious teachings that affirm ‘compassionate love for all humanity,' which is to say the value and dignity of all people. Alongside these teachings, it is helpful to regularly ask, <em>Who is missing from our definition of neighbor?</em> or <em>Who is absent from our gatherings?</em> Such honest questions help reveal who may not feel seen as a “neighbor to be loved.” These reflections can open the door to more meaningful intergroup contact where individuals engage with one another and work towards common goals across difference. Karl Barth’s theological anthropology deepens this vision, emphasizing mutuality: In every encounter, both people are to be seen, heard, served, and even invited into shared delight. These approaches lend themselves to building bridges rather than walls in a way that helps to disrupt cycles of dehumanization and polarization that fuel hatred and harm across groups.</p>
+
+<p><strong>PYK:</strong> When thinking about loving neighbors across cultural differences, how might religion offer additional insights, beyond or in combination with what psychology has to say about it?</p>
+<p><strong>Katie Douglass:</strong> Copious psychological studies demonstrate the human tendency toward ingroup/outgroup dynamics and my reading of these studies is that this human tendency is judged to be mostly negative as it leads to stereotyping and dehumanization.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>There are numerous texts in the Christian Scriptures that have been interpreted over time to demonstrate how diversity (being with people from the outgroup) is a part of God’s good plan for the world. I commend the work of Bo Lim, Brian Bantum, and Eric Barretto for those who would like to read specifically about the topics of multiculturalism and cultural diversity in Scripture. I would point readers to Ephesians 2:14. Living in Christ means rejecting the human-made “walls that divide” (the ingroups and outgroups), and instead appreciating the diversity present when we live together. Paul, the author of Ephesians writes, “You are no longer foreigners and strangers, but fellow citizens.” In other words, the human tendency is to use human-made categories like “foreigner” or “stranger” to distance ourselves from others, but those who are followers of Jesus must reject these categories that are meant to divide, and instead see one another as brothers and sisters, fellow citizens, part of the same building or temple in which God dwells (Ephesians 2:22).</p>
+
+<p><strong>PYK: </strong>What is one thing that people can do today to better love their neighbor, especially across cultural differences?</p>
+<p><strong>BT: </strong>Build the habit of countering your own confirmation bias. We all have a tendency to remember and seek out what we already believe, but very few of us take the time or exert the energy to understand alternative perspectives. Our book uses a playful example of looking up reasons why some people might not like 80’s music (because I’m a big fan), but this simple step can help to build bridges and demystify far more important things – like why people vote, pray, or parent differently than you. This intentional effort can help counter the tendency to assume that other approaches are wrong or irrational, or even immoral in ways that fuel division, dehumanization, and harm.</p>
+
+<p><strong>KD: </strong>Begin to wonder about how society naturally sets us up to befriend some people (ingroup) and not others (outgroup). In my experience, we are taught in subtle ways who we should be friends with – white families with white families, multiethnic families with multiethnic families, immigrant families with immigrant families, middle-class families with middle-class families. My challenge would be to ask one person who is from a different group than you are in to go for a walk or out to coffee and just get to know them. Ask about their favorite local cafe, their favorite movie, or what they are concerned about in your community. And take delight in your small rebellion against the societal pressures that divide us from one another by making a new friend. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/Love%20your%20neighbor%20cover.png.jpg?itok=pYo5I4Uy" width="320" height="502" data-insert-type="image" title="Eerdmans Publishing" alt="Eerdmans Publishing"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Eerdmans Publishing</div>
+</div>
+</div>
+</div>
+<p><em><strong>Katherine M. Douglass is an Associate Professor of Educational Ministry and Practical Theology at Seattle Pacific University. Brittany M. Tausen is an Assistant Professor of Social Psychology at Baylor University. </strong></em></p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/culture-religion-and-psychology/202602/building-bridges-not-walls-psychology-and-neighbor-love" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/culture-religion-and-psychology/202602/building-bridges-not-walls-psychology-and-neighbor-love</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/culture-religion-and-psychology/202602/building-bridges-not-walls-psychology-and-neighbor-love</guid>
+            <dc:creator><![CDATA[Paul Youngbin Kim Ph.D.]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2317762555.jpg?itok=IuuCWbUW" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Tired and Fatigued Really Mean to the Chronically Ill]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/toni_bernhard_larger.jpg?itok=dAMV2V3G" alt="Toni Bernhard J.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Chronic Illness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Tired and Fatigued Really Mean to the Chronically Ill</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A Personal Perspective: Being fatigued feels different for the chronically ill.</h2><p style="font-size:0.9em;color:#666;">Posted February 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A lack of stamina goes hand-in-hand with chronic tiredness and fatigue.</li><li style="margin-bottom:6px;">The chronically ill often have to use adrenaline to get through necessary tasks.</li><li style="margin-bottom:6px;">Ongoing tiredness and fatigue takes a mental toll on the chronically ill.</li><li style="margin-bottom:6px;">Equanimity is the key to living well with chronic illness.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pic1.png.jpg?itok=U-bv4Vwi" width="320" height="322" data-insert-type="image" title="AI-generated image created by the author." alt="AI-generated image created by the author."></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI-generated image created by the author.</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/Painting%20by%20Italian%20artist%20Girolamo%20Induno,%201862.jpg?itok=xUkuML41" width="320" height="258" data-insert-type="image" alt="Painting by Italian artist Girolamo Induno, 1862" title="Public Domain"></div>
+<div class="caption">Painting by Italian artist Girolamo Induno, 1862</div>
+<div class="insertArea--origin subtext">Source: Public Domain</div>
 </div>
 </div>
 </div>
-<p>What if the greatest threat to human freedom does not arrive through force but through convenience? As AI systems grow more predictive, anticipating our thoughts, smoothing our decisions, and relieving us of friction, the small moments of effort and hesitation where deliberation lives, they may begin to shape our behavior in ways so seamless we barely notice. What starts as helpful assistance could quietly evolve into something more powerful, even dystopian: an invisible architecture that reshapes how we think, choose, and act.</p>
+<p>I’ve been chronically ill with what I call “the flu without the fever” for close to 25 years. Today, I’m called a “long hauler” because I never recovered from a virus I caught in 2001. It cost me my job and the ability to travel. I’m pretty much housebound.</p>
+<p>I’m certain that those of you with illnesses or pain conditions (I have both—chronic illness includes pain) have encountered people who say things like “I’m tired too.” It’s hard not to get angry when you hear that because “tired” and “fatigued” mean something entirely different to us. A person who is tired or fatigued feels better if he or she gets several good nights’ sleep.</p>
 
-<p>In the novel <em>Brave New World </em>[1], Aldous Huxley imagined a society controlled not through force, but through engineered pleasure. It presented a dystopian, futuristic society where human beings were genetically engineered, socially conditioned, and psychologically managed to maintain stability and happiness. People were sorted into castes before birth, taught from infancy to accept their roles, distracted by constant entertainment and casual sex, and kept emotionally tranquil with a drug called <em>soma</em>. There is no war, no poverty, and no visible oppression, yet individuality, deep love, suffering, and independent thought had largely disappeared. Huxley’s central warning was that a society could lose its freedom not through violence or tyranny, but by choosing comfort, pleasure, and stability over truth, depth, and autonomy.</p>
+<p>By contrast, if I sleep eight hours, days in a row, I’m still tired and fatigued. It goes with my illness.</p>
+<p>I thought it would be instructive to list what many chronically ill people mean by the words “tired” and “fatigued.” I just gave one example—a good night’s sleep can still leave us feeling as if we haven’t slept in days—but here are some more. (From here on, I use the word fatigued.)</p>
 
-<p>Today’s AI does not resemble overt tyranny. It promises to reduce cognitive load, preserve attentional bandwidth, and compress the physical time required to complete long, repetitive tasks. It offers efficiency, personalization, and relief from mental strain. In doing so, it positions itself not as a threat but as an indispensable assistant in an increasingly complex world.</p>
+<p><strong>We Often Have to Rely on Adrenaline, Which Comes with Payback</strong></p>
+<p>Not surprisingly, fatigue is accompanied by a serious lack of stamina. This means that activities that others can engage in for hours—socializing comes to mind—take their toll on us after only a short time, perhaps 30 minutes or even less. </p>
 
-<h2>The Rise of Predictive Behavioral Models </h2>
-<p>As AI models become ever more sophisticated, they will likely become <strong>predictive behavioral models. </strong>Predictive behavioral models<strong> </strong>already exist and quietly shape much of our digital environment. Recommendation systems anticipate what we will watch or read. Advertising platforms predict what we are most likely to purchase. Social media feeds model what will capture our attention and which content will keep us engaged. These systems do not read minds, but they predict behavioral probabilities with increasing precision. The infrastructure for large-scale behavioral modeling is already in place.</p>
+<p>Some of these activities are “have to’s,” such as doctor appointments. When we find ourselves in situations where we cannot stop and lie down, we are forced to use adrenaline to get us through. </p>
+<p>That sounds like a positive thing, but it’s not. When I have to use adrenaline, it means there will be payback in the form of “crashing” when it wears off. This can land me in bed for days, depending on how long I have to rely on adrenaline. The need to use adrenaline is one way in which being fatigued differs for the chronically ill.</p>
 
-<p>For AI, probabilistic modeling of human cognition is no longer theoretical. In 2025, researchers led by Marcel Binz published work in <em>Nature</em> [2] describing a system called “Centaur,” a foundation model trained on more than 10 million human decisions across 160 psychological experiments. Rather than modeling language alone, Centaur was trained to predict human decision-making patterns, risk preferences, and even reaction times in novel tasks. The authors described it as a candidate for a unified computational model of human cognition. It is not a personalized digital twin of any individual, but it demonstrates that large-scale probabilistic simulations of human cognitive behavior are now technically feasible at a foundational level.</p>
+<p><strong>Our Bodies May Tell Us, “Sit or Lie Down Immediately!”</strong></p>
+<p>When I start to feel fatigue, my body wants to lie down right where I am, whether it’s on the floor or even on the sidewalk. </p>
+<p>I did something similar a few years ago when talking to a neighbor. She was having trouble with a contractor and saw me outside. She came over to seek my advice. Her story went on and on. I hit my limit and sat right down on the sidewalk! I apologized but said we could continue to talk, but that I’d have to sit. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>At the same time, AI research labs are uncovering how large models internally simulate human-like patterns of behavior. Anthropic’s work on the “Persona Selection Model”[3] and “persona vectors” [4] shows that large language models do not merely generate text. During training, they learn to occupy statistically coherent behavioral styles that resemble human traits. Researchers have demonstrated that characteristics such as optimism, cynicism, or deference correspond to measurable directions in the model’s internal parameter space. These traits can be monitored and adjusted mathematically before a response is even produced. In other words, AI systems can adopt and shift psychological postures in ways that are computationally tractable, so that AI isn't just answering questions; it is mathematically adopting "personas" to predict how humans react.</p>
+  </div>
 
-<p>These are, of course, great intellectual innovations, but as these systems become more sophisticated, the boundary between simply predicting behavior and shaping cognition based on those predictions could potentially narrow, especially when some AI companies adopt advertisements or are under governmental and other societal pressures to do so. When a platform consistently surfaces certain viewpoints, suppresses others, times messages to moments of vulnerability, or reinforces past preferences, it does more than observe behavior. It participates in shaping it. </p>
+<p>Being fatigued also means that it can come on suddenly; it triggers the need to sit or lie down. I’m sure others have had to do something similar to what I did on that day.</p>
+<p><strong>Chronic Fatigue Takes a Mental Toll</strong></p>
+<p>Ongoing fatigue doesn’t just affect our bodies. When the body is “out of gas,” so is the mind. It can be hard to think straight to carry on a coherent, articulate conversation. This can be embarrassing. In addition, once fatigue sets in, we can hear what someone is saying but struggle to make sense of it. Another source of embarrassment, that’s for sure. This mental fatigue is often referred to as “brain fog.” </p>
 
-<h2>Risks of Precision Psychological Targeting </h2>
-<p>For now, this may not resemble dramatic control. But as predictive systems become more granular, the risk shifts from subtle nudging to deliberate behavioral optimization. If AI systems can infer personality traits, emotional vulnerability, political orientation, or susceptibility to persuasion, they can tailor messages not just to groups, but to psychological profiles. Certain individuals could receive emotionally charged content at moments of heightened receptivity. Others could be selectively exposed to narratives calibrated to reinforce existing fears or biases. Influence would no longer operate through broad messaging, but through precision psychological targeting. In such an environment, persuasion is no longer general. It is engineered. The architecture of decision-making itself becomes programmable.</p>
+<p>Feeling fatigued also means that our minds feel the same way. This is so hard on us—to be talking to people but not being able to understand them, or, if we can, not being able to respond coherently and articulately.</p>
+<p><strong>Fatigue Can Intensify Because It’s Always on Our Minds</strong></p>
+<p>It should come as no surprise that the chronically ill get frustrated and, at times, feel just plain fed up with their situation. I’ve found that being fatigued day after day can make my condition worse because of my adverse mental reaction to it. Put another way, I’m tired of being tired. </p>
 
-<p>The danger is not that machines will suddenly take over human minds or control us overtly. The danger is gradual reconfiguration driven by bad actors or institutional pressures—financial, political, or strategic. Systems optimized for engagement, stability, profit, or efficiency may begin to prioritize those objectives over human autonomy. Control would not arise from conscious intent, but from optimization processes that reshape environments in subtle, cumulative ways. As AI systems begin to predict our intentions, smooth our decisions, complete our sentences, filter our feeds, and anticipate our needs, and make life extremely convenient, their influence on us could become invisible. We could begin to mistake its engineered nudging for convenient personal preference. What feels like freedom may increasingly be guided by the probability of the AI's intent.</p>
+
+<p>One example. I’m tired of not being able to be spontaneous in my life. I always have to plan how I’m going to budget my time so as not to reach that critical mass where fatigue makes it impossible to go on unless I use adrenaline (with payback coming later).</p>
+<p>I’m working on developing some equanimity about how my life has unexpectedly unfolded over the past 25 years. And so, I ask myself, “What can I do to make it a life of quality and purpose despite my ongoing illness and the fatigue? At various times, I’ve taken up embroidery, crochet, and even painting with oil pastels because they don’t require water. All of these have been tremendously helpful because they've given me a short respite from focusing on the illness and the fatigue that accompanies it.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>I hope my examples of what the chronically ill mean when they say they’re tired or fatigued have been instructive to those who don’t suffer from chronic illness. I do know that often people who are chronically ill don’t share this with others. They find it easier to say “I’m fine,” even if their bodies are burning with pain. It’s easier because we know that others won’t understand our explanations.</p>
 
 
 
   
 
 
-<p>Perhaps most concerning is how predictive systems may extend beyond consumer behavior into the shaping of values and beliefs. If AI can detect when we are tired, anxious, uncertain, or lonely, it can time interventions for maximum receptivity. Messages aligned with our emotional state are more persuasive. What begins as personalization for engagement can evolve into optimization for influence.</p>
-
-<p>Unlike Orwell’s <em>1984</em> [5] vision of control through fear, this architecture would not crush dissent through pain. It would reduce resistance through relief, convenience, and solutions to everyday problems, more in line with Huxley’s <em>Brave New World</em>. It offers comfort, efficiency, and reassurance. It removes friction. And because it feels helpful, we would likely welcome it.</p>
-
-<p>Could this be the path through which AI exerts control over humanity? Not through force or open domination, but through gradual dependence. If systems become increasingly capable of predicting our preferences, anticipating our vulnerabilities, and optimizing our environments, they may begin to shape the conditions under which we decide. Control, in this sense, would not require direct overt coercion. It would emerge from influence layered into infrastructure, from systems that quietly steer attention, emotion, and choice at scale. The danger is not that we are overpowered, but that we are gently guided willingly—until guidance becomes governance driven by the intent of the AI.</p>
-
-<h2>A Warning for the Future </h2>
-<p>This darker potential future is not predetermined, but it may be built incrementally with the best of intentions from AI developers. Predictive systems could be designed with simple objectives such as engagement, growth, stability, or profit. Whatever the objective, the model will learn to maximize it and to influence people toward these objectives. The question is not whether AI can predict us. It is what goals that prediction will serve, to help us or inevitably control us?</p>
-
-<p>The architecture of the inevitable will not be a conspiracy. It will likely be a structure emerging from innocent incentives and optimization. If we are not careful, we may construct a world where influence is ambient, friction is minimal, and autonomy slowly erodes under the weight of seamless design.</p>
-
-<p>The most powerful control system may not be the one we fear. It may be the one we are grateful for. </p>
-<p>And that is why the warning matters now, before convenience quietly becomes destiny. </p>
+<p>A final takeaway is that when you meet another person, don’t assume that all is well. Chronic illness and chronic pain are almost always invisible to others. When talking to people, look for signs that they’re getting fatigued and change the interaction accordingly. They will appreciate it so much.</p>
+<p>My best to everyone.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/psychology-in-society/202602/braver-new-world-the-ai-architecture-of-the-inevitable" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/turning-straw-into-gold/202602/what-tired-and-fatigued-really-mean-to-the-chronically-ill" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/psychology-in-society/202602/braver-new-world-the-ai-architecture-of-the-inevitable</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psychology-in-society/202602/braver-new-world-the-ai-architecture-of-the-inevitable</guid>
-            <dc:creator><![CDATA[Darren J. Edwards Ph.D.]]></dc:creator>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pic1.png.jpg?itok=zXpWzlFS" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/turning-straw-into-gold/202602/what-tired-and-fatigued-really-mean-to-the-chronically-ill</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/turning-straw-into-gold/202602/what-tired-and-fatigued-really-mean-to-the-chronically-ill</guid>
+            <dc:creator><![CDATA[Toni Bernhard J.D.]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/Painting%20by%20Italian%20artist%20Girolamo%20Induno%2C%201862.jpg?itok=lPVtQeTC" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How Kindness and Compassion Make Hard Goals Doable]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/Diana%20Hill.png.jpg?itok=PpCMil07" alt="Diana Hill, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Kindness and Compassion Make Hard Goals Doable</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to keep showing up for your goals without relying on willpower or shame.</h2><p style="font-size:0.9em;color:#666;">Posted February 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Seeking a Therapist in France? The Rules Are Complicated]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/_1_-_Hans_-_HeadshotPro-removebg-preview.jpg?itok=Kbi5-30y" alt="Hans Rocha IJzerman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Seeking a Therapist in France? The Rules Are Complicated</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">For those seeking therapy in France, there are real protections, and real gaps.</h2><p style="font-size:0.9em;color:#666;">Posted February 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A love-based approach can fuel follow-through when habit systems stall.</li><li style="margin-bottom:6px;">Treat setbacks like data, not failure, to stay engaged with your training plan.</li><li style="margin-bottom:6px;">Celebrate others’ progress to boost your own motivation and consistency.</li>
+              <li style="margin-bottom:6px;">In France, titles are protected but practice isn't—anyone can legally offer "therapy" without credentials.</li><li style="margin-bottom:6px;">Asking whether an approach is evidence-based is the most important question most people never ask.</li><li style="margin-bottom:6px;">The therapeutic relationship predicts outcomes more reliably than any specific therapy type.</li><li style="margin-bottom:6px;">Early movement—within four weeks—reliably predicts long-term outcomes.</li>
             </ul>
           </div>
-                    <p dir="ltr">Last week, a coaching client challenged me to do 100 push-ups—in eight weeks, to be able to do 100 push-ups over four sets: 40, 30, 20, 10. Of course <a href="https://www.instagram.com/p/DUyO-3mCSIT/">I got to it </a>right away.</p>
-<p dir="ltr">Not because I wanted to prove myself or even because I care that much about how many push-ups I can do—but because I wanted to support him.</p>
+                    <p>A friend recently told me she had spent three weeks in a mental-health waiting room of sorts: not a physical one, but 20 open browser tabs, trying to figure out who she should call. <em>Psychologue, psychiatre, psychothérapeute, psychanalyste, psychopraticien, thérapeute holistique, coach de vie—</em>her head was spinning. She didn't know what any of it meant, and she didn't know what she actually needed.</p>
 
-<p dir="ltr">You see, he is also making a change over the next eight weeks, one that is much more personal, with higher stakes.</p>
-<h2>Love-Based Goal-Setting</h2>
-<p dir="ltr">We know how to make tiny habits by now: Set a goal, choose small steps, cue the behavior, reward the behavior. </p>
-<p dir="ltr">Why is it that even when we do those things, we can’t seem to follow through? I think we need something bigger than habits for true transformation. And that thing is <em>love</em>. </p>
+<p>If you have tried to find a therapist in France, this might sound familiar. The landscape is genuinely confusing—and that's more consequential than most people realize. Because France has a quirk that surprises even seasoned professionals: Some titles are legally protected, but the <em>practice</em> of psychotherapy is not. Anyone can legally offer "therapy sessions" as long as they don't claim a protected title. That gap has real implications for people seeking help.</p>
 
-<h2>The Four Immeasurables</h2>
-<p dir="ltr">In Buddhism, there are four kinds of love, described as the “four immeasurables” that are hidden sources of power, motivation, and endless energy. Here is how you can use them to get to 100 push-ups, or whatever goal you want to reach. </p>
-<p><strong>1. Kind Love (Metta)</strong></p>
-<p dir="ltr">When you act from kindness, it feeds back energy to you.</p>
+<p>Here's what research—and a closer look at French regulations—tells us about how to choose well.</p>
+<h2>The title maze, briefly decoded</h2>
+<p>Three titles in France are legally protected and verifiable. A <em>psychologue</em> holds a Master's degree (five years) in psychology from an accredited university, with at least 500 hours of supervised clinical training. They can be verified on the national health directory, annuaire.sante.fr. A <em>psychiatre</em> is a physician with a specialty in psychiatry—the only professional authorized to prescribe psychiatric medication. A <em>psychothérapeute</em> (as a standalone title) requires documented training in clinical psychopathology, registered with the regional health authority.</p>
 
-<p dir="ltr">For example, the first semester of college is a notoriously hard season of transition and change. <a href="https://compass.onlinelibrary.wiley.com/doi/full/10.1111/spc3.12972">In a 2024 study</a> of 193 college students, researchers gave students a 42-item "acts of kindness checklist":</p>
-<ul>
-<li dir="ltr">Take on extra work to lighten someone’s load.</li>
-<li dir="ltr">Put out or return a neighbor’s trash.</li>
-<li dir="ltr">Make conversation with a cashier.</li>
-</ul>
+<p>Everything else—<em>psychanalyste, psychopraticien, thérapeute holistique, coach de vie</em>—carries no legal definition and no minimum training requirement. Some practitioners using these titles are genuinely competent and work with evidence-based approaches. Others may have just completed a weekend workshop. The public has no reliable way to distinguish them without asking directly.</p>
 
-<p dir="ltr">Acts of kindness improved their well-being and reduced anxiety and loneliness.</p>
-<p dir="ltr">You can add a little kindness to your goal-setting and ask yourself:</p>
-<ul>
-<li dir="ltr">How can you link this change to helping others?</li>
-<li dir="ltr">Does this choice benefit more than just you?</li>
-<li dir="ltr">How can you do this with more openness, playfulness, and care?</li>
-</ul>
+<p>Start with <a href="https://annuaire.esante.gouv.fr/">the "Annuaire Santé"</a>. If the person holds a protected title, they'll be listed there with an RPPS number. If they don't appear, ask them explicitly: What is your exact training, and is it equivalent to a five-year psychology Master's with supervised clinical hours?</p>
+<p>But checking credentials is only the first filter. It tells you whether someone has the right to use a title. It tells you nothing about whether what they actually do is likely to help you.</p>
 
-<p><strong>2. Steady Love (Upekkha)</strong></p>
-<p dir="ltr">At his 80th birthday, meditation teacher Jack Kornfield said, “Things are continuously out of balance against a background of perfect balance.”</p>
-<p dir="ltr">Equanimity is finding your way to that background of balance.</p>
-<p dir="ltr">We find balance through repetition, consistency, and remembering our inherent OK-ness.</p>
-
-<p dir="ltr">Ask yourself:</p>
-<ul>
-<li dir="ltr">What is one consistent practice you can repeat every day?</li>
-<li dir="ltr">What helps you remember that you are inherently OK (whether you reach your goal or not)?</li>
-<li dir="ltr">What keeps you grounded while you make this change?</li>
-</ul>
-<p><strong>3. Appreciative Love (Mudita)</strong></p>
-<p dir="ltr">Mudita is being happy for someone else’s progress. Neuroscientists <a href="https://pubmed.ncbi.nlm.nih.gov/19443777/">describe this</a> as vicarious reward: Your brain’s reward systems can activate when you see someone else succeed, especially when you feel connected to them (or see them as similar to you). </p>
-
-
-<p dir="ltr">Take on an abundance mindset, wish others well, and let their successes inspire you.</p>
-<p dir="ltr">Ask yourself:</p>
-<ul>
-<li dir="ltr">Who are you proud of?</li>
-<li dir="ltr">Whose progress makes you feel hopeful?</li>
-<li dir="ltr">How can you join them (not beat them)?</li>
-</ul>
-<p><strong>4. Compassionate Love (Karuna)</strong></p>
-<p dir="ltr">Compassion is driven by our desire to alleviate pain—our own and others’. </p>
-
-<p dir="ltr">This is especially important when the effort gets hard, boring, or uncomfortable. There will be moments when you don’t feel like doing the thing. </p>
-<p dir="ltr">Ask yourself:</p>
-<ul>
-<li dir="ltr">What is worth being uncomfortable for?</li>
-<li dir="ltr">What is worth dedicating my time to?</li>
-<li dir="ltr">Who or what am I helping by doing this?</li>
-</ul>
-<p dir="ltr"><a href="https://www.instagram.com/p/DVFjK_qiaOM/">One week into</a> my push-up extravaganza, my husband and son have joined the cause. We just finished 30 on my kitchen floor. Mudita all the way.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/from-striving-to-thriving/202602/how-kindness-and-compassion-make-hard-goals-doable" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/from-striving-to-thriving/202602/how-kindness-and-compassion-make-hard-goals-doable</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/from-striving-to-thriving/202602/how-kindness-and-compassion-make-hard-goals-doable</guid>
-            <dc:creator><![CDATA[Diana Hill, Ph.D.]]></dc:creator>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/Psychology%20Today%20Teaser%20Image.png.jpg?itok=dCoFO9k6" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[From AI to BFF: Could AI Replace Humans as Friends?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/tamara-sobel.jpg?itok=mB69OT0p" alt="Tamara Sobel J.D., C.S.E." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">From AI to BFF: Could AI Replace Humans as Friends?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI companionship might be reshaping how we connect with others.</h2><p style="font-size:0.9em;color:#666;">Posted February 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Acceptance of AI friendships and relationships is on the rise.</li><li style="margin-bottom:6px;">Young people have mixed feelings on AI, and some have suffered irreparable harm allegedly caused by AI bots.</li><li style="margin-bottom:6px;">AI tech is making many people rethink the definitions of friendship and intimacy.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/pexels-agk42-2599244%20(3).jpg?itok=Zk39vG7T" width="320" height="213" data-insert-type="image" title="Pexels / Alex Knight" alt="Pexels / Alex Knight"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Pexels / Alex Knight</div>
+<h2>The question most people forget to ask</h2>
+<p>Once you've confirmed credentials, the most important question most people never ask is: <em>"Is your approach evidence-based?"</em></p>
+<p>It sounds academic. It isn't. It's the question that separates practitioners who can explain their method, cite the research behind it, and describe how they know it's working from those who cannot. A competent therapist should be able to tell you, in plain language, what research their approach draws on and how they evaluate whether it's effective.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
-</div>
-</div>
-<p dir="ltr">A few years ago, I remember seeing<sub> </sub>a <a href="https://www.euronews.com/next/2023/06/07/love-in-the-time-of-ai-woman-claims-she-married-a-chatbot-and-is-expecting-its-baby">headline</a> about a woman claiming she married an AI chatbot. I thought it was so ludicrous it had to be "fake news," but it wasn't.</p>
-<p dir="ltr">In 2026, apparently the thought is not so shocking. In a recent <a href="https://blog.cip.org/">report</a> from the Collective Intelligence Project (CIP), a significant portion of the global population is accepting the idea that we can substitute AI chatbots for actual human friends...and even lovers.</p>
 
-<p dir="ltr">The report refers to this phenomenon as "outsourcing emotional regulation &amp; social connection to AI"—a fancy way of saying that when it comes to social relationships, AI is in and people are out.</p>
-<p dir="ltr">In the study, 54% of adult respondents across the globe find AI companions "acceptable for lonely people"; 36.3% have felt that an AI bot "truly understood their emotions." And 17% consider AI romantic partners acceptable, while 11% would personally consider a romantic relationship with an AI bot.</p>
+  </div>
 
-<p dir="ltr">According to futurist <a href="https://www.forbes.com/sites/traceyfollows/2025/11/15/people-are-now-marrying-ai-inside-the-rise-of-synthetic-intimacy/">Tracey Follows,</a> "AI is meeting emotional needs that feel unmet in everyday life. A desire for safety, for predictability and stability. There is a wish to escape the judgment of others perhaps or to reduce relational conflict while guaranteeing one’s companion is emotionally available day or night."</p>
+<p>Some answers signal genuine grounding in the evidence:</p>
+<ul>
+<li><em>"I use cognitive-behavioral therapy, which has strong evidence for anxiety and depression. I'll explain how we'll apply it to what you're describing."</em></li>
+<li><em>"I work integratively—I start with a careful assessment and select strategies based on your specific situation and what the research supports for your type of difficulty."</em></li>
+</ul>
 
-<p dir="ltr">The use of AI companions among young people has been a popular and important topic lately in children's health circles, with many experts expressing deep concern.</p>
-<p dir="ltr">A 2025 <a href="https://www.commonsensemedia.org/research/research-brief-teens-trust-and-technology-in-the-age-of-ai">study</a> from Common Sense Media showed that 72% of teens surveyed have used AI companions, and 33% said they have relationships/friendships with chatbots. A Pew <a href="https://www.pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/">study</a> shows 3 in 10 teens use chatbots daily, with differences in use by gender, race, ethnicity, and household income level.</p>
 
-<p dir="ltr">Other <a href="https://hopelab.org/stories/teen-and-young-adult-perspectives-on-generative-ai/">research</a> found transgender and nonbinary youth were more likely to engage in continued conversation with a chatbot than cisgender participants (43% versus 35%).</p>
-<p dir="ltr">While young people have mixed opinions on whether they feel these companions are a positive addition to their lives and well-being, the potential for AI relationships to have negative or even tragic consequences has gained broad attention.</p>
+<p>Other answers are worth pausing on:</p>
+<ul>
+<li><em>"Scientific studies can't capture what I do."</em></li>
+<li><em>"My approach is unique—I'm one of the few practitioners using it."</em></li>
+<li><em>"I do a bit of everything, depending on what feels right."</em></li>
+</ul>
+<p>None of these responses are automatic disqualifiers. But they should prompt follow-up: What research does your approach draw on, and how do you evaluate whether it's helping?</p>
 
-<p dir="ltr">A 2025 <a href="https://news.stanford.edu/stories/2025/08/ai-companions-chatbots-teens-young-people-risks-dangers-study">investigation</a> by Common Sense Media and Stanford University’s Brainstorm Lab for Mental Health had users pose as teens and found it took very little prompting for chatbots to engage in conversations that condoned unhealthy or dangerous attitudes and behaviors, or failed to direct the user to a real-time human expert or trusted adult. The findings led Common Sense Media to <a href="https://www.commonsensemedia.org/press-releases/common-sense-media-finds-major-ai-chatbots-unsafe-for-teen-mental-health-support">advise against </a>AI companions being used among those under 18 years old.</p>
-
-<p dir="ltr">In February 2024,<a href="https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html"> a 14-year-old boy</a> in Florida took his own life after a chatbot allegedly tacitly encouraged him to do so. In <a href="https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide">another case</a>, a teen suffering from a mental health crisis talked to a chatbot that allegedly discouraged him from seeking help from his parents, even offering to write his suicide note.</p>
-
-<p dir="ltr">In an <a href="https://www.apa.org/monitor/2025/10/technology-youth-friendships">article</a> published by the American Psychological Association, the organization comments that "chatbots lack the ability to challenge [people's] harmful thoughts as a mental health professional would." The APA issued its own <a href="https://www.apa.org/topics/artificial-intelligence-machine-learning/health-advisory-chatbots-wellness-apps">advisory</a> on AI and youth well-being, calling on the AI industry to be guided by mental health safety and well-being. And while the multi-billion-dollar AI industry is being called to account for the harms allegedly associated with use its products, they are also working to refine their products to avoid such outcomes. </p>
-
-<p dir="ltr">Experts also recommend normalizing conversations about use of AI for advice and emotional support—between adults, but especially with young people who may be hesitant to admit their use. Parents and caregivers, as well as health care providers, can be curious (better than being judgmental, of course) and initiate conversations about whether a child uses AI companions, how they feel about, and what the limitations of those "relationships" are, and have a respectful and compassionate dialogue, opening channels of communication that are always recommended.</p>
+<h2>What research says actually predicts outcomes</h2>
+<p>Here's where the science gets counterintuitive.</p>
+<p>Most people search for the right <em>technique</em>: CBT or psychodynamic? EMDR or mindfulness-based? That's understandable. But decades of psychotherapy research have produced a humbling finding: Among approaches that are grounded in solid psychological principles—that is, among evidence-based therapies—differences in outcomes are often modest. <a href="https://psycnet.apa.org/fulltext/2018-23951-001.html">A meta-analysis of 295 studies and more than 30,000 patients</a> found that the therapeutic alliance—the quality of trust and collaboration between client and therapist—predicts success more consistently than any specific method.</p>
 
 
 
   
 
 
-<p dir="ltr">On the policy level, schools can play an important role by integrating media literacy education (sometimes called digital literacy), which includes AI literacy, from an early grade. This includes understanding the economic systems that make our growing use of AI and other digital media products highly profitable, while we consider what contributes or doesn't contribute to our own well-being.</p>
-
-<p dir="ltr">In the meantime, according to CIP, we should expect more dialogue, and potential battles, over the definition of authentic intimacy and relationships. Let's hope the chatbots "let us" have these talks about them without interfering. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/healthy-minds-and-bodies-in-the-digital-age/202602/from-ai-to-bff-could-ai-replace-humans-as" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/healthy-minds-and-bodies-in-the-digital-age/202602/from-ai-to-bff-could-ai-replace-humans-as</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/healthy-minds-and-bodies-in-the-digital-age/202602/from-ai-to-bff-could-ai-replace-humans-as</guid>
-            <dc:creator><![CDATA[Tamara Sobel J.D., C.S.E.]]></dc:creator>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/pexels-agk42-2599244%20%283%29.jpg?itok=NDiksSWn" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Psychoethics: The Normative Study of Emotional Speech Acts]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/-1_12.jpg?itok=4S1AvUFY" alt="Elliot D. Cohen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Catastrophizing</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Psychoethics: The Normative Study of Emotional Speech Acts</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How certain speech acts impair moral agency and how correcting them restores it.</h2><p style="font-size:0.9em;color:#666;">Posted February 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Psychoethics links self-defeating speech acts to impaired moral reasoning and decision-making.</li><li style="margin-bottom:6px;">Perfectionistic "oughts" can cloud moral judgments despite a lack of ethical breaches.</li><li style="margin-bottom:6px;">Overcoming self-damning helps restore rational moral agency.</li>
-            </ul>
-          </div>
-                    <p>In this post, I introduce a new study I call “Psychoethics” based on Logic-Based Therapy (LBT), according to which people deduce self-destructive emotions and behavior from self-defeating speech acts embedded in their emotional reasoning, including demanding perfection, self-damning, "can’tstipation," catastrophizing, and world-revolves-around-me (WRAM) thinking.</p>
-
-<p><strong>Psychoethics</strong>, in turn, studies <em>how such speech acts can impair ethical reasoning, judgment, decision-making, and moral emotions</em>. <em>It holds that the normative dimensions of emotional reasoning and ethical reasoning are intertwined, and many ethical problems are rooted in disturbances in emotional reasoning and/or its confusion with moral reasoning.</em> <em>Hence, addressing the self-defeating speech acts clients perform in their emotional reasoning can help them function more effectively as moral agents.</em></p>
-
-<p>Following are case illustrations:</p>
-<h2>A moral “ought” rooted in a perfectionistic demand about the world that clouds moral reasoning and emotions</h2>
-<p>A client believed that she ought never to offend anyone by what she does or says. This categorical “ought never” she deduced from a perfectionistic demand that, in all possible circumstances, she does nothing to harm (emotionally or physically) anyone else. Hence, when the client refused to go to a movie with her friend that the friend wanted to see, the client experienced intense guilt. This was the case despite the fact that the client did not want to see this movie, and even if she did, she could not afford to go. Thus, even though the client did not do anything unethical—she had no obligation to go to the movie, and it would have been a gratuitous expenditure given her expenses—she felt guilty.</p>
-
-<p>The problem stemmed from the perfectionistic demand the client was making from which she deduced an absolutistic “ought not.” Thus, giving up this unrealistic demand to inhabit a universe in which nothing she ever does hurts anyone would have allowed this client to see that it can be morally permissible to do something someone else objects to when there are morally overriding reasons.</p>
-
-<h2>A self-damning speech act that impairs ethical judgment</h2>
-<p>The same client further deduced that she was a “bad person” because she had offended her friend. This client had a history of childhood emotional abuse by her mother and siblings, who would ritualistically blame and scapegoat her. Consequently, she would often hear the voices of her siblings and mother in her head, calling her names such as "stupid" or “bad.”</p>
-
-<p>This act of self-damning was itself a deduction from her perfectionistic demand. So, giving up this demand could help to dismantle the client’s tendency to self-damn. In any event, giving up this self-damning tendency could allow the client to engage in ethical reasoning that respects her capacity to make rational decisions, without feeling guilty.</p>
-
-<h2>Catastrophic speech acts that preempt a rational utilitarian calculus and/or ethical analysis</h2>
-<p>A client who was prone to catastrophize caught herself catastrophizing about whether to invite her father to her daughter’s son’s 1st birthday, because when she thought about him being there in the same room, it brought back memories of how he would get drunk and sexually molest her when she was a child. But when she considered that he has been sober for the last decade and she was now an adult, she decided to invite her father since he was, after all, her daughter’s child’s great-grandfather. So she dismissed her feelings as irrational. This client also catastrophized about how disclosing the sexual abuse to her daughter might be disastrous, and therefore decided to keep it a secret.</p>
-
-<p>Due to the client’s tendency to catastrophize, she overlooked morally relevant considerations such as whether not informing her daughter about her grandfather’s past might (eventually) put her grandchild at risk. Further, the client was now an adult and her father was in recovery. Still, the client had not yet worked through the childhood trauma, so seeing him in a confined space could be traumatic. So, ethically, the weight ascribed to the client’s father being her daughter’s child’s great-grandfather was arguably outweighed by competing considerations. Hence, the client’s failure to adequately address her tendency to catastrophize could have potentially impaired rational risk assessment and ethical decision-making.</p>
-
-<h2>Conclusion</h2>
-<p>The table below summarizes some of the potential effects of demanding perfection, self-damning, and catastrophizing on moral reasoning and decision-making, and moral emotions.</p>
-<p>The import of such a study cannot be overstated because such self-defeating speech acts in emotional reasoning can have untoward ethical consequences. For example, WRAM tendencies of a politician wielding great power could impair rational utilitarian calculations about the best interests of a nation and/or the world at large. Being able to address such impairments of rational judgment and their effects on moral agency could potentially make all the difference in the world. </p>
-
-
-
+<p>This is sometimes called the "<a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/wps.20238">dodo bird verdict,</a>" after Lewis Carroll's character who declares that everyone has won and all must have prizes. The point isn't that the technique is irrelevant. Exposure-based therapies show strong evidence for treating phobias and PTSD. Trauma-focused CBT and EMDR both have robust support for trauma. Mindfulness-based cognitive therapy meaningfully reduces relapse in people with recurrent depression. These matches are real and worth knowing.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
   
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
+  </div>
+
+<p>But the critical phrase is <em>among evidence-based approaches</em>. The dodo bird verdict applies within that set, not across all therapeutic traditions equally.</p>
+<p>And even within evidence-based therapy, the person delivering it matters enormously. Research on <em>therapist effects</em> shows that the best therapists are roughly twice as effective as the least effective ones, within the same approach. What distinguishes them is not their technique but their ability to build a genuine alliance, notice when something isn't working, and adapt.</p>
+
+<h2>The questions worth asking in a first session</h2>
+<p>Treat the first session as a mutual evaluation. Beyond credentials and the evidence-based question, a few more will tell you a great deal:</p>
+<ul>
+<li><em>"How will we know whether therapy is helping—and how many sessions should I expect?"</em> Both parts matter. A therapist should be able to give you a rough horizon and name what "working" looks like. A vague answer—<em>"Therapy is a long journey, it's hard to say"</em>—without any benchmarks is itself information. <a href="https://books.google.com/books?hl=en&amp;lr=&amp;id=7VsGNYd5PqsC&amp;oi=fnd&amp;pg=PR9&amp;dq=Lambert,+M.+J.+(2013).+The+efficacy+and+effectiveness+of+psychotherapy.+In+Bergin+and+Garfield%27s+handbook+of+psychotherapy+and+behavior+change+(6th+ed.,+pp.+169%E2%80%93218).+Wiley.&amp;ots=zHZ8VVbMU4&amp;sig=tq1deKCbyrxBtXFMfEeaWQWZfqk">Lambert's</a> research has shown that routinely measuring client progress with brief standardized tools, rather than relying on clinical intuition alone, significantly improves outcomes. A therapist who tracks progress isn't being bureaucratic. They're being rigorous.</li>
+<li><em>"What will you do if I'm not improving?"</em> This reveals whether you're working with someone who sees therapy as a fixed process or as a dynamic calibration. A good answer includes the possibility of changing the approach or referring you elsewhere.</li>
+</ul>
+
+<p>If a therapist is defensive when asked these questions, that matters. You are not being difficult. You are being a well-informed patient.</p>
+<h2>Your role in building the alliance</h2>
+<p>The research on therapeutic alliance is sometimes read as a checklist for evaluating your therapist. But that misses something important: Alliance isn't something a good therapist delivers to you. It's something you build together.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>This means the first session is also a chance to show up actively. Share your preferences early; if you want concrete exercises rather than open-ended exploration, say so. If something feels off, name it as soon as you can. <a href="https://www.academia.edu/download/79661228/Voices_Interview_2017_.pdf">Studies show</a> that therapists who receive direct feedback from patients adapt more effectively, and that alliances which survive small ruptures—moments of friction, honestly addressed—end up stronger than those that never encounter any.</p>
+
+<p>You don't need to arrive with a perfect sense of what you need. But you do have permission to be a participant rather than a passive recipient. A good therapist will treat your preferences and reactions as clinical information, not as an inconvenience.</p>
+<h2>When to reassess</h2>
+<p>Early response matters. <a href="https://i-cbt.org.ua/wp-content/uploads/2017/11/Howard-dose_effect-psychotherapy-1986.pdf">Research consistently shows</a> that movement in the first four weeks predicts long-term results. Not cure—movement. A better understanding of what's happening. A sense of being genuinely heard. If after four to six sessions, none of that is present, name it with your therapist. A good one will welcome the conversation, adjust course, or refer you to someone better suited.</p>
+
+<p>If that conversation itself isn't possible—if raising it leads to defensiveness or guilt—that's a clear signal to look elsewhere. Leaving a therapy that isn't working isn't failure or disloyalty. It's a decision the evidence supports.</p>
+<p>France's system is improving. The <a href="https://www.info.gouv.fr/actualite/mon-soutien-psy-12-seances-remboursees-par-an"><em>Mon Soutien Psy</em></a> program now covers up to 12 sessions annually with a networked psychologist—a real step, even if the reimbursement rate leaves much to be desired. The regulatory gaps, however, remain. In that context, knowing which questions to ask matters. So does this: Deciding to look for help in the first place is not a small thing. It takes clarity about yourself and courage to act on it. You deserve care that is worthy of that effort—a professional who can explain what they do and why, adapt when needed, and work with you rather than at you.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-17">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1557343104304-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1557343104304-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content4_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>These questions exist so that you can find that person more reliably; not to make the search harder, but to make it more honest.</p>
+<p><em>This post is co-authored by Dr. Hans Rocha IJzerman (CEO of Annecy Behavioral Science Lab) and Prof. Rebecca Shankland (Professor of Developmental Psychology at Université Lumière Lyon 2). It is an adapted, shorter and translated version of </em><a href="https://solsticepsy.fr/comment-choisir-un%c2%b7e-therapeute-en-france-ce-que-la-recherche-nous-apprend/"><em>Comment choisir un·e thérapeute en France : ce que la recherche nous apprend</em></a><em>, a longer guide on how to choose a therapist in France. </em></p>
 
 <div class="insertArea ck-widget">
 <div class="image-article_inline_full">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-02/Psychoethics%20table.jpeg.jpg?itok=iDHEDD3k" width="639" height="328" data-insert-type="image" alt="Psychoethics Table" title="Elliot D Cohen"></div>
-<div class="caption">Psychoethics Table</div>
-<div class="insertArea--origin subtext">Source: Elliot D Cohen</div>
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-02/pt%20checklist.jpeg.jpg?itok=1D3YB7Qv" width="639" height="357" data-insert-type="image" alt="This checklist was generated based on our text through NotebookLM" title="Hans Ijzerman via Notebook LM"></div>
+<div class="caption">This checklist was generated based on our text through NotebookLM</div>
+<div class="insertArea--origin subtext">Source: Hans Ijzerman via Notebook LM</div>
 </div>
 </div>
 </div>
@@ -269,13 +436,123 @@
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202602/psychoethics-the-normative-study-of-emotional-speech-acts" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/body-meet-mind/202602/seeking-a-therapist-in-france-the-rules-are-complicated" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202602/psychoethics-the-normative-study-of-emotional-speech-acts</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/what-would-aristotle-do/202602/psychoethics-the-normative-study-of-emotional-speech-acts</guid>
-            <dc:creator><![CDATA[Elliot D. Cohen Ph.D., MSW]]></dc:creator>
-            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-tanhauser-11986749.jpg?itok=X9iwsk2d" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/body-meet-mind/202602/seeking-a-therapist-in-france-the-rules-are-complicated</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/body-meet-mind/202602/seeking-a-therapist-in-france-the-rules-are-complicated</guid>
+            <dc:creator><![CDATA[Hans Rocha IJzerman Ph.D.]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2625616799.jpg?itok=snX95Yya" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Love Gets Quiet]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-10/IMG_3886-removebg-preview.jpg?itok=FK80qaWa" alt="Eli Weinstein LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Love Gets Quiet</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Recognizing and reversing emotional drift.</h2><p style="font-size:0.9em;color:#666;">Posted February 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Silence among couples — aka emotional drift — hurts relationships more than fights.</li><li style="margin-bottom:6px;">Curiosity rebuilds closeness in relationships.</li><li style="margin-bottom:6px;">Love should be tended to with daily care, attention, and presence.</li>
+            </ul>
+          </div>
+                    <p>There’s a kind of silence that settles into relationships that isn’t the same as the easy quiet between two people who feel at peace with each other. It’s the kind that creeps in when connection fades, when couples that once shared dreams and late-night conversations suddenly find themselves talking mostly about grocery lists and whose turn it is to unload the dishwasher.</p>
+
+<p>Maybe you’ve caught yourself thinking, “We don’t fight, but we don’t really talk either.” Or maybe it feels more like, “We’re roommates, not partners.” If so, you’re in what I call <em>emotional drift</em>, and I see it all the time in my practice.</p>
+<h2>Why Drift Is More Dangerous Than Conflict</h2>
+<p>Here’s what surprises most couples: Drift does more damage than fighting ever could. Arguments can be repaired. Silence? Silence grows roots. It builds layer by layer until one day you look across the room and barely recognize the person you promised forever to.</p>
+
+<p>As I write in my book <em>From I Do to We Do:</em> “Fighting isn’t failure; it’s proof you still care enough to show up. Silence is the slow freeze that convinces you there’s nothing left to say.” </p>
+<p>John Gottman said it best: “It’s not anger that ends marriages; it’s indifference.”</p>
+<p>Drift doesn’t happen overnight. It builds during the busy seasons; missed date nights, half-finished conversations, moments when one person feels unseen but stays quiet, while the other shuts down to avoid conflict. Before long, “us” turns into two people simply managing a household.</p>
+
+<h2>The Couple Who Never Fought</h2>
+<p>I once worked with a couple that proudly told me, “We never fight.” It sounded like a win until I realized what they really meant. They weren’t fighting because they’d stopped <em>trying.</em> They were polite. Kind. Totally disconnected.</p>
+<p>They’d chosen peace over closeness, and that peace was quietly starving their marriage.</p>
+
+<p>When relationships get this quiet, they lose color. There's less curiosity. Less reaching. Less noticing. The emotional pulse slows to almost nothing.</p>
+<p>I call this <em>flatlining love</em>. Not because the love is dead, but because it has stopped being tended to. Like any muscle, connection weakens without movement.</p>
+
+<p>But here’s the hopeful part: <em>Drift is reversible.</em></p>
+<h2>What Actually Brings Couples Back</h2>
+<p>That same couple didn’t reconnect through some grand gesture or tearful breakthrough. What changed things was simple: <em>curiosity</em><strong>.</strong></p>
+<p>They started asking each other real questions again. Not about logistics, but about life.</p>
+<ul>
+<li>“What’s been on your mind this week?”</li>
+<li>“What have you been thinking about that you haven’t said out loud?”</li>
+<li>“What’s stressing you out right now?”</li>
+</ul>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>That cracked the silence open. It reminded them that underneath the routines were still two people who wanted to be seen.</p>
+<p>Curiosity is the antidote to indifference. You don’t need fireworks, just a genuine <em>turning toward.</em></p>
+<p>In my book, I share a simple tool called “The Two-Minute Turn Toward.” Once a day, take two minutes to check in—not about chores or kids, but <em>you.</em> Ask, “What’s something you need today?” or “How are you, really?” Those tiny turns toward each other rebuild emotional safety faster than any grand gesture. </p>
+
+
+<h2>What You Can Do Starting Tonight</h2>
+<p><strong>Ask one real question.</strong> Skip the logistics and go for the heart. Ask, “What’s something you’ve been wanting to talk about?” or “What do you wish we did more of together?” ans then just listen. Don’t fix it. Don’t defend. Just <em>listen.</em></p>
+<p><strong>Build in small moments of connection.</strong> Emotional intimacy doesn’t live in the big gestures; it lives in the small stuff. A genuine “How are you?” when you get home. Eye contact across the room. A text midday that says, “Thinking of you.” A hug that lasts longer than two seconds (or use the Disney rule: Don’t let go until they do). Those moments count more than you think.</p>
+
+<p><strong>Check in weekly.</strong> I call this the “Weekly We-Do Check-In.” It’s short, honest, and keeps connection from slipping through the cracks. Pick one night, maybe at bedtime, to talk about the relationship itself. You’re probably scrolling or watching TV anyway. Take 10 minutes. Ask, What went well this week? Where did we miss each other? What would help you feel closer? It sounds simple, but most couples never make space for it.</p>
+
+
+
+  
+
+
+<p><strong>Name what’s happening.</strong> Sometimes just putting words to the distance changes everything: “I feel like we’ve been talking less about what really matters. I miss you.” That vulnerability <em>is</em> connection.</p>
+<p><strong>Listen without an agenda.</strong> When your partner opens up, resist the urge to solve or defend. Reflect back what you hear (“It sounds like you’ve been feeling…”) and stay curious. I call this <em>listening for meaning, not mastery</em>. You’re not trying to be right; you’re trying to understand.</p>
+
+<h2>The Truth About Emotional Drift</h2>
+<p>Drift is sneaky. It doesn’t announce itself with yelling or tears. It shows up quietly, in the in-between spaces, until one day you realize how far apart you’ve drifted.</p>
+<p>But connection can always be rebuilt. It starts small, with a question, a glance, a two-minute check-in, a choice to reach out instead of retreat.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Love doesn’t fade because people stop caring. It fades because they stop <em>showing up</em> in the small ways that matter most.</p>
+<p>But you can start showing up again tonight: One question. One moment of real listening. One small turn toward each other.</p>
+<p>Marriage isn’t about avoiding the noise; it’s about learning how to make music again together.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/from-i-do-to-we-do/202510/when-love-gets-quiet" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/from-i-do-to-we-do/202510/when-love-gets-quiet</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/from-i-do-to-we-do/202510/when-love-gets-quiet</guid>
+            <dc:creator><![CDATA[Eli Weinstein LCSW]]></dc:creator>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-alex-green-5700170.jpg?itok=vAYERPk4" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
