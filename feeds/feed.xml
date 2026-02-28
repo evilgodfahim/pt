@@ -4,180 +4,246 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 20:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 21:22:44 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 20:27:56 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 21:22:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to Change Your Mind From the Outside In]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-07/PXL_20240616_220456808.PORTRAIT_3-removebg-preview.png.jpg?itok=wV86QNB1" alt="E. Paul Zehr Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mindfulness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Change Your Mind From the Outside In</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">It's hard to alter how we think, but our actions can speak louder than thoughts.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[AI in, Garbage Out: Is Meta-Analysis in Danger?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/e1_edited.jpg?itok=z6uf8KQT" alt="Sebastian Ocklenburg, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Meta-Analysis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI in, Garbage Out: Is Meta-Analysis in Danger?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Meta-analysis is an important method in psychology, but “AI slop” threatens it.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Mindfulness changes brain rhythms toward those associated with calm.</li><li style="margin-bottom:6px;">Brain rhythms are very hard to change directly by thoughts.</li><li style="margin-bottom:6px;">Movement and breathing can entrain brain rhythms into attractor states.</li><li style="margin-bottom:6px;">Mindful movement and breath work can help produce and sustain a calm state of mind form the outside in.</li>
+              <li style="margin-bottom:6px;">Meta-analysis is crucial for integrating research findings across several psychological studies.</li><li style="margin-bottom:6px;">"Garbage in, garbage out" is a core problem in meta-analysis.</li><li style="margin-bottom:6px;">Fake AI slop publications are on the rise.</li><li style="margin-bottom:6px;">If AI slop is not filtered out in meta-analysis, the quality of psychological research will decrease.</li>
             </ul>
           </div>
-                    <p>Maybe we should all just calm down, OK? And having someone tell us to calm down will surely enable us to realize, hey, we should probably calm down. And we'll just think about being calm, and bingo bango calmness will wash over us. Maybe. For some people, that is for sure possible. But not for most of us. For most of us, though, trying to think ourselves into being anything except more frustrated is very difficult, especially when we start trying to change how we react to things. That is, when we try to alter our thoughts on the inside so that our outside behaviors change. But what if we go the other direction? What about going outside in?</p>
+                    <p>Sometimes, psychological studies on the same topic show different results. To know what the evidence looks like when the data from all studies on a topic are combined, psychologists often conduct so-called <em>meta-analyses</em>. In a meta-analysis, the psychological evidence from a variety of sources is statistically combined. In this way, meta-analysis is crucial for highlighting the current best available evidence to optimize healthcare decisions for mental-health problems.</p>
 
-<h2>It's hard to get the thing that's doing the thinking to change its thoughts</h2>
-<p>Neurobiological hallmarks of a calm mind include alpha (8–12 Hz) and theta (4–8 Hz) brain rhythms. These contrast with high arousal beta (12–30 Hz) and gamma (&gt;30 Hz) waves. The point here, though, isn't about diving into details around EEG measures of brain activity. It's instead to notice that the brain rhythms associated with calm are very much lower than those associated with arousal.</p>
+<h2>“Garbage in, garbage out” is a core problem in meta-analysis</h2>
+<p>Meta-analysis is, however, not without problems. The quality of a meta-analysis critically depends on the quality of the research studies integrated in the meta-analysis. If the quality of integrated studies is low, the quality of the evidence synthesis is low, too, a phenomenon that has been aptly named GIGO, for “Garbage in, garbage out” (<a href="https://online.ucpress.edu/collabra/article/8/1/32571/120249/Garbage-In-Garbage-Out-Evaluating-the-Evidentiary">Sotola and co-workers, 2022</a>). The core problem with “Garbage in, garbage out” is that readers rarely have the time to check the quality of all studies included in a meta-analysis. Therefore, it is often difficult to distinguish between a meta-analysis based on high quality studies that yields robust findings and one that is based on low-quality, biased studies. This is why guidelines on the reporting of meta-analyses, like the widely cited PRISMA 2020 statement (<a href="https://www.bmj.com/content/372/bmj.n71.long">Page and co-workers, 2021</a>), typically include the suggestion to include a measure of study quality and risk of bias for individual studies included in the evidence synthesis. However, the traditional ways of assessing bias and study quality may not be enough for the incoming wave of so-called “AI slop” papers or fraudulent, AI-generated articles. While AI can be a powerful tool to support psychological science, fake articles with AI-generated data and results pose an existential threat to psychological research.</p>
 
-<p>Brain rhythms can be entrained by what we think and, especially relevant here, by what we do. That is, certain behaviors can induce changes in brain states that may start with specific cues but which have global effects. This is like creating an "attractor state" where a dominant rhythm is like a magnet pulling and entraining the activity of other brain regions into a different activation state, rhythm, and level. We tend to be much better at ramping things up to high arousal than we are at bringing things down, so here I mainly mean pulling and entraining brain activity from higher frequencies to lower ones.</p>
+<h2>AI slop publications are on the rise and they threaten psychological science</h2>
+<p>A recent article in <em>Nature</em> highlighted how big this problem is in computer science, a field that faces a fast increase of the volume of paper submissions to prestigious conferences, with clear indicators that some are entirely AI-generated and contain fraudulent fabrications of data (<a href="https://www.nature.com/articles/d41586-025-03967-9">Gibney, 2026</a>). While psychology is not computer science, as it depends more heavily on patient data and not computer code, it has been convincingly shown that AI can generate fraudulent clinical articles that look authentic at first glance (<a href="https://www.jmir.org/2023/1/e46924">Májovský and co-workers, 2023</a>).</p>
 
-<h2>Steer your mind indirectly</h2>
-<p>This is where outside in comes to play. Some may be able to change their brain rhythms, and static meditation is a way to learn how to do that, but most of us have a very difficult time with this at first. So why not give your brain a helping hand by changing how you move and how you breathe? Breathing more deeply at a lower frequency has a calming effect on the mind. So does moving slowly.</p>
+<h2>“AI in, garbage out” could become a real problem for psychological science</h2>
+<p>Only through in-depth expert analysis for markers of AI-generation in illustrations, analyses, and references can AI slop be detected. This poses a major issue for meta-analysis in psychological research. While many “AI slop” papers may never be published in traditional journals, some may escape the scrutiny of expert reviewers and become published in traditional psychological journals. Others may be published on preprint platforms with less editorial scrutiny than academic journals and still make it on the inclusion list of some meta-analyses. Over time, this may lead to an “AI in, garbage out“ (AIGO) phenomenon in which the quality of psychological meta-analysis will significantly deteriorate. It is therefore crucial that psychological science finds a way to include screening for and weeding out “AI slop” papers in guidelines for meta-analysis. If “AI slop” papers are not systematically excluded from meta-analysis, their results may be wrong. This could have devastating consequences, for example, if decisions on which therapy to use to treat patients are based on the results of a biased meta-analysis.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>Try to move and breathe slowly while trying to ramp yourself up. Or, conversely, try to remain calm and breathe slowly while you rip around your house in a frenzy. All breath and movement has an entraining sensory effect on the entire nervous system. If we breathe slowly and controlled and move slowly, everything slows down. The reverse is also true. I think we know this intuitively, but it's easy to forget that you already know how to breathe. I think part of this is because, just like our invisible and often racing thoughts, we can't usually see our breaths either.</p>
-
-<p>But you can see your movements. And you can control the speed of those.</p>
-<h2>Try to turn your brain inside out so you can go outside in</h2>
-<p>I am a huge supporter of meditation and mindfulness. But I prefer the concept of mindful movement. Since I was in my early teens, I've always been drawn to moving meditation and the Zen of martial arts. In my own daily practice of Japanese, Okinawan, and Chinese martial arts, I seek a centred state of mind and use my movements as a neurohack to entrain my thoughts. I also do more "traditional" meditation, but I'm honestly not very good at it. I have gotten a lot better, though, moving more slowly and mindfully, at focusing on my breath coordinated with my movements to alter my state of mind.</p>
-
-<p>The take-home here is to use something that you can see and can regulate directly to alter things you cannot see or control directly. Use your physical body and the sensations associated with movement to entrain your brain activity and thoughts and mind that arise from those. I strongly encourage folks to give it a try. You really can hack your brain by moving from the outside in and alter your mind inside out.</p>
-
-
-<p>(c) E. Paul Zehr (2026)</p>
+  </div>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/black-belt-brain/202602/how-to-change-your-mind-from-the-outside-in" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/black-belt-brain/202602/how-to-change-your-mind-from-the-outside-in</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/black-belt-brain/202602/how-to-change-your-mind-from-the-outside-in</guid>
-            <dc:creator><![CDATA[E. Paul Zehr Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger</guid>
+            <dc:creator><![CDATA[Sebastian Ocklenburg, Ph.D.]]></dc:creator>
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/Screenshot%202025-10-28%2012.44.49%20PM.png.jpg?itok=2aRWSwSk" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-7437489.jpg?itok=p8zrBWzm" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Setting Boundaries in Your Romantic Relationship]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-02/Jennifer-Caspari.jpg?itok=C0WZgxAi" alt="Jennifer  Caspari Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Setting Boundaries in Your Romantic Relationship</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Signs you may want to set relationship boundaries and how to do it.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Ginger Rule: Why Leaders Need Better Transitions]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Damian-Salas.jpg?itok=0WjGMqUc" alt="Damian Salas MBA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Attention</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Ginger Rule: Why Leaders Need Better Transitions</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How attention residue affects executive load and performance.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Boundaries define expectations and appropriate behavior within a relationship.</li><li style="margin-bottom:6px;">Setting and implementing boundaries facilitates trust and cohesion in romantic relationships.</li><li style="margin-bottom:6px;">Boundaries may be needed if the relationship feels out of balance or you have lost your sense of self.</li><li style="margin-bottom:6px;">To start, think about what you need to feel safe and secure in your relationship.</li>
+              <li style="margin-bottom:6px;">Frequent task switching leaves part of your attention on what you just left.</li><li style="margin-bottom:6px;">Leaders shift between emotional and analytical roles all day.</li><li style="margin-bottom:6px;">Scrolling between meetings adds stimulation, not recovery.</li><li style="margin-bottom:6px;">Brief transition rituals can reduce accumulated switching costs.</li>
             </ul>
           </div>
-                    <p>Relationships are regulated by rules and expectations about how to act, which define what is expected and appropriate behavior within the relationship. Rules, or boundaries, are believed to serve several functions, including regulating behavior and facilitating trust and cohesion in the relationship.</p>
+                    <p dir="ltr">I had a founder tell me last month that she felt fine until about 2 p.m. every day. After that, everything got harder. Not the work itself—the switching. She'd go from a product roadmap meeting to a termination conversation to a financial model review, back-to-back, no buffer. By the time she got to investor prep in the late afternoon, she described it as trying to think through gauze.</p>
 
-<p>Relationship research has shown that there are implicit and explicit rules in romantic relationships as well as a hierarchy of boundaries, where some boundaries are given more importance. For example, research participants generally report infidelity as a more serious boundary violation, whereas not respecting a boundary related to time spent on hobbies was less serious.</p>
+<p dir="ltr">She wasn't burned out from volume. She was burned out from transitions.</p>
+<p dir="ltr">This pattern shows up constantly in the founders and leadership teams I work with—and most of them misdiagnose it. They think they need more sleep, better systems, or a vacation. Sometimes they think they need a new cofounder or a different role entirely. What they actually need, in most cases, is a two-minute ritual between meetings.</p>
 
-<p>Signs that setting or changing boundaries in your relationship would be helpful include:</p>
+<h2 dir="ltr">What's Happening When You Switch</h2>
+<p dir="ltr">Researchers call it <em>attention residue</em>—when you switch tasks before finishing the first one, part of your cognitive processing stays tangled up in whatever you just left. Performance on the next task drops, not because you lack focus, but because attention doesn't flip like a light switch (Leroy, 2009). This isn't a willpower problem. It's architectural.</p>
+
+<p dir="ltr">The broader task-switching literature confirms the pattern: Responses are substantially slower after a switch, and usually more error-prone (Monsell, 2003). Small, consistent penalties that compound across a ten-hour day. Now imagine what those look like on a founder's actual Tuesday.</p>
+<h2 dir="ltr">Why Leaders Get Hit Harder</h2>
+
+<p dir="ltr">Most knowledge workers switch between similar types of analytical tasks. Leaders don't necessarily get that luxury. </p>
+<p dir="ltr">If you're a leader, you may go from financial modeling to an emotional conversation with a struggling employee to risk assessment on a partnership deal to negotiating terms with a vendor. Each of those requires something fundamentally different from you—analytical precision in one conversation, emotional attunement in the next, risk tolerance after lunch, political navigation before dinner. You're not repeating the same type of thinking. You're reloading a completely different operating mode every time.</p>
+
+<p dir="ltr">And every time you shift without a beat of closure, the switching cost from the last mode carries into the next one. By mid-afternoon, what you're experiencing isn't laziness. Everything just takes more effort—decisions feel heavier, your patience thins out, and the kind of creative thinking that came easy at 9 a.m. won't show up, no matter how hard you push.</p>
+
+<p dir="ltr">That's also where burnout sneaks in—not necessarily, though, as emotional collapse. Instead, you may start detaching from the work or stop trusting that your effort moves the needle. Most founders I coach don't recognize this creeping pattern until it's been running unchecked for months.</p>
+<h2 dir="ltr">Why Scrolling Isn't a Break</h2>
+
+
+<p dir="ltr">I get pushback on this one constantly. "I just check Instagram for two minutes between calls. It helps me decompress."</p>
+<p dir="ltr">It probably doesn't. Social media platforms are engineered around novelty, emotional triggers, and intermittent rewards—the same variable reinforcement structure that keeps people at slot machines. From an attention standpoint, scrolling doesn't give your brain disengagement. It gives your brain different engagement. You don't come back from scrolling rested. You come back with more noise in your head than when you started.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">This isn't a moral argument about screen time. If you actually want to let go of the last meeting, you need stillness—not a different kind of busy.</p>
+<h2 dir="ltr">The Ginger Rule</h2>
+<p dir="ltr">In sushi restaurants, pickled ginger exists for one reason—to clear the taste of the last piece so you can actually experience the next one. Leaders need something equivalent between cognitive contexts: a boundary rather than a break.</p>
+
+
+
+  
+
+
+<p dir="ltr">Here's what I teach founders to do in the gap:</p>
 <ul>
-<li>The relationship feels out of balance in terms of the degree of autonomy and dependence</li>
-<li>You feel like you have lost your sense of self</li>
-<li>Feeling more irritable, stressed, anxious, angry, or resentful toward your partner</li>
+<li dir="ltr">Breathe first, think second. Thirty to sixty seconds of slow exhalation changes something. Your shoulders drop. Your jaw unclenches. Founders tell me it's the fastest gear shift they've found.</li>
+<li dir="ltr">Name your entry point for what's next. Not the whole task—just the first move. "Pull up the cap table and check the dilution math." When you know exactly where you're starting, you don't waste the first ten minutes figuring out what to do.</li>
+<li dir="ltr">Close the last thing for real. Shut the doc, archive the chat, write one sentence about where you left off. If you can still see it, part of you is still working on it.</li>
+<li dir="ltr">Move your body. Stand up, change rooms, shift your posture. Sounds trivial. But changing what your body is doing helps your mind stop replaying what it was just doing.</li>
+<li dir="ltr">Nothing new comes in during the gap. No email. No Slack. No feed. The whole point is to let the last thing finish landing. New input defeats that.</li>
 </ul>
 
-<p>Boundaries can help build security and trust, and having security and trust also makes it easier to set, implement, and respect boundaries.</p>
-<h2>How to Set Helpful Boundaries</h2>
-<ul>
-<li>First, take some time to think about and write down your boundaries. Your boundaries are what you need to feel safe, secure, and comfortable in your relationship, and how you need your partner to behave in the relationship. Think about times you felt most safe and comfortable in your relationship, and times you felt the least safe and comfortable. How were you interacting with your partner during these times? This may help highlight your boundaries.</li>
-<li>You can start by writing down your boundaries in any order. Then, rewrite your boundary list in order of importance. Which boundaries are “hard” or non-negotiable? Put these at the top, with your most important boundaries first, and then list the rest in order of importance.</li>
-<li>Next, think about how to put your boundaries into practice and the consequences for your partner disrespecting or crossing your boundaries. For example, one of your hard boundaries may be no yelling during conversations, and the consequence of disrespecting the boundary is that the conversation will immediately be stopped.</li>
-<li>Then, talk with your partner about one of your boundaries. A helpful way to talk about a boundary is to clearly and simply state what you need/want. You can use phrases such as “I need…,” “I would feel more comfortable if…,” “It would help me and our relationship if…” If you are feeling nervous about talking about a boundary with your partner, try writing down what you want to say and saying it out loud to yourself a few times before you talk to your partner.</li>
-<li>Start with a “soft” boundary—something you would like to happen, yet it is not of top importance, and you can be flexible with it.</li>
-<li>Reflect on your experience with setting the boundary. Did you run into any obstacles? If so, how can these be overcome? What was your internal experience with the boundary, and how did the boundary impact your relationship?</li>
-<li>Commit to practicing the boundary for at least a couple of weeks to a month so you can gather information and see how it goes.</li>
-<li>When you feel more comfortable setting soft boundaries, move to setting a hard/non-negotiable boundary. Or, if you already feel comfortable setting boundaries, you can start with a hard boundary.</li>
-<li>A boundary doesn’t mean anything if it can be crossed without consequence. So, practice setting and reinforcing a clear consequence if your partner crosses a boundary.</li>
-<li>If your partner violates your boundary, practice clearly, calmly, and firmly stating that the boundary has been crossed. Remind them of the boundary and the consequences of crossing it. For example, “I know you are upset right now, and you crossed my boundary by yelling at me. That is not OK with me, and I am going to end this conversation. We can talk again when we are both feeling calmer and can maintain a calm tone of voice.”</li>
-<li>Practice patience and compassion. No one is perfect, and a boundary may be crossed occasionally. Within reason, and if the violation is not abusive, practice patience and compassion and allow your partner the opportunity to change their behavior and respect your boundaries moving forward.</li>
-</ul>
+<p dir="ltr">Most founders resist this for about a week. Then they can't believe the difference.</p>
+<h2 dir="ltr">The Larger Point</h2>
+<p dir="ltr">If every afternoon feels like you're thinking through wet concrete and you can't figure out why, the problem probably isn't your calendar. It's what's missing between the things on your calendar. Most leadership development focuses on what to do—not on how to end one thing before starting the next. We just expect the brain to keep up.</p>
 
+<p dir="ltr">It doesn't. But give it a beat of structured closure, and it will surprise you with what it has left.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/living-well-when-your-body-doesnt-cooperate/202602/setting-boundaries-in-your-romantic" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/living-well-when-your-body-doesnt-cooperate/202602/setting-boundaries-in-your-romantic</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/living-well-when-your-body-doesnt-cooperate/202602/setting-boundaries-in-your-romantic</guid>
-            <dc:creator><![CDATA[Jennifer Caspari Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need</guid>
+            <dc:creator><![CDATA[Damian Salas MBA]]></dc:creator>
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/pexels-mikhail-nilov-6963034.jpg?itok=0FuPyQ57" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2709674949.jpg?itok=NJRjKobr" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Kids Today: Thoughts From Research, Practice, and the Classroom]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/Jobes.jpg?itok=WcdJJkiQ" alt="David A. Jobes Ph.D., ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adolescence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Kids Today: Thoughts From Research, Practice, and the Classroom</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Young people can be unfairly and negatively judged by older generations.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Gaining Clarity Through Aging]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/b%20jaffe.jpg?itok=ZR1MEgOD" alt="Barbara A Jaffe Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Aging</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Gaining Clarity Through Aging</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Aging reminds me that whatever I want to do, now's the time.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Every generation struggles with the challenges of their youth.</li><li style="margin-bottom:6px;">Today's youth are often criticized for their use of cellphones and social media.</li><li style="margin-bottom:6px;">Perspectives from clinical research, practice, and the classroom reveal the valuable insights of youth.</li><li style="margin-bottom:6px;">There is virtue in not judging kids today who simply need forums to make their voices heard.</li>
+              <li style="margin-bottom:6px;">Aging requires us to contemplate and reflect and ultimately act on our needs and desires.</li><li style="margin-bottom:6px;">Aging can teach us the value of self-care.</li><li style="margin-bottom:6px;">We must do what we want for as long as we can.</li><li style="margin-bottom:6px;">Following our bliss helps us stay productive and joyful.</li>
             </ul>
           </div>
-                    <p>Across time and generations, elders have often bemoaned with exasperation, “Kids today!” As a quintessential “baby boomer,” I often hear same-aged peers complain about youth (e.g., those born between the late 1990s and early 2000s). While developmental psychologists eschew using broad labels to describe large generational cohorts (i.e., the Silent Generation, Baby Boomers, Gen X, Millennials, Gen Z, and Gen Alpha), these labels tend to stick and become integrated into our cultural narrative, evoking common associations and perceptions. To this end, I would like to reflect a bit on young people who make up Gen Z and Gen Alpha—youth who are presently in their teens and 20s—from three distinct perspectives: clinical trial research, psychotherapy practice, and the college classroom.</p>
+                    <p>I view age as just a number. Yet I feel delighted when someone reacts with shock when learning of my actual age. At almost 72, reality reminds me I am traversing a narrower life trajectory than 10 years ago. My more finite road accommodates fewer friends. Some who once populated my life detached themselves; others, I gently removed. My acceptance of these friendship losses results from my wisdom gained over many lived decades. I once fought for such friends: I called, made plans, stayed in touch, even when they didn’t. Today, I let them go. There just aren’t enough hours in my week to concentrate on those who have withered away from me. While I still appreciate them, honestly, <em>I am just full</em>. Full of those in the past who showed a cruel side of themselves that I ignored.</p>
 
-<p>For 20+ years, I have been immersed in randomized controlled trials (RCTs) of a suicide-focused treatment called the "Collaborative Assessment and Management of Suicidality" (CAMS—Jobes, 2023). While various RCTs of CAMS are underway in the U.S. and abroad, I am presently focusing on three NIMH-funded studies with young adults, college students, and teens who are suicidal. The “Suicide Status Form” (SSF) is central to CAMS and is a multipurpose tool for assessing, treating, tracking, and documenting clinical outcomes. In the first session of CAMS, patients rate SSF constructs (i.e., psychological pain, stress, agitation, hopelessness, self-hate, and overall risk of suicide) and respond to qualitative prompts writing out descriptions of these variables. Moreover, patients are prompted to write out reasons for living and dying, respectively, and describe the “one thing” that would make them no longer suicidal. </p>
+<p>I’m patient, loyal, and understanding until I am not. Then, the rope that has held the friendship boat in place is permanently cut. With detachment, I peacefully watch my loyalty and devotion float away. I am fine with this permanent separation. Today, I have fewer friends, but they have permanent residency within my heart. A positive result of my aging journey.</p>
 
-<p>Thirty-five years of studying SSF responses has provided a valuable window into the thinking of people who are suicidal. In terms of contemporary youth, we are currently seeing some noteworthy SSF responses that are unusually existential and focused on social determinants. For example, when asked about shame, one 12-year-old said, “Yes, I am ashamed of my existence!” An 11-year-old boy noted “the brain-rot of my peers.” In a college student RCT, we saw comments such as: “I will always be in debt” and “I’ll never own a house.” Others noted “the earth is dying” and “our political divisions.” One female college student described her self-defined “drivers” of suicide as “racial and gender oppression” and “there is no point in living.” Finally, an eighth grader grimly summed up his reasons for dying, writing, “The boomers have messed up the world for us!” This particular response struck me and, in part, helped inspire this blog. </p>
+<p>I gracefully accept my wrinkles; my non-botoxed forehead; my jellied arms and gravity-sagging breasts and bottom. I have proudly earned every candle on my next birthday cake. I am grateful for each day I am given. When someone asks me how my day is going, I say, “I woke up today, so it’s already a wonderful day.”</p>
 
-<p>As a university professor, I am used to working with young people; as a clinician, I have seen countless teens, college students, and young adults over four decades. When I generally reflect on young people, what is common across generations is more striking than what is different. However, unlimited access to internet information, the explosion of social media, the Covid-19 pandemic, and artificial intelligence have been massively impactful on us all. One could argue that contemporary young people have encountered <em>species-level</em> changes without parallel in history. While this may be debatable, it is nevertheless fair to say that a lot has happened over the last 20 to 30 years that may uniquely and profoundly impact young people today.</p>
+<p>Through aging, I have learned about self-care and self-love, which, for years, meant <em>selfish </em>to me, but I was wrong. I must take care of myself and fulfill my own needs before I can help others. I am learning to create healthy boundaries and to say "no" more. I am still a work-in-progress in this endeavor, for my default is to worry about others more than myself, to help, even when I am exhausted or feeling unwell. But I have come a long way from believing my mother‘s mantra that “mothers of only sons are selfish.” (I have three sons). I worked through this misguided adage through deep introspection. <em>Barbara</em>, I reflected, <em>you are the opposite of selfish</em>. In fact, my dear therapist once reminded me, “I don’t think you can be selfish even if you tried.” And, so, I have embraced "self-care" and my alone-time trips to the ice cream store for my favorite waffle cone, filled with a double scoop of salty caramel truffle. I enjoy an occasional facial. Frequently, I go to a nearby coffeehouse for my special four-shot Americano instead of making my own cup at home. All definitions of my own self-care.</p>
 
-<p>I am currently teaching an undergraduate class ostentatiously titled “The Psychology of Living,” and this class has been a joy. When I think about my students, I reflect on media-based complaints, critiques, and criticisms of young people today, who are notoriously stuck on their phones, obsessed with their social media, frantically seeking ever more likes. One research piece noted that an over-reliance on technology and Covid-related social isolation has led to youth of today literally talking less than previous cohorts. However, my Psych of Living students do not conform to this research finding, as they are engaged and active in our class. They are initially riveted by an exploration of lessons learned from suicide research and continue to come alive as we pivot to life as a journey, existential philosphy, the psychology of awe, the unconscious, living intentionally, mental health, post-traumatic growth, possible lives, love/relationships, mindsets, grit, spirituality, values, and how to create a life worth living with purpose and meaning. In turn, my students actually have a lot to say about all these topics. But for this to happen, I must ensure that our class is a “safe space." I tend to use silences to help draw them out, and I sometimes ask all of them to comment on a topic. While this approach creates some discomfort, it also helps students who might not otherwise speak up to find their voice. And when they do speak up, they discover validation and support from their classmates and me. Last week, for example, I led a class exercise wherein students spent time reflecting on their purpose in life. As each student shared, it became abundantly clear through their emotions, laughter, and connection with each other, that they relished the chance to talk, revealing vulnerable versions of themselves not otherwise shown outside of class. Having mulled over what my students shared, I have concluded that today's young people are too often unfairly judged and criticized by their elders. In turn, I believe that we elders must endeavor to create more and better opportunities for young voices to be expressed and heard.</p>
+<p>In my seventh decade, I don’t wait for others to fulfill my needs. They can’t read my mind. Even my husband of almost 50 years doesn’t always know what I require, but we accept that our personal requirements are different. The beauty of aging with someone I love dearly is that I acknowledge what brought us together, and at the same time, I accept our differences. My happy place is in my office, writing, or reading outside in my swing chair. I am blissful when I am with my grandchildren and babysitting to help our children. I adore cooking again, after a hiatus of about eight years. I get great joy from choosing my colorful clothing every day, even if I have no plans to leave my house.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>Years ago, I visited a prestigious private boys' school in Washington, D.C., after some troubling mental health-related incidents. My consultation involved meeting with parents on a Thursday evening, followed by a Friday morning meeting with all the upper school students (300+ teens), with a final faculty meeting in the afternoon. My plan was to present a well-disguised case of a teenager from my clinical practice. My patient, who had high-achieving parents, was emotionally distraught as he struggled with academics, peers, parents, and too many extracurricular activities and sports. I presented the case in each meeting before shifting to Q&amp;A. On Thursday night, I saw parents squirm uncomfortably as I presented my case. On Friday morning, many nodding heads showed that the students readily identified with the case, and later, the faculty also gave knowing looks. My takeaway from the consultation? Parents complained their sons <em>refuse to talk to them! </em>The students bitterly complained that their parents <em>refused to listen to them!</em> And in exasperation, the faculty queried: <em>What should they do with all</em> <em>the crazy parents</em>?</p>
+  </div>
 
-<p>For my part, I am working hard to neither judge nor look down my nose at “kids today,” and I will continue to endeavor to create opportunities for young voices to be expressed, heard, and validated—the very thing I craved when I was young.</p>
-<p><em>If you or someone you love is contemplating suicide, seek help immediately. For help 24/7, dial 988 for the 988 Suicide &amp; Crisis Lifeline, or reach out to the Crisis Text Line by texting TALK to 741741. Outside of the U.S., visit the </em><a href="https://www.psychologytoday.com/us/basics/suicide/suicide-prevention-hotlines-resources-worldwide"><em>International Resources page for suicide hotlines in your country</em></a>.</p>
-
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-life/202602/kids-today-thoughts-from-research-practice-and-the-classroom" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-psychology-of-life/202602/kids-today-thoughts-from-research-practice-and-the-classroom</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-psychology-of-life/202602/kids-today-thoughts-from-research-practice-and-the-classroom</guid>
-            <dc:creator><![CDATA[David A. Jobes Ph.D., ABPP]]></dc:creator>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-yankrukov-8199162.jpg?itok=d7zOBaH2" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[GLP-1s and the Thin Ideal]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/CSW_2817-Edit-Edit-2-removebg-preview.jpg?itok=c_AiFAuB" alt="Carolyn Karoll LCSW-C, CEDS-S" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Eating Disorders</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">GLP-1s and the Thin Ideal</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What eating disorder recovery reveals about the risks.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">GLP-1 access carries psychological impact in a culture that equates thinness with worth.</li><li style="margin-bottom:6px;">Using GLP-1s to pursue thinness can reinforce body surveillance and shame.</li><li style="margin-bottom:6px;">Appetite suppression may mask or reactivate eating disorders.</li><li style="margin-bottom:6px;">Weight regain after stopping GLP-1s can intensify body dissatisfaction.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/towfiqu-barbhuiya-msQB97gUxY0-unsplash.jpg?itok=9vgD0x31" width="320" height="214" data-insert-type="image" title="Photo by Towfiqu barbhuiya on Unsplash" alt="Photo by Towfiqu barbhuiya on Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Photo by Towfiqu barbhuiya on Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/IMG_5050.jpeg.jpg?itok=spMwNHbt" width="320" height="240" data-insert-type="image" alt="The author on her morning walk around the gorgeous lake." title="bjaffe/blogger"></div>
+<div class="caption">The author on her morning walk around the gorgeous lake.</div>
+<div class="insertArea--origin subtext">Source: bjaffe/blogger</div>
 </div>
 </div>
 </div>
-<p>GLP-1 medications are being discussed everywhere right now: In medical offices. On social media. In celebrity interviews. But what I’m paying attention to in my therapy office is not just the medication itself but what happens when a powerful appetite-suppressing drug becomes widely accessible in a culture that already equates thinness with worth. That cultural context matters.</p>
+<p>Paul enjoys these activities as well ( not reading or clothing selection), but his preferences are slightly different. He might not want to babysit for hours, but he adores his time with the little ones. He prefers to go out for a meal instead of having me work hard in the kitchen, despite my desire to do so. He is better at taking care of his own needs, determining when he has had enough and needs to detach from others. Sometimes he shakes his head at me as I race around the kitchen, while I shake my head at him while he plays games on his iPad. We accept each other, warts and all, through our devotion to each other. Another gift of aging together.</p>
 
-<h2>When a Prescription Starts to Look Like a Diet</h2>
-<p>GLP-1 medications were developed for specific medical indications. But as access expands, more people are seeking them out primarily for weight loss—not to treat a diagnosed condition, but to move closer to a culturally sanctioned body ideal. I’m also hearing more about “microdosing,” a term people use to describe taking small amounts mainly to blunt appetite rather than to follow a prescribed treatment plan. Others cycle on and off the medication depending on events, body dissatisfaction, or fear of weight regain. At that point, it begins to resemble technologically assisted dieting. And dieting carries risk. It is inherently cyclical. When the body experiences deprivation, it responds in predictable, protective ways by increasing hunger and slowing metabolism. What is often labeled “failure” is simply biology doing its job.</p>
+<p>Paul has guided me in standing up for myself. When we disagree, I explain my position. In my family of origin, it was easier to acquiesce rather than speak up. Paul has helped me find my voice, another reward of growing old together. When our youngest was in high school, I surprised Paul with my unique desire: “I want to return to graduate school for my doctorate.” I sensed this was a challenge for us since we had one son about to go to college and two others in college, but I was determined. Paul suggested that I wait until Brian graduated from college in four years.</p>
 
-<h2>The Cycle Beneath the Promise</h2>
-<p>GLP-1 use often leads to loss of lean muscle mass along with fat. When the medication is discontinued, weight regain is common, and it tends to favor fat mass over muscle. This creates a destabilizing pattern: lose weight, regain weight, feel shame, try again. Weight cycling has been associated with both physical and psychological strain. When someone takes a medication without a clear medical indication, they assume not only the drug’s side effects but also the likelihood of rebound weight gain. For individuals whose self-worth is tied to body size, that regain can intensify shame and drive renewed attempts at control. It is also important to state clearly that weight loss is not synonymous with health. Health is multidimensional. Reducing it to a smaller body oversimplifies complex biological and social realities.</p>
 
-<h2>What This Means for Eating Disorder Recovery</h2>
-<p>What concerns me most is what this means for individuals with active or past eating disorders. Patients are not routinely screened for eating disorders before being prescribed GLP-1 medications. That is a significant gap. Appetite suppression can delay the recognition of an eating disorder by masking restrictive symptoms. Someone may appear “successful” while the underlying illness progresses. For individuals in eating disorder recovery, a medication that blunts hunger cues can interfere with the work of rebuilding trust in the body and restoring consistent nourishment. I have seen clients who were making steady progress in eating disorder recovery return to rigid, weight-focused thinking once medication entered the picture. Others experience relapse after weight regain when they discontinue the drug. In eating disorder recovery, we work to reduce the overvaluation of weight and shape. A medication primarily used to pursue a thinner ideal can reinforce exactly what treatment is trying to undo.</p>
+<p>“I’ll have no brain cells left by then,” I responded. “But it’s so expensive,” and, of course, his retort was valid.</p>
+<p>But I found a way. I applied; I submitted my application; I was accepted; I took out loans. I filed my dissertation on my 50th birthday, my ultimate act of self-care! Logically, the timing was wrong; financially, it provided stress, but we survived, and I flourished. And that was almost 22 years ago!</p>
 
-<h2>The Cultural Layer We Cannot Ignore</h2>
-<p>GLP-1 medications are entering a multibillion-dollar weight-loss industry that has long profited from body dissatisfaction. Direct-to-consumer marketing amplifies urgency. Social media reinforces comparison. The message many people absorb is not “this is for specific medical conditions" but “this is how you finally fix your body.” GLP-1 medications may have appropriate medical uses. But when thinness becomes the goal, rather than treatment of a specific medical condition, we reinforce patterns of body surveillance, control, and shame, whether or not an eating disorder is present.</p>
+<p>Aging reminds me that if I want to do something now, I must do it, for I ask myself, “If not now, when?” Take a trip? Visit a friend? Wear my new shoes instead of saving them for a special occasion? The special occasion is today. I give myself permission to stop reading a book I am not enjoying. I let go of my plans to go to the market so I can play games with a grandchild. Very soon, they will outgrow such activities with their Nana.</p>
 
-<p>That shift does not just affect weight. It affects how people relate to hunger, their bodies, and their sense of worth.</p>
 
+
+  
+
+
+<p>Some friends my age have become ill, incapacitated, limited, or just exhausted. With such physical changes, I see their worlds shrink. I am fighting against time as well to do what I want for as long as I can. We will travel until we cannot. I also reorganize my daily priorities depending on my desires; for example, I smile at the adage, “Life is too short; eat dessert first.” So, occasionally, I seek the cream cheese frosted carrot cake for lunch or my favorite farmers market blueberry scone.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/27e1fbe7-eca7-456b-902e-008f05df822e.jpg?itok=bxBkcu0P" width="320" height="356" data-insert-type="image" alt="The author and her husband in a Patagonia ice bar." title="bjaffe/blogger"></div>
+<div class="caption">The author and her husband in a Patagonia ice bar.</div>
+<div class="insertArea--origin subtext">Source: bjaffe/blogger</div>
+</div>
+</div>
+</div>
+<p>Yes, one day I will grow very old, but not today. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202602/glp-1s-and-the-thin-ideal" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202602/glp-1s-and-the-thin-ideal</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202602/glp-1s-and-the-thin-ideal</guid>
-            <dc:creator><![CDATA[Carolyn Karoll LCSW-C, CEDS-C]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging</guid>
+            <dc:creator><![CDATA[Barbara A Jaffe Ed.D.]]></dc:creator>
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/towfiqu-barbhuiya-msQB97gUxY0-unsplash.jpg?itok=1RkfhRS1" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/27e1fbe7-eca7-456b-902e-008f05df822e.jpg?itok=ltF5Do6q" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
