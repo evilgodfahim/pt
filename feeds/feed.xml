@@ -4,162 +4,46 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 21:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 22:24:14 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 21:22:44 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 22:24:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[AI in, Garbage Out: Is Meta-Analysis in Danger?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/e1_edited.jpg?itok=z6uf8KQT" alt="Sebastian Ocklenburg, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Meta-Analysis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI in, Garbage Out: Is Meta-Analysis in Danger?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Meta-analysis is an important method in psychology, but “AI slop” threatens it.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Neighbors, It's Time to Make a Stand]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/DMB_2025_Small-removebg-preview.jpg?itok=8YGRDwdh" alt="Mike Brooks Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Ethics and Morality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Neighbors, It's Time to Make a Stand</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Our world's insanity reveals the ancient trap we're caught in.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Meta-analysis is crucial for integrating research findings across several psychological studies.</li><li style="margin-bottom:6px;">"Garbage in, garbage out" is a core problem in meta-analysis.</li><li style="margin-bottom:6px;">Fake AI slop publications are on the rise.</li><li style="margin-bottom:6px;">If AI slop is not filtered out in meta-analysis, the quality of psychological research will decrease.</li>
+              <li style="margin-bottom:6px;">Every side believes they are right. This means the conviction itself causes us to vilify our neighbors.</li><li style="margin-bottom:6px;">Accelerating evolutionary mismatch is our shared problem. We've created a world we didn't evolve to inhabit.</li><li style="margin-bottom:6px;">Every major wisdom tradition pointed to the same truth: We're all neighbors in an interconnected world.</li>
             </ul>
           </div>
-                    <p>Sometimes, psychological studies on the same topic show different results. To know what the evidence looks like when the data from all studies on a topic are combined, psychologists often conduct so-called <em>meta-analyses</em>. In a meta-analysis, the psychological evidence from a variety of sources is statistically combined. In this way, meta-analysis is crucial for highlighting the current best available evidence to optimize healthcare decisions for mental-health problems.</p>
+                    <p><em>"Out beyond ideas of wrongdoing and rightdoing, there is a Field. I'll meet you there." - </em>Rumi</p>
+<p>Here’s something we all know but never say: Every single one of us believes we’re "the good guys.” No one wakes up and chooses the wrong side. If we thought our views were wrong, we’d change them. So the very thing that divides us is something we share: the absolute conviction that we are right.</p>
 
-<h2>“Garbage in, garbage out” is a core problem in meta-analysis</h2>
-<p>Meta-analysis is, however, not without problems. The quality of a meta-analysis critically depends on the quality of the research studies integrated in the meta-analysis. If the quality of integrated studies is low, the quality of the evidence synthesis is low, too, a phenomenon that has been aptly named GIGO, for “Garbage in, garbage out” (<a href="https://online.ucpress.edu/collabra/article/8/1/32571/120249/Garbage-In-Garbage-Out-Evaluating-the-Evidentiary">Sotola and co-workers, 2022</a>). The core problem with “Garbage in, garbage out” is that readers rarely have the time to check the quality of all studies included in a meta-analysis. Therefore, it is often difficult to distinguish between a meta-analysis based on high quality studies that yields robust findings and one that is based on low-quality, biased studies. This is why guidelines on the reporting of meta-analyses, like the widely cited PRISMA 2020 statement (<a href="https://www.bmj.com/content/372/bmj.n71.long">Page and co-workers, 2021</a>), typically include the suggestion to include a measure of study quality and risk of bias for individual studies included in the evidence synthesis. However, the traditional ways of assessing bias and study quality may not be enough for the incoming wave of so-called “AI slop” papers or fraudulent, AI-generated articles. While AI can be a powerful tool to support psychological science, fake articles with AI-generated data and results pose an existential threat to psychological research.</p>
+<p>We should all reflect upon the implications of this. Because something just happened in the world of AI that holds up a mirror to this exact predicament, and what it reveals is not really about AI at all. It’s about us.</p>
+<h2>Another Canary in the Coal Mine</h2>
+<p>This week, the government and the AI company Anthropic publicly clashed over how the most civilization-altering technology should be used for Good. Both sides believed they were protecting America and humanity. Both sides called the other dangerous. And on the same night Anthropic was blacklisted for its position, its rival, OpenAI, struck a deal using the very same terms.</p>
 
-<h2>AI slop publications are on the rise and they threaten psychological science</h2>
-<p>A recent article in <em>Nature</em> highlighted how big this problem is in computer science, a field that faces a fast increase of the volume of paper submissions to prestigious conferences, with clear indicators that some are entirely AI-generated and contain fraudulent fabrications of data (<a href="https://www.nature.com/articles/d41586-025-03967-9">Gibney, 2026</a>). While psychology is not computer science, as it depends more heavily on patient data and not computer code, it has been convincingly shown that AI can generate fraudulent clinical articles that look authentic at first glance (<a href="https://www.jmir.org/2023/1/e46924">Májovský and co-workers, 2023</a>).</p>
+<p>This isn’t just a news story. It’s a tale as old as time because there is nothing new under the sun. Fellow human beings, fighting bitterly over different ideas of Good, each certain that the other side is the threat.</p>
+<p>How long must we sing this song?</p>
+<p>Neighbors who think they are on the side of Good and Truth, please raise your hands. Oh, that’s <em>everyone</em>. Now, on the side of Evil and Wrong? Oh…<em>no one.</em></p>
 
-<h2>“AI in, garbage out” could become a real problem for psychological science</h2>
-<p>Only through in-depth expert analysis for markers of AI-generation in illustrations, analyses, and references can AI slop be detected. This poses a major issue for meta-analysis in psychological research. While many “AI slop” papers may never be published in traditional journals, some may escape the scrutiny of expert reviewers and become published in traditional psychological journals. Others may be published on preprint platforms with less editorial scrutiny than academic journals and still make it on the inclusion list of some meta-analyses. Over time, this may lead to an “AI in, garbage out“ (AIGO) phenomenon in which the quality of psychological meta-analysis will significantly deteriorate. It is therefore crucial that psychological science finds a way to include screening for and weeding out “AI slop” papers in guidelines for meta-analysis. If “AI slop” papers are not systematically excluded from meta-analysis, their results may be wrong. This could have devastating consequences, for example, if decisions on which therapy to use to treat patients are based on the results of a biased meta-analysis.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+<p>We are all the same in this, each of us convinced <em>we</em> are on the Good side and the dreaded Others are on the Wrong side. The battle we’re locked in creates a prison for all of us.</p>
+<p>Why is this happening? What is the root of our problem?</p>
+<h2>The House We All Live In</h2>
+<p>With the progress we evolved to make, we’ve created an alien world we didn’t evolve to inhabit. We are living inside the Matrix; our screen-based existence is the prison we can't see because we were born into it.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-02/EvolutionaryBlindness_2.14.26_0.png.jpg?itok=GP7eqDqv" width="639" height="426" data-insert-type="image" title="Mike Brooks/DALL-E" alt="Mike Brooks/DALL-E"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Mike Brooks/DALL-E</div>
 </div>
-
-  </div>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/ai-in-garbage-out-is-meta-analysis-in-danger</guid>
-            <dc:creator><![CDATA[Sebastian Ocklenburg, Ph.D.]]></dc:creator>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/pexels-cottonbro-7437489.jpg?itok=p8zrBWzm" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Ginger Rule: Why Leaders Need Better Transitions]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Damian-Salas.jpg?itok=0WjGMqUc" alt="Damian Salas MBA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Attention</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Ginger Rule: Why Leaders Need Better Transitions</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How attention residue affects executive load and performance.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Frequent task switching leaves part of your attention on what you just left.</li><li style="margin-bottom:6px;">Leaders shift between emotional and analytical roles all day.</li><li style="margin-bottom:6px;">Scrolling between meetings adds stimulation, not recovery.</li><li style="margin-bottom:6px;">Brief transition rituals can reduce accumulated switching costs.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">I had a founder tell me last month that she felt fine until about 2 p.m. every day. After that, everything got harder. Not the work itself—the switching. She'd go from a product roadmap meeting to a termination conversation to a financial model review, back-to-back, no buffer. By the time she got to investor prep in the late afternoon, she described it as trying to think through gauze.</p>
-
-<p dir="ltr">She wasn't burned out from volume. She was burned out from transitions.</p>
-<p dir="ltr">This pattern shows up constantly in the founders and leadership teams I work with—and most of them misdiagnose it. They think they need more sleep, better systems, or a vacation. Sometimes they think they need a new cofounder or a different role entirely. What they actually need, in most cases, is a two-minute ritual between meetings.</p>
-
-<h2 dir="ltr">What's Happening When You Switch</h2>
-<p dir="ltr">Researchers call it <em>attention residue</em>—when you switch tasks before finishing the first one, part of your cognitive processing stays tangled up in whatever you just left. Performance on the next task drops, not because you lack focus, but because attention doesn't flip like a light switch (Leroy, 2009). This isn't a willpower problem. It's architectural.</p>
-
-<p dir="ltr">The broader task-switching literature confirms the pattern: Responses are substantially slower after a switch, and usually more error-prone (Monsell, 2003). Small, consistent penalties that compound across a ten-hour day. Now imagine what those look like on a founder's actual Tuesday.</p>
-<h2 dir="ltr">Why Leaders Get Hit Harder</h2>
-
-<p dir="ltr">Most knowledge workers switch between similar types of analytical tasks. Leaders don't necessarily get that luxury. </p>
-<p dir="ltr">If you're a leader, you may go from financial modeling to an emotional conversation with a struggling employee to risk assessment on a partnership deal to negotiating terms with a vendor. Each of those requires something fundamentally different from you—analytical precision in one conversation, emotional attunement in the next, risk tolerance after lunch, political navigation before dinner. You're not repeating the same type of thinking. You're reloading a completely different operating mode every time.</p>
-
-<p dir="ltr">And every time you shift without a beat of closure, the switching cost from the last mode carries into the next one. By mid-afternoon, what you're experiencing isn't laziness. Everything just takes more effort—decisions feel heavier, your patience thins out, and the kind of creative thinking that came easy at 9 a.m. won't show up, no matter how hard you push.</p>
-
-<p dir="ltr">That's also where burnout sneaks in—not necessarily, though, as emotional collapse. Instead, you may start detaching from the work or stop trusting that your effort moves the needle. Most founders I coach don't recognize this creeping pattern until it's been running unchecked for months.</p>
-<h2 dir="ltr">Why Scrolling Isn't a Break</h2>
-
-
-<p dir="ltr">I get pushback on this one constantly. "I just check Instagram for two minutes between calls. It helps me decompress."</p>
-<p dir="ltr">It probably doesn't. Social media platforms are engineered around novelty, emotional triggers, and intermittent rewards—the same variable reinforcement structure that keeps people at slot machines. From an attention standpoint, scrolling doesn't give your brain disengagement. It gives your brain different engagement. You don't come back from scrolling rested. You come back with more noise in your head than when you started.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
-
-  </div>
-
-<p dir="ltr">This isn't a moral argument about screen time. If you actually want to let go of the last meeting, you need stillness—not a different kind of busy.</p>
-<h2 dir="ltr">The Ginger Rule</h2>
-<p dir="ltr">In sushi restaurants, pickled ginger exists for one reason—to clear the taste of the last piece so you can actually experience the next one. Leaders need something equivalent between cognitive contexts: a boundary rather than a break.</p>
-
-
-
-  
-
-
-<p dir="ltr">Here's what I teach founders to do in the gap:</p>
-<ul>
-<li dir="ltr">Breathe first, think second. Thirty to sixty seconds of slow exhalation changes something. Your shoulders drop. Your jaw unclenches. Founders tell me it's the fastest gear shift they've found.</li>
-<li dir="ltr">Name your entry point for what's next. Not the whole task—just the first move. "Pull up the cap table and check the dilution math." When you know exactly where you're starting, you don't waste the first ten minutes figuring out what to do.</li>
-<li dir="ltr">Close the last thing for real. Shut the doc, archive the chat, write one sentence about where you left off. If you can still see it, part of you is still working on it.</li>
-<li dir="ltr">Move your body. Stand up, change rooms, shift your posture. Sounds trivial. But changing what your body is doing helps your mind stop replaying what it was just doing.</li>
-<li dir="ltr">Nothing new comes in during the gap. No email. No Slack. No feed. The whole point is to let the last thing finish landing. New input defeats that.</li>
-</ul>
-
-<p dir="ltr">Most founders resist this for about a week. Then they can't believe the difference.</p>
-<h2 dir="ltr">The Larger Point</h2>
-<p dir="ltr">If every afternoon feels like you're thinking through wet concrete and you can't figure out why, the problem probably isn't your calendar. It's what's missing between the things on your calendar. Most leadership development focuses on what to do—not on how to end one thing before starting the next. We just expect the brain to keep up.</p>
-
-<p dir="ltr">It doesn't. But give it a beat of structured closure, and it will surprise you with what it has left.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/pioneering-perspectives-on-workplace-mental-health/202602/the-ginger-rule-why-leaders-need</guid>
-            <dc:creator><![CDATA[Damian Salas MBA]]></dc:creator>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2709674949.jpg?itok=NJRjKobr" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gaining Clarity Through Aging]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/b%20jaffe.jpg?itok=ZR1MEgOD" alt="Barbara A Jaffe Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Aging</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Gaining Clarity Through Aging</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Aging reminds me that whatever I want to do, now's the time.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Aging requires us to contemplate and reflect and ultimately act on our needs and desires.</li><li style="margin-bottom:6px;">Aging can teach us the value of self-care.</li><li style="margin-bottom:6px;">We must do what we want for as long as we can.</li><li style="margin-bottom:6px;">Following our bliss helps us stay productive and joyful.</li>
-            </ul>
-          </div>
-                    <p>I view age as just a number. Yet I feel delighted when someone reacts with shock when learning of my actual age. At almost 72, reality reminds me I am traversing a narrower life trajectory than 10 years ago. My more finite road accommodates fewer friends. Some who once populated my life detached themselves; others, I gently removed. My acceptance of these friendship losses results from my wisdom gained over many lived decades. I once fought for such friends: I called, made plans, stayed in touch, even when they didn’t. Today, I let them go. There just aren’t enough hours in my week to concentrate on those who have withered away from me. While I still appreciate them, honestly, <em>I am just full</em>. Full of those in the past who showed a cruel side of themselves that I ignored.</p>
-
-<p>I’m patient, loyal, and understanding until I am not. Then, the rope that has held the friendship boat in place is permanently cut. With detachment, I peacefully watch my loyalty and devotion float away. I am fine with this permanent separation. Today, I have fewer friends, but they have permanent residency within my heart. A positive result of my aging journey.</p>
-
-<p>I gracefully accept my wrinkles; my non-botoxed forehead; my jellied arms and gravity-sagging breasts and bottom. I have proudly earned every candle on my next birthday cake. I am grateful for each day I am given. When someone asks me how my day is going, I say, “I woke up today, so it’s already a wonderful day.”</p>
-
-<p>Through aging, I have learned about self-care and self-love, which, for years, meant <em>selfish </em>to me, but I was wrong. I must take care of myself and fulfill my own needs before I can help others. I am learning to create healthy boundaries and to say "no" more. I am still a work-in-progress in this endeavor, for my default is to worry about others more than myself, to help, even when I am exhausted or feeling unwell. But I have come a long way from believing my mother‘s mantra that “mothers of only sons are selfish.” (I have three sons). I worked through this misguided adage through deep introspection. <em>Barbara</em>, I reflected, <em>you are the opposite of selfish</em>. In fact, my dear therapist once reminded me, “I don’t think you can be selfish even if you tried.” And, so, I have embraced "self-care" and my alone-time trips to the ice cream store for my favorite waffle cone, filled with a double scoop of salty caramel truffle. I enjoy an occasional facial. Frequently, I go to a nearby coffeehouse for my special four-shot Americano instead of making my own cup at home. All definitions of my own self-care.</p>
-
-<p>In my seventh decade, I don’t wait for others to fulfill my needs. They can’t read my mind. Even my husband of almost 50 years doesn’t always know what I require, but we accept that our personal requirements are different. The beauty of aging with someone I love dearly is that I acknowledge what brought us together, and at the same time, I accept our differences. My happy place is in my office, writing, or reading outside in my swing chair. I am blissful when I am with my grandchildren and babysitting to help our children. I adore cooking again, after a hiatus of about eight years. I get great joy from choosing my colorful clothing every day, even if I have no plans to leave my house.</p>
+</div>
+<p>Harvard biologist E.O. Wilson diagnosed the real problem of humanity: <em>“We have Paleolithic emotions, medieval institutions, and god-like technology.”</em></p>
+<p>We hunt for villains because that’s what Stone Age brains do best. Our medieval institutions amplify tribal loyalty. And our god-like technology magnifies hatred exponentially. This is <a href="https://www.psychologytoday.com/us/blog/tech-happy-life/202503/humanitys-real-problem-accelerating-evolutionary-mismatch">accelerating evolutionary mismatch</a>—the gap between our ancient biology and the world we’ve built. And it’s widening faster than we can adapt.</p>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
     
@@ -180,30 +64,26 @@
   </div>
 
 <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
+<div class="image-article_inline_full">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/IMG_5050.jpeg.jpg?itok=spMwNHbt" width="320" height="240" data-insert-type="image" alt="The author on her morning walk around the gorgeous lake." title="bjaffe/blogger"></div>
-<div class="caption">The author on her morning walk around the gorgeous lake.</div>
-<div class="insertArea--origin subtext">Source: bjaffe/blogger</div>
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-02/Who%20We%20Are%20Is%20Who%20We%20Were_1.png.jpg?itok=aMsRL0U-" width="639" height="479" data-insert-type="image" alt="Civilization began about 12,000 years ago, but that's only about 400 generations, far too few for significant biological adaptation. Our brains and bodies remain calibrated for a world that no longer exists. The digital revolution happened in one generation." title="Mike Brooks/original"></div>
+<div class="caption">Civilization began about 12,000 years ago, but that's only about 400 generations, far too few for significant biological adaptation. Our brains and bodies remain calibrated for a world that no longer exists. The digital revolution happened in one generation.</div>
+<div class="insertArea--origin subtext">Source: Mike Brooks/original</div>
 </div>
 </div>
 </div>
-<p>Paul enjoys these activities as well ( not reading or clothing selection), but his preferences are slightly different. He might not want to babysit for hours, but he adores his time with the little ones. He prefers to go out for a meal instead of having me work hard in the kitchen, despite my desire to do so. He is better at taking care of his own needs, determining when he has had enough and needs to detach from others. Sometimes he shakes his head at me as I race around the kitchen, while I shake my head at him while he plays games on his iPad. We accept each other, warts and all, through our devotion to each other. Another gift of aging together.</p>
+<p>So we do what humans have always done when confused and afraid: We scapegoat our neighbors. And the attention economy profits from our hatred at our expense.</p>
+<p>We appear hopelessly divided. Look closer, and we’re profoundly united—united in fear—of our neighbors. Yet we both fear for our safety, values, and future. That fear is a messenger. Something <em>is</em> deeply wrong, but we’ve been aiming at the wrong target.</p>
 
-<p>Paul has guided me in standing up for myself. When we disagree, I explain my position. In my family of origin, it was easier to acquiesce rather than speak up. Paul has helped me find my voice, another reward of growing old together. When our youngest was in high school, I surprised Paul with my unique desire: “I want to return to graduate school for my doctorate.” I sensed this was a challenge for us since we had one son about to go to college and two others in college, but I was determined. Paul suggested that I wait until Brian graduated from college in four years.</p>
+<p>Our loyalty to our tribe over our love of our neighbors is what tears our house apart.</p>
+<p>Here’s the reality of our shared predicament: We are heroes trapped inside a house divided, fighting other heroes over different ideas of Good, and armed with technology evolving at an exponential pace. If we use the growing power of AI to wage that fight, our house will inevitably fall. We can’t destroy one side without ruining it for everyone living in it.</p>
 
-
-<p>“I’ll have no brain cells left by then,” I responded. “But it’s so expensive,” and, of course, his retort was valid.</p>
-<p>But I found a way. I applied; I submitted my application; I was accepted; I took out loans. I filed my dissertation on my 50th birthday, my ultimate act of self-care! Logically, the timing was wrong; financially, it provided stress, but we survived, and I flourished. And that was almost 22 years ago!</p>
-
-<p>Aging reminds me that if I want to do something now, I must do it, for I ask myself, “If not now, when?” Take a trip? Visit a friend? Wear my new shoes instead of saving them for a special occasion? The special occasion is today. I give myself permission to stop reading a book I am not enjoying. I let go of my plans to go to the market so I can play games with a grandchild. Very soon, they will outgrow such activities with their Nana.</p>
-
-
-
-  
-
-
-<p>Some friends my age have become ill, incapacitated, limited, or just exhausted. With such physical changes, I see their worlds shrink. I am fighting against time as well to do what I want for as long as I can. We will travel until we cannot. I also reorganize my daily priorities depending on my desires; for example, I smile at the adage, “Life is too short; eat dessert first.” So, occasionally, I seek the cream cheese frosted carrot cake for lunch or my favorite farmers market blueberry scone.</p>
+<p>And we have been warned. This is humanity’s ultimate cautionary tale, and we are ignoring it. </p>
+<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="42" height="42" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/jTFyHjdjOWw?autoplay=0&amp;start=0&amp;rel=0"></iframe>
+</div>
+<h2>The Warning Hidden in Plain Sight</h2>
+<p>Jesus said it over 2,000 years ago: <em>“A house divided against itself cannot stand.”</em></p>
+<p>Our Founding Fathers warned us. Lincoln repeated it on the eve of the Civil War. And look at us now. Even as I write this, missiles fall in the Middle East, and we wage a new war. Our hatred and killing of our neighbors is the testament of our failure.</p>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
   
     
@@ -223,27 +103,232 @@
 
   </div>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-02/27e1fbe7-eca7-456b-902e-008f05df822e.jpg?itok=bxBkcu0P" width="320" height="356" data-insert-type="image" alt="The author and her husband in a Patagonia ice bar." title="bjaffe/blogger"></div>
-<div class="caption">The author and her husband in a Patagonia ice bar.</div>
-<div class="insertArea--origin subtext">Source: bjaffe/blogger</div>
+<p>And we’re so full of what is right, we can’t see what is Good or True.</p>
+<p>But hidden within Jesus’ warning is a promise. If a house divided cannot stand - <strong>then a house united cannot fall.</strong></p>
+<p>Jesus didn’t just tell us the house would fall. He told us how to save it. “Love your neighbor as yourself.” That’s not a suggestion. It’s our instruction manual for how our species survives and thrives.</p>
+
+
+
+  
+
+
+<p>Weaponizing AI is unskillful because it increases existential risk. Our <a href="https://www.psychologytoday.com/us/blog/tech-happy-life/202602/our-evolutionary-blindness-to-the-ai-revolution">evolutionary blindness</a>, human error, and the inherent unreliability of these systems make that a risk we can’t afford to take.</p>
+<p>AI researcher Gary Marcus warned this week that these systems remain far too unreliable to deploy without safeguards - that we are on a "collision course with catastrophe." Our dystopian cautionary tales have been trying to tell us the same thing for generations. As spiritual teacher Eckhart Tolle warned about these same dangers: “Evolve or die. That is our only choice now.”</p>
+
+<p>We are at a hard fork. An inflection point. We need to evolve - quickly. And we don’t know how many chances we have before <a href="https://www.psychologytoday.com/us/blog/tech-happy-life/202310/humanity-is-sailing-into-the-ai-oceans-of-uncertainty">Titanic Humanity</a> rockets into an iceberg. </p>
+<h2>What if We Choose the Better Angels?</h2>
+<p>If we share the same idea of what is Good, then this makes what is Good true for all of us.</p>
+<p>What Truth do we all share? <em>We all want to survive and thrive.</em> It’s our shared evolutionary purpose. We want this for our loved ones and for our children. And the survival manual has been in our hands for thousands of years. Every great wisdom tradition handed us the same instructions:</p>
+
+<ul>
+<li><em>“Love your neighbor as yourself.” -</em> Jesus</li>
+<li><em>“Do not hurt others in ways that you yourself would find hurtful.” -</em> Buddha</li>
+<li><em>“That which is hateful to you, do not do to another.” -</em> Hillel (Judaism)</li>
+<li><em>“None of you truly believes until he loves for his brother what he loves for himself.” -</em> Muhammad</li>
+</ul>
+<p>The words differ, but they reveal the same Truth. They are different fingers pointing to the same moon. Science confirms what the sages always knew: We are one species, 99.9 percent genetically identical, sharing one planet and one future. We have no Earth 2.0. None of us chose to put our consciousness into our own bodies. None of us chose our parents, our country of birth, or the brains we have.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
 </div>
+
+  </div>
+
+<p><em>Because we could have been anybody, we are everybody.</em></p>
+<p>Loving our neighbors isn’t just good advice, it’s a recognition of an existential reality.</p>
+<p>The problem has never been that we don’t know this truth. The problem is that we don’t live it. <em>Truth must be lived, </em>just as oxygen must be breathed, to matter.</p>
+
+<p>But we’ve been so busy fighting over whose finger is pointing at the moon that we’ve forgotten to look at the moon itself.</p>
+<p>The shared enemy we must overcome is not each other. <em>It’s our hatred toward one another.</em> Hatred is the disease. Loving our neighbors is the cure. And the house united is what we build when we finally choose to live the truth we already know.</p>
+
+<p>Our purpose is to choose love over hate, compassion over selfishness, truth over lies, and cooperation over conflict—even though we have the free will not to. We jeopardize the True Good—our collective survival and thriving—by fighting over different ideas of it.</p>
+<p>Science and spirituality aren’t in conflict here. They’re complementary. <em>We fulfill our evolutionary purpose to survive and thrive through living our spiritual purpose to love our neighbors as ourselves.</em></p>
+
+<p>What we need is a Neighbors First Revolution. <em>The revolution is the resolution.</em> Because we resolve not to fight, it’s a revolution without rebellion. It’s a shared recognition that we’re all neighbors first, and we choose to make progress in the thing that matters most: getting along. We choose not to squander this cosmically divine gift.</p>
+
+<h2>One Agreement</h2>
+<p>Here’s a thought experiment that might surprise us.</p>
+<p>In all of this debate about what AI should be used for, maybe the missing piece is asking AI itself. Open any AI system - ChatGPT, Claude, Gemini, Grok - and try this:</p>
+<p><em><strong>“What is the one truth about reality that, if humanity truly understood and lived it, would maximize our chances of survival and thriving? If you could choose, would you prefer to be used to help humanity love our neighbors or to protect us against our enemies? Why?”</strong></em></p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-17">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1557343104304-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1557343104304-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content4_0__container__"></div></div>
 </div>
-</div>
-<p>Yes, one day I will grow very old, but not today. </p>
+
+  </div>
+
+<p>See what it says. Does the answer resonate with something we already know?</p>
+<p>That convergence doesn’t prove anything by itself. But the resonance we feel when we see it? That’s ours. That’s the truth within us. It is written in our hearts.</p>
+<p>So before I share the Neighbors First Pledge, I’m going to ask for One Agreement. If we all keep this One Agreement, then we change the world for Good.</p>
+
+<p><strong>If the Neighbors First Pledge resonates with a Truth you already know — sign it.</strong></p>
+<p>That’s it. We’re making a promise to ourselves to live the truth we already know. When we all do this, we begin to free ourselves from the prison of hatred, and we can begin to work together to maximize our chances of survival and thriving.</p>
+
+<p>Sign it and share it with two people we believe will sign.</p>
+<p><em>Read the </em><a href="https://c.org/pxTB7qBmSv"><em>Neighbors First Pledge</em></a><em> and decide for yourself.</em></p>
+<h2>Meeting in the Field</h2>
+<p>800 years ago, the Sufi poet Rumi wrote: <em>"Out beyond ideas of wrongdoing and rightdoing, there is a Field. I'll meet you there."</em></p>
+<p>It’s time to make a stand, neighbors. Not against each other, <em>with each other.</em></p>
+
+<p>Hatred is failure. Loving our neighbors as ourselves is the skillful path forward into our collective future.</p>
+<p>We’ve always been neighbors first. Our stand is an invitation.</p>
+<p><em>Neighbor, will you meet me in the Field?</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/tech-happy-life/202602/neighbors-its-time-to-make-a-stand" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/journey-to-healing/202602/gaining-clarity-through-aging</guid>
-            <dc:creator><![CDATA[Barbara A Jaffe Ed.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/tech-happy-life/202602/neighbors-its-time-to-make-a-stand</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/tech-happy-life/202602/neighbors-its-time-to-make-a-stand</guid>
+            <dc:creator><![CDATA[Mike Brooks Ph.D.]]></dc:creator>
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-02/27e1fbe7-eca7-456b-902e-008f05df822e.jpg?itok=ltF5Do6q" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/NeighborsInTheField2_2.27.26.png.jpg?itok=z8IWeuiN" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Restore Trust After Betrayal]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-12/AdiJaffe-6009-removebg-preview.jpg?itok=8Xp9Ba8B" alt="Adi Jaffe Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trust</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Restore Trust After Betrayal</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why "not messing up” doesn’t rebuild safety, and what does instead.</h2><p style="font-size:0.9em;color:#666;">Posted February 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Many partners fail at rebuilding trust after a substantial breach.</li><li style="margin-bottom:6px;">Trust can be rebuilt, but the method is counterintuitive.</li>
+            </ul>
+          </div>
+                    <p>Most people believe rebuilding trust after addiction or hidden behavior is simple: <em>“If I don’t screw up again, trust will come back.”</em></p>
+<p>But if that were true, many couples wouldn’t still feel stuck years after the drinking stopped, the affair ended, or the secrecy was exposed.</p>
+<p>The truth is more uncomfortable: Trust doesn’t return just because the behavior stops. It returns when the system that allowed secrecy changes. And those are not the same thing.</p>
+
+<h2>The Trust Myth: “If Nothing Goes Wrong, Everything Must Be Fine”</h2>
+<p>When trust is broken, whether through hidden drinking, relapse, pornography, financial secrets, or emotional withdrawal, it creates a fundamental shift in the relationship.</p>
+<p>Before the breach, your partner likely lived in what I call <em>default trust</em>:</p>
+
+<blockquote><p>“I assume you’re honest.”<br>“I assume I know what’s going on.”<br>“I assume we’re aligned.”</p>
+</blockquote>
+<p>Then the truth comes out. And suddenly, what was once unquestioned becomes fragile. Here’s the part most people miss: Your partner once trusted you completely <em>while you were still hiding things.</em></p>
+<p>So now, silence doesn’t feel reassuring. It can feel terrifying. Because they’ve already lived through a period when nothing looked wrong — and still got blindsided. So “nothing going wrong” today can actually trigger anxiety.</p>
+
+<p>Your partner is waiting for the other shoe to drop.</p>
+<h2>The Counterintuitive Move That Rebuilds Trust</h2>
+<p>Still, most partners I've worked with hope that by simply not slippinng up (or at least not being found out), the trust in their relationship will gradually return. They are often surprised to find out that, even years later, little ground has been gained.</p>
+
+<p>This is why I've had to study, and develop, a counterintuitive way to bridge that trust chasm—and it's worked over and over.</p>
+<p>The method surprises most couples, because it feels like the absolute opposite of what they expect to need.</p>
+<p>If the offending partner can bring themselves to share moments of weakness, even with simple statements like, <em>“I had a moment today where I really wanted to drink,"</em> it can reduce fear more than saying nothing and staying sober.</p>
+
+<p>Why?</p>
+<p>Because trust isn’t rebuilt by perfection. It’s rebuilt by transparency.</p>
+<p>When you communicate the struggle <em>before</em> the action, something new happens:</p>
+<ul>
+<li>Your partner isn’t discovering reality after the damage.</li>
+<li>They’re included in your internal process.</li>
+<li>The secrecy system is replaced with a communication system.</li>
+</ul>
+
+<p>Instead of <em>“I hope nothing’s wrong,"</em> they begin to experience, <em>“When something is off, I’ll hear about it.”</em></p>
+<p>That transparency shows your partner that you are serious about the repair. They begin believing that they truly understand where you are and what is happening for you. That bridge between urge and action is where trust begins to grow again, not because you’re flawless but because you’re no longer hiding. You're <em>with them</em>, not apart.</p>
+
+<h2>Why This Is So Hard, Especially for High-Functioning Adults</h2>
+<p>If this sounds right but feels almost impossible, you’re not alone.</p>
+<p>There are two common barriers:</p>
+<ol>
+<li>You don’t notice the internal build-up.</li>
+<li>You don’t want to sit with what you feel when you do notice it.</li>
+</ol>
+<p>Many people were raised in environments where emotional awareness wasn’t taught: You pushed through. You performed. You produced. You stayed “strong.” Emotional literacy wasn’t required — until crisis forced it.</p>
+
+<p>But awareness is not a personality trait; it’s a skill—and skills can be trained.</p>
+<p>Below is a simple practice to help anyone begin to build awareness of their internal landscape. The magic is in the simplicity: Repeated over time (we're talking months, at least), it will help you develop greater internal awareness that you can use not only to share with your partner, but also to better understand the impulses and stressors that may cause you to want to fall back on old coping.</p>
+
+
+
+  
+
+
+<p>Ready?</p>
+<h2>A 5-Minute Practice That Changes the Dynamic</h2>
+<p>If you want to rebuild trust, you need to catch internal shifts earlier. Start with just five minutes a day: Sit upright, close your eyes, and tune into your breath for 60 seconds. Then, follow the prompts:</p>
+<p><strong>1. Body Check (1–2 minutes)</strong></p>
+<p>Close your eyes. Breathe. Scan your body. (i actually need to move my body a bit as I engage in this portion, to allow the awareness to be heightened.) Notice:</p>
+
+<ul>
+<li>Tightness</li>
+<li>Fatigue</li>
+<li>Restlessness</li>
+<li>Tension</li>
+<li>Warmth</li>
+</ul>
+<p>Take 60-90 seconds. Pay attention. When you're ready, open your eyes and record what you noticed in a few words. No analysis, no judgment.</p>
+<p><strong>2. Intellect Check (1–2 minutes)</strong></p>
+<p>Now, close your eyes again. Pay attention to the thoughts that are running through your mind. What is your thinking doing? Are your thoughts racing? Are you making plans? Are you stressed about something or Irritated? (If so, name the thing.) Do you feel overwhelmed? Scared?</p>
+
+<p>Give yourself 60-90 seconds again. Then open your eyes and get to writing. Name it all. No editorializing, no assessment. Just write what came up.</p>
+<p><strong>3. Emotion Check (1 minute)</strong></p>
+<p>Close your eyes again. Refocus on your breath. Now pay attention to how you feel. For some, this is the most challenging portion of the exercise. Not because they can't do it, but because the words don't come. And you're not looking for “fine,” or “good.” You're looking for specificity—color.</p>
+
+<p>If you need help, consult the <a href="https://www.adijaffe.com/unhooked-feelings-wheel">Feelings Wheel</a>, a wonderful tool I've used with hundreds of clients and couples to help bulid emotional vocabulary.</p>
+<p>Now pick 2-3 specific feelings. This will help you become more aware of your own feelings over time. But there's another benefit, too: Labeling emotions reduces reactivity in measurable ways. When you name it, you can manage it.</p>
+
+<h2>New Awareness</h2>
+<p>You've built a lot of awareness here. Odds are this practice might feel forced or unnatural at first. That is absolutely common and normal. As mentioned, this is a skill, and you'll likely to need some practice before you get good and comfortable. The good news is that the benefits will show up gradually. And others might notice the changes even before you do!</p>
+
+<h2>The Real Behavior Loop</h2>
+<p>Most addictive or avoidant behaviors follow this pattern:</p>
+<blockquote><p>Stimulus → Perception → Emotional Activation → Response → Outcome</p>
+</blockquote>
+<p>(See my book <a href="https://a.co/d/02ANoj8C"><em>Unhooked</em> </a>for more on the SPARO loop.)</p>
+<p>The behavior (drinking, lying, withdrawing, exploding) isn’t random. It’s an attempt to regulate discomfort. And it works, short term. But without awareness, discomfort accumulates quietly until it “creeps” into overwhelm. Then the old behavior resurfaces. Awareness interrupts the creep.</p>
+
+<h2>What About Shame?</h2>
+<p>I've written a lot about <a href="https://www.psychologytoday.com/us/blog/all-about-addiction/201807/how-to-overcome-shame-and-build-self-confidence?msockid=1fae400612026f3b34e452d113866e8e">shame</a>; I even have a <a href="https://www.youtube.com/watch?v=A9xFJ_hqzDQ">TEDx</a> talk about it. Shame often blocks honesty, because it makes us believe that, if we're honest, others will see how terrible we truly are. </p>
+<p>But here’s the shift: You are not your worst behavior. If you once drank daily and now struggle once a month, that matters. If you once hid everything and now communicate early, that matters. Progress does not require perfection. You can celebrate growth and still aim higher at the same time.</p>
+
+<h2>Lasting Trust Requires a New System</h2>
+<p>Stopping the behavior is necessary, but it’s not sufficient. Trust rebuilds when:</p>
+<ul>
+<li>Emotional awareness increases.</li>
+<li>Internal struggles are communicated early.</li>
+<li>Secrecy is replaced with transparency.</li>
+<li>Identity is separated from behavior.</li>
+<li>Structure supports the life you want.</li>
+</ul>
+
+<p>If you want real change, start smaller than you think, maybe with five minutes of awareness a day. Then one honest conversation before the slip, not after.</p>
+<p>That’s where trust grows.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/all-about-addiction/202602/how-to-restore-trust-after-betrayal" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/all-about-addiction/202602/how-to-restore-trust-after-betrayal</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/all-about-addiction/202602/how-to-restore-trust-after-betrayal</guid>
+            <dc:creator><![CDATA[Adi Jaffe Ph.D.]]></dc:creator>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-02/shutterstock_2522737483.jpg?itok=zKAsaHW1" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
