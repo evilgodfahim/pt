@@ -4,438 +4,292 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 15:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 16:52:23 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 15:52:17 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 16:52:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Women, Trauma, and a Long-Standing Question About PTSD Risk]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/abigail_lott_43-removebg-preview.jpg?itok=4GnpETtg" alt="Abigail Powers Lott Ph.D., ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Women, Trauma, and a Long-Standing Question About PTSD Risk</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Women are more likely than men to develop PTSD.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[When Thought Changes the Thinker]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/John%20Nosta.png.jpg?itok=MdOqub5o" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Thought Changes the Thinker</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Artificial intelligence forces us to reconsider what thinking was always meant to do.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Women's risk for PTSD is greater than men's.</li><li style="margin-bottom:6px;">Ovarian hormones like estradiol fluctuate over the menstrual cycle, influencing emotional processing.</li><li style="margin-bottom:6px;">Shortly following ovulation, estradiol drops, and that may be an important a window of PTSD risk.</li>
+              <li style="margin-bottom:6px;">Intelligence isn't just what thought produces but what it does to the thinker.</li><li style="margin-bottom:6px;">Artificial intelligence can generate insight at scale, but it cannot be transformed by it.</li><li style="margin-bottom:6px;">In the age of frictionless answers, the real question is whether we still allow thinking to change us.</li>
             </ul>
           </div>
-                    <p><em>This guest post is authored by neuroscientist Dr. Jennifer Stevens.</em></p>
-<p>Women are more than twice as likely as men to develop posttraumatic stress disorder (PTSD). Social factors and trauma type play important roles. But researchers have long wondered whether biology contributes as well.</p>
-<p>One hypothesis has centered on estrogen, specifically estradiol, the primary ovarian estrogen. Estradiol does not remain stable across the menstrual cycle. It rises leading up to ovulation and then drops sharply in the days that follow.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/stocksnap-love-2583943_1280.jpg?itok=Z6UtMIQ9" width="320" height="427" data-insert-type="image" title="StockSnap / Pixabay" alt="StockSnap / Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: StockSnap / Pixabay</div>
+</div>
+</div>
+</div>
+<p>I’ve spent the last few years thinking about intelligence, looking to understand human, artificial, and the strange space between them. Most of the debate is around capability. How fast can it reason? How accurately can the answer be? How convincingly can it write? But somewhere along the way, I began to sense that we were measuring the wrong thing. Intelligence is usually judged by performance, and even our admiration of large language models follows that pattern that, when unleashed, ends up with the curious notion of artificial general intelligence. Said simply, we are impressed by what these models can produce.</p>
 
-<p>Until recently, we did not know whether this drop changes how the human brain processes threat or encodes emotional memory.</p>
-<h2>What Happens to the Brain When Estrogen Falls?</h2>
-<p>To address this question, we examined women during the days just after ovulation, a time when estradiol naturally declines. We experimentally increased estradiol levels using a trans-dermal patch, and compared their brain activity to when they received a placebo. </p>
+<p>Yet the most meaningful moments of human intelligence in my own life have had very little to do with production. They have had everything to do with transformation. And this led me to a deceptively simple yet startling insight.</p>
+<p><em>A human being can be changed by their own thinking.</em></p>
+<p>I’ve seen it in medicine. A clinician pauses, reconsiders a decision, feels that faint unease that something doesn’t fit. That reconsideration is not just a correction—it carries responsibility. It may alter treatment, outcomes, even identity. The thought does not simply solve a problem; it leaves a mark.</p>
 
+<p>I’ve seen it in parenting. A difficult recognition about one’s own impatience reshapes memory and redirects future behavior. That insight lingers, and it shapes the future.</p>
+<p>Psychology has long described related phenomena. Cognitive dissonance captures the unease we feel when belief and behavior collide and the internal friction that follows. But let's add a bit more context to this ubiquitous human experience. Philosopher L.A. Paul has described “<a href="https://plato.stanford.edu/entries/transformative-experience/">transformative experiences</a>,” moments that just don't add information but alter who we are. In both cases, thought does not merely update data. It <a href="https://lapaul.org/papers/PPR-TE-symposium.pdf">reshapes the thinker</a>.</p>
+
+<p>In these moments, intelligence is not just the ability to generate possibilities. It is the capacity to be altered by them, because the experience itself fundamentally transforms the person experiencing it.</p>
+<p>Large language models display extraordinary computational ability. They move through "possibility space" with remarkable speed and capability. But the outputs do not, in any way, attach to an interior life. They don't accumulate biography and are not reshaped by what they produce. Each response stands alone.</p>
+
+<p><em>AI computation generates, while human cognition transforms. </em></p>
+<p>In education and clinical settings, I’ve begun to notice something subtle but significant. When tools deliver instant, polished synthesis, people often seem less connected to the result. The answer feels correct and efficient, but sometimes less substantial. And as a result, retention may be shallower. None of this diminishes artificial intelligence’s ability to accelerate discovery or surface blind spots. But I wonder whether frictionless fluency occasionally allows us to bypass the very discomfort that makes insight sticky or durable. We need to understand that genuine reflection is rarely this smooth. It involves—no, incorporates—the bumps of hesitation and doubt. And this complex friction interacts with identity as it moves forward in time and context. </p>
+
+<p><em>The mind is permeable to itself.</em></p>
+<p>But in a culture dominated with a sort of cognitive instant gratification, something may be shifting. When reflection becomes externalized, we may drift into the precarious zone of selection rather than transformation. </p>
+<p>For me, the concern isn't that machines can think. It's that we may become less willing to let thinking change us. And if intelligence includes the capacity for self-alteration, then preserving this in the age of artificial intelligence may depend on protecting our own "cognitive permeability" and our human capacity to be reshaped by our own reasoning.</p>
+
+<p><em>In a world of reflection on demand, the rarest act may be allowing a thought to leave a mark.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-thought-changes-the-thinker" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-thought-changes-the-thinker</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-thought-changes-the-thinker</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/stocksnap-love-2583943_1280.jpg?itok=AGZirF1f" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 Reasons It's Hard to Accept Your Partner's Rejection]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/-2_9.jpg?itok=DmYxRRAE" alt="Stephen J. Betchen D.S.W." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">10 Reasons It's Hard to Accept Your Partner's Rejection</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The difficulty with letting go and moving on from a relationship.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Some people refuse to accept that a relationship is over.</li><li style="margin-bottom:6px;">People who have difficulty letting go have usually experienced loss or injustice in their past.</li><li style="margin-bottom:6px;">Trying to hold onto a rejecting partner is like clinging to a fantasy that he or she is the right one for you.</li>
+            </ul>
+          </div>
+                    <p>As the Neil Sedaka song contends: “Breaking Up is Hard to Do.” In fact, some people waste some of the best years of their lives trying to hold onto a partner who has abandoned or rejected them. Individuals who cannot tolerate this type of loss may continue to obsess about or even physically harass their ex-partners as long as they can; these situations may even require legal intervention. The following are 10 reasons I have found that make it especially difficult for partners to withstand a breakup. </p>
+
+<ol>
+<li><strong>Abandonment:</strong> If you have been abandoned by one or both parents (e.g., a father leaving home never to return), you might have trouble letting go, especially if the abandoning parent and abandoning partner are of the same sex.</li>
+<li><strong>Loss:</strong> Some losses are natural (e.g., death by old age). But if they are traumatic enough, they can have lingering effects such as an inability to let go of a meaningful relationship.</li>
+<li><strong>Injustice:</strong> If you have a heightened sense of injustice because you were treated unfairly in childhood (e.g., your sibling was favored), you may be more reactive to being rejected.</li>
+<li><strong>Obsessive-compulsive personality:</strong> If you have a tendency toward perfectionism and a need for organization, anything that disrupts your control might spark your resistance.</li>
+<li><strong>Perfection:</strong> If you perceived the initiating partner as special in one or more significant ways, you may think that you will never be able to find someone so perfect again—that he or she is the only one for you. This, too, can trigger resistance.</li>
+<li><strong>Low self-worth:</strong> If you saw the initiating partner as superior to you, then it might be hard to let go when rejected. Being rejected may trigger your low self-worth or self-esteem.</li>
+<li><strong>Fantasy:</strong> You hold on with the fantasy that someday you will be able to satisfy a significant, impossible-to-please person in your life. This is usually a transference from a difficult parent to the initiating partner.</li>
+<li><strong>Parentification (caretaking):</strong> If you have difficulty setting limits or boundaries with caretaking, your loyalty may know no bounds.</li>
+<li><strong>Competitiveness:</strong> If you are a competitive individual, you may view a breakup as a failure and will thus hold on until you have won the initiating partner back.</li>
+<li><strong>Intimacy:</strong> People who have difficulty with intimacy or getting emotionally and physically close may hold on to a rejecting individual as a defense to avoid finding someone with whom they will be able to form an intimate bond. </li>
+</ol>
+
+<p>A person who relentlessly attempts to hold on to a relationship even when his or her counterpart wants out needs to understand that, in most cases, the rejecting partner is doing both a favor. That is, sooner or later, the rejecting partner may abuse or neglect the loyal mate in a way that is just as painful, if not more so, than the rejection. Even if the rejecting partner gives contradictory messages (e.g., I love you, but I need space), it is safest to interpret this ambivalence as a rejection rather than to ride a roller coaster of emotions. In general, I recommend that instead of viewing abandonment or rejection by someone who does not want you as a tragedy, the rejected partner might do better to look at it as if they have "dodged a bullet" and freed themselves up to find someone right for them…someone who truly wants and values them.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/magnetic-partners/202603/10-reasons-its-hard-to-accept-your-partners-rejection" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/magnetic-partners/202603/10-reasons-its-hard-to-accept-your-partners-rejection</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/magnetic-partners/202603/10-reasons-its-hard-to-accept-your-partners-rejection</guid>
+            <dc:creator><![CDATA[Stephen J. Betchen D.S.W.]]></dc:creator>
+            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-rdne-6669872.jpg?itok=ERRygJWL" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Kissing Essential for Exciting Sex?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/authors/aaron_ben_zeev.jpg?itok=m8mK2epE" alt="Aaron Ben-Zeév Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sex</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Kissing Essential for Exciting Sex?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why do some people avoid kissing?</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Passionate kissing is most enjoyable in flourishing relationships.</li><li style="margin-bottom:6px;">There are three major types of intimacy—each with its own allure and concerns.</li><li style="margin-bottom:6px;">The need for profound intimacy may prevent passionate kissing in casual sex.</li>
+            </ul>
+          </div>
+                    <p>Kissing is a central element in intimate romantic relationships. Yet some people avoid kissing their partners—especially passionate kissing. How can we explain this puzzle?</p>
+<h2><strong>P</strong>assionate and Non-Passionate Kissing</h2>
+<blockquote><p>“<em>If there is no profound intimacy, I cannot kiss men during casual sex; they are human vibrators for my sexual release</em>.” –Lilian</p>
+</blockquote>
+
+<blockquote><p>“<em>My best, most passionate kissing was during a casual sexual encounter</em>.” –Mia</p>
+</blockquote>
+<p>Kissing encompasses a wide range of gestures that fall along an affective continuum—from light pecks to deeply passionate kisses. These gestures differ in duration, purpose, intensity, level of intimacy, and emotional meaning. Compared with pecks, passionate kisses are typically longer, more intense, more intimate, and more closely associated with sexual desire (whereas pecks typically occur in affectionate friendships).</p>
+
+<p>Passionate kissing often involves techniques such as French kissing, in which partners use their tongues to deepen physical and emotional connection. A passionate kiss may begin slowly, as partners attune to each other’s responses, or erupt quickly, expressing strong desire. Kissing also functions as a form of nonverbal emotional communication, conveying feelings that may be difficult to articulate in words.</p>
+
+<h2>Women’s Views on Passionate Kissing</h2>
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/reproductive-health-supplies-coalition-lR1eWq2nl-Y-unsplash.jpg?itok=51qPzFwd" width="320" height="240" data-insert-type="image" alt="Women in newly published research wore a transdermal estradiol (or placebo) patch during neuroimaging and behavioral testing" title="Reproductive Health Supplies Coalition / Unsplash"></div>
-<div class="caption">Women in newly published research wore a transdermal estradiol (or placebo) patch during neuroimaging and behavioral testing</div>
-<div class="insertArea--origin subtext">Source: Reproductive Health Supplies Coalition / Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/pexels-olly-3852948.jpg?itok=YO2Tv-8p" width="320" height="213" data-insert-type="image" alt="Kissing" title="leeloothefirst / Pexels"></div>
+<div class="caption">Kissing</div>
+<div class="insertArea--origin subtext">Source: leeloothefirst / Pexels</div>
 </div>
 </div>
 </div>
-<p>We focused on the amygdala, a key structure in the brain’s threat detection system. Heightened amygdala reactivity is one of the most consistent neural findings in PTSD.</p>
-<p>The findings were recently <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2524903122">published</a> in the journal <em>Proceedings of the National Academy of Sciences</em>, and here’s what we found: When estradiol levels were boosted during this post-ovulation window, women with little lifetime trauma exposure showed reduced reactivity in the right amygdala when viewing threat cues. The amygdala is a brain region that coordinates emotional responses to threat, and is central to the experience of fear. This region is often hyper-responsive to threat cues in people with PTSD.</p>
-
-<p>In other words, estradiol appeared to dampen the brain’s alarm system.</p>
-<p>But among women who had experienced significant trauma, whether or not they met criteria for PTSD, this dampening effect did not occur. Their amygdala reactivity remained elevated regardless of hormone manipulation.</p>
-<p>This suggests that trauma exposure may alter how ovarian hormones regulate fear circuitry. The hormonal “brake” that typically tempers threat responses may not function the same way after traumatic stress.</p>
-
-<h2>Hormones and the Strength of Negative Memories</h2>
-<p>In <a href="https://www.sciencedirect.com/science/article/pii/S0306453025004329">related work </a>from the same project, we found that the natural drop in estradiol after ovulation also influences memory formation.</p>
-<p>During this low-estradiol phase, activation in a brain region involved in encoding detailed personal memories, the entorhinal cortex, predicted stronger later recall of negative associations. When estradiol was experimentally increased, this bias disappeared. This effect was present regardless of trauma history.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>Put simply: when estradiol is low, the brain may encode negative experiences more strongly.</p>
-<p>This suggests that neurobiology may shape which experiences get stamped into long-term memory — and how vividly. If a highly stressful event occurs during a low-estradiol window, it may be encoded with particular intensity.</p>
-
-<h2>Why This Matters</h2>
-<p>The neuroscience of PTSD was initially built from studies of male military veterans. Only more recently have we begun to investigate the biological mechanisms that may contribute to women’s higher rates of PTSD.</p>
-<p>Hormonal transitions (such as puberty, postpartum, perimenopause) are known periods of vulnerability for mood and stress-related disorders. Our findings suggest that even within a typical menstrual cycle, there may be smaller windows of increased sensitivity.</p>
-
-
-<p>Importantly, trauma remains the driver of PTSD. Hormones do not cause trauma. But they may influence how the brain responds to threat and how powerfully stressful events are remembered.</p>
-<p>For psychologists and psychiatrists, this can raise meaningful questions:</p>
+<p>Despite the powerful allure and intimacy of passionate kissing, numerous people avoid it. Below are illustrative responses from women answering the question: “How often is there passionate kissing in your relationship?” (<a href="https://www.reddit.com/r/AskWomen/comments/1npzn21/how_often_is_there_passionate_kissing_in_your/">Reddit</a>).</p>
+<h2>The Allure of Passionate Kissing</h2>
 <ul>
-<li>When symptoms fluctuate, should we be asking about cycle timing?</li>
-<li>Are we screening for PTSD consistently in reproductive healthcare settings?</li>
-<li>How might trauma history interact with hormonal transitions across the lifespan?</li>
+<li>“Passionate kissing puts me in the mood more than anything else.”</li>
+<li>“We only do it if we are going to have sex or during sex.”</li>
+<li>“Every day, every chance we get.”</li>
+<li>“We kiss every day, but the deep sensual kisses happen less frequently. I crave this type of kiss.”</li>
+<li>“When I was married, every single day. I could say a lot more with a kiss than with my words.”</li>
+<li>“I’m single and celibate now, and I miss passionate kissing more than sex!”</li>
+<li>“Usually 5–7 times per week. It doesn’t always lead to sex; we just love kissing each other.”</li>
+<li>“Every time we see each other. He’s a great kisser, so why not?”</li>
 </ul>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+
+<h2>Avoiding Passionate Kissing</h2>
+<ul>
+<li>“Never. I’ve always found tongue kissing gross. I prefer closed-mouth kissing.”</li>
+<li>“I think too much about basically sharing saliva and whatever else is in someone’s mouth.”</li>
+<li>“I enjoy kissing physically, but aging has made me more sensitive to germs.”</li>
+<li>“I hate kissing with tongue, but you can still kiss passionately without it.”</li>
+<li>“Tongues are a bit yucky—too wet. But in the right mood, or when drunk, it’s fun.”</li>
+<li>“With tongue? Rarely. But passionate kissing without tongue happens daily.”</li>
+<li>“Tongue? No. I need lots of kisses, but they’re never tongue kisses.”</li>
+</ul>
+
+<h2>Closeness and Vulnerability in Intimacy</h2>
+<p>Intimacy generally refers to feelings of closeness, connectedness, openness, and mutual comfort. It typically develops over time, as partners get to know one another and feel safe together.</p>
+<p>Another key component of intimacy is vulnerability—trusting that one’s partner will not hurt or betray you. In a close and trusting relationship, fear of betrayal or infidelity tends to diminish.</p>
+
+<p>In flourishing romantic relationships, both closeness and vulnerability coexist. By contrast, in casual or commercial sex, closeness is minimal, while managing vulnerability becomes more central.</p>
+<p>Invulnerability can also exist without closeness—for instance, when two people are unlikely to meet again. This is the case in the “stranger on the train” scenario, where limited time and the absence of future consequences can create a surprising sense of immediate intimacy.</p>
+
+
+<p>Kissing is widely recognized as central to intimate experience. Touch is a primary mode of communicating intimacy in romantic relationships (Sorokowska et al., 2023). Kissing both creates and expresses intimacy. However, in relational contexts where closeness is unwanted—such as casual or commercial sex—people may avoid passionate kissing.</p>
+
+<h2>Temporal Aspects of Passionate Kissing</h2>
+<p>A helpful way to understand romantic intimacy is to distinguish between sexual intimacy and romantic intimacy. The key difference lies in their temporal dimension. Romantic intimacy requires time to develop emotional depth and closeness. Sexual intimacy, however, may arise instantly. Moreover, intense sexual desire tends to be strongest at the beginning of a relationship and often decreases with long-term familiarity (Ben Ze’ev, 2000; 2019).</p>
+
+
+
   
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>These findings are early and mechanistic. They do not yet translate into specific treatment recommendations. But they provide some of the strongest experimental evidence to date that estradiol directly influences human fear and memory circuitry.</p>
-<h2>For Women Who Have Wondered</h2>
-<p>If you’ve sensed that certain phases of your cycle feel more emotionally intense, there may be biological reasons.</p>
 
 
+<p>We can therefore identify three primary temporal forms of intimacy:</p>
+<ol>
+<li>Enduring intimacy</li>
+<li>Bounded intimacy</li>
+<li>Instant intimacy</li>
+</ol>
+<h2>1. Enduring Intimacy: Ongoing Romantic Relationships</h2>
+<p>In long-term relationships, avoiding passionate kissing often stems from the nature of the act itself, which some perceive as overly intimate or aesthetically unpleasant (“consuming another person’s saliva is gross”). However, the depth of the relationship may mitigate this discomfort. As one woman noted: “My partner LOVES passionate kissing. I used to hate it, but his love for it helped me enjoy it and stop overthinking.”</p>
 
-  
+<h2>2. Bounded Intimacy: Commercial Sex, Sugaring, and Casual Sex</h2>
+<blockquote><p>“<em>I have had sex with my young lover a few times at a hotel; it means nothing to me. My body is connected with him, but my soul is not. I’m trying to keep the emotional attachment at arm’s length</em>.” –A married woman</p>
+</blockquote>
+<p>Another reason for avoiding passionate kissing concerns the relational framework—commercial sex, sugaring, or casual sex—where intimacy is limited or “bounded.”</p>
 
+<p>Elisabeth Bernstein (2007) coined the term “bounded authenticity” to describe the sale and purchase of seemingly genuine emotional and physical connection. Sex workers may simulate (or even partially experience) genuine desire to provide clients with a sense of intimacy, yet the intimacy remains constrained. Sugaring extends this idea by combining money, companionship, and a semi-intimate “girlfriend experience.”</p>
 
-<p>If you’ve felt dismissed when asking whether hormones affect your mental health, the growing evidence suggests they influence the very brain systems that detect threat and encode memory.</p>
-<p>Hormones are not the whole story of mental health.</p>
-<p>Trauma is not the whole story either.</p>
-<p>But when we examine the brain during the days after ovulation, during a drop in estrogens, we can see measurable changes in how fear and memory systems function.</p>
+<p>Kissing in casual sex is more complex. Avoidance may reflect the nonromantic nature of the interaction or one’s personal boundaries. Some individuals passionately kiss in one relational context but avoid it in another.</p>
+<h2>3. Instant Intimacy: The Stranger on the Train</h2>
+<p>Instant intimacy describes fleeting yet intense encounters with strangers. These interactions often involve high trust, low perceived risk, and freedom from ongoing social expectations. Conversations with strangers can be surprisingly pleasant (Schroeder et al., 2022), and this effect may be amplified in sexual encounters.</p>
 
-<p>And for many women, that recognition alone is powerful.</p>
+<h2>Concluding Remarks</h2>
+<p>The first form of intimacy—enduring intimacy—is grounded in long-term closeness. The second—bounded intimacy—characterizes commercial sex, sugaring, and casual sex, where emotional involvement is deliberately limited. The third—instant intimacy—occurs between strangers and is shaped not by closeness, but by the absence of future consequences.</p>
+
+<p>In sum, passionate kissing is usually most enjoyable when the relationship is flourishing, enabling partners to overcome aesthetic concerns and emotional hesitations.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/science-therapy-and-whole-body-health/202603/women-trauma-and-a-long-standing-question-about" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/in-the-name-of-love/202603/is-kissing-essential-for-exciting-sex" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/science-therapy-and-whole-body-health/202603/women-trauma-and-a-long-standing-question-about</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-therapy-and-whole-body-health/202603/women-trauma-and-a-long-standing-question-about</guid>
-            <dc:creator><![CDATA[Abigail Powers Lott Ph.D., ABPP]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/in-the-name-of-love/202603/is-kissing-essential-for-exciting-sex</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-the-name-of-love/202603/is-kissing-essential-for-exciting-sex</guid>
+            <dc:creator><![CDATA[Aaron Ben-Zeév Ph.D.]]></dc:creator>
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/anita-jankovic-m5oFzzrcKwc-unsplash.jpg?h=98704c57&amp;itok=RDNvV7oy" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-leeloothefirst-4630026.jpg?itok=hDFCJCJB" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How to Know What Really Matters]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/stybel-peabody.jpg?itok=8CAyO6sw" alt="Larry Stybel Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Know What Really Matters</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A top entrepreneur advises you to do a thorough yearly inventory—of yourself.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p>Ron Shaich is an American entrepreneurial legend. He began his career as the owner of a Boston cookie store. That store became Au Bon Pain. Shaich later became the founder of Panera Bread.</p>
-<p>In Shaich’s two decades as chief executive officer of Panera, he generated annualized shareholder returns of 25%. It was the best -performing stock in the restaurant industry. Shaich is credited with defining the $80 billion fast-casual restaurant segment. Today, Shaich is the lead investor in Cava, Tatte, Life Alive, and Level 99.</p>
-
-<p>In 2023, Shaich published a book, <em>Know What Matters: Lessons from a Lifetime of Transformations</em>. What follows is a discussion of two of those lessons. </p>
-<p><strong>Conduct a Yearly “Ultimate Performance Review”</strong></p>
-<p>”I cannot tell you whether there is a judgment day ‘up there.’ I can tell you there is one down here, if we have time to face it," Shaich observes. "Barring sudden death or mental incapacitation, the impending final deadline forces each of us to judge the life we have lived. Regardless of whether we believe in God, most of us in our last months on earth will give ourselves the ultimate performance review.”</p>
-
-<p>Instead of waiting for the end of life to conduct this ultimate performance review, Shaich recommends doing one every year.</p>
-<p>Assume you are approaching death. Ask yourself three questions: </p>
-<p><em>Did I live the life I wanted to live? </em></p>
-<p><em>Did I fulfill my potential? </em></p>
-<p><em> Did I live a life I respect?</em></p>
-<p>We recommend you evaluate your response to each question on a scale of 0-10. Zero is total failure, and 10 is total success. In looking at your response, are you at peace with the numbers?</p>
-
-<p>If not, begin writing behavioral goals to move the evaluation in a more positive direction so that the numbers are notably higher when you do the exercise 365 days from today. Use your mobile device calendar to assign dates to specific action steps. Schedule your next year’s Ultimate Performance Evaluation.</p>
-
-<p><strong>Your Annual "Ultimate Performance Review" in Business</strong></p>
-<p>Shaich recommends the same future-back principle for business. The endpoint is not your last year of life but a desired outcome in business. You then work backwards to determine what needs to be done over the next 12 months to move your enterprise in a more positive direction.</p>
-
-<p> “Utilizing this future-back process has forced me to imagine what would matter once the future unfolded in front of us," Shaich reports. "It forced me to focus on what we wanted to accomplish and how we would get there. It pushed us to think year-to-year rather than quarter-to-quarter.”</p>
-<p><strong>Entrepreneurs: It’s OK to Be a Control Freak</strong></p>
-
-<p>To survive the challenges of the entrepreneurial life, Shaich found, "there is only one prescription I can offer: Love the work. Nothing else—not the money, and certainly not the spotlight—will get you through the tough times.”</p>
-<p>Shaich is cautious about companies going public. An Initial Public Offering (IPO) “is just like a wedding," he says. "Everyone gets carried away in the ceremony, the promise, and the emotions of the moment. After the wedding comes the hard work of marriage. Being married to thousands of investors is no ‘happily ever after fairy tale.’”</p>
-
-
-<p>Being CEO of a public company inevitably drags a person into viewing business using the quarterly share price as<em> the</em> measure of success. In theory, “a company’s stock price should be a consequence of serving customers well. But CEOs are forced into looking at the quarterly share price as an end in itself.”</p>
-
-<p><strong>How to Maintain Control when Growth Requires Capital</strong></p>
-<p>One approach to maintaining control is to stay private and grow slowly within your fiscal means. Chick-fil-A has followed that path. The Atlanta-based chain retains ownership over nearly 3,000 restaurants. It is one of the most well-respected restaurant companies in America.</p>
-
-
-
-  
-
-
-<p>Another option is to do what Au Bon Pain did. It created two classes of stock. Class A common stock had limited voting rights and was sold in the public markets. Class B shares were offered to founders, executives, and their families. Each share of Class B had three times the voting power as one share of Class A. </p>
-
-<p><strong>Shaich’s “Biggest Mistake”</strong></p>
-<p>Yet Shaich considers the two classes of shares as “probably the biggest mistake of my professional life.”</p>
-<p>He faults himself for failing to insist on larger voting power for Class B shares. He cites the equity structure of Facebook as a good example of what he wished he had done. Had each share of Class B represented 10 votes instead of three, he would have had more than 50% of the votes.</p>
-
-<p><strong>Credibility Is Currency</strong></p>
-<p>Ron Shaich concludes by warning entrepreneurs to be careful about how much control they are willing to give up. If you find yourself no longer in control, hang on to your credibility. “Credibility is your most important currency” once you lose control.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/platform-for-success/202603/how-to-know-what-really-matters" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/platform-for-success/202603/how-to-know-what-really-matters</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/platform-for-success/202603/how-to-know-what-really-matters</guid>
-            <dc:creator><![CDATA[Laurence J. Stybel Ed.D.]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conversational AI and Emotional Intelligence]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/sant.png.jpg?itok=pcVt96oS" alt="Michael Santoro J.D., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Conversational AI and Emotional Intelligence</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Conversational AI can support regulation—and be integrated into therapy.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Can We Truly Change Our Personalities?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-03/James%20M%20Kerr_0.png.jpg?itok=g6_R0Hl-" alt="James M. Kerr" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can We Truly Change Our Personalities?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why character-building is key.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI can help users reframe messages and regulate emotional reactions before responding.</li><li style="margin-bottom:6px;">Research shows proportionate regulation—not expressiveness alone—drives social competence.</li><li style="margin-bottom:6px;">Fluent language can create an illusion of insight while masking weak judgment.</li>
+              <li style="margin-bottom:6px;">Personality determines tendencies.</li><li style="margin-bottom:6px;">Character determines choices.</li><li style="margin-bottom:6px;">Some of us hide behind personality to avoid the hard work of character-building.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
+                    <p><em>“That’s just how I am,”</em> she said.</p>
+<p>To which I politely asked: <em>“Are you describing your personality – or are you excusing your behavior?”</em></p>
+<p>So was the start of some of the most challenging, albeit enlightening, coaching sessions that I’ve ever facilitated.</p>
+<p>You see, that question immediately forced a “self-awareness moment” for my client (for privacy purposes, let’s call her “Marti”).</p>
+
+<p>Of course, defensiveness and deflection followed as she wrestled through the internal dialogue that arises when one’s <em>comfort of identity</em> is disturbed. It always takes time to process new realizations that we discover about our temperament. After all, these kinds of revelations inevitably cut to questions about our character, too.</p>
+
+<p>Before I share the results of my time with Marti, let’s explore this point for a moment. It is a significant one.</p>
+<h2>Personality Changes Are Really Hard</h2>
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/Man_writing_while_using_his_laptop_1.jpg?itok=R4NjLiqG" width="320" height="213" data-insert-type="image" alt="Drafting and reframing communication can aid emotional regulation" title="Pixel.la Free Stock Photos / Wikimedia Commons, Creative Commons CC0 1.0 Universal Public Domain Dedication"></div>
-<div class="caption">Drafting and reframing communication can aid emotional regulation</div>
-<div class="insertArea--origin subtext">Source: Pixel.la Free Stock Photos / Wikimedia Commons, Creative Commons CC0 1.0 Universal Public Domain Dedication</div>
-</div>
-</div>
-</div>
-<p>For many people, the first meaningful use of conversational artificial intelligence (AI) is as an aid to interpersonal communication. Many adults—especially older adults—use these systems to rehearse difficult conversations, clarify thoughts, or find the right words when communication feels effortful.</p>
-
-<p>They ask: “Can you make this sound nicer?” “How should I respond?” “Help me say this without making things worse.” The impulse is natural. Human communication is fragile. Tone is difficult to calibrate, and small missteps escalate quickly. When to speak? When to hold back?</p>
-<p>Beneath these practical requests lies a deeper issue: emotional intelligence—the capacity to regulate emotion, interpret social cues, and judge when expression serves a relationship and when restraint protects it. In this post, I examine conversational AI through a clinical lens, asking two questions: What is happening psychologically? And what does it mean for therapeutic practice? The aim is not to react to new technologies but to help clinicians engage them deliberately.</p>
-
-<h2>Emotional Intelligence Is About Regulation, Not Just Expression</h2>
-<p>Psychological research clarifies why AI-assisted communication can sometimes improve exchanges. Emotional intelligence is often mistaken for expressiveness or empathy alone. In the popular literature, it is associated with Daniel Goleman’s emphasis on self-awareness, self-regulation, and social attunement. Complementing that framework, decades of experimental work by James Gross and colleagues show that effective social functioning depends as much on regulation as on expression. In foundational research, Gross examined how people regulate emotion during social interaction. Participants were instructed either to express their feelings freely or to use cognitive reappraisal—reinterpreting a situation to alter its emotional impact (Gross 1998; Gross and John 2003). Those who regulated their responses were judged more appropriate and more professionally effective, even when they appeared less warm. Emotional intelligence, in this sense, is not simply expressing emotion, but modulating it proportionately.</p>
-
-<p>When used well, conversational AI can function as a regulatory aid. By helping users rephrase or reframe a message, it can support the modulation that emotional intelligence requires. These systems generate empathy and reassurance fluently, which can help users pause and reconsider reactive communication. But fluency is not judgment. The same ease that softens tone can also encourage overelaboration or misplaced warmth when restraint would signal maturity.</p>
-
-<p>In my own professional life, I have used conversational AI to reframe academic exchanges that initially felt personal. The process often surfaces alternative explanations I might overlook in the heat of reaction. That illustrates both the promise and the limit of these systems: They can support recalibration, but they cannot determine what proportion the situation requires.</p>
-
-<h2>The Risk of Overcommunication</h2>
-<p>A second body of research examines conversational norms and the risks of overcommunication. Studies of self-disclosure show that sharing too much—too quickly or in the wrong context—can damage social evaluations, even when intentions are positive. In classic experimental work, participants who disclosed more personal information than situational norms warranted were rated as less socially skilled and less appropriate (Cozby 1973; Derlega and Grzelak 1979). Related studies find that combining multiple conversational goals—such as expressing appreciation while also making a request—can reduce perceived clarity and professionalism. These outcomes reflect miscalibration, not hostility.</p>
-
-<p>This research marks the boundary of AI’s usefulness. Conversational systems are optimized to elaborate and enrich language. That tendency can help soften tone, but it can also encourage excess—longer messages, layered intentions, amplified emotion—precisely where restraint would signal judgment. The system does not know when “more” becomes disproportionate.</p>
-
-<p>I saw this dynamic in a classroom interaction. An undergraduate submitted an email drafted with AI assistance. The message was articulate and emotionally fluent. When I asked, the student readily acknowledged using AI. The problem was not concealment but proportion. The email combined multiple purposes, overelaborated emotionally, and missed contextual cues about what the situation required. The tool improved tone. It could not supply judgment.</p>
-
-<h2>Fluency Is Not Understanding</h2>
-<p>A third psychological insight helps explain why these misjudgments are easy to miss. Research on processing fluency shows that people mistake smooth language for deeper understanding. In experiments by Oppenheimer (2006), explanations identical in content but written in more polished prose were rated as more intelligent and insightful—even when they contained logical gaps. Fluency creates an illusion of competence. Because fluency is usually adaptive, it reduces scrutiny and delays correction.</p>
-
-
-
-  
-
-
-<p>I encounter this in my own writing. When a draft reads beautifully but feels slightly unlike my voice, I pause. Sometimes the prose is elegant but vague. The task then is not refinement but simplification—to ask what I am actually trying to say. The goal becomes precision rather than polish.</p>
-<p>In interpersonal communication, the same bias operates. A rhetorically smooth message can feel emotionally intelligent while misjudging proportion. Polished language may conceal underdeveloped judgment rather than reveal understanding. This is not a failure of AI, but a predictable interaction between human psychology and fluent output.</p>
-
-<h2>Remembering What Not to Say</h2>
-<p>A senior scholar once described wanting a technology that would remind him to call his adult daughter—but also remind him what not to ask. Don’t probe about her job. Don’t raise sensitive topics. Don’t turn concern into intrusion.</p>
-<p>The difficulty was not initiating contact. It was remembering the boundaries that make a conversation supportive rather than overbearing. What he wanted was not more expressiveness, but restraint.</p>
-
-<p>Emotional intelligence is not simply articulating warmth. It is calibrating what to say—and what to withhold—given the history and sensitivities of a relationship. Good intentions can overshoot proportion.</p>
-<p>Here, conversational AI reaches its limit. These systems can suggest phrasing and soften tone. With enough context, they may even recognize patterns. But they do not inhabit the relationship or carry responsibility for its consequences. A model can suggest what sounds reasonable. Only a person can judge what is proportionate. Conversational AI can assist language. Deciding what belongs remains human.</p>
-
-<h2>What This Means for Clinicians: Integrating AI Into Reflective Practice</h2>
-<p>The distinction between expressive fluency and relational judgment has direct implications for clinical work. Many clients already use conversational AI to regulate themselves before entering therapy. Rather than viewing this as a threat to therapeutic authority, clinicians can treat it as material for reflection.</p>
-
-<p>The first step is inquiry. How is the tool being used? Did it help the client pause rather than react? Did it introduce alternative interpretations—or encourage avoidance? AI-assisted drafts and rehearsals can be brought into session and examined collaboratively.</p>
-<p>Clinicians may even structure its use. A client prone to reactive email exchanges might draft a response with AI and review it in session. What assumptions were amplified? What tone was introduced? What still feels disproportionate? The aim is not to perfect the message but to illuminate regulatory patterns.</p>
-
-<p>This extends familiar techniques. Cognitive reappraisal, role-play, journaling, and letter-writing already externalize reactions for examination. Conversational AI accelerates that process by generating alternatives quickly. The risk is not replacement of judgment, but mistaking fluency for growth. Therapy remains the place where proportion is cultivated—where clients learn not only how to phrase a thought but also whether to express it at all.</p>
-
-<h2>A Fair Shake for AI—and for Clinical Judgment</h2>
-<p>To give conversational AI a fair shake is to resist two distortions: alarmism and overconfidence. These systems can support reflection and perspective-taking. They can also obscure proportion if fluency is mistaken for insight.</p>
-<p>For clinicians, the task is not exclusion but integration. Conversational systems can be examined, structured, and sometimes prescribed. But the work of therapy—developing restraint, tolerance, and discernment—cannot be outsourced.</p>
-
-<h2>Conclusion</h2>
-<p>Conversational AI can help people communicate more smoothly. It cannot determine what belongs in a relationship at a particular moment. That discernment is cultivated over time—in families, workplaces, and therapy.</p>
-<p>If this column is to give AI a fair shake, it will do so without dismissing new tools or surrendering judgment to them. The aim is integration with clarity. The responsibility remains ours.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-fair-shake/202603/conversational-ai-and-emotional-intelligence" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-fair-shake/202603/conversational-ai-and-emotional-intelligence</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-fair-shake/202603/conversational-ai-and-emotional-intelligence</guid>
-            <dc:creator><![CDATA[Michael A. Santoro J.D., Ph.D.]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/Man_writing_while_using_his_laptop_1.jpg?itok=Cbvn0t--" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 Signs You Have an "Almost Secure" Relationship]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Signs You Have an "Almost Secure" Relationship</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why “almost” can be more destabilizing than we tend to admit.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/sebastian-dumitru-36g19a7ivrs-unsplash.jpg?itok=UoiPlkd8" width="320" height="320" data-insert-type="image" title="Sebastian Dumitru / Unsplash" alt="Sebastian Dumitru / Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/personality%201.png.jpg?itok=1JD6CvfM" width="320" height="320" data-insert-type="image" title="alvaro / Adobe Stock" alt="alvaro / Adobe Stock"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Sebastian Dumitru / Unsplash</div>
+<div class="insertArea--origin subtext">Source: alvaro / Adobe Stock</div>
 </div>
 </div>
 </div>
-<p>An "almost secure" relationship can look functional from the outside. There is affection, reliability, shared routines and an absence of unsettling drama. An “almost secure” relationship is often admired by friends and approved by their family. Even the partners themselves often feel confused for wanting more when, on paper, things are “good.”</p>
+<p>We can think of our personalities as our pre-programmed default settings. Our energy levels, emotional reactivity tendencies and cognitive processing styles are pretty much set early in life. We don’t tend to reengineer our nervous systems in mid-career.</p>
+<p>As a consequence, making personality changes is sometimes nearly impossible. However, that doesn’t give us permission to be an all-out terror to those around us.</p>
 
-<p>However, psychological safety is hardly ever a binary matter. And relationships that hover just shy of emotional security come with their own costs that are easy to miss precisely because nothing is obviously broken. Here are three research-informed downsides of being in an almost secure relationship.</p>
+<p>Much of my work with Marti was focused on helping her to recognize that her natural tendencies do not prescribe character. For example, being impatient doesn’t allow her to be disrespectful; being emotionally reactive doesn’t forgive explosive volatility when things don’t go her way.</p>
+<p>Being disrespectful and emotionally volatile are character traits, not personality presets – and character traits can be improved through training and a commitment to doing the work required to make change happen.</p>
 
-<h2>1. Your Nervous System Never Fully Powers Down in Your Relationship</h2>
-<p>One of the defining features of a secure relationship is predictability at the level of emotional responsiveness. This isn’t knowing what will happen, but knowing how your partner will show up when something does.</p>
-<p>In almost secure relationships, that predictability is partial. Care exists, but it remains inconsistent. Repair happens, but often slowly or unevenly. Emotional availability is present, but not reliably enough to be counted on. This results in chronic vigilance, and that can be exhausting when it’s perpetual.</p>
+<h2>Character Changes Are Much Easier to Realize</h2>
+<p>Marti had to accept that when she exploded, belittled subordinates or shifted blame to others was not because <em>“That’s just how I am,”</em> it was because she had not learned and practiced better responses to taxing situations enough to actually “own” them.</p>
+<p>When Marti realized that she did not need to be a victim of her personality, our work shifted to helping her learn new behaviors for managing stress at work.</p>
 
-<p>A <a href="https://academic.oup.com/scan/article/10/6/832/1734249">functional MRI study</a> shows that when people do not feel securely connected, especially in moment-to-moment interactions, the brain’s threat system stays more active. The amygdala, which scans for danger, becomes more reactive to emotionally charged cues.</p>
-<p>At the same time, the prefrontal cortex stays engaged in monitoring, evaluating and bracing for what might go wrong. When attachment security is experimentally activated, this threat reactivity drops. When it is not, the brain is always on high alert. Put simply, the nervous system treats relational ambiguity as a form of risk.</p>
+<p>Our efforts centered on:</p>
+<ol>
+<li>Developing better emotional regulation skills</li>
+<li>Practicing response scenarios</li>
+<li>Designing accountability structures</li>
+</ol>
+<p>Like most everything else in our bodies, character also transforms through repetition.</p>
+<h2>Keys to Marti’s Transformation</h2>
+<p>Among the first things that I taught Marti to use was the “90-second rule.” I suggested that she deploy it whenever she felt compelled to explode. She needed to be on the lookout, at work, for the physical indications that she was feeling stressed, like holding her breath and clenching of her jaw, then give herself a 90-second <em>time-out</em> where she said nothing, took three deep, deliberate breaths, while reminding herself that leadership was about enabling others, not making herself feel good about being in charge.</p>
 
-<p>This is why people in almost secure relationships often say things like:</p>
-<ul>
-<li>“I’m usually okay, but I never quite relax.”</li>
-<li>“I keep replaying what I said.”</li>
-<li>“I’m always thinking about how to bring things up better next time.”</li>
-<li>“It feels like I’m doing emotional background processing all the time.”</li>
-</ul>
-<p>A distinction to note here is that this is not anxiety in the clinical sense. It is a sense of persistent readiness to advocate for yourself, to explain yourself or to manage disappointment if it arrives.</p>
-
-<p>In reality, the nervous system is designed to move between activation and rest. But when safety cues are inconsistent, rest never fully arrives. With the body being constantly braced to ensure safety and security, the emotional energy gets spent on regulation instead of connection.</p>
-<p>People often mislabel this as burnout, stress or personal sensitivity. But in many cases, the real drain is relational. The relationship is consuming regulatory bandwidth because it never gives the nervous system the clear signal that it is safe to stand down.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>Remember, security is not the absence of conflict. It is the absence of chronic uncertainty about whether conflict will be held safely. In almost secure relationships, this is pretty much absent.</p>
-<h2>2. You Become Fluent in Self-Silencing in Your Relationship</h2>
-<p>A core feature of secure attachment and a powerful belief is that expressing your needs will not endanger the connection. This means that you should be able to be honest and still be held, and that you can ask and still be loved. In almost secure relationships, that belief is only partly true.</p>
+<p>This helped Marti to retrain her stress reactions.</p>
+<p>Next, we shifted focus to practicing response scenarios. Marti had a tendency to get defensive and over-explain whenever her boss asked her a question. We worked on rehearsing new responses. Instead of defaulting to defensiveness, Marti learned the power that comes from asking questions of her boss, like: <em>“What would good look like to you, boss?”</em></p>
 
 
-<p>Sometimes your needs are met. Other times they are postponed, minimized, misunderstood or met with subtle defensiveness. Your nervous system begins to learn that expressing yourself carries a small emotional cost. And so, without realizing, you start to edit.</p>
-<p>A 2021 <a href="https://link.springer.com/article/10.1007/s42761-021-00044-y">study</a> published in <em>Affective Science</em> on relational accommodation and interpersonal emotion regulation shows that in environments that are neither rejecting nor reliably supportive, people adapt in a very specific way: they reduce the frequency and intensity of their bids for connection because they are trying to avoid the accumulation of small, repeated disappointments. In other words, they start employing strategies for self-protection.</p>
+<p>This helped Marti flip her script from needing to be flawless to being open to learning. We can’t be defensive when we are in learning mode.</p>
+<p>Our last set of coaching sessions centered on building a solid accountability structure for Marti. I had her do two things:</p>
+<ol>
+<li>Keep a diary</li>
+<li>Make a <em>Public Commitment to Change</em></li>
+</ol>
 
-<p>You may have noticed it in familiar ways:</p>
-<ul>
-<li>Waiting for the “right moment” that never quite arrives</li>
-<li>Softening your language until the need becomes almost invisible</li>
-<li>Telling yourself, “It’s not a big deal,” often enough that it starts to feel true</li>
-<li>Mistaking emotional maturity for emotional restraint</li>
-</ul>
-<p>The resultant internal split becomes quite evident, even if it doesn’t feel so. There is a part of you that feels the need, and a part of you that has learned to manage it privately.</p>
+<p>In her diary, I asked her to choose one behavior that she wanted to change and track it daily. She chose to work on being less dismissive of her colleagues.</p>
+<p>This strategy works because we place importance on what we measure. By measuring her progress on being less dismissive of others, Marti was able to improve her awareness of when she was flippant and gave herself the opportunity to choose to change those interactions in the future. Over time, the practice helped her to lessen her dismissiveness.</p>
 
 
 
   
 
 
-<p>The danger here is that when needs go unaddressed, they don’t disappear; they only resurface as resentment, emotional distance or a strange sense of loneliness inside a relationship that looks fine from the outside. Almost secure relationships often feel peaceful because so much remains unspoken. But it is imperative to understand that peace maintained through self-silencing is not the same as peace built on safety.</p>
+<p>Additionally, I asked Marti to make a <em>Public Commitment </em>to working on realizing a related change.</p>
+<p>So, at her next team meeting, Marti made this announcement:</p>
+<p><em>“I am working on NOT interrupting people when they are speaking. If you catch me doing it, please call it out immediately. There will be no repercussions to you when you do except I may become easier to deal with! Thanks, in advance, for helping me make some needed changes.”</em></p>
 
-<h2>3. Growth Stalls Because Nothing Forces a Reckoning in Your Relationship</h2>
-<p>One of the biggest downsides of an almost secure relationship, ironically, is that it rarely triggers decisive change. In insecure relationships, pain is loud. In secure relationships, growth is supported. But in almost secure ones, minor discomfort is so chronic that people slip into rationalization. People often stay in thinking:</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
+<p>This suggestion proved to be wonderfully effective because the change Marti was trying to make was now tied to her identity – and, as implied earlier in this piece, that’s a powerful motivator.</p>
+<p>As we close, let me offer this bit of advice that I discovered while working through this transformation with Marti:</p>
 
-  </div>
-
-<ul>
-<li>“We’re better than most couples.”</li>
-<li>“Every relationship has issues.”</li>
-<li>“This isn’t bad enough to blow up my life.”</li>
-</ul>
-<p>They are certainly not wrong. Almost secure relationships often function well enough to avoid rupture. But they don’t promote growth because they lack responsiveness.</p>
-<p>A 2025 <a href="https://link.springer.com/article/10.1186/s40359-025-03415-3">study</a> published in <em>BMC Psychology</em> shows that emotional intimacy deepens through cycles of rupture and repair in which vulnerability is met with acceptance. When people risk showing their deepest, most vulnerable side, and when those emotions are received with care, trust and closeness expand. Shame or emotional insecurity, on the other hand, breaks down this process of the relationship. Partners protect themselves, soften what they bring things up, and avoid going too far into the emotional truth of the moment.</p>
-
-<p>This dynamic is typical of almost secure relationships. Ruptures are often left half addressed, and repair is only attempted at surface level. The conversations might end with politeness, but they rarely guarantee emotional resolution. And because vulnerability is not reliably met with acceptance, people stop risking it altogether. And without real vulnerability, there can be no real repair.</p>
-
-<p><em>A version of this post also appears on Forbes.com.</em></p>
+<p><em>“Personality defines our starting point and character determines the impact we achieve when we choose to transform. Work on learning new skills to enhance your character.”</em></p>
+<p>Good luck!</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202603/3-signs-you-have-an-almost-secure-relationship" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/indispensable-thinking/202603/can-we-truly-change-our-personalities" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/social-instincts/202603/3-signs-you-have-an-almost-secure-relationship</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202603/3-signs-you-have-an-almost-secure-relationship</guid>
-            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/indispensable-thinking/202603/can-we-truly-change-our-personalities</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/indispensable-thinking/202603/can-we-truly-change-our-personalities</guid>
+            <dc:creator><![CDATA[James M. Kerr]]></dc:creator>
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/sebastian-dumitru-36g19a7ivrs-unsplash.jpg?itok=2rfbCcEm" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Can’t the Generations Be Friends?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/Susan%20Krauss%20Whitbourne.png.jpg?itok=OoS9Jwh0" alt="Susan Krauss Whitbourne PhD, ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Friends</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Can’t the Generations Be Friends?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Maybe there’s more room for more cross-generation friendship than we realize.</h2><p style="font-size:0.9em;color:#666;">Posted March 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">There is a tendency to label other generations in negative and stereotyped ways, known as “generationalism.”</li><li style="margin-bottom:6px;">Research testing actual generational attitudes among U.S. adults tested whether these stereotypes hold up.</li><li style="margin-bottom:6px;">Not only is it possible, but it's likely, that all age groups can relate to each other as people, not labels.</li>
-            </ul>
-          </div>
-                    <p>From expressions such as “snowflake” to describe Millennials to the infamous “OK, Boomer,” it seems that all the media covers are the kinds of stereotypes that feed into intergenerational warfare. However, when you think about the relationships you have with people of older and younger generations, how likely are you to label people according to these mass-produced negative images?</p>
-
-<h2>The Idea Behind Generationalism</h2>
-<p>In a 2024 paper, Skidmore College sociologist Andrew Lindner explores the prevalence of negative “generationalism,” a “systematic appeal” to the idea of generational differences. Labels to describe generations can be traced to the first use of the term “Baby Boom” to describe the post-World War II burst in fertility rates. However, these became expanded by Strauss and Howe (1992), whose “dubious pop psychology theory,” says Lindner, involves a set of four generational archetypes that repeat cyclically and will do so indefinitely. “Never mind,” says Lindner, that “their theory has no social scientific basis whatsoever,” but it also contains the improbable assumption that everyone born in a 20-25 year period has the same qualities, along with the “disturbingly cocksure level of historical inevitability."</p>
-
-<p>Clearly, Lindner is not a fan of this portrayal of wide swaths of the population based on birth year alone. The only credit he ascribes to Strauss and Howe, somewhat dubiously, is that they came up with the term “millennial” to describe people who would turn 18 in the year 2000.</p>
-<p>With all the generational name-calling that has only intensified in the media since the time of that publication, though, is there indeed any basis for proposing that generations are doomed to continue their lengthy diatribes? To find out, Lindner investigated the extent of generationalism, its relationship to political attitudes, and the sensitivity of generational biases to experimental priming.</p>
-
-<h2>Documenting Generationalism’s Prevalence</h2>
-<p>The main outcome measures in Lindner’s study were so-called “feeling thermometers,” which ask participants to rate their favorability, on a 100-point scale, of target groups which, in this case, were the four generations of Baby Boomers, Generation X, Millennials, and Generation Z. The experimental priming procedure asked the survey participants to complete the thermometer task after reading the prompt to think about a generation they like (positive prime), a generation they dislike (negative prime), or a control.</p>
-
-<p>Overall, among the 1,200 participants, there were clear signs of an ingroup bias, meaning that each generation liked its own generation better than it liked others. Gen X was the most well-liked overall. Those born in the 1980s and 1990s were more negative toward Boomers, and those born in the 1990s were more negative toward Gen Xers. In turn, GenXers were more negative toward Millennials, and Boomers were more negative toward Gen Z. In other words, there was plenty of negativity to go around.</p>
-
-<p>Even so, the author considered these negative attitudes to be relatively inconsistent when all feeling thermometer scores were taken into account. Priming also had only a modest and inconsistent impact on generational attitudes, as did another measure of political liberalism-conservatism.</p>
-<p>The big story was that, in general, people tended to be more positive toward their generational in-group, especially the Baby Boomers and Gen X’ers. These positive ingroup biases reflect, Lindner believes, a shared sense of identity developed through shared historical experiences. In his words, “Shared memories of experiencing and responding to notable events can contribute to a positive in-group identity.”</p>
-
-<h2>Liking Your Generation Doesn’t Mean You Have to Hate the Others</h2>
-<p>All told, there was little support for the “playful mockery to morbid antagonism” seen in “media rhetoric and social media posts" about intergenerational mud slinging. There was some ageism and reverse ageism in attitudes toward the older and younger generations, but “the results reveal more mundane reality that many people just like their cohort peers.”</p>
-
-<p>We return, then, to the question of whether generations can, or maybe are, better friends than the media acknowledges. Liking your own generation (such as it is, which also may be hard to define) does not have to translate into feeling “morbidly antagonistic” toward the others. In fact, in everyday life, people of different generations who know each other may get into spats about the great issues of the day, but so can people from the same generation.</p>
-
-<p>If you think about your own intergenerational family relationships or those that exist in your workplace or among your various groups of friends, what really is going to matter the most to you in terms of your feelings of positivity or negativity? Given what Lindner regards as overly simplistic representations in the media about these four generations, it’s quite likely that it’s the person, not the year of birth, that’s going to matter the most.</p>
-
-
-
-  
-
-
-<p>This innovative study also suggests that people do define their own identities in terms of shared historical and cultural influences. And why not? Deriving part of your sense of self from the events you have lived through can help you locate yourself in time and space. Without this sense of the past, your own identity would remain shallow indeed.</p>
-
-<p><strong>To sum up, </strong>Lindner’s study shows that it’s all too easy to swallow the “massive media marketing machine” that pounds us with negative generational stereotypes. Accepting your own generation doesn’t have to mean rejecting the others who, after all, are your friends, family, neighbors, and fellow travelers through life.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202603/why-cant-the-generations-be-friends" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202603/why-cant-the-generations-be-friends</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202603/why-cant-the-generations-be-friends</guid>
-            <dc:creator><![CDATA[Susan Krauss Whitbourne PhD, ABPP]]></dc:creator>
-            <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/Generations%20pexels-valentina-andrea-sanchez-sanchez-384724429-14663542.jpg?itok=f9gC3NLb" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/personality%201%20%281%29.png.jpg?itok=y0zkBZGh" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
