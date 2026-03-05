@@ -4,140 +4,355 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 20:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 21:37:37 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 20:38:55 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 21:37:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Silicon Teammates: How Human-AI Teams Make Hard Decisions]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Dan%20Dworkis.png.jpg?itok=ODpSZTfC" alt="Dan Dworkis M.D., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Silicon Teammates: How Human-AI Teams Make Hard Decisions</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Designing human-machine teams that perform under pressure.</h2><p style="font-size:0.9em;color:#666;">Posted March 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Therapists Are Not Okay Either]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/320x400-removebg-preview.jpg?itok=DoR2rV5d" alt="Mark Shelvock, RP, MACP, MA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Therapists Are Not Okay Either</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The psychological burden of holding other people’s lives.</h2><p style="font-size:0.9em;color:#666;">Posted March 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Human–AI teams must train together before high-stakes decisions put the partnership to the test.</li><li style="margin-bottom:6px;">Stress changes human cognition, so AI systems must adapt how they present information.</li><li style="margin-bottom:6px;">The best human–AI teams manage the relationship, not just the technology.</li>
+              <li style="margin-bottom:6px;">The emotional and relational impact of clinical work inevitably affects therapists.</li><li style="margin-bottom:6px;">Professional cultural norms can make it difficult for therapists to openly discuss this psychological impact.</li><li style="margin-bottom:6px;">Therapy can provide therapists with a rare space to reflect, decompress, and explore their own inner lives.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/jack-plant-jp1yBQBcKyE-unsplash.jpg?itok=bzTXLSgH" width="320" height="213" data-insert-type="image" alt="From tools to co-pilots" title="Jack Plant / Unsplash"></div>
-<div class="caption">From tools to co-pilots</div>
-<div class="insertArea--origin subtext">Source: Jack Plant / Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/jordan-jensen-LDbSpvVNLPs-unsplash.jpg?itok=Rz2x_lr2" width="320" height="320" data-insert-type="image" title="Photo by Jordan Jensen on Unsplash" alt="Photo by Jordan Jensen on Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Photo by Jordan Jensen on Unsplash</div>
 </div>
 </div>
 </div>
-<p>In network science, a dyad is a two-agent group that works together as a unit. Counterintuitively, a dyad has three parts, not two: Partner A, Partner B, and the relationship or agreements between them. A nurse–physician pair in a trauma bay is a dyad. So are the two paramedics working together in an ambulance.</p>
+<p>Many therapists know the experience of leaving work while still carrying pieces of other people’s lives. Session after session, we sit with grief, trauma, uncertainty, anger, longing, confusion, messy family dynamics, sophisticated relational projections, and stories that can penetrate you to your core.</p>
 
-<p>Regardless of the type of dyad (equal partnerships, superior-inferior, flexible), the strength comes from the ability of the two partners to interact clearly and easily. A dyad of two experts who cannot communicate clearly will often lose to a dyad of less-skilled individuals who coordinate effectively.</p>
+<p>In response, we listen deeply, track patterns across years of someone’s life, unpack mind-boggling events, and implement advanced psycho-somatic interventions that may indefinitely alter a person’s future. It is a nonstop parade of companionship, co-regulation, encouragement, complex interpretation, witnessing, and transformative guidance.</p>
 
-<p>Most discussions about using AI leave the relationship out. AI is framed as a tool that humans use, or as a system that runs independently and presents results to us. But, as AI systems move from limited tools toward something closer to co-pilots, the relationship changes into a human–AI team: a partnership where each member contributes different strengths.</p>
+<p>For many, it is meaningful yet highly demanding work. Nonetheless, there is a quiet irony in the profession: therapists often have very few places where they themselves can think out loud, be an emotional trainwreck, or simply engage with the questions haunting their life. </p>
+<h2>A Shadow Within Professional Therapy Spaces</h2>
 
-<p>The highest-performing teams will recognize this and actively manage all parts of the dyad. In this post, we look at three considerations for building human-AI teams that actually work in high-stakes moments.</p>
-<h2>You Can’t Build a Dyad in the Middle of a Crisis</h2>
-<p>A critical mistake in human-AI teaming is assuming the partnership will function automatically in high-stakes moments just like it does in low-stakes ones. This is, of course, a mistake in all-human teams as well, but it is amplified when different parts of the team respond very differently from each other in high-stakes moments.</p>
+<p>There is a subtle, often unconscious culture within many professional therapy circles that can make vulnerability difficult. Therapists are trained to be thoughtful, regulated, and competent in the room, which is essential for good clinical care. Yet over time, this expectation can quietly harden into something else: the sense that we must always have ourselves together… at all times.</p>
 
-<p>A useful though imperfect analogy is teams that actively mix individuals from exceedingly different cultures.<sup>1</sup> If one person comes from a culture that defers to authority and tolerates ambiguity well, while another comes from a culture with a flat hierarchy and a strong need to eliminate uncertainty, the dyad they form might struggle when they work on a high-stakes problem.</p>
+<p>In some professional spaces, uncertainty, confusion, or emotional impact can feel relationally risky to admit. The result is that many therapists become highly skilled at caring for others while privately carrying far more than they share. </p>
+<p>In certain clinical environments, observers may even notice moments when therapists themselves drift into subtle competitiveness, engage in petty forms of cultural warfare, or project quiet judgment among colleagues. </p>
 
-<p>How do high-performing teams bridge this gap? They train together in low-pressure moments before they have to rely on each other in high-pressure ones. When a new teammate joins a wildland firefighting group or a military special forces team, they typically run exercises and practice drills with their new teammates before they deploy together, and we should treat silicon teammates the same way.</p>
+<p>This creates an odd professional paradox: a room full of people trained in emotional honesty who are sometimes hesitant to admit when they themselves feel confused, overwhelmed, or simply human. Therapists are trained to normalize the full range of human emotion, yet our professional culture can sometimes make it surprisingly difficult for therapists to acknowledge when they themselves are struggling. This is particularly salient within counselling psychology training programs, institutional environments, and regulatory spaces that emphasize unwavering competence in every interaction.</p>
 
-<p>Human-AI teams tasked to operate in critical environments should proactively build experience in non-critical environments first. Simulation is a great way to build this experience. In Formula-1 racing, for example, drivers and engineers work with AI in pre-race simulations long before relying on those systems during an actual race.<sup>2</sup></p>
+<h2>Therapy for Therapists</h2>
+<p>Over the years in my own private clinical practice, I have had the privilege of working with therapists at many stages of their careers: undergraduate or graduate students, early-career clinicians, and seasoned practitioners navigating the long arc of professional life.</p>
+<p>Some arrive in therapy because something in their personal life has become genuinely difficult or painful. Others arrive not because something has fallen apart, but because they realize they would like a space where the complexity of their own inner life can be explored with the same care they offer others. For many therapists, this becomes a rare kind of personal and professional refuge.</p>
 
-<h2>Stress Changes Human Decision-Making</h2>
-<p>The human brain is constantly making tradeoffs between speed and accuracy. In high-stress environments, we operate with a different cognitive architecture than we do in low-stakes moments—not just a degraded one, but a fundamentally different one. We tend to lose peripheral vision, rely more on pattern matching, and favor speed over accuracy, among other changes.<sup>3,4</sup></p>
 
-<p>As a result, our ability to partner with AI should be different in high-stress vs low-stress moments, and effective human-AI dyads will need to account for this. Complex dashboards and multiple competing alerts can overwhelm a decision-maker whose cognitive bandwidth is already strained.</p>
-<p>In high-pressure environments, good design often means:</p>
+<p>Therapy is a place where they do not need to appear endlessly composed or insightful, and it provides a space where the emotional impact of clinical work can be named honestly and fully. Sometimes, therapists explore their wild experiences of countertransference without fear of judgement, and have challenging discussions around how their personal histories inevitably shape how they sit with others. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Others wish to begin learning how to live the deeper existential questions that frequently emerge after witnessing human suffering after a myriad of years. Subsequently, other therapists arrive at therapy carrying depression, burnout, psycho-somatic exhaustion, fatigue, vicarious trauma, immense stress, and tremendous political grief regarding painful events of the world. </p>
 
 
 
   
 
 
-<ul>
-<li>Highlighting the single most important piece of information</li>
-<li>Surfacing clear choices rather than raw streams of data</li>
-<li>Reducing noise and ambiguity</li>
-</ul>
-<p>Well-designed AI systems can help their human partners maintain clarity when the environment becomes chaotic, while poorly designed ones can increase cognitive load, forcing the human operator to monitor and interpret the AI instead of focusing on the decision itself.</p>
+<p>And sometimes therapists simply want a place where they themselves can think out loud or transform into a messy pile of tears, just like everyone else. Paradoxically, therapy can reconnect clinicians with what drew them to the profession in the first place: curiosity about the human mind, reverence for emotional life, a desire to engage in mystery, and the belief that understanding ourselves more deeply changes how we live.</p>
 
-<h2>Stress Doesn’t Change the AI—but the World Changes Around It</h2>
-<p>Unlike humans, algorithms do not experience stress, and their internal processes remain constant regardless of external pressure. However, as the world around an AI model becomes more chaotic and rapidly changing, AI systems can easily suffer from model drift: a widening gap between the world the system was trained on and the one it currently inhabits.<sup>5</sup></p>
+<p>For therapists who spend their days holding the emotional worlds of others, having a place where they too can be held is not a luxury. It is often part of sustaining the work itself.</p>
+<p>Over time, psychotherapeutic and clinical work inevitably leaves its own imprint on us. This does not mean therapists are failing at their job; if anything, it often means the work is being embodied, felt, and authentically engaged with. </p>
 
-<p>Imagine a ship navigating with a digital co-pilot. If the AI system was trained primarily on calm seas, it may perform well in normal conditions. But when the ship encounters violent storms or unpredictable currents, the model’s predictions may become less reliable.</p>
-<p>Unless the human-AI dyad knows if the current situation is outside the training model, it might drift invisibly into poor performance, causing the human teammate to trust the AI one right when it is least reliable. As a result, drift detection is a crucial part of effective human–AI teaming, and high-performing systems need ways to signal when the AI’s confidence is falling or when conditions differ from its training environment.</p>
-
-<p>As the surface area where we partner with (and not just use) AI increases, the goal is not to eliminate human judgment or automate difficult decisions. The goal is to create partnerships where each member of the dyad complements the other. When that balance is achieved, the result is something powerful: carbon and silicon teammates working together as a system that can remain calm, coordinated, and effective even when the environment becomes chaotic.</p>
+<p>Many therapists spend their days helping others think out loud about the complexities of their inner lives. We deserve a space where we can do the same. After all, therapists may hold many stories, but we are still human beings living one of our own.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-emergency-mind/202603/silicon-teammates-how-human-ai-teams-make-hard-decisions" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/navigating-the-serpentine-path/202603/therapists-are-not-okay-either" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-emergency-mind/202603/silicon-teammates-how-human-ai-teams-make-hard-decisions</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-emergency-mind/202603/silicon-teammates-how-human-ai-teams-make-hard-decisions</guid>
-            <dc:creator><![CDATA[Dan Dworkis M.D., Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/navigating-the-serpentine-path/202603/therapists-are-not-okay-either</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/navigating-the-serpentine-path/202603/therapists-are-not-okay-either</guid>
+            <dc:creator><![CDATA[Mark Shelvock, RP, MACP, MA]]></dc:creator>
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/jack-plant-jp1yBQBcKyE-unsplash.jpg?itok=JhexszWR" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/jordan-jensen-LDbSpvVNLPs-unsplash.jpg?itok=di88sdQ8" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How Success Can Become a Leadership Blind Spot]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-10/Michiko%20Kimura%20Bruno.png.jpg?itok=Zq6a2UtN" alt="Michiko Kimura Bruno M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Success Can Become a Leadership Blind Spot</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">These four patterns of success can eventually limit effective leadership.</h2><p style="font-size:0.9em;color:#666;">Posted March 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[AI: Stimulus and Threat to Optimal Brain Functioning]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Richard%20Restak%20MD%20.png.jpg?itok=p8vM21KH" alt="Richard Restak M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI: Stimulus and Threat to Optimal Brain Functioning</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How many of the brain’s operations do we want to assign to AI?</h2><p style="font-size:0.9em;color:#666;">Posted March 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Smart people are not always the best leaders because they sometimes over-rely on previous successes.</li><li style="margin-bottom:6px;">Certain patterns, such as over-reliance on intellect, short-term goals, accuracy, and hierarchy can backfire.</li><li style="margin-bottom:6px;">Metacognition can help a person to let go of unconscious attachments to their perceived strengths.</li>
+              <li style="margin-bottom:6px;">AI is reshaping journalism, warfare, education, and social life.</li><li style="margin-bottom:6px;">AI lacks human empathy and moral judgment, leading to ethical concerns about its usage in war.</li><li style="margin-bottom:6px;">AI has made human interaction less necessary, which can cause atrophy of critical thinking and social skills.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/VLADGRIN_iStock.jpg?itok=bdqYzkho" width="320" height="262" data-insert-type="image" alt="Success trains the brain to repeat what worked before and narrow its perspective." title="VLADGRIN / iStock"></div>
-<div class="caption">Success trains the brain to repeat what worked before and narrow its perspective.</div>
-<div class="insertArea--origin subtext">Source: VLADGRIN / iStock</div>
-</div>
-</div>
-</div>
-<p>Have you ever noticed that the smartest person in the room is not always the best leader?</p>
-<p>Good leaders engage employees and improve morale. Poor leadership does the opposite. A good leader can shape the entire tone of a team. We all know this, and yet we often see capable leaders struggle. The most gifted athletes do not always become the best coaches.</p>
+                    <p>Since the end of 2022, when the first chatbot (ChatGPT) was introduced, we’ve progressed from a “machine” capable of human-like speech and writing to realistic videos of people with movie-star good looks whom some people fall in love with, only to learn, alas, that they exist solely in the realm of computer code.</p>
 
-<p>This is not surprising. Many strong performers are promoted into leadership roles because of their experience and technical competence. When faced with new challenges—as leaders inevitably are—the brain approaches problems through the lens that previously led to success.</p>
-<p>I have seen these patterns repeatedly, and I have caught myself falling into them.</p>
+<p>Currently, AI is challenging some of our most basic notions. Based on AI’s increasing employment in areas such as journalism, war, education, and socialization, we have good reason to question the origin of anything we see, hear, or read. Is it human or AI?</p>
+<h2>Editor vs. Reader</h2>
+<p>If you want to see the inroads made by AI into journalism, pick up a copy of the <em>Plain Dealer,</em> Cleveland’s major newspaper. You’ll regularly encounter articles written by AI (although a final reading prior to publication is still tasked to human editors). Other papers, such as <em>The New York Times, The Washington Post,</em> and <em>The Financial Times,</em> haven’t gone that far <em>yet</em>, but are already experimenting with interactive chatbots.</p>
 
-<p>These blind spots are not character flaws. They are natural consequences of how the brain forms patterns. Over time, strengths become default strategies, and default strategies can quietly harden into blind spots. </p>
-<p>Several patterns appear repeatedly in leadership.</p>
-<h2>1. Overreliance on intellect at the cost of emotional intelligence</h2>
+<p>When you combine these early AI-friendly writing efforts with steady decreases in newspaper staffing (from 400 newsroom employees at <em>The Plain Dealer</em> in the late 1990s to about 70 today) it’s no surprise that newspaper readers and editors remain locked in a struggle weighing the need for more articles than the newspaper staff can create versus the clear preference readers have repeatedly expressed for human-written over AI-written journalism.</p>
 
-<p>Leadership, unlike technical mastery, unfolds in social environments. Analytical reasoning primarily engages prefrontal cortical networks, but emotion, threat detection, and trust involve the limbic system, a more primitive part of the brain.</p>
-<p>Our emotions are stubborn and tied to primal survival instincts. Leaders who lack awareness of their own emotional states may unknowingly trigger threat responses in others, activating defensiveness rather than collaboration. Under stress, our default cognitive circuits emerge automatically, creating a vicious cycle.</p>
+<p>Like it or not, a new Informational Age is now dawning.</p>
+<h2>AI as Warrior</h2>
+<p>An early worry about chatbots involved whether developers might employ their versions of chatbots irresponsibly within a sensitive area like combat. But as things have turned out, it’s not the developers, but the U.S. government that has advocated the use of AI in ways that some AI developers consider unsafe. The recent standoff between Anthropic and the Defense Department illustrates the difficulties that can ensue.</p>
 
-<h2>2. Overfocus on short-term goals</h2>
-<p>Goal pursuit can be exhilarating and often drives productivity. Achieving goals activates dopaminergic reward pathways in the brain. Dopamine reinforces speed, efficiency, and outcome fixation, sometimes creating what feels like a “success addiction.”</p>
-<p>But this can become a double-edged sword. When goals are missed, a leader’s frustration and disappointment may unconsciously spread to the team.</p>
+<p>The Pentagon demanded Anthropic should have no say on how their AI product, Claude, is used, as long as its use complied with the law. Dario Amodei, the co-founder and chief executive of Anthropic, vociferously disagreed. As part of his negotiating position, Amodei insisted that Claude should never be used in domestic surveillance of Americans or as a determiner of what weapons should be employed and against whom. “AI can undermine rather than defend democratic values,” according to Amodei. “Some uses are also simply outside the bounds of what today’s technology can safely and reliably do.”</p>
 
-<p>Neuroscience reminds us that motivation is sustained not only by outcomes but also by meaning and belonging. Celebrating small wins and reaffirming shared purpose helps regulate the emotional climate of a group.</p>
-<h2>3. Pursuing accuracy, leading to analysis paralysis</h2>
-<p>Leaders will be faced with making decisions under uncertainty and without complete information. Uncertainty feels threatening to a brain trained to value expertise, accuracy, and competence. <em>We do not want to look like fools.</em></p>
+<p>In what seems like the blink of an eye—Claude only appeared on the scene in 2023—Anthropic and other AI systems now find themselves at the epicenter of a moral-philosophical-political maelstrom concerning the use of AI for mass surveillance or in fully autonomous weapons (no humans) in the decision chain.</p>
 
-<p>The brain’s default response to this threat can be "analysis paralysis"—avoiding risk and delaying decisions until more information appears. This anxiety around uncertainty can spread through a team and reduce engagement.</p>
-<h2>4. Reliance on hierarchy and management structure, stifling collaboration</h2>
-<p>Authority and hierarchy—the “org chart”—have an important role. They provide structure and reduce chaos and cognitive load.</p>
+<p>So who is correct here? The developers of the AI product? Or the Department of Defense, which, according to a statement released to the public, “will not bend to the whims of any for-profit tech company”? Despite the importance of this determination, it’s turning out to be no more than an academic question.</p>
 
-<p>But they can also limit collective intelligence. The world is increasingly complex, and rigid structures may miss what the human brain does best: integrating varied perspectives, narratives, and subtle observations that are difficult to quantify.</p>
-<p>Before invoking hierarchy, leaders can pause and examine their motivation. Are we using hierarchy because a decision truly needs to be made, or because we are tying our identity to the hierarchy? Silence can easily be mistaken for agreement. When leaders interpret silence as assent, they may misread the emotional temperature of a team.</p>
+<p>Only this week, we learned that Claude played a major role in the capture of Venezuelan leader Nicolas Maduro, as well as the Operation Epic Fury attack on the Iranian regime that killed the country’s supreme leader, Ayatollah Ali Khamenei. Both operations included surveillance and the use of AI (Claude) to participate in military operations, including real-time targeting and target prioritization.</p>
 
-<p>Metacognition, the ability to pause and reflect on how our own minds are working, can be a powerful leadership tool. When we practice metacognition, leadership becomes less about protecting our strengths and more about noticing when those strengths are limiting us.</p>
-<p>The real blind spot is not our strength or weakness: it is our unconscious attachment to what once made us successful.</p>
+<p>So what attitude should we take to all this?</p>
+<p>Since AI has been modelled on the human brain, perhaps, at the most basic level, the question might be reformulated: How would a typical human brain process all this?</p>
+<p>In answering that question, keep in mind that AI chatbots aren’t like human brains. Most importantly, a chatbot cannot be dependably relied on to operate with empathy, ethics, and morality—three components of the human brain’s operation that a chatbot lacks and which must be programmed into it. Relying on Claude or any other AI device is of limited use when determining who should be included in a kill list: Soldiers, yes, but what about children or civilians? Over the centuries, civilized nations have held and continue to hold the opinion that civilians of any age should not be deliberately targeted.</p>
+
+
+
+  
+
+
+<h2>AI in Schools: To Cheat or Not to Cheat </h2>
+<p>Education is another area of concern about AI. Although we are very early in a society-wide adaptation of AI to teaching and learning, steadily increasing usage is already taking place. In a February 4, 2026, publication from Pew Research Center, nearly half of U.S. teens said they have used AI chatbots at some point during schoolwork to search for information, summarize articles, or create/edit images or videos.</p>
+
+<p>According to one of the teenage respondents in the Pew study, “Artificial intelligence will be able to be a force multiplier in terms of efficiency and accuracy. We are in … very early stages at this point. Everyone is going to have to know how to use AI, or they will be left behind.”</p>
+<p>Not all teenagers are equally enthusiastic. Among the 34 percent who believe the impact will be skewed towards the negative, a spectrum of opinions exists, extending from one teenage girl (“It destroys young people’s minds and brains”) to others who speak less alarmingly, citing overreliance on AI, along with loss of critical thinking and creativity. One in five teens admitted that they did all or part of their schoolwork with the help of a chatbot.</p>
+
+<p>Even more concerning, just shy of 60 percent of teens believe using AI to cheat has become a “regular” occurrence. The figure is even worse among teens who regularly use chatbots for schoolwork, with more than three-quarters claiming that students at their school use chatbots to cheat.</p>
+<p>The conclusion of the Pew report: “Our survey shows that many teens think cheating with AI has become a regular feature of student life.”</p>
+
+<h2>The Price of Never Leaving Your Room</h2>
+<p>The final concern pertains to AI and socialization. We now live in an environment where—employment obligations aside—it’s generally unnecessary to leave one's apartment. Food can be ordered in; outgoing and ingoing deliveries can be arranged for laundry, clothes, and just about any “must-have” small enough to be maneuvered through an apartment door. But, there is a price to pay for such convenience: social skills atrophy.</p>
+
+<p>For instance, the brain loses its sense of pacing: knowing how long to talk, how loudly, remembering not to interrupt, knowing how to ask for something in a pleasing manner rather than simply demanding it, etc. Perhaps as a result of such social skill failures, an increasing percentage of the population is now more comfortable with email and messaging than with face-to-face conversations.</p>
+
+<p>As an accompaniment to the gradual erosion of social skills, a lucrative market is developing for chatbots and avatars, designed to relate to users as friends, advisors, therapists, and even lovers. But these roles cannot be dependably programmed into a chatbot, as attested by the spate of lawsuits against AI “therapists” whose therapybot sessions have led to suicides among their "patients."</p>
+
+<p>The increased use of speech-based rather than script-based chatbots can be expected to further increase the number of suicides, and for good reason. Voice-based interactions foster a feeling-based rather than reason-based focus—a finding firmly established in marketing science.</p>
+<p>Chatbots are now capable of conversing with all of the accompaniments you expect to hear from a human ("I’m glad you asked me that," “Wonderful! You’re really into what I’m saying”).</p>
+
+<p>Perhaps the most apt description of the current state of AI at this moment was expressed during my interview with the late Joseph Weizenbaum, professor of computer science at MIT: "We have not so much to fear robots that think like humans, as we do humans that think like robots."</p>
+<p>If you substitute chatbots for robots in Weizenbaum’s cautionary admonition, you have a fairly accurate appraisal of where things now stand and where we may be heading with AI.</p>
+
+<p><em>If you or someone you love is contemplating suicide, seek help immediately. For help 24/7, dial 988 for the National Suicide Prevention Lifeline, or reach out to the Crisis Text Line by texting TALK to 741741. To find a therapist near you, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory.</em></a></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/breaking-good/202603/how-success-can-become-a-leadership-blind-spot" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-changing-brain/202603/ai-stimulus-and-threat-to-optimal-brain-functioning" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/breaking-good/202603/how-success-can-become-a-leadership-blind-spot</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/breaking-good/202603/how-success-can-become-a-leadership-blind-spot</guid>
-            <dc:creator><![CDATA[Michiko Kimura Bruno M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-changing-brain/202603/ai-stimulus-and-threat-to-optimal-brain-functioning</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-changing-brain/202603/ai-stimulus-and-threat-to-optimal-brain-functioning</guid>
+            <dc:creator><![CDATA[Richard Restak M.D.]]></dc:creator>
             <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/VLADGRIN_iStock.jpg?itok=UZ1nkTz-" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-tatianasyrikova-3975590.jpg?itok=81EjlpQo" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love and Sex in Wartime: How News of War Impacts Intimacy]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/Kat-Kova-Therapist-RP-Kat-Kova-Therapy-removebg-preview.jpg?itok=OQJ7XMoo" alt="Kat Kova MSc, RP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sex</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Love and Sex in Wartime: How News of War Impacts Intimacy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Research shows that war in the headlines can shape what happens in the bedroom.</h2><p style="font-size:0.9em;color:#666;">Posted March 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Media exposure to war is linked to changes in desire, arousal, satisfaction, and distress.</li><li style="margin-bottom:6px;">During collective threat, some people lose sexual desire while others seek more closeness.</li><li style="margin-bottom:6px;">Intrusive war imagery can appear during intimacy when the brain remains in survival mode.</li><li style="margin-bottom:6px;">Intimacy during a crisis can be a coping response that helps people regulate fear and stress.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">When war dominates the news cycle–or touches our lives directly–it rarely stays confined to politics and geopolitics. It enters our bodies, our thoughts, and our relationships.</p>
+<p dir="ltr">Many people notice strange or confusing shifts during times of war or collective threat, even when they are not living in an active conflict zone. Intrusive images of conflict or violence on the news can appear unexpectedly. Some people even feel their sexual desire disappear entirely. Others notice the opposite: a sudden longing for closeness, sex, or physical comfort. Still, others feel guilt for wanting pleasure while others are suffering.</p>
+
+<p dir="ltr">If you are experiencing these reactions, you are not alone; they are well documented in psychological research on intimacy during times of conflict.</p>
+<h2 dir="ltr">When War Enters the Bedroom</h2>
+<p dir="ltr">Exposure to war–whether direct, through loved ones, or through constant media or news coverage–activates stress responses designed for survival. This includes heightened vigilance, intrusive imagery, and rumination about threat.</p>
+
+<p dir="ltr">Recent research by <a href="https://www.tandfonline.com/doi/pdf/10.1080/19317611.2024.2317169">Lazar and colleagues (2024)</a> studying civilians during the 2023 Israel-Hamas war found that exposure to war-related stress–both direct and through the media–was associated with increased psychological distress and disruptions in sexual well-being. Interestingly, media exposure alone was significantly correlated with desire, arousal, lubrication and erection, orgasm, orgasm satisfaction, premature (early) ejaculation, sexual satisfaction and sexual distress. </p>
+
+<p dir="ltr">It appears that the brain processes even indirect exposure (i.e., media coverage) to war as danger or threat, and stress reshapes how we think, feel, and connect. These reactions are part of the same stress response that keeps us alert to potential threats. </p>
+<h2>Why Sexual Desire Often Changes During Wartime</h2>
+
+<p dir="ltr">One of the most striking findings from research on sexuality during wartime is that desire does not move in a single direction. In research by <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11562914/">Lazar and colleagues (2024)</a>, responses varied widely: Some individuals maintained stable sexual well-being, others experienced distress that later improved, and some even reported increases in desire.</p>
+
+<p dir="ltr">For many people, stress hormones, anxiety, and emotional exhaustion can suppress sexual desire and impair sexual functioning. Yet others experience the opposite response—a heightened desire for physical closeness and intimacy. In these cases, sex can function as a powerful coping mechanism, helping reduce stress, restore a sense of connection, and reaffirm life in the face of mortality.</p>
+
+<p dir="ltr">This diversity of responses is important. There is no single “correct” reaction to living through conflict, and shifts in desire in either direction are common human responses to extraordinary stress.</p>
+<h2 dir="ltr">The Survival Paradox of Intimacy</h2>
+<p dir="ltr">From an evolutionary perspective, this paradox makes sense. Threat activates two competing drives:</p>
+
+
+<ul>
+<li>Self-protection</li>
+<li>Affiliation</li>
+</ul>
+<p dir="ltr">In times of danger, humans often seek closeness. Physical intimacy can signal safety, belonging, and continuity. It reminds us that life–and love–continues even under threat.</p>
+<p dir="ltr">This is why couples sometimes report stronger attachment during crises, even while other parts of life feel unstable.</p>
+
+<p dir="ltr">At the same time, the nervous system can become dysregulated, making emotional connection harder. Partners may misinterpret each other’s reactions: One person withdraws while the other seeks closeness. Neither response is wrong. They are simply different ways of regulating fear.</p>
+<h2 dir="ltr">Intrusive Thoughts During Intimacy</h2>
+
+
+
+  
+
+
+<p dir="ltr">One of the experiences people rarely talk about openly is the way intrusive war imagery can enter moments that are supposed to feel safe or pleasurable. Someone might notice:</p>
+<ul>
+<li dir="ltr">sudden images of violence during sex</li>
+<li dir="ltr">difficulty staying mentally present</li>
+<li dir="ltr">feeling emotionally numb during intimacy</li>
+<li dir="ltr">guilt for experiencing pleasure while others suffer</li>
+</ul>
+
+<p dir="ltr">This is not a sign that something is wrong with you. The brain’s threat detection system does not turn off simply because we are trying to relax or connect. When the environment feels unsafe–even indirectly through media exposure–the mind can remain partially in “survival mode.”</p>
+<h2 dir="ltr">The Guilt of Pleasure</h2>
+<p dir="ltr">The experience of feeling guilt during a moment of pleasure might bring about a sense of moral conflict. You might think:</p>
+
+<ul>
+<li dir="ltr"><em>How can I want sex when people are suffering?</em></li>
+<li dir="ltr"><em>Is it selfish to enjoy intimacy right now?</em></li>
+</ul>
+<p dir="ltr">But human history tells a different story. Throughout wars, natural disasters, and collective crises, people continue to fall in love, form relationships, and seek closeness. These are not signs of moral failure; they are signs of humanity. Pleasure, connection, and intimacy are part of how we metabolize fear and grief.</p>
+
+<h2 dir="ltr">What Helps Couples During Times of Conflict</h2>
+<p dir="ltr">Research on stress and relationships suggests a few things that can help couples protect intimacy during periods of collective threat:</p>
+<ul>
+<li>
+<p dir="ltr"><strong>Limit exposure to distressing media. </strong>War imagery repeatedly activates the stress response. Lazar et al. (2024) suggest limiting or moderating exposure to news about war.</p>
+</li>
+<li>
+<p dir="ltr"><strong>Talk about the emotional impact. </strong>Partners often assume they should be “strong,” but sharing fear and uncertainty can strengthen emotional bonds.</p>
+</li>
+<li>
+<p dir="ltr"><strong>Normalize different desire patterns. </strong>One partner may want closeness while the other needs space. Framing this as stress regulation, and not rejection, can reduce conflict.</p>
+</li>
+<li>
+<p dir="ltr"><strong>Focus on non-sexual touch. </strong>Holding hands, cuddling, or sitting close can restore safety in the nervous system without pressure.</p>
+</li>
+</ul>
+
+<h2 dir="ltr">Love as a Form of Resilience</h2>
+<p dir="ltr">War disrupts societies, but it rarely extinguishes intimacy. The old phrase “love and war” captures something deeply human: Even in the midst of conflict, people continue to seek closeness, comfort, and connection with one another.</p>
+<p dir="ltr">In fact, research suggests that many people show surprising resilience in their intimate lives during times of collective threat. Even when sexual functioning or desire temporarily declines under stress, relationship satisfaction and emotional connection can partially recover as individuals and couples adapt to ongoing uncertainty.</p>
+
+<p dir="ltr">Love and sex during wartime are not contradictions. Rather, they remind us of what conflict threatens–and what humans instinctively try to protect. Even in the presence of fear, the desire for closeness persists. And sometimes, that desire for connection is exactly what helps people endure and survive.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/make-love-make-sense/202603/love-and-sex-in-wartime-how-news-of-war-impacts-intimacy" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/make-love-make-sense/202603/love-and-sex-in-wartime-how-news-of-war-impacts-intimacy</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/make-love-make-sense/202603/love-and-sex-in-wartime-how-news-of-war-impacts-intimacy</guid>
+            <dc:creator><![CDATA[Kat Kova MSc, RP, PhD Candidate]]></dc:creator>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/Love%20and%20War%20News%202.jpg?itok=HClJI7rn" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 Strategies for Indirectly Asking Someone Out]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/pt-nicholson_square_edited_2-removebg-preview.jpg?itok=NtLRWBQk" alt="Jeremy Nicholson M.S.W., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mating</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Strategies for Indirectly Asking Someone Out</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to ask someone out with less awkwardness and embarrassment.</h2><p style="font-size:0.9em;color:#666;">Posted March 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Due to a few common worries and concerns, people can feel conflicted or awkward when asking someone out.</li><li style="margin-bottom:6px;">Those feelings and concerns can cause them to give up before even trying to initiate a romantic relationship.</li><li style="margin-bottom:6px;">Asking someone out indirectly, however, can help ease conflicted feelings and make the conversation easier.</li>
+            </ul>
+          </div>
+                    <p>As I wrote <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/202602/why-dating-and-relationships-can-be-awkward-and-embarrassing">previously</a>, dating and relationship conversations can be awkward and embarrassing. Those feelings arise because of an inherent conflict. On one hand, we are motivated to ask for what we want from a romantic partner. On the other hand, we don’t want to embarrass ourselves or make things awkward with them in the process.</p>
+
+<p>To solve this dilemma, Kunkel, Wilson, Olufowote, and Robson (2003) studied how people initiated, intensified, and ended romantic relationships. In doing so, they identified the concerns that made people hesitate or give up on their efforts (<em>face threats</em>), as well as the strategies they used to persist and get what they wanted (<em>face-saving strategies</em>). In this post, we’ll explore the concerns that might hold you back from initiating a relationship—and the indirect strategies you can use to ask someone out with less risk and awkwardness instead.</p>
+
+<h2>Concerns When Asking Someone Out</h2>
+<p>To start, we need to know what concerns specifically hold us back from initiating a romantic relationship. What exactly is so anxiety-provoking about asking someone out? Kunkel and associates (2003) identified six main concerns that individuals worry about before initiating a relationship:</p>
+
+<ul>
+<li>Why do I want to start dating this person right now?</li>
+<li>Are they seeing someone else or are they unable to date me for another reason?</li>
+<li>Do I have the right to ask them out?</li>
+<li>Why do I need to be the one to ask them out/don’t they already know how I feel?</li>
+<li>Do they seem like they are willing to go out with me?</li>
+<li>Do I really want to start dating them (and risk our current friendship)?</li>
+</ul>
+
+<p>Exploring further, Kunkel and team (2003) found that individuals asking someone out are <em>“highly concerned about whether they appear physically attractive to the other and also perceive moderate risk of looking too forward when pursuing this goal."</em> In fact, some participants found these concerns so worrying that they decided to avoid asking altogether. This was particularly true for those who were worried about being overbearing, losing the current friendship, looking overly dependent, or giving up other possible relationships.</p>
+
+<p>As a result of those concerns, only 61% of participants surveyed said that they would ask someone out. Furthermore, if that person initially refused the request, only 12% said they would try again at some other time. Rather than avoiding or quitting, however, others chose a less risky and anxiety-provoking option: discussing things indirectly.</p>
+
+<h2>Asking Someone Out Indirectly</h2>
+<p>Additional results from Kunkel and associates (2003) noted that some participants shared strategies to ask a partner out indirectly. Those indirect discussions were categorized on three levels, which fell between avoiding the conversation entirely and directly asking for a date without any prior conversation. Specifically, indirect initiating conversations were either (1) <em>very indirect</em> with only mild hints about going out, (2) <em>somewhat indirect</em> with strong hints about dating, or (3) <em>somewhat direct</em> with preliminary conversation leading to a direct request for a date. Furthermore, each approach had a unique strategy, as discussed below:</p>
+
+
+<p>Participants with <strong>a very indirect strategy</strong> tended to ask general social questions and inquire about their potential dating partner. Usually, they introduced themselves <em>(“Hi. My name is…”</em>), made a statement <em>(“I always get the coffee here…”</em>), and asked a general question (<em>“What are you reading there?”</em>). This approach can be a good way to <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/202506/how-to-get-attention-and-create-attraction">get a potential partner’s attention</a> and create initial attraction. As I share in my book <em>Attraction Psychology</em> (2022), alternating between statements and questions helps <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/201112/break-the-ice-how-to-talk-to-girls-and-guys">break the ice</a> and initiate conversation too. If your potential partner is responsive but hesitant, however, you may need to be more direct and do more talking to build a deeper connection.</p>
+
+<p>Therefore,<strong> </strong>participants with<strong> a somewhat indirect strategy</strong> proceeded by inquiring about their potential partner’s interests and suggested activities to do together. This followed the pattern of asking about an interest (<em>“Hey, do you like ice cream?”</em>) and then, if they said yes, suggesting a shared activity (<em>“I know a great ice cream place where we could go sometime...”</em>). This strategy works particularly well after you have broken the ice and started a conversation—or when you already know the potential partner. It also aligns with other persuasive requests I have shared for <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/201105/5-ways-to-indirectly-ask-for-a-date">indirectly asking for a date</a>. Again, this step helps you test whether someone is interested, without having to <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/202009/understanding-and-dealing-with-interpersonal-rejection">face possible rejection</a> directly. Sometimes, however, they still do not take the hint. So, an even more direct conversation might be required.</p>
+
+
+
+  
+
+
+<p>Thus, participants with <strong>a somewhat direct strategy</strong> progressed by having some conversation with the potential partner first (i.e. combining the first two approaches above) and then following up with a more specific date request. Kunkel and associates (2003) share that such a request was usually about a definite event, at a particular time, with a direct invitation to the potential partner (e.g. <em>“Are you free this Saturday, because my friend is having a party, and I was just seeing if you wanted to go?”</em>). As I discuss in my book, these date requests can be made more persuasive as well (Nicholson, 2022). For example, sometimes asking for a <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/201502/single-question-can-boost-your-chance-getting-date">small request</a> first, like borrowing a pencil or asking for a napkin, can make someone more likely to say yes to your date request. Also, you can use the <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/201105/spice-your-approach">SPICE approach</a> and make the request <em>simple</em> (don’t oversell it), aligned with their <em>perceived self-interest</em> (why should they want to go?), <em>incongruent</em> (get their attention), <em>confident</em> (focus on them), and <em>empathetic</em> (connect with their feelings).</p>
+
+<p>Put together, these three strategies provide a potential method for asking someone out indirectly. This approach also builds comfort and connection between you and a partner, if you end up needing to <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/201105/just-asking-for-it-part-i">ask for what you want</a> directly too. So, either way, it gives you the best chance of initiating the relationship you desire, while minimizing the concerns that could hold you back!</p>
+
+<p><em>© 2026 by Jeremy S. Nicholson, M.A., M.S.W., Ph.D. All rights reserved.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-attraction-doctor/202603/3-strategies-for-indirectly-asking-someone-out" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-attraction-doctor/202603/3-strategies-for-indirectly-asking-someone-out</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-attraction-doctor/202603/3-strategies-for-indirectly-asking-someone-out</guid>
+            <dc:creator><![CDATA[Jeremy Nicholson M.S.W., Ph.D.]]></dc:creator>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-katerina-holmes-5910779jn.jpg?itok=uUCnpaim" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Get What You Want]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/untitled_5_0.jpg?itok=okwl6DCZ" alt="Sheila Kohler" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Ethics and Morality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Get What You Want</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Women in history show how conscience shapes true power.</h2><p style="font-size:0.9em;color:#666;">Posted March 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Looking at the portrayal of powerful women in history, one can learn what is possible.</li><li style="margin-bottom:6px;">The ability to think independently enables both women and men to obtain what they want.</li><li style="margin-bottom:6px;">Ultimately, everyone must stand up for their beliefs, whatever the consequences.</li>
+            </ul>
+          </div>
+                    <p>I remember my French friend saying something surprising to me once. I was studying psychology in Paris at the Sorbonne in the '70s and had made friends with a brilliant woman who was 10 years older than me. She said, "Women don't need women's lib. They can get what they want from men if they want it enough."</p>
+
+<p>"What makes you think that?" I asked. I was just 30, and my husband had just left me for another woman. I was devastated. I certainly did not feel I could get what I wanted from men, or women, for that matter.</p>
+<p>"Look at the Princess de Clèves," she said, speaking of the 17th-century novel written by Madame de Lafayette, though published initially anonymously. </p>
+
+<p>"She never got what she wanted," I said. "She was madly in love with the Duc de Nemours, and she could never marry him."</p>
+<p>"She is the one who turns him down in the end. And just look at all the other real women in the book: Diane de Poitiers, the king's mistress, who got everything she wanted from Henri II even though she was 20 years older than he was and had probably been his father's mistress; and when Henri died, Catherine de Medici became the mother of three French kings, first Francois II, who was married to Mary Stuart, who told him what to do."</p>
+
+<p>"Well, look what happened to her in the end!" I said, referring to the ultimate beheading of Mary Stuart by her powerful cousin Elizabeth I of England when Mary had become Mary Queen of Scots. </p>
+<p>Yet, certainly, my friend was not entirely wrong. This same theme was, of course, taken up in literature and in life again and again, by later writers like the three Brontë sisters, in the 19th century. Charlotte, Emily, and Anne Brontë. Though they, too, wrote anonymously under the pseudonyms Currer, Ellis, and Acton Bell, hiding their sex, they fought valiantly for women's rights in their works. </p>
+
+<p>When Jane Eyre, in Charlotte Brontë's novel <em>Jane Eyre,</em> has just discovered Mr. Rochester's living wife, he asks Jane who would know or care if she married him. She answers: "I care for myself!" Her own conscience and moral code are what regulate her existence. Her strength comes from her independent thinking and her willingness to act on it, which eventually meant speaking up. </p>
+
+<p>Often this ability comes through suffering and difficulties overcome, but ultimately our intrinsic value as a human being, our power as a man or woman, comes from our belief in ourselves and our ability to speak up—to have the courage and conviction to stand up for what we believe is right, whatever the consequences. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/dreaming-for-freud/202603/how-to-get-what-you-want" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/dreaming-for-freud/202603/how-to-get-what-you-want</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/dreaming-for-freud/202603/how-to-get-what-you-want</guid>
+            <dc:creator><![CDATA[Sheila Kohler]]></dc:creator>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels--rahulshah--1031588.jpg?itok=KbawD3Tl" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
