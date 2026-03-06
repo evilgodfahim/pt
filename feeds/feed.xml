@@ -4,296 +4,307 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 18:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 19:35:33 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 18:50:24 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 19:35:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Is Mania the Engine of Bipolar Disorder?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/billhaseltinephoto.jpg?itok=a76H5bCT" alt="William A. Haseltine Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bipolar Disorder</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Mania the Engine of Bipolar Disorder?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A mania-heavy genetic factor in bipolar disorder is tied to risk traits.</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Unbearable Fear of Psi: When Skepticism Shifts to Denial]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-09/Weiler.png.jpg?itok=a2_xGWBT" alt="Weiler" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Consciousness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Unbearable Fear of Psi: When Skepticism Shifts to Denial</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: How emotional reactions shape scientific gatekeeping.</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A new genetics study highlights mania as the governing factor in the genetic architecture of bipolar disorder.</li><li style="margin-bottom:6px;">The genes responsible for bipolar disorder are dominated by inherited mania-related components.</li><li style="margin-bottom:6px;">Roughly 81 percent of bipolar disorder’s genetic variance loads onto the mania-related component.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">When we imagine bipolar disorder, we picture a pendulum between two equal poles, mania and depression, swinging from intense highs to deep lows. But what if they are not equal halves of the same illness? What if mania is the engine, and depression the aftermath?</p>
-<p dir="ltr">A <a href="https://www.sciencedirect.com/science/article/abs/pii/S000632232501635X">new genetic analysis</a> suggests that the manic component of bipolar disorder can be separated from the depressive component at the level of our genome. When the genetic overlap with major depressive disorder is removed from bipolar disorder, what remains is a distinct mania-related signal. This signal appears to account for most of bipolar disorder’s inherited architecture.</p>
-
-<p dir="ltr">It is difficult not to notice the resemblance of bipolar disorder to withdrawal. In addiction, the brain surges with reward signals and then, when they recede, the aftermath can look like despair. If mania represents a period of heightened drive, reduced sleep, amplified reward, and intensified neural firing, what happens when the surge ends? Is it possible that some depressive episodes resemble the crash after a prolonged chemical flood, not unlike withdrawal after intoxication?</p>
-
-<h2>Pulling Apart Two Storms</h2>
-<p dir="ltr">The modeling approach used here treats bipolar disorder not as a single block, but as overlapping layers. One layer corresponds to genetic liability shared with major depressive disorder. The other reflects what remains once that overlap is stripped away, a latent factor more specific to mania.</p>
-
-<p dir="ltr">When the model is fitted to large genome-wide datasets, the manic factor carries the greater weight. Roughly 81 percent of bipolar disorder’s genetic variance loads onto the mania-related component, while about 19 percent loads onto the depression-related component. This indicates that, statistically, the genetic structure that makes bipolar disorder distinct is driven more heavily by mania than by depression.</p>
-
-<p dir="ltr">Once the manic component is isolated, genome-wide scanning identifies dozens of significant variants distributed across multiple regions of the genome. Many lie in regulatory regions, the noncoding stretches that influence when and how genes turn on. Pathway analysis highlights voltage-gated calcium channel activity, a biological system central to neuronal excitability.</p>
-
-<p dir="ltr">Calcium channels regulate how easily neurons fire and how strongly they communicate. If mania reflects a state of heightened neural excitability, manic episodes may involve a shift in the brain’s electrical threshold, a kind of increased readiness to ignite.</p>
-<h2>The Crash After the Surge</h2>
-<p dir="ltr">Clinically, mania can look intoxicating: less need for sleep, racing ideas, and expansive confidence. For some, it brings bursts of productivity and social charisma. For others, it escalates into delusion, impulsive spending, fractured relationships, or hospitalization.</p>
-
-<p dir="ltr">But mania does not sustain itself indefinitely. When it burns out, what remains can look like the deepest despair.</p>
-<p dir="ltr">William Styron’s <em>Darkness Visible</em> describes depression not as sadness, but as a collapse of meaning. He writes of a psychic pain so complete that even memory of pleasure becomes inaccessible. In the context of bipolar disorder, depression often follows mania. Traditionally, both are treated as two sides of the same coin. But separating their genetic signals raises a different frame. Perhaps, in some cases, the depressive episode is not merely the opposite pole, but the brain’s recoil.</p>
-
-
-<p dir="ltr">Consider the analogy of addiction. During intoxication, reward circuits are flooded. During withdrawal, those same circuits can feel empty and inert. The contrast itself becomes painful. If mania involves amplified reward signaling and excitability, the end of that state might leave a system temporarily dysregulated, depleted, or hypersensitive.</p>
-
-<h2>Mania and the Question of Advantage</h2>
-<p dir="ltr">Another pattern appears when the mania-specific genetic signal is compared with other traits. Its genetic correlation with educational attainment is stronger than that of bipolar disorder as a whole. When educational attainment is broken into cognitive and noncognitive components, the stronger link appears on the noncognitive side, which includes traits such as persistence, motivation, and risk tolerance. </p>
-
-
-
-  
-
-
-<p dir="ltr">This opens an evolutionary door. In certain environments, individuals who sleep less, act boldly, pursue new ideas, and tolerate risk may secure status, resources, or influence. A tribe benefits from inventors and explorers. If some mania-linked variants nudge people toward higher energy and assertiveness in mild forms, those variants could have been maintained or even favored across generations. </p>
-
-<p dir="ltr">The extreme form of mania can be devastating. But evolution often preserves traits that are advantageous in moderation and dangerous in excess. The separation of mania from depression at the genetic level allows researchers to ask whether mania-linked alleles cluster in ways consistent with positive selection, and whether their effects vary across social contexts.</p>
-
-<h2>A More Nuanced Understanding of Bipolar Disorder</h2>
-<p dir="ltr">Mania retains substantial overlap with other psychiatric conditions, including schizophrenia. It shows distinct patterns of association with subjective well-being, tiredness, and substance use compared with bipolar disorder overall. These differences suggest that bipolar disorder is not a uniform entity but a composite. Once the depressive component is subtracted, the manic signal looks sharper and, in some respects, less entangled with certain vulnerabilities.</p>
-
-<p dir="ltr">Instead of speaking about bipolar disorder as a single pendulum, we may begin to think in terms of overlapping but separable biological processes. Some people may have a stronger manic liability. Others may carry a heavier depressive load. The lived experience can differ dramatically, even under the same diagnostic label.</p>
-
-<p dir="ltr">Mania is not simply the opposite of depression. If depression sometimes follows mania the way ash follows fire, then understanding the fire becomes even more urgent. Bipolar disorder may be a cycle driven by a spark powerful enough to light civilizations, and powerful enough to burn the mind that carries it.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/best-practices-in-health/202603/is-mania-the-engine-of-bipolar-disorder" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/best-practices-in-health/202603/is-mania-the-engine-of-bipolar-disorder</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/best-practices-in-health/202603/is-mania-the-engine-of-bipolar-disorder</guid>
-            <dc:creator><![CDATA[William A. Haseltine Ph.D.]]></dc:creator>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/beautiful-european-woman-keeps-lips-folded-has-surprised-facial-expression-spreads-hands-wears-casual-clothes-smeared-with-colored-jumper-isolated-purple-wall-holi-festival-concept%20Medium.jpeg.jpg?itok=DCJd2Dqo" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Everything Becomes “Trauma”]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/Yael_TheStoriesOurBrainsTellUs.png.jpg?itok=3Qlc0MgA" alt="Yael M. Cycowicz Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Resilience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Everything Becomes “Trauma”</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: How memory shapes our resilience.</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p>The noise of the rotor was deafening as I held my daughter tightly on my lap, terrified that she might slip from my arms and be pulled out through the still-open door of the rescue helicopter. Below us, the Swiss Alps were breathtaking, lush green valleys carved between rugged mountains, water rushing in thin white streams. It was the tenth day of what had been meant to be a relaxed two-week summer vacation, abruptly interrupted by a major flood. Who would have imagined that such a deadly flood would occur high in the mountains? Only when we arrived at the hotel in Zurich did we learn of the larger catastrophe unfolding in the United States, Hurricane Katrina. Watching the images on television, I remember thinking that if I had to experience a flood, I was fortunate to have lived through one in Switzerland. Yet that moment also deepened my growing interest in psychological trauma and how memory shapes our resilience or vulnerability to its lingering effects.</p>
-
-<p>The word “trauma” comes from the ancient Greek word " trauma, meaning “wound.” Originally, it referred solely to physical injuries, such as cuts, blows, or other bodily harm. The psychological sense of the word, as a wound to the mind, emerged in the late 19th century. The term was rarely used in much of the 20th century, with a noticeable increase beginning around the 1970s, likely linked to Vietnam veterans experiencing war-related trauma. Over time, the language of trauma has gradually expanded in everyday use, often applied to a wide range of difficult life events. Usage of the term has tripled over the subsequent five decades.</p>
-
-<p>While individuals’ responses to traumatic events vary, some being more sensitive to long-term consequences, the term “trauma” has increasingly permeated how we describe almost any challenging life experience. Experiences once described as stressful, painful, or simply “hard” are now commonly framed as traumatic, whether taking a challenging exam, undergoing a complicated but healthy childbirth, or facing personal or professional disappointments. Historically, psychological trauma referred to exposure to events that overwhelmed a person’s capacity to cope: war, natural disasters, assault, or life-threatening danger. It describes a rupture in one’s sense of safety and stability. Today, however, the term is used so broadly and so casually that its meaning risks becoming blunted, even diminished. Overuse risks blurring the distinction between individuals facing genuinely overwhelming experiences, those that profoundly disrupt functioning and undermine a sense of safety, and individuals who may need support in reframing challenges or finding the brighter side of daily life.</p>
-
-<p>But the shift is not only linguistic. How we frame our experiences or tell the story shapes our emotional responses and, ultimately, our mental health. When ordinary hardship is framed as trauma, we may unintentionally encourage fragility rather than resilience, reinforcing vulnerability instead of fostering recovery. How we remember our experiences not only reflects our psychological state; it actively shapes it.</p>
-
-<p>Of course, not all trauma is the same. The most damaging experiences are often chronic, prolonged, or rooted in early childhood, when we cannot protect ourselves or make sense of what is happening. At the same time, evolution has equipped us with stress-response systems meant to help us survive and recover. We are built to withstand hardship. Why do some challenging experiences leave deep psychological wounds, while others do not?</p>
-
-<p>Part of the answer lies within the individual, their temperament, biology, and history. But culture also plays a powerful role. We have increasingly come to expect that life should be smooth, predictable, and free of discomfort. When that expectation is violated, disappointment itself can take on the weight of trauma. We begin to describe difficult moments, exams, breakups, transitions, as “traumatizing,” and in doing so, we may inadvertently limit our capacity to recover. Language shapes experience. If a test is “traumatic,” how could one possibly move past it? But if a test is challenging, we understand that challenges are part of growth, and growth implies strength.</p>
-
-<p>I would suggest that broadening the definition of trauma, while well-intentioned, may have unintended consequences for resilience. Rather than focusing on what causes psychopathology, we might also ask what enables and supports recovery, how people make meaning, how they remember, and how their communities respond. Helping individuals reflect on difficult experiences without immediately labeling them as trauma may create room for meaning-making, adaptation, and even strength.</p>
-
-
-<p>Returning to our own family ordeal, I remember how every ounce of my attention went toward staying calm for our three young children when we were suddenly separated from my husband. We had arrived only the evening before; we were not yet settled. The rain was relentless, and my husband had walked to town to buy food, while I took the kids to visit my parents up the street. As I slowly walked with the kids, careful not to slip, I watched the road quickly fill with water; yet, I could not imagine that by the time we reached our destination, it would have turned into a gushing river, or that we would soon be stranded in a building whose entrance would be blocked by silt. Without our suitcases, we quickly lost power and had no food. I could not tell the children where their dad was or how he spent the nights across that vast expanse of water that had risen, flooding basements and eroding pathways. The hikes and adventures we had expected were replaced with made-up stories and games. I asked strangers for crackers and fruits, climbed to the roof to scan for any sign of my husband, and longed for information. When my son briefly fainted, I tried to quiet the rising fear of how we would get medical help when the helicopters delivering food could barely reach us.</p>
-
-<p>And yet, when we returned home to begin the school year, I told my children that we had the most adventurous summer vacation. We learned how to manage with little, how to pass the time together, and how to stay brave while flying in a loud, open military helicopter. Recently, when the twentieth anniversary of Katrina resurfaced in the news, I asked my now-adult children what they remembered from that trip. They remembered almost nothing, let alone any fear. What stayed with them was the helicopter, a memory of awe.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-stories-our-brains-tell-us/202603/when-everything-becomes-trauma" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-stories-our-brains-tell-us/202603/when-everything-becomes-trauma</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-stories-our-brains-tell-us/202603/when-everything-becomes-trauma</guid>
-            <dc:creator><![CDATA[Yael M. Cycowicz Ph.D.]]></dc:creator>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/butterflyTracySiermacheskyShutterstock_98691.jpg?itok=OfC9K-y_" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Recognition vs. Regulation in Therapy and in Life]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/mark_oconnell_headshot_0.jpg?itok=elsxTFN_" alt="Mark O'Connell LCSW-R" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Recognition vs. Regulation in Therapy and in Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Rose Byrne's 'Legs' explores what we want from others when we’re overwhelmed</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The film 'If I Had Legs I'd Kick You' illustrates the difference between recognition and regulation.</li><li style="margin-bottom:6px;">Knowing the difference between recognition and regulation can help us navigate our relationships.</li><li style="margin-bottom:6px;">Studies show that relational recognition helps to regulate our nervous systems and improves our mental health.</li>
+              <li style="margin-bottom:6px;">Why does the mere possibility of psi provoke ridicule instead of curiosity?</li><li style="margin-bottom:6px;">When a scientific question becomes taboo, something deeper may be at stake.</li><li style="margin-bottom:6px;">The strongest reactions to psi may reveal more about us than the phenomenon itself.</li><li style="margin-bottom:6px;">If even the possibility of psi unsettles us, what exactly are we afraid to discover?</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/If_I_Had_Legs_I'd_Kick_You_poster.jpg?itok=VchQx2Ln" width="250" height="375" data-insert-type="image" title="A24 Films" alt="A24 Films"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/shutterstock_168376433.jpg?itok=Ktqmhf9U" width="320" height="213" data-insert-type="image" title="sezer66/Shutterstock" alt="sezer66/Shutterstock"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: A24 Films</div>
+<div class="insertArea--origin subtext">Source: sezer66/Shutterstock</div>
 </div>
 </div>
 </div>
-<p dir="ltr">“Just tell me what to do,” Linda (played by Rose Byrne) says to her therapist (played by Conan O’Brien). Linda’s voice shakes with exhaustion—as it does throughout the Oscar-nominated film, <em>If I Had Legs I’d Kick You</em>.<br><br>“I don’t think you want me to tell you what to do,” her therapist replies, also exasperated. His tone suggests he’s irritated that she even asked. </p>
+<p>When I first began studying extraordinary human experiences, I expected skepticism. After all, science progresses through criticism, replication, and debate. Skepticism is an essential part of the scientific method itself. </p>
+<p>What I encountered, however, was something different: reactions that went beyond scientific critique and seemed to reflect a deeper discomfort with certain topics of investigation. Over the years, I came across responses that exceeded ordinary scientific disagreement. Some were subtle; others were remarkably direct.</p>
 
-<p dir="ltr">Linda is also a therapist. And the parent of a young child who has complicated medical needs. </p>
-<p dir="ltr">In addition, Linda’s husband and co-parent is away for work, leaving her to care for their daughter alone. In addition, Linda is caring for her clients, which includes a new mom who’s also overwhelmed by parenting (going so far as to bring her infant to work, burdening Linda to look after them both). </p>
+<p>One reviewer, evaluating a manuscript on remote viewing, simply wrote: “This is pseudoscience. Remote viewing is indistinguishable from random guessing.” Another reviewer of the same manuscript repeated, twenty-four times: “The request for a 100-word review [sic] to reject pseudoscience is ABUSE of reviewer time,” followed by 101 exclamation points. The comment offered no methodological critique of the study—only a childish dismissal. The editor then advised me to reconsider my professional trajectory if I intended to continue conducting this kind of research.</p>
 
-<p dir="ltr">The only support Linda receives for her clinical work is the weekly hour she gets with her own therapist, who couldn’t seem to care less. </p>
-<p dir="ltr">Oh. And the ceiling in her bedroom has collapsed, forcing Linda and her daughter to temporarily live in a motel while their home is repaired.</p>
-<p dir="ltr">“Tonight I want you to get a good night’s sleep,” her therapist says, after Linda runs through the exhaustive list of responsibilities she is struggling (and failing) to keep up with. O’Brien delivers this line like he’s given her this instruction a million times before, and he’s over it.</p>
+<p>Early in my career, I had already encountered rejection and disbelief from colleagues. When I mentioned studying extrasensory perception in out-of-body experiences, a well-known consciousness researcher responded that such work “could not be done because it simply could not be true.” A former supervisor once joked, upon hearing about a prize-winning essay I had written on evidence for life after death¹: “How did you find 25,000 words to write about something that doesn’t exist?”</p>
 
-<p dir="ltr">“he’she’sO’Brien”night’s“couldn’twho’sLinda’she’s”don’t“I’dLinda’sO’Brien”“So would I!” Linda fires back, “But I’m asking you a thing. An actual thing!”</p>
-<p dir="ltr">Byrne’s desperation as Linda burns hotter. And as she continues to plead for her therapist’s recognition of her dilemma—including the impossible expectations other people are putting on her as a mother—O’Brien doubles down like a burned-out parent whose rebellious child refuses to just keep quiet and go to sleep. </p>
+<p>These reactions illustrate something curious: the emotional intensity that often accompanies discussions about psi. They also echo a pattern described by psychologist Etzel Cardeña in a notable article published more than a decade ago but, unfortunately, still relevant today: “The Unbearable Fear of Psi: On Scientific Suppression in the 21st Century.”²</p>
 
-<p dir="ltr">“That means there’s no alcohol,” he continues, admonishingly, as if Linda’s words hold no importance. “No drugs…” You can hear O’Brien wagging a finger at her with his voice as he speaks.</p>
-<p dir="ltr">“Are you even listening to me?” Byrne cries out. “Can you <em>hear me</em>?!”</p>
-<p dir="ltr">Linda knows she needs a good night’s sleep. But much like a screaming baby, she needs help to make that happen. She needs someone to hold her. Someone to regulate<strong> </strong>her, so she can learn to regulate herself. From there, she just might have enough bandwidth to help regulate her daughter and clients.</p>
+<h2>When skepticism turns into censorship</h2>
+<p>Skepticism is essential to science. Good scientists are trained skeptics. We design experiments (theoretically) because we assume our intuitions may be wrong. We test hypotheses, question our interpretations, and attempt to replicate findings. Skepticism asks questions and demands evidence. Skepticism, however, is not the same as denial.</p>
 
-<p dir="ltr">And even just a smidge of compassionate recognition from her therapist of the outsized weight that’s been placed on her might help her to get there.</p>
-<h2>Recognition vs. Regulation</h2>
-<p dir="ltr">So what does it mean to ask someone for recognition or for regulation? And how can knowing the difference help us to navigate scenes like the one between Linda and her therapist in our own lives?</p>
+<p>A skeptic should ask: <em>What does the evidence suggest? Could there be another explanation? How can we test this more rigorously?</em></p>
+<p>A denialist begins from a different point: <em>This cannot be true.</em></p>
+<p>From that point onward, the role of evidence disappears. Experiments may be dismissed before they are even conducted. Results may be rejected before they are analyzed. And in some cases, researchers themselves become targets of ridicule simply for asking the question. The difference lies in openness: skepticism is curious; denial is closed. And often, fear seems to play a role in that closure.</p>
 
-<p dir="ltr"><em>Regulation</em> is the process by which our nervous system keeps our emotional, physiological, and attentional states of being within a tolerable and functional range. </p>
-<p dir="ltr">When we’re regulated (e.g., when we’ve had sufficient sleep, nourishment, and time to breathe), we are capable of engaging in relationships with other people with an open sense of possibility. We can see and be seen, and hear and be heard, without feeling threatened by forces outside of us. </p>
+<p>In his article, Cardeña argues that psi research frequently encounters forms of resistance that go beyond normal scientific criticism. These may include unusual publication barriers, disproportionate accusations, or the academic marginalization of researchers who study the topic. Cardeña documents several such episodes. In one case, an article accepted in a physics journal was reportedly required to remove all data related to parapsychology before publication. In another case, a Nobel Prize laureate was temporarily disinvited from a scientific conference because of his interest in psi research.</p>
 
+<p>According to Cardeña, there are only two circumstances that would justify academic censorship. The first is when scientific knowledge could be directly used to cause significant harm—for example, detailed information on how to weaponize a virus or construct a weapon of mass destruction. The second is when communication directly incites violence against others. Given these criteria, a natural question arises: in what sense would psi research fall into either category?</p>
 
-<p dir="ltr">When we’re regulated, we feel capable of collaborating with other people. We can creatively navigate obstacles between them and us.</p>
-<p dir="ltr">In short, regulation allows us to ask the other person to recognize us (“Excuse me, you’re stepping on my foot”), rather than to demand that they regulate us (“Get off me!”).</p>
-
-<p dir="ltr"><em>Recognition, </em>on the other hand, is an active, ongoing relational process of making efforts to see, hear, validate, and appreciate another person. </p>
-<p dir="ltr">Recognition involves feeling understood, secure, and appreciated in a relationship. It creates emotional safety between two people and the feeling that they can both fully exist in one another’s presence. </p>
+<p>As Cardeña argues, attempts to censor or suppress controversial research may reveal something paradoxical: not an excess of confidence in science, but a lack of it. Science, after all, is meant to be a process of open inquiry—one in which evidence, rather than prior belief, guides which questions deserve investigation.</p>
 
 
 
   
 
 
-<p dir="ltr">In order to recognize another person effectively, we need to take the necessary time and space to regulate ourselves. </p>
-<h2>Beebe’s Babies</h2>
-<p dir="ltr">Psychologist Beatrice Beebe’s decades-long studies on implicit communication between parents and infants beautifully illustrate the generative process of regulation and recognition in human relationships.</p>
+<p>Unfortunately, I know these dynamics well—not only as an observer, but as someone who has also faced similar episodes throughout my career³.</p>
+<h2>Why does psi research trigger such reactions?</h2>
+<p>Faced with this recurring pattern, an important question arises: why would a controversial hypothesis provoke reactions that sometimes resemble ideological conflict and passion more than scientific debate? Cardeña suggests several possibilities.</p>
 
-<p dir="ltr">Dr. Beebe videotapes parents playing with their babies and then shows the videos to the parents in slow motion (like the replay of a tennis match or like actors looking at their dailies after shooting a scene). This way, the parents can observe and appreciate the subtle exchanges between their babies and themselves, a process she calls <a href="https://pubmed.ncbi.nlm.nih.gov/24299136/">microanalysis</a> (Beebe &amp; Steele, 2013).</p>
+<p>One is that the hypothesis of psi challenges deeply rooted assumptions about the relationship between mind and brain. If mental processes could sometimes access information beyond known sensory channels—even rarely—this would raise complex questions about the nature of consciousness and the limits of current scientific models (see a previous post of mine: <a href="https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202501/exploring-the-afterlife">https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202501/expl…</a>). Even the possibility that our models might be incomplete can generate discomfort.</p>
 
-<p dir="ltr">Many times, as the parent watches the recording, they observe the baby turn away from them—an action Beebe calls “<a href="https://pubmed.ncbi.nlm.nih.gov/24299136/">dodging”</a> (Beebe &amp; Steele, 2013). The parent will typically worry at these times: e.g., “Why is she so upset?”; “What’s wrong with her?”; “What’s wrong with me?”</p>
-<p dir="ltr">But by getting to see the interplay from the outside, along with the guidance of Dr. Beebe, the parents learn to appreciate that the baby is often not rejecting them. She is simply taking the time and space she needs to regulate herself. And in order to support the baby in this process, the parent must practice regulating themselves, which includes breathing and processing complex feelings of guilt, shame, and blame, while feeling supported. This frees them up to recognize what their baby (their scene partner) needs in order to stay in a relationship with them. </p>
+<p>Another possibility is psychological: people often react defensively when confronted with phenomena that appear to contradict their worldview. The more deeply a theoretical framework is tied to our understanding of reality, the more threatening observations that do not fit within it may appear.</p>
+<h2>Why is it so difficult to change someone’s worldview?</h2>
 
-<p dir="ltr">In other words, co-regulation is a necessary developmental step toward self-regulation. As child psychologist Mona Delahooke says: “Self-regulation does not come from a book, a kit, or a sticker chart. It comes from countless interactions with calm, loving caregivers” (Delahooke, 2022).</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/Film_Review_-_If_I_Had_Legs_Id_Kick_You_51166.jpeg.jpg?itok=0HOQl8JT" width="320" height="190" data-insert-type="image" alt="Conan O'Brien and Rose Byrne in a scene from &amp;quot;If I Had Legs I'd Kick You&amp;quot;" title="A24 Films"></div>
-<div class="caption">Conan O'Brien and Rose Byrne in a scene from "If I Had Legs I'd Kick You"</div>
-<div class="insertArea--origin subtext">Source: A24 Films</div>
-</div>
-</div>
-</div>
-<h2>The Scene Work of Relationships</h2>
-<p dir="ltr">Understanding the difference between asking for recognition (“Sorry, I’ll be out of your way in just a second. I just need to tie my shoe.”) and demanding regulation (“Go f--- yourself!”) can help us to identify what we actually want or need from other people. And what they actually want or need from us. </p>
+<p>Changing someone’s view of reality—what philosophers call an <em>ontological perspective</em>—is particularly difficult because our beliefs about how the world works are built gradually over the course of life and become deeply embedded in how we think, feel, and relate to others.</p>
+<p>From childhood onward, we begin constructing an internal “map” of how the world works. This map helps us interpret everything we experience. Once these structures are established, they act as filters for new information. Instead of easily replacing our existing assumptions, we typically try to fit new observations into the model we already have.</p>
 
-<p dir="ltr">When we’re regulated, we can effectively ask our friends or family to recognize us: e.g., “It would mean a lot to me if you got me a gift for my birthday. I felt neglected a lot as a child, and it would be healing to know that you hold me in mind.” As opposed to commanding them to regulate us: “Get me that one-of-a-kind pair of jeans I asked for <em>or else!”</em></p>
+<p>Beliefs about reality are also closely tied to identity. They are rarely just abstract ideas. Often, they become intertwined with who we are, with the communities to which we belong, and with the values we defend. When a belief is connected to identity, questioning it can feel like a personal attack.</p>
 
-<p dir="ltr">Similarly, if Conan O’Brien’s therapist character could regulate himself (calm his nervous system from the stress of his client’s needs), he could offer Linda recognition instead of judgment. He could sound like he means it when he says, “I want you to get a good night’s sleep.” He could sound like he cares about her. And that alone could possibly hold Linda, regulate her, and inspire her to regulate herself. Which would then prepare her to help regulate her daughter and her clients. </p>
+<p>A scientist whose career has been built around a particular theory may struggle to accept evidence that contradicts it. Likewise, someone who grew up within a strong religious or cultural tradition may find it emotionally difficult to question foundational beliefs, because doing so might create tensions with family or community. In such cases, resistance to new ideas is not simply stubbornness—it is often a way of protecting one’s sense of identity and belonging.</p>
 
-<p dir="ltr">In fact, several recent studies indicate that receiving recognition<strong> </strong>from another person can reduce negative emotions and foster long-term mental and physical well-being (<a href="https://www.sciencedirect.com/science/article/pii/S1053811925000448?utm_source=chatgpt.com">Zhu, Zhang, &amp; Zhang, 2025</a>). And conversely, being able to recognize emotional states in other people can decrease the emotional impact of negative relational experiences (<a href="https://www.sciencedirect.com/science/article/pii/S0092656624000151?utm_source=chatgpt.com">Somner &amp; Schlegel, 2024</a>).</p>
+<p>Social influences also play a powerful role. Much of what we believe about reality does not come from direct experience, but from what is transmitted by people we trust: parents, teachers, friends, cultural traditions, and respected authorities.</p>
+<p>In today’s digital environments, this effect can intensify. Online platforms often present people with content aligned with their prior interests and beliefs. As a result, individuals may repeatedly encounter information that reinforces their existing beliefs, while rarely encountering serious challenges to their worldview.</p>
 
-<p>Genuine recognition from another person can feel like being “held” by a parent until we can put ourselves to sleep.<em> If I Had Legs I’d Kick</em> <em>You</em> ultimately shows us, very movingly, what this kind of recognition might look like. And it’s worth enduring the slings and arrows of Linda’s outrageous fortune to get a glimpse of it.<br><br><em>Copyright Mark O’Connell, LCSW-R</em></p>
+<p>Revising one’s worldview also involves psychological costs. It requires cognitive effort, can generate social tensions, and often involves discomfort with acknowledging that a long-held belief may need reconsideration.</p>
+<p>For these reasons, changing someone’s view of reality rarely depends solely on presenting better arguments or stronger evidence. Beliefs are embedded in deep cognitive structures, emotional bonds, social relationships, and cultural contexts. Significant ontological shifts usually require time, trust, dialogue, and an environment in which exploring new ideas does not threaten a person’s identity or social relationships. When ideas challenge deeply held assumptions about reality, the reaction is not always scientific debate. At times, it looks more like a psychological defense.</p>
+
+<p>If that is the case, the intensity of the reactions surrounding psi research may be revealing something important—not necessarily about the phenomenon itself, but about the boundaries of what we feel comfortable allowing science to investigate.</p>
+<p>Seen from this perspective, the central issue may not simply be whether psi exists. Perhaps the deeper question is this:</p>
+
+<p><em>What, exactly, are we so afraid of discovering?</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/quite-queerly/202603/recognition-vs-regulation-in-therapy-and-in-life" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202603/the-unbearable-fear-of-psi-when-skepticism-shifts-to-denial" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/quite-queerly/202603/recognition-vs-regulation-in-therapy-and-in-life</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/quite-queerly/202603/recognition-vs-regulation-in-therapy-and-in-life</guid>
-            <dc:creator><![CDATA[Mark O'Connell LCSW-R]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202603/the-unbearable-fear-of-psi-when-skepticism-shifts-to-denial</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202603/the-unbearable-fear-of-psi-when-skepticism-shifts-to-denial</guid>
+            <dc:creator><![CDATA[Marina Weiler, Ph.D.]]></dc:creator>
             <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/1440811_ifihadlegsidkickyou_844875.jpg?h=51da93b2&amp;itok=lLz7m2JM" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/shutterstock_168376433.jpg?itok=o-l6dovR" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Friendvy: When Friends Spark Envy]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jodi_wellman.png.jpg?itok=AmVh-9Wa" alt="Jodi Wellman MAPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Friends</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Friendvy: When Friends Spark Envy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How being "friendvious" can motivate growth instead of resentment</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Performance Anxiety: Understandable, Unnecessary, Changeable]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-03/Klein.png.jpg?itok=p0MiJDsp" alt="Marty Klein Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sex</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Performance Anxiety: Understandable, Unnecessary, Changeable</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Performance anxiety is a common way people undermine their sexual experience.</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Most people experience envy, especially toward peers close in age or status.</li><li style="margin-bottom:6px;">Benign envy can motivate growth, while malicious envy breeds resentment.</li><li style="margin-bottom:6px;">Naming envy and reframing it as inspiration can strengthen motivation and relationships.</li>
+              <li style="margin-bottom:6px;">Performance anxiety results when someone fears they have to deliver something specific to their partner.</li><li style="margin-bottom:6px;">Healthy adults know how to manage disappointment and surprise in various life domains.</li><li style="margin-bottom:6px;">We shouldn't think of sex as a place to prove anything, because then we can fail—an idea that ruins sex.</li><li style="margin-bottom:6px;">Performance anxiety doesn't live in sex—it's created by individuals.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/jametlene-reskp-S_hJDPPYOLw-unsplash.jpg?itok=vgmkYCr9" width="320" height="213" data-insert-type="image" title="Jametlene Reskp / Unsplash" alt="Jametlene Reskp / Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Jametlene Reskp / Unsplash</div>
-</div>
-</div>
-</div>
-<p>Do you (like me) sometimes envy your friends? If so, this makes us “friendvious.” I know a cute portmanteau doesn’t make us feel any better about feeling green with friendvy… so let’s turn to research to understand (and rationalize) this uncomfortable emotion.</p>
-<p><a href="https://www.tandfonline.com/doi/full/10.1080/01973533.2015.1088440">Studies</a> show non-family-like relationships (i.e., close friends, casual friends, and acquaintances) are more likely to elicit feelings of envy than family-like relationships (i.e., relatives, siblings, best friends, and romantic partners).</p>
+                    <p>Every week, patients want to talk with me about “performance anxiety.” It’s one of those terms that everyone now uses, so people expect that I know exactly what they mean.</p>
+<p>But as with most things that patients say, I usually respond by asking “what do you mean?” And that’s when patients start disclosing the troubling details.</p>
 
-<p><a href="https://www.tandfonline.com/doi/full/10.1080/01973533.2015.1088440">Research</a> also reassures us that “more than three-fourths of survey participants report that they had experienced envy in the last year.” Digging a bit deeper, about 80 percent of people under 30 reported feeling envious, compared with 69 percent of people over 50.</p>
-<p>We are more likely to envy others of the same gender and within five years of our own age. We’re most likely to envy monetary and occupational success (although I have also been known to envy my friend CJ’s lustrous hair).</p>
+<p>We often end up talking about power. Or unspoken threats. Or unrealistic expectations. Or conflict that has no obvious purpose.</p>
+<h2>What if I...?</h2>
+<p>When people say “performance anxiety,” they generally mean “I get anxious about being able to deliver a particular thing that someone else values.”</p>
+<p>In the sexual realm, that often starts with erections: What if I don’t get hard enough for intercourse? It can include lubrication: What if I don't get wet enough for easy intercourse? And it also extends to orgasm, a common concern for people of every gender: What if I don’t climax? Or I climax too quickly, or too slowly?</p>
 
-<p>Allow me to provide personally unflattering examples before we wade further into the psychology of this unsavory emotion:</p>
-<ul>
-<li>When I see a LinkedIn post (oh, LinkedIn, the breeding ground for friendvy!) from successful, keynote-speaking friends, I experience two simultaneous emotions: genuine happiness for their achievements, and a sense of longing for similar success in my own life. I don’t feel the same pangs of envy with keynote-speaker-strangers as I do with my friends; these mixed feelings of admiration paired with self-comparison illustrate how envy can show up in close relationships.</li>
-<li>When I look up successful friends’ websites for inspiration, I admire their accomplishments and feel proud of them… and since I’m well aware prolonged comparison can trigger self-doubt and feelings of <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/mar.21926">imposter phenomenon</a>, I “scroll and scram.” I’ll send my friend a praiseful, “your speaking reel looks incredible!” text message and then try to figure out what to do with my friendviousness. Envy... it can coexist with respect and affection.</li>
-</ul>
+<p>Even enjoyment can be a commodity delivered insufficiently: What if I’m not enthusiastic enough, or satisfied enough, or moan enough?</p>
+<p>So that’s the "what" of the issue. Now let’s unpack the why: Why are people concerned with their sexual “performance?”</p>
+<h2>Why?</h2>
+<p>The innocent answer begins “because I want my partner to have pleasure. I want to share closeness with them. I want us to have a good experience.” This sounds both reasonable and wholesome—except for the anxiety part, which we’ll get to below.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/ben-iwara-tuSWVzA4kEg-unsplash.jpg?itok=FBR1RGUK" width="320" height="213" data-insert-type="image" title="Photo by Ben Iwara on Unsplash" alt="Photo by Ben Iwara on Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Photo by Ben Iwara on Unsplash</div>
-</div>
-</div>
-</div>
-<h2>Let’s differentiate between envy and jealousy</h2>
-<p><strong>Envy</strong> <a href="https://psycnet.apa.org/record/1993-36273-001">involves wanting</a> what someone else has and feeling inferior or resentful.</p>
-<p><strong>Jealousy</strong> involves fear of losing something one already possesses to another person.</p>
-<p>Envy is generally <a href="https://psycnet.apa.org/buy/2006-23058-003">unpleasant</a>, but it’s not always harmful. It’s typically painful and ego-threatening, which is why it can sting our well-being in the short term.</p>
+<p>Some people do feel anxious out of altruistic concern about a partner’s pleasure (which isn’t necessary, although I understand it). But the dark side of <em>this involves efforts to prevent a partner from feeling bad</em>—and apparently that can take many shapes.</p>
+<p>Some people create anxiety by imagining their partner being sexually frustrated (even if they swear they aren’t). Sometimes the anxiety results from a partner explicitly complaining, “If you loved me, you’d...” Or “If you found me attractive, you'd...", or "If you really desired me, you'd…”</p>
 
-<p><a href="https://journals.sagepub.com/doi/10.1177/001872675400700202">Social Comparison Theory</a> helps explain the engine of envy: <em>Upward social comparison</em> occurs when we compare ourselves to similar others to evaluate our abilities and status. Because friends and close peers are particularly relevant comparison targets, their achievements can make perceived gaps more glaring and increase the likelihood of envy.</p>
+<p>Some people stake their own sense of sexual adequacy on their partner’s “performance”: “If I were a good lover, you’d... and since you don’t, I guess I’m not.” In this situation, people have sex defensively—wanting to protect themselves from the pain of causing their partner pain. And again, that creates pressure.</p>
 
-<p>Social media amplifies these upward comparisons, which can reduce our well-being. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563214005767">Studies</a> show that Facebook use, for example, can trigger envy and increase negative emotional experiences.</p>
-<p>Most <a href="https://psycnet.apa.org/record/1999-03432-008">research</a> distinguishes between <a href="https://journals.sagepub.com/doi/abs/10.1177/0146167211400421">benign envy</a> and <a href="https://psycnet.apa.org/buy/2020-87191-001">malicious envy</a>.</p>
-<ul>
-<li>Benign envy motivates self-improvement and sounds a lot like,<em> “I want to be as accomplished as my friend.”</em></li>
-<li>Malicious envy involves ill will toward the friend and sounds a lot like, <em>“I wish my friend had way less success.”</em></li>
-</ul>
+<p>Pressure can even come in benign-sounding language: “Oh, honey, I just want things to be fair. You give me so much pleasure; you deserve the same for yourself.” The result is still pressure—the sense that someone has to experience pleasure to validate their partner. When someone’s pleasure becomes a commodity that they have to deliver to their partner, it’s easy to feel anxious.</p>
 
-<p>Researcher Sara Protasi describes <a href="https://www.tandfonline.com/doi/abs/10.1080/09515089.2015.1115475">four kinds of envy</a> (a framework I love so much and would totally be envious of if I were trying to be an envy researcher, but alas, I have keynote speaker friends to be envious of instead):</p>
-<ul>
-<li><strong>Emulative envy</strong> results from focusing on the desired good while believing oneself capable of attaining it. The envied person becomes a role model, motivating improvement.</li>
-<li><strong>Inert envy</strong> occurs when individuals focus on the desired good but believe they are incapable of obtaining it. This form is associated with despair, frustration, and reduced motivation.</li>
-<li><strong>Aggressive envy</strong> involves believing one can remove the advantage from the envied person. This form is competitive and antagonistic.</li>
-<li><strong>Spiteful envy</strong> arises when individuals focus on the envied person but believe they cannot obtain the good themselves, leading to frustration and hostility without constructive motivation.</li>
-</ul>
+<h2>Responses</h2>
+<p>Responses to performance anxiety vary.</p>
+<p>One is being terribly self-conscious before and during sex, undermining the chance of enjoying the experience. Another is to simply ignore a partner’s experience altogether, which is the opposite of intimacy.</p>
+<p>Another is to lose interest in sex—not as a conscious decision, but as an understandable consequence. When sex (or anything else) is emotionally dangerous, of course, people back away from it. This is a common reason that people come to therapy. People often don’t realize that their performance anxiety can have such a large impact on them.</p>
 
-<p>These distinctions help clarify how envy can either undermine or enhance well-being.</p>
-<h2>So, what should we do when we feel envious of friends?</h2>
-<ul>
-<li><strong>Name it, don’t shame it.</strong> Benign envy is a normal social emotion. Acknowledging it may reduce its intensity and prevent it from becoming destructive. My envy reminds me I have some semblance of passion and that I want very good things for my life. If I didn’t compare myself to my friends who are doing what I want to be doing more of, it might mean I no longer cared about my goals. I’d prefer envy over apathy.</li>
-<li><strong>Consider openness.</strong> What if we admitted to our friends that we were proud of them <em>and</em> envied them? When we express admiration for our friends’ achievements, envy can transform into appreciation and connection rather than resentment. Recognizing others as sources of inspiration strengthens relationships rather than threatens them.</li>
-<li><strong>Let envy motivate rather than demoralize.</strong> We know <a href="https://journals.sagepub.com/doi/abs/10.1177/0146167211400421"><strong>context matters</strong></a>… envy motivates only when self-improvement seems possible. When we believe progress is possible, envy can increase effort and performance. However, when goals seem unattainable, envy may lead to discouragement, suggesting a need to reassess priorities or expectations. Do we need to let go of goals that aren’t realistic (e.g., envying a friend who made the Olympic team, when that’s not likely in the cards for us)?</li>
-</ul>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/patti-black-3YSGBYZMvcs-unsplash.jpg?itok=csN2jXEh" width="320" height="217" data-insert-type="image" title="Patti Black / Unsplash" alt="Patti Black / Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Patti Black / Unsplash</div>
-</div>
-</div>
-</div>
-<p><a href="https://journals.sagepub.com/doi/abs/10.1177/0146167211400421"><strong>Research</strong></a><strong> </strong>suggests that benign envy can promote personal growth. When others’ success seems attainable, envy can increase motivation, encourage goal-setting, and improve performance. <a href="https://ira.lib.polyu.edu.hk/handle/10397/94746">Studies</a> also indicate that benign envy is positively associated with flourishing and subjective well-being.</p>
-<p>We are allowed to want to emulate friends we admire while still supporting their success. It is possible to hold multiple emotions at once... we can be happy for our friend’s successes, and simultaneously unhappy that we don’t have what they have (yet?). These feelings don’t have to compromise our friendships, especially if we’re willing to share our applause for their wins with them.</p>
+<h2>So, What to Do About the Pressure?</h2>
+<p>Whether the pressure comes from one’s partner or from within, anxiety is a choice (yes, even if a person has a disorder or feels previously traumatized). If so, what are the other options?</p>
+<p>Talking is better than isolation. Having preferences is better than trying to be “normal.” Calibrating expectations is better than fear of failing. Curiosity is better than anxiety.</p>
+
+<p>We all prefer that our bodies behave in certain ways during sex. But this is only a problem if you can’t manage when it doesn’t—which is what we do in the rest of life. We’re continually facing disappointment, surprise, and alternative scenarios regarding health, money, parenting, and recreation. Most healthy people accept this, massage a situation as best they can, and get on with life. “Anxiety” makes that almost impossible. So realizing that you have choices is a valuable first step.</p>
 
 
 
   
 
 
-<p>Ultimately, the benign kind of envy can serve as information about our values, aspirations, and where we want to grow. Rather than viewing envy solely as a moral failure or personal flaw, we can recognize it as a complex social emotion that, when managed constructively, can motivate improvement and enhance well-being. It can even improve our friendships when we share our admiration for their successes. Being friendvious doesn’t sound all that bad now, does it?</p>
+<p>I help patients walk through “so what if…” scenarios of sexual disappointment. What if he won’t believe you’re attracted to him? What if she insists that you create an unrealistic experience for her? What if another guy would get an erection in a situation that you don’t? What if you’re the first guy your boyfriend couldn’t make climax?</p>
+
+<p>I also help people describe what’s important about sex to them. Sexual “function” isn’t an end in itself; it’s just a means. A means to what? Pleasure. Closeness. Playfulness. Self-expression. When people pursue these things with an open mind (and a partner they trust), they can experience them regardless of how each other’s genitalia behave. In that situation, there are always alternative erotic behaviors if your body (or your partner’s) doesn’t do exactly what you want.</p>
+
+<p>I encourage people to discuss these things with every person they have sex with—and what kinds of experiences they would therefore enjoy, regardless of how their genitalia behave. For straight people, for example, understanding that intercourse is not “real” sex, but rather just one kind of sex, is crucial.</p>
+
+<h2>Unrealistic Expectations</h2>
+<p>Much performance anxiety is a response to the unrealistic expectations of one or both partners. Porn, of course, portrays fictional characters doing things that can only result from editing. People who think they should duplicate the unusual bodies and activities depicted in porn will almost always fail.</p>
+
+<p>But some unreasonable sexual ideas have been floating around our culture for decades, independent of porn: that women should climax from intercourse; that sex should happen spontaneously, without planning; that men should get erect from a single moment of visual stimulation; that people should have youthful, flexible bodies at every age.</p>
+
+<p>When patients disclose that they have some of these ideas, I ask them to explain why they think ordinary bodies and people would behave in these ways. That’s the first step in eventually saying, “What you expect of yourself, or what your partner expects of you, is simply not realistic. So quit being surprised or dismayed when your body doesn’t do that.”</p>
+
+<p>Ultimately, people need to believe that anxiety isn't an inevitable feature of sexual situations—people create anxiety. People can rewire themselves to enjoy a wider range of experiences and to take disappointment more lightly. And almost anyone can replace the identity of "anxious lover" with something, well, sexier.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/4000-mondays/202603/friendvy-when-friends-spark-envy" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/sexual-intelligence/202603/performance-anxiety-understandable-unnecessary-changeable" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/4000-mondays/202603/friendvy-when-friends-spark-envy</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/4000-mondays/202603/friendvy-when-friends-spark-envy</guid>
-            <dc:creator><![CDATA[Jodi Wellman MAPP]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/sexual-intelligence/202603/performance-anxiety-understandable-unnecessary-changeable</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sexual-intelligence/202603/performance-anxiety-understandable-unnecessary-changeable</guid>
+            <dc:creator><![CDATA[Marty Klein Ph.D.]]></dc:creator>
             <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/jametlene-reskp-S_hJDPPYOLw-unsplash.jpg?h=c9629bd0&amp;itok=nMzR3KNA" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-kampus-5990969.jpg?itok=2DUDpl2g" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Stay Grounded When the News Is Overwhelming]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/Rachel%20Glik.png.jpg?itok=ufoe5Q-T" alt="Rachel Glik Ed.D., LPC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Stress</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Stay Grounded When the News Is Overwhelming</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When the news is too heavy, pause and return to what steadies you.</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Taking care of yourself isn’t selfish—it helps you show up better for others.</li><li style="margin-bottom:6px;">Set boundaries around news to protect your peace—and make a real impact where you can.</li><li style="margin-bottom:6px;">Even the smallest light you offer can shift the darkness.</li>
+            </ul>
+          </div>
+                    <p>The news is really heavy right now. More than ever, my clients are bringing to sessions their struggle to stay emotionally balanced amidst what's going on in the world. I'm hearing many of the same questions:</p>
+<ul>
+<li>How do I stay engaged with what's happening in the world without losing myself?</li>
+<li>If I'm not watching the news all the time, am I abandoning those in pain?</li>
+<li>Why can't I stop checking or scrolling, even though it makes me feel worse?</li>
+<li>How can I enjoy my blessings when so many others are in despair?</li>
+</ul>
+
+<p>So, how do we find balance? The answer isn't avoidance–and it isn't constant vigilance either. The most important question we must ask is: "How can I best take care of myself in order to show up for the world in the best way?"<strong> </strong>The answer to this is lifelong and personalized, but for now, let's start with these five tools for creating emotional balance in a chaotic world:</p>
+
+<h2>1. Appreciate that self-care isn't a retreat from responsibility </h2>
+<p>The first tool is to have this consciousness: <em>Prioritizing my own emotional balance allows me to show up for others in the best way.</em> Self-care isn't selfish or avoiding the pain of the world. Self-care is responsible and essential. We can easily fall into a hole of rage, judgment, and despair. Make no mistake; allowing these emotions to take hold, all in the name of caring for the world, can become a false trap that neither reduces the suffering nor adds light to the world. </p>
+
+<p>Years ago, I remember asking author and kabbalah teacher, Monica Berg, "How can I be happy when so many others are suffering?" She replied, "You have to be happy; it's your responsibility. If you don't fill your well and allow the joy of your life to enter, then you will have nothing to give to anyone." </p>
+
+<h2>2. Learn to regulate your nervous system: P.B.R. method</h2>
+<p>Staying grounded starts with noticing what's happening in your body and learning how to regulate your nervous system. Awareness is the first step. I suggest in my book, <em>A Soulful Marriage,</em> what I use myself and call the "P.B.R. method." It's micro-mindfulness meditation involving short, intentional bursts of awareness to break stress cycles and signal safety to the brain. </p>
+
+<p>Try these simple steps: <em>Pause. Breathe. Relax.</em> Approach each slowly and as its own action step. Then again. The beauty of this practice is its accessibility. You can P.B.R whenever and with whatever you're doing with little interruption. Only enough interruption to put you in the driver's seat of your own nervous system and consciousness. Then you can make other grounding choices with intention, in your thoughts, words, and actions. </p>
+
+<h2>3. Create consumption boundaries (no guilt)</h2>
+<p>When empathy goes too far, it's not responsible or helpful anymore. We can easily center our own feelings, not those we are concerned about. It's vital that we have self-compassion when we or others are suffering. At the same time, the ego can trap us into becoming paralyzed by our emotions under the veil of care. Yes, it's important to feel the pain of others, but then what? <em>We need boundaries to harness the proactive part of our essence that has important energy to give. </em></p>
+
+
+<p>Here are some boundaries you can create for your exposure to the news:</p>
+<ul>
+<li>Limit news consumption times—schedule short check-ins and set a curfew.</li>
+<li>Disable push notifications.</li>
+<li>Avoid doom-scrolling with curated phone blocks.</li>
+<li>Refrain from especially triggering topics or news feeds.</li>
+<li>Establish "no-go" conversation topics with family and friends.</li>
+</ul>
+
+<p>Here are some boundaries that include directing your attention toward positivity.</p>
+<ul>
+<li>Consume content that uplifts, opens your heart and soul, and inspires joy and kindness.</li>
+<li>Invest time in what lights you up (e.g., music, outdoors, friends, games, moving, laughing, baking).</li>
+<li>Focus on actionable steps you can control (like donating, volunteering, giving, and creating). </li>
+</ul>
+
+
+
+  
+
+
+<h2>4. Share! </h2>
+<p>When the news is overwhelming, one of the most damaging results is powerlessness. This feeling stems from doubting the impact of the good we do. In<em> The Wisdom of Truth</em>, Rav Yehuda Ashlag explains the concept that spiritual matters, positive actions, and energy never disappear. The light from our thoughts and actions is accumulated and stored, even if we can't see or feel it. He encourages his students and readers to trust that every effort made will eventually become a great light. </p>
+
+<p>Science supports this ancient idea that energy is never truly "wasted." Rather, it is always conserved and transformed from one form to another. We call this the Law of Conservation of Energy (First Law of Thermodynamics).</p>
+<p>So share your heart out, pray for others whenever you can, live the principles that you want to be remembered by, and go out of your way to make someone else's life better. Know that by sharing in one area of your life, this adds to the collective goodness in the world, even when we can't see it. We do have power, and there are no small actions in this world.</p>
+
+<h2>5. Connect with a higher source</h2>
+<p>Connect to something higher that is divorced from the limitations of this world.<strong> </strong>As Einstein suggested, our problems require a higher level of thinking and moral awareness than the mindset that created them. When we elevate our "level of consciousness," we can leave behind the old, ingrained patterns that will only perpetuate the same problems. Anything that expands your consciousness, connects you to what you know to be true, awakens love and unity, inspires you, brings you fully into the present moment, makes you appreciate being alive, do that more. This is how we remove negativity. Please don't underestimate the power you have to add this much-needed light to the world. </p>
+
+<h2>Take away</h2>
+<p>When the news cycle feels relentless, protecting your mental health isn’t avoidance—it’s responsibility. Choose intentional engagement over constant exposure, so you stay informed without becoming emotionally flooded—and preserve the clarity and strength you need to bring light to the world.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/creating-soulful-connections/202602/how-to-stay-grounded-when-the-news-is-overwhelming" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/creating-soulful-connections/202602/how-to-stay-grounded-when-the-news-is-overwhelming</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-soulful-connections/202602/how-to-stay-grounded-when-the-news-is-overwhelming</guid>
+            <dc:creator><![CDATA[Rachel Glik Ed.D., LPC]]></dc:creator>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/felicity-frey--yWOcHohXuY-unsplash.jpg?itok=KRr47KVV" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reimagining Intimate Relationships: Negotiating]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/aponte_2.jpg?itok=viMxn6eI" alt="Catherine Aponte Psy.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Reimagining Intimate Relationships: Negotiating</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Understand the process of negotiation with your spouse.</h2><p style="font-size:0.9em;color:#666;">Posted March 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Negotiating is about how to transform two different perspectives into a shared plan of action.</li><li style="margin-bottom:6px;">Negotiating is a step-by-step process to share individual perspectives and come up with shared goals.</li><li style="margin-bottom:6px;">Negotiation is how you sort through your daily activities, individual interests, and big life decisions.</li><li style="margin-bottom:6px;">Through negotiation, you learn about each other's preferences and each other as individual people.</li>
+            </ul>
+          </div>
+                    <p>This is Part II of Reimagining Intimate Relationships. Part I can be read <a href="https://www.psychologytoday.com/us/blog/a-marriage-of-equals/202603/reimagining-intimate-relationships"><em>here</em></a>.</p>
+<p>Negotiating collaboratively is a co-creative process that transforms two sets of preferences into a shared plan of action. It involves sharing your preferences with each other and talking about why these preferences are important to you. This discussion allows you to come up with a few ideas that will express your shared goals. Then you can decide upon a specific plan of action to address the issue discussed.</p>
+
+<p>Through this process, you will learn about what is important to each of you. You may even learn something about the specific preferences that are stated. And neither of you will want the other to do something they regard as unattractive or unacceptable.</p>
+<p>You will be negotiating joint activities like doing housework, caring for children, having fun together, and your sexual enjoyment. You will also negotiate individual activities like maintaining a productive work life, enjoying your individual friends, individual sports activities, etc. And you will be negotiating major life events like planning careers.</p>
+
+<h2>Sara and Lucas Negotiate a Parking Preference</h2>
+<p>Sara, 33, and Lucas, 34, dated for several months before deciding they wanted to live together. Both have had previous relationships but never lived with any of the people they dated. They are happy and satisfied with their current relationship and believe they will want to make it more permanent. They have worked regularly on negotiating with each other. Here is an example of a negotiation about a minor but important situation they had a difference about, where to park their car safely and conveniently when they go shopping at the mall.</p>
+
+<p><em>First Step: Approaching Your Partner</em></p>
+<p>When you have something on your mind—a concern you have, a goal you want to set, a preference about how to do something—give your partner a heads-up about what you want to talk about. It is important to give them time to examine their own thoughts about the issue. Set a time when it is convenient for both of you to talk.</p>
+
+<p>Sara and Lucas disagreed about where she should park when she drove to the mall. Lucas did not want her to park in the garage, which was her preference. A mundane but important difference to them.</p>
+<p>Lucas had become concerned about Sara parking in the garage because the parking slots are narrow. The car was a recent purchase that Lucas took pride in. He believes there is a greater risk of having the car scratched by someone opening a door or scraping her car as a car next to her leaves. He checked with Sara, and they agreed to meet to talk.</p>
+
+<p><em>Second Step: Expressing Your Concern or Preference</em></p>
+<p>This is the time for each of you to be able to express your view of the issue at hand. Each of you will want to explain what your view is because you have thought about it, having had a heads-up. Each of you will have the time to express why what you want is important to you. Each of you will give your partner the opportunity to express their preference without interruption. Being able to be clear about your specific preference or concern in each situation is important to finding shared solutions. This step ends when each of you has had the opportunity to express themselves.</p>
+
+<p>Sara had a chance to think about why she parked in the garage, deciding that it was convenient for her to park in the parking garage when running errands and getting to appointments on time. Lucas expressed his concerns about the car being damaged.</p>
+<p><em>Third Step: Recognizing Every Concern of Yours Is a Concern of Mine</em></p>
+
+
+<p>This is the time you become aware that you both can keep the simultaneous perspective of seeing each other as equally valued partners while valuing your own preference or concern. Be alert to defending or privileging your position. Do not criticize or argue against your partner’s preference. Do not privilege your own preference, which could damage the togetherness of your relationship. Remember, “every concern of yours is a concern of mine.”</p>
+
+<p><em>Fourth Step: Creating a Plan of Action</em></p>
+<p>The best kind of plan is one that includes the concerns or preferences of both of you. As you create such a plan, you may become aware of how your concern for each other affects the way you both engage around this important task. You will notice how this negotiation process may change what you want and why you want it through this process of self-reflection. You mutually affect each other, changing each other, for the better. This is how you co-create your life together.</p>
+
+
+
+  
+
+
+<p>Sara had not thought about the chance that the car could be scratched or dented by another car. This had not been a concern of hers, nor had she thought about the expense of such an incident. In turn, Lucas was not thinking about the convenience of the parking garage but instead looking for a space on the street. Through their conversation, both Sara and Lucas learned more about their partners’ concerns and what was important to them both.</p>
+
+<p>Here is Sara and Lucas’s action plan. Sara agreed to park on the upper level of the garage, where there are fewer cars, when she runs errands. To avoid the parking garage altogether, when possible, Lucas will drive Sara to important appointments when he is working from home.</p>
+<p><em>Final Step: Recognizing How You Affect Each Other</em></p>
+
+<p>Through this process of collaborative negotiating, you will experience having your priorities considered seriously, which is personally satisfying. And you will be changed people because together, through this negotiation process, you co-create a plan that addresses both of your concerns.</p>
+<p>After you find a plan that considers both preferences or concerns, take some time to reflect on your negotiating process—perhaps at a later time. Be aware of what you have learned about each other from listening intently to each other’s perspectives. You may also learn new things about what is important to them, and why they have a particular preference. Also, note what it felt like to come to a shared agreement.</p>
+
+<h2>Negotiating Collaboratively Is About Commitment</h2>
+<p>Most people think the idea of commitment between partners is about staying together through thick and thin. This is what is called an ‘aspirational’ statement, what you believe should occur, and hope will occur, in your relationship. The commitment to negotiate collaboratively around the issues that you will face in your relationship is the hard work needed to achieve this aspiration. The willingness to negotiate issues in good faith with your partner is so important that we believe it rises to the level of a vow you are willing to make and remake throughout your relationship.</p>
+
+<p>Part III helps you become "expert" negotiators by increasing your self-awareness through self-reflection and introspection. </p>
+<p dir="ltr"><em>To find a therapist near you, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/a-marriage-of-equals/202603/reimagining-intimate-relationships-negotiating" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/a-marriage-of-equals/202603/reimagining-intimate-relationships-negotiating</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-marriage-of-equals/202603/reimagining-intimate-relationships-negotiating</guid>
+            <dc:creator><![CDATA[Catherine Aponte Psy.D.]]></dc:creator>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/shutterstock_2748892467.jpg?itok=H7Lh3rbu" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
