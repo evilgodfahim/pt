@@ -4,294 +4,391 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 15:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 16:31:16 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Mar 2026 15:26:11 GMT</pubDate>
+        <pubDate>Sun, 08 Mar 2026 16:31:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[When Chatbots Can Start to Seem Like They Have Minds]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-04/Pazhoohi.png.jpg?itok=mQkCW90z" alt="Pazhoohi" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Chatbots Can Start to Seem Like They Have Minds</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Brief exposure to AI may make people see chatbots as more mind-like.</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Brain Beneath the Label]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/Hernandez-Arturo.png.jpg?itok=wJsC07uc" alt="Hernandez" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Brain Beneath the Label</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why schizophrenia and bilingualism may share a developmental architecture.</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Mind perception is the tendency to attribute mental capacities such as thinking or feelings to another entity.</li><li style="margin-bottom:6px;">Research found that after exposure to a chatbot, people tended to attribute more mind to it.</li><li style="margin-bottom:6px;">Understanding the psychology of mind perception may become a key part of responsibly managing AI technologies.</li>
+              <li style="margin-bottom:6px;">Schizophrenia risk may reflect two brain pathways with different cortical and subcortical balance.</li><li style="margin-bottom:6px;">Early language learning relies more on subcortical systems; later learning engages cortical control.</li><li style="margin-bottom:6px;">Genetic studies suggest schizophrenia includes distinct pathways with different brain system balance.</li>
             </ul>
           </div>
-                    <p>When people first encounter systems like ChatGPT, Claude, or other AI chatbots, they usually think of them as tools; sophisticated ones, perhaps, but still just software. Yet after interacting with these systems, many people begin to experience something subtly different: the chatbot can start to feel a little less like a machine and a little more like something with a mind.</p>
+                    <p>John Nash won the Nobel Prize in Economic Sciences in 1994. By then, his most important mathematical work was decades behind him, his psychosis had largely receded, and he had spent years doing mathematics at Princeton in what most clinicians would call partial remission. His story, immortalized in <em>A Beautiful Mind</em>, struck millions as a triumph of resilience.</p>
 
-<p>This reaction reflects a psychological process known as mind perception—the tendency to attribute mental capacities such as thinking, intentions, or feelings to another entity. Humans naturally do this with other people and animals, but we can also extend it to robots, computers, and even abstract things like corporations or nature.</p>
+<p>It struck Michael Halassa, a neuroscientist and psychiatrist at Tufts, as a puzzle.</p>
+<p><a href="https://open.substack.com/pub/michaelhalassa/p/did-john-nash-really-have-schizophrenia?r=2lkd10&amp;utm_campaign=post&amp;utm_medium=web">Halassa writes in the context </a>of a broader research program he calls algorithmic psychiatry, which argues that mental illness is best understood at the level of how the brain builds and updates models of the world. His recent essay describes the dissonance between Nash's trajectory and the clinical picture that dominates psychiatric training: patients who arrive at their first psychotic break already cognitively compromised, who decline further despite adequate treatment, and who never return to baseline. Did Nash really have schizophrenia? For Halassa, the question is less a diagnostic quibble than an invitation to look more carefully at what computational processes, and what developmental conditions, lie beneath that label.</p>
 
-<p>In <a href="https://link.springer.com/article/10.1007/s12369-025-01337-z">our recent research</a>, we examined whether exposure to modern AI systems changes the degree to which people attribute minds to them. Across four experiments involving large language models (LLMs) such as ChatGPT, LLaMA, and Claude, we found that even brief exposure can increase people’s perception that these systems possess mind-like qualities.</p>
+<p>It was <a href="https://open.substack.com/pub/michaelhalassa/p/did-john-nash-really-have-schizophrenia?r=2lkd10&amp;utm_campaign=post&amp;utm_medium=web">Halassa’s new essay</a> that sent me there. When I read it, it introduced me to a paper by Watson and colleagues in <em>Molecular Psychiatry</em>, one that made me return to work of my own that had always felt like it belonged to a different conversation.</p>
+<h2>One Label, Two Biological Stories</h2>
+<p>The Watson et al. paper begins with a longstanding paradox. Schizophrenia is associated clinically with lower educational attainment, yet the aggregate genetic signal showed almost no relationship with education, or even a slight positive one. The same variants that increased schizophrenia risk seemed, at the population level, to be associated with staying in school longer.</p>
 
-<h2>Two Ways People See Minds</h2>
-<p>Psychologists often describe mind perception along two main dimensions. The first is <strong>agency</strong>, which refers to the capacity to think, plan, and act. The second is <strong>experience</strong>, which refers to the capacity to feel emotions or sensations such as pleasure, pain, or fear. People tend to grant machines agency more readily than experience. A computer can calculate or strategize, but few people are comfortable saying that a machine feels joy or sadness. Large language models blur this boundary because they communicate in fluent, conversational language. They can explain ideas, generate stories, answer questions, and simulate empathy in ways that earlier software could not. As a result, they are particularly likely to trigger anthropomorphism—the tendency to attribute human-like qualities to nonhuman systems.</p>
+<p>The resolution: two distinct genetic components were canceling each other out. Using genomic structural equation modeling, Watson and colleagues formally separated them. One component—SZspecific—correlates negatively with both IQ and educational attainment. A second, shared with bipolar disorder, correlates positively with educational attainment and points toward genes governing synaptic signaling. Brain expression analyses found the shared component most active in cortical regions, particularly frontal cortex, while the schizophrenia-specific component extends further into subcortical regions including the caudate and hippocampus. The difference is not a clean cortical-versus-subcortical split—it is a difference in degree, one component more cortically dominant, the other reaching further subcortically.</p>
 
-<h2>What Happens After Exposure</h2>
-<p>In our studies, participants rated how much agency and experience they believed AI chatbots possessed. Some participants were shown short examples of chatbot responses, while others interacted with the systems themselves in real time. Across experiments, a consistent pattern emerged: after exposure to the chatbot, people tended to attribute more mind to it. Even a brief demonstration of a model’s capabilities was enough to increase perceptions of its agency and, in some cases, its experience. Seeing the system generate thoughtful or creative responses appeared to make it seem more mind-like.</p>
-
-<p>However, the type of exposure turned out to matter.</p>
-<h2>Why Interaction Isn’t Always Enough</h2>
-<p>One surprising finding was that reading examples of chatbot responses sometimes increased mind perception more than interacting with the chatbot directly. The reason likely lies in how people tend to use these systems. When participants interacted with the chatbot themselves, many asked straightforward factual questions—similar to how one might use a search engine. These “utility-oriented” interactions highlight the system’s ability to retrieve or organize information but may not showcase its more creative or socially expressive capacities. By contrast, curated examples can demonstrate a wider range of abilities, including humor, creativity, or unusual reasoning. In other words, exposure alone does not determine how people perceive AI. The nature of the interaction also plays an important role.</p>
-
-<p>Our research also found that not everyone perceives AI in the same way. People who had more prior exposure to chatbots tended to attribute more mind to them overall. In addition, individuals who have a stronger general tendency to anthropomorphize—seeing human-like qualities in nonhuman things—were more likely to attribute mental capacities to AI systems. These findings suggest that as AI becomes more integrated into everyday life, perceptions of these systems may shift over time. Familiarity may make them seem less like tools and more like social actors, at least in certain contexts.</p>
-
-<h2>Why This Matters</h2>
-<p>The broader implication of our research is that perceptions of AI are not fixed—they evolve with experience. As people interact with chatbots more frequently and in different contexts, their intuitions about what these systems are and what they are capable of may continue to shift. Understanding the psychology of mind perception may therefore become a crucial part of designing and regulating AI technologies responsibly. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/evolutionary-social-cognition/202603/when-chatbots-can-start-to-seem-like-they-have-minds" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/evolutionary-social-cognition/202603/when-chatbots-can-start-to-seem-like-they-have-minds</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/evolutionary-social-cognition/202603/when-chatbots-can-start-to-seem-like-they-have-minds</guid>
-            <dc:creator><![CDATA[Farid Pazhoohi, Ph.D.]]></dc:creator>
-            <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-busra-karabal-2148146457-32912422.jpg?itok=IRNVW-ye" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How and Why We Cross Lines We Never Thought We Would]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-08/skruse.png.jpg?itok=sEv0gt9W" alt="Shermin Kruse J.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How and Why We Cross Lines We Never Thought We Would</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Good people rarely wake up intending to betray their principles.</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Quick adaptation helps sustain connection but can also shift personal boundaries over time.</li><li style="margin-bottom:6px;">Small adjustments can make actions that once violated our principles feel normal.</li><li style="margin-bottom:6px;">Repeated behaviors gradually become habits, making moral changes incremental rather than dramatic.</li><li style="margin-bottom:6px;">Self-awareness and reflection help us realign our actions with our values.</li>
-            </ul>
-          </div>
-                    <p>One of the most remarkable abilities human beings possess is our capacity to adapt. We adjust to environments, circumstances, and people with extraordinary speed. Often, this ability is what allows relationships to survive. Over time, we learn the rhythms of another person’s personality. We stop reacting to the habits that once surprised us. A sarcastic comment that initially stung becomes something we brush off. A forgotten errand becomes a familiar eye-roll instead of a conflict. We tell ourselves this is maturity. In many cases, it really is.</p>
-
-<p>Adaptation has a darker side that's harder to notice.</p>
-<p>Sometimes the same flexibility that helps relationships endure also allows lines to move without our realizing they've moved at all. A conversation that once would've felt inappropriate begins to feel harmless. A message that arrives late at night no longer raises a question. A small boundary bends, then bends again. Each moment feels minor enough to justify. Nothing feels dramatic enough to interrupt.</p>
-
-<p><em>Drift </em>rarely begins with decisions we recognize as betrayals. It begins with explanations that feel perfectly reasonable at the time. We tell ourselves the situation is innocent. We remind ourselves that everyone deserves connection, kindness, and understanding. The mind supplies explanations that make each small step appear harmless, even thoughtful.</p>
-
-<p>Then one day, we notice something unsettling.</p>
-<p>We realize we have crossed lines we once believed we would never cross. We didn't do this in a single dramatic moment, but through a series of adjustments so gradual that we barely noticed them happening. What began as flexibility quietly turned into accommodation. Accommodation turned into permission. Permission turned into behavior that would have startled an earlier version of ourselves.</p>
-
-<p>The unsettling part isn’t just what we’ve done. It’s the strange feeling of waking up inside a version of ourselves we hardly recognize. Someone who has inched further from their own principles than they ever intended to go. And the scary truth is that the same human capacity that allows us to adapt, endure, and survive is the very capacity that can carry us there.</p>
-
-<p><strong>Why </strong><em><strong>Drift </strong></em><strong>Feels So Natural</strong></p>
-<p>When we remain in any situation long enough, the emotional alarm that once warned us that something felt wrong begins to quiet. Our mind essentially gets "used to" patterns that once felt uncomfortable. And in this way, what once would've prompted reflection has slowly become routine.</p>
-
-<p>In relationships, this process can unfold gradually. A person begins responding to messages that once would have felt too personal. A conversation that would once have stayed brief begins stretching longer. The line separating curiosity from intimacy grows less clear. None of these moments feels dramatic enough to trigger a sense of alarm. Each step appears small enough to excuse.</p>
-
-
-<p>The human mind favors continuity and coherence. Once we take a small step in a particular direction, we begin adjusting our interpretation of events so that our behavior continues to make sense to us. Each adjustment strengthens the next. The process unfolds gradually enough that it rarely feels like a turning point.</p>
-
-<p><em>Drift </em>rarely announces itself as a moral choice. It often feels like kindness, patience, openness, or curiosity.</p>
-<p><strong>Healthy Adaptation Versus Self-Erasure</strong></p>
-<p>Adaptation itself isn’t the problem. Healthy relationships require flexibility. Every long-term partnership depends on the ability to tolerate quirks, forgive mistakes, and accept imperfection. People who demand perfect alignment from others rarely maintain meaningful relationships for long.</p>
-
-
-
+<p>What we call schizophrenia appears to compress patients with meaningfully different underlying biology into a single label. Halassa’s puzzle about Nash begins to dissolve: if patients vary continuously in the proportions of these two components they carry, Nash’s late-arriving, episodic psychosis is not a paradox. It is exactly what you would expect somewhere in that distribution.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
+  </div>
 
-<p>Learning to laugh off a partner’s small habits can strengthen intimacy. Accepting another person’s differences deepena connection. And letting go of minor irritations allows relationships to breathe. The danger only arises when adaptation expands beyond tolerance and starts to reshape identity. At that point, we're not adjusting our behavior for just the sake of harmony. We've just gradually stopped checking whether our choices still align with our own principles. The shift can happen almost without notice. </p>
-
-<p>A boundary that once defined who we were becomes something we've negotiated away with ourselves.</p>
-<p><strong>The Moment to Pause</strong></p>
-<p>The most revealing psychological signal in these situations rarely arrives as anger or panic. Often it appears as an unusual calm. A person noticing something that once would've disturbed them doesn't trigger any reaction at all. </p>
-
-<p>This absence of discomfort can feel like emotional maturity, but it can also signal something else. The mind sometimes dulls its response to continue functioning without conflict. When emotional signals grow too inconvenient, we learn to silence them. This is the moment when stopping to reflect becomes most essential. A person who pauses long enough to ask a simple question often regains clarity: <em>Is this behavior consistent with the person I want to be?</em></p>
-
-<p>The question doesn't demand perfection. It restores authorship.</p>
-<p><strong>Reclaiming Authorship Over Our Choices</strong></p>
-<p>Human beings cannot prevent every form of adaptation. Life requires adjustment. Relationships needscompromise. Circumstances demand flexibility. What we can guard is something more fundamental: the space between impulse and action. Within that small pause lies the ability to examine whether the next step aligns with our values.</p>
-
-<p>Philosophers who studied human character centuries ago recognized this tension well. They understood that emotions arise automatically. Desires emerge without permission. Circumstances push people in directions they didn't initially plan to go. They also understood that the human capacity for reflection provides a powerful safeguard. When a person pauses long enough to examine their own reasoning, they regain the ability to steer their life rather than simply drift through it. The goal isn’t rigid perfection, but flexible awareness.</p>
-
-<p><strong>Choosing Who You Become</strong></p>
-<p>Most people don't wake up one morning and decide to betray their principles. They arrive there gradually, through a series of adjustments that felt understandable in the moment. The same human flexibility that allows relationships to survive can also allow identities to erode. Yet the same mind that adapts can also pause, reflect, and redirect.</p>
-
-<p>Every person possesses the ability to notice the drift and ask whether the direction still reflects who they want to become. That moment of awareness restores something essential. It returns the person to the role of author rather than passenger.</p>
-<p>Sometimes the most powerful act of self-leadership begins with a single quiet decision: To stop drifting.</p>
-
-<p>And choose again.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-stoic-heart-the-human-whole/202603/how-and-why-we-cross-lines-we-never-thought-we-would" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-stoic-heart-the-human-whole/202603/how-and-why-we-cross-lines-we-never-thought-we-would</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-stoic-heart-the-human-whole/202603/how-and-why-we-cross-lines-we-never-thought-we-would</guid>
-            <dc:creator><![CDATA[Shermin Kruse J.D.]]></dc:creator>
-            <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/iStock-2204635976.jpg?itok=f6ZdmpQJ" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Feedback Is a Window and Mirror to Growth]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/daloisio.jpg?itok=8nzWHbRL" alt="Tony Daloisio Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Feedback Is a Window and Mirror to Growth</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Understanding the relational field can transform giving and receiving feedback</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Feedback activates our nervous system because we often hear it as judgment about identity rather than impact.</li><li style="margin-bottom:6px;">Every interaction creates a 'relational field' shaped by history, expectations, and emotional triggers.</li><li style="margin-bottom:6px;">Receiving feedback skillfully requires regulation first, then curiosity about the impact of our behavior.</li><li style="margin-bottom:6px;">The most useful feedback focuses on observable behavior and impact, not assumptions about identity.</li>
-            </ul>
-          </div>
-                    <p>Few experiences stir us up as quickly as feedback. A colleague says, “You came across as dismissive.” A partner says, “You weren’t really listening.” </p>
-<p>Immediately, something happens inside us. We tense. We defend. We explain. Or we shrink. Why? </p>
+<p>Reading Watson’s paper, I felt an odd sense of recognition. The architecture they were describing—a tension between cortical and subcortical systems emerging across development—resembled something I had encountered in a completely different domain: language learning.</p>
 <div class="insertArea ck-widget">
-<div class="image-article_inline_full">
+<div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-03/pexels-tima-miroshnichenko-5439447.jpg?itok=U5XTYHMR" width="639" height="426" data-insert-type="image" title="Photo by Tima Miroshnichenko / Pexels" alt="Photo by Tima Miroshnichenko / Pexels"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Photo by Tima Miroshnichenko / Pexels</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/ChatGPT%20Image%20Mar%207,%202026%20at%2011_18_26%20PM.png.jpg?itok=kj7qjK0y" width="320" height="213" data-insert-type="image" alt="Developmental balance in cortico–striatal systems. Subcortical learning circuits support early language acquisition, while cortical control networks become more dominant in later learning. Recent genetic work (Watson et al.) suggests schizophrenia risk may also separate into components with differing cortical and subcortical expression." title="Conceptual illustration created with AI assistance; adapted by Arturo E. Hernandez."></div>
+<div class="caption">Developmental balance in cortico–striatal systems. Subcortical learning circuits support early language acquisition, while cortical control networks become more dominant in later learning. Recent genetic work (Watson et al.) suggests schizophrenia risk may also separate into components with differing cortical and subcortical expression.</div>
+<div class="insertArea--origin subtext">Source: Conceptual illustration created with AI assistance; adapted by Arturo E. Hernandez.</div>
 </div>
 </div>
 </div>
-<p>Because we often treat feedback as a mirror. We assume it is telling us who we are. But feedback is more nuanced than that. It is both a window and a mirror. It is a window into how we are landing in someone else’s experience. And sometimes—when patterns repeat—it becomes a mirror that helps us see ourselves more clearly. To work skillfully with feedback, we have to understand something deeper: The relational field.</p>
+<h2>The Same Architecture, a Different Outcome</h2>
+<p>In our work on bilingualism, we have been asking a related question: how does the balance between cortical and subcortical systems shift as the brain learns language?</p>
+<p>In 2007, Ping Li and I proposed the Sensorimotor Hypothesis: the neural systems involved in language learning depend critically on when that learning begins. Early acquisition is organized subcortically, with the basal ganglia playing a central role. Children learn through sensorimotor engagement and procedural memory. Later acquisition shifts toward cortical systems: attention, working memory, and executive control. The dopamine system mediates that transition.</p>
 
-<h2>The Third Entity: The Relational Field</h2>
-<p>Whenever two people interact, something forms between them. It is more than the two visible individuals. The space is rarely empty. It is populated by unfinished stories, longings, attachment patterns, survival strategies, defenses, expectations, and past experiences. We very seldom react only to the person in front of us. We are often reacting to the imprint they awaken within us in that moment. And that imprint is connected to how we perceive them perceiving us.</p>
+<p>In 2018, Kelly Vaughn and I published a study examining whether genetic variation in dopamine functioning could predict bilingual proficiency in Spanish-English bilinguals. Two variants, one influencing subcortical dopamine in the striatum, the other influencing prefrontal dopamine levels, revealed a striking three-way interaction with age of acquisition. For early second language learners, higher subcortical dopamine predicted the highest proficiency. For late second language learners, balanced cortical dopamine, neither too stable nor too flexible, predicted the best outcomes. And crucially, the highest scores were <em>balanced</em> scores: genuine fluency in both languages without one dominating the other.</p>
 
-<p>This “third entity”—the relational field—shapes how behavior is interpreted and how feedback is formed. The same direct question can feel like clarity to one person and criticism to another. The same silence can feel like thoughtfulness to one and withdrawal to another. Feedback emerges from this dynamic space. That is why it is a window. It shows us what is happening in the field between us. And yet, in a feedback-rich environment, we are both givers and receivers. Regardless of history or emotional activation, there is an energy in the relationship that signals something is not quite aligned. That gap calls for attention. It calls for conversation.</p>
+<p>When we published those findings, they felt oddly homeless. Dopamine belonged to a different conversation—schizophrenia, psychiatric risk, clinical populations. Watson et al. do not invoke dopamine directly; their characterization focuses on synaptic signaling and remains agnostic about mechanism for the schizophrenia-specific component. But the pattern their brain expression analyses reveal—one component more anchored in frontal cortex, the other extending subcortically—is consistent with the developmental architecture our work describes. The inference is ours, not theirs. What their findings make possible is the question: could the same dopamine-mediated shift from subcortical to cortical processing that shapes language trajectories also differentiate these two genetic pathways to psychosis?</p>
 
-<h2>When You Are Receiving Feedback</h2>
-<p>Research on feedback reception shows that people often react defensively because feedback threatens identity, relationships, or our sense of competence (Stone and Heen, 2014).</p>
-<ul>
-<li>Your first task is regulation.</li>
-<li>Feedback activates the nervous system. Pause. Breathe. Slow the reaction.</li>
-<li>Then listen—calmly, carefully, and deeply—to the impact your behavior is having on the other person, from their perspective.</li>
-<li>Not to defend your intention or argue the facts.</li>
-</ul>
-
-<p>But to understand the experience, the impact your behavior had on them. You can ask:</p>
-<ul>
-<li>“Can you give me a specific example? Upon hearing the example, you might even say something like, “Wow, thank you for sharing that. I can only imagine how that made you feel.”</li>
-<li>“What was the impact on you?”</li>
-<li>“What would have been more helpful?”</li>
-</ul>
-
-<p>You may decide that some of what you are hearing belongs to the other person’s history or sensitivity. That is part of the relational field. But you may also discover something valuable for yourself, a dynamic between the two of you that was becoming clearer over time.</p>
-<p>You can make a conscious decision: Is there a way I want to adjust my behavior—not because I am wrong—but because it would strengthen this relationship? This is where feedback becomes a mirror. When themes repeat across people or contexts, they invite self-examination. Impact—not intention—is what shapes trust in a relationship.</p>
-
-<h2>When You Are Giving Feedback</h2>
-<p>You are not delivering a verdict. You are sharing your experience of the relational field between you and the other person. Start with purpose: “I’m sharing this because I care about our ability to work well together.” Or because our relationship is important to me! </p>
-<ul>
-<li>When you do share, remember to use I-statements: “When that happened, I felt…” </li>
-<li>Be specific about observable behavior: “In the meeting, when I was presenting, you interrupted twice.”</li>
-<li>And describe impact: “I felt cut off and hesitant to continue.”</li>
-</ul>
-
-
-<p>Avoid labeling identity. Stay with behavior and experience. Remain open to the possibility that what you are reacting to is partly your own imprint being awakened. Giving feedback is not about correcting someone. It is about improving the quality of connection and effectiveness between you.</p>
-<h2>Holding Both Truths</h2>
-
-<p>Feedback asks us to hold two truths at once: I am not defined by someone’s perception, and I am responsible for my impact. When we treat feedback only as a mirror, we become defensive or ashamed. When we treat it only as a window, we risk dismissing what we need to see. But when we understand it as both, something powerful happens. </p>
+<h2>What the Developmental Moment Determines</h2>
+<p>Becoming balanced in two languages is not simply a matter of exposure or effort. It reflects a developing brain meeting the right input at the right moment, with the right neurochemical conditions in place. The same logic may apply to psychosis: what a genetic liability produces depends on when in development it expresses itself, and in which systems.</p>
 
 
 
   
 
 
-<ul>
-<li>We become more skillful in relationships.</li>
-<li>We become more conscious of the field we co-create.</li>
-<li>We become better partners, colleagues, leaders, and friends.</li>
-</ul>
-<p>Feedback is not a weapon. It is not a verdict. It is relational data. Sometimes it reveals more about the space between us than about either of us alone. And sometimes—if we are willing—it helps us see ourselves more clearly than we could on our own. When we do, we hold the possibility of transforming a relationship with another, and as importantly, transforming ourselves. Awareness, openness, and accountability for your behavior and impact are the keys.</p>
+<p>This is what the label “schizophrenia” has been concealing—not just clinical heterogeneity, but a fundamental difference in developmental timing. Watson et al. provide a genetic probe for that difference. Our work on bilingualism suggests the underlying architecture may be broader than psychiatry has recognized.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>None of this resolves what John Nash had. But it reframes the question. The more productive ask is not which diagnostic box he belonged in, but which biological process, expressing at which developmental moment, shaped his mind’s trajectory. The answers illuminate not only the brains that fracture, but the ones that learn to hold two worlds at once. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-journey-of-your-life/202603/why-feedback-is-a-window-and-mirror-to-growth" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-emergence-of-skill/202603/the-brain-beneath-the-label" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-journey-of-your-life/202603/why-feedback-is-a-window-and-mirror-to-growth</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-journey-of-your-life/202603/why-feedback-is-a-window-and-mirror-to-growth</guid>
-            <dc:creator><![CDATA[Tony Daloisio Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-emergence-of-skill/202603/the-brain-beneath-the-label</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-emergence-of-skill/202603/the-brain-beneath-the-label</guid>
+            <dc:creator><![CDATA[Arturo Hernandez, Ph.D.]]></dc:creator>
             <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-tima-miroshnichenko-5439447.jpg?itok=35rdlZ0l" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-shvetsa-4226139.jpg?itok=Erd-BaL1" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[When AI Gets a Body]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/elyakim_kislev-removebg_0.png.jpg?itok=9VAaOlfK" alt="Elyakim Kislev Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When AI Gets a Body</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The psychological shift from the cloud to the physical world.</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Real Science of Smell and Attraction]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/Julieta%20Zemla.png.jpg?itok=3yCOyX5M" alt="Julieta Zemla" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Scent</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Real Science of Smell and Attraction</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why the same scent can spark nostalgia, desire, or even disgust.</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Smell ties directly to emotion and memory, making scent a powerful trigger of past relationships.</li><li style="margin-bottom:6px;">Body odor can carry immune cues, subtly shaping attraction through biological compatibility.</li><li style="margin-bottom:6px;">Chemosignals may heighten attention, but they don’t override judgment or relationship dynamics.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Emma was sitting on a packed train when a man squeezed in beside her. Like most riders, summer was plastered across his face. Beads of sweat rolled down his temples and his shirt clung to his skin.</p>
+<p dir="ltr">She first noticed him reaching for the bar next to her. But she truly took him in when the mix of his sweat and cologne filled the train car. She recognized the fragrance immediately. It was Curve—the cheap cologne her ex used to wear.</p>
+
+<p dir="ltr">A year ago, she would have felt flooded and nauseous. The late-night arguments, the romantic getaways to Florida, and the hollow ache of heartbreak; the smell would have ruined her day.</p>
+<p dir="ltr">But 20 years had passed. She was now in love with Daniel. The scent no longer made her brace for impact. Instead, she found herself smiling—grateful to have loved so deeply, and grateful to love again now.</p>
+
+<p dir="ltr">Emma thought of the T-shirt Daniel had left behind, the one she sometimes sniffed between dates while closing her eyes and remembering his kiss goodbye. Then she brought herself back to the present and took the smell in more carefully.</p>
+<p dir="ltr">Beneath the cologne, beneath the sweat, the man didn’t smell sour or bitter. Just freshly sweaty. Salty. Sweet. Human.</p>
+
+<p dir="ltr">He wasn’t strikingly handsome. But he smelled great.</p>
+<p dir="ltr">While Emma took it all in, the woman next to her raised her hands toward the scowl on her face, trying to shield herself from the smell.</p>
+<p dir="ltr">Same man.<br>Same scent.<br>Two different nervous systems.</p>
+<p dir="ltr">Why?</p>
+<h2 dir="ltr">Smell and Memory</h2>
+<p dir="ltr">One reason lies in how closely smell is tied to memory.</p>
+
+<p dir="ltr">Unlike sight or sound, smell has a direct pathway to the amygdala and hippocampus—the regions involved in emotion and autobiographical memory. Because of this connection, memories triggered by scent are often more vivid and emotionally intense than those triggered by sight (Herz &amp; Schooler, 2002).</p>
+<p dir="ltr">When Emma once felt sick at the scent of her ex’s cologne, that reaction wasn’t about pheromones. It was an associative memory. Over time, the smell had become linked to heartbreak, and her body reacted before her mind could fully explain why.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">Now, years later and secure in a different relationship, the same scent triggered nostalgia instead of pain. The smell hadn’t changed—but the meaning attached to it had.</p>
+<p dir="ltr">But memory isn’t the only system involved when we smell someone.</p>
+<h2 dir="ltr">The “Sweaty T-Shirt” Study</h2>
+<p dir="ltr">Smell can also carry biological information.</p>
+
+<p dir="ltr">In a well-known experiment, researchers asked men to wear plain cotton T-shirts for two nights without deodorant or scented products (Wedekind et al., 1995). The shirts were then placed in boxes with small sniffing holes, and women leaned over the boxes to rate the scent for pleasantness.</p>
+<p dir="ltr">The researchers had also analyzed everyone’s immune system genes, known as the major histocompatibility complex (MHC).</p>
+
+<p dir="ltr">Women who were not using hormonal contraception tended to prefer the scent of men whose MHC genes were different from their own. One explanation is that immune-system differences could lead to offspring with broader disease resistance.</p>
+<p dir="ltr">But the findings are modest and nuanced. Later studies found that hormonal contraception can shift scent preferences (Roberts et al., 2008), suggesting attraction is biologically influenced but also hormonally sensitive.</p>
+
+<p dir="ltr">In other words, smell may only slightly bias attraction.</p>
+<h2 dir="ltr">What About Pheromones?</h2>
+<p dir="ltr">Popular culture often attributes attraction to “pheromones,” but the science is more subtle.</p>
+<p dir="ltr">Humans do not appear to have a single proven sex pheromone. Instead, researchers study chemosignals—chemical compounds in sweat that can influence mood or attention.</p>
+
+
+
+  
+
+
+<p dir="ltr">For example, a compound derived from testosterone and found in male sweat, called androstadienone, has been shown to slightly increase physiological arousal and activate brain regions involved in hormonal regulation when women are exposed to it (Wyart et al., 2007).</p>
+<p dir="ltr">In plain terms, this doesn’t create instant attraction. It may simply make someone a bit more alert or attentive.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">Other neuroimaging studies show that male- and female-typical scent compounds are processed differently in the brain depending on sex and sexual orientation (Savic et al., 2001). The brain recognizes these signals as socially relevant—but recognition is not the same as desire.</p>
+<p dir="ltr">These signals may nudge perception. They do not override judgment.</p>
+
+<h2 dir="ltr">Smell, Safety, and Bonding</h2>
+<p dir="ltr">Emma’s memory of the T-shirt she sniffs between dates reveals another layer: attachment.</p>
+<p dir="ltr">Research shows that smelling a romantic partner’s worn clothing can reduce stress responses (Hofer et al., 2018). Over time, a partner’s scent can become encoded as a signal of safety.</p>
+<p dir="ltr">But this encoding can change. If a partner becomes critical, distant, or unreliable, their scent may begin to cue tension rather than comfort—just as Emma eventually came to associate her ex’s cologne with painful interactions.</p>
+
+<p dir="ltr">The body learns.</p>
+<p dir="ltr">Meanwhile, the woman with the sanitizer was engaging a different system altogether: disgust sensitivity, sometimes described as part of the brain’s “behavioral immune system.” For her, body odor triggered a protective response.</p>
+<p dir="ltr">Emma, by contrast, may have distinguished between the clean, salty smell of sweat and the sour odor that signals poor hygiene.</p>
+
+<p dir="ltr">Context, expectation, and experience matter.</p>
+<p dir="ltr">The same scent can signal attraction, safety, or aversion depending on history, meaning, and awareness.</p>
+<h2 dir="ltr">So, Does Smell Determine Attraction?</h2>
+<p dir="ltr">It depends.</p>
+<p dir="ltr">Smell may attract us to someone. It may quicken our pulse. In some cases, chemistry feels immediate and visceral—shaped by immune cues, hormones, and subtle chemosignals.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">But biology is only one layer of the system.</p>
+<p dir="ltr">As one of my mentors often says, we are social animals (Aronson &amp; Aronson, 2018). </p>
+<p dir="ltr">That is to say, we bond—or detach—based on how we are treated when we express our needs. Over time, our experiences reshape perception. The same scent that once signaled safety can come to cue dread if it becomes associated with criticism or neglect. And a partner’s smell can calm us when it has become linked to reliability and care.</p>
+
+<p dir="ltr">Smell does not operate in isolation. It is filtered through memory, attachment, and meaning. Our experiences with a partner determine whether their presence feels comforting or unsettling—whether their scent draws us closer or makes us brace.</p>
+<p dir="ltr">This doesn’t mean we’re too complex to understand. It means attraction is dynamic. And much of what ultimately sustains a relationship—trust, responsiveness, and mutual respect—lies within our control.</p>
+
+<p dir="ltr">Biology may open the door.</p>
+<p dir="ltr">But how we treat each other determines whether the body relaxes—or recoils—when that person walks into the room.</p>
+<p dir="ltr">And how we treat each other is shaped by how we ourselves were treated—by the relationships that molded our attachment patterns long before we ever stepped onto a crowded train.</p>
+
+<p dir="ltr">More on that in my next post: How to Change Your Attachment Style for the Better—and Keep Others from Changing It for the Worse.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/finding-mr-darcy/202603/the-real-science-of-smell-and-attraction" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/finding-mr-darcy/202603/the-real-science-of-smell-and-attraction</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/finding-mr-darcy/202603/the-real-science-of-smell-and-attraction</guid>
+            <dc:creator><![CDATA[Julieta Zemla]]></dc:creator>
+            <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/ChatGPT%20Image%20Mar%207%2C%202026%2C%2006_43_07%20PM.png.jpg?itok=9aFoqzyt" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Your Childhood Bedroom Can Teach You About Purpose]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-12/JordanGrumet.png.jpg?itok=iMVSYujM" alt="Jordan Grumet M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Your Childhood Bedroom Can Teach You About Purpose</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What you loved as a child may reveal your purpose today.</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Childhood activities reveal early signs of what gives life meaning.</li><li style="margin-bottom:6px;">Flow in kids shows a natural, process-oriented form of purpose.</li><li style="margin-bottom:6px;">Revisiting childhood interests can uncover purpose anchors.</li>
+            </ul>
+          </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/ChatGPT%20Image%20Mar%208,%202026,%2012_14_46%20PM.png.jpg?itok=MTnkgqgB" width="320" height="213" data-insert-type="image" title="AI Generated (ChatGPT 5.2)" alt="AI Generated (ChatGPT 5.2)"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/jillwellington-little-girl-9365923_1280.jpg?itok=M3DQXnXV" width="320" height="213" data-insert-type="image" title="JillWellington/Pixabay" alt="JillWellington/Pixabay"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI Generated (ChatGPT 5.2)</div>
+<div class="insertArea--origin subtext">Source: JillWellington/Pixabay</div>
 </div>
 </div>
 </div>
-<p>We have grown accustomed to artificial intelligence as a disembodied voice in our phones or a text box on our screens. It lives in <em>the cloud</em> as a distant, abstract server farm. But a quiet, radical shift is happening in garages and maker spaces around the world, and it is fundamentally changing the psychological boundaries between humans and machines.</p>
+<p>People often ask me how to find their purpose. My answer rarely changes: you don’t find purpose... you build it. But that doesn’t mean we start from nothing. Most of us already carry clues about what lights us up. I call these clues purpose anchors: the interests, curiosities, and small sparks that quietly pull us toward meaning.</p>
 
-<p>Recently, an open-source project called OpenClaw surfaced on a maker community platform. Built on <a href="https://community.hailo.ai/t/openclaw-for-robot-programming-pmsg-on-budget-pi-hailo-8/18875">affordable edge-computing hardware</a>, the project demonstrated a local AI agent controlling a physical robotic arm. It wasn't just predicting text; it was moving motors, reading sensors, and interacting with its physical environment in real-time. From a psychological and sociological perspective, this transition from <em>abstract AI</em> to <em>embodied local AI</em> forces us to re-evaluate trust, privacy, and the sanctity of our personal space.</p>
+<p>The challenge isn’t creating purpose from thin air. The challenge is remembering what those anchors are. In previous posts, I’ve written about what I call the spaghetti method. The idea is simple: throw a bunch of spaghetti against the wall and see what sticks. Try things. Experiment. Notice what energizes you and what falls flat. Over time, patterns start to emerge.</p>
 
-<p><strong>1. The </strong><em><strong>Solo Gen</strong></em><strong> and the Sanctuary of the Home</strong></p>
-<p>For the rapidly growing demographic of adults living alone, a cultural and sociological shift I explore deeply in my first book, <a href="https://amzn.to/47luDbD">Happy Singlehood</a>, the integration of physical AI is both highly desirable and psychologically fraught.</p>
-<p>When you live alone, your home is your ultimate sanctuary. It is the one place where you are entirely unobserved. As robots inevitably join our daily lives to assist with physical tasks, domestic management, or even just to provide an interactive presence, the psychological friction peaks. Introducing a camera-equipped machine into a single-person household can quickly feel less like assistance and more like an invasion.</p>
+<p>But there is another way to uncover purpose anchors, and in some ways it is even simpler. Instead of looking forward, you look backward, specifically to childhood.</p>
+<p>For many people, childhood represents the closest we ever come to effortless purpose. It’s a time before society pushes us toward a specific training program, career path, or set of daily obligations. Before résumés and responsibilities, we are mostly guided by curiosity.</p>
 
-<p><strong>2. Trust and the Privacy Problem</strong></p>
-<p>This is where the engineering choices behind grassroots projects like OpenClaw offer a fascinating psychological solution to the privacy problem. To allow the robot to "see" and navigate, developers are moving away from traditional RGB cameras (which capture high-resolution images of our faces, habits, and private moments) and instead repurposing tools like depth sensors and LiDAR. By physically covering the camera lens and relying solely on depth mapping, the AI understands the <em>geometry</em> of the room without ever capturing the <em>identity</em> or <em>intimacy</em> of the person in it.</p>
+<p>Give a child a free afternoon and watch what happens. They jump on their bikes, shoot basketballs in the driveway, or build elaborate forts in the backyard. Often they become so absorbed in these activities that they lose track of time. Dinner gets forgotten. The outside world fades away.</p>
+<p>Psychologists call this state flow—the experience of becoming so deeply engaged in something that time disappears. Goals fade. What matters most is the act of doing.</p>
 
-<p>The machine knows <em>where</em> you are to hand you an object or avoid bumping into you, but it doesn't know <em>who</em> you are or <em>what</em> you are wearing. For the Solo Generation, this distinction is the bedrock of <a href="https://amzn.to/4dazJLv">Relationships 5.0</a>, which I describe in my second book. It allows individuals to enjoy the practical benefits of a physical AI assistant without sacrificing the psychological safety of their private domain.</p>
+<p>To me, this state is closely related to what I call little-p purpose. It’s purpose as a process rather than a destination. Little-p purpose shows up in moments of engagement and curiosity. It’s less about achieving something and more about enjoying the act of doing it.</p>
+<p>Unfortunately, as we grow older, this version of purpose often gets replaced by something heavier: big-P Purpose. Big-P Purpose is the idea that we must identify one grand mission that defines our entire life. It must be meaningful, impressive, and world-changing. That expectation can be paralyzing. When we can’t immediately identify that singular mission, we start to believe we lack purpose altogether.</p>
 
-<p><strong>3. Reclaiming Human Agency</strong></p>
-<p>There is a pervasive sense of collective helplessness regarding how fast technology is evolving, often dictated by billion-dollar corporations storing our data on remote servers. However, local, "air-gapped" physical AI flips this dynamic. By processing data strictly on the device itself, within the four walls of one's home, the technology respects your boundaries. It demystifies the machine, reducing societal fear and replacing it with a sense of control. You are no longer a data point in the cloud, but the undisputed master of your environment.</p>
+<p>Children don’t struggle with this problem. They pursue what fascinates them without worrying about whether it will change the world. A kid building a treehouse doesn’t stop halfway through to ask if the project aligns with their long-term strategic vision. They build because building feels good.</p>
+<p>That simple instinct offers an important clue.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p><strong>The Future is Local and Private</strong></p>
-<p>The next frontier of human-machine interaction isn't just about making models smarter; it's about making them present, local, and profoundly respectful of human boundaries. As robots step out of the factory and into our living rooms, they must do so on our terms. We can embrace a future in which physical AI supports our independence, so long as it leaves our privacy intact.</p>
+  </div>
+
+<h2>Start With Your Childhood Bedroom</h2>
+<p>If you’re feeling disconnected from purpose, try a small thought experiment. Close your eyes and imagine your childhood bedroom as vividly as you can. Picture the walls, the floor, the desk, and whatever clutter lived there. Then ask yourself a few simple questions. What posters hung on the wall? What drawings or objects littered the desk? What trophies, ribbons, or collections sat on the dresser?</p>
+
+
+<p>Those items were not random decorations. They were signals of what mattered to you before the outside world started shaping your priorities.</p>
+<p>Sometimes we outgrow childhood passions, but more often we simply get too busy to pursue them. Many adults still enjoy horses, pickup football, or skateboarding. They just rarely give themselves permission to do those things anymore.</p>
+
+<h2>My Childhood Baseball Card Obsession</h2>
+<p>For me, the answer lives in baseball cards. Growing up, our family den doubled as the TV room. On summer afternoons I would sit there watching the Chicago Cubs on Channel 9 while opening pack after pack of baseball cards. My goal was always the same: complete the full set for that season.</p>
+
+
+
+  
+
+
+<p>I spent hours sorting players, studying statistics, and sliding each card carefully into its protective sleeve. To anyone else it probably looked tedious, but to me it was endlessly engaging. Those cards weren’t just cardboard. They were stories, puzzles, and tiny pieces of history.</p>
+<p>Then life accelerated. School became more demanding. College arrived. Eventually medical training consumed most of my time and attention. Somewhere along the way my baseball card collection ended up boxed in a closet.</p>
+
+<p>I didn’t stop loving baseball. I simply stopped making room for it.</p>
+<p>Even now, whenever I see an article about vintage baseball cards or catch a clip of an old World Series on social media, my brain lights up. Apparently I may occasionally struggle to identify my sense of purpose—but the Facebook algorithm has already figured it out.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Turning Anchors Into Action</h2>
+<p>Of course, identifying a purpose anchor doesn’t mean the work is done. It simply gives you a place to start. Once you notice the spark, the next step is figuring out how it might fit into your current life. Maybe I start going to a few baseball games each summer. Maybe I buy a pack of cards purely for nostalgia. Maybe I even explore buying and selling cards online.</p>
+
+<p>The specific path doesn’t matter nearly as much as the willingness to engage with the interest again. </p>
+<p>Purpose rarely arrives fully formed. It tends to grow slowly as we spend more time doing things that naturally capture our attention.</p>
+<h2>Purpose Doesn’t Have to Be Grand</h2>
+<p>We often assume purpose must be dramatic or life-defining. It should change the world, generate income, or shape our identity for decades. But purpose doesn’t need to carry that much weight.</p>
+
+<p>Sometimes it looks like sketching again after years away from art. Sometimes it means joining a recreational soccer league or volunteering at an animal shelter because animals fascinated you as a kid. These activities don’t have to be permanent, profitable, or impressive. Their only real requirement is that they help you reconnect with flow, that feeling of becoming absorbed in the moment.</p>
+
+<p>Childhood holds a kind of quiet wisdom. Kids pursue what fascinates them without worrying whether it’s practical or productive. They follow curiosity wherever it leads.</p>
+<p>As adults we spend decades learning how to succeed, provide, and excel. Those skills matter, and many of them improve with age. But when it comes to joy and purpose, we may have been surprisingly good at it from the start.</p>
+
+<p>Sometimes rediscovering meaning isn’t about inventing something new. It’s about remembering what once made you forget to come home for dinner. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/society-50/202603/when-ai-gets-a-body" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-regret-free-life/202603/what-your-childhood-bedroom-can-teach-you-about-purpose" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/society-50/202603/when-ai-gets-a-body</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/society-50/202603/when-ai-gets-a-body</guid>
-            <dc:creator><![CDATA[Elyakim Kislev Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-regret-free-life/202603/what-your-childhood-bedroom-can-teach-you-about-purpose</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-regret-free-life/202603/what-your-childhood-bedroom-can-teach-you-about-purpose</guid>
+            <dc:creator><![CDATA[Jordan Grumet M.D.]]></dc:creator>
             <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/ChatGPT%20Image%20Mar%208%2C%202026%2C%2012_14_46%20PM.png.jpg?itok=gibR3Wo4" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[High Sensitivity and Self-Belief]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/sbarry.jpg?itok=f8gisTHu" alt="Scott Barry Kaufman" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Highly Sensitive Person</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">High Sensitivity and Self-Belief</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why highly sensitive people require constant self-anchoring.</h2><p style="font-size:0.9em;color:#666;">Posted March 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">HSPs experience unique challenges when it comes to self-belief.</li><li style="margin-bottom:6px;">It’s really easy for HSPs to have a constantly in flux sense of self-belief.</li><li style="margin-bottom:6px;">Self-anchoring is especially important for HSPs.</li><li style="margin-bottom:6px;">It's possible to be both an HSP and have continuous self-belief, but it takes work.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-03/GettyImages-2251710406.jpg?itok=kVKJNmTr" width="591" height="591" data-insert-type="image" title="Wassam Siddique / Getty Images" alt="Wassam Siddique / Getty Images"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Wassam Siddique / Getty Images</div>
-</div>
-</div>
-</div>
-<p>Lately, I've been inspired to write more about the <a href="https://hsperson.com/">highly sensitive person</a> (HSP). I think this trait is so misunderstood. It’s one of those <em>If You Know You Know</em> traits. If you’re in the approximately 15 to 30 percent of people who are highly sensitive, you certainly don’t need me to tell you that you are HSP. You live it every damn second of your life! But if you’re far, far from that trait, it might be hard for you to comprehend what the inner experience of an HSP is like.</p>
-
-<p>Something I’ve been thinking a lot about is the link between being an HSP and self-belief. I think being highly sensitive can really do a number on your self-esteem. Because HSPs tend to be really attuned to the perspectives and emotions of other people, and are in such deep touch with their own emotional lives, I think it’s really easy for HSPs to have a constantly in flux sense of self-belief.</p>
-
-<p>Self-belief is an interesting thing. I went to middle school and high school with Kobe Bryant (may he RIP) and was fascinated with his unflappable self-belief. He just knew he was destined for greatness, or at least acted as if he was enough that others started to believe him. What is <em>that </em>inner experience like?</p>
-
-<p>Don’t get me wrong, I have a lot of self-belief, and I needed a heaping dose of it to fight my way out of special education and show my school that I was highly capable. It’s definitely possible to be both an HSP <em>and </em>have high self-belief. But I still think there are unique challenges for the HSP in this regard.</p>
-
-<p>I can feel really good about myself and confident and excited, but if I express myself fully and authentically, and the person doesn’t like what I’m offering or has a very neutral response (“Whatevs”), it can really affect me. I wish I could just say “haters gonna hate” or let it just brush off my shoulder, but I think part of the issue is that I care (too much, arguably) <em>why</em> the person didn’t receive me in the way I intended or hoped. It’s kinda like a puzzle for me to figure out. I just really want to understand everything. It’s in my DNA. That’s part of being an HSP.</p>
-
-<p>Also, because I am really good at perspective taking, it can be super difficult to separate my mind from the mind of another person. I can feel super confident and excited to express myself, and if someone is wholly unimpressed, for a moment, I automatically become unimpressed with myself. Again, it’s something just wired into my DNA, because I can just go into their head and see the world from their perspective. But it sometimes <em>makes me lose my own perspective</em>, and thus, my own internal sense of self-belief.</p>
-
-<p>I’ve been working on this for decades and have come a long way. I’m not quite at the “haters gonna hate” level (and I’m not even sure that level is healthy and most conducive to growth in the long-run anyway), but I try to just stay super mindful and <em>accept</em> that not everyone will receive me as I intended or hoped. I have slowly transformed myself into harnessing a greater level of acceptance. You can honor <em>your people</em> (you know who your people are) and also honor that someone else can experience the world fundamentally different from you and have different preferences and filters on the world, and that’s okay. That’s what makes humans so beautiful.</p>
-
-
-<p>I think doing “self-anchoring” work is extremely important for HSPs. It’s not a course that is taught in high school or college. HSPs have to figure this stuff out on their own in a world that is so noisy and judgmental and, quite frankly, <em>insensitive</em>. My dear friend Susan Cain wrote a <a href="https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153">beautiful book</a> about being an introvert in a world where people won't stop talking. I would add that it’s also tough being a sensitive person in a highly insensitive world.</p>
-
-<p>Hopefully, posts like these can help. Drop me a comment below if this post resonated with you. Where are my beautiful HSPs at?</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/beautiful-minds/202603/high-sensitivity-and-self-belief" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/beautiful-minds/202603/high-sensitivity-and-self-belief</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beautiful-minds/202603/high-sensitivity-and-self-belief</guid>
-            <dc:creator><![CDATA[Scott Barry Kaufman]]></dc:creator>
-            <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/GettyImages-2251710406.jpg?itok=Au4YL65b" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/jillwellington-little-girl-9365923_1280.jpg?itok=5plADvRr" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
