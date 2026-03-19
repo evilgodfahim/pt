@@ -4,105 +4,134 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 22:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 23:31:31 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 22:30:49 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 23:31:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Calm Is the New Superpower]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/471-dr-jan-bonhoeffer-biopic.png.jpg?itok=LPHENm1i" alt="Jan Bonhoeffer M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotion Regulation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Calm Is the New Superpower</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Emotional regulation may be our most important modern skill.</h2><p style="font-size:0.9em;color:#666;">Posted March 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Stealth Assessment: Measuring Training While It Takes Place]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/max_louwerse.jpg?itok=lWMmYq1s" alt="Max Louwerse Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Education</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Stealth Assessment: Measuring Training While It Takes Place</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Stealth assessment and adaptive training may provide exciting opportunities.</h2><p style="font-size:0.9em;color:#666;">Posted March 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Calm is not a personality trait—it is a physiological state that can be cultivated.</li><li style="margin-bottom:6px;">A regulated nervous system improves decision-making, empathy, and clarity.</li><li style="margin-bottom:6px;">One calm person can influence the emotional tone of an entire room.</li>
+              <li style="margin-bottom:6px;">Traditional tests often come too late to help learning.</li><li style="margin-bottom:6px;">What learners need is timely feedback.</li><li style="margin-bottom:6px;">Stealth assessment can measure learning while it takes place.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
+                    <p>Never got it. Never really got it. Why do we have tests at school? Why do we measure the performance of training after the training by means of a summative assessment? The ones given at the end of a term to measure mastery of the content that was taught. The multiple-choice tests, or short essay questions, that result in a good or bad grade.</p>
+
+<p>Sure, the lion’s share of students dislike taking pop quizzes, tests, and exams. I was one of those students. But even looking back as a former (!) student, now being an instructor and trainer myself, in hindsight I still do not understand why we so often measure the success of training mainly through these final assessments.</p>
+
+<p>The primary reason why I don’t understand tests is that they generally do not give feedback that is timely or specific enough to improve learning while it is happening. Ultimately, the goal of the learning process is to learn as much as is needed to meet the goals of the training. The outcome of a test is often a single overall score, whereas what is needed is item-level feedback. I should not know only that I was wrong overall; I am supposed to know what went wrong, where. At least as importantly, if I were not able to keep up with the other students in my cohort on the goals of the teaching materials, I am not supposed to find out after the fact, but during the process itself.</p>
+
+<p>And both the lack of on-time assessment as well as the lack of item-level feedback during that process are the problems I have with most tests, particularly summative assessments. That is the problem, but what is the solution?</p>
+<h2>Stealth Assessment</h2>
+<p>Imagine being tested without being aware of the fact that you are being tested. No test anxiety, no learning for the test, but simply determining whether you were able to keep up or not. There are various ways to implement an assessment under the radar: stealth assessment.</p>
+
+<p>For instance, one can measure performance not through asking somebody what they know and what they do not know, but by monitoring their performance while conducting a task through physiological or behavioral signals. One could record brain activation and identify measures of mental workload. Wearing an EEG scanner that monitors brain activation, one could, for instance, monitor workload. We know that mental workload being too low (boredom) or too high (stress or overload) does not yield optimal performance. We could also track eye gaze and determine whether students pay attention to the relevant parts of the content they are supposed to pay attention to. We could even find out whether they are confused by monitoring whether they move their eyes erratically across the content. We could monitor heart rate, breathing patterns, or skin responses.</p>
+
+<p>Now one could rightly argue these measures are hardly “under the radar.” In fact, they seem quite intrusive. But there are also less intrusive measures that can be used in training. For instance, one could monitor reading skills by computationally monitoring how a child moves a finger across the lines of a page. Young readers often scan their finger from word to word. Those finger movements may provide a useful proxy for aspects of reading fluency. One could monitor facial expressions or speech, or even how somebody sits in a chair. Such signals may reveal aspects of learning, even if they are not direct measures of learning itself.</p>
+
+<p>These kinds of stealth assessments address the on-time assessment problem I identified earlier. They might also diminish test anxiety, but as an assessment tool they do not yet fully address the feedback problem.</p>
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/social_media_hbm_2.jpg?itok=Ydmk5u4y" width="320" height="340" data-insert-type="image" alt="Calm is Contagious" title="blackCAT / iStock"></div>
-<div class="caption">Calm is Contagious</div>
-<div class="insertArea--origin subtext">Source: blackCAT / iStock</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/screenshot_2026-03-19_214312.jpg?itok=SnnkmA8e" width="320" height="174" data-insert-type="image" alt="Artist impression of an adaptive training based on neurophysiological signals." title="AI-Generated"></div>
+<div class="caption">Artist impression of an adaptive training based on neurophysiological signals.</div>
+<div class="insertArea--origin subtext">Source: AI-Generated</div>
 </div>
 </div>
 </div>
-<p>A few years ago, during a hectic morning ward round, the day began with a subtle tension in the air. It wasn’t immediately obvious, but it started small—an anxious glance from a junior doctor, a sharp tone in a response, the clipped ring of a phone interrupting the flow of conversation.</p>
-<p>Then it grew. A patient, understandably nervous, asked a difficult question about their treatment. The doctor’s reply, rushed and tense, carried that stress forward. Voices began to rise, overlapping in frustration. The team, feeling the weight of competing priorities, started speaking over one another. </p>
+<h2>Adaptive Training</h2>
+<p>What if the stealth assessment is linked to the training itself? Based on whether I can keep up with the learning content, the learning content adapts itself. In traditional classroom education, this is hardly feasible because the content is presented the same way for everybody at the same time. But if the content were to change based on my performance, measured by stealth assessment, a perfect feedback loop emerges.</p>
 
-<p>The room became a feedback loop of stress—an invisible current pulling everyone into the chaos. I could feel it, too. My chest tightened as the urge to act surged within me. I wanted to cut through the noise, assert authority, and restore order.</p>
-<p>But something in me paused. </p>
-<p>“Let’s hold that thought for a moment,” I said, calmly but firmly, holding the room with the love of my heart. The conversations faltered, and heads turned. I softened my tone.</p>
 
-<p>The shift was almost palpable. The rising voices settled, the frantic energy dissipated, and clarity began to return. One by one, the team re-centered, working through the plan with renewed focus. The patient, watching us, seemed to relax as well. </p>
-<p>Nothing new to my mind, but new to my conscious heart. Something had deepened in my awareness. I understood how stress can spread like wildfire—but calm can be just as contagious. This is worth exploring more deeply.</p>
+<p>These feedback loops are often labelled as brain-computer interfaces, technologies that use neurophysiological signals and send them directly to external devices. Although such systems are not yet widely implemented in educational environments, they have been used in flight training in virtual reality. The advantage of VR is that it provides personalized learning and allows for different experiences for individual learners. By continuous monitoring of the level of performance of the learner in stealth mode, the VR simulation can adjust itself to the trainee. If I do not keep up with the performance on a particular task, but already excel on another task, then the VR system will offer me more training opportunities on the task I do not quite excel at yet. </p>
 
-<h2>A World That Rewards Reactivity</h2>
-<p>Modern life places enormous pressure on our nervous systems.</p>
-<p>Emails arrive faster than we can answer them. News alerts demand attention. Social media amplify urgency and outrage. Many people move through their days in a near-constant state of stimulation. In such an environment, emotional reactivity can easily become the norm.</p>
+<p>Whether or not these systems will be applied in the educational system is uncertain. But thinking about them is exciting because it requires rethinking the educational system. Poor performance is no longer merely an observation at the end of the process, but becomes an opportunity to adapt learning while it is happening. The end of the learning process is not that some pass and some fail, but that most perform at the optimal level aimed for. At the very least, it would resolve that one long-standing learning problem: my inability to understand tests. </p>
 
-<p>We interrupt before someone finishes speaking, and we respond before fully understanding a situation. We escalate conversations that might have resolved themselves with a moment of patience.</p>
-<p>From a biological perspective, this makes sense. When the brain perceives stress or threat, the amygdala—the brain’s alarm system—is activated. The body shifts into survival mode: heart rate rises, breathing becomes shallow and faster, and attention narrows.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202603/stealth-assessment-measuring-training-while-it-takes-place" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202603/stealth-assessment-measuring-training-while-it-takes-place</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202603/stealth-assessment-measuring-training-while-it-takes-place</guid>
+            <dc:creator><![CDATA[Max Louwerse Ph.D.]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/screenshot_2026-03-19_213824.jpg?itok=fATJ0pbT" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Psychology of Loyalty: It’s Not About Options]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/La-Keita-Carter.jpg?itok=1HZrhYFB" alt="La Keita D.  Carter Psy.D., LP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Boundaries</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Loyalty: It’s Not About Options</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How character, not circumstance, shapes commitment in relationships.</h2><p style="font-size:0.9em;color:#666;">Posted March 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Loyalty is a choice rooted in character—not a sign of limited options.</li><li style="margin-bottom:6px;">Lack of discipline weakens loyalty.</li><li style="margin-bottom:6px;">Loyalty without boundaries leads to self-betrayal, not strength.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Somewhere along the way, we started believing a dangerous lie about loyalty. </p>
+<p dir="ltr">We began to assume that if someone stays—if they remain faithful, committed, and consistent—they must not have better options. Don’t confuse loyalty with lack of options. When a person stays faithful to you, it’s not because they can’t do better. Loyalty and limitation are not the same thing. Social media tends to distort loyalty and frame it as weakness, naivety, or desperation. Mic drop: people don’t stay because they’re stuck. They stay because they’ve decided. </p>
 
-<p>While useful in genuine emergencies, this state is far less helpful in everyday interactions at work or home. When the nervous system stays chronically activated, we become more reactive and less reflective.</p>
-<h2>Calm Is a Physiological State</h2>
-<p>Calm is often misunderstood as a personality trait. Some people appear naturally composed, while others believe they simply are not “wired that way.”</p>
+<p dir="ltr">Let’s correct that… they are loyal because of their character, not because they can’t get another you. </p>
+<h2>Loyalty &amp; Character</h2>
+<p dir="ltr">Loyalty is related to an internal value system. It’s rooted in integrity, emotional discipline, and character. People with strong character are loyal to what’s important to them, and it’s not just other people. Loyal people are loyal to their word, their ideas, and their principles. It’s about their identity, not their circumstances. Loyalty is less about what’s happening around them and more about who they’ve decided to be. </p>
 
-<p>In reality, calm—and the sense of ease that can accompany it—is largely physiological. When the nervous system is regulated, the body naturally shifts toward a parasympathetic state associated with rest, recovery, and social connection.</p>
-<p>In this state: </p>
+<h2>An Internal Decision</h2>
+<p dir="ltr">Loyalty is not about access; it’s about alignment. It reflects:</p>
 <ul>
-<li>Breathing becomes more harmonious</li>
-<li>The heart rhythm is more coherent </li>
-<li>The prefrontal cortex—responsible for reasoning and perspective—becomes more active</li>
+<li dir="ltr">Integrity. (Am I doing what I said I would do?)</li>
+<li dir="ltr">Emotional discipline. (Am I acting on every impulse?)</li>
+<li dir="ltr">Identity. (How do I see myself?)</li>
 </ul>
+<p dir="ltr">When people remain faithful or loyal to something, it’s because that faithfulness is congruent with who they are. </p>
 
+<p dir="ltr">Rusbult (1980, 1983) created the <em>Commitment &amp; Investment Model</em>. The core idea of the model is that commitment is shaped by satisfaction, investment, and perceived alternatives. Here’s the interesting part: even when alternatives are available, people with high commitment and strong values remain loyal. In other words, research shows that loyalty isn’t about the absence of alternatives. It’s about the presence of commitment. </p>
 
-<p>This shift has profound effects.</p>
-<p>We think more clearly. We listen more carefully. We interpret situations with more ease. In other words, calm restores access to the very capacities that make wise decision-making possible.</p>
-<p>Over the past decades, the work of psychologist James Gross has helped us understand that the way we regulate our emotional responses profoundly shapes our well-being, our relationships, and our ability to function under pressure. </p>
+<h2>The Miscalculation</h2>
+<p dir="ltr">Here’s a clear message for those neglectful partners in our lives… and I say “partners,” but I mean lovers, spouses, friends, co-workers, and even employers: Attractive, intelligent, emotionally-available, kind-hearted, hard-working people often have options. They have options for where they work, the friends and lovers they keep in their lives, the projects they accept, etc. Just because they choose to commit and stay loyal doesn’t mean that they can’t leave. There’s a difference between constraint and choice. </p>
 
-<h2>Calm Is Contagious</h2>
-<p>One of the most fascinating aspects of emotional regulation is that it rarely remains confined to the individual. Human nervous systems constantly communicate through subtle signals—tone of voice, facial expression, posture, and breathing. Psychologists describe this phenomenon as emotional contagion.</p>
+<p dir="ltr">Constraint = I can’t leave. Choice = I won’t leave.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/6.png.jpg?itok=V2lQL_Ei" width="320" height="320" data-insert-type="image" alt="Not having options and deciding to stay are two different things." title="ALotOfPeople/Getty Images"></div>
+<div class="caption">Not having options and deciding to stay are two different things.</div>
+<div class="insertArea--origin subtext">Source: ALotOfPeople/Getty Images</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Here’s a hard truth: loyalty is more powerful when someone has the option of leaving and chooses to stay. </p>
+<p dir="ltr">Believing that they won’t go anywhere is a miscalculation. The complacency, emotional neglect, and disrespect with which you approach a loyal person when you believe they are staying because they have no options creates a power imbalance in your relationship that harms everyone.</p>
+
+<p dir="ltr">Infidelity research confirms this idea. Infidelity is more strongly linked to low self-control, impulsivity, and poor relationship satisfaction—not access to other partners (Roberts, et al., 2006; Finkel, et al., 2014). </p>
+<h2>Dysfunctional Loyalty</h2>
+<p dir="ltr">Loyalty does not mean tolerating disrespect and abandoning yourself. Pull back and reflect on the difference between healthy loyalty and codependency. Consider your boundaries and what you will specifically do when they are violated. Then, write it down. </p>
+
+<p dir="ltr">For example, your boundary is name-calling. Write down that boundary and what you will do if this boundary violation shows up in your friendship. If it happens, your loyal gene is going to kick in and you’re going to try to convince yourself that 1) you can manage this violation, 2) they didn’t mean it, or 3) it wasn’t that bad. That’s when you read what you wrote—"if name-calling shows up in this relationship, I will leave it." </p>
+
+<p dir="ltr">It’s important that you live in a space with emotional safety. You can't leave it to other people to create an emotionally-safe environment for you. It would be nice if they did, but you can't wait for that. You're responsible for your environment.</p>
+<h2>What Healthy Loyal Looks Like in Intimacy</h2>
+<p dir="ltr">Loyalty is not simply staying no matter what. That’s what we <em>think</em> it is. Loyalty is consistency, not perfection. It’s choosing your partner everyday, despite their faults. It’s alignment between words and actions. </p>
 
 
 
   
 
 
-<p>We have all experienced the negative version of it: One anxious or agitated person can quickly raise the stress level of an entire group. The opposite is also true. When someone enters a room grounded and composed, others often begin to relax—even if they cannot explain why. In this way, one regulated nervous system can influence many others. The calmest person in the room often becomes the reference point for everyone else.</p>
+<p dir="ltr">Most importantly, loyalty is protecting the relationship, particularly when you’re in conflict. Conflict should not make you throw the entire relationship into the Chesapeake Bay. Character-driven loyalty does not require you to remain in environments where you are consistently disrespected, dismissed, or diminished. </p>
 
-<h2>Calm Is Not Passivity</h2>
-<p>Remaining calm does not mean avoiding difficult conversations or suppressing emotion. In fact, calm often allows for more effective action. When we are regulated, we can hold multiple perspectives at once. We can tolerate uncertainty without rushing toward conclusions. We can ask better questions and make wiser decisions. This is why calm is such a valued quality in professions where the stakes are high—medicine, aviation, and emergency response. The ability to stay steady when others feel overwhelmed helps complex situations unfold more constructively.</p>
-
-<h2>The Discipline of Regulation</h2>
-<p>Remaining calm in a calm environment is easy. The real challenge arises when circumstances become difficult—when someone criticizes us, when expectations increase, or when uncertainty threatens our sense of control.</p>
-<p>In those moments, calm becomes less about personality and more about practice. Small habits can strengthen the nervous system’s ability to return to balance after stress:</p>
-
-<ul>
-<li>Pausing before responding </li>
-<li>Taking a slow breath when tension rises</li>
-<li>Noticing how the body reacts under pressure</li>
-<li>Allowing brief moments of silence before speaking</li>
-</ul>
-<p>Over time, these practices help the nervous system move more fluidly between stress and recovery.</p>
-<h2>The Quiet Power of Calm</h2>
-<p>In a culture that often rewards speed, urgency, and noise, calm can appear understated, yet its effects are profound. Calm creates space for clearer thinking. It supports more compassionate interactions. It stabilizes groups during moments of uncertainty.</p>
-
-<p>Most importantly, calm is not reserved for a fortunate few.</p>
-<p>It can be cultivated—one pause, one breath, one moment of awareness at a time.</p>
-<p>In a world that increasingly runs on stimulation and reactivity, the ability to remain steady may become one of the most valuable psychological capacities we possess. Rather than being merely a pleasant personal quality, staying calm may be the quiet superpower of our time.</p>
-
-<p>How might your next difficult moment change if you chose presence and peace first?</p>
+<p dir="ltr">Loyalty given freely should never be fumbled. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/heart-of-healthcare/202603/why-calm-is-the-new-superpower" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/inside-intimacy/202603/the-psychology-of-loyalty-its-not-about-options" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/heart-of-healthcare/202603/why-calm-is-the-new-superpower</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/heart-of-healthcare/202603/why-calm-is-the-new-superpower</guid>
-            <dc:creator><![CDATA[Jan Bonhoeffer M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/inside-intimacy/202603/the-psychology-of-loyalty-its-not-about-options</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/inside-intimacy/202603/the-psychology-of-loyalty-its-not-about-options</guid>
+            <dc:creator><![CDATA[La Keita D. Carter PsyD., LP]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/social_media_hbm_2.jpg?itok=1N_bAfmG" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/5.png.jpg?itok=Dnf1bxlF" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
