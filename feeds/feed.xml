@@ -4,45 +4,47 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 19:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 20:30:18 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 19:27:15 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 20:30:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What to Do With Your Personality Test Results]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-03/shannon_sauer-zavala__1_.png.jpg?itok=y24iHfRV" alt="Shannon Sauer-Zavala Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What to Do With Your Personality Test Results</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to use personality test results as a starting point—not a ceiling.</h2><p style="font-size:0.9em;color:#666;">Posted March 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[When Thought No Longer Needs Us]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/john_nosta.png.jpg?itok=SIw4PGFR" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Thought No Longer Needs Us</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI is beginning to carry the continuity of our thinking.</h2><p style="font-size:0.9em;color:#666;">Posted March 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Personality test results describe past patterns—they don’t determine your future.</li><li style="margin-bottom:6px;">Treating traits as fixed can lead you to rule yourself out of opportunities.</li><li style="margin-bottom:6px;">Small shifts in thinking and behavior can change the patterns that shape your personality.</li>
+              <li style="margin-bottom:6px;">OpenCLAW enables AI to carry ideas forward, transforming continuity of thought.</li><li style="margin-bottom:6px;">AI carries the thread of thinking across time without living it.</li><li style="margin-bottom:6px;">We start the thought but inherit the result without the full journey.</li>
             </ul>
           </div>
-                    <p dir="ltr">You’ve probably taken a personality test at some point in your life.</p>
-<p dir="ltr">Maybe it was a workplace assessment, an online quiz, or a well-known framework like the Myers-Briggs Type Indicator. The results often feel accurate. You read the report and think, “Yep, that’s me.”</p>
-<p dir="ltr">However, what you do with this information actually matters more than the result itself.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/stux-thought-1014406.jpg?itok=YTCT1nuf" width="320" height="213" data-insert-type="image" title="Stefan Schweihofer/Pixabay" alt="Stefan Schweihofer/Pixabay"></div>
+<div class="insertArea--origin subtext">Source: Stefan Schweihofer/Pixabay</div>
+</div>
+</div>
+</div>
+<p>For years now, I’ve <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202408/accelerating-past-gutenberg-and-google-to-the-cognitive-age">described</a> the progression of knowledge through an arc. Gutenberg unlocked words. Google unlocked facts. Large language models unlocked thought. Each step was expansive and transformative, as it shifted something outward, from the mind to the machine.</p>
+<p>An extension to this is now emerging—one that is easy to miss because it feels so seamless. Systems like <a href="https://learn.g2.com/openclaw-and-moltbook-explained">OpenCLAW</a> are beginning to push beyond the generation of ideas and into the continuity of thinking itself. They don’t simply respond, they proceed. They take an initial prompt and carry it forward, step by step, until a result is reached. The human initiates and the system continues. </p>
 
-<h2>The Most Common Mistake</h2>
-<p dir="ltr">Most people treat personality test results as causal explanations. In other words, they view their type or traits as an invisible essence that shapes how they think, feel, and act.</p>
-<p dir="ltr">“I’m just not assertive so that’s why I have trouble setting boundaries.”<br>“I’m an introvert, so leadership isn’t for me.”<br>“I’m high in anxiety, so I’ll never be good under pressure.”</p>
+<ul>
+<li>Gutenberg unlocked words.</li>
+<li>Google unlocked facts.</li>
+<li>LLMs unlocked thought.</li>
+<li>OpenCLAW unlocks continuity.</li>
+</ul>
+<p>That last line may be the most important, and the least understood. </p>
+<h2>The Thread We Once Carried</h2>
+<p>We have always outsourced parts of cognition. Writing allowed us to externalize memory and search engines externalized retrieval. Even large language models, for all their fluency, still left us holding something essential. We had to decide where to begin and where to end. We still carried the thread, even as the cognitive fabric became easier to weave.</p>
 
-<p dir="ltr">But the data you input into the personality test is simply a reflection of your patterns in the past—how you’ve thought, felt, and acted previously. The results summarize those patterns using labels like conscientious, agreeable, or emotionally sensitive.</p>
-<p dir="ltr">Instead of viewing their results as simply a description of past tendencies, many people see them as a ceiling: “I couldn’t possibly start my own business because I’m not conscientious enough.”</p>
+<p>What's changing now isn't simply the content of thought, but its structure across time. Thinking, in the human sense, has always unfolded over time. From hesitation to resolution, it's where judgment slowly forms. That process isn't inefficiency, but the underlying mechanism of human cognition.</p>
+<h2>Time Without Experience</h2>
 
-<h2>Personality Isn’t Fixed</h2>
-<p dir="ltr">Being boxed in by personality test results is especially troubling because our traits are much more malleable than originally thought. </p>
-<p dir="ltr">Psychologists define personality as your typical way of thinking, feeling, and behaving, and people adjust these patterns all the time. </p>
-<p dir="ltr">This can happen when we’re thrown into a new role or environment that pulls for you to show up differently. For example, maybe you have to start running meetings while you’re filling in for a co-worker who is on leave; as you share your ideas more, you might start to think about yourself as someone with leadership potential.</p>
+<p>Now, here's a key insight: the systems being built today don't experience time in any human sense. They don't wait or sit with uncertainty. They produce results through pattern recognition, not through lived duration.</p>
+<p>What AI can now do is simulate or mimic the structure of thinking over time. It can create sequences and iterate across steps. From the outside, it looks like a process that has unfolded, but internally, there is no experience of that time passing. Simply put, it's time-like behavior without time-based experience.</p>
 
-<p dir="ltr">When those changes to your thinking and behavior stick, you’re going to fill out the questions on the personality test differently and likely get a different result. The personality label follows the pattern, not the other way around.</p>
-<h2>A Better Way to Use Your Personality Test Results</h2>
-<p dir="ltr">When you take a personality test:</p>
-
-<ol>
-<li dir="ltr">Review the results with the mindset that “this is who I was” not “this is who I am and always will be.”</li>
-<li dir="ltr">Ask yourself: “Are these patterns supporting me as I move toward the life I want?”</li>
-<li dir="ltr">Ask yourself: “Which pattern, if nudged a little, would unlock a new opportunity or possibility?”</li>
-</ol>
-<p dir="ltr">In other words, instead of accepting your results as “just who you are,” you can begin to decide whether a tendency is helpful or if it might need to shift.</p>
+<p>This distinction can be easy to overlook because the outcomes are so smooth, coherent, and accepted as the "natural" evolution of technology. The arc appears intact, but the human role within that arc has shifted. We are no longer required to carry the thought from beginning to end. We initiate, and then we accept or even inherit the results.</p>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
     
@@ -62,35 +64,116 @@
 
   </div>
 
-<p dir="ltr">For example, learning that you are highly conscientious might capture your tendency to be detail-oriented and reliable. And while this trait might help you succeed at work, it might also manifest as struggling to delegate or feeling overwhelmed by responsibilities. Shifting your conscientiousness down out of the “rigid perfectionism” zone means you can keep your high performance, without the stress that takes away from other areas of your life.</p>
+<h2>The New Computer</h2>
+<p>Recently, <a href="https://x.com/TFTC21/status/2033720636187807833?s=20">Jensen Huang described</a> OpenCLAW as “the new computer.” It’s a striking line, and likely intended to capture a shift in capability and interface. But it may point to something deeper. Not just a new way to compute, but a new way in which thought itself is carried forward.</p>
+<p>This isn't a loss of intelligence and it's not simply a gain in efficiency. I'll suggest that it's a redistribution of cognitive responsibility. The continuity that once lived within us is increasingly being held outside of us. And with that shift comes a subtle change in what it means to understand something.</p>
 
+<h2>Arriving Without the Map</h2>
+<p>To understand has traditionally meant more than arriving at an answer. It's meant living through the process of getting there. That complexity is richly human—holding varied possibilities in mind, testing assumptions, and navigating uncertainty. When that temporal process is compressed or externalized, the result may still be correct, even superior. But the relationship to that result is different.</p>
 
-<h2>From Insight to Action</h2>
-<p dir="ltr">Change happens when you begin experimenting with new patterns.</p>
-<p dir="ltr">If your results suggest you tend to avoid conflict, you might practice speaking up earlier in low-stakes situations. If you see that you overprepare, you might try submitting work when it is “good enough” instead of perfect.</p>
+<p>Yes, we've arrived at a conclusion or result, but we may not know the terrain that was just traversed. </p>
+<h2>A Curious Threshold</h2>
+<p>So, are Huang's comments really a warning wrapped in techno-enthusiasm? I don't really think so. But it's not a benign advance either. Perhaps it's an observation about a threshold we are beginning to cross. As AI becomes more capable, the temptation to let them carry the middle will grow, not because we are less capable, but because they are so effective.</p>
 
-<p dir="ltr">Over time, the data from these small experiments begin to accumulate. You learn that stepping outside of your comfort zone can bring you closer to your goals. So you keep pushing forward and your shifts begin to snowball. And, of course, as your patterns shift, your personality profile shifts with them.</p>
-
-
-
-  
-
-
-<h2>Personality as a Starting Point</h2>
-<p dir="ltr">Personality tests can be incredibly useful, but only if you treat them as a starting point.</p>
-<p dir="ltr">They help you understand where you are. They do not determine where you can go.</p>
-<p dir="ltr">The traits that show up on a report are not limits. They are simply reflections of the patterns you’ve reinforced so far. </p>
+<p>The question isn't whether we should use AI and OpenCLAW. We will. The question is how often we allow them to traverse the continuity of thought for us, and what happens, over time, if we no longer do. </p>
+<p>We unlocked thought. And now, it continues on its own. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/self-made/202603/what-to-do-with-your-personality-test-results" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-thought-no-longer-needs-us" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/self-made/202603/what-to-do-with-your-personality-test-results</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/self-made/202603/what-to-do-with-your-personality-test-results</guid>
-            <dc:creator><![CDATA[Shannon Sauer-Zavala Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-thought-no-longer-needs-us</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-thought-no-longer-needs-us</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/look-studio-w1fr4yybfcu-unsplash.jpg?itok=K_fwrP28" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-cottonbro-5473956.jpg?itok=HaMIvX96" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Refresh a Fading Romance With Love or End It With Gratitude]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ritawatson_mph.png.jpg?itok=7urzyTUr" alt="Rita Watson MPH" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Refresh a Fading Romance With Love or End It With Gratitude</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">If we sense that our love is fading, we can save it or end it with kindness.</h2><p style="font-size:0.9em;color:#666;">Posted March 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Recognize signs that your relationship is ending.</li><li style="margin-bottom:6px;">Decide if your partner is “the one” or just the one for now.</li><li style="margin-bottom:6px;">Make a plan to reignite the love spark or, with gratitude, say “goodbye.”</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/jacob-mejicanos-wsryzdlenu8-unsplash.jpg?itok=bexmVHAb" width="320" height="213" data-insert-type="image" alt="Jacob Mejicanos/Unsplash" title="Jacob Mejicanos/Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Jacob Mejicanos/Unsplash</div>
+</div>
+</div>
+</div>
+<p dir="ltr">What keeps many couples together, despite petty conflicts, is the absolute belief that they were both touched by the same star. As so often depicted in rom-coms or romance movies, there is love, conflict, a breakup, and then a romantic reunion. While these stories may fill a “feel good” need, they often fantasize reality.</p>
+
+<h2>Relationship ups and downs</h2>
+<p dir="ltr">There may be times when you begin to question your relationship. There may be too many arguments. Perhaps there is too much tension. Although you may make excuses, the emotional stress can escalate to a breaking point.</p>
+<p dir="ltr">Sometimes couples stay in a relationship because they are afraid of being alone. There are also times in which couples become comfortable with one another despite ongoing conflicts. If you have ever wondered if you made a mistake falling for the love in your life, you are not alone. Relationships have ups and downs. </p>
+
+<h2>How can you tell if your relationship is fading?</h2>
+<p dir="ltr">Before dissecting your relationship, ask yourself these three important questions:</p>
+<ol>
+<li>
+<p dir="ltr">What does my heart tell me? </p>
+</li>
+<li>
+<p dir="ltr">What does my intuition say?</p>
+</li>
+<li>
+<p dir="ltr">In my heart of hearts, why did I believe that he or she was “the one”?</p>
+</li>
+</ol>
+<p dir="ltr">Think about your answers and challenge yourself to delve into your relationship more thoroughly while maintaining a positive attitude. According to Chen et al., 2025, positive illusions can “beautify the impression of others through positive projection, thereby helping in establishing positive, stable, and harmonious interpersonal relationships.”</p>
+
+<h2>Qualities that attracted you</h2>
+<p dir="ltr">Remind yourself of the qualities that attracted you to your love initially. Was it kindness, empathy, the ability to listen, patience, generosity of spirit, or honesty?</p>
+<p dir="ltr">Keep in mind that a 2023 study to determine the influence of positive illusions on relationships, George et al., reported: “How one views one's partner (positive illusion or objectively) has important consequences on the success of that relationship.” </p>
+
+<ul>
+<li>
+<p dir="ltr">Think of two experiences that brought joy to the two of you. </p>
+</li>
+<li>
+<p dir="ltr">Now ask yourself, “Can we find that place of joy again?”</p>
+</li>
+</ul>
+<p dir="ltr">Be honest with yourself and make a plan to have a sincere talk with your partner. Instead of being confrontational, keep it simple, short, and factual. You might say: “Our relationship has lost its spark. We may no longer be living up to the best of ourselves. I’d like to tell you the reasons that I fell in love with you. And I would like for you to tell me why you fell in love with me."</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">If you get brushed off, instead of becoming defensive, suggest you both think about your concern and talk another time. </p>
+<p dir="ltr">Be honest with yourself. If this partner is simply the one for now, with dignity and kindness, thank that person for the togetherness and joy you once experienced and move on.</p>
+<p><em>Copyright 2026 Rita Watson, MPH.</em></p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/with-love-and-gratitude/202603/refresh-a-fading-romance-with-love-or-end-it-with-gratitude" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/with-love-and-gratitude/202603/refresh-a-fading-romance-with-love-or-end-it-with-gratitude</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/with-love-and-gratitude/202603/refresh-a-fading-romance-with-love-or-end-it-with-gratitude</guid>
+            <dc:creator><![CDATA[Rita Watson MPH]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/jacob-mejicanos-wsryzdlenu8-unsplash.jpg?itok=SuHROpzf" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
