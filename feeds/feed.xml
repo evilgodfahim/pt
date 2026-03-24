@@ -4,420 +4,290 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 17:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 19:13:53 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 17:58:00 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 19:13:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Clash Over the Use of AI in Military Decision-Making]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/dr_jeff_pickens.jpg?itok=CEjOtf_7" alt="Jeffrey N Pickens Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Clash Over the Use of AI in Military Decision-Making</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Should humans be included in the AI lethal decision-making chain?</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Is Your Indoors-Only Cat Bored? Here’s What to Do About It]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-07/zazie_todd.png.jpg?itok=0SgSm_VA" alt="Zazie Todd Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Your Indoors-Only Cat Bored? Here’s What to Do About It</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">10 strategies to enrich your cat’s life and help them be happier.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Anthropic opposed AI in military use for mass surveillance and autonomous lethal decisions.</li><li style="margin-bottom:6px;">The Pentagon argues that military AI should follow only U.S. law, not private company ethics.</li><li style="margin-bottom:6px;">The U.S. military prefers "unrestricted lawful use" of AI, but very few actual laws or guardrails exist.</li><li style="margin-bottom:6px;">Research on human decision-making suggests AI should be trained to act with human-like ethical responsibility.</li>
+              <li style="margin-bottom:6px;">If your cat knocks items off furniture, keeps you awake at night, or chases your feet, they might be bored.</li><li style="margin-bottom:6px;">Adding enrichment to your cat's daily routine is an easy way to give them more to do.</li><li style="margin-bottom:6px;">Food puzzle toys, active play with toys, and improved sleeping spots are all ways to make your cat happier.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
+                    <p>It seems like an easy life for pampered house cats: opportunities to snooze all day because meals are provided on schedule, and human companionship whenever they want. But what if your cat is actually bored? Behaviour issues like keeping you awake at night, pushing items off your shelves, and attacking your feet when you walk around the room could all be signs that your kitty cat needs more to do. Here are some suggestions to rethink your cat’s routine and give them more to do during the day.</p>
+
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/soldier_and_drone.jpeg.jpg?itok=FKYrwunA" width="320" height="320" data-insert-type="image" alt="Soldier with flying drone" title="AI-generated image/perchance.org "></div>
-<div class="caption">Soldier with flying drone</div>
-<div class="insertArea--origin subtext">Source: AI-generated image/perchance.org </div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/cat-enrichment-pexels-anna-toth-2468586-4117611.jpg?itok=bXIS-3aY" width="320" height="256" data-insert-type="image" title="Anna Tóth/Pexels" alt="Anna Tóth/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Anna Tóth/Pexels</div>
 </div>
 </div>
 </div>
-<p>Historically, only humans made life-or-death decisions about using force and lethal weapons. But now, society is beginning a new age in which machines with artificial intelligence may be equipped to make autonomous lethal decisions without humans in the decision-making chain. Does creating autonomous robots for lethal military use suggest that we have entered a brave new world—or a virtual minefield?</p>
+<p>1. Space out meals throughout the day. Instead of always leaving a big bowl of kibble out, it’s better to give cats multiple small meals. This is closer to how they would feed themselves if they were having to catch lots of mice to eat. If you’re out all day, you can use an automatic feeder to provide lunch, for example. Make one of their meals a supper before bedtime to reduce the likelihood of them waking you up because they get hungry in the night.</p>
 
-<p>Recent reports suggest that the Pentagon was unhappy with the AI company Anthropic, Inc., because the company leadership didn’t agree with the Pentagon's request for Anthropic to abandon certain guidelines for its AI model used by the military.<sup>1</sup> Anthropic has a long track record of its AI model being used by the military on classified cloud and other intelligence and military applications. Anthropic was clearly OK with monetizing its AI model for most military applications, but the company wanted to limit the military’s use of its AI in two distinct ways;</p>
+<p>2. Feed in different locations. This means they can forage for their food instead of always going to the same place. Use height as well, putting some meals on a shelf or table so that your cat is using vertical space when they search for their food. You can also make a point of hiding treats in different locations, like on a cat tree, chair, or table, so that they can search for treats. Or you can use little bowls or cupcake holders to hide small portions of wet food for them to find.</p>
 
-<ol>
-<li><strong>Mass surveillance</strong>. Anthropic argues that AI-driven mass surveillance presents serious risks to fundamental liberties. Anthropic did not wish to allow its AI model to be used for any large-scale domestic surveillance in the U.S.</li>
-<li><strong>Fully autonomous weapons</strong>. Anthropic wished to restrict the use of its AI model for fully autonomous weapons that take humans out of the decision-making loop entirely and that automate engaging targets with lethal action.</li>
-</ol>
+<p>3. Change food taste and textures to give them some variety in what they eat (unless they are the kind of cat who likes only one particular food).</p>
+<p>4. If you have more than one cat, make sure their food bowls (or puzzle toys) are separated from each other. They will feel more comfortable eating if they don’t have to share the space.</p>
 
-<p>Let’s examine each of these issues and the serious questions raised.</p>
-<h2>Mass Surveillance</h2>
-<p>It sounds Orwellian, but we know that the government has the capacity to be watching us. For example, there’s been an explosion of video cameras stationed throughout society. Furthermore, as a result of digitization, much of our personal data is available on the digital cloud. AI models can comb this vast video and data universe using facial recognition software and profiling algorithms. AI computers thus have the means to comb huge amounts of public data with a potent mix of tools that can potentially be used for wide-scale surveillance of the citizenry.</p>
+<p>5. Use food puzzle toys to make them work for their food. Make the puzzle toys very easy when you first start to use them and include plenty of treats to get your cat interested. Over time, you can make the food puzzles harder. Also, think about the kind of thing your cat likes to do and try to get food puzzle toys that will involve that behaviour, such as pushing a ball around or dipping their paw into a container to fish something out. You can easily make your own food puzzle toys with a cardboard tube.</p>
 
-<p>Video cameras serve many useful functions, including giving law enforcement the ability to access video for preventing and solving crimes. Databases are likewise critical components of many organizations, and our personal data—from photos and documents to our data consumption patterns—details our identity, habits, travel, spending, and phone calls. Discovering online patterns may be great for preventing crimes or marketing products, but these vast volumes of personal data could potentially be misused to violate privacy, steal identities, facilitate censorship, or worse. </p>
+<p>6. Make time to play with your cat. Get a wand toy and move it around as if it’s a prey item. Let them stalk, chase, and leap after it as they wish. Pay attention to which movements of the toy are of most interest to your cat, as doing so will help you to improve your play skills over time. Many people need a bit of practice!</p>
 
-<p>Recently, we appear to have crossed a threshold at which society is grappling with possible government surveillance and privacy issues. Anthropic balked at the military’s reluctance to accept limits on how it could use AI models. Pentagon officials argued that the military should be bound only by U.S. law, not by a private company's ethical policies.</p>
+<p>7. Offer toys that are scented with catnip, silvervine, valerian, or Tatarian honeysuckle. You might need to experiment to find which your cat prefers, because not all cats respond to catnip, but that doesn’t mean they won’t respond to one of these other substances.</p>
+<p>8. Have toys with sounds and lights, and that mimic different prey items. Introduce variety into the toys that you offer and pay attention to what your cat seems to like best. Do they prefer something with feathers, a toy mouse, or a long, thin toy that curls up like a snake? You can also make the toys seem new again by marinating them in catnip (or a similar substance) or simply putting them away for a few weeks. If you keep the toys in a box, you can open it from time to time to give your cat a choice of toys to pick out—or maybe they will even learn to open the box for themselves, especially if you leave the lid slightly up to make it easier.</p>
 
-<h2>Fully Autonomous Weapons</h2>
-<p>A second key area in which Anthropic sought restrictions on the military's use of its AI model was in the use of autonomous AI military drones for making lethal decisions. Psychology has studied how humans make critical decisions under duress, from athletics to law enforcement to military contexts.<sup>2</sup> For example, risk-sensitivity theory offers a framework for understanding the complex cognitive processes of humans making life-or-death decisions. </p>
+<p>9. Do some training with positive reinforcement. You can teach cats to do things like high-five, spin, or sit pretty if you like. Make it super-easy for your cat to earn small food rewards at each stage of training to keep them interested in it. Keep training sessions short. If you’re not sure where to start, train them to like their cat carrier, because it makes vet visits so much easier. (There’s a plan to teach this in my book <em>Purr: The Science of Making Your Cat Happy.</em>)</p>
 
-<p>Can we be certain that AI is capable of making life-or-death decisions, balancing all the variables? Research on human decision-making suggests that AI should be trained not merely to aim for the highest reward (e.g., a greater number of “kills”) but to actively avoid catastrophic outcomes and manage uncertainties with human-like ethical responsibility.</p>
-
-<p>Anthropic did not want its AI model to be used for lethal autonomous decision-making without a human included in the final decision-making command chain. The company suggested that only humans—not AI—should be ethically capable of making a lethal decision to “pull the trigger.” </p>
-<p>The Pentagon did not agree to the limitations, and Anthropic was released as the Pentagon’s AI provider. Other companies soon offered their AI models to the Pentagon instead—but the debate about whether private companies developing AI models can define their own guardrails and limitations on the military's use of their software will continue. The U.S. Congress has not yet created laws or even clear rules to guide AI companies or the Pentagon on the ethical limits of AI for military use.</p>
+<p>10. Improve their beds. While it’s important for cats to have plenty to do, they do also like to sleep a lot. Make sure they have multiple cozy beds to choose from, including some spaces high up where they can perch, and some spaces where they can hide from view if they want to. The top of a cat tree, a bed on your desk near where you work, or a little hiding place in the back of the wardrobe can all make good places for cats to snooze.</p>
 
 
 
   
 
 
-<p>The debate is complicated by the possibility that competitors from other nations may not be limited by ethical guidelines. In the global race to militarize AI, and with the rapid invention of military drones and robots, it’s ever more likely that machines will be created to make autonomous targeting and killing decisions in the future. Will the U.S. military forgo such tools in its arsenal while adversaries, unrestrained by ethics, develop autonomous lethal drones? Will the U.S. unilaterally commit to restrictions on the use of AI for lethal military actions? </p>
-
-<p>The consequences of any such decisions are concerning. As with many technologies, the genie is probably already out of the bottle. Autonomous lethal military drones are already being developed and deployed on battlefields around the world. AI may be intelligent enough to distinguish an adversary tank from a friendly one, but the question is, should the AI decide to pull the trigger? </p>
-
-<p>Within the fog of war, mistakes will happen, and fatal errors can occur. Are we ready to allow robots and drones equipped with AI to decide friend versus foe, who to terminate and who to spare? Ultimately, psychology can study how humans make critical decisions. Yet we must decide as a society how to train and manage AI's decision-making, including how it is used to sift through our personal data and whether it is allowed to equip lethal autonomous drones and robots to make life-or-death decisions. </p>
+<p>It’s easier to remember to do things when you make them part of a routine, so try to find ways to make more enrichment for your cat at regular times in your day. Providing enrichment for your cat is an important way to help prevent (and sometimes resolve) behavior issues. If you ever notice a sudden change in your cat’s behavior, make an appointment with your vet in case there is a medical cause.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/psychology-through-technology/202603/the-clash-over-the-use-of-ai-in-military-decision-making" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/fellow-creatures/202603/is-your-indoors-only-cat-bored-heres-what-to-do-about-it" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/psychology-through-technology/202603/the-clash-over-the-use-of-ai-in-military-decision-making</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psychology-through-technology/202603/the-clash-over-the-use-of-ai-in-military-decision-making</guid>
-            <dc:creator><![CDATA[Jeffrey N Pickens Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/fellow-creatures/202603/is-your-indoors-only-cat-bored-heres-what-to-do-about-it</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fellow-creatures/202603/is-your-indoors-only-cat-bored-heres-what-to-do-about-it</guid>
+            <dc:creator><![CDATA[Zazie Todd Ph.D.]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/soldier_and_drone.jpeg.jpg?itok=HEjY2Eqq" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/cat-enrichment-pexels-anna-toth-2468586-4117611.jpg?itok=ukgwRoSm" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[5 Manipulation Tactics You Might Not See Until It’s Too Late]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/loren_soeiro_phd_abpp_photo.jpg?itok=ZygMUc5p" alt="Loren Soeiro, Ph.D. ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dark Triad</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Manipulation Tactics You Might Not See Until It’s Too Late</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Recognizing these manipulation tricks can help you re-establish your boundaries.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why We Assume the Worst, and How to Stop]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/Amy-Vigliotti.jpg?itok=qXWaDo-k" alt="Amy Vigliotti Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why We Assume the Worst, and How to Stop</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The psychology behind negative assumptions and how to break the habit.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Gaslighting makes you doubt your sense of reality, and guilt-tripping turns vulnerabilities into leverage.</li><li style="margin-bottom:6px;">Moving the goalposts keeps you striving toward a standard you can never reach.</li><li style="margin-bottom:6px;">Triangulation isolates you by recruiting others to undermine your credibility.</li>
+              <li style="margin-bottom:6px;">Assumptions are mental shortcuts, but they often distort reality.</li><li style="margin-bottom:6px;">Expecting the worst can feel protective but, in fact, it may harm connection with others.</li><li style="margin-bottom:6px;">CBT helps us question anxious thought errors, such as mind reading and fortune-telling.</li><li style="margin-bottom:6px;">Curiosity and checking facts can replace harmful assumptions.</li>
             </ul>
           </div>
-                    <p>If you’ve ever wondered if there’s something not quite genuine about your romantic relationship—as if your partner seems to be trying to bring out specific reactions, or certain feelings, in you—you might be experiencing an insidious form of psychological manipulation. Perhaps you’re apologizing a lot more than usual, even though you’re not sure what you did wrong. Or maybe they keep telling you something about your behavior needs to change, although you’ve never heard that suggestion from anyone else. It’s easy to feel confused when a person you care about seems to be quietly controlling you: intentionally creating fear, guilt, or uncertainty to get what they want at your expense. They may even possess the “Dark Triad” of personality traits—narcissism, psychopathy, and Machiavellianism—which characterize the people who most often manipulate others (Jones &amp; Paulhus, 2014). The five tactics these manipulators use most often can easily fly under the radar until you’ve lost your emotional bearings.</p>
-
-<h2>Tactic 1: Gaslighting</h2>
-<div class="insertArea ck-widget">
+                    <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/chatgpt_image_mar_23__2026_at_03_33_27_pm.png.jpg?itok=JTda3E7N" width="320" height="480" data-insert-type="image" title="Image generated by ChatGPT / OpenAI" alt="Image generated by ChatGPT / OpenAI"></div>
-<div class="insertArea--origin subtext">Source: Image generated by ChatGPT / OpenAI</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/vitaly_gariev_2.jpg?itok=rC2Ys_9L" width="320" height="180" data-insert-type="image" title="Vitaly Gariev/Unsplash" alt="Vitaly Gariev/Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Vitaly Gariev/Unsplash</div>
 </div>
 </div>
 </div>
-<p><em>No, you’re remembering it wrong. It was only a joke; you’re too sensitive. That’s not what happened. You’re way off base. </em>When you hear phrases like these frequently enough, you can start to doubt yourself. Your partner cares about you, right? They wouldn’t steer you wrong. But gaslighting remarks like this can make almost anyone start questioning their own memory and sense of objective truth. Gaslighting is one of the main manipulative strategies used by Machiavellian personalities—that is, those oriented toward power and control, and often money, rather than toward the well-being of others (Kumar &amp; Malviya, 2025). Cold, calculating Machiavellians, no matter how charming or attractive they seem, will prioritize deception and control when they get close to someone. Getting in too deep with a person like this can make you feel like your familiar sense of self has dropped out from beneath you.</p>
+<p><em>Co-authored by Lea Nguyen, MHC-LP, and Amy Vigliotti, PhD</em></p>
+<p dir="ltr">Assumptions are the stories we tell ourselves to fill in the gaps when we don’t have complete information.</p>
+<p dir="ltr">Our brains are wired for efficiency, so assumptions serve as mental shortcuts. In many ways, this ability helps us move quickly through the world. It’s much faster to jump to a conclusion than to slow down and analyze every complex social situation around us.</p>
 
-<h2>Tactic 2: Love-Bombing, Then Pulling Back</h2>
-<p>In the early days of a relationship, when your new partner takes especially good care of you—with thoughtful gifts, meaningful talks, a lot of time together, and maybe some hints about a real future—you can be forgiven for failing to wonder if it’s “too good to be true.” Intimacy that develops quickly can feel too good to question. But when it’s followed by a sudden disappearance or a change in tone, you’ll probably feel a flicker of doubt. And just as you’re about to take action to protect yourself… there’s your partner again, offering another loving, late-night talk and some vague plans for a weekend away. This is called <em>intermittent reinforcement, </em>and it works like a slot machine, which pays out its winnings at unpredictable intervals, making it hard for you to walk away. Studies of people with manipulative personalities point out that they strategically use charm and appreciation to secure commitment or advantage, then withdraw once they win you over again (Brewer &amp; Abell, 2015).</p>
+<p dir="ltr">Sometimes, assuming the worst functions as emotional protection. If we expect rejection, betrayal, or abandonment, we feel less blindsided if it happens. These patterns often stem from anxiety, attachment insecurity, or relational trauma. In this way, negative assumptions can feel protective; it’s as though the brain is preparing us for pain before it arrives.</p>
 
-<h2>Tactic 3: Guilt</h2>
-<p>This one is crucial. When a manipulator learns how to press your “guilt” button, they’ll always be able to turn a conflict to their advantage. <em>You abandoned me</em>, they might say, or <em>You’re never grateful. </em>Even if they’re the one to cause a problem between you, somehow it will point to one of your flaws. Perhaps you’ve talked about something private, like the pain of a disruption in your family; people like this might make a good show of empathy at first, then mention it again at the worst possible moment as a hit below the belt. <em>Right now, you’re acting just like your stepdad</em>. This could lead you to make significant concessions, to ignore your limits, or to give in to your partner even when you don’t want to. It’s another tactic that’s found in personality research on the Machiavellian style (in Jones &amp; Paulhus, 2009), where it’s described as creating “emotional leverage.”</p>
+<p dir="ltr">The problem is that what feels protective in the short term can quietly undermine connection in the long term. Since assumptions feel like facts, they can both shut down curiosity and interfere with our ability to relate accurately and openly with others. So, we stop asking questions, and we stop checking our interpretations. Instead, we react to a story we’ve constructed. Over time, this can lead to chronic resentment, unnecessary conflict, and emotional distance.</p>
 
-<h2>Tactic 4: Moving the Goalposts</h2>
-<p>Decades ago, psychology researchers spotted this strategy: the use of withdrawal or criticism to control behavior (Buss et al., 1987). It happens when your partner is perfectly clear about their expectations at first, but changes them as time goes by. Maybe they want you to dress a certain way, or sample a particular substance you’re unsure about, or reveal some intimate information. They may plead and plead, promising affection and seeming sincere enough—until ultimately, you give in. But the happy relief you’ll feel will be short-lived, as there’s no making this person happy: As soon as you give them what they want, it’ll turn out to be less than enough. What they were desperate for last week now seems like the bare minimum, as though any implicit agreement has been altered after the fact. When this defines your relationship, you’ll get that <em>walking on eggshells</em> feeling, and the chronic sense of trying to live up to a vaguely defined standard you can never reach—which may render you easier to control.</p>
+<h2>How CBT Helps Us Catch and Correct Faulty Assumptions</h2>
+<p dir="ltr">Cognitive Behavioral Therapy (CBT) is particularly effective in helping people recognize and revise distorted thinking patterns. CBT teaches that thoughts are not facts, but are instead mental events that can be examined.</p>
+<p dir="ltr">Many assumptions fall into predictable “cognitive distortions.” One common distortion is fortune-telling: predicting a negative outcome without sufficient evidence (e.g., “She hasn’t texted back; she must be upset with me.”). Another one is mind reading: assuming we know what someone else is thinking (e.g., “He thinks I’m incompetent.”). There’s also catastrophizing (imagining the worst-case scenario), and personalization (assuming events are about us when they may not be).</p>
 
-<h2>Tactic 5: Triangulation</h2>
-<p>Jones and Paulhus (2009) also pointed out that the underhanded use of a third person can be used to gain relational power and influence, or to exert pressure in the case of a disagreement. <em>They all think you’re too loud</em>, you might be told, or <em>I asked a lot of people about your opinion on this. No one understands what you mean. </em>Are these statements true, or just part of a tactic? It’s even worse when they go directly behind your back (to your co-workers, friends, or even family) in an effort to build support or to paint you in a negative light. The intention is to isolate you from people who might take your side, while at the same time gaining undeserved sympathy (because of the things they claim you’ve done or said). Manipulators do this because they care more about looking good and maintaining a sense of control than making a genuine effort to resolve a problem.</p>
-
-<p>If reading through this list gives you a sinking feeling because you recognize these patterns from your own life, take heart: There are things you can do. First, get a reality check. Write down what was said to you, then talk it through in private with a trusted friend or <a href="https://www.psychologytoday.com/us/therapists">therapist</a> who’s familiar with the situation but not directly involved. Identify the tactic being used against you: Is it a guilt trip? A triangulation? Recognizing that these phenomena are classic, well-worn manipulation strategies, identified years ago in social science research, can help ground you. At that point, try to set small boundaries, as in “I don’t think I want to do that right now,” or “I’m not comfortable with that. Let’s talk about it later,” to take back some agency and also to see how your partner responds. If things don’t go well from there, you’ll have more evidence that something is wrong. Lastly, if you feel that the pattern of manipulation has become serious, to the point of emotional or even physical abuse, don’t wait: Look for real help (professional or otherwise) as soon as possible. Noticing and labeling the manipulation means you’ve recognized that the situation no longer works for you, and that you deserve better treatment. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/i-hear-you/202603/5-manipulation-tactics-you-might-not-see-until-its-too-late" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/i-hear-you/202603/5-manipulation-tactics-you-might-not-see-until-its-too-late</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/i-hear-you/202603/5-manipulation-tactics-you-might-not-see-until-its-too-late</guid>
-            <dc:creator><![CDATA[Loren Soeiro, Ph.D. ABPP]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/chatgpt_image_mar_23__2026_at_03_31_09_pm.png.jpg?itok=cpGV1AfF" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perfectionism's Confusing Relationship With Feeling Special]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Leon-Garber.jpg?itok=SCVGgFWd" alt="Leon Garber LMHC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Perfectionism</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Perfectionism's Confusing Relationship With Feeling Special</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Perfectionists fluctuate between a sense of superiority and extreme modesty.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Perfectionists tend to struggle with deciding between being good and feeling special.</li><li style="margin-bottom:6px;">At its core, perfectionism is a mixture of unresolvable conflicts.</li><li style="margin-bottom:6px;">Pursuing truth may help the perfectionist form a more realistic and helpful understanding of their place.</li>
-            </ul>
-          </div>
-                    <p>You can’t suppress your beliefs merely by feeling guilty for having them. While it’s possible to exhibit only one form of perfectionism, many perfectionists present with several. So, for example, not only are many of them concerned with professional achievement (i.e., success-oriented perfectionism), they’re also preoccupied with being good people (i.e., moral perfectionism). And the values involved often conflict.</p>
-
-<p>To become extremely successful, arguably, one has to believe they’re special; thus, every comparison brings relief and motivation. This means that self-esteem and self-efficacy, the sense of mastery, are built, in some sense, on the backs of others. And that may conflict with moral perfectionism, which entails compassion, contribution, and humility. As children, perfectionists may be taught that they need to stand out but, simultaneously, need to present modestly. The implied message is: You can’t be yourself. And this, in turn, conflicts with another core value, that of authenticity. You aren’t allowed to be your special self because it hurts others’ feelings, but being disingenuous to avoid blowback is also cowardly.</p>
-
-<h2>A State of Confusion</h2>
-<p>For a perfectionist, who’s fixated on rules, this can feel impossible to keep track of and embody. Add in the element of black-and-white thinking, wherein the individual believes that to be anything, like authentic, one has to be that thing all of the time, and we can successfully argue that perfectionism is a state marked, for the most part, by confusion. You can imagine the anxiety and hopelessness that follows. How can we both be good and proud? How can we become both righteous and elite? Parents who instill these values in their children may believe that having it all is possible because they may, erroneously, believe they embody all of those virtues. And their children may naively internalize those images, idealizing the parent while failing to make it work themselves.</p>
-
-<p>Even if a relationship with a parent sours and they’re taken off the pedestal, it may still be challenging to create a new mental map, or schema, of how the world works and what one’s values should be. So, it’s common for a perfectionist to believe that surely others out there, the special ones, resolved these contradictions; surely, the ideal can’t be completely baseless. Yet, it is because, at its core, perfectionism is a state of irreconcilable conflict, even if it’s domain-specific—there are meaningfully conflicting values within your pursuit of goodness just as in your pursuit of success. You may be individually successful yet on a bad team, which you can’t seem to help improve. And you can do the right thing while inevitably seriously hurting some people.</p>
-
-<p>Seen through the lens of paradox, one can learn to take perfectionism less seriously and, by extension, life’s choices, too. In treatment, perfectionists tend to fear revealing some of these beliefs because they wish to appear as good people, even, again, trying to evade their own thoughts. By doing so, they miss the chance to reflect on some of them. What’s true and what isn’t? Do you excel in some area? Maybe, but how does that make you special? Are your comparisons myopic? Do you often zero in on another’s trait or even some specific failure to lift yourself up? And when you need motivation, do you find yourself envious? Reality, then, to the perfectionist, is merely instrumental, always serving some grander purpose.</p>
-
-<h2>Pursuing Truth</h2>
-<p>At the risk of oversimplification, you can decide to go wherever the truth takes you. We allow others to enjoy being proud of themselves because we infer some degree of humility. Being proud of graduating from a difficult program isn’t synonymous with believing yourself to be the smartest person you’ve ever known. Feeling attractive isn’t synonymous with believing others are ugly. Pride is usually only disdained when it’s accompanied by grandiosity. So, maybe that’s what needs to challenged—your use of a sense of superiority as a balm and an adrenaline boost.</p>
-
-<p>The pursuit of truth helps the perfectionist form a deeper understanding of what tends to annoy others and why, the uses and limits of comparing oneself to others, the inherent limitations of character (what one can never, logically, become), what it means to be special and if it’s attainable, and how perfectionism counterintuitively harms relationships. Truth’s pursuit may even aid those relationships if one is able to admit the underlying feelings of their overly critical comments.</p>
-
-
-<p>Parents of perfectionists may want to see their children in the same way they see themselves, so, along with the criticisms, there may be a fundamental understanding of: But you’re better than this because you’re so much better than others. So, the child may tap into the sense of some special essence, which they may believe just needs to be drawn out. Is there an essence, and why does it have to be special? Can presenting with humility, in reality, be insulting at times? Can you be and feel important to others, and even for a skill or contribution, without feeling generally superior? Most of the time, the pursuit of truth leads each of us to the same destination: Your unique traits matter and, yes, they do leave a mark, but so do those of many others. You’ll have to decide if that’s good enough.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/perfectionism/202603/perfectionisms-confusing-relationship-with-feeling-special" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/perfectionism/202603/perfectionisms-confusing-relationship-with-feeling-special</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/perfectionism/202603/perfectionisms-confusing-relationship-with-feeling-special</guid>
-            <dc:creator><![CDATA[Leon Garber LMHC]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/geralt-man-5705941_1920.jpg?itok=Lss_kI74" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Does Alcohol Boost Creativity?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/anthony_fredericks.jpg?itok=re2IR4DV" alt="Anthony D. Fredericks Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Creativity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Does Alcohol Boost Creativity?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The connection between alcohol consumption and creativity is complex and uncertain.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The intersection of alcohol and creativity is often misunderstood.</li><li style="margin-bottom:6px;">Research demonstrates that alcohol affects some types of creativity, but not all.</li><li style="margin-bottom:6px;">The amount of alcohol consumed is often a determining factor.</li>
-            </ul>
-          </div>
-                    <p>Ernest Hemmingway, F. Scott Fitzgerald, Edgar Allen Poe, Dylan Thomas, Jackson Pollock, Vincent van Gogh, Billy Holiday, and Paul Gauguin are all renowned as creative artists—every one revered as an imaginative innovator in their respective field. </p>
-<p>Yet each was a heavy drinker or severe alcoholic. So too, did they unwittingly perpetuate a continuing piece of folklore—that is, that our personal creativity is stimulated or positively influenced by the consumption of alcohol. </p>
-
-<p>Is there any truth to that belief? Yes, as it turns out—but there's a few contradictions as well. Let’s take a look.</p>
-<h2>What the Research Says About Alcohol and Creativity</h2>
-<p>Current figures indicate that, globally, approximately 43 percent of all adults (meaning age 15 or older) drink alcohol. That equates to about 2.3-2.4 billion people around the world. On average, women who drink have about 1-2 drinks per sitting, while men average approximately 2-3 drinks. </p>
-
-<p>For the most part, moderate consumption of alcohol is an accepted part of many cultures. On the other hand, alcoholism and binge drinking (usually 4+ drinks for women or 5+ drinks for men in a sitting) are generally seen as cause for alarm, since either may result in several illegal or dangerous behaviors.</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/hemingway.jpg?itok=4wYlxNrR" width="320" height="213" data-insert-type="image" title="BarbeeAnne/Pixabay" alt="BarbeeAnne/Pixabay"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: BarbeeAnne/Pixabay</div>
-</div>
-</div>
-</div>
-<p>Many well-known artists, writers, and poets were heavy drinkers and, over time, people assumed that alcohol fueled their creativity ("They’re creative <em>because</em> they drink"). Add the romanticization of the “tortured artist” to the image of the suffering, intoxicated genius and the overwhelming perception was that inebriation led to creative brilliance.</p>
-
-<p>Consequently, this “alcohol = creativity” myth has survived over the centuries because it is quixotic, has been embraced by several creative and influential individuals, and does have one real effect that continues to sustain the legend: It lowers inhibitions. But alcohol’s overall effect on our creative inclinations is, quite often, a “mixed bag.”</p>
-
-<p>In 2012, researchers Jarosz, Colflesh and Wiley conducted a study testing whether moderate alcohol intoxication (BAC = .075) had an effect on creative problem solving. They administered the Remote Associates Test (RAT) to 40 social drinkers. </p>
-<p>The RAT has been used by psychologists for many years to assess various cognitive abilities linked to creativity. The test consists of 30 to 40 questions, each of which presents three cue words (that appear to be unrelated), but are linked by a fourth word, which is the correct answer. Here's an example:</p>
-
+<p dir="ltr">CBT helps people slow down and ask:</p>
 <ul>
-<li><strong>Cue Words:</strong> Cottage/Swiss/Cake.</li>
-<li><strong>Answer:</strong> Cheese [cottage cheese, Swiss cheese, cheesecake]</li>
+<li dir="ltr">What is the evidence for this thought?</li>
+<li dir="ltr">Is there another plausible explanation?</li>
+<li dir="ltr">Am I predicting the future or reading someone’s mind?</li>
+<li dir="ltr">If a friend had this thought, what would I say to them?</li>
 </ul>
-<p>The results indicated that participants who were moderately intoxicated solved more problems, solved them faster, and reported more “insight-based” (AHA!) solutions. The researchers indicated that moderate alcohol consumption seemed to reduce attentional control, which, paradoxically, helped participants access more remote associations—those useful for certain types of creativity (specifically convergent problem-solving).</p>
+<p dir="ltr">Over time, this practice builds cognitive flexibility. Instead of automatically believing the first story the brain generates, we learn to test it. In doing so, we create space for more balanced, compassionate interpretations.</p>
 
-<p>Another study in 2017 examined the effects of mild intoxication (BAC = .03) on executive control tasks (focus, working memory) and creative tasks (problem solving, divergent thinking). The researchers cited three key findings, including: </p>
+<h2>Five Ways to Shift From Assuming the Worst to Assuming the Best</h2>
+<p dir="ltr">Using techniques from CBT, there are simple, actionable steps to counter assumptions:</p>
 <ol>
-<li>Alcohol reduced cognitive control (less focus).</li>
-<li>Mild amounts of alcohol improved insight-based creativity (problem-solving).</li>
-<li>Alcohol did not improve divergent thinking (brainstorming, novel ideas). </li>
+<li dir="ltr">Label the thought: When you notice an assumption forming, label it: “I’m assuming she’s mad at me.” Naming it creates psychological distance, and it becomes something you’re observing rather than something you automatically believe.</li>
+<li dir="ltr">Check the Facts: Ask: What do I know for sure? What am I filling in? Separating observable facts from interpretations is one of the fastest ways to reduce emotional escalation.</li>
+<li dir="ltr">Look for Disconfirming Evidence: Our brains naturally scan for proof that supports existing beliefs. Instead, intentionally search for information that contradicts your assumption. This strengthens cognitive flexibility and weakens rigid thinking patterns.</li>
+<li dir="ltr">Remember, Context Matters: Most behavior makes sense when you zoom out. Stress, fatigue, distraction, or personal struggles often explain actions more accurately than character flaws. This context softens judgment and fosters compassion.</li>
+<li dir="ltr">Ask for Clarity: When possible, replace guessing with communication. A simple, curious question (“Hey, I noticed you were quiet earlier—everything OK?”) can prevent days of unnecessary emotional fallout.</li>
 </ol>
 
-<p>It’s important to note that the effects were observed at very low levels of intoxication (about one drink) and the benefits were task-specific (the RAT). It's possible that higher doses of alcohol may impact later stages of the creative process.</p>
-<p>A more recent study (2020) analyzed the effects of varied alcohol doses (BAC .00, .03, .06) on a sample of 125 individuals relative to their creativity and cognitive control. The findings indicated that higher alcohol levels significantly impaired verbal fluency. </p>
+<p dir="ltr">In my therapeutic work, there have been many times when a client caught an assumption, recognized it wasn’t true, and spared themselves pain. </p>
+<p dir="ltr">One client had a tendency to interpret social situations through longstanding beliefs of exclusion and inadequacy. When she learned about an upcoming trip she wasn’t invited to, she immediately experienced it as a confirmation of a familiar narrative: “Why am I the only one not included?” </p>
+
+
+<p dir="ltr">Once we paused to acknowledge the automatic assumption that others were intentionally excluding her, we began asking a different question: What information might be missing here? As we explored the situation further, she realized several of her friends had closer relationships with the host, and that she wasn’t actually the only one who hadn’t been invited. In fact, a handful of her friends weren’t invited either.</p>
+
+<p dir="ltr">By slowing down and questioning the story her mind quickly constructed, she spared herself several layers of unnecessary emotional and relational pain: resentment toward her friends, reactive interpersonal behavior, and reinforcement of a deeply painful core belief about not belonging.</p>
+<p dir="ltr">Moments like this are what cognitive flexibility looks like in real time: the ability to pause, examine an assumption, and consider that the story we’re telling ourselves may not be the full picture.</p>
 
 
 
   
 
 
-<p>At the same time, results showed no significant effect on either divergent or convergent thinking (again, the RAT was the primary evaluative measure). In addition, cognitive control was shown to decline with higher doses of alcohol. Interestingly, this research challenges earlier studies, suggesting that alcohol’s creativity benefits are often inconsistent or minimal.</p>
-
-<h2>What These Findings Tell Us About Alcohol and Creativity</h2>
-<p>Additional research on the link between creativity and alcohol seems to be warranted. Nevertheless, there are several immediate implications to consider concerning this relationship.</p>
-<ol>
-<li>Low doses of alcohol can lower inhibitions while increasing more risk-taking. Conversely, while alcohol reduces inhibitions, sustained creative work requires a state of mental clarity.</li>
-<li>Low doses of alcohol seem to help in the generation of ideas—but at the same time, it impairs one’s ability to shape and complete those thoughts.</li>
-<li>Higher doses of alcohol impair fluency and memory. Those effects are likely due to reduced cognitive functioning.</li>
-<li>While mild amounts of alcohol may improve certain creative problem-solving tasks (convergent thinking), it did not improve innovation or originality (divergent thinking) in the studies above.</li>
-<li>Alcohol often reduces control, which can be either harmful or helpful depending on the creative thinking necessary.</li>
-</ol>
-
-<p><strong>Bottom line: </strong>Alcohol does not seem to boost overall creativity specifically. Its influence may be more determined by the intersection of personal regulation and the quest for long-term imaginative thinking.</p>
+<p dir="ltr">Assumptions are human. They are efficient, and sometimes they are protective, but when left unchecked, they can quietly distort reality and damage connection.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/creative-insights/202603/does-alcohol-boost-creativity" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-now/202603/why-we-assume-the-worst-and-how-to-stop" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/creative-insights/202603/does-alcohol-boost-creativity</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creative-insights/202603/does-alcohol-boost-creativity</guid>
-            <dc:creator><![CDATA[Anthony D. Fredericks Ed.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-now/202603/why-we-assume-the-worst-and-how-to-stop</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-now/202603/why-we-assume-the-worst-and-how-to-stop</guid>
+            <dc:creator><![CDATA[Amy Vigliotti Ph.D.]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/drinking_-_2.jpg?itok=F3EI5xZl" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/vitaly_gariev.jpg?itok=1QDO-YYs" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Why Bigfoot Believers Don’t Change Their Minds]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Karen-Stollznow.jpg?itok=xQIKJh9u" alt="Karen Stollznow Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Bigfoot Believers Don’t Change Their Minds</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When evidence alone isn’t enough to shift belief.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How Do You Know if Someone Is Lonely?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/_1_-_Hans_-_HeadshotPro-removebg-preview.jpg?itok=Kbi5-30y" alt="Hans Rocha IJzerman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Do You Know if Someone Is Lonely?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Finding out whether someone is lonely depends on how you ask.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Belief perseverance is the persistence of belief even after the evidence supporting them has been discredited.</li><li style="margin-bottom:6px;">People don’t simply abandon beliefs when faced with contradictory evidence. Instead, they often maintain them.</li><li style="margin-bottom:6px;">Beliefs are shaped by identity, experience, community, and story, and guide how we interpret new information.</li>
+              <li style="margin-bottom:6px;">No loneliness measure scores well on all three quality dimensions. That's a problem for policy.</li><li style="margin-bottom:6px;">The same population can look 20 percentage points more or less lonely depending on the measure.</li><li style="margin-bottom:6px;">A traffic light system rates loneliness measures on comparability, validity, and coverage.</li>
             </ul>
           </div>
-                    <p dir="ltr">The documentary <em>Capturing Bigfoot</em> premiered recently at the South by Southwest (SXSW) festival, and it’s already generating controversy for its claim that a famous piece of footage may actually be a hoax. </p>
-<p dir="ltr">This is the feted Patterson-Gimlin film, the iconic 1967 footage of a “Bigfoot” trekking through the forest near Willow Creek, California. Shot by Roger Patterson and Robert Gimlin, it depicts an unidentified hairy figure that the filmmakers claimed was a female Bigfoot. The film has long been touted as the “gold standard” of Bigfoot evidence. </p>
+                    <p>Two reports on U.S. loneliness came out in 2025. One said about<a href="https://socialconnectioninamerica.org/"> 41 percent of adults were lonely</a>. The other said <a href="https://img.nivea.com/-/media/nivea/general/brand/documents/nivea_report_final.pdf">about 61 percent</a>. Same country, same year—a 20-percentage-point gap.</p>
+<p>These weren't fringe studies. These were experts using established measurement tools. And yet they painted fundamentally different pictures of the same population. If the numbers can swing that much depending on which questionnaire you pick up, what are we actually tracking?</p>
 
-<p dir="ltr">The new documentary introduces an earlier video, a purported “dress rehearsal” filmed in 1966. </p>
-<p dir="ltr">If authentic, this finding poses a direct challenge to the film’s credibility. Yet some Bigfoot believers have already been reluctant to accept the possibility that the Patterson–Gimlin film is a hoax, even without having seen the new footage, instead suggesting that the newly surfaced material must be fraudulent. For others, the controversy has only reinforced their belief in Bigfoot.</p>
+<p>My colleagues and I have been digging into this through <a href="https://lonelinessineurope.eu/">the LONELY-EU project</a>, a European Union-funded effort to evaluate how loneliness is measured across all 27 EU member states. We recently published two policy briefs—one on<a href="https://zenodo.org/records/18786591"> Europe's measurement challenge</a> and one on <a href="https://zenodo.org/records/18786602">a quality rating system</a> we developed to address it—and I want to share what we found, because it has implications well beyond the EU.</p>
 
-<p dir="ltr">We’re not here to debate the existence, or nonexistence, of Bigfoot, but to examine something else: the persistence of belief. </p>
-<p dir="ltr">Even if the most famous piece of Bigfoot evidence were conclusively proven fake, it is unlikely that belief in Bigfoot would disappear.</p>
-<h2>Why Belief Persists, Even When the Evidence Doesn’t </h2>
+<h2>The Ruler Problem</h2>
+<p>Loneliness is linked to a <a href="https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=3024&amp;context=facpub">26 percent increased risk of early death</a>. In Spain alone, it's estimated to cost <a href="https://www.soledades.es/estudios/el-coste-de-la-soledad-no-deseada-enespana">more than €14 billion a year</a>. The <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5851382/">UK</a> and <a href="https://japan.kantei.go.jp/99_suga/actions/202109/_00033.html">Japan</a> have appointed loneliness ministers. The former U.S. Surgeon General has declared it a <a href="https://www.wbur.org/onpoint/2020/03/23/vivek-murthy-loneliness">public health crisis</a> (but <a href="https://www.psychologytoday.com/us/blog/202504/loneliness-is-not-an-epidemic">see this post</a> as a reminder about it not being an epidemic). The World Health Organization has launched <a href="https://www.who.int/publications/i/item/978240112360">a Commission on Social Connection</a>. There's real political momentum here. But as we lay out in our <a href="https://zenodo.org/records/18786591">measurement challenges policy brief</a>, the tools we use to measure loneliness weren't built for what we're now asking them to do.</p>
 
-<p dir="ltr">Psychologists call this phenomenon <em>belief</em> <em>perseverance</em>. This is the tendency for beliefs to persist even after the evidence supporting them has been discredited. Closely related to what researchers describe as the “continued influence effect,” it reflects a broader cognitive bias in how we process information.</p>
+<p>When our team evaluated the<a href="https://osf.io/preprints/psyarxiv/tk68s"> major loneliness questionnaires </a>across all 27 EU countries—surveying more than 25,000 people—we ran into a paradox. The one measure that <em>can</em> be meaningfully compared across all countries (the Three-Item UCLA Loneliness Scale) mostly captures the painful <em>feeling</em> of being lonely. It's weaker at picking up whether someone actually lacks social relationships or faces structural barriers to connection. So a program that successfully connects isolated people might look like it failed—not because it didn't work, but because the tool can't see what changed.</p>
 
-<p dir="ltr">Decades of research suggest that people don’t simply abandon beliefs when faced with contradictory evidence. Instead, they often maintain them, and in some cases, become even more committed to them, especially when those beliefs are personally meaningful or long-held (Anglin, 2019). Even clear attempts at correction can fail to dislodge the original belief.</p>
+<p>The measure that <em>does</em> capture the full picture—emotional distress <em>and</em> social support (the De Jong Gierveld Scale)—can only be reliably compared across 5 of 27 EU countries. Use it to compare loneliness in France versus Poland, and you may be comparing apples to something that isn't even fruit. And then there's the single-question approach ("How often do you feel lonely?"), which many surveys still rely on. Our data show it fails validity checks in eight countries and can't capture the multidimensional nature of loneliness at all.</p>
 
-<p dir="ltr">Seen through this lens, the endurance of Bigfoot belief is not especially surprising. If anything, it offers a vivid illustration of belief perseverance in action: a case where disconfirming evidence does little to weaken conviction and may even strengthen it.</p>
-<h2>The Stories We Tell </h2>
-<p dir="ltr">Why do beliefs persist even when they are directly challenged, or even discredited?</p>
+<h2>It's Not Just a Methods Problem</h2>
+<p>An elderly widow in rural Greece experiences loneliness differently from a young professional in Amsterdam or a refugee in Berlin. Current instruments—developed primarily in the United States and the Netherlands—may not capture these variations. When a measure can't "see" certain forms of loneliness, whole populations drop out of the data. And populations that don't show up in the data don't get resources.</p>
 
-<p dir="ltr">Psychological research offers a clear answer: We don’t evaluate evidence neutrally. People tend to judge information more favorably when it aligns with their existing beliefs, and to scrutinize or dismiss it when it doesn’t (Bryanov and Vziatysheva, 2021). More broadly, belief updating is shaped not just by evidence but by our prior beliefs, preferences, and identities, which influence how we interpret new information (Oeberst and Imhoff, 2023).</p>
+<p>Within the same EU country, prevalence estimates from different surveys in the same year can differ by 8 percentage points or more. Try evaluating whether a national loneliness strategy is working when the numbers shift that much depending on the questionnaire.</p>
+<h2>A Traffic Light System</h2>
+<p>In our <a href="https://zenodo.org/records/18786602">measurement quality policy brief</a>, we introduce a traffic light rating system to help navigate this problem. It evaluates every loneliness measure on three dimensions: Can you compare scores across countries? Does it actually measure loneliness (and not depression or general dissatisfaction)? And does it capture the full range of loneliness experiences?</p>
 
-<p dir="ltr">This helps explain why belief perseverance is such a powerful force. When a belief is challenged, what’s at stake is rarely just a single claim. It’s usually something more personal.</p>
-<p dir="ltr">Belief perseverance is the psychological engine behind Bigfoot culture. For many Bigfoot believers, beliefs are not simply about facts. They may be grounded in lived experience, something seen, heard, or felt. They are reinforced through community, where belief fosters connection, shared purpose, and even status or expertise within the group. In this context, abandoning the belief isn’t simply a matter of “updating” one’s view in light of new evidence. It can feel like losing part of one’s identity.</p>
 
-<p dir="ltr">There are other forces at work as well, including sunk cost. The more money, time, effort, and emotion people have invested, through research, travel, or years of engagement, the harder it becomes to let go. And then there is the power of narrative. A vivid, compelling story will often outlast attempts to correct it. Once established, these stories are remarkably resistant to revision.</p>
+<p>Green means strong evidence. Yellow means caution. Red means don't use this for the decision you're trying to make.</p>
+<p>No existing measure gets green across all three. The UCLA scale scores green on comparability and validity, but yellow on content coverage. The De Jong Gierveld scale scores green on validity and content, but red on comparability. The single-item measure: red, yellow, red.</p>
+
+<p>The picture is sobering, but at least it's honest. If you're a policymaker deciding how to track loneliness across a continent, you need to know what your tools can and can't do.</p>
+<h2>What Comes Next</h2>
+<p>We're developing the EU SIL Index—a new measure designed to achieve what no current tool does: reliable cross-country comparability <em>and</em> comprehensive content coverage across the broader domains of social connection, calibrated over multiple EU countries and translated into multiple EU languages. </p>
 
 
 
   
 
 
-<p dir="ltr">Seen this way, the reaction to <em>Capturing Bigfoot</em> is not unusual. Faced with potentially disconfirming evidence, some believers double down rather than reconsider. The pattern is familiar, extending well beyond Bigfoot to conspiracy thinking, misinformation, and other enduring paranormal claims, from the Surgeon's Photograph of the “Loch Ness Monster” to the Cottingley Fairies, and the Shroud of Turin.</p>
+<p>But a better questionnaire alone won't get us there. Europe also needs the infrastructure to use it well: coordinated data collection, quality assurance protocols, and integration with statistical agencies. You don't just need a good test—you need a system for administering it, collecting the results, and acting on them.</p>
 
-<p dir="ltr">What this reveals is not just something about Bigfoot belief, but about human cognition more generally. We do not simply hold beliefs; we defend them, inhabit them, and, when challenged, we often work hard to preserve them. </p>
-<h2>What Belief in Bigfoot Reveals About Us </h2>
-<p dir="ltr">Even if the most famous Bigfoot footage were definitively proven fake by <em>Capturing</em> <em>Bigfoot</em>, belief would likely persist. Not because the evidence is strong, but because belief is not just about evidence.</p>
-
-<p dir="ltr">Belief in Bigfoot offers a window into how we all think. Our beliefs are shaped by identity, experience, community, and story, and once established, they guide how we interpret new information. We don’t just hold beliefs; we see the world through them. And when they’re challenged, we often respond not by abandoning them, but by defending them.</p>
-
-<p dir="ltr">That is why Bigfoot, real or not, is unlikely to disappear anytime soon.</p>
+<p>We know that social connection matters. Our ability to track it, compare it across populations, and figure out whether our interventions actually work depends on getting measurement right. It's not the most glamorous part of this conversation, but I'd argue it's the most consequential.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/speaking-in-tongues/202603/why-bigfoot-believers-dont-change-their-minds" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/body-meet-mind/202603/how-do-you-know-if-someone-is-lonely" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/speaking-in-tongues/202603/why-bigfoot-believers-dont-change-their-minds</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/speaking-in-tongues/202603/why-bigfoot-believers-dont-change-their-minds</guid>
-            <dc:creator><![CDATA[Karen Stollznow Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/body-meet-mind/202603/how-do-you-know-if-someone-is-lonely</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/body-meet-mind/202603/how-do-you-know-if-someone-is-lonely</guid>
+            <dc:creator><![CDATA[Hans Rocha IJzerman Ph.D.]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-gabesphotos-10695899.jpg?itok=hRPacl7_" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-victor-150585-448834.jpg?itok=m2pp02r3" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Why Good Parents Sometimes Push Their Adult Children Away]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image0_1_-removebg-preview.png.jpg?itok=9LsLSHnF" alt="Jeffrey Bernstein Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Good Parents Sometimes Push Their Adult Children Away</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Three habits that feel like love to parents yet pressure their adult children.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Maybe You Don’t Have Anxious Attachment]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jim-taylor_0.jpg?itok=G0n8nRR7" alt="Jim Taylor Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Maybe You Don’t Have Anxious Attachment</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Your relationship struggles may be tied to the stories you tell yourself.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Patterns that may feel like caring for the parent can put pressure on the adult child.</li><li style="margin-bottom:6px;">The parents who stay closest to their adult children are not the ones who care less.</li><li style="margin-bottom:6px;">Parents who stay closest to their adult children are those who learn to care in a quieter, nonintrusive way.</li>
-            </ul>
-          </div>
-                    <p>Over the past several years, I have seen a steady increase in parents reaching out to me, confused and hurt by their relationships with their adult children. These are not neglectful parents. Typically, they are thoughtful, caring, and emotionally invested in their adult children's lives. It is heartbreaking when I hear things like, "He barely calls or texts anymore," or "She gets so defensive as soon as I say anything," or "We used to be so close, but now everything is just so damn tense."</p>
-
-<p>In all these cases, the distance is not caused by a lack of love. Rather, it is caused by patterns that feel like caring for the parent and pressure on the adult child. Here are three of the most common ones that I see. The names below have been changed to preserve the confidentiality of my parent-coaching clients and their adult children. </p>
-
-<h2>1. Advice That Feels Like Criticism</h2>
-<p>This is a true parent-adult child relationship eroder. Linda, 65, reached out to me, stating that she just wants to be supportive of her adult daughter, Christi, age 31, in making decisions. After speaking with Linda, I learned that she asks Christi things like: "Are you sure this job is right for you?" or "Don't you think you should be putting more money away?" or " Christi, you are not getting any younger; when are you going to settle down?" </p>
-
-<p>Linda hears her own concern in her voice. Christi hears disappointment. Many parents don't realize that once a child becomes an adult, repeated advice can sound more like. "You are living your life the wrong way."</p>
-<h2>2. Wanting More Contact Than the Adult Child Is Comfortable Giving </h2>
-<p>Tom, age 58, feels hurt that his son, Billy, age 27, only calls him every few weeks. Tom says to Billy, "You never make time for us anymore." "We used to be closer." "It seems like your work has gotten in the way or maybe even become more important than your family."</p>
-
-<p>Billy feels that Tom is trying to make him feel guilty. Tom, on the other hand, is trying to express to Billy that he really misses him. But Billy experiences Tom's comments as pressure rather than a connection. </p>
-<p>Billy represents grown children who are trying to juggle careers, relationships, finances, and stress in ways that leave them with less energy than parents expect or understand. When every conversation turns to the frequency of contact, the adult children may pull away even more. </p>
-
-<h2>3. Holding on to the Parent Role Too Tightly</h2>
-<p>Carol still feels responsible for her 33-year-old daughter, Sara's, life choices. She worries about money, health, and relationships, and she conveys that way too often. When Carol wraps it in the paper that reads "I just want the best for you," she is sure that Sara can understand and appreciate her well-meaning intentions. But Sara hears, "I still don't trust you to run your own life."</p>
-
-<p>Carol helps illustrate that one of the greatest shifts to navigate in parenting is from being "in charge" to becoming a supporter. Yet when parents still act like managers, their grown children pull away to protect their independence. </p>
-<h2>The Takeaway</h2>
-<p>The parents who stay closest to their adult children are not the ones who care less. They are the ones who learn to care in a quieter, nonintrusive way. </p>
-
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202603/why-good-parents-sometimes-push-their-adult-children-away" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202603/why-good-parents-sometimes-push-their-adult-children-away</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202603/why-good-parents-sometimes-push-their-adult-children-away</guid>
-            <dc:creator><![CDATA[Jeffrey Bernstein Ph.D.]]></dc:creator>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/adult_child_reading_viktor-forgacs-x7h5hlsbywo-unsplash.jpg?itok=4LKuHSoS" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do You Really Think You Know What Forgiveness Is?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/robert_enright.jpg?itok=xlIHvMpI" alt="Robert Enright Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Forgiveness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do You Really Think You Know What Forgiveness Is?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Is forgiveness so subjective that it is whatever you think it is? Let's explore.</h2><p style="font-size:0.9em;color:#666;">Posted March 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Forgiveness is not easy to define, based on the many definitions that appear in the psychological literature.</li><li style="margin-bottom:6px;">It is vital to have a common definition of forgiveness for science to proceed.</li><li style="margin-bottom:6px;">Science, mental health practice, and self-help approaches all need to understand clearly what forgiveness is.</li>
+              <li style="margin-bottom:6px;">The signal is the emotions and physiology you experience when you perceive a situation as a threat.</li><li style="margin-bottom:6px;">The story is what you tell yourself to reduce uncertainty, even if the story is more painful.</li><li style="margin-bottom:6px;">Focus on the signal and avoid telling the story to help change how you handle life situations.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/kiosea39_dreamstime_smaller_0.png.jpg?itok=L-KU1nvQ" width="320" height="240" data-insert-type="image" title="Kiosea39 / Dreamstime" alt="Kiosea39 / Dreamstime"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Kiosea39 / Dreamstime</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/antranias-person-409127_1920.jpg?itok=aCNjnE6I" width="320" height="213" data-insert-type="image" title="Antranias/Pixabay" alt="Antranias/Pixabay"></div>
+<div class="insertArea--origin subtext">Source: Antranias/Pixabay</div>
 </div>
 </div>
 </div>
-<p>In February 2025, an entire issue of the American Psychological Association's <em>Journal of Theoretical and Philosophical Psychology</em> was devoted to the question of how to define forgiveness accurately (<a href="https://doi.org/10.1037/teo0000278">Song et al., 2025</a>). It took six psychologists and three philosophers 68 pages to wrestle with the question posed here: What exactly is forgiveness, and can we reach an agreement on it? In this post, I want to share the struggles that these academic professionals had as they grappled with the question. I will pose nine statements about what forgiveness might be. Your task is to choose what you think is the one and only right answer. I then will give you my view on each of them so that you can continue to think more deeply about what forgiveness is, so that you can accurately and possibly successfully complete the task of forgiving if or when someone is deeply unjust to you.</p>
+<p>How often have you heard this from people explaining their relationship challenges: “I have anxious attachment?” <a href="https://pubmed.ncbi.nlm.nih.gov/3572722/">Attachment theory</a> has become part of what I call the “Relationship-Industrial Complex” and is an essential term in our relationship vocabulary. It suggests that relationships demonstrate one of three patterns: anxious, avoidant, or secure. It’s used as both an explanation and an excuse for struggling relationships and other difficulties we often face in our lives. And sometimes it’s accurate; many people do experience anxious attachment in even the most loving relationships.</p>
 
-<p>Here is your forgiveness exam. Choose what you consider to be the best answer to the question, “What exactly is forgiveness?”:</p>
-<ol>
-<li>This is a trick question because there are wide variations across cultures on how forgiveness is expressed.</li>
-<li>When people forgive, the key issue is that they move on from the situation by putting it behind them.</li>
-<li>When people forgive, they can forget what happened to them, so the unjust situation no longer bothers those who forgave.</li>
-<li>When people forgive, they stop seeking a fair solution to the problem between themselves and the people who behaved badly.</li>
-<li>When people forgive, they try to rise above their angry feelings by thinking positive thoughts about issues that do not necessarily relate to the injustice.</li>
-<li>When people forgive, they try to rise above their angry feelings by thinking positive thoughts about the person who was unfair. </li>
-<li>When people forgive, they come together with the one who offended them, and so they have mutual trust.</li>
-<li>When people forgive, they try, as best they can today, to be good in thoughts, feelings, and behaviors to the one who offended them.</li>
-<li>When people forgive, they try to reduce resentment (in thoughts, feelings, and behaviors) and offer love (all three aspects) toward the offending person for the other’s sake.</li>
-</ol>
+<p>But just as often, what people are experiencing isn’t that readily explainable because attachment isn’t a dichotomous style (or a label); rather, it lies along a continuum of how we connect with others. And one location along that spectrum is what I call “signal/story attachment.” It is a very human process in which the mind confuses two different internal experiences: signal and story. Understanding the difference can immediately reduce distress and improve how you respond to difficult relationship moments.</p>
 
-<p>Here are the answers, derived from the Aristotelian assumption (Song et al., 2025), consistent with science, that forgiveness does have an objective reality that can be understood, measured, and tried toward the goal of improving one's own well-being and possibly that of the ones who were unjust.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/cunaplus_dreamstime.jpg?itok=Z3AYxG2a" width="320" height="221" data-insert-type="image" title="Cunaplus / Dreamstime" alt="Cunaplus / Dreamstime"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Cunaplus / Dreamstime</div>
-</div>
-</div>
-</div>
-<ol>
-<li><em>Incorrect. </em>If forgiveness is so flexible that it cannot be defined across cultures, then there can be no science of forgiveness. Science is to look at laws or commonalities across situations. Even if cultures have some differences, which Aristotle called accidents, these accidents do not detract from a common theme of forgiveness across cultures. This essence, or the objective commonalities, makes the development of forgiveness measures possible. Philosophers such as <a href="https://doi.org/10.1017/S003181910003905X">North (1987)</a> and <a href="http://www.jstor.org/stable/20014472">Holmgren (1997)</a> define forgiveness as a moral virtue. All moral virtues concern the good of others. The specific philosophical difference between forgiveness and all other moral virtues is this: The forgiver deliberately is good to the one who acted badly. A complete moral virtue includes affect (such as empathy and compassion), cognition (understanding the inherent worth of the offending person), and behavior (merciful actions toward that person), including the diminishing of the negatives in these three qualities.</li>
-<li><em>Incorrect. </em>People can "put the situation behind” them, but still be deeply bothered by ongoing anger or even hatred toward the offending person. This is the opposite of exercising a moral virtue.</li>
-<li><em>Incorrect.</em> We rarely completely forget trauma against us. As an analogy, if you ever fell and broke a bone, you don't forget this. Instead, you remember in new ways. Besides this, forgiveness is not about focusing on and responding to the injustice itself but on the person who engaged in that injustice.</li>
-<li><em>Incorrect. </em>As Aristotle reminds us, when we exercise a moral virtue, we should do so along with other moral virtues. In other words, forgiveness and justice can be exercised together.</li>
-<li><em>Incorrect.</em> This describes a distraction, and this has nothing to do with the one who acted unfairly. Thus, such distractions are not moral virtues, and so this is not what forgiveness is.</li>
-<li><em>Partially correct. </em>Yes, we strive to reduce negative thoughts about the offending person, but this done exclusively is too reductionistic regarding what a moral virtue is (see the response to issue #1 above).</li>
-<li><em>Incorrect. </em>This definition confuses forgiving and reconciling. Reconciliation occurs when two or more people come together again in mutual trust. If the other cannot be trusted, a person can forgive and then not reconcile.</li>
-<li><em>Partially correct. </em>Yes, as people forgive, they strive to be good to the one who was unfair. Yet, this is too reductionistic because a full moral virtue also would include striving to get rid of negative feelings (resentment), cognitions (condemning thoughts), and behavior (revenge), along with the positive qualities.</li>
-</ol>
+<h2>Signal: What Is Real and Immediate</h2>
+<p>When something unsettling happens, your body reacts first. A delayed text. A change in tone. A moment of distance. Your nervous system registers a potential threat. This is not pathology. It’s basic biology. It’s your survival instinct kicking in. Emotions such as anxiety, sadness, frustration, or anger are signals that something meaningful is happening. From an evolutionary perspective, these emotional responses are designed to orient you toward potential threats and mobilize attention and action to remove the threat. The key point is this: The signal is tied to the present moment. It reflects what is happening right now and how your system is interpreting it. Though a clearly unpleasant emotional and physiological experience, it is nonetheless normal, healthy, and often positive information that you should listen to.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/georgenightingale_dreamstime.jpg?itok=IJbooRPw" width="320" height="213" data-insert-type="image" title="Georgenightingale / Dreamstime" alt="Georgenightingale / Dreamstime"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Georgenightingale / Dreamstime</div>
-</div>
-</div>
-</div>
-<p>9. <em>Yes, </em>this is the most complete definition of forgiveness because it captures the essence of a moral virtue in the context of being treated unfairly. It includes diminishing the negative issues and developing the positive toward the offending person for that person's sake.</p>
-<p>Your thinking through the essence of forgiveness is important so that you do not go down a path that is not forgiveness. In my experience, many people use the word “forgiveness” but never have taken the time to deeply explore what it is and what it is not. May your forgiveness journey, if you choose to embark on it, be accurate and successful.</p>
+<h2>The Purpose of the Signal</h2>
+<p>Emotional signals are not problems to eliminate. They serve specific, important functions.</p>
+<ul>
+<li>They invite awareness. Emotions direct your attention toward something that matters.</li>
+<li>They slow you down. When you feel something strongly, your system is trying to interrupt automatic or impulsive behavior.</li>
+<li>They prompt care. Signals often indicate a need for support, patience, or self-regulation.</li>
+</ul>
 
+<p>Research on <a href="https://pubmed.ncbi.nlm.nih.gov/20015584/">emotion regulation</a> consistently shows that acknowledging emotions, rather than suppressing them, leads to better psychological outcomes. In short, the signal is an ally that should be attended to, not the enemy that should be avoided at all costs.</p>
+<p>The problem is that when we feel some sort of pain, including emotional pain, our evolutionarily developed reaction is to do everything we can to not feel that pain. That’s where the story comes in.</p>
+
+<h2>The Story: What the Mind Adds</h2>
+<p>Very quickly, the mind begins to interpret the signal. It creates a story around that signal with the intention of easing our pain.</p>
+<ul>
+<li>“I’m screwed.”</li>
+<li>“I’ll never be successful.”</li>
+<li>“They’re losing interest.”</li>
+<li>“I’m falling behind everyone else.”</li>
+<li>“I don’t know who I am without this.”</li>
+<li>“They’ll come back to me, I’m sure of it.”</li>
+<li>“I’ll show them!”</li>
+</ul>
+
+<p>These are the stories we tell ourselves. Some are short stories, even one-liners. Other stories are elaborate fantasies that extend far into the future. Some are incredibly negative, simply affirming definitively what we believe in the moment. Other stories are the exact opposite. They are triumphal tales of the relationship working out, getting the job in the end, or getting a better one. Unfortunately, though these stories provide temporary emotional relief, they make things worse in the end because they anesthetize us against the signals we don’t want to, but really need to, listen to.</p>
+
+
+<p>The story is not the event itself. It is the meaning you assign to the event. And the mind is wired to generate meaning rapidly, often with incomplete information. From a cognitive perspective, this reflects automatic thought patterns and predictive processing. The brain is constantly trying to reduce uncertainty by constructing narratives about what is happening and what will happen next.</p>
+
+<h2>How the Story Amplifies Suffering</h2>
+<p>The real pain is not the initial emotional signal (though it is certainly unpleasant). It is what the story does to it; the story intensifies the signal. It stretches a present-moment reaction into an imagined catastrophic future. It converts uncertainty into painful certainty. The paradox here is that, from an evolutionary perspective, we would rather know that something bad is going to happen than not know what the future portends.</p>
+
+
+
+  
+
+
+<p>Most importantly, it shifts the threat from the situation to the self. A delayed reply becomes “I’m not wanted.” A setback becomes “I’m a failure.” This shift is critical. What began as a manageable emotional response to an immediate concern becomes a broader psychological threat to our very value as people. This pattern aligns with what cognitive models describe as <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10573573/">catastrophizing and overgeneralization</a>, both of which are strongly associated with anxiety and distress.</p>
+
+<h2>Separating Signal From Story</h2>
+<p>The goal is not to eliminate the emotions in any particular moment. It is to separate the signal from the story. Start by allowing the emotional signal without resistance. If you feel anxious, acknowledge that anxiety is present.</p>
+<p>Then notice when your thinking shifts from what hurts (the signal) to what it means (the story). That transition is the moment where signal becomes story. It’s also the moment when the pain of the situation becomes the excruciating pain of self-judgment and failure. Even when the story feels helpful or protective (yes, it does dull the pain in the short term), it often adds unnecessary suffering in the long run. Instead of resolving uncertainty, it ultimately amplifies it. And, in doing so, the “volume” of the pain gets much louder too.</p>
+
+<h2>Grounding Back in the Signal</h2>
+<p>A more effective response is to return to what is real, present, and actionable. In other words, what you are feeling in the moment (the signal).</p>
+<ul>
+<li>Name the emotion without interpretation: “This is anxiety.” “This is sadness.”</li>
+<li>Acknowledge that it hurts, but also realize that it will pass if you allow it to.</li>
+<li>Bring your attention back to what you can control now, for example, work, family and friends, self-care.</li>
+<li>When you feel the pull toward telling a story, remind yourself that a story will only make it worse.</li>
+<li>Now, here’s the hard part. Choose not to tell yourself the story. Redirect your attention, immerse your mind in something (e.g., a book, music, time with friends, exercise), or do something you enjoy. All of these not only distract you from creating a story, but they also generate positive emotions and physiology that ease the signal.</li>
+<li>Overall, let the larger meaning of the current situation reveal itself over time, rather than constructing a narrative prematurely that will likely not turn out to be true.</li>
+</ul>
+
+<p>This approach is consistent with <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3772979/?utm_source=chatgpt.com">mindfulness-based interventions</a>, which emphasize present-moment awareness and nonjudgmental observation of thoughts and emotions.</p>
+<h2>A Different Way to Understand Yourself</h2>
+<p>Before concluding that something is fundamentally wrong with you and assigning a label, anxious attachment, that may not accurately reflect your state of mind, consider a simpler explanation: Maybe you don’t have anxious attachment. As a result, you aren’t doomed to a life of loneliness (talk about catastrophizing!). You may simply be experiencing a normal emotional signal that you are in a situation that isn’t healthy for you (no matter how much you wish it were otherwise) and then telling yourself a story that will make things much harder than they are now. If you stop the story, you not only ease your pain, but you also begin to rewire your brain so that, with enough practice, you no longer have to resist telling yourself a story, but rather can just sit with the signal until it passes (and I assure you it will).</p>
+
+<p>Learning to distinguish between signal and story doesn’t eliminate emotional pain or failed relationships. But it prevents you from adding insult to injury in an already challenging moment. And, in some cases, it also may just salvage the situation you are in or enable you to move on more quickly to a life situation that is healthy and fulfilling. And that shift alone can change how you experience relationships, performance, and life.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-forgiving-life/202603/do-you-really-think-you-know-what-forgiveness-is" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-power-of-prime/202603/maybe-you-dont-have-anxious-attachment" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-forgiving-life/202603/do-you-really-think-you-know-what-forgiveness-is</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-forgiving-life/202603/do-you-really-think-you-know-what-forgiveness-is</guid>
-            <dc:creator><![CDATA[Robert Enright Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-power-of-prime/202603/maybe-you-dont-have-anxious-attachment</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-power-of-prime/202603/maybe-you-dont-have-anxious-attachment</guid>
+            <dc:creator><![CDATA[Jim Taylor Ph.D.]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/kiosea39_dreamstime__1046x1280_.jpg?h=040e1711&amp;itok=NhSHeMLq" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/antranias-person-409127_1920.jpg?itok=H8oVmxkQ" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
