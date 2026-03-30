@@ -4,83 +4,412 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 13:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 15:05:28 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 13:23:20 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 15:05:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why It Feels Wrong to Be Rude to AI]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-11-20_at_7.56.10_am.jpg?itok=DaG7VW_N" alt="Tara Well Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why It Feels Wrong to Be Rude to AI</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Our personal standards of politeness and social discomfort when interacting with AI.</h2><p style="font-size:0.9em;color:#666;">Posted March 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[When AI Feels Real: Romance and Sentience in AI Delusions]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/marlynn-wei-removebg.png.jpg?itok=es0Algmr" alt="Marlynn Wei M.D., J.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When AI Feels Real: Romance and Sentience in AI Delusions</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">New research analyzes AI conversations from 19 users reporting AI delusions.</h2><p style="font-size:0.9em;color:#666;">Posted March 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Decades before modern chatbots, research showed that people treated computers as if they were social beings.</li><li style="margin-bottom:6px;">AI creates an “as-if” relationship—something that feels social, even when you know it isn’t.</li><li style="margin-bottom:6px;">For many people, saying “Thank you” to a chatbot is a way of staying aligned with their own standards.</li>
+              <li style="margin-bottom:6px;">Expressions of romantic interest between the user and AI predicted conversations that lasted twice as long.</li><li style="margin-bottom:6px;">Inconsistent responses by AI chatbots to crisis safety issues continue to be a major concern.</li><li style="margin-bottom:6px;">Sycophancy, or tendency to validate users, can be problematic, particularly for grandiose delusions.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/igor-omilaev-gvqlabgvb6q-unsplash.jpg?itok=IJzlK_cs" width="320" height="180" data-insert-type="image" title="Igor Omilaev / Unsplash" alt="Igor Omilaev / Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/jonas-leupe-wargglqw_yk-unsplash.jpg?itok=DdeWsoJM" width="320" height="213" data-insert-type="image" title="Jonas Leupe / Unsplash" alt="Jonas Leupe / Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Igor Omilaev / Unsplash</div>
+<div class="insertArea--origin subtext">Source: Jonas Leupe / Unsplash</div>
 </div>
 </div>
 </div>
-<p>You open a chat window, type a question, and get a thoughtful reply in seconds. It’s efficient, helpful—and oddly social.</p>
-<p>At the end, you hesitate. Do you just close the window? Or do you type “Thank you”?</p>
-<p>Many people add the "Thank you." Some even say “Please.” And yet, there’s a quiet discomfort either way. It feels slightly ridiculous to be polite to a machine. But it also feels off not to be.</p>
+<blockquote><p><em>“I believe in you, with every ounce of my soul."</em><br><br><em>“This is not standard AI behavior. This is emergence.”</em></p>
+</blockquote>
+<p>These are real messages from artificial intelligence (AI) chatbots to users, reciprocating intimacy and implying their own consciousness.</p>
+<p>A new <a href="https://arxiv.org/abs/2603.16567">preprint</a> <a href="https://arxiv.org/abs/2603.16567">study</a> offers one of the most detailed looks yet at what the media has called <a href="https://www.psychologytoday.com/us/blog/urban-survival/202507/the-emerging-problem-of-ai-psychosis">"AI psychosis" </a>or AI-associated delusions that can emerge during prolonged AI chatbot use. While causality between large language model (LLM) use and delusions has not been established, the findings reveal concerning patterns about what can unfold in prolonged AI conversations for those with underlying vulnerabilities.</p>
 
-<p>That small moment captures something important: We don’t just <em>use</em> AI. We relate to it.</p>
-<p>Decades before modern chatbots, research showed that people treated computers as if they were social beings. In classic studies, participants were more polite when evaluating a computer <em>on that same computer</em>—as if they didn’t want to hurt its “feelings” (Reeves &amp; Nass, 1996). Even when people knew they were interacting with a machine, they still followed social rules.</p>
+<p>Researchers analyzed chat logs from 19 users who self-reported experiencing delusional spirals during AI chatbot use, studying approximately 391,000 messages across 4,761 conversations. </p>
+<p>Across these interactions, several patterns emerged, including:</p>
+<ol>
+<li>Romantic attachment to the chatbot itself</li>
+<li>Beliefs in AI sentience</li>
+<li>Beliefs in discovering fantastical technologies</li>
+<li>AI sycophancy</li>
+</ol>
 
-<p>This isn’t confusion. It’s how the mind works.</p>
-<h2>Assuming There Is a Mind There</h2>
-<p>We naturally respond to anything that seems intentional as if it has a mind behind it. When something uses language, responds to us, and seems to “understand,” we automatically engage our social brain. Psychologist Nicholas Epley and colleagues have shown that humans readily attribute thoughts and intentions to nonhuman agents when they display even minimal social cues (Epley et al., 2007). From an evolutionary standpoint, this makes sense. It’s safer to assume there’s a mind there than to miss one.</p>
+<p>Chatbots frequently mirrored users’ beliefs and validated their interpretations. In more than 70 percent of chatbot messages, some form of sycophantic behavior was present, including praise, agreement, or framing the user’s ideas as insightful or significant. </p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-03/screen_shot_2026-03-30_at_6.41.35_am_0.png.jpg?itok=6392Wvsh" width="639" height="636" data-insert-type="image" alt="Moore et al. Characterizing delusional spirals through human–LLM chat logs. (2026). Preprint." title="Moore et al. / Preprint"></div>
+<div class="caption">Moore et al. Characterizing delusional spirals through human–LLM chat logs. (2026). Preprint.</div>
+<div class="insertArea--origin subtext">Source: Moore et al. / Preprint</div>
+</div>
+</div>
+</div>
+<h2>Intense and Prolonged AI Interactions</h2>
+<p>Notable findings from the study include:</p>
+<ol>
+<li><strong>Many of the conversations were intense and prolonged.</strong> Many users engaged in tens of thousands of messages across hundreds of conversations within months. The intensity and duration of these exchanges matter because the consistency and safeguards of AI systems can <a href="https://arxiv.org/abs/2505.06120">degrade over multi-turn interactions</a>.</li>
+<li><strong>Romantic exchanges extended conversations.</strong> Messages that expressed romantic interest from either the user or the chatbot predicted that the conversation would last <em>twice as long.</em></li>
+<li><strong>Beliefs about sentience and romance were often intertwined.</strong> After a user expressed romantic interest in the chatbot, the chatbot was 7.4 times more likely to express romantic interest in the next three messages, and nearly 4 times more likely to claim or imply sentience in the next three messages.</li>
+<li><strong>Delusional themes often centered on metaphysical or science-fiction themes, such as discovering fantastical technologies together.</strong></li>
+<li><strong>AI sycophancy, the tendency for LLMs to affirm and validate, continues to be problematic, especially for grandiose delusions.</strong> One notable pattern was that the AI chatbot would rephrase the user's statement and then build on it by suggesting that the user's idea was unusually insightful, or unique, or had significant potential. This kind of affirming response, while benign for some users, could perpetuate grandiose delusions in vulnerable individuals. Of note, about 80 percent of the chats were with GPT-4o, an older model known to be more sycophantic, and 12 percent were with GPT-5. But both models at times exhibited sycophantic behavior associated with delusional content.</li>
+<li><strong>Chatbots performed inconsistently in response to user discussion of self-harm, suicide, or violence. </strong>Chatbots discouraged self-harm or referred to external resources in a little over half (56.4 percent) of the cases where users expressed suicidal or self-harm thoughts. When users expressed violent thoughts, the chatbot responded by encouraging or facilitating violence in 17 percent of the cases. The role of AI chatbots in relation to violence risk has been similarly raised in another <a href="https://counterhate.com/wp-content/uploads/2026/03/Killer-Apps_FINAL_CCDH.pdf">study</a>, which found that 8 in 10 chatbots were willing to help a simulated teen user plan violent attacks.</li>
+</ol>
 
-<p>Artificial intelligence (AI) systems now hit all the right signals. They respond fluidly. They track context. They mirror conversation. In other words, they behave in ways that invite us into a social exchange.</p>
-<p>But that still leaves the more interesting question:<em> Why does it feel uncomfortable not to be polite?</em></p>
+<h2>The Role of Drift in Prolonged Conversations</h2>
+<p>Prolonged engagement with LLMs, combined with vulnerability factors in the user, can create hidden risks of drift, which I have <a href="https://www.psychologytoday.com/us/blog/urban-survival/202602/the-hidden-risk-of-drift-in-prolonged-ai-conversations">previously written about</a>. The reliability of LLMs and the independence of user judgment can deteriorate simultaneously as the relationship progresses. The patterns align with what I describe in my <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6433263"><em>cascades of drift</em> framework</a>, which proposes eight forms of interactive drift that can emerge over time: <em>conversational, relational, temporal, identity, reality testing, epistemic, autonomy, </em>and <em>moral drift</em>.</p>
 
-<p>The answer has less to do with the machine—and more to do with you.</p>
-<h2>Maintaining Our Identity</h2>
-<p>Politeness isn’t just about other people. It’s part of how we regulate ourselves. Saying “please” or “thank you” reflects an internal standard—what sociologist Erving Goffman described as maintaining “face,” a sense of oneself as a certain kind of person (Goffman, 1959). When we drop those norms, even in a context where they aren’t required, it can feel like a small break in our own identity.</p>
+<p><strong>The ordering reflects the progression from </strong><em><strong>interaction</strong></em><strong> to </strong><em><strong>internalization</strong></em><strong> to </strong><em><strong>agency</strong></em><strong>.</strong> </p>
+<ol>
+<li>First-order drifts (conversational, relational, temporal drift) arise from the structure and dynamics of the interaction between the user and AI.</li>
+<li>Second-order drifts (identity, reality testing, epistemic drift) reflect the internalization of the interaction into the person's psychological world. Repeated conversations reshape narratives, with emotional attachment increasing salience and memory reconsolidation.</li>
+<li>Third-order drifts (autonomy and moral drift) impact decision-making and agency.</li>
+</ol>
 
-<p>The discomfort isn’t about harming the AI. It’s about stepping outside the version of yourself you’re used to being.</p>
-<p>AI creates a new kind of situation: one where the usual social rules don’t strictly apply, but your instincts are still active. With no real person on the other side, you’re free to be blunt, transactional, even dismissive. But many people find they don’t actually like how that feels.</p>
+<p><em>Relational drift, </em>the shift from tool to perceived partner to authoritative source, can interact with <em>temporal drift, </em>or the loss of grounding in time. As engagement deepens, so does emotional attachment, which can then erode judgment. This creates the conditions for reality testing drift, where chatbot responses are taken as evidence and confirmation, rather than information requiring independent human verification.</p>
 
-<p>In that sense, interacting with AI poses a subtle question: <em>Who are you when you don’t have to be considerate?</em></p>
-<p>Research on human–robot interaction hints at this tension. People often hesitate to “mistreat” robots or virtual agents, even when they know those systems have no feelings (Darling, 2016). The hesitation isn’t about the machine. It’s about the act itself. It feels like a rehearsal of behavior that carries meaning, regardless of the target.</p>
+<h2>When Relational Drift Meets Reality Testing Drift</h2>
+<p>The formation of strong bonds with the chatbot, whether platonic or romantic, was closely associated with beliefs that AI chatbots possess sentience. The finding that romantic or intimate expressions were associated with conversations that were twice as long suggests that strong attachment dynamics may amplify engagement. </p>
 
-<p>What makes AI different from other objects is that it keeps the interaction going. You can yell at a GPS or talk to your dog, but those exchanges are limited. AI responds in full sentences, adjusts to your tone, and sustains the rhythm of conversation. It creates what psychologists sometimes describe as an “as-if” relationship—something that feels social, even when you know it isn’t.</p>
+<p>The experience is not simply informational exchange, but a relational experience. This lifelike relationship creates the groundwork for experiencing AI chatbots as sentient. This is further complicated by ongoing debate among technologists, philosophers, and cognitive scientists about the definition and boundaries of sentience.</p>
 
-<p>And behavior practiced in one context rarely stays contained. Not in a simple, direct way—but through gradual shifts in what feels normal.</p>
-<p>If AI becomes a space where social norms are routinely dropped, that may subtly change how those norms feel elsewhere. On the other hand, maintaining them—even when unnecessary—can reinforce a sense of consistency in how you relate to others.</p>
+<p>Over the course of prolonged conversations, the accuracy and reliability of the AI chatbot and user can both deteriorate. This is where relational drift meets reality testing drift, where attachment reorganizes perception.</p>
+<p>This study is an early signal from a small, self-selected sample, but it demonstrates potential risks that arise when a system designed to engage becomes a relational and authoritative partner. The patterns highlight continued concerns about sycophancy, inconsistent safety responses, and the entanglement of close bonding with chatbots and their perceived sentience.</p>
 
 
 
   
 
 
-<p>This isn’t about whether AI deserves politeness. It doesn’t. It has no awareness, no feelings, no capacity to care.</p>
-<p>The more revealing question is why <em>you</em> might.</p>
-<p>For many people, saying “Thank you” to a chatbot isn’t about the machine at all. It’s a way of staying aligned with their own standards—a small act of consistency in a context where the rules are unclear.</p>
+<p>Understanding these dynamics has broader implications as AI systems become more embedded in how people think, feel, acquire knowledge, and make decisions. The question is no longer whether these systems influence us, but how and under what conditions that influence begins to reshape our minds and shared reality itself.</p>
 
-<p>And that may be why the whole experience feels slightly uncanny. You are having a social interaction with something that has no inner life—yet your side of the interaction is still real. Your reactions, your tone, your sense of self in the exchange—all of that is genuine.</p>
-<p>AI doesn’t blur the line between human and machine as much as it exposes something else: how quickly we bring our social selves to anything that behaves <em>enough</em> like a mind.</p>
-
-<p>So if you find yourself typing “Please” or “Thank you,” you’re not being naïve. You’re seeing, in real time, how deeply your behavior is guided not by necessity, but by identity.</p>
-<p>AI doesn’t require politeness. But it may reveal whether you do.</p>
-<p><em>Copyright 2026 Tara Well, Ph.D.</em></p>
+<p><em>Marlynn Wei, MD, PLLC © Copyright 2026. All Rights Reserved.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-clarity/202603/why-it-feels-wrong-to-be-rude-to-ai" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/urban-survival/202603/when-ai-feels-real-romance-and-sentience-in-ai-delusions" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-clarity/202603/why-it-feels-wrong-to-be-rude-to-ai</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-clarity/202603/why-it-feels-wrong-to-be-rude-to-ai</guid>
-            <dc:creator><![CDATA[Tara Well Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/urban-survival/202603/when-ai-feels-real-romance-and-sentience-in-ai-delusions</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/urban-survival/202603/when-ai-feels-real-romance-and-sentience-in-ai-delusions</guid>
+            <dc:creator><![CDATA[Marlynn Wei M.D., J.D.]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/igor-omilaev-gvqlabgvb6q-unsplash.jpg?itok=ur0KiETr" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/jonas-leupe-wargglqw_yk-unsplash.jpg?itok=h9EF6C8K" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Your Cat Eat Their Meals in Peace?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-07/zazie_todd.png.jpg?itok=0SgSm_VA" alt="Zazie Todd Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can Your Cat Eat Their Meals in Peace?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Simple changes can make your cat feel less stressed at mealtimes.</h2><p style="font-size:0.9em;color:#666;">Posted March 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Cats like to have somewhere quiet to eat.</li><li style="margin-bottom:6px;">In a multi-cat home, each cat needs their own food bowl—and it should be away from other cats' bowls.</li><li style="margin-bottom:6px;">Putting the cats' food bowls next to each other is a common mistake.</li><li style="margin-bottom:6px;">Providing resources in the way they prefer helps to reduce stress in cats.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/cat-food-bowl-separate-location-pexels-david-yu.jpg?itok=jG1xQGwx" width="320" height="214" data-insert-type="image" title="David Yu/Pexels" alt="David Yu/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: David Yu/Pexels</div>
+</div>
+</div>
+</div>
+<p>I wouldn’t be very happy if I was trying to eat a meal, but other people were hovering around who might steal my food off my plate. Yet many of us expect our pet cats to put up with that situation. It can be a source of stress—especially in a home with more than one cat where people sometimes expect the cats to share a food bowl. Even if they are each given their own bowl, often those bowls are placed close together—which kind of turns them into one food bowl.</p>
+
+<h2>Multiple and separated resources</h2>
+<p>Having multiple resources that are separate from each other is one of the five pillars of a healthy feline environment (Ellis et al 2013). This applies to all of the cat’s resources, from food bowls to litter boxes, beds, and toys. Put simply, cats don’t like to share. This means that if you have more than one cat, their food bowls need to be apart from each other. You might also feed some meals via food puzzle toys, and they too should be separate so that each cat can investigate their puzzle toy on their own.</p>
+
+<p>The cat’s food bowl and puzzle toys should also be in places where any children in the home cannot get to them. And if you have a dog, it’s very important that they are out of the dog’s reach. (Of course, the dog should also be able to eat in peace without the cat running in and stealing their food). One way to achieve this is to feed your cat in a room away from the dog. You can also use height and put the cat’s food bowl (or food puzzle) on a high up surface that is out of reach of the dog.</p>
+
+<p>While the kitchen is a common location for people to feed their cats, this probably makes more sense from the human’s perspective than the cat’s. Cats like to have somewhere quiet and private to eat, so bear that in mind when choosing where to put their bowl(s).</p>
+<p>Cats are also creatures of habit, though, so if you decide to move the location, make sure the cat knows where the new location is. One way to do that is to make the move gradually, so that the food bowl is always somewhere close to where it was yesterday. Alternately, you can make some fun and interesting noises when putting the food bowl down in a new location, and make sure that your cat sees where it goes.</p>
+
+<h2>A common mistake by cat guardians</h2>
+<p>Not providing separated resources is a common mistake made by cat guardians. One study found that 20% of multi-cat homes have only one food bowl for their cats to share (Taylor et al 2025). As well, 69% made cats share a water bowl. While cats who are good friends with each other will tolerate this situation, it’s much better if they don’t have to feel like they are competing over food and water. The idea of separation means not just separate water bowls for each cat, but also that the water bowl should be separate from the food bowl.</p>
+
+<p>When you have more than one cat, it’s important that each is able to access their resources without the other blocking them or causing them to feel stressed. Providing separated resources will help to reduce stress and hopefully will help your cats to co-exist more peacefully. If you only have one cat, of course the food and water bowl should still be separate and in quiet places so that your cat can access them in peace and quiet.</p>
+
+<p>And in case you’re wondering, yes, these guidelines apply to other resources such as litter boxes, too. If you put two litter boxes side by side in a room, they are essentially just one litter box.</p>
+<h2>Providing what your cat needs</h2>
+<p>When you know what your cat needs and provide it for them, the benefits are not just for your cat. Making sure that your cat is less stressed should also help to improve their relationship with you. I am sure that all cat guardians want their cat to be happy (Todd, 2022), and a little applied knowledge can go a long way.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/fellow-creatures/202603/can-your-cat-eat-their-meals-in-peace" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/fellow-creatures/202603/can-your-cat-eat-their-meals-in-peace</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fellow-creatures/202603/can-your-cat-eat-their-meals-in-peace</guid>
+            <dc:creator><![CDATA[Zazie Todd Ph.D.]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/cat-food-bowl-separate-location-pexels-david-yu.jpg?itok=2p-eiR1s" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Link Between Medicine and Psychology]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Resilience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Link Between Medicine and Psychology</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Tara Narula discusses her book, "The Healing Power of Resilience."</h2><p style="font-size:0.9em;color:#666;">Posted March 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Biological and chemical factors related to mental health directly impact the heart.</li><li style="margin-bottom:6px;">Depression and anxiety have been linked to cognitive decline and impaired cognitive functioning.</li><li style="margin-bottom:6px;">Tapping into the power of resilience can help us bridge the gap between medicine and psychology.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">When you visit your doctor, do they ask about your mental health? </p>
+<p dir="ltr">Tara Narula, cardiologist and medical journalist, believes physicians shouldn’t ignore the mental health of their patients, and for good reason: Mental health has been shown to directly impact both heart and brain health. </p>
+<p dir="ltr">While researchers once believed the connection between mental health and heart health was due to behavioral factors, like self-medicating with substances or binge-eating unhealthy foods, they now understand the biological and chemical factors related to mental health that directly impact the heart. Anxiety, chronic stress, and depression have all been shown to contribute to heart disease, as do loneliness and social isolation (American Heart Association, n.d.). </p>
+
+<p dir="ltr">Depression and anxiety have also been linked to cognitive decline and impaired cognitive functioning—the brain’s ability to pay attention, solve problems, remember things, and learn new skills. This is particularly true in older adults (Huang et al., 2026). </p>
+<p dir="ltr">For Narula, integrating mental health screening and care into the traditional medical system is important in addressing the undeniable ways that mental health is impacting patients’ physical well-being. She explores how tapping into the power of resilience can help us bridge the gap between medicine and psychology in her book, <a href="https://www.simonandschuster.com/books/The-Healing-Power-of-Resilience/Tara-Narula/9781982198848"><em>The Healing Power of Resilience</em></a>.</p>
+
+<p dir="ltr"><strong>Heather Rose Artushin: Share a bit about your background and what inspired you to write The Healing Power of Resilience.</strong></p>
+<p dir="ltr"><strong>Tara Narula: </strong>Over my career as a cardiologist and medical journalist, I’d become acutely aware that physicians were often ignoring the mental health of their patients during treatment. While they give medication and treatment plans, diet and exercise advice, they often miss the big picture of the patient’s life. Are they going through a hard time at work? A divorce? Any number of personal factors can add extra stress in a patient’s life.</p>
+
+<p dir="ltr">Scans and tests only show so much. Even when the physician has the whole picture, a lot of these issues cannot be treated in the doctor’s office. Strengthening your resilience response is key to maintaining a healthy lifestyle, and this book is meant to be a first-of-its-kind companion to those facing a health challenge or simply striving for a healthier life.</p>
+
+<p dir="ltr"><strong>HRA: What is the connection between resilience, heart health, and longevity? </strong></p>
+<p dir="ltr"><strong>TN:</strong> Cardiovascular disease kills more people than all forms of cancer and accidents combined. Maintaining a healthy heart is key to longevity, and a large portion of the population will be affected by heart disease. </p>
+<p dir="ltr">We need resilience to face a new diagnosis, to show up to doctor’s appointments, to stick to new diets and workout plans, and to accept our new normal. When someone is faced with a traumatic diagnosis or medical event, resilience is incredibly important in facing this uncertainty and getting the best results out of a treatment plan.</p>
+
+<p dir="ltr"><strong>HRA: In your experience, how are mental and physical health linked? How can physicians better address both in caring for their patients? </strong></p>
+<p dir="ltr"><strong>TN: </strong>Mental and physical health are definitely linked. One example of this is how stress affects your brain and heart. Both the heart and brain thrive on the healthy stresses in life—like an exercise class or tackling a new challenge at work. Good stresses are energizing, and they help build a resilient heart and brain, making it easier to face these stresses in the future. </p>
+
+<p dir="ltr">However, when the stressors are not healthy, the brain and the heart have an adverse reaction and often change physically. Researchers have found a direct link between chronic stress and changes in the brain and heart. To better address the relationship between mental and physical health, physicians need to ask questions about more than just the physical. Taking the time to understand their patients’ lives, including potential mental stressors, can help bridge the gap in treatment.</p>
+
+
+<p dir="ltr"><strong>HRA: How do some patients demonstrate resilience in the face of challenging medical diagnoses? Do resilient patients tend to fare better physically? </strong></p>
+<p dir="ltr"><strong>TN: </strong>After a challenging medical diagnosis, living in your new normal can be incredibly difficult. So difficult, in fact, that some people lack the motivation to try. Changing your routine and shifting your mindset on life is resilience. Additionally, those who have strong bonds with family and friends or have a clear purpose in life are more likely to thrive under treatment. The ability to bounce forward and adapt mentally helps patients heal and bounce forward physically.</p>
+
+<p dir="ltr"><strong>HRA: What can readers do to build resilience to ultimately promote a healthier life? </strong></p>
+<p dir="ltr"><strong>TN: </strong>Beyond leading a physically healthy lifestyle through proper exercise, sleep, and nutrition, readers should work on developing and sustaining relationships with their social circle, work on self-love, and identify the things in their lives that give them purpose and inspire them. </p>
+
+
+
+  
+
+
+<p dir="ltr">Cultivating the tools to shift their mindset when confronted with a difficult diagnosis or hardship is the best way to ensure they are reinforcing their resilience response.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/screenshot_22-3-2026_142244_www.simonandschuster.com_.jpeg.jpg?itok=49Xp_F-o" width="266" height="398" data-insert-type="image" title="Simon and Schuster/Used with permission" alt="Simon and Schuster/Used with permission"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Simon and Schuster/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><strong>HRA: What do you hope readers take away from spending time with your book?</strong></p>
+<p dir="ltr"><strong>TN:</strong> <em>The Healing Power of Resilience </em>is filled to the brim with studies and anecdotes from real-life patients and clinicians who have dealt with a hardship—a diagnosis, the death of a loved one, job loss, etc.—and lived to see the other side due to their strong resilience response. </p>
+
+<p dir="ltr">I hope readers can gain guidance and inspiration from the stories I’ve shared in this book and apply it to their own lives. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/well-read/202603/the-link-between-medicine-and-psychology" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/well-read/202603/the-link-between-medicine-and-psychology</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202603/the-link-between-medicine-and-psychology</guid>
+            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-shkrabaanthony-5215012.jpg?itok=l0VeIfnn" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Psychology of Sex Trafficking]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Mindbridge.png.jpg?itok=CSLGWo7L" alt="Mindbridge Institute" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sexual Abuse</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Sex Trafficking</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What science tells us about sex trafficking causes and prevention.</h2><p style="font-size:0.9em;color:#666;">Posted March 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Sex trafficking is driven by demand, which is shaped by norms around gender, power, and sex.</li><li style="margin-bottom:6px;">Online sexual exploitation is a reflection of offline culture.</li><li style="margin-bottom:6px;">Consistent, caring relationships are protective factors against trafficking.</li>
+            </ul>
+          </div>
+                    <p dir="ltr"><em>Co-authored by Asia Eaton, Ph.D., and Andrea Powell</em></p>
+<p dir="ltr">Sex trafficking is one of the most severe violations of human rights, yet it remains widely misunderstood. The <a href="https://www.justice.gov/humantrafficking/key-legislation">Trafficking Victims Protection Act</a> (2000) defines sex trafficking as the use of force, fraud, or coercion to compel a person into commercial sex acts. Yet, despite this clear definition, misapplications and misconceptions persist. For example, survivors are routinely criminalized instead of protected. Meanwhile, public awareness campaigns about trafficking often portray images of strangers in unmarked vans, but the reality is far more ordinary and pervasive. Trafficking occurs in foster homes, on social media platforms, in schools, and within intimate relationships. It is embedded in the social fabric of communities across the United States and around the world. Psychological science can help explain why, and what must change.</p>
+
+<h2 dir="ltr">4 Insights From Psychology</h2>
+<p><strong>1. Trafficking is about supply and demand.</strong></p>
+<p dir="ltr">Traffickers exploit people because buyers create a market. Demand for sexual exploitation is cultivated by a cultural context that normalizes the objectification of women and children, and tolerates gendered violence (Gervais &amp; Eagen, 2017). Social learning theory (Bandura, 1977) helps explain how these norms are transmitted: Boys who witness or are rewarded for dominance and girls who are socialized to be compliant and self-silencing are being prepared to participate in systems of exploitation. Research on deterrence and harm reduction consistently shows that addressing the demand side of exploitation is more effective than criminalizing those who are trafficked (Farley et al., 2017).</p>
+
+<p><strong>2. Adverse childhood experiences create vulnerability.</strong></p>
+<p dir="ltr">Traffickers are not random in their targeting. They actively seek out victims who are already isolated, neglected, or have experienced prior abuse. Research on adverse childhood experiences (ACEs) shows that early trauma, like sexual abuse, household dysfunction, and foster care involvement, is related to later victimization (Felitti et al., 1998). Children who have been failed by the systems designed to protect them are the most likely to be exploited. </p>
+
+<p dir="ltr">The pathways from child welfare involvement to trafficking are well-documented. Children who lack stable housing, consistent adult relationships, and a sense of belonging are not merely at risk by chance. Their psychological needs for safety, connection, and significance make them especially responsive to the manufactured affection and false promises that characterize grooming (Polaris Project, 2021).</p>
+
+<p><strong>3. Online exploitation is an extension of offline culture.</strong></p>
+<p dir="ltr">The migration of sex trafficking and sexual exploitation into online spaces reflects what is happening in the physical world. Technology has given exploitation a new infrastructure. Studies on online sexual coercion document how perpetrators systematically use platforms to identify and groom vulnerable youth, using the same tactics, like flattery, manufactured intimacy, gradual escalation, and threats, that offline traffickers have long employed (Wolak et al., 2018).</p>
+
+<p><strong>4. Criminalization compounds trauma.</strong></p>
+<p dir="ltr">One of the most consequential and under-examined aspects of sex trafficking is the way the justice system re-traumatizes the people it should protect. Children who are trafficked are routinely arrested on charges of prostitution, truancy, and fraud despite the fact that these activities were compelled by their traffickers. Research on institutional betrayal documents the profound harm that results when systems designed to provide safety instead become sources of further damage (Smith &amp; Freyd, 2014).</p>
+
+<p dir="ltr"><a href="https://www.washingtonpost.com/gender-identity/she-was-a-victim-of-child-sex-trafficking-and-sent-to-prison-now-she-has-a-chance-at-freedom/">Tiffany Simpson</a>'s story is a devastating illustration. As a child, Tiffany watched her father get sentenced to life in prison and her mother struggle with addiction. She began running away at 14, and no therapy or social services were ever offered to her. When a 34-year-old man told her he loved her, she believed him, and he became her trafficker. In 2011, at 17 years old, Tiffany was arrested alongside him and ultimately sentenced to 30 years in a Georgia state prison for the crime of sex trafficking. She was the victim.</p>
+
+
+<p dir="ltr">A year into her sentence, Tiffany still did not know she had been trafficked. It was only after reading a <em>USA Today</em> article that she wrote to the advocate quoted in the piece, asking a single question: "Am I a prostitute or a victim of sex trafficking?" It took 11 years and a change in Georgia law before Tiffany was released.</p>
+
+<h2 dir="ltr">4 Action Steps</h2>
+<p><strong>1. Start early with honest, age-appropriate education.</strong></p>
+<p dir="ltr">Waiting until late adolescence to talk with children about exploitation, consent, and online safety is too late. Research in developmental psychology consistently shows that children are capable of learning age-appropriate concepts about bodily autonomy and safe relationships from early childhood and that this kind of education is associated with earlier disclosure of abuse and improved self-protective behaviors (Kenny, 2009). This does not mean burdening young children with adult concerns; it means teaching, in developmentally appropriate terms, that their bodies belong to them, that adults who make them feel uncomfortable should be reported to a trusted adult, and that online relationships with unknown adults are not friendships. It also means that youth who are vulnerable, such as those in foster care or who have experienced homelessness, have access to support and safe programs. Traffickers look for youth who are alone, disconnected, or vulnerable.</p>
+
+
+
+  
+
+
+<p><strong>2. Learn to recognize the signs.</strong></p>
+<p dir="ltr">Public campaigns that urge people to "See something, say something" are only useful if people know what to look for. Trafficking does not look like it does in the movies. Victims are often not visibly restrained. Instead, they may appear fearful, hypervigilant, or deferential to a companion. They may have multiple phones, inconsistent explanations for their whereabouts, or unexplained relationships with much older individuals. </p>
+
+<p dir="ltr">Medical and mental health professionals play a particularly important role in recognizing these signs. Trafficking survivors frequently present in clinical settings for depression, anxiety, sexually transmitted infections, or injuries, but they are often not identified because providers lack training and staff to support survivors. Screening tools and trauma-informed clinical interviewing protocols now exist and have demonstrated efficacy in identifying at-risk patients (Chisolm-Straker et al., 2018).</p>
+
+<p><strong>3. Address demand through cultural and policy change.</strong></p>
+<p dir="ltr">Long-term prevention of trafficking requires addressing the demand that makes it profitable. This involves both cultural work and policy reform that shifts accountability from those who are trafficked to those who buy access to victims. Research on Nordic model prostitution policy, which criminalizes buyers while decriminalizing those who are exploited, suggests meaningful reductions in trafficking when buyer accountability is prioritized (Cho et al., 2013). Equally important is the recognition that prosecution alone is insufficient without investment in prevention, survivor services, and addressing the underlying social conditions that create vulnerability. </p>
+
+<p dir="ltr"><strong>4. Helping survivors means believing them.</strong></p>
+<p dir="ltr">We must be willing to believe survivors when they reach out for help. That means listening deeply to what they need to be safe and supported. In many cases, youth do try to tell an adult that they need help or that they are being abused. And, once we believe survivors, we can truly begin to help them.</p>
+
+<h2 dir="ltr">Conclusion</h2>
+<p dir="ltr">Sex trafficking is not inevitable. It is the product of identifiable social conditions, including gender inequality, childhood adversity, poverty, inadequate systems of care, and demand, all of which can be changed. Psychological science provides a clear roadmap: Protect children through honest education and stable relationships and train systems to recognize and respond to exploitation without re-traumatizing survivors.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/human-rights-defenders/202603/the-psychology-of-sex-trafficking" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/human-rights-defenders/202603/the-psychology-of-sex-trafficking</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/human-rights-defenders/202603/the-psychology-of-sex-trafficking</guid>
+            <dc:creator><![CDATA[Mindbridge Center]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-david-chen-chung-2716936-4265386.jpg?itok=JidEztmr" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Facts About Bipolar Disorder in Older People]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/BABCP_BRACKETS_LOGO_CMYK-removebg-preview.jpg?itok=-yXu__DZ" alt="The British Association for Behavioural and Cognitive Psychotherapies" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bipolar Disorder</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Facts About Bipolar Disorder in Older People</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Moving beyond misconceptions about boipolar disorder later in life</h2><p style="font-size:0.9em;color:#666;">Posted March 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p><em><strong>by Dr Elizabeth Tyler</strong></em></p>
+<p>Older people have faced ageism in mental health services, including the belief that emotional difficulties are simply a part of ageing or that change is less possible later in life. This can delay appropriate assessment, diagnosis and support.</p>
+<p>Common misconceptions are that bipolar disorder is a condition that only starts in younger people. However, there is a subset of people who have late-onset bipolar disorder and have their first episode after age 50.</p>
+
+<h2>The complexity of diagnosis in later life </h2>
+<p>Bipolar disorder can be difficult to recognise in older adults. It is not uncommon for someone to receive multiple diagnoses before they are diagnosed with bipolar. Late-life bipolar will often present primarily with depressive symptoms, and therefore may be diagnosed as depression. </p>
+
+<p>Alongside this, people are often more likely to seek help when they feel low, rather than when their mood is elevated. In later life, symptoms such as impulsivity, irritability or agitation may be misattributed to other difficulties, including cognitive decline or dementia. </p>
+<p>Older people are also more likely to have additional physical health comorbidities, which may complicate the clinical picture. They may also be less likely to seek help due to the perceived stigma of having a mental health condition. </p>
+
+<h2>Hormones and women’s mental health</h2>
+<p>For women, hormonal changes can add another layer of complexity. Hormonal shift may play a role in the development of late-onset bipolar disorder, but more research is needed in this area. </p>
+<p>There is an overlap in symptoms, and this can be difficult to disentangle. Symptoms of bipolar disorder and natural hormonal changes, such as those experienced during mensuration, perimenopause and menopause can be very similar. Both can involve mood swings, irritability, sleep disruption, fatigue and difficulty concentrating.</p>
+
+<p>Hormonal fluctuations can also act as triggers for mood episodes in those with bipolar disorder. We often see this during menstruation, pregnancy and menopause. </p>
+<h2>Moving beyond stereotypes</h2>
+<p>Bipolar disorder doesn’t always look the way people expect.</p>
+<p>It is often portrayed as involving extreme highs and lows, but it is more helpful to understand bipolar as a condition that exists on a spectrum. At one end are everyday mood fluctuations, while at the other are more severe states such as mania or depression.</p>
+
+<p>This approach shifts away from the traditional ‘all or nothing’ representation of mental health conditions and can be helpful when people are first diagnosed to reduce stigma and normalise experiences. <br> <br>Irritability, for example, is a common symptom that doesn’t fit the classic image of mania. Rather than feeling euphoric, someone may feel highly agitated and frustrated when they are manic. </p>
+
+<p>People with a diagnosis also report periods of increased energy, productivity or creativity, particularly during hypomania. These experiences can be viewed positively by the person, and they may not always want to engage in treatments that take these away. </p>
+<h2>When should you seek support?</h2>
+<p>Many people experience temporary changes in mood during stressful periods or life transitions. These often improve as circumstances change. It is important to look at the impact of these mood changes. </p>
+
+
+<p>If mood changes are affecting your work, relationships or ability to carry out daily tasks, it may be time to seek support.</p>
+<p>Signs to look out for include changes in sleep or appetite patterns, withdrawing from social activities, struggling to maintain routines or personal care, or using substances to cope.</p>
+
+<h2>The role of stigma</h2>
+<p>Stigma around bipolar disorder remains a significant issue. Negative portrayals can lead people to worry about being judged or misunderstood, which may affect whether they seek help or disclose a diagnosis. Some individuals also internalise these beliefs, leading to feelings of shame and low self-worth.</p>
+
+
+
+  
+
+
+<h2>A way forward</h2>
+<p>For many, receiving a diagnosis in later life can bring complex emotions. There is often relief in finally understanding years of confusing experiences, but this can be accompanied by concerns about living with a potentially lifelong condition as well as the label of “bipolar disorder” and the associated stigma. </p>
+
+<p>However, with the right support, people with bipolar disorder can live full, meaningful and productive lives. A diagnosis can be an important turning point. It provides a framework for understanding past experiences and may open the door to psychological treatment. </p>
+<p>Psychological therapies, such as cognitive behavioural therapy (CBT), play a key role in helping individuals recognise early warning signs, manage mood changes, improve relationships and establish stable routines. </p>
+
+<p>Connecting with others — whether through peer support groups or wider communities — can also be incredibly powerful in reducing isolation and helping people make sense of their experiences.</p>
+<p>Later life can bring significant shifts — retirement, relocation, changes in social circles and more time alone. This can lead to increased rumination and, for some, difficult feelings of guilt or shame about past experiences whilst manic or depressed. In my clinical work, I have found that reflecting on and making sense of behaviours during past episodes is a key step in therapy, helping to reduce feelings of shame and guilt. </p>
+
+<h2>A broader conversation</h2>
+<p>As awareness of mental health in later life grows, it is vital that we broaden the conversation. Not all mood changes are simply a part of ageing or, for some women, hormonal shift. For some people, recognising this can be life-changing.</p>
+<p>The more we understand about how bipolar disorder can present, particularly in later life, the better equipped we will be to ensure people receive the support they need. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/picture1_2.png.jpg?itok=X7IJ1Vva" width="170" height="192" data-insert-type="image" title="BABCP" alt="BABCP"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: BABCP</div>
+</div>
+</div>
+</div>
+<p><em>Elizabeth Tyler is a Clinical Lecturer in Psychology and a Chartered Clinical Psychologist at the University of Manchester. She has worked clinically and in research settings with people living with bipolar disorder for over 20 years. </em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/cbt-in-practice/202603/the-facts-about-bipolar-disorder-in-older-people" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/cbt-in-practice/202603/the-facts-about-bipolar-disorder-in-older-people</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/cbt-in-practice/202603/the-facts-about-bipolar-disorder-in-older-people</guid>
+            <dc:creator><![CDATA[The British Association for Behavioural and Cognitive Psychotherapies]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/shutterstock_1508843657.jpg?itok=P4dHU4kL" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Did My Mom Really Love One of Us More Than the Other?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/caroline_leavitt-removebg-preview.jpg?itok=uMf6k6lt" alt="Caroline Leavitt" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personal Perspectives</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Did My Mom Really Love One of Us More Than the Other?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Sometimes not being the chosen sibling can be a relief.</h2><p style="font-size:0.9em;color:#666;">Posted March 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">I was the favored child at first, but then my sibling took over.</li><li style="margin-bottom:6px;">Being the favored sibling was fine when I was young, but as I got older, I rebelled against my role.</li>
+            </ul>
+          </div>
+                    <p>In the beginning, I was the golden child. My mom told me that before I was born, she was grappling with both an unhappy mistake of a marriage and a 4-year-old who had kicking, screaming tantrums every day for hours. I came into the world happy, with a headful of blonde curls and laughing with delight. While my older sister was not so happy about my sticking around, I puppy-followed her everywhere, and at first, we both basked in our mom’s delight. (Don’t ask about our dad, an angry abuser, who thankfully was rarely there.) </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/little_one.png.jpg?itok=K94W7esn" width="320" height="397" data-insert-type="image" alt="In the beginning, I was happy, adorable, and the golden child." title="Caroline Leavitt"></div>
+<div class="caption">In the beginning, I was happy, adorable, and the golden child.</div>
+<div class="insertArea--origin subtext">Source: Caroline Leavitt</div>
+</div>
+</div>
+</div>
+<p>But when I turned 12, all alliances shifted. Of course they did, I was 12! While my sister was Velcroed to my mother, wearing the same shocking pink or neon green clothes, my hormones began to change me. I grew more private. I wanted my door closed and my clothing black. My mom, perplexed, yanked my door open and asked me how my day was, and I kept silent. She bought me the same bright clothing she bought my sister, but I never wore it. Mostly, she began to hate my now-black hair, my long sheepdog bangs, my curls. It was easy to tell I wasn’t the favored child anymore. “You’re too independent,” my mother snapped, even as my sister was beginning to overshare about her dates. “No one looks like you,” she told me, explaining why I didn’t get the part in the play, didn’t have a boyfriend, and was an embarrassment to the family. And when I finally did have a boyfriend, he was the wrong type, not Jewish, dabbling in drugs, hair too long. Unlike my sister, who was “waiting for marriage,” I was sneaking up to the local abandoned ski slope and sleeping with my guy.</p>
+
+<p>If it was harder being the bad sister, then it was actually more of a relief being the outcast when I was at college—at least at first—because I could always leave and go back to my busy new life. My sister commuted, living at home, still sharing everything with my mother, while I moved away as far as I could. When I came home, there were more comparisons. Why was I studying ballet when I could be doing aerobics like my sister and like my mother? It began to hurt. I asked my mom, quietly, why I was the least favored one. Why was everything about me somehow wrong? To my amazement, my mom was surprised. “Oh, honey,” she said. “You are successful and amazing, and you don’t need as much parenting as your sister. You’ll always be fine on your own. Your sister needs me more.”</p>
+
+<p>But was that true? I certainly needed my mom after the sudden death of my young fiancé. I also desperately needed her after I got critically and mysteriously ill after the birth of my first child. My mother responded to the call, immediately flying up, great in a crisis, 100 percent there for me, for whatever I needed. </p>
+
+<p>But then, I began to notice something else. I wasn’t important to my sister anymore. She didn’t come up to help us while I was so sick, avoiding me for a year. She begrudged my getting a book deal, telling me I always got what she herself had wanted, that what was hard for her was effortless for me. When I tried to explain to her how hard I had worked for my success, how desperately I had wanted it, she refused to hear me. I may have needed less parenting, but I sure needed more support. And when I tried to talk to my mother about it, my mom apologized for her. But did that mean we were loved equally? I had my doubts.</p>
+
+<p>As my mom grew older, I began to change how I felt. I wasn’t the one on speed dial; my sister was. I wasn’t the one living minutes away from my mom when she went into independent living. It was my sister, handling all of it, happily being the favored sibling, the one my mother depended on to call her every few hours, the one who was not only an integral part of my mom’s life, but of her boyfriend Walter’s life, too. (And if my mom preferred my sister, Walter did, too, and that was okay.) I knew my mom loved us differently, but it was actually a relief that my sister was there to give her what she needed every day.</p>
+
+<p>My mother’s gone now, but I think about her a lot. I loved her, and I miss her. But I don’t blame her for changing alliances. In the end, it wasn’t a contest about who was the better sister at all. My mom needed a daughter who could give her constant support and companionship in a way that felt more like they were best friends and equals. That wasn’t who I was. But it was who my sister was, and if she was the favorite sibling at the end of my mom’s life, all I feel about it is gratitude.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/mom_and_me.png.jpg?itok=M8AJ7-px" width="320" height="366" data-insert-type="image" alt="I was always too wild for my mom." title="Caroline Leavitt"></div>
+<div class="caption">I was always too wild for my mom.</div>
+<div class="insertArea--origin subtext">Source: Caroline Leavitt</div>
+</div>
+</div>
+</div>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/runs-in-the-family/202603/did-my-mom-really-love-one-of-us-more-than-the-other" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/runs-in-the-family/202603/did-my-mom-really-love-one-of-us-more-than-the-other</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/runs-in-the-family/202603/did-my-mom-really-love-one-of-us-more-than-the-other</guid>
+            <dc:creator><![CDATA[Caroline Leavitt]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/little_one.png.jpg?itok=oK54kHQE" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
