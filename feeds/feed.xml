@@ -4,121 +4,71 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 19:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 20:35:34 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 19:34:59 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 20:35:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Is Too Much Information Fueling Your Anxiety?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/bonnie-zucker-new.png.jpg?itok=S7Bu2Kse" alt="Bonnie Zucker Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Too Much Information Fueling Your Anxiety?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Smartphones, AI, and other tech is eroding our ability to tolerate uncertainty.</h2><p style="font-size:0.9em;color:#666;">Posted April 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Mitochondria and Mental Health]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/mitchell_liester.png.jpg?itok=xWGEP9AH" alt="Mitchell B. Liester M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neuroscience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Mitochondria and Mental Health</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Mitochondria and mental health: What these small organelles are telling us.</h2><p style="font-size:0.9em;color:#666;">Posted April 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Anxiety disorders have been on the rise over the past 20 years.</li><li style="margin-bottom:6px;">The proliferation of technology has likely contributed to this increase in anxiety.</li><li style="margin-bottom:6px;">Technology gives access to too much information, making us unable to tolerate uncertainty.</li>
+              <li style="margin-bottom:6px;">Mitochondrial dysfunction underlies depression, bipolar disorder, and schizophrenia.</li><li style="margin-bottom:6px;">Chronic stress damages mitochondria, impairing neuroplasticity and driving treatment-resistant depression.</li><li style="margin-bottom:6px;">Mitochondria travel through the blood and communicate signals between cells.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/c_girl_on_smartphone.pexels-www.kaboompics.com_.jpg?itok=8lkK4u-t" width="320" height="213" data-insert-type="image" title="kaboompics/Pexels" alt="kaboompics/Pexels"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: kaboompics/Pexels</div>
-</div>
-</div>
-</div>
-<p>Is too much information a bad thing? When it comes to anxiety, the flood of information that we can now get from technology is problematic. In fact, one study found a significant increase in anxiety disorders when comparing anxiety prevalence rates during the period of 2007-2009 to that of 2019-2022 (Gkitakou et al., 2025).</p>
+                    <p>For decades, psychiatry has focused on neurotransmitters. Depression was a serotonin problem. Schizophrenia was a dopamine problem. Bipolar disorder was a mood stabilizer problem. This concept, while clinically useful, has always been incomplete. Now research suggests we may have been looking at the wrong part of the cell. The mitochondrion, which is often described as "the powerhouse of the cell," turns out to be a complex regulator of mood, cognition, stress resilience, and neuroplasticity. And it turns out that mitochondria don't always stay inside cells.</p>
 
-<p>Although there are many factors that could contribute to this increase in anxiety disorders, keep in mind that the iPhone was released in 2007, and it took a couple of years for smartphones to become ubiquitous.</p>
-<p>Some of the more obvious reasons for an increase in anxiety include the often upsetting news alerts that pop up on our phones when we least expect them, and the way social media has been detrimental to our health, especially that of <a href="https://www.wsj.com/tech/personal-tech/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739?gaa_at=eafs&amp;gaa_n=AWEtsqdfCVluov_WeO04ST-G3pZ_PLfVI_6qhlNkTOGc9vUxVcuJofOsyiR4aEG4TEo%3D&amp;gaa_ts=69d1a107&amp;gaa_sig=B5_8gJ182vw-AqNNi9Nz_BmvsQkSXYn6xr1KaHA-nbANWnvO15vqWiZjXcoGRie3mtw3utgc2WDnyzu7hKMlcg%3D%3D">teenage girls</a>.</p>
+<h2>The Mitochondrion as Energy Producers</h2>
+<p>The human brain accounts for approximately 2% of the body’s weight but uses about 20% of the body's energy. Neurons are among the most energy-consuming cells in our body, and their survival depends on mitochondria. When mitochondria’s energy-producing efficiency decreases, the consequences are much more than just fatigue. <a href="https://pubmed.ncbi.nlm.nih.gov/29855563/">Research</a> has demonstrated that mitochondrial dysfunction occurs in major depressive disorder, bipolar disorder, and schizophrenia.</p>
 
-<h2>Technology and Intolerance of Uncertainty</h2>
-<p>Another angle that I see as particularly problematic and directly relating to our increases in anxiety is that technology has eroded our ability to tolerate uncertainty. Intolerance of uncertainty is often seen as a hallmark characteristic of most, if not all, of the anxiety disorders.</p>
+<p>But, mitochondria control much more than energy production. They regulate calcium, initiate cell death (<em>apoptosis</em>), and produce reactive oxygen species (ROS). When ROS accumulate, they produce oxidative stress. This occurs during chronic psychological stress, and it destabilizes mitochondrial membranes. This impairs the neurons that regulate emotion, executive function, and social cognition. So, mental illness can be understood, at least in part, as a disease of the mitochondria.</p>
 
-<p>Here are some examples of people who struggle with uncertainty and how they rely on technology:</p>
-<ul>
-<li><em>Michael, a middle-aged man with generalized anxiety disorder, constantly worries about his finances and checks his bank accounts multiple times a day to give himself reassurance that everything is OK.</em></li>
-<li><em>Kaia, a new mother with OCD symptoms, finds that she is not sleeping much because she is glued to her video baby monitor to make sure her baby is still breathing.</em></li>
-<li><em>Tysen, a law student who lost his father at a young age to a heart attack, finds that he is now having panic attacks, thinking he too is dying of a heart attack. To try to quell his anxiety, he frequently uses the heart rate function on his watch.</em></li>
-<li><em>Chris, a self-proclaimed hypochondriac, has graduated from Google to AI and asks it about every unusual body symptom they experience.</em></li>
-<li><em>McKenzie knows where her college student daughters are at all times, thanks to Life360 (even though they are both out of state). Of note, her daughters text her throughout the day, frequently seeking her advice or emotional support.</em></li>
-</ul>
+<h2>Stress, the HPA Axis, and Mitochondrial Remodeling</h2>
+<p>The relationship between psychological stress and mitochondria works in both directions. In a <a href="https://pubmed.ncbi.nlm.nih.gov/29389735/">paper</a> in <em>Nature Reviews Neuroscience</em>, Martin Picard and Bruce McEwen proposed that mitochondria act as stress-response hubs. They further suggest these organelles receive signals from other cells and change their shape, either fusing with other mitochondria or breaking apart, and these changes directly affect the resilience of our cells. Stress hormones, such as cortisol and catecholamines, bind to receptors on mitochondrial membranes and influence their energy output.</p>
 
-<h2>Back in the Old Days</h2>
-<p>Before we had this level of access, thanks to technology, we often would have to sit with our anxious feelings when something uncertain arose. People would still feel anxious and maybe would engage in other unhelpful behaviors to reduce this uncertainty. However, it wasn’t as easy as it is today.</p>
+<p>Chronic activation of the hypothalamic-pituitary axis (HPA), which occurs during sustained psychological trauma, depression, and PTSD, causes mitochondria to fragment. This fragmentation impairs neuroplasticity and increases inflammation throughout the brain. The result is similar to what we see in individuals suffering with treatment-resistant depression. Their cognition slows. Their emotions are blunted. Their ability to adapt is decreased. </p>
 
-<p>One of the keys to overcoming anxiety is allowing it to be there, not seeking reassurance from an external source, and learning that it will decrease naturally. The more someone can do that, the better off they will be in the long run.</p>
-<h2>Resisting Reassurance vs. Giving Into It</h2>
-<p>For example, the gold standard of treatment for obsessive-compulsive disorder is called exposure and response prevention. Let’s say that someone has obsessions about germs or dirt. As part of the treatment, they might do something to “contaminate” themselves, such as touching a doorknob or the bottom of their shoe and then resist performing the compulsion (washing their hands). Although very anxiety-producing, through multiple practices, they learn that there is nothing to fear, and their anxiety becomes more manageable and decreases over time.</p>
+<h2>Neuroinflammation</h2>
+<p>One of the most important functions of mitochondria is their role in regulating immunity. Damaged mitochondria release <a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2018.00832/full">mitochondrial damage-associated molecular patterns (DAMPs). </a>This provides a direct link between metabolic stress and the neuroinflammation that is increasingly recognized to contribute to depression, schizophrenia, and post-COVID psychiatric syndromes.</p>
 
-<p>On the other hand, a person with health anxiety who consults ChatGPT multiple times a day about health symptoms does not learn how to cope with the uncertainty of not knowing something. Their anxiety might come down when they check something with AI, but as soon as anxiety returns, they will go back to this same behavior, keeping them in the anxiety and reassurance cycle. In fact, many people will describe their reliance on tech like an addiction.</p>
+<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6333629/">Microglia</a>, which are the brain's immune cells, are very sensitive to signals from mitochondria. When the structure of mitochondria is compromised, microglia become activated and release inflammatory molecules known as “cytokines.” These <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2771334/">cytokines</a> then inhibit the growth of new neurons in the brain and reduce the connections between neurons (synapses). They also produce less serotonin. This combination of <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7178465/">reduced energy production and inflammation</a> may explain why conventional antidepressants are so frequently ineffective.</p>
 
+<h2>The Startling Discovery of Extracellular Mitochondria</h2>
+<p>One of the most surprising recent findings in neuroscience is the discovery that mitochondria can exist and send signals outside of cells. For most of the twentieth century, the idea of extracellular mitochondria was viewed as heretical. Now we know better.</p>
 
-<h2>Breaking Your Reliance on Tech</h2>
-<p>Here are a few steps to reduce your reliance on tech and help manage your anxiety in the long term.</p>
-<p><strong>Step 1. Assess your technology use, as it relates to anxiety.</strong> For the next week, make a list of when you use tech to quell anxiety or reduce your discomfort with uncertainty.</p>
-
-<p><strong>Step 2. Examine the items on the list.</strong> Are there any areas where you could reduce your tech use? It’s often easiest to start resisting with something that causes low to moderate anxiety.</p>
-<p><strong>Step 3. Set some goals to begin.</strong> For example:</p>
-<ul>
-<li><em>I will wait five minutes before asking AI about a body symptom. </em>(This amount of time can slowly be increased.)</li>
-<li><em>I will go from checking my bank account twice a day to only checking three times a week.</em></li>
-<li><em>I will stop wearing my watch because the urge to monitor my heart rate is too great. The doctor never told me I needed to do this.</em></li>
-</ul>
+<p>In 2020, <a href="https://vielight.com/wp-content/uploads/2020/01/Blood-contains-circulating-cell-free-respiratory-competent-mitochondria.pdf">researchers</a> found mitochondria circulating in human blood, encapsulated within extracellular vesicles or as "free" organelles, that could be taken up by cells in order to restore their respiratory function.</p>
+<p>Also, support cells in the nervous system known as <em>astrocytes</em> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4968589/">transfer mitochondria</a> to damaged neurons following injury. This is a type of intercellular rescue, almost like a rocket bringing supplies to a damaged space station. Platelets, which help blood clot, also release mitochondria in response to injury and inflammation.</p>
 
 
 
   
 
 
-<p><strong>Step 4. Re-evaluate your goals. </strong>Celebrate the successes. When you couldn’t reach a goal, consider making a new, more realistic goal. Or, figure out what got in your way.</p>
-<h2>When Your Anxiety Feels Out of Control</h2>
-<p>Not everyone can do this work on their own. Consider finding the help of a therapist if you feel like you can’t get a handle on your anxiety, especially when it comes to the use of technology. It can feel so hard to resist the urge to seek reassurance when the answer is as close as being in your pocket.</p>
+<p>The implications for psychiatry are only beginning to be explored. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10664364/">Cell-free mitochondrial DNA</a> is elevated in the cerebrospinal fluid and blood of individuals with depression compared to healthy controls, suggesting that stressed neural tissue may be expelling mitochondrial contents as a distress signal, although the reason for this release remains unknown.</p>
+
+<p>Even more intriguing is the possibility that extracellular mitochondria might serve as <a href="https://www.sciencedirect.com/science/article/pii/S1567724918301983">messengers</a>, traveling to distant cells and delivering messages to them. If this is confirmed to occur in the human central nervous system, this would demonstrate an entirely new level of brain-body communication that operates in addition to classical neurotransmission and hormonal signaling.</p>
+
+<h2>Therapeutic Possibilities</h2>
+<p>If mitochondrial dysfunction underlies much of psychiatric illness, the therapeutic implications are huge. Exercise remains the most validated mitochondrial intervention. Aerobic activity <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9758933/">stimulates mitochondrial production, enhances antioxidant defenses</a>, and promotes the <a href="https://pubmed.ncbi.nlm.nih.gov/21722657/">growth of new neurons</a>. These effects may partially explain the antidepressant properties of physical activity. Ketogenic and caloric restriction diets provide a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6836190/">shift</a> from carbohydrates to fats as a source of fuel, which reduces oxidative stress. Several agents, including <a href="https://www.nature.com/articles/s41598-017-16183-x">ketamine</a>, stimulate the production of new mitochondria, which may contribute to their antidepressant effects by restoring mitochondrial functioning.</p>
+
+<p>The field of mitochondrial transfer therapy is growing. If mitochondria can be delivered into damaged neurons, the prospect of reversing the energy deficits associated with treatment-resistant mental illness becomes theoretically possible. We are not there yet. But the evidence suggests we might benefit from moving in that direction.</p>
+
+<h2>Rethinking the Cause of Mental Illness</h2>
+<p>Psychiatry has long tried to blame mental illness on problems at the level of the synapse. The mitochondrial hypothesis doesn’t replace that hypothesis. Dopamine and serotonin still matter. But the mitochondrial hypothesis suggests dysfunctional synapses may be only one part of the problem. Neurons that lack sufficient energy cannot release neurotransmitters reliably, or support the neuroplastic changes that underlie learning and memory.</p>
+
+<p>And now, with the discovery that mitochondria travel between cells, carrying energy and possibly signals across the brain, our understanding of mental health must expand. The mind is not merely a chemical event. It is a mitochondrial one too. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/liberate-yourself/202604/is-too-much-information-fueling-your-anxiety" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-leading-edge/202604/mitochondria-and-mental-health" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/liberate-yourself/202604/is-too-much-information-fueling-your-anxiety</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/liberate-yourself/202604/is-too-much-information-fueling-your-anxiety</guid>
-            <dc:creator><![CDATA[Bonnie Zucker Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-leading-edge/202604/mitochondria-and-mental-health</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-leading-edge/202604/mitochondria-and-mental-health</guid>
+            <dc:creator><![CDATA[Mitchell B. Liester M.D.]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/c_girl_on_smartphone.pexels-www.kaboompics.com_.jpg?itok=wsRnV6wU" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Was I Ever Really Young?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/-1_79.jpg?itok=0iZtku-N" alt="Steven Stosny, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Ethics and Morality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Was I Ever Really Young?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Thoughts of youth are more about the present and future than the past.</h2><p style="font-size:0.9em;color:#666;">Posted April 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Youth is not merely a period of life, but a time marked by openness and curiosity.</li><li style="margin-bottom:6px;">At any age, we can cultivate curiosity, creativity, imagination, and enjoyment.</li><li style="margin-bottom:6px;">We feel younger and more optimistic when we use a solid moral compass to guide our behavior.</li><li style="margin-bottom:6px;">A moral compass is an internalized sense of what is right and wrong, with motivation to act accordingly.</li>
-            </ul>
-          </div>
-                    <p>I’ve heard this sentiment from many clients over the years and have, of late, experienced it myself. "Was I ever really young?” is not simply an old person’s lament nor a complaint about time passing too quickly. At heart, it’s a question about the present and future.</p>
-<p>Youth is supposed to be expansive, open, shaped more by wonder than necessity. Yet for many, youth is constricted and filled with premature awareness — of conflict, responsibility, fear, loss, or shame. For many, childhood was less a time of innocence than adaptation. Some children learn very early to read moods, anticipate danger, or carry adult burdens. They may have memories of playing and laughter, but those feel peripheral, more like a movie they saw than recollections of lived experience. Their recollections are filled with vigilance or coping tactics; recalled positive experiences feel like brief respites from the burdens of life and stress.</p>
-
-<p>Youth is not merely a period of life, but a time marked by openness and curiosity. In that sense, it is never lost. What seemed to be missing earlier in life can be discovered later, through conscious choice. We can choose to cultivate curiosity, creativity, imagination, and enjoyment.</p>
-<p>“Was I ever really young?” matters less as a verdict on the past than as a guide for the present and future. If youth was supplanted, interrupted, or deferred, the task is not to resurrect it as it should have been in the past, but to allow its essential qualities to emerge now: be open, engaged, and fully alive to the possibilities of <em>being</em>. </p>
-
-<p>We can do in adulthood what we could not easily do in youth: create meaning and purpose. Those are generative qualities that require lived experience rather than youthful speculation. Mental focus enhances meaning, purpose, curiosity, openness, and engagement. </p>
-<h2>Moral Compass</h2>
-<p>A moral compass is an internalized sense of what is right and wrong, with motivation to act accordingly. The foundation of a moral compass is the belief that care is right and harm is wrong. In youth, we had a rudimentary moral compass, skewed toward comfort, fun, and the moral models of parents, peers, and the media. As such, it was replete with contradictions.</p>
-
-<p>Without a vital moral compass and a sense of basic humanity, we’ll almost certainly experience anxiety or depression. We’re likely to abuse substances or other people or try to replace an internal sense of right and wrong with ideology. Basic humanity and moral character diminish in ideology.</p>
-<p>A moral compass has both positive and negative reinforcers. The former is the sense of well-being that typically accompanies doing what we sincerely believe to be the right thing. The latter is internal guilt when hidden and shame when exposed. Unfortunately, common ways of coping with guilt and shame can obscure the moral compass in a fog of inflated ego, anger, and resentment. Unsurprisingly, these also create the illusion that we were never really young.</p>
-
-<p>The cliche that youth is a state of mind is true only in a shallow sense. We feel younger and more optimistic when we use a solid moral compass to guide our behavior now and in the future. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/anger-in-the-age-of-entitlement/202603/was-i-ever-really-young" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/anger-in-the-age-of-entitlement/202603/was-i-ever-really-young</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/anger-in-the-age-of-entitlement/202603/was-i-ever-really-young</guid>
-            <dc:creator><![CDATA[Steven Stosny, Ph.D.]]></dc:creator>
-            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/pexels-chuchuphinh-1116304.jpg?itok=lgNf6v7h" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-mart-production-7699518.jpg?itok=Mlu0i31U" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
