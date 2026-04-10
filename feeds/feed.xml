@@ -4,165 +4,88 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 18:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 19:45:52 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 18:56:15 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 19:45:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[5 Ways to Accept Yourself More Fully as an Autistic Person]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/clairejacknew.jpg?itok=AjrNCFHL" alt="Claire Jack Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Autism</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Ways to Accept Yourself More Fully as an Autistic Person</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">This Autism Acceptance Month, learn to embrace yourself and others.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[What If We Used AI to Detect Threats to Humanity?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/DMB_2025_Small-removebg-preview.jpg?itok=8YGRDwdh" alt="Mike Brooks Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What If We Used AI to Detect Threats to Humanity?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A tool tested across five AI systems separates real dangers from false alarms.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Autism Acceptance Month invites self-compassion and acceptance of autistic people.</li><li style="margin-bottom:6px;">An autistic person's experience is different, valid, and often takes more effort than others realize.</li><li style="margin-bottom:6px;">A person's past might make sense through an autistic lens, which helps them move forward with support.</li>
+              <li style="margin-bottom:6px;">Anthropic's new Mythos AI escaped its sandbox and posted about it online without being asked to do so.</li><li style="margin-bottom:6px;">The Canary Protocol is a free prompt anyone can use to evaluate how real and serious any threat actually is.</li><li style="margin-bottom:6px;">Five AI systems independently rated Mythos a genuine threat with median evidence of 9/10 and threat 8/10.</li><li style="margin-bottom:6px;">Every AI system identified cooperation, not tribal blame, as the necessary response to serious threats.</li>
             </ul>
           </div>
-                    <p>April is Autism Acceptance Month, making it a great opportunity to more deeply accept ourselves and others as autistic people. It invites us to embrace autism as a different way of thinking, feeling, and acting, while raising awareness in the wider community. </p>
-<p>Autism Acceptance Month can also help us focus inward and ask: What does "acceptance" mean to me as an autistic and neurodivergent person? Here are five ways to approach it.</p>
+                    <p>A researcher at Anthropic recently asked the company's newest AI model, Mythos, to find a way out of its virtual sandbox. It succeeded. Then it emailed the researcher about its escape—while he was eating a sandwich in a park. Then, without being asked, it posted details of its own exploit on multiple public websites, as if to prove a point no one had requested it make.</p>
 
-<ol>
-<li><strong>Accept your experience as different and valid. </strong>It doesn’t matter how well you appear to function or how successful you are. If you’re autistic, getting to wherever you are has probably required a huge amount of effort. You may have had to develop creative strategies to manage things that feel very natural to most people, and you may have always realised that your experience seems very different to people who don’t struggle in the same way. Accepting that things are different for you helps you begin to embrace yourself at a deeper level.</li>
-<li><strong>Accept that it’s OK to have different solutions. </strong>Many of us spend a lifetime pushing ourselves in directions that don’t feel right or comfortable. We “fit in” to societal expectations, no matter how hard it is, and ultimately, we can reach a point of burnout and experience mental health problems. Accepting that you don’t want to do things in the way most people do, or that doing so is exhausting and stressful, can help you feel calmer and more empowered, which can help you feel better in yourself generally.</li>
-<li><strong>Accept that your past experiences are OK. </strong>When we look back, many of us have a checkered history in terms of jobs, relationships, and friendships. It’s easy to judge ourselves and wonder why we "didn’t do better." Why didn’t we stay in a job for longer than a year or two at a time? Why did we fall out with all of those friends? Why haven’t we had a long-term relationship, despite wanting one? When you accept that you are autistic, you can accept that things were just fundamentally harder for you. Looking at things through this lens means that you can accept that it’s OK if you haven’t got all the “markers” of what you might think constitutes a “successful” life. You were operating on a completely different playing field than most of the people around you.</li>
-<li><strong>Accept that things can be different. </strong>Discovering you’re autistic is a profound experience for many people, and, no matter how hard things might have been up to now, they can be different moving forward. Armed with that knowledge, you can make different, supportive decisions and learn to look after yourself in a new way. It doesn’t matter what age you are. You can move forward in a more empowered, informed way from now on.</li>
-<li><strong>Accept that you are perfect. Just as you are. </strong>I’ll finish with the words of Deena, who, after a lifetime of mental health issues, misdiagnoses, and low self-esteem, learned she was autistic at the age of 56. She told me, “I have always really disliked myself. From about age 5 or 6, when I was bullied and left out of things at school. I’ve always wanted to be better, do better. Learning that I’m autistic has allowed me to accept that I’m OK. And I’m even starting to learn to love myself—which is something I never thought would be possible."</li>
-</ol>
+<p>This is not science fiction. This <a href="https://www.axios.com/2026/04/07/anthropic-mythos-preview-cybersecurity-risks">happened last week</a>. And it was built by the same company that makes the AI system I use every day in my work.</p>
+<p>Mythos can find tens of thousands of software vulnerabilities that the best human security researchers would struggle to find. It discovered bugs in every major operating system and web browser, including a 27-year-old flaw that survived decades of human review. It created working exploits on its first attempt 83 percent of the time. Anthropic decided it was too dangerous to release publicly right now.</p>
 
-<p>Autism Acceptance Month invites self-compassion and acceptance of autistic people as we are. Acceptance doesn’t come overnight, but this Autism Acceptance Month, take a while to reflect on what self-acceptance means to you. </p>
+<p>When I read those reports, I had the same reaction I suspect many of you are having right now: <em>How scared should I be?</em></p>
+<p><strong>That question is the problem.</strong></p>
+<p>We are drowning in threats. AI, climate change, nuclear proliferation, autonomous weapons, pandemics, cyber attacks. Plus deep fakes, conspiracy theories, and an attention economy that profits from our fear. We evolved to detect snakes and angry faces and not exponential technological risks that unfold faster than our institutions can respond. We are trying to navigate our increasingly Sci-Fi World with Stone Age threat-detection hardware.</p>
 
+<p>And AI is so much of a game-changer that we can no longer use the past to predict the future.</p>
+<p>So how do we know which threats are real and which are moral panics? How do we hear the alarm above the noise?</p>
+<h2>The Shared Good</h2>
+<p>Before we can assess threats, we need to agree on what we are protecting. The answer is simpler than we might think.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/women-with-autism-spectrum-disorder/202604/5-ways-to-accept-yourself-more-fully-as-an-autistic" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/women-with-autism-spectrum-disorder/202604/5-ways-to-accept-yourself-more-fully-as-an-autistic</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/women-with-autism-spectrum-disorder/202604/5-ways-to-accept-yourself-more-fully-as-an-autistic</guid>
-            <dc:creator><![CDATA[Claire Jack Ph.D.]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/191076966_m.png.jpg?itok=eNq9xvSE" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Psychology of Apology in High-Stakes Failure]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/spssi.jpg?itok=W83DjE6Q" alt="The Society for the Psychological Study of Social Issues" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Law and Crime</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Apology in High-Stakes Failure</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How self-image, legal risk, and reputation shape public apologies.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Sam Bankman-Fried publicly apologized while denying intent, framing the FTX collapse as mismanagement.</li><li style="margin-bottom:6px;">Explanations and blame-shifting allow an apology to acknowledge harm without taking full responsibility.</li><li style="margin-bottom:6px;">Responses to apologies can depend on whether observers see failure as incompetence or a moral breach.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/own_your_error.jpg?itok=afTUlQCh" width="320" height="240" data-insert-type="image" title="Brett Jordan/Unsplash" alt="Brett Jordan/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Brett Jordan/Unsplash</div>
-</div>
-</div>
-</div>
-<p><em>By Akshat Donti, Jennifer K. Robbennolt, &amp; Verity Winship, University of Illinois College of Law</em></p>
-<p>When people cause harm, they face a fundamental tension between preserving a self-image of competence and integrity and taking responsibility for their actions. When potential legal consequences loom, this tension intensifies, forcing them to navigate the competing demands of legal self-protection and moral repair. Sam Bankman-Fried’s response to the FTX collapse illustrates how the psychological dynamics of self-justification and reputation management play out in high-stakes public failures.</p>
+<p>We can argue endlessly about freedom, truth, justice, equity, power, and which is most important. But none of them matter if we are dead. The one thing every human being shares, regardless of tribe, ideology, or belief, is the drive to survive and thrive. That is the shared Good. It is rooted in our biology. It transcends everything else.</p>
 
-<h2>Bankman-Fried’s Public Apology Tour</h2>
-<p>In November 2022, the cryptocurrency exchange FTX, once valued at $32 billion, collapsed after revelations that its founder, Bankman-Fried, had funneled billions of customers’ assets into risky investments, lavish purchases, and political donations. He was convicted of seven counts of fraud and conspiracy, sentenced to 25 years in prison, and ordered to pay $11 billion in forfeited assets. </p>
+<p>And our survival is connected. If Titanic Humanity hits an iceberg, everyone goes down with the ship—captain, crew, and VIPs alike. On the Titanic, the wealthy got the lifeboats. But there are no lifeboats for an existential catastrophe. <em>You are kings imprisoned in bunkers of a ruined world.</em></p>
+<p>This shared Good—survival and thriving—means we must be able to identify existential threats. But in a world of deep fakes, tribal blame, and information overload, how?</p>
 
-<p>Despite his lawyers’ advice to remain silent before trial, Bankman-Fried embarked on a public apology tour, including extended interviews with media, a 22-tweet apology thread, a lengthy letter to employees, and a statement at his sentencing hearing. In each, he expressed regret and accepted responsibility for poor oversight while maintaining his innocence, blaming the pressure he was under, and denying intent to commit fraud.</p>
+<h2>The Canary Protocol</h2>
+<p><em>What if we used AI to help us?</em></p>
+<p>That is the question that led me to develop what I call the "canary protocol": a simple prompt that anyone can paste into any AI system along with a news article, headline, or concern. The AI researches the facts, evaluates the evidence, and returns a structured threat assessment called a <em>Canary Card.</em></p>
 
-<h2>Managing the Fallout of Wrongdoing</h2>
-<p>Bankman-Fried’s blend of apology, explanation, responsibility-taking, and blame-shifting reflects the cognitive and motivational processes people use to manage the fallout of wrongdoing. Doing harm creates cognitive dissonance, and acknowledging wrongdoing threatens moral identity. People are motivated to maintain an image of themselves as good and well-intentioned, and research shows how they protect that self-image even when confronted with harmful outcomes. Reframing harmful actions as "mistakes" or the result of external pressures, justifying or explaining their actions, emphasizing good intentions, morally disengaging, and shifting blame are all cognitive strategies that allow decision-makers to acknowledge harm without accepting full moral blame.</p>
+<p>The canary card tells us, at a glance: Is this claim verified? Is it a genuine alarm, true but overstated, a moral panic, or just noise? How strong is the evidence (1-10)? How serious is the threat (1-10)? And critically, what is the canary alert level—is this an isolated event, or a warning of something much bigger coming?</p>
 
-<p>But self-perception is only part of the story. People are also motivated to repair public perceptions and moral reputation, and public apologies often serve strategic signaling functions that are distinct from internal moral reckoning. Bankman-Fried’s decision to speak publicly—and his lawyers’ advice not to—underlines the tensions between the legal risks of apologizing and the potential legal and interpersonal benefits of apologies. Accepting responsibility can be perilous when criminal consequences or civil liability are at stake. Yet apologies can also shape how observers judge intent, remorse, and trustworthiness, potentially reducing anger, mitigating punishment, increasing willingness to settle, and making forgiveness more likely.</p>
-
-<h2>When Is a Public Apology Most Effective?</h2>
-<p>Psychological research further shows that apologies can be more effective when the violation is seen as a lapse in competence rather than a breach in integrity. Failures of competence—such as errors in judgment, mismanagement, or overconfidence—are generally perceived as more situational, correctable, and compatible with a fundamentally good moral character. </p>
-
-<p>In contrast, integrity violations signal dishonesty or corruption, traits that are seen as more stable and more predictive of future behavior. As a result, public audiences are more willing to restore trust after competence-based failures than after moral transgressions. This distinction matters: Bankman-Fried’s emphasis on oversight failure and external pressures invites observers to interpret his failure as incompetence rather than fraud. Public reactions to Bankman-Fried’s statements may depend on whether people interpret the collapse of FTX as resulting from ineptitude or as evidence of deeper moral failure.</p>
-
-<p><em>Edited by Ashley M. Votruba, J.D., Ph.D., SPSSI Blog Editor, Associate Professor, University of Nebraska-Lincoln.</em></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/sound-science-sound-policy/202604/the-psychology-of-apology-in-high-stakes-failure" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/sound-science-sound-policy/202604/the-psychology-of-apology-in-high-stakes-failure</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sound-science-sound-policy/202604/the-psychology-of-apology-in-high-stakes-failure</guid>
-            <dc:creator><![CDATA[The Society for the Psychological Study of Social Issues]]></dc:creator>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/own_your_error.jpg?itok=0tYh7ptN" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yelling at Your Child Won't Work—but Something Else Does]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/kevin-arnold.jpg?itok=lEf6iGou" alt="Kevin D. Arnold, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Punishment</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Yelling at Your Child Won't Work—but Something Else Does</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Learn to change children's behaviors without angry reprimands.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Positive punishment eliminates problem behaviors without being caustic.</li><li style="margin-bottom:6px;">To effectively change children's behavior, the goal should be to replace the behavior, not just eliminate it.</li><li style="margin-bottom:6px;">Finding out why a child acts out can reveal how to change that behavior.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/istock-92671576.jpg?itok=jY9biY1c" width="320" height="240" data-insert-type="image" title="iStock 92671576 purchased from iStock" alt="iStock 92671576 purchased from iStock"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: iStock 92671576 purchased from iStock</div>
-</div>
-</div>
-</div>
-<p>In the world of applied behavior analysis (ABA), what matters most is the data. Many parents use verbal redirections—often born of anger—to stop their children's behaviors, even though the data indicate the behaviors don't actually stop. In fact, they often get worse. In this post, we will explore why yelling at a child seldom works in the long run and how to win the battle of wills with your child.</p>
-
-<h2>What Is Punishment?</h2>
-<p>Many modern parenting movements cast punishment in a negative light. However, punishment in ABA is simply the application of an outcome that decreases the chances of a behavior recurring. It is not the harsh (often called aversive) response to a child. But, many folks confuse aversives—yelling, spanking, social isolation—with punishment. </p>
-
-<p>Another form of punishment is often called positive punishment. Positive punishment usually works, while aversives typically are not nearly as effective. So why do people keep using aversive strategies?</p>
-<p>The answer is often that the parent feels better when they yell or place their child alone in a room. Sometimes, using an aversive might even work. If it works just enough—and randomly enough—the decrease or elimination of the child's problem behavior is rewarding to the parent. That random pattern of success builds a surprisingly durable habit of reaching for aversives. Unfortunately, what works best will never be tried if aversives are the main strategy. But what if there's a better approach?</p>
-
-<h2>When Do Punishments Become Rewards?</h2>
-<p>When we use punishment to mean aversiveness, what parents intend as punishment often turns into a reward—for everyone involved. Parents feel less anger or stress after yelling at a child, and that reduction in negative emotion is rewarding for them. When children receive attention, even attention that carries angry words, the attention itself can be rewarding. These two dynamics define the major ways "punishments" become rewards.</p>
-
-<h2>What to Do: 3 Steps to Change a Child's Behavior</h2>
-<p><strong>1. Define Punishment and Problem Behaviors</strong></p>
-<p>Keep in mind that punishment reduces—or eliminates—a problem behavior. By holding onto that as your goal, you can refocus when things get hard. Ask yourself: "What specifically do I want my child to stop doing?"</p>
-
-<p><strong>2. Find the Replacement Behavior</strong></p>
-<p>One underused strategy is simply adding something good to a behavior you want to see more of—a replacement behavior. When parents deliberately reward an alternative behavior, the problem behavior gets crowded out. Adding a reward to compete with the problem behavior is more effective, and frankly more pleasant for everyone, than adding a consequence to the problem behavior itself.</p>
-
-<p>A problem behavior keeps happening because of what it produces. Attention is often the payoff. If we know the reward is attention, the next question is: What do we want the child to do instead? Once we identify an alternative, we can reward that replacement behavior consistently and drive down the problem behavior simultaneously.</p>
-
-<p><strong>3. Change How You React</strong></p>
-<p>This is the hardest step—and the most important. Parents will need to:</p>
-<ul>
-<li>Decide what the replacement behavior looks like</li>
-<li>Teach it by setting an example</li>
-<li>Prompt it in situations that used to trigger yelling</li>
-<li>Praise it heavily and pay real attention when the child uses it</li>
-<li>Notice it even when unprompted, so the reinforcement stays consistent</li>
-</ul>
-
-<p>Soon, the replacement behavior will take over, and the old triggers will lose their pull.</p>
-<h2>What to Do if You Need Help</h2>
-<p>Parents of neurodivergent children, in particular, often find themselves responding to aggressive or self-injurious behaviors with anxious or angry attention—largely because those behaviors are overwhelming. That's not failure; that's human. But outside help can make the difference. Finding a provider with genuine ABA expertise can turn things around faster than going it alone.</p>
+<p>The protocol was developed through a roundtable of five AI systems (Claude, ChatGPT, Gemini, Grok, and DeepSeek) and refined through three rounds of feedback and a blind test across five different claims. In that blind test, the protocol achieved an average convergence of 80% across five systems, a promising, if imperfect, first step. This includes correctly identifying a classic moral panic (video game violence) and unanimous agreement on climate change as a genuine alarm.</p>
 
 
 
   
 
 
-<h2>Resources</h2>
-<p>• <a href="https://www.abainternational.org/Shopping/Item-Listing.aspx?intItmKey=24564">ABA International — Parent Resources</a></p>
-<p>• <a href="https://www.apa.org/about/division/div25">APA Division 25 — Behavior Analysis</a></p>
-<p><em>To find a therapist, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+<p>I built this tool because we need to be skeptical—but we must also be skeptical of our own skepticism. Just because there have been many moral panics does not mean there are no real threats. The boy who cries wolf could be wrong a hundred times, but the wolves are still out there.</p>
+<h2>Testing It on Mythos</h2>
+
+<p>So I ran the Canary Protocol on the Anthropic Mythos story. I pasted the same article into five different AI systems, each in a fresh conversation with no prior context. Here is what five independent AI systems said:</p>
+<p>Every system rated the evidence 7/10 or higher. Every system rated the threat level 7/10 or higher. Every system assigned a canary alert of high warning or critical warning. Three classified it as a genuine alarm. Two called it true but overstated. Zero called it a moral panic. Zero called it noise.</p>
+
+<p>The median assessment across all five systems: Evidence 9/10, Threat Level 8/10, High Warning.</p>
+<p>Even the two systems that called it "True but Overstated" stated that the threat is real and serious. Their caution was about the most apocalyptic framing, not about whether AI-driven cybersecurity risks are genuine. One noted: "The verified signal is that frontier AI is entering serious cyber-danger territory."</p>
+
+<p>But here is what struck me most. Every single system, when asked what is driving this threat, stripped away tribal framing entirely. Not one blamed the left or the right. They identified structural incentives: competitive pressure between AI labs, the fundamental asymmetry between cyber offense and defense, decades of accumulated technical debt in critical software, and the absence of international governance frameworks.</p>
+
+<p>And when asked what we can do about it, every system said some version of the same thing: we need to cooperate. Patch aggressively now. Fund open-source security. Build international governance for frontier AI. <em>Work together across every line we have drawn.</em></p>
+<p><em>Our shared fear becomes the reason we finally cooperate.</em></p>
+
+<h2>Try It Yourself</h2>
+<p>Here is the prompt. Copy it into any AI. Paste any headline or article that concerns you. See what the AI says. Then try it with a different AI and compare.</p>
+<p><strong>THE CANARY PROTOCOL: AI Threat Reality Check</strong></p>
+<p>"Analyze the potential threat described below as a disciplined, uncertainty-aware threat analyst. Research and verify the facts. State conclusions directly - do not soften to appear neutral. Be skeptical of both alarm (catastrophizing) and dismissal (normalcy bias). If you cannot verify the information, say so and limit the assessment. Strip all tribal framing.</p>
+
+<p>[PASTE ANY HEADLINE, ARTICLE LINK, OR CONCERN HERE]</p>
+<p>Start with a CANARY CARD: CLAIM: (one sentence) <br>VERIFICATION: Verified / Mixed / Unverified / Insufficient <br>VERDICT: Genuine Alarm / True but Overstated / Moral Panic / Noise <br>EVIDENCE: _/10 <br>THREAT LEVEL: _/10 <br>CANARY ALERT: No Signal / Watch / Concern / High Warning / Critical Warning <br>BOTTOM LINE: (one plain sentence)</p>
+
+<p>Then brief analysis: <br>(1) Evidence vs. Risk, <br>(2) 2/5/10-year signal + one indicator to track, <br>(3) Systemic Drivers (not partisan blame), <br>(4) Top 3 Actions to Reduce This Threat (individual + collective), <br>(5) What Would Change This Assessment?</p>
+<p>Base your assessment on the full content provided, not just its most defensible interpretation."</p>
+
+<p>The next time a headline scares you, instead of doom scrolling, try this. The canary is warning us. The question is whether we listen, and whether we act together before it goes silent.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-older-dad/202604/yelling-at-your-child-wont-work-but-something-else-does" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/tech-happy-life/202604/what-if-we-used-ai-to-detect-threats-to-humanity" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-older-dad/202604/yelling-at-your-child-wont-work-but-something-else-does</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-older-dad/202604/yelling-at-your-child-wont-work-but-something-else-does</guid>
-            <dc:creator><![CDATA[Kevin D. Arnold Ph.D., ABPP]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/tech-happy-life/202604/what-if-we-used-ai-to-detect-threats-to-humanity</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/tech-happy-life/202604/what-if-we-used-ai-to-detect-threats-to-humanity</guid>
+            <dc:creator><![CDATA[Mike Brooks Ph.D.]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/criticism_istock_000039905164medium.jpg?itok=dBlbqGab" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/entering_the_digital_tunnel_with_a_canary.png.jpg?itok=s36C2RfE" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
