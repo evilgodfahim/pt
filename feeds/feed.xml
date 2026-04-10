@@ -4,179 +4,193 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 15:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 16:53:24 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 15:55:26 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 16:53:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Problem With ‘Medically Unexplained’ Symptoms]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-02/Jake-Hollis.jpg?itok=d8rX32ak" alt="Jake Hollis PsychD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Chronic Illness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Problem With ‘Medically Unexplained’ Symptoms</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: What Western medicine gets so wrong about mystery symptoms</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Goose Bumps When Gazing Back at Planet Earth]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/max_louwerse.jpg?itok=lWMmYq1s" alt="Max Louwerse Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Awe</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Goose Bumps When Gazing Back at Planet Earth</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Exploring the physiological responses to the overview effect.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Many experiencing persistent physical symptoms are told by their doctors that there is no medical explanation.</li><li style="margin-bottom:6px;">The problem may be more to do with mainstream medicine's limited assumptions around what causes symptoms.</li><li style="margin-bottom:6px;">Medicine reduces symptoms to structural damage, delegitimizing symptoms that aren't explained by lab tests.</li><li style="margin-bottom:6px;">Mind-body dualism leaves little room for patients to do more than passively cope with "incurable" symptoms.</li>
+              <li style="margin-bottom:6px;">The "overview effect" has been known as the intense experience of awe.</li><li style="margin-bottom:6px;">It often leaves these astronauts with a lasting impact on how they view humanity.</li><li style="margin-bottom:6px;">The SpaceBuzz VR simulation has simulated a journey into space for primary school children.</li><li style="margin-bottom:6px;">A recent study demonstrated physiological responses—skin conductance and heart rate—to the overview effect.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
+                    <p>“You have this amazing place, this spaceship. You guys are talking to us because we’re in a spaceship really far from Earth. But you are on a spaceship called Earth that was created to give us a place to live in the universe, in the cosmos. […] You are special in all of this emptiness. This is a whole bunch of nothing. This thing we call the universe. You have this oasis, this beautiful place that we get to exist in together.”</p>
+
+<p>Astronaut Victor Glover of the Artemis II mission nicely described what many astronauts have described when gazing back at planet Earth from space, what has been known as the "overview effect," viewing Earth from outside the atmosphere, yielding a combination of both the beauty of planet Earth and the hostility and magnitude of space. When planet Earth comes into view, the aesthetic experience of the blue marble in contrast to the hostile darkness of space is considered an intense, and perhaps the most intense, experience of awe. It often leaves these astronauts with a lasting impact on how they view humanity.</p>
+
+<p>A few hundred astronauts who traveled to space had the opportunity to witness Earth from orbit, allowing them to experience the overview effect. How could we let others—those who do not belong to the lucky few who are able to travel to space—experience the overview effect and its lasting consequences? This question the non-profit organization SpaceBuzz aimed to answer with an actual rocket ship that would launch 11-year-olds at primary schools across the world.</p>
+
+<p>Over the last few years, more than 140,000 school children have experienced the overview effect. As part of an education program by the non-profit organization SpaceBuzz, spearheaded by two-time European Space Agency astronaut André Kuipers, children apply to become an astronaut at their school. They go through a series of fun exercises to ultimately pass the astronaut training, and when they graduate as astronauts, an actual rocket ship drives up in their school yard. Seated in hydraulic chairs and dunned with a virtual reality headset, they are launched into space and enter into an orbit around planet Earth. Guided by Kuipers as a virtual human, they are told about viewing the blue marble from space, a planet without borders, a planet in the vastness of space. When the young astronauts return to Earth, they give press conferences to friends and family, just like real astronauts.</p>
+
+<p>The SpaceBuzz VR simulation aims to simulate the overview effect, has attracted enthusiastic responses from children, teachers, and parents alike. But does the simulation actually simulate the overview effect? Is that special emotion of awe actually triggered by the VR simulation?</p>
+<p>A recent study aimed to answer this question by monitoring physiological responses in participants who experienced the SpaceBuzz VR simulation, and particularly monitored when planet Earth came into view in the vastness of space. Participants wore gel-covered sensors one below the collar bones and one below the heart on the chest to create an electrocardiogram (ECG) measuring their heart rate and heart rate variability. They wore electrodes on the index and middle fingers to measure changes in their skin conductivity. And they wore a band around their upper body to monitor their respiration. All three signals—heart rate, skin conductance, and respiration—at different instances during the VR simulation were compared with the moment in the VR simulation that was supposed to create the overview effect. Respiration did not show much; people were hardly holding their breath at that specific moment. Heart rate showed an interesting spike with an increase in beats per minute (BPM) at the moment of the overview effect, a spike that could not be explained by anything other than that moment in the VR experience. Heart rate variability showed a similar spike, but one that was downward. But most prominent was the skin conductance responses that showed a major spike, a brief burst of emotional activation exactly at the time of the overview effect.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/usman-yousaf-qwbg-fhqjkq-unsplash.jpg?itok=UBRtbyED" width="320" height="213" data-insert-type="image" title="Usman Yousaf / Unsplash." alt="Usman Yousaf / Unsplash."></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Usman Yousaf / Unsplash.</div>
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-04/screenshot_2026-04-08_222302_1.jpg?itok=QsuwmBYa" width="639" height="477" data-insert-type="image" alt="Skin Conductance Responses throughout the entire simulation, per segment. Horizontal line corresponds to the general median (excluding the overview effect event). " title="van Limpt-Broers, Postma,Louwerse (2026)"></div>
+<div class="caption">Skin Conductance Responses throughout the entire simulation, per segment. Horizontal line corresponds to the general median (excluding the overview effect event).</div>
+<div class="insertArea--origin subtext">Source: van Limpt-Broers, Postma,Louwerse (2026)</div>
 </div>
 </div>
 </div>
-<p>Most of my patients first come to see me in states of extreme confusion, frustration, and exasperation. They have commonly already seen a number of different doctors—generalists and specialists alike—in search of a coherent explanation for their symptoms, only to be routinely told that all tests have come back normal, and that no medical explanation for their suffering can be found.</p>
+<p>Obviously, it is tempting to question these findings. Does the physiological response really come from the overview effect? Is it not just a matter of being in a VR simulation when physiology changes over time due to an immersive effect? The study investigated these questions extensively. Findings could simply not be explained by changes over time. The spikes that were detected were really spikes, and they really happened around the overview effect, significantly more (or less, as was the case for heart rate variability) than before or after the overview effect scenes or other scenes in the VR simulation.</p>
 
-<p>Sometimes these patients are told that there’s nothing wrong with them. Sometimes, their doctors suggest that they may be suffering from an underlying disease that has not yet been uncovered by medical science. And sometimes, their doctor tells them that the problem is somehow all in their head.</p>
-<p>At best, sufferers are offered diagnoses that turn out to offer a mere description of their symptoms, rather than an explanation or a pathway to treatment: think chronic pain syndrome, post-COVID-19 syndrome, chronic fatigue syndrome, and irritable bowel syndrome.</p>
+<p>These findings demonstrate what an earlier study on brain imaging also showed. Changes in frequency bands in the brain during an electroencephalogram (EEG) study, as well as spikes in physiological responses, were found during the VR simulation that could only be attributed to something known as the overview effect.</p>
 
-<p><a href="https://journals.lww.com/bsam/fulltext/2023/01000/predictors_of_persistent_somatic_symptoms_in_the.10.aspx">Research suggests that</a> around a quarter of general practice patients experience significant persistent physical symptoms, and that roughly 10 percent have a history of multiple, distressing chronic symptoms.</p>
-<p>Fortunately, a <a href="https://www.tandfonline.com/doi/full/10.1080/02813432.2026.2633765">growing body of research</a> from neuroscience and psychoneuroimmunology is offering scientifically robust explanations for why some people develop persistent physical symptoms, even in the apparent absence of an underlying disease.</p>
-
-<p>What remains highly problematic is that most health professionals are not aware of this new science, nor of the emerging treatments that can help people to recover.</p>
-<p>As a result, besides a possible referral to a counselor or psychologist to help the person learn to cope with their apparently inexplicable and incurable symptoms, many clinicians have come to believe that their job is complete once disease has been excluded as an explanation for their patients’ suffering.</p>
-
-<p>This isn’t to vilify doctors who haven’t been trained in the latest science, but rather to draw attention to the sluggish failure of mainstream medicine to expand and update its core assumptions around health and illness. </p>
-<p>So, what are these increasingly outdated assumptions that prevent medicine from being able to explain and treat persistent symptoms?</p>
-
-<h2>Unhelpful assumption 1: Analyzing biological phenomena at a microscopic level is the only way to understand and cure illness</h2>
-<p>Medicine is reductionistic. That’s not me being mean about it. Reductionism is the very word that medicine uses to describe its core project of analyzing human biology at a microscopic level in search of a single pathophysiological cause of illness.</p>
-
-<p>Reductionism is based on Louis Pasteur’s “germ theory,” which emphasized the central role of the “germ”—namely, pathogens like bacterial and viral infections—in causing disease. This approach has been nothing short of miraculous in reducing human suffering at the hands of communicable disease, and it remains essential today.</p>
-
-
-<p>However, in the 21st century, much human suffering, especially in the Western world, is caused by chronic health conditions that <em>do not have a single underlying cause. </em>Instead, chronic illness typically has <em>multiple interacting causes,</em> including chronic stressors, exposure to toxins, and lifestyle factors, like diet, smoking, alcohol, and poor sleep.</p>
-
-<h2>Unhelpful assumption 2: All physical symptoms must have a single biological cause</h2>
-<p>Mainstream medicine also tends to presume that physical symptoms must always be reduced to a single biological cause. In other words, some kind of damage is done to the tissue of the body, and this directly results in symptoms, like pain, fatigue, nausea, or brain fog.</p>
-
-
-
-  
-
-
-<p>This model is logical and intuitive. But as my patients, and millions of others around the world know, sometimes it falls down. Commonly, there <em>are</em> symptoms, but tests indicate that the body is healthy.</p>
-<h2>Unhelpful assumption 3: Physical problems with a structural biological cause are more real and legitimate than physical problems without one</h2>
-
-<p>Very much standing on the shoulders of the first two assumptions, there is a strange implicit hierarchy in modern medicine. This hierarchy states that the suffering of people whose symptoms can be explained by lab tests is somehow more valid than that of individuals whose symptoms cannot be.</p>
-<p>One day, hopefully, society will look back in shame at a health care system that practiced according to this arbitrary notion of what constitutes legitimate suffering.</p>
-
-<h2>Unhelpful assumption 4: The mind and body are completely separate entities</h2>
-<p>For several hundred years, Western thinking has separated mind and body. This view was most famously espoused by the 17th-century French philosopher René Descartes, whose theory of mind-body dualism argued that the mind and body are completely separate and could exist independently of each other.</p>
-
-<p>While most medics today would not be quite as hard-line as this, it is striking to consider how we still live very much in line with this philosophy. We have separate hospitals and branches of medicine devoted to physical and mental health.</p>
-<p>In the words of some <a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763416304729">pioneering researchers</a> on persistent physical symptoms:</p>
-
-<blockquote><p>The divide of Western medical systems into either ‘physical’ or ‘mental’ health disciplines is arguably responsible for most controversies regarding MUS [medically unexplained symptoms], with physical and mental health specialists favoring distinct terms, diagnostic criteria and illness narratives for an overlapping set of complaints.</p>
-</blockquote>
-
-<h2>Unhelpful assumption 5: You can only hope to cope with persistent physical conditions</h2>
-<p>On the back of the failure of mainstream medicine to make sense of persistent physical symptoms, there has emerged a culture of overwhelming pessimism surrounding the expected health outcomes of people living with chronic fatigue, pain, and countless other symptoms.</p>
-
-<p>Researchers at the University of Oxford interviewed teams of healthcare practitioners working with people living with conditions like fibromyalgia and ME/CFS. <a href="https://www.sciencedirect.com/science/article/pii/S0277953625006446">The research suggested that</a> medics, charities, and government departments granting disability benefits all talk about these conditions—and require sufferers to talk about their own symptoms—in ways which reinforce the narrative that these are illnesses that the vast majority of people do not recover from.</p>
-
-<p>The name of the research paper says it all: “Chronicity rhetoric in health and welfare systems inhibits patient recovery.”</p>
-<h2>Unhelpful assumption 6: Recovery from illness is a passive process</h2>
-<p>Finally, a medical model founded on acute, communicable illnesses teaches us that simply being prescribed the right antibiotic or antiviral medication is sufficient to get us back to health.</p>
-
-<p>But for people living with persistent physical symptoms, which tend to have multiple interacting causal and sustaining factors, recovery from illness often requires a multi-pronged approach. The patient cannot afford to be a passive recipient of medical treatment; instead, they must take active ownership of their recovery. </p>
-
-<p>If this prospect feels a little overwhelming, you may draw some inspiration from Sarahjane Belton, an associate professor of physical education, who wrote of <em>her</em> recovery from long COVID:</p>
-<blockquote><p>…confidence, and trust in myself, became central to my recovery. I started exercising autonomy and advocating for myself. I sought out specific help from health professionals when I knew what I needed. I trusted myself and my own growing body of knowledge and took full ownership of my recovery. I still met shaming experiences with health professionals but was able to quickly recover trust and confidence in myself.</p>
-</blockquote>
+<p>The findings of these studies tell us more about neurophysiological responses to the overview effect, they tell us something how the overview effect can be triggered in VR simulations, but perhaps most importantly, they provide empirical evidence for allowing the overview effect and the lasting impact on how they view humanity be experienced to young ambassadors of planet Earth.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-fatigue-psychologist/202604/the-problem-with-medically-unexplained-symptoms" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202604/goose-bumps-when-gazing-back-at-planet-earth" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-fatigue-psychologist/202604/the-problem-with-medically-unexplained-symptoms</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-fatigue-psychologist/202604/the-problem-with-medically-unexplained-symptoms</guid>
-            <dc:creator><![CDATA[Jake Hollis PsychD]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202604/goose-bumps-when-gazing-back-at-planet-earth</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202604/goose-bumps-when-gazing-back-at-planet-earth</guid>
+            <dc:creator><![CDATA[Max Louwerse Ph.D.]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/usman-yousaf-qwbg-fhqjkq-unsplash.jpg?h=dc2fad39&amp;itok=cdwVxJcF" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/art002e009288orig.jpg?itok=7kfyroZN" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[3 Signs You’re Outsourcing Intimacy in Your Relationship]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Signs You’re Outsourcing Intimacy in Your Relationship</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Some partners avoid practicing intimacy themselves, relying on external sources.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Writing as a Tool for Self-Understanding]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-06-23_at_1-removebg-preview_af.jpg?itok=CAxxtRWe" alt="Dorothy Suskind Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Help</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Writing as a Tool for Self-Understanding</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Research-backed protocols for navigating stress, healing, and future planning</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Intimacy thrives in those small, everyday moments, not in big, scheduled events.</li><li style="margin-bottom:6px;">Occasional deep talks can build emotional closeness, but they don't replace continuity.</li><li style="margin-bottom:6px;">Focusing on regular, daily connection can strengthen intimacy.</li>
+              <li style="margin-bottom:6px;">Spend 15 minutes writing through deep emotion to clear your mind and boost long-term health.</li><li style="margin-bottom:6px;">Externalize daily work frustrations in a daybook to stop rumination and find peace.</li><li style="margin-bottom:6px;">Write before or after a medical procedure to accelerate recovery.</li><li style="margin-bottom:6px;">Use writing to practice how you will show up for future events.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/priscilla-du-preez-xm4wunvbckk-unsplash__1_.jpg?itok=1zDZzS6A" width="320" height="320" data-insert-type="image" title="Priscilla Du Preez / Unsplash" alt="Priscilla Du Preez / Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/screenshot_2026-04-10_at_9.01.31_am.png.jpg?itok=Fxoz6Bxm" width="320" height="409" data-insert-type="image" title="By Truecreatives from TrueCreatives" alt="By Truecreatives from TrueCreatives"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Priscilla Du Preez / Unsplash</div>
+<div class="insertArea--origin subtext">Source: By Truecreatives from TrueCreatives</div>
 </div>
 </div>
 </div>
-<p>Have you noticed how intimacy has started to occur in sporadic bursts? We schedule, package, and designate it for special occasions. Sometimes, even “deep conversations” are handled like calendar items, something we can only do when we finally have time.</p>
-<p>This is a reflection of a more general cultural inclination to event-based intimacy, the assumption that closeness is something created by discrete, emotionally charged moments rather than by ordinary, repeated interactions. To put it another way, intimacy is turning <a href="https://www.psychologytoday.com/us/blog/social-instincts/202601/3-relationship-patterns-that-you-need-to-break-this-year">episodic instead of ecological</a>.</p>
+<p dir="ltr">I recently had a loss. </p>
+<p dir="ltr">Of the professional kind, but still, it felt like a death of sorts. The loss of the opportunity charged me to wrestle with some hard truths, contemplate how to fill the hole left by the void, and navigate a road to acceptance, a place I haven’t yet arrived. </p>
+<p dir="ltr">But as a writer who founded and co-directed my university’s writing project, I did what I have always known to do. I wrote. This writing was not for public consumption but rather a private conversation in my daybook (my word for journal), a practice learned from Don Murray (1991), the mentor I never met, whose widely prescribed writing advice was <em>to write privately from wounds and publicly from scars</em>.</p>
 
-<p>The paradox is that long-term intimacy is not developed through intensity, novelty, or even vulnerability alone, but through micro-processes. This includes moments of responsiveness, attention, and emotional attunement that are often so ordinary that we forget about them.</p>
-<p>For instance, studies by renowned relationship researcher Dr. John Gottman indicate that couples’ happiness depends less on overtures of love and more on how partners respond to each other’s bids for connection in everyday life. Yet culturally, we keep outsourcing intimacy to events.</p>
+<h2>Expressive Writing</h2>
+<p dir="ltr">Inside my daybook, I was engaging in expressive writing, a powerful practice pioneered by James Pennebaker (1997), Professor Emeritus of Psychology at the University of Texas at Austin. His original research was carried out with college students, in which the experimental group was asked to explore their deepest emotions and thoughts around a stressful or traumatic event, while the control group was invited to write about innocuous happenings, like documenting what they did over the last day, couching it as an exploration of time management. Each group wrote for 15 minutes across four consecutive days; all entries remained anonymous. </p>
 
-<p>Here are three common ways we do it, and why they undermine the very closeness we are trying to create.</p>
-<h2>1. Outsourcing Intimacy to ‘Quality Time’ Instead of Being Present</h2>
-<p>One of the most popular modern myths about intimacy is that it lives inside “quality time.” The idea is that if we can just carve out a dedicated block during the day, then closeness will naturally emerge. This belief has intuitive appeal because time feels like a scarce resource, and intimacy feels time-intensive. So, we treat it like a project that requires a special container.</p>
+<p dir="ltr">Though some students in the experimental group experienced negative moods and elevated blood pressure immediately following their writing sessions, in the long term, they enjoyed more positive health outcomes, as measured by subsequent visits to the student health center across a six-month period (Pennebaker &amp; Beall, 1986). </p>
 
-<p>But psychologically, intimacy is less about time quantity and more about attentional quality. What matters is not how long you are together, but how available you are to each other in the moments you already share. Feeling understood, validated, and emotionally cared for is one of the strongest predictors of intimacy and relationship satisfaction.</p>
+<p dir="ltr">These results have been replicated across decades and with diverse populations, including war veterans, cancer survivors, new mothers, caregivers, health care workers, first responders, victims of crime, those who have lost their jobs, and the incarcerated. Plus, the duration and spacing of each writing session appear to be inconsequential. Across studies, session lengths ranged from 2 to 30 minutes, and time duration between sessions spanned hours to weeks (Baddeley &amp; Pennebaker, 2011; Kartikaningsih et al., 2023; Pennebaker &amp; Smyth, 2016; Procaccia et al., 2021; Sexton et al., 2009; Vieira, 2019; Wu et al., 2021).</p>
 
-<p>This is echoed by <a href="https://link.springer.com/article/10.1007/s10591-020-09562-6">a 2021 study</a> in <em>Contemporary Family Therapy </em>that examined how partners spend their time each day. The results show that, even after accounting for how couples communicate during conflict, the strongest predictor of closeness and satisfaction is not time spent together per se, but time spent simply talking, in ordinary, low-stakes, non-dramatic ways. In contrast, shared activities or increased time alone together do not reliably predict greater intimacy unless they involve emotional engagement.</p>
+<p dir="ltr">You, however, do not need to be in an expressive writing study to reap the benefits. Like me, simply sit down and write about what is hurting your heart and keep returning to the page for at least several days. Then, watch your mind clear, your mood elevate, and new understandings bubble up from the page.</p>
 
-<p>It is micro-availability that helps build intimacy. In practice, it looks like turning toward your partner when they casually mention being tired, asking a follow-up question instead of offering a solution, or remembering what they were anxious about last week and checking in.</p>
-<p>These moments are not dramatic, but they are precisely where the nervous system learns, over time, “This person is psychologically present with me.” And that, ultimately, is the true character of intimacy.</p>
+<p dir="ltr">In addition to expressive writing protocols, there are other similar and powerful ways to put writing to work to combat stress, aid in healing, reflect on what you are learning from books, and serve as a practice tool for navigating future events. </p>
+<h2>Write to Reduce Stress</h2>
+<p dir="ltr">Writing has been shown to be a great stress buster. El-Kader (2026) and colleagues conducted research on first-year nursing students, inviting them to write about topics that typically cause elevated stress and anxiety, such as exams, academic expectations, and general college life. They found the process produced significant stress reduction immediately following each writing invitation, and the effects remained strong three months out. </p>
 
-<h2>2. Outsourcing Intimacy to ‘Depth’ Instead of Continuity</h2>
-<p>Another common outsourcing pattern involves the belief that intimacy requires long, vulnerable conversations, emotional disclosures, and moments of catharsis. Vulnerability is a core mechanism of bonding, after all. But problems arise when intimacy becomes equated only with emotional intensity.</p>
+<p dir="ltr">I regularly put this practice to work, taking time most evenings and sometimes midday to record my emotions brought on by daily work stressors. By externalizing my internal monologue, I stop the rumination cycle, and frustrations untangle. Plus, such self-disclosure releases the pressure valve, shielding my family from my rantings, for I have already gotten it all out before we sit down for dinner. </p>
 
 
-<p>For many people, their relationships often oscillate between two modes: surface-level daily functioning and occasional “deep talks.” Emotional closeness becomes something we drop into and then exit, rather than something that runs continuously in the background. This only leads to emotional discontinuity. The nervous system does not experience a stable sense of being known. Instead, it experiences brief windows of connection separated by long stretches of emotional absence.</p>
+<h2>Write to Accelerate Healing</h2>
+<p dir="ltr">Unlike the regular occurrence of daily stress, sometimes unexpected health concerns force us to stop the clock and take a necessary pause for medical treatment. Robinson and colleagues (2017) conducted a study of patients undergoing a punch biopsy, with some participants engaging in reflective writing before the procedure and others afterward. Both groups showed that privately recording their emotions accelerated healing compared to those who simply wrote about neutral topics. In addition, research indicates that engaging in writing about trepidation about the procedure prior to its occurrence or within the first six days following is more likely to assist with healing than postponing the start date of writing.</p>
 
-<p>Studies on <a href="https://compass.onlinelibrary.wiley.com/doi/am-pdf/10.1111/spc3.12648">perceived partner responsiveness</a> show that individuals who perceive their partners as reliably attuned report lower attachment anxiety and avoidance within that specific relationship. This means that secure attachment is built through the predictability of emotional access, not through isolated episodes of emotional depth.</p>
+<p dir="ltr">Several years back, after a serious car accident, I started writing on the third day following my second surgery, and continued that practice on each consecutive day for the next six months, finding the practice to be cathartic. Plus, now I have a written history of a traumatic event, and as a researcher, that fascinates me. This summer, as an autoethnographic endeavor, I plan to code my daybook entries for emerging themes in an attempt to better understand my experience and situate it more broadly within the stories of others who suffer from chronic pain (Chang, 2008). </p>
 
 
 
   
 
 
-<p>Intimacy, in this sense, is not about how deep you go, but rather about how often you stay emotionally open. This includes small disclosures (“I felt a bit off today”), low-stakes emotional signals (“That actually hurt my feelings”), and even shared boredom.</p>
-<p>These moments normalize emotional events in a relationship. Waiting for deep moments to connect can reduce intimacy to mere performance. People begin editing themselves unconsciously, postponing their real feelings for a future moment that feels important enough to hold them.</p>
+<h2>Pair Writing With Books </h2>
+<p dir="ltr">Books like writing are a salve, offering insights into ourselves and others and, at times, an escape hatch when the world feels overwhelming. When reading and writing are paired, the impact can magnify. For example, Bowman (2020) partnered poetry, lyrics, and books on grief with his own creative wonderings to navigate the complex trauma of losing his grandson to an overdose. </p>
 
-<h2>3. Outsource Intimacy to Rituals Instead of Relational Skills</h2>
-<p>The third form of outsourcing is more structural and involves relying on rituals to carry intimacy for us.</p>
-<p>This practice is not entirely wrong; rituals do have psychological power. They create meaning, identity, and shared narratives. They help people mark transitions and feel anchored in something larger than themselves. But rituals cannot be a substitute for relational skills.</p>
+<p dir="ltr">Sharma (2023) conducted a form of <em>dyadic bibliotherapy,</em> the reading of informational and self-help books to help individuals understand and manage an identified emotional challenge. Working with students enrolled in a Post-Graduation Diploma in Management Program, she helped to identify two skills in need of development: self-management or the regulation of thoughts, emotions, and behaviors; and efficacy-building or the process of cultivating someone’s personal belief in their ability to complete a specific task or find success in a specific circumstance. To aid in this work, she identified nine self-help books, pairing assigned reading with reflective journal entries in which students internalized the text and applied it to their personal situation and career goals. Next, they shared these insights with their peers and culminated the experience by writing a letter to the author about salient insights, a process that allowed them to document their growth in the targeted areas.</p>
 
-<p>In a <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0034272">13-year study </a>of long-term married couples, researchers found that what predicted marital satisfaction over time was not the relationship stage or shared history, but how effectively partners regulated negative emotions during everyday conflict.</p>
-<p>Couples who were better able to downregulate emotional reactivity and communicate constructively during disagreements reported higher satisfaction both in the moment and in the years that followed. Intimacy was shaped by micro-level interaction processes, not by symbolic markers of commitment.</p>
+<p dir="ltr">Though I have used a similar process in my undergraduate senior seminars, I also regularly engage in the personal practice. For example, a few weeks ago, I read Nolan’s (2026) <em>A Good Woman: A Reckoning</em>. Deeply connecting to her essays, throughout that reading, I texted favorite quotes to friends that sparked conversations and recorded reflections in my daybook. Those reflections began as cathartic outpourings of emotional connection and transitioned into actionable steps to intentionally put my new learning into practice. </p>
 
-<p>Intimacy, in reality, is not a state you enter; it is a system you maintain. It lives in how conflict is handled, how bids for attention are received, and how differences are negotiated. These processes repeat hundreds of times a month, shaping the emotional climate of the relationship far more than any milestone ever could.</p>
+<h2>Write to Rehearse Future Events</h2>
+<p dir="ltr">Lastly, writing can be an act of rehearsal, a trying out of how you wish to cope or show up for a future event. Zhang (2023) and colleagues, as part of a larger protocol, had participants, over four days, write future-focused reflections, or rehearsal entries, documenting what they would do and say if the stressor or traumatic event were to happen again. Those who engaged in rehearsal writing exhibited a greater propensity to stay actively engaged in potentially challenging situations, as opposed to retreating. Rehearsing through writing may also increase resilience due to the cognitive restructuring of past patterns of unproductive behavior, setting people up for future success. </p>
 
-<h2>Practicing Intimacy as a Daily Skill</h2>
-<p>If intimacy were treated less like an event and more like a skill, our relational culture would look very different. We would focus less on creating special moments and more on cultivating stable interaction patterns. This would mean:</p>
-<ul>
-<li>Responding to small emotional cues instead of waiting for big conversations</li>
-<li>Maintaining emotional access during neutral moments, not just during crises</li>
-<li>Developing communication and regulation skills instead of relying on rituals to convey meaning</li>
-</ul>
-
-<p><em>A version of this post also appears on Forbes.com.</em></p>
+<p dir="ltr">The writing experiences shared above can be tried out in the privacy of your own home, as I have often done myself, but their power may be better understood and magnified when working in partnership with a mental health professional, especially when the pain or situation is significant.</p>
+<p dir="ltr">In many ways, all types of writing are autobiographical, bringing ourselves inside the experience, regardless of the topic, as Don Murray (1991) aptly describes, “As I look back, I suspect that no matter how I tuned the lyre, I played the same tune. All my writing—and yours—is autobiographical” (p. 66). It is within this understanding that a reckoning occurs. Storytelling, in this sense, whether it be through writing, painting, or performance, is a way of reflecting on past stories, integrating experiences into the present moment, and making plans for a brighter future (Mesa et al., 2025).</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202604/3-signs-youre-outsourcing-intimacy-in-your-relationship" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/bully-wise/202604/writing-as-a-tool-for-self-understanding" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/social-instincts/202604/3-signs-youre-outsourcing-intimacy-in-your-relationship</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202604/3-signs-youre-outsourcing-intimacy-in-your-relationship</guid>
-            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/bully-wise/202604/writing-as-a-tool-for-self-understanding</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/bully-wise/202604/writing-as-a-tool-for-self-understanding</guid>
+            <dc:creator><![CDATA[Dorothy Suskind Ph.D.]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/priscilla-du-preez-xm4wunvbckk-unsplash__1_.jpg?itok=mztstUZp" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/screenshot_2026-04-10_at_9.01.31_am.png.jpg?itok=wrHSTZ83" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why You Can Change Your Mind at the Last Minute]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/untitled_2_0.jpg?itok=sNYHTgsC" alt="Robert Taibbi L.C.S.W." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Decision-Making</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why You Can Change Your Mind at the Last Minute</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The key to making big decisions is to get your rational brain online.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Changing our minds at the last minute is a common outcome of the overall decision process.</li><li style="margin-bottom:6px;">Over time, as we gather more information and our excitement wanes, we see the pros and cons more clearly.</li><li style="margin-bottom:6px;">The keys are avoiding getting swept up in emotions and bringing our rational brain back online.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pros-5201376_1280.jpg?itok=lIS164Fg" width="320" height="189" data-insert-type="image" title="Tumisu / Pixabay" alt="Tumisu / Pixabay"></div>
+<div class="insertArea--origin subtext">Source: Tumisu / Pixabay</div>
+</div>
+</div>
+</div>
+<p>Sam was recruited for a new job. The VP took him out to lunch and said they were looking forward to his coming on board. Sam left the meeting feeling excited and wanted; the job seemed like a good challenge, a step up in his career, and the company a good fit. But as he toured the offices, he found himself, to his own surprise, changing his mind. He gave himself the evening to think it over, but then called the department head and said he was sorry but had decided to decline the offer.</p>
+
+<p>Why the last-minute about-face? Here’s what’s likely driving it:</p>
+<h2>The decision triangle</h2>
+<p>We can think of the decision-making process as a triangle, with its broad base at the bottom and its point at the top. When Sam first hears about the job, or you go on a first date with someone new, your emotions are likely a mix of excitement and ambivalence simply because you don’t know much about the job or the other person. As you get to know them, gather more information, and move up the triangle, your feelings become clearer: Yes, you’re really interested in the job, the person.</p>
+
+<p>But as you reach the apex—you tour the offices, you need to sign the employment contract, you hit the church steps just before the wedding—the ambivalence suddenly turns to clarity. Sam looks around the office and, consciously or subconsciously, picks up on a different vibe in the work environment; the bride or groom’s lower-level red flags suddenly come into clear focus. With boots on the ground and the pressure of making a final decision, you suddenly see and feel what was vague before. Sam declines the job, and the bride or groom becomes the runaway bride or groom.</p>
+
+<h2>The initial excitement wears off</h2>
+<p>After his lunch with the VP, Sam felt pumped; ditto after your fourth date—those feelings of being wanted, those fantasies about the wonderful future. But as reality sets in, Sam may realize that the job will require long hours, and the increased salary doesn’t really offset the lifestyle change. Though you’ve never had an in-depth conversation about it, you mentally piece together offhanded remarks and worry that you and your new partner are on slightly different pages regarding long-term goals and priorities.</p>
+
+<h2>Old regrets or mistakes surface</h2>
+<p>Maybe Sam or you have made some regrettable and impulsive decisions in the past. As you both move up the triangle, these regrets rear up; you worry you’re about to make another bad decision and repeat history. Rather than moving ahead, Sam and you feel overwhelmed and cautious, causing you to pull back at the last minute.</p>
+
+<p>What does all this mean when you need to make big decisions? Here are some suggestions:</p>
+<h2>Realize that you’re getting emotionally swept up</h2>
+<p>The new job and the new date are… new. If there’s any chemical, emotional resonance—feeling wanted, feeling connected, or good sex—these feelings are not only normal but oxytocin and dopamine-fueled. Your midbrain has taken over, and your rational brain is offline.</p>
+
+<h2>Slow it down; get more information</h2>
+<p>Resist the urge to rush ahead. Time for Sam to ask about working hours or salary. Time to talk about future visions or those red flags.</p>
+<h2>Feel free to tweak and negotiate</h2>
+<p>Sam asks whether he can work from home or is eligible for a raise in six months. Your vision talk includes your longer-term goal of moving closer to your parents or having one child instead of three. Speaking up at this point serves two purposes: gathering the information you really need and testing the system’s process. Is it OK for me to speak up and say what I need as my needs change? Are you flexible and open to negotiation?</p>
+
+<h2>Change your story about your past</h2>
+<p>If your past is haunting you and keeping you stuck, maybe it’s time to revise your past. Rather than worrying about repeating history, step back and ask yourself: What was the moral of the story of that bad job or relationship decision?</p>
+<p>Bad decisions are not reasons to club yourself and be afraid, but lessons to learn and apply. If you can extract the lesson, you can separate past from present and move forward with confidence.</p>
+
+<h2>Have a plan for the worst-case scenario</h2>
+<p>Sam decides that if the job isn’t the fit he expected, he can always work a year and then find a new job, and he will leave with new skills and improved awareness of what really works for him. Or you get a prenup to provide some sense of security that if the relationship does blow up, for whatever reason, you know what the outcome will be. This gives you a sense of control and pushes that nagging worry aside.</p>
+
+
+
+  
+
+
+<h2>Rational brain vs. emotional brain</h2>
+<p>The theme is making room for your rational brain—thinking about what you need, what’s important, and the mistakes and regrets of the past—to keep your emotional brain at bay. Make this the goal by stepping back and asking yourself the harder, bigger questions: What do I really want? What do I need most now? What can I do now to resolve my anxiety?</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/fixing-families/202604/why-you-can-change-your-mind-at-the-last-minute" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/fixing-families/202604/why-you-can-change-your-mind-at-the-last-minute</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fixing-families/202604/why-you-can-change-your-mind-at-the-last-minute</guid>
+            <dc:creator><![CDATA[Robert Taibbi L.C.S.W.]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pros-5201376_1280.jpg?itok=fyyNktbO" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
