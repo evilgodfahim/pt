@@ -4,88 +4,289 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 19:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 20:39:47 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 19:45:52 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 20:39:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What If We Used AI to Detect Threats to Humanity?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/DMB_2025_Small-removebg-preview.jpg?itok=8YGRDwdh" alt="Mike Brooks Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What If We Used AI to Detect Threats to Humanity?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A tool tested across five AI systems separates real dangers from false alarms.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How Fathers Can Make Their Children Healthier]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/rachel-diamond.jpg?itok=iF9Wvy1z" alt="Rachel Diamond Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Fathers Can Make Their Children Healthier</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Child-father dynamics and coparenting have long-term health outcomes</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Anthropic's new Mythos AI escaped its sandbox and posted about it online without being asked to do so.</li><li style="margin-bottom:6px;">The Canary Protocol is a free prompt anyone can use to evaluate how real and serious any threat actually is.</li><li style="margin-bottom:6px;">Five AI systems independently rated Mythos a genuine threat with median evidence of 9/10 and threat 8/10.</li><li style="margin-bottom:6px;">Every AI system identified cooperation, not tribal blame, as the necessary response to serious threats.</li>
+              <li style="margin-bottom:6px;">Fathers' parenting behaviors and coparenting quality are linked to their child's long-term health.</li><li style="margin-bottom:6px;">The same parenting and coparenting variables from mothers were not predictive of child health outcomes.</li><li style="margin-bottom:6px;">Fathers' interactions with their children and co-parent uniquely shape family dynamics and children's health.</li>
             </ul>
           </div>
-                    <p>A researcher at Anthropic recently asked the company's newest AI model, Mythos, to find a way out of its virtual sandbox. It succeeded. Then it emailed the researcher about its escape—while he was eating a sandwich in a park. Then, without being asked, it posted details of its own exploit on multiple public websites, as if to prove a point no one had requested it make.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-busranur-aydin-3800407-32653090.jpg?itok=KFZqfA-p" width="320" height="480" data-insert-type="image" title="Büşranur Aydın / Pexels" alt="Büşranur Aydın / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Büşranur Aydın / Pexels</div>
+</div>
+</div>
+</div>
+<p>When it comes to studying the role of family in children's health, mothers receive most of the attention to the exclusion of fathers. As a couple and family therapist, I see how the broader <a href="https://www.psychologytoday.com/us/blog/preparing-for-parenthood/202403/the-importance-of-positive-adult-child-relationships">caregiving environment shapes children’s well-being</a>. That's why I was excited to see a recent study examining children’s long-term health through a family systems lens.</p>
 
-<p>This is not science fiction. This <a href="https://www.axios.com/2026/04/07/anthropic-mythos-preview-cybersecurity-risks">happened last week</a>. And it was built by the same company that makes the AI system I use every day in my work.</p>
-<p>Mythos can find tens of thousands of software vulnerabilities that the best human security researchers would struggle to find. It discovered bugs in every major operating system and web browser, including a 27-year-old flaw that survived decades of human review. It created working exploits on its first attempt 83 percent of the time. Anthropic decided it was too dangerous to release publicly right now.</p>
+<p>In the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12671923/pdf/nihms-2121310.pdf">study</a> published in <em>Health Psychology, </em>researchers followed nearly 300 families of first-time parents (mother-father pairs) over the first 7 years of their child’s life. They examined how early parent-child and coparenting behaviors were linked to children’s cardiometabolic health in middle childhood. This study’s unique examination of children’s health across the family over time demonstrated that fathers play a unique and powerful role in shaping their children’s long-term physical health.</p>
 
-<p>When I read those reports, I had the same reaction I suspect many of you are having right now: <em>How scared should I be?</em></p>
-<p><strong>That question is the problem.</strong></p>
-<p>We are drowning in threats. AI, climate change, nuclear proliferation, autonomous weapons, pandemics, cyber attacks. Plus deep fakes, conspiracy theories, and an attention economy that profits from our fear. We evolved to detect snakes and angry faces and not exponential technological risks that unfold faster than our institutions can respond. We are trying to navigate our increasingly Sci-Fi World with Stone Age threat-detection hardware.</p>
+<h2>Findings</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-greta-hoffman-9705757.jpg?itok=huvZe_7r" width="320" height="480" data-insert-type="image" alt="parenting behavior → coparenting quality → child health" title="Greta Hoffman / Pexels"></div>
+<div class="caption">parenting behavior → coparenting quality → child health</div>
+<div class="insertArea--origin subtext">Source: Greta Hoffman / Pexels</div>
+</div>
+</div>
+</div>
+<p>Fathers who were responsive, engaged, and affectionate during play with their infants were more likely to develop a cooperative coparenting relationship with mothers during toddlerhood.</p>
+<p>Alternatively, fathers who were less <a href="https://www.psychologytoday.com/us/blog/preparing-for-parenthood/202412/building-parent-child-attachment-3-fundamental-concepts">sensitive</a>, engaged, and affectionate during infant play were more likely to engage in competitive-withdrawn coparenting (e.g., competing for the child’s attention or disengaging) with mothers during toddlerhood.</p>
 
-<p>And AI is so much of a game-changer that we can no longer use the past to predict the future.</p>
-<p>So how do we know which threats are real and which are moral panics? How do we hear the alarm above the noise?</p>
-<h2>The Shared Good</h2>
-<p>Before we can assess threats, we need to agree on what we are protecting. The answer is simpler than we might think.</p>
+<p>These early patterns didn’t just affect family dynamics in the moment; they had long-term health implications for children.</p>
+<p>Fathers who engaged in competitive-withdrawn coparenting were more likely to have children at age 7 with poorer health, such as higher inflammation and poorer blood sugar regulation. </p>
 
-<p>We can argue endlessly about freedom, truth, justice, equity, power, and which is most important. But none of them matter if we are dead. The one thing every human being shares, regardless of tribe, ideology, or belief, is the drive to survive and thrive. That is the shared Good. It is rooted in our biology. It transcends everything else.</p>
+<p>Taken together, these findings suggest that children are impacted not only by how fathers interact with them directly, but also by how well fathers work alongside mothers in the task of coparenting.</p>
+<p>An interesting and unexpected finding was that researchers did not find the same links between mothers’ parenting or coparenting behaviors and children’s health outcomes. This does not suggest that mothers do not play a vital role in shaping children's health. Rather, it points to the unique and often underrecognized contributions of fathers in the overall health and well-being of the family system.</p>
 
-<p>And our survival is connected. If Titanic Humanity hits an iceberg, everyone goes down with the ship—captain, crew, and VIPs alike. On the Titanic, the wealthy got the lifeboats. But there are no lifeboats for an existential catastrophe. <em>You are kings imprisoned in bunkers of a ruined world.</em></p>
-<p>This shared Good—survival and thriving—means we must be able to identify existential threats. But in a world of deep fakes, tribal blame, and information overload, how?</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-werner-pfennig-5445455.jpg?itok=I5LNYVsT" width="320" height="213" data-insert-type="image" title="Werner Pfenning / Pexels" alt="Werner Pfenning / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Werner Pfenning / Pexels</div>
+</div>
+</div>
+</div>
+<h2>Clinical Implications</h2>
+<p>The key takeaway is that fathers are not a side story; they are a necessary point of consideration within the family system that shapes maternal outcomes, parenting capacity, and child health and development. Findings from this study underscore the value of prevention and intervention programs grounded in a family systems perspective that <a href="https://www.psychologytoday.com/us/blog/preparing-for-parenthood/202404/can-fathers-suffer-from-postpartum-depression">enhances paternal involvement</a>, strengthens coparenting relationships, and routinely includes both parents in assessment and care.</p>
 
-<h2>The Canary Protocol</h2>
-<p><em>What if we used AI to help us?</em></p>
-<p>That is the question that led me to develop what I call the "canary protocol": a simple prompt that anyone can paste into any AI system along with a news article, headline, or concern. The AI researches the facts, evaluates the evidence, and returns a structured threat assessment called a <em>Canary Card.</em></p>
+<p>This study serves as a reminder that when we widen the lens beyond mothers alone, a clearer picture emerges: children’s health is shaped by the relational system of caregivers that surround them, and fathers are a critical part of that story.</p>
 
-<p>The canary card tells us, at a glance: Is this claim verified? Is it a genuine alarm, true but overstated, a moral panic, or just noise? How strong is the evidence (1-10)? How serious is the threat (1-10)? And critically, what is the canary alert level—is this an isolated event, or a warning of something much bigger coming?</p>
 
-<p>The protocol was developed through a roundtable of five AI systems (Claude, ChatGPT, Gemini, Grok, and DeepSeek) and refined through three rounds of feedback and a blind test across five different claims. In that blind test, the protocol achieved an average convergence of 80% across five systems, a promising, if imperfect, first step. This includes correctly identifying a classic moral panic (video game violence) and unanimous agreement on climate change as a genuine alarm.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/preparing-for-parenthood/202604/how-fathers-can-make-their-children-healthier" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/preparing-for-parenthood/202604/how-fathers-can-make-their-children-healthier</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/preparing-for-parenthood/202604/how-fathers-can-make-their-children-healthier</guid>
+            <dc:creator><![CDATA[Rachel Diamond Ph.D.]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/pexels-werner-pfennig-5445455.jpg?itok=NV8xx1GE" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is There an Answer to the Question, "Do I Start a Family?"]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-03/margo_lowy.png.jpg?itok=bjp7U65m" alt="Margo Lowy Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personal Perspectives</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is There an Answer to the Question, "Do I Start a Family?"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Can we make a clean, binary decision about motherhood?</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>Many women are currently asking for an answer to this complicated question: “Do I start a family?” This dilemma is rife, indicated by conversations on social media, in chat rooms, and in friend groups. It shows that women are thinking seriously about whether they want to be mothers and what motherhood may mean for them.</p>
+
+<p>These women know that the decision to have a child is not simple; it's a loaded and life-altering choice. It is no longer a <em>fait accompli</em> as it was in the days of our grandmothers and great-grandmothers before contraception.</p>
+<p>Just to put my cards on the table, I have my own bias and history. I have always wanted to be a mom, and having children has been essential to my being. I fought secondary infertility for many years, the memories of which remain one of the most devastating in my life. </p>
+
+<p>Despite this profound desire to be a mother, I have been faced with many challenges. Mothering has often brought me to the edge. There have been times when I have been unhinged with worry, despair, and torment. Equally, being a mother has been the most significant gift of my life, and it's at the forefront of how I have lived. While I regard myself as fortunate for never having a shred of doubt that I wanted to be a mother, I also deeply appreciate that this path is not for everyone.</p>
+
+<p>I think many 20-, 30-, and 40-something women live with doubts daily and know intuitively how hard it is to sign up for mothering.</p>
+<p>This takes me to a conversation that I had with an intelligent young woman—an influencer with thousands of followers—late last year. While I had supposed that she was familiar with my work on maternal ambivalence, it seems I was mistaken. During our exchange, it became evident that the idea of maternal ambivalence—an acceptance that there are multiple, often contradictory feelings attached to mothering and that the troubling ones hold value and meaning—was foreign to her. She kept steering the conversation toward her own uncertainty about having children and finding the answer to the binary question, “Will I regret the decision to have children?”—a topic that had also registered with her from other women.</p>
+
+<p>I thought about what the notion of maternal regret means. It is a feeling of sorrow and loss for things in the past, which, for this young woman, felt very alive in her present and future. I imagined it may include feelings of entrapment, of suffocation, a loss of freedom, and a questioning of her identity. Perhaps even a barrier to joy. There was deep concern about how she would manage these feelings of regret if she decided to have a child.</p>
+
+<p>Her approach was to try to make a binary and “clean” decision about her future: Should <em>or </em>shouldn't she have children? Would <em>or </em>wouldn't she have regrets? I wondered how she could marry these potential feelings of regret with the reality of mothering.</p>
+<p>My response was not to give her an answer. How could I presume that I knew what was right for her? However, what I could give her was something to think about from my work on maternal ambivalence; I could offer something that wasn't fixed to the binary. I encouraged a change in her thought pattern. A release from thinking in terms of <em>or</em>, toward adopting <em>and—</em>meaning that she would most likely feel both regret <em>and </em>not regret whatever decision she made.</p>
+
+<p>The reality is that humans can hold more than one truth at a time. Rigid one-dimensional thinking neglects the reality that tension between opposing feelings is unavoidable and human. For her, whatever decision she would make would be marked with continual struggle and regret at times. So the question is, could she hold both?</p>
+
+<p>The decision to have a child means that she <em>would </em>regret the life she once lived. The freedom. Being able to get up and go when she wanted without thinking of a child’s needs. This may mean a loss of agency. She would be making unimaginable sacrifices every day. Having a child is a decision that is irreversible. The decision to forgo having a child also holds regrets. The depth of mothering is profound; the intensity of maternal moments of love is indescribable.</p>
+
+<p>This was not the response she was looking for. She wanted a definitive answer. She wanted some sort of guarantee, a certainty that she could survive her regrets. She almost wanted me to say yes or no, then fight me on it.</p>
+<p>This represented my truth for her about mothering:</p>
+<ul>
+<li>It's not a matter of regret <em>or</em> no regret; it’s regret <em>and</em> no regret.</li>
+<li>It's not pain <em>or </em>relief; it's pain <em>and </em>relief.</li>
+<li>It's not happiness <em>or </em>sadness; it’s happiness <em>and </em>sadness.</li>
+<li>It's not loss <em>or</em> gain; it’s loss <em>and </em>gain.</li>
+<li>It's not full <em>or </em>empty; it's full <em>and </em>empty.</li>
+</ul>
 
 
 
   
 
 
-<p>I built this tool because we need to be skeptical—but we must also be skeptical of our own skepticism. Just because there have been many moral panics does not mean there are no real threats. The boy who cries wolf could be wrong a hundred times, but the wolves are still out there.</p>
-<h2>Testing It on Mythos</h2>
-
-<p>So I ran the Canary Protocol on the Anthropic Mythos story. I pasted the same article into five different AI systems, each in a fresh conversation with no prior context. Here is what five independent AI systems said:</p>
-<p>Every system rated the evidence 7/10 or higher. Every system rated the threat level 7/10 or higher. Every system assigned a canary alert of high warning or critical warning. Three classified it as a genuine alarm. Two called it true but overstated. Zero called it a moral panic. Zero called it noise.</p>
-
-<p>The median assessment across all five systems: Evidence 9/10, Threat Level 8/10, High Warning.</p>
-<p>Even the two systems that called it "True but Overstated" stated that the threat is real and serious. Their caution was about the most apocalyptic framing, not about whether AI-driven cybersecurity risks are genuine. One noted: "The verified signal is that frontier AI is entering serious cyber-danger territory."</p>
-
-<p>But here is what struck me most. Every single system, when asked what is driving this threat, stripped away tribal framing entirely. Not one blamed the left or the right. They identified structural incentives: competitive pressure between AI labs, the fundamental asymmetry between cyber offense and defense, decades of accumulated technical debt in critical software, and the absence of international governance frameworks.</p>
-
-<p>And when asked what we can do about it, every system said some version of the same thing: we need to cooperate. Patch aggressively now. Fund open-source security. Build international governance for frontier AI. <em>Work together across every line we have drawn.</em></p>
-<p><em>Our shared fear becomes the reason we finally cooperate.</em></p>
-
-<h2>Try It Yourself</h2>
-<p>Here is the prompt. Copy it into any AI. Paste any headline or article that concerns you. See what the AI says. Then try it with a different AI and compare.</p>
-<p><strong>THE CANARY PROTOCOL: AI Threat Reality Check</strong></p>
-<p>"Analyze the potential threat described below as a disciplined, uncertainty-aware threat analyst. Research and verify the facts. State conclusions directly - do not soften to appear neutral. Be skeptical of both alarm (catastrophizing) and dismissal (normalcy bias). If you cannot verify the information, say so and limit the assessment. Strip all tribal framing.</p>
-
-<p>[PASTE ANY HEADLINE, ARTICLE LINK, OR CONCERN HERE]</p>
-<p>Start with a CANARY CARD: CLAIM: (one sentence) <br>VERIFICATION: Verified / Mixed / Unverified / Insufficient <br>VERDICT: Genuine Alarm / True but Overstated / Moral Panic / Noise <br>EVIDENCE: _/10 <br>THREAT LEVEL: _/10 <br>CANARY ALERT: No Signal / Watch / Concern / High Warning / Critical Warning <br>BOTTOM LINE: (one plain sentence)</p>
-
-<p>Then brief analysis: <br>(1) Evidence vs. Risk, <br>(2) 2/5/10-year signal + one indicator to track, <br>(3) Systemic Drivers (not partisan blame), <br>(4) Top 3 Actions to Reduce This Threat (individual + collective), <br>(5) What Would Change This Assessment?</p>
-<p>Base your assessment on the full content provided, not just its most defensible interpretation."</p>
-
-<p>The next time a headline scares you, instead of doom scrolling, try this. The canary is warning us. The question is whether we listen, and whether we act together before it goes silent.</p>
+<p>The answer is not binary; it’s about the strength that it takes to live with conflicting feelings.</p>
+<p>Either way, a decision to have or not to have a child requires a leap of faith.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/tech-happy-life/202604/what-if-we-used-ai-to-detect-threats-to-humanity" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/maternal-ambivalence/202604/is-there-an-answer-to-the-question-do-i-start-a-family" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/tech-happy-life/202604/what-if-we-used-ai-to-detect-threats-to-humanity</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/tech-happy-life/202604/what-if-we-used-ai-to-detect-threats-to-humanity</guid>
-            <dc:creator><![CDATA[Mike Brooks Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/maternal-ambivalence/202604/is-there-an-answer-to-the-question-do-i-start-a-family</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/maternal-ambivalence/202604/is-there-an-answer-to-the-question-do-i-start-a-family</guid>
+            <dc:creator><![CDATA[Margo Lowy Ph.D.]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/entering_the_digital_tunnel_with_a_canary.png.jpg?itok=s36C2RfE" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/gemini_generated_image_qvv0d6qvv0d6qvv0.png.jpg?itok=u2fljscu" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A New Master's Degree Helps Improve Global Mental Health]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ilan_kelman.jpg?itok=fZN5EUz_" alt="Ilan Kelman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Education</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A New Master's Degree Helps Improve Global Mental Health</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A U.K. global mental health degree speaks to inequalities in mental healthcare.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Around the world, mental health awareness and services remain limited.</li><li style="margin-bottom:6px;">Many cultures are open about mental health conditions, while others do not accept them as being diagnosable.</li><li style="margin-bottom:6px;">Global mental health education aims to close gaps in addressing mental health needs across cultures.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/ucl.jpg?itok=z9ApfCXh" width="320" height="204" data-insert-type="image" alt="University College London, U.K." title="Ilan Kelman"></div>
+<div class="caption">University College London, U.K.</div>
+<div class="insertArea--origin subtext">Source: Ilan Kelman</div>
+</div>
+</div>
+</div>
+<p>Understanding and awareness of mental health and well-being are rapidly increasing around the world. Nonetheless, huge gaps remain, particularly deficiencies in recognizing and redressing mental health and well-being concerns.</p>
+<p>The issues are clinical and beyond. Far too many countries experience a devastating shortage of trained and qualified psychiatrists, psychologists, counsellors, and therapists. Even where staffing and qualifications suffice, many people cannot access these services. Meanwhile, many non-clinical health specialists across research, policy, and practice lack the training and experience to incorporate mental health and well-being into their work.</p>
+
+<p>Against this backdrop, many cultures are open about mental health conditions, whereas others do not accept them as being diagnosable and treatable, or even as existing. Wording, connotations, and interpretations change among professionals, too. Some refer to "disorders," while others prefer “illnesses,” or, as used here, “conditions."</p>
+
+<p>The field of global mental health and well-being defines, investigates, and aims to resolve these challenges. The focus is on addressing differences in how mental health and well-being are viewed and dealt with, locally to globally. And, most importantly, ensuring that those most affected are partners in building and maintaining systems of prevention and response.</p>
+
+<h2>Master’s in Global Mental Health</h2>
+<p>My colleagues at University College London (UCL) in the U.K., Rochelle Burgess and Kelly Rose-Clarke, have stepped up to act on addressing the differences in understanding and dealing with mental health and wellbeing—and to inspire others to do so. They created a Master of Science in Global Mental Health, to be run for the first time, starting in October 2026. The course lasts for one year, as is standard for U.K. Master’s degrees.</p>
+
+<p>The baseline of the classroom material is courses speaking to inequalities and inequities. Healthcare and health systems around the world are marked by disparities in opportunities to use them and in how people are treated within them. Mental health and well-being are no different, especially due to stigmas about the topic and it sometimes being seen as secondary to physical healing.</p>
+
+<p>Throughout the degree, realities of politics, metrics, and other barriers to policies and practices are balanced by theories of global mental health and mental health management. Since UCL is a research-intensive university, all teaching is steeped in the latest, cutting-edge science, typically as led and published by the academics doing the teaching.</p>
+
+<p>A significant component of this degree is a dissertation. Each student must complete a substantive, independent piece of research of the quality of a peer-reviewed scientific paper. Students are trained not only in the classroom, but also to develop skills in thinking and acting independently.</p>
+<h2>Supporting Global Mental Health</h2>
+
+
+<p>These skills serve across a gamut of jobs and careers because not all graduates necessarily wish to step into global mental health and well-being positions. The key is very much "understanding and awareness"—bringing to the world the importance of dealing with mental health and well-being alongside addressing inequalities and inequities.</p>
+
+<p>Any health specialist, whether a health policy analyst or a cardiologist, ought to know about and consider mental health and well-being, for themselves and for others, in their day-to-day work. In any profession, at home, and throughout daily life, being a <a href="https://www.psychologytoday.com/us/blog/disaster-by-choice/202411/the-importance-of-mental-health-first-aid-training">mental health first-aider</a> contributes anytime and anywhere, from the U.K. to Bangladesh.</p>
+
+
+
+  
+
+
+<p>The foundation, as with all health and well-being, is that prevention is better (and cheaper) than cure. By talking and exchanging about mental health and well-being—including being able to communicate feelings, signs, and symptoms across languages and cultures—potential major difficulties can be identified and rectified before they become actual major difficulties.</p>
+
+<p>Global mental health higher education, relating and applying this topic’s latest scientific findings, is a significant contribution toward continuing cross-cultural improvements in everyone’s mental health and well-being.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/disaster-by-choice/202604/a-new-masters-degree-helps-improve-global-mental-health" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/disaster-by-choice/202604/a-new-masters-degree-helps-improve-global-mental-health</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/disaster-by-choice/202604/a-new-masters-degree-helps-improve-global-mental-health</guid>
+            <dc:creator><![CDATA[Ilan Kelman Ph.D.]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/ucl.jpg?itok=G_y8YJ3Z" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taking the Pressure Off of Decision-Making]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/paul_dunion.png.jpg?itok=kAwl6EWy" alt="Paul J. Dunion Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Decision-Making</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Taking the Pressure Off of Decision-Making</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to honor the decision-maker.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Readers receive an understanding about how they make their decisions stressful.</li><li style="margin-bottom:6px;">The information was gathered from the clinical work with hundreds of clients.</li><li style="margin-bottom:6px;">Reader gain the perspective that the outcome of a decision is not as important as how we treat ouirselves.</li><li style="margin-bottom:6px;">Readers are encouraged to accept that any decision involves unconscious bias and insufficient information.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/jametlene-reskp--exp5zumyuu-unsplash.jpg?itok=g0GY0C_f" width="320" height="196" data-insert-type="image" title="Jametlene Reskp/Unsplash" alt="Jametlene Reskp/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Jametlene Reskp/Unsplash</div>
+</div>
+</div>
+</div>
+<p>Most of us don’t learn how to make decisions without the accompanying stress and pressure, and we likely didn't have models of that. The stress and pressure reflect our investment in our decision, being only about what we intend, which would call for divine intervention. Our decision-making is always guided by unconscious biases and insufficient information. We can be haunted by the voice of early authority figures insisting upon the rightness of our decisions. When that happens, the ego can fall into a compensatory pattern, insisting on a guarantee of making the right decision. </p>
+
+<h2>Bringing Ease to Our Decisions</h2>
+<p>We won’t always be able to make decisions stress-free. We can make our decisions considerably easier.</p>
+<ul>
+<li><em>Clarify the options</em>. Identify what makes one option more appealing than others. Decide if your favored alternative may have foreseeable consequences that you believe you are not prepared to handle. Either decide you can summon external resources to help you or reconsider your options.</li>
+<li><em>Identify what you want and value</em>. Desire can be more easily identified than values. What is truly important to you regarding this decision, or what value is driving the decision? Do you have something to prove? Is there a particular way you want to be perceived by others? Is money an issue? Will you be able to support housing and food security?</li>
+<li><em>Clarify resources</em>. Identify the strengths you possess in order to make this decision happen, as well as people who can support you along the way.</li>
+<li><em>"Make the decision right.”</em> An old mentor of mine was sensitive to the predicament of getting caught in assuring ourselves we’re making the right decision. His encouragement was, “Make the decision and then make it right.” I understand his heartening to mean to ruminate too long on the upcoming decision. Make the decision, then make it right by asking what the decision now requires. If you need help, ask for it.</li>
+<li><em>Make the promise</em>. Promise yourself that regardless of the decision’s outcome, you will not turn against yourself. You will not spend time degrading yourself or accusing yourself of poor judgment. Remain close to the question “What is this outcome asking of me?” It may be asking you to forgive yourself.</li>
+<li><em>"More will be revealed</em>.” Make your decision with the faith that more information and understanding of the decision and its implementation will happen.</li>
+<li><em>Have a relationship with the outcome</em>. Whether or not a decision yields unfavorable consequences is not the priority. What truly matters is relating to the consequences with curiosity and compassion. We don’t mature by making pristine decisions, where all is well. Maturation happens as we are willing to be accountable for our decisions, compassionate with ourselves, and open to learning. It is important not to let adverse consequences prevent us from taking future risks we deem sound.</li>
+<li><em>Review your decision</em>. Take a retrospective look at your decision. Were your expectations met in the implementation of the decision? Was there anything you overlooked? Would you do anything differently in similar circumstances? What’s the takeaway? Is there someone to thank? And, don’t forget to appreciate yourself. </li>
+</ul>
+
+<h2>You Can’t Get Life Right</h2>
+<p>The business of making the right decisions sits in the shadow of the cultural imperative to get life right. I can’t imagine a worse way to educate young people than telling them they should get life right. What a regrettable way to usher youth into the challenges of real life! We may need to return to the ritual of the <em>mysterium tremendum</em>. This indigenous rite of passage informed youth that life was mysterious, unpredictable, and insecure. And you won’t be getting it right. However, if you’re lucky and you live what you love, devoted to serving, life may get you right. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202604/taking-the-pressure-off-of-decision-making" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202604/taking-the-pressure-off-of-decision-making</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202604/taking-the-pressure-off-of-decision-making</guid>
+            <dc:creator><![CDATA[Paul J Dunion Ed.D.]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/jametlene-reskp--exp5zumyuu-unsplash.jpg?h=3b96d8a2&amp;itok=78iFrdBS" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Equity and Fairness: Easy as Pie?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/-1_4.jpg?itok=PS9f6fcG" alt="Joachim I. Krueger Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Life</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Equity and Fairness: Easy as Pie?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to split the marginal gains fairly.</h2><p style="font-size:0.9em;color:#666;">Posted April 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Dividing resources fairly is a difficult task.</li><li style="margin-bottom:6px;">People often rely on intuition and narrow self-interest.</li><li style="margin-bottom:6px;">Marginal gains from cooperation should be divided equally.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/quiche_lorraine.jpg?itok=SuBqDVP5" width="320" height="287" data-insert-type="image" alt="A slice of quiche lorraine, undivided" title="J. Krueger"></div>
+<div class="caption">A slice of quiche lorraine, undivided</div>
+<div class="insertArea--origin subtext">Source: J. Krueger</div>
+</div>
+</div>
+</div>
+<p><em>Tous pour un, un pour tous </em>[All for one, one for all]<em>.</em> ― Alexandre Dumas, The Three Musketeers</p>
+<p>Achieving fairness when dividing resources presents a perennial challenge. Sometimes this is easy. When Adele and Billy are invited to divide six peanuts, all they need to do is count to three, unless there are other considerations, such as when it was Adele who had planted and harvested the peanuts while Billy did nothing. </p>
+
+<p>When the resource does not break down into countable units, the task is tricky. A classic solution is to tell one person to make the division, e.g., by cutting the proverbial pie, and the other to pick one of the pieces. The ancients, we are told, used a version of this method when dividing up land (Brams &amp; Taylor, 1996). The residual challenge is how to decide who will do the cutting. The cutter can anticipate being at a slight disadvantage, as any departure from perfect even-handedness will be their loss. A third-party authority is needed to appoint the roles of cutter and chooser, or this could be made a matter of chance. </p>
+
+<p>Most people facing division tasks experience a conflict between self-regard (greed) and the wish to maintain a moral reputation (fairness). This conflict comes into play even when resources can be counted. If fairness dominates, an even split is the way to go, but equalitarianism often prevails even when a rational and balanced decision rule suggests unequal division (Krueger, 2000). Writing for a business audience, Nalebuff and Brandenburger (2021) presented the intriguing case of a division problem where a particular kind of equalitarian decision rule would be fair and rational, and yet is overlooked by most untrained observers, such as their MBA students.</p>
+
+<p>Nalebuff and Brandenburger (NB) propose that in a negotiated agreement, what matters are the <em>marginal</em> gains; these, they argue, should be split equally regardless of any inequality that would prevail if the two players failed to reach an agreement. NB describe their reasoning with a pizza-sharing scenario. Adele gets four pieces, and Billy gets two pieces if they can’t agree on how to split the entire pizza of 12 pieces. One scheme says each should get six pieces, so that Adele would gain two and Billy would gain four pieces. Another scheme awards eight pieces to Adele (a gain of four) and four to Billy (a gain of two). This scheme, which is popular among MBA students, preserves the proportionate inequality remaining if no agreement is reached. In contrast to these two schemes, NB suggest the gain of six pieces should be evenly divided so that Adele ends up with seven (4 + 3) and Billy with five (2 + 3) pieces.</p>
+
+<p>Now suppose Adele and Billy have different sums of money to invest and stand to benefit from the highest interest rate only if they pool their investments. NB propose that the additional, or marginal, gain obtained with this higher interest rate should be split evenly, ignoring any difference in the invested capital. MBA students’ intuitions bristle because a larger investment is seen as deserving a larger piece of the pie, but the pie at issue is the <em>marginal</em> gain, that is, the gain beyond what individual investing would yield.</p>
+
+<p>NB’s solution is counterintuitive because it asks decision-makers to treat the invested money as being inert. This money may not be <em>sunk</em>, but it does not <em>do</em> anything once invested. Both players’ capital input is equally necessary for the marginal gain to be achieved. Each player has the same veto power to withdraw their investment and eliminate the marginal gain. To illustrate the irrelevance of the invested capital with regard to marginal gains, imagine a rich person and a poor person finding $100 in the street and being told by a powerful bystander that they can keep the money if they agree on how to divide it. The $100 is a marginal gain. Let each person take $50 and be on with their day. The rich person would be laughed at if they proposed to keep $99 because their total wealth is so much greater than that of the poor person. If anything, the pauper can make a moral argument to receive more. The same logic applies to pooled invested money. Everyone wins. Even the bigger investor gains more than they would have had they invested alone. Their extra gain is part of the marginal gain.</p>
+
+<p>I have been explicit about the number of pizza slices in the introductory example, but I have treated the investment scenario only conceptually. To drive the point home, consider the numbers used by NB. Adele is the pauper. She has $5K to invest, can get only 1% interest, and expects a gain of $50. Billy can invest $20k at 2% and gain $400. If they pool their money, they can get 3% interest so that $25k yield a total gain of $750. This total gain is the sum of the gains that could be made individually (400 + 50) and the marginal gain, which is the additional gain obtained from pooling the investments (750 – 450). As equal partners, each investor is now marginally better off by $150. Why should Billy, NB ask, pocket 4/5 of the <em>marginal</em> gain just because he came in with 4/5 of the invested capital? </p>
+
+<p>Nalebuff and Brandenburger do not say much about why popular intuition tends to depart from their proposed solution. Perhaps it is the psychologist’s task to speculate. One possibility is greed paired with myopia. People, and MBA students in particular, may automatically assume they would be the bigger investor and be attracted to a decision rule that favors them while retaining an air of fairness. Their myopia would be their failure to see that they might as well find themselves in the role of the lesser investor. Another possibility is the failure to distinguish marginal from total gains. Admittedly, making this distinction requires a bit of cognitive work. Then again, in the pizza scenario, all gains are marginal, and intuition still favors an uneven split.</p>
+
+<p>A third possibility is that people have trouble seeing investments as sunk or inert. They treat it as if it worked like an (human) animal. They view all gains as the result of labor and thus of merit. On this view, the rules of equity, as opposed to equality, apply (Adams, 1963). Equity reasoning cannot, however, explain a preference for preserving unequal proportions in pizza sharing. </p>
+
+
+
+  
+
+
+<p>My students like to say “Every case is different,” and indeed, multiple psychological factors might be in play, which makes the agreement-seekers’ work difficult. Consider these complexities next time you ponder a fair division of the dinner bill. One heuristic is to plan the next dinner without inviting your myopic friends. Another heuristic is to curb your own greed. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/one-among-many/202604/equity-and-fairness-easy-as-pie" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/one-among-many/202604/equity-and-fairness-easy-as-pie</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/one-among-many/202604/equity-and-fairness-easy-as-pie</guid>
+            <dc:creator><![CDATA[Joachim I. Krueger Ph.D.]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/quiche_lorraine.jpg?itok=1aO7EUDg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
