@@ -4,69 +4,306 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 22:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 14:40:34 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 22:33:59 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 14:40:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[You Are Not a Project to Be Improved]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/Dial.png.jpg?itok=nhGglgYD" alt="Dial" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">You Are Not a Project to Be Improved</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The pressure to improve everything may be a response to deeper uncertainty and disconnection</h2><p style="font-size:0.9em;color:#666;">Posted April 11, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[AI and the 10-Minute Mind]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/john_nosta.png.jpg?itok=SIw4PGFR" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI and the 10-Minute Mind</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How 10 minutes with AI could erode your persistence.</h2><p style="font-size:0.9em;color:#666;">Posted April 12, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">In an unpredictable world, self-improvement can become a way to manage anxiety.</li><li style="margin-bottom:6px;">Self-awareness can become self-surveillance.</li><li style="margin-bottom:6px;">A constant drive toward improvement can pull us away from connection.</li>
+              <li style="margin-bottom:6px;">Ten minutes of AI use erodes the persistence that 10,000 hours demands.</li><li style="margin-bottom:6px;">Borrowed certainty feels like understanding but costs us the struggle that builds it.</li><li style="margin-bottom:6px;">The mind that never stumbles doesn't grow—it just waits for the next answer.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/positivity-mindset-thinking-wellness-concept.jpg?itok=G4QeB8Fc" width="320" height="237" data-insert-type="image" title="Designed by Freepik" alt="Designed by Freepik"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Designed by Freepik</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/foto-rabe-clock-611619.jpg?itok=gD44YPeh" width="320" height="213" data-insert-type="image" title="Foto-RaBe/Pixabay" alt="Foto-RaBe/Pixabay"></div>
+<div class="insertArea--origin subtext">Source: Foto-RaBe/Pixabay</div>
 </div>
 </div>
 </div>
-<p dir="ltr">I track my steps, my workouts, my calories. I read the research, listen to podcasts, and try to stay current on what it means to live well. Recently, after watching yet another segment on food, health, and longevity, I found myself saying, <em>“I’m tired of tracking and managing everything.”</em></p>
-<p dir="ltr">It wasn’t dramatic. In fact, it felt like a quiet realization that had been slowly building. But it stayed with me, and beneath the routines and metrics was a deeper question: <em>When did caring for ourselves begin to feel like perfecting ourselves?</em></p>
+<p>Ten thousand hours. That's the investment, according to <a href="https://clinica.ispa.pt/sites/default/files/4_-_the_influence_of_experience_and_deliberate_practice_on_the_development_of_superior_expert_performance_0.pdf">Anders Ericsson's research</a>, which gave us the science. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4662388/">Malcolm Gladwell</a> gave it to the rest of the world. It's not talent or shortcuts, but the sustained engagement with difficulty. You get better by repeatedly pushing into the edge of what you can do. </p>
 
-<h2>When Care Becomes Self-Surveillance</h2>
-<p dir="ltr">There is nothing inherently problematic about wanting to grow or take care of ourselves. Yet over time, it can begin to feel like pressure—a quiet sense that there is a version of ourselves we are supposed to be moving toward, but never quite reaching. </p>
-<p dir="ltr">The tools we use, and the culture surrounding them, can shift how we relate to that process. Emerging research on digital monitoring and wearable technologies suggests that while these tools can increase awareness, they may also heighten self-evaluation and psychological vigilance (Jafarlou et al., 2024). What begins as helpful information can become a constant internal assessment.</p>
+<p>Now consider a <a href="https://arxiv.org/html/2604.04721v2">new pre-press study</a> that found 10 minutes of AI assistance measurably reduced persistence and impaired independent cognitive performance. Across a series of trials with more than 1,200 participants, researchers tested people on math reasoning and reading comprehension. The finding revealed that AI helped in the moment, but when participants returned to working on their own, they performed worse and were more likely to give up. Not after months of dependency. After a single brief interaction.</p>
 
-<p dir="ltr">The question subtly shifts from "How am I doing?" to "Am I doing this right?" For many, that question is difficult to answer.</p>
-<h2>The Hidden Cost of Perfection</h2>
-<p dir="ltr">What I have been noticing isn’t just fatigue, it’s disconnection. When we begin to relate to ourselves primarily through the lens of improvement, we can lose access to something more essential: presence, embodiment, and even compassion. At the same time, we are facing a growing crisis of loneliness. Public health data continues to link loneliness and lack of social support with poorer mental health outcomes (Centers for Disease Control and Prevention, 2024), and recent meta-analytic work confirms its impact on both psychological and physical health (Zheng et al., 2025).</p>
+<p>Ten minutes.</p>
+<p>To me, this is startling. Ten thousand hours is the long road to expertise. Ten minutes of <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202512/borrowed-certainty-and-the-cost-of-ais-perfect-answers">borrowed certainty</a> begins to erode the cognitive inclination for making that journey at all. One builds cognitive capacity, the other shuts it down.</p>
+<h2>The Cost of Frictionless Thinking</h2>
+<p>I've been writing about this for a while. The idea that <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202507/where-the-mind-stumbles-it-grows">cognitive friction</a> isn't a flaw in the thinking process but the process itself. The bumps along the cognitive path don't reflect inefficiency—it's how understanding actually forms.</p>
 
-<p dir="ltr">These patterns are not unrelated. </p>
-<p dir="ltr">As we focus more on managing ourselves, we find ourselves less connected to one another. Technology can help us track our behaviors, but it cannot replace the regulating presence of another person. Even advances in digital tools designed to detect loneliness highlight this tension, as connection is measured but often not meaningfully experienced (Jafarlou et al., 2024).</p>
+<p>What large language models do is <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202512/watching-intelligence-lose-its-friction">remove that resistance</a>. They resolve rather than deliberate. And what arrives isn't just an answer but a kind of techno-confidence that feels like understanding without requiring the work, and the time, that understanding has always demanded.</p>
+<h2>The Inversion Nobody Talks About</h2>
 
-<p dir="ltr">In this way, the pursuit of perfection can quietly become a substitute for connection.</p>
-<h2>What We May Really Be Seeking</h2>
-<p dir="ltr">It is worth asking a more compassionate question: <em>What are we trying to steady through all of this effort?</em> For many, it is not simply about health or discipline. It is about anxiety. Uncertainty. The desire to feel anchored in a world that often feels unsteady.</p>
+<p>To me, the curious issue here isn't that AI gives wrong answers. It's that AI operates under conditions almost exactly <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202601/thinking-upside-down">inverted</a> from the conditions in which human intelligence develops.</p>
+<p>Human cognition is effortful and time-dependent. We earn fluency after struggle and the confidence that follows has a path we can retrace. But, AI produces fluency before understanding that the newfound confidence is a sort of default property of completion. There is no internal resistance because there is no internal experience. </p>
 
-<p dir="ltr">Research on self-compassion offers a meaningful counterpoint. Treating ourselves with kindness rather than constant evaluation is associated with greater psychological well-being (Li et al., 2024) and even brief interventions can significantly improve emotional health (Han et al., 2024).</p>
-<p dir="ltr">These findings suggest something both simple and profound: Well-being is shaped not only by what we do, but by how we relate to ourselves, especially when we fall short of our own expectations.</p>
+<p>When we spend time inside that cognitive inversion, we may start to assimilate its standards. Difficulty begins to feel like malfunction and hesitation is interpreted as inefficiency. This new study makes it quantifiable.</p>
+<p>And it's not an isolated finding. Recently, I wrote about what I called <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202508/ai-rebound-the-paradoxical-drop-after-the-ai-lift">AI rebound</a>, the paradox where removing AI leaves performance below where it started. Gastroenterologists using AI to detect polyps saw their detection rates improve while the technology was running. When it was taken away, their rates dropped below pre-AI baseline. Not a return to where they began, below it. The same pattern has historically shown up in pilots, drivers, and writers. This new study suggests the clock on that degradation starts earlier than anyone assumed. Ten minutes in, something has already shifted.</p>
 
-<h2>A Different Way of Being</h2>
-<p dir="ltr">As a professor of psychology and a person of faith, I find myself returning to a quieter truth: Our worth was never meant to be achieved; it is inherent.</p>
-<p dir="ltr">This does not diminish the value of growth or care for our bodies and minds. But it reframes the purpose beneath those efforts. Within the Christian tradition, the idea that we are created with inherent dignity offers a powerful counterpoint to performance-based identity. We are not valuable because we perfect ourselves and perform. We are valuable because we <em>exist</em>.</p>
+<h2>What Persistence Actually Is</h2>
+<p>Here's what makes this finding so fascinating to me. Persistence isn't a personality trait, it's a cognitive practice. It's the trained willingness to stay with a problem when an answer might not be easily at hand. I believe that this is rather defining—it's what separates someone who thinks from someone who waits to be told.</p>
+
+<p>And this cognitive persistence is precisely what borrowed certainty erodes. When the answer always arrives, you lose practice with the experience of not having it. The tolerance for difficulty, which is really the tolerance for being in the middle of thinking recedes.</p>
+<p>The mind stumbles before it grows. The experiences like flow and genuine insight hardly ever follow the simple path. Csikszentmihalyi's flow lives on the edge of chaos, not in its absence. And Maslow's peak experiences come after the laborious climb. Simply put, the architecture of our human cognition requires something to push against.</p>
+
+<p>Anders Ericsson understood this too. Deliberate practice works precisely because it's hard and uncomfortable. What this new paper suggests is that brief AI use reconditions people away from exactly that critical tolerance. And here's the key takeaway: 10 minutes doesn't just contrast with 10,000 hours. It works against the psychological preconditions that make 10,000 hours possible in the first place.</p>
 
 
-<p dir="ltr">Psychologically, this aligns with a growing emphasis on compassion, integration, and relational well-being. The shift is subtle, but meaningful: From perfection to presence, from evaluation to awareness, and from control to connection.</p>
-<p dir="ltr">I still wear the watch. I still pay attention to my health. But I am learning to hold these practices more lightly, to let them support my life, rather than define it.</p>
 
-<p dir="ltr">In a world that feels increasingly unstable, we will be tempted to steady ourselves by trying to get everything right. But healing may ask something different of us: not perfection, but connection.</p>
+  
+
+
+<h2>Time to Think</h2>
+<p>This isn't more AI bashing. Used actively and as a provocation rather than a resolution, it can push thinking further than we'd go alone.</p>
+<p>But the default mode, one that optimizes for frictionless completion, is doing something to our appetite for difficulty. Something that shows up in 10 minutes and likely compounds over time in ways we haven't yet considered or measured.</p>
+
+<p>Perhaps we should sidestep the question of AI capability and ask whether we're maintaining the cognitive practice that capability is supposed to serve.</p>
+<p>The mind that never stumbles doesn't grow. It just waits for the next answer.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-space-between-us/202604/you-are-not-a-project-to-be-improved" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202604/ai-and-the-10-minute-mind" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-space-between-us/202604/you-are-not-a-project-to-be-improved</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-space-between-us/202604/you-are-not-a-project-to-be-improved</guid>
-            <dc:creator><![CDATA[Kristen Dial, Psy.D.]]></dc:creator>
-            <pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/positivity-mindset-thinking-wellness-concept.jpg?itok=iy5DMYwJ" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202604/ai-and-the-10-minute-mind</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202604/ai-and-the-10-minute-mind</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/foto-rabe-clock-611619.jpg?itok=bpK-qTzl" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is It Really Possible to Love Two People at the Same Time?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/authors/aaron_ben_zeev.jpg?itok=m8mK2epE" alt="Aaron Ben-Zeév Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is It Really Possible to Love Two People at the Same Time?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Can the loving heart expand while keeping its uniqueness?</h2><p style="font-size:0.9em;color:#666;">Posted April 12, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">About 10% of Americans have experienced polyamory.</li><li style="margin-bottom:6px;">Polyamory often increases romantic intensity through novelty.</li><li style="margin-bottom:6px;">Polyamorous women often have sex only with partners they love but may fall in love quickly.</li><li style="margin-bottom:6px;">Romantic love is sometimes—but not always—diminished when shared.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-william-fortunato-6140685.jpg?itok=ZPYOvoPE" width="320" height="213" data-insert-type="image" title="Pexels/Darina Belonogova" alt="Pexels/Darina Belonogova"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Pexels/Darina Belonogova</div>
+</div>
+</div>
+</div>
+<p>“<em>My fantasy is to have five lovers. However, I do not think that my husband will agree—and, anyway, I will not have time for them all. I believe that three is the limit</em>.” —A polyamorous married woman</p>
+<p>Polyamory—maintaining simultaneous romantic relationships with multiple people—is often criticized for spreading love too thin. But is this truly the case? Empirical evidence suggests that humans are capable of loving—and being sexually involved with—more than one person at a time. One study, for example, indicates that about 10% of Americans have engaged in polyamory at some point (Moors et al., 2021).</p>
+
+<h2>The Value of Uniqueness</h2>
+<p>“<em>I thought I was in love with two at the same time; turns out, I did not love either of them</em>.” —Woman</p>
+<p>“<em>To live without your love is just impossible</em>.” —Elvis Presley</p>
+<p>We long for the kind of idealized love depicted in novels, films, poems, and popular music. At the heart of this ideal is uniqueness. This is reflected in beliefs such as: lovers are fused into a single entity (“we are soulmates”), the beloved is irreplaceable (“there is only one true love”), and love is exclusive (“I only have eyes for you”).</p>
+
+<p>This ideal assumes that love is comprehensive, uncompromising, and unconditional—sometimes to the point of dismissing reality. Within this framework, “All we need is love.” Such an emphasis on uniqueness appears to rule out loving two people simultaneously. Fusion into a single, exclusive unit leaves little room for an additional partner who challenges both exclusivity and the notion of a singular soulmate.</p>
+
+<p>A central question thus arises: Is uniqueness the only viable form of profound love, or can the romantic heart expand? And if it can, what value does that expansion hold?</p>
+<h2>Can the Loving Heart Expand?</h2>
+<p>“<em>Thousands of candles can be lit from a single candle, and the life of the candle will not be shortened</em>.” —Buddha</p>
+
+<p>“<em>The heart is not like a box that gets filled up; it expands in size the more you love</em>.” —Samantha, <em>Her</em></p>
+<p>Human beings have limited resources, and distributing them among several partners may reduce what each relationship receives. Yet love may resemble happiness, which—echoing Buddha’s metaphor—is often not diminished when shared. Sometimes, though not always, romantic love is not reduced by being divided. In this sense, the heart can expand.</p>
+
+<p>This reflects a fundamental tension between two models: a resource-competition (zero-sum) model, and an expanding (additive) model. Both capture important truths. Love is not a fixed supply of energy but an emotional capacity that can generate additional positive energy when expressed. Still, it is not boundless; the risk of spreading oneself too thin remains real.</p>
+
+<p>Three psychological capacities may support the expanding heart:</p>
+<ol>
+<li><em>Positive emotions broaden and build resources</em>. Barbara Fredrickson (2001) argues that positive emotions broaden our thought–action repertoire and help build enduring personal resources. Love, in this sense, generates growth rather than depletion (Stanton et al., 2014). </li>
+<li><em>The self is motivated to expand</em>. Relationships enable individuals to incorporate others’ perspectives, abilities, and resources, thus expanding the self (Aron et al., 2013). </li>
+<li><em>Generosity enhances well‑being</em>. Loving more than one person may be understood as a form of romantic generosity. Like other forms of giving, it can enhance well‑being and relational flourishing (Dew &amp; Wilcox, 2013).</li>
+</ol>
+
+
+<p>These considerations suggest that the heart can, under certain conditions, expand to include more than one lover. The remaining question concerns the value—and cost—of such expansion.</p>
+<h2>Polyamory and Open Marriages</h2>
+<p>“<em>Ten men waiting for me at the door? Send one of them home—I’m tired</em>.” —Mae West</p>
+<p>It is important to distinguish between open marriages, which emphasize sexual freedom, and polyamory, which includes deeper romantic bonds. Although the boundary between them is often blurred, polyamory typically involves greater emotional depth. Many polyamorous individuals—especially women—tend to engage sexually only with partners they love. At the same time, they may fall in love more easily, since they allow emotional involvement in situations others might avoid. Secondary relationships generally require fewer commitments than primary ones, making them easier to initiate. Polyamorous individuals also tend to hold more positive attitudes toward sexuality. Yet the greater emotional depth of polyamory does not necessarily make it more beneficial than open sexual arrangements; often, it does not (Ben‑Ze’ev, 2019).</p>
+
+<h2>Polyamory and Relationship Quality</h2>
+<p>“<em>I have been with my husband for 23 years, and with my boyfriend for 4 years. I love both deeply</em>.” —Woman</p>
+<p>Even if romantic capacity can expand, its limits remain. Polyamory often increases overall romantic intensity, partly because of novelty and change. The sexual dimension is particularly salient, especially in secondary relationships (Conley et al., 2018). But profound love requires sustained time and attention. Multiple partners may reduce the quality time available to each relationship. Distribution also becomes an issue: How is expanded love divided? A primary partner may receive less, or even less than a secondary partner. Alternatively, both partners may benefit relative to earlier circumstances.</p>
+
+
+
+  
+
+
+<p>It would be mistaken to regard polyamory and emotional depth as incompatible. Polyamorous relationships can foster self-expansion through multiple romantic connections. Yet this quantitative expansion carries the risk of reducing the quality of each individual bond (Ben‑Ze’ev, 2022; Halevi, 2021).</p>
+<h2>Concluding Remarks</h2>
+
+<p>“<em>Torn between two lovers, feeling like a fool</em>…” —Mary MacGregor</p>
+<p>Love can expand without necessarily becoming diluted, but expansion also creates tensions inherent in maintaining parallel relationships. Keeping all romantic options open risks spreading emotional investments too thin. Yet closing off all alternatives conflicts with human curiosity and the inherent desire for growth and renewal. Few people claim that attraction to others disappears after finding a life partner. More often, curiosity persists—though it is not always acted upon.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/in-the-name-of-love/202604/is-it-really-possible-to-love-two-people-at-the-same-time" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/in-the-name-of-love/202604/is-it-really-possible-to-love-two-people-at-the-same-time</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-the-name-of-love/202604/is-it-really-possible-to-love-two-people-at-the-same-time</guid>
+            <dc:creator><![CDATA[Aaron Ben-Zeév Ph.D.]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-cesar-o-neill-26650613-29452858.jpg?itok=ED4lsl17" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rockhounding and Our Primordial Fascination With Crystals]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/LoriPlutchik.png.jpg?itok=nun0Pgya" alt="Plutchik" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Rockhounding and Our Primordial Fascination With Crystals</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Rockhounding combines scenic landscapes, treasure hunting, and shiny gemstones.</h2><p style="font-size:0.9em;color:#666;">Posted April 12, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Many rockhounds have had a lifelong fascination with collecting stones.</li><li style="margin-bottom:6px;">A new study highlights an innate primordial attraction for crystals found in nature.</li><li style="margin-bottom:6px;">Object preference was demonstrated in chimpanzees for translucency and symmetrical geometric shapes.</li>
+            </ul>
+          </div>
+                    <p>My idea of a relaxing weekend away is a luxury spa with a great book in a quiet place. My husband’s preference is to go gem collecting with fellow rockhounds. For years I just thought this was quirky and did not pay much attention. Then he announced he was going to Mount Ida in Arkansas to mine crystals. He returned from this trip with bags of quartz crystals that he dug out of the mountain. I did not anticipate how much the crystals would captivate me. I cleaned them until they sparkled, and imagined that some resembled animal figures. I decided to join him on his return excursion. It was on this trip in the mountains of Arkansas that I was transformed into a full-fledged rockhound. </p>
+
+<p>Mystical and magical powers have long been ascribed to crystals. The practice of scrying, or receiving prophecies or spiritual guidance by gazing into mediums such as crystals, has gone on for thousands of years. Rachel Syme wrote in The New Yorker that “The best scryers looked into it and came out spinning stories, making meaning where before there was none, all from a hunk of polished cave rock.” (Syme, R, 2019).</p>
+
+<p>For millennia, people have turned to crystals for faith and healing and sometimes even for science, hope, and wisdom. There are certain similarities with turning to religion during times of stress and uncertainty. Crystals are commonly displayed at spas as some consider them to be intricately linked with healing, wellness, and relaxation.</p>
+
+<h2>Rockhounding adventurers: It is not just science</h2>
+<p>Rockhounding is the hobby of searching for, collecting, and learning about rocks, minerals and gemstones. It combines the best of hiking in beautiful scenic landscapes, the thrill of treasure hunting, and a love of sparkling gemstones.</p>
+<p>Areas throughout the country—on mountains, near rivers, and in deserts—are rich in specific gems or minerals, and stones can easily be collected or dug up with simple hand tools. This is a great way to explore different regions while choosing places with an abundance of the gems you enjoy. Trips can focus on particular types of minerals such as gemstone, crystals, fossils, meteorites or geodes. You can find treasures such as aquamarines, amethyst, peridot, agate, rose quartz, turquoise, topaz, morganite, and many others. </p>
+
+<p>Not only is it a serene and meditative way to commune with nature but you can cherish your souvenirs long after your adventure. You can display them around your home as paperweights or figurines. I have taken rough gems dug up from the earth to a lapidary (gemstone cutter) who transformed them into expertly cut shiny gemstones with which to make jewelry. A local jeweler then set the stones, creating pieces I love to wear and that hold special meaning.</p>
+
+<h2>The intrinsic allure of crystals </h2>
+<p>A new study by Garcia-Ruiz et al, examined the primordial fascination with crystals. The authors noted that there is evidence that humans and their progenitors have collected crystals for at least 780,000 years despite no apparent survival benefits (Garcia-Ruiz et al., 2026). In the study, chimpanzees were videotaped in order to observe their interactions with crystals. When given a pile of pebbles with crystals mixed in, the chimpanzees were more likely to seek out crystals with transparency and luster. They also chose pieces based on morphology, with a preference for symmetrical, geometric shapes. Remarkably, the chimpanzees were observed holding the crystals close to their eyes and inspecting them while relaxing near the window to observe the crystals against the light. These results suggest that the qualities of transparency and symmetry attracted the attention and interest of the chimpanzees and guided their preferences of object selection. These characteristics are not commonly found in nature, and objects with these features captured their attention—as they do for humans (Garcia-Ruiz et al., 2026).</p>
+
+<p>The Morefield Gem Mine in Amelia, Virginia, operated from 1929-2018 and was renowned for its abundance of amazonite, topaz, beryl, garnets, and amethyst, among other stones. Since 1996, Sam Dunaway and his wife Sharon have been the owners. Sam, a retired mining engineer, described being fascinated by rocks since early childhood. He told me, “As a kid, all I really wanted to do was analyze my rocks…I analyzed everything imaginable...I’m pretty much of a seeker, a looker, an analyst.” (S. Dunaway, personal communication, April 4, 2026). He described an innate satisfaction in searching and digging for rocks that people, even small children, enjoy for hours. They like turning over things on the ground and finding unique, interesting, and pretty pieces. Visits to the mine are filled with surprises. Sam marveled at how people love to tell the stories of finding their treasures. For those new to the hobby, he offered this advice: “Go with somebody else and see how to do it…when you go and do it, that's different than talking about it.”</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-colors-of-contemporary-psychiatry/202604/rockhounding-and-our-primordial-fascination-with" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-colors-of-contemporary-psychiatry/202604/rockhounding-and-our-primordial-fascination-with</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-colors-of-contemporary-psychiatry/202604/rockhounding-and-our-primordial-fascination-with</guid>
+            <dc:creator><![CDATA[Lori Plutchik, M.D.]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/shutterstock_1668143353.jpg?itok=X70XOsnk" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Strong Couples Repair]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/S_Tagay_HF_0675.png.jpg?itok=GXsizcKo" alt="Sefik Tagay Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Strong Couples Repair</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Strong partnerships protect core needs, and repair them when threatened.</h2><p style="font-size:0.9em;color:#666;">Posted April 12, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Strong relationships protect core psychological needs over time.</li><li style="margin-bottom:6px;">Many couples' conflicts begin as threats of safety, belonging, autonomy, competence, or dignity.</li><li style="margin-bottom:6px;">Responsiveness, shared coping, and repair make love more durable.</li>
+            </ul>
+          </div>
+                    <p>Most relationships do not break in one dramatic moment. They wear down when too many small injuries stop being repaired.</p>
+<p>People often explain successful partnerships in terms of chemistry, compatibility, or luck. But the science of close relationships points to something deeper. Strong couples are not simply the ones that fight less or feel less stress. They are the ones that do a better job of protecting what each partner most fundamentally needs in order to stay emotionally open, connected, and invested.</p>
+
+<p>From the perspective of the Theory of Universal Psychological Needs, romantic relationships are more likely to thrive when they reliably support six psychological needs: safety, belonging, autonomy, competence, dignity, and meaning. When these needs are repeatedly protected, couples usually become more resilient. When they are repeatedly injured, the relationship often becomes tense, brittle, and emotionally lonely.</p>
+
+<h2>What Strong Couples Protect</h2>
+<p>Start with <em>safety</em>. One of the clearest findings in attachment research is that relationships suffer when partners chronically feel unsafe. Sometimes that shows up as anxiety: One person fears distance, reads silence as rejection, and becomes easily alarmed. Sometimes it shows up as avoidance: One person shuts down under emotional pressure and experiences closeness as overwhelming. In both cases, ordinary tension can start to feel like danger. Strong couples are not those without vulnerability. They are the ones in which vulnerability is less likely to trigger chronic threat.</p>
+
+<p>Then there is <em>belonging</em>. People need more than a partner beside them. They need to feel emotionally received by that partner. They need to feel seen, understood, and wanted. In relationship research, this is often captured by the idea of responsiveness: Do I feel that my inner world matters to you? Do I feel that you are really here with me? Many struggling couples are not only fighting over practical issues. They are suffering from a slow erosion of emotional belonging.</p>
+
+<p>The need for <em>autonomy</em> matters too. A healthy partnership allows someone to remain psychologically present without disappearing into the other person. That means more than being allowed to speak. It means having real relational freedom and voice. Can I say no, ask for change, name a hurt, or initiate closeness without feeling punished, dismissed, or cornered? Relationships become weaker when one partner increasingly feels that the only way to preserve connection is to surrender their voice.</p>
+
+<p>Closely tied to autonomy is <em>competence</em>, the feeling that one’s efforts can actually make a difference. Many couples do not collapse because they lack love. They collapse because they begin to feel that nothing helps. The same arguments return. The same disappointments repeat. The same repairs fail. Over time, one or both partners stop trying with hope. This is why shared coping matters so much. Strong couples are not better because stress spares them. They are better because they are more likely to experience stress as something they can face together rather than as proof that the relationship is failing.</p>
+
+<p>Then there is <em>dignity</em>, one of the most neglected dimensions in relationships. Many partnerships begin to erode not through indifference, but disrespect. This is where John Gottman’s work remains essential. His research identified patterns such as criticism, contempt, defensiveness, and stonewalling as especially corrosive. Of these, contempt is often the most toxic. This makes profound psychological sense: Contempt does not merely express frustration. It attacks dignity.</p>
+
+
+<p>The final need is <em>meaning</em>. Strong relationships offer more than affection and routine. They offer some sense of shared coherence. Why are we here together? What are we building? What makes this relationship worth returning to after disappointment, fatigue, or conflict? Meaning does not eliminate hardship. But it changes hardship from a sign of collapse into something the relationship may still be large enough to hold.</p>
+
+<h2>When Needs Are Threatened</h2>
+<p>A simple moment can make all of this visible. One partner comes home exhausted and answers briefly. The other hears coldness and feels hurt. What happens next is rarely just about a short sentence. One person may suddenly feel unsafe or unimportant. The other may feel unfairly blamed and pushed. What looks like a minor misunderstanding can quickly become a threat to safety, belonging, dignity, and autonomy all at once.</p>
+
+
+
+  
+
+
+<p>This is where Gottman’s ideas about bids for connection and repair attempts become so useful. In a fragile relationship, a missed bid becomes another injury: One person reaches, the other fails to respond, and both retreat further into defensiveness or hurt. In a stronger relationship, someone eventually notices the deeper process and interrupts it. They soften. They clarify. They acknowledge the hurt. They try again. That is not a small difference. It is the difference between a rupture becoming a pattern and a rupture becoming a repair.</p>
+
+<p>Personality matters here. Across the broader literature, higher neuroticism is one of the most robust risk factors for lower relationship satisfaction, while agreeableness and conscientiousness are often associated with more stable relationship functioning. But personality is not destiny. Some couples simply have to work harder than others to protect the same psychological needs under pressure.</p>
+
+<h2>Questions for Reflection</h2>
+<p>If you recognize some of these patterns in your own relationship, a few questions may help: Which needs feel most protected between you and your partner? Which feel most often threatened? And when a rupture happens, how quickly does repair begin?</p>
+<p>A few practical guidelines follow from this: Reduce unnecessary alarm to protect safety. Make responsiveness visible to protect belonging. Protect voice and agency to support autonomy. Treat problems as workable to strengthen competence. Refuse humiliation, especially in conflict, to protect dignity. And return to the larger “why” to protect meaning.</p>
+
+<p>In strong relationships, it's not that needs are never threatened but both partners become more capable of noticing the threat, naming it, and repairing it together.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202604/what-strong-couples-repair" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202604/what-strong-couples-repair</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202604/what-strong-couples-repair</guid>
+            <dc:creator><![CDATA[Sefik Tagay Ph.D.]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/evamichalkova-pixabay.jpg?itok=qKSEOROl" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Too Much Advice Is Making Us Worse at Parenting]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-03/Brown.png.jpg?itok=UdxUw3Gu" alt="Brown" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Too Much Advice Is Making Us Worse at Parenting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Expert overload fuels anxiety and self-doubt</h2><p style="font-size:0.9em;color:#666;">Posted April 12, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Too much expert advice can increase parental anxiety.</li><li style="margin-bottom:6px;">Parenting has shifted from a relationship to a “child-focussed project.”</li><li style="margin-bottom:6px;">Less information can help parents function more effectively.</li>
+            </ul>
+          </div>
+                    <blockquote><p>“Can you see the ways that external advice can exacerbate parental anxiety by creating unrealistic standards and fueling a sense of inadequacy? It isn’t that it causes parental anxiety, per se, as parenting is naturally full of protective urges, but it certainly has played a significant part in amplifying parental overwhelm.”</p>
+</blockquote>
+
+<p>This is a theme I explore in my upcoming book, <a href="https://www.bloomsbury.com/us/parenting-paradox-9798765161968/"><em>The Parenting Paradox</em></a>, in which I reflect on the correlation between expert parenting advice and uncertain parenting.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/mindfulness-com-u1rmd5bqcgu-unsplash.jpg?itok=cLu8CiJD" width="320" height="480" data-insert-type="image" title="Unsplash/Mindfulness.com" alt="Unsplash/Mindfulness.com"></div>
+<div class="insertArea--origin subtext">Source: Unsplash/Mindfulness.com</div>
+</div>
+</div>
+</div>
+<p>I recently participated in a podcast interview about over-professionalizing parenting. It’s a topic that resonates with me so it’s been good to have opportunities to name what so many parents are quietly experiencing as a norm—that raising children has shifted from a lived relationship into something that feels more like a complex, high-stakes profession.</p>
+
+<p>Much of how I think about this has been shaped by Murray Bowen’s family systems theory, which highlights the impact parents have on emotional dynamics—not through techniques but through their own functioning.</p>
+<p>For over a century, external advice and marketing have entered the parenting space, amplifying fears around children’s safety, education, and emotional well-being. This sits alongside many broader social changes, and not all of it has been negative. But what’s become increasingly clear is the correlation between expert advice and uncertain parenting, as historian Peter Stearns has noted. As I reflect in my book, “external advice can exacerbate parental anxiety by creating unrealistic standards and fuelling a sense of inadequacy.”</p>
+
+<p>What strikes me in my work with parents and their helpers is how universal this experience is. Parents aren’t lacking care or commitment; they’re overwhelmed by the sheer volume of voices telling them how to care. Parenting, which once grew largely from lived experience in community and intuition, has increasingly become outsourced to external advisors.</p>
+
+<p>We go looking for reassurance, but often come away with more doubt. In fact, we go to an expert for advice to solve anxiety, but end up feeding it.</p>
+<p>At some point, without fully noticing, we begin to treat parenting less like a relationship and more like a project. We track, measure, assess, and intervene with a focus on our kids. When parenting becomes something to get right, rather than something to live into over time, it can lose its sense of direction and leave parents feeling overwhelmed.</p>
+
+<p>I propose that the way forward is not through more knowledge, but through a kind of thoughtful reduction and reclaiming of our sense of self as parents. This is where the paradox begins to unfold. Perhaps the overriding paradox is that less information is more helpful. It allows parents to focus on how they relate to their child rather than stressing about how much they need to know.</p>
+
+<p>This idea often meets resistance. We’ve been conditioned to believe that being well-informed is the same as being well-equipped. But in parenting, more information can crowd out our capacity to be ourselves—to be present. When we are less preoccupied with whether we are doing things “correctly,” we can pay closer attention to how we respond in the relationship in front of us. Parents can be reassured that they genuinely don’t need to listen to and read every new piece of ever-shifting advice.</p>
+
+
+<p>Another paradox follows closely behind. Rather than increasing our focus on the child—on their emotions, behaviors, and developmental milestones—we are better served by shifting our attention to observing ourselves. When parents turn their attention to managing their reactions to their children, they don’t need to have all the latest information about their children’s development. This is not about neglecting children’s needs, but about recognizing the powerful role we play in shaping the emotional climate of the relationship.</p>
+
+<p>There’s also an important tension here for those of us who work in the parenting space. I’m mindful that in providing resources to lend a hand to parents, I risk adding to the very noise of all the advice surrounding them. My guiding question for testing what I write is: <em>Does it help parents to think and act for themselves rather than follow others’ directives?</em></p>
+
+
+
+  
+
+
+<p>The goal for parents is not stepping back too far but staying present in a way that provides both loving support and space for children to grow independence. This isn’t something that can be prescribed; it has to be discovered. It involves learning how to use external resources wisely, without losing sight of your own resourcefulness and values.</p>
+
+<p>With a plethora of advice online and in the media, parenting has become more complicated than it needs to be. The pathway to less overwhelm will require reduced outsourcing to experts so that parents can recover trust in their own version of good-enough parenting.</p>
+<p>These are some of the tensions I continue to explore in my book, particularly how parents can reclaim trust in their own way of being, rather than outsourcing it to the ever-expanding world of expert advice.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-paradoxical-path-of-parental-differentiation/202604/too-much-advice-is-making-us-worse-at" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-paradoxical-path-of-parental-differentiation/202604/too-much-advice-is-making-us-worse-at</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-paradoxical-path-of-parental-differentiation/202604/too-much-advice-is-making-us-worse-at</guid>
+            <dc:creator><![CDATA[Jenny Brown, Ph.D.]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/mindfulness-com-u1rmd5bqcgu-unsplash.jpg?itok=0ESYbt0O" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
