@@ -4,175 +4,101 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 22:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 23:43:21 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 22:44:24 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 23:43:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The ProSocial AI Index: A Better Way to Think About AI]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/IMG_1313-removebg-preview.jpg?itok=ObbAdNW8" alt="Cornelia C. Walther Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The ProSocial AI Index: A Better Way to Think About AI</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">We need to move beyond metrics to meaning with AI.</h2><p style="font-size:0.9em;color:#666;">Posted April 13, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p dir="ltr">Artificial intelligence (AI) is often discussed as if its impact was mainly a technical issue: Is the model accurate? Is it fast? Is it cheaper than the old system? Can it scale?</p>
-<p dir="ltr">Those are useful questions. They are not the whole story.</p>
-<p dir="ltr">A tool can be efficient and still steer people in the wrong direction. It can save time while weakening judgment. It can increase output while shrinking empathy. It can help an institution make decisions faster while making those decisions narrower, colder, or less fair. That is why we need to expand the narrow return-on-investment focus that has driven the economic quest for centuries to embrace a <a href="https://sunwayuniversity.edu.my/sites/default/files/documents/2025-06/roi_rov_prospectus.pdf">return-on-values </a>perspective. The <a href="https://knowledge.wharton.upenn.edu/article/is-your-ai-system-ethical-try-this-assessment/">ProSocial AI Index </a>is a point of departure for making that happen in a hybrid world, where it is urgent to move from treasure that we measure to a measure that we (should) treasure. The Index gives us a way to ask a deeper question: not just whether an AI system works but also what it encourages in the people who build it, buy it, and use it.</p>
-
-<p dir="ltr">In simple terms, the ProSocial AI Index is a dashboard that helps us see whether AI supports human flourishing or slowly undermines it, and whether it preserves or jeopardizes the planet. </p>
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-04/img_3276.png.jpg?itok=L6y4qqml" width="639" height="497" data-insert-type="image" alt=" Figure 1. Illustrative 4T x 4P dashboard. Rows show how AI is built and deployed; columns show what it is expected to serve. The color pattern matters as much as the overall score because it reveals where value is strong and where attention is needed." title="Walther. ChatGPT. 2026"></div>
-<div class="caption">Figure 1. Illustrative 4T x 4P dashboard. Rows show how AI is built and deployed; columns show what it is expected to serve. The color pattern matters as much as the overall score because it reveals where value is strong and where attention is needed.</div>
-<div class="insertArea--origin subtext">Source: Walther. ChatGPT. 2026</div>
-</div>
-</div>
-</div>
-<h2>8 Powerful Questions to Steer the Hybrid Future</h2>
-<p dir="ltr">The index, above, is anchored in a simple matrix: 4T × 4P</p>
-<p dir="ltr"><strong>The four Ts ask</strong><em><strong> how</strong></em><strong> the system is built:</strong></p>
-<ul>
-<li>
-<p dir="ltr">Tailored: Was it shaped for the real context?</p>
-</li>
-<li>
-<p dir="ltr">Trained: Was it developed on sound data and sound norms?</p>
-</li>
-<li>
-<p dir="ltr">Tested: Was it checked in the real world before being scaled?</p>
-</li>
-<li>
-<p dir="ltr">Targeted: Is it aimed at the right outcome?</p>
-</li>
-</ul>
-
-<p dir="ltr"><strong>The four Ps ask </strong><em><strong>what and who</strong></em><strong> the system is serving:</strong></p>
-<ul>
-<li>
-<p dir="ltr">Purpose: Does it solve a meaningful problem?</p>
-</li>
-<li>
-<p dir="ltr">People: Does it respect human dignity, agency, and inclusion?</p>
-</li>
-<li>
-<p dir="ltr">Profit: Does it create economic value without distorting everything else?</p>
-</li>
-<li>
-<p dir="ltr">Planet: Does it account for environmental and systemic effects?</p>
-</li>
-</ul>
-
-<p dir="ltr">That sounds abstract—until you apply it to ordinary life.</p>
-<p dir="ltr">Imagine a school adopts an AI tutor. It gives instant feedback, adapts to each student, and helps teachers save time. On the surface, this looks impressive. Yet a Prosocial AI dashboard might show something important. The system may be green on Profit because it saves resources. It may be green on Purpose because it improves test preparation. Yet it could turn amber or red on People if students become passive recipients rather than active learners. And it could turn amber on Targeted if the hidden aim of the system is not learning but compliance, screen time, or data extraction.</p>
-
-<p dir="ltr">This is where the index becomes more than a governance tool. It turns out to be a way to think more clearly about our own mindsets.</p>
-<h2>A Tool to Think </h2>
-<p dir="ltr">Human beings are highly susceptible to what feels smooth. We often confuse convenience with wisdom. We are drawn to speed because speed feels like competence. We trust polished systems because polish feels like intelligence. We outsource judgment because judgment is tiring. AI can amplify all of these tendencies.</p>
-
-<p dir="ltr">One of the most common thinking traps is <em>automation bias</em>. When a machine produces an answer quickly, humans tend to assume it must know something they do not. The answer arrives with confidence. The interface looks clean. The recommendation feels neutral. So we lean back. We stop questioning. Over time, the habit of checking weakens, and agency decay ensues. </p>
-
-<p dir="ltr">A second trap is <a href="https://www.sciencedirect.com/science/article/abs/pii/S0899825619300995">outcome bias</a>. If the result looks good, we assume the process was sound. A hiring system fills jobs faster. A chatbot handles more patients. A predictive tool reduces losses. Once those outcomes appear, people often stop asking what the system may be overlooking. Who is excluded? What trade-off is being hidden? What human skill is quietly eroding in the background?</p>
-
-<p dir="ltr">A third trap is <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10033285/">moral distance</a>. AI often creates an additional layer between action and consequence. A manager no longer rejects a loan applicant directly; the system does. A teacher no longer decides which student needs help first; the dashboard nudges the decision. A clinician no longer prioritizes solely on professional judgment; the model suggests a path. When responsibility is spread across software, institutions, and workflows, people can begin to feel less personally accountable. The decision still harms someone. It just feels less human at the moment.</p>
-
-<h2>Counteracting Our Bias Bottlenecks </h2>
-<p dir="ltr">The ProSocial AI Index helps counter these habits by making patterns visible.</p>
-<p dir="ltr">A traffic-light dashboard is useful because it matches how humans tend to think. Most of us do not need a 40-page methodology before we can sense whether something deserves trust. We need a quick signal and a simple structure: Green says this area looks strong. Amber says slow down and examine. Red says there is a real risk here. The dashboard does not replace deeper analysis. It opens the door to it.</p>
-
-
-
-  
-
-
-<p dir="ltr">That is why a simplified dashboard matters. It lets non-specialists enter the conversation. A parent, a teacher, a hospital director, or a public official can look at the grid and begin to ask better questions, like, Is this AI truly tailored to the people it affects, or was it imported from somewhere else and dropped into a very different reality? The hybrid future must be shaped by all of us; that starts by understanding what is at stake. The real contribution of the ProSocial AI Index is psychological and cultural. It (re)trains attention. It shifts the question from “Can this system do the job?” to “What kind of habits, relationships, and judgments will this system strengthen?”</p>
-
-<p dir="ltr">That shift matters because technology rarely changes society only through dramatic disruption. More often, it changes us through repetition. Tiny nudges become routines. Routines become norms. Norms become expectations. Eventually, people forget that things could be otherwise. The ProSocial AI index interrupts that drift. It asks us to notice what we are normalizing.</p>
-
-<h2>Disrupting the Drift</h2>
-<p dir="ltr">Are we normalizing speed over reflection? Prediction over understanding? Compliance over curiosity? Delegation over responsibility? Or are we designing systems that help people think better, decide better, and relate better?</p>
-<p dir="ltr">That is the heart of the issue. The best AI should not merely reduce friction; it should increase clarity. It should support human judgment where judgment matters most. It should widen perspective, not narrow it. It should help us act with more awareness of consequences, not less. When the dashboard is simple enough to read and serious enough to matter, it can shape better conversations in schools, hospitals, companies, and governments.</p>
-
-<p dir="ltr">Every society gets the technologies it learns to measure. If we measure only speed, scale, and profit, we will get more of those. If we also measure dignity, agency, responsibility, and long-term value, we stand a better chance of building AI that serves human beings rather than training human beings to serve the machine.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/the-prosocial-ai-index-a-better-way-to-think-about-ai" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/the-prosocial-ai-index-a-better-way-to-think-about-ai</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/the-prosocial-ai-index-a-better-way-to-think-about-ai</guid>
-            <dc:creator><![CDATA[Cornelia C. Walther Ph.D.]]></dc:creator>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/shutterstock_2613120225.jpg?itok=63OOkRCm" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Levels Over Labels: The Neurotic Personality]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/HURFORD-48-removebg-preview.jpg?itok=KEgGRKGY" alt="Irene Hurford MD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Levels Over Labels: The Neurotic Personality</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A psychoanalytic overview of the neurotic personality organization.</h2><p style="font-size:0.9em;color:#666;">Posted April 13, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Is Your Pursuit of Happiness Making You Sad?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/john_tsilimparis.png.jpg?itok=9_afPPDi" alt="John Tsilimparis MFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Happiness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Your Pursuit of Happiness Making You Sad?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Here’s how the “bliss trap” can hold you back.</h2><p style="font-size:0.9em;color:#666;">Posted April 13, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Personality can be framed as levels intersecting with traits, rather than fixed categories.</li><li style="margin-bottom:6px;">Neurosis is one level of personality organization shaped by triangular conflict, guilt, and competition.</li><li style="margin-bottom:6px;">Neuroticism can be expressed through obsessionality.</li>
+              <li style="margin-bottom:6px;">We live in a culture that treats "joy" as a moral obligation.</li><li style="margin-bottom:6px;">Happiness is, by its very nature, a flicker—it is radiant, but it is inherently fleeting.</li><li style="margin-bottom:6px;">The more we value happiness as a goal, the more likely we are to feel spiritually and emotionally bankrupt.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/orji-joseph-95ezy2cv5wm-unsplash.jpg?itok=laAQh7Yl" width="320" height="402" data-insert-type="image" title="Photo by orji joseph on Unsplash" alt="Photo by orji joseph on Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Photo by orji joseph on Unsplash</div>
+                    <p>For many, the most profound weight we carry isn’t the presence of sadness, but the frantic, unyielding pressure to be its opposite. We live in a culture that treats joy as a moral obligation, yet this very obsession creates what psychologists call a self-defeating loop. By transforming a fluid, organic emotional state into a rigid benchmark for personal success, we inadvertently construct a psychological trap where genuine contentment has no room to breathe.</p>
+
+<p>The more we value happiness as a primary goal, the more likely we are to feel spiritually and emotionally bankrupt when we inevitably fall short of our own expectations.</p>
+<h2>The Self-Defeating Mechanics of ‘Emotional Auditing’</h2>
+<p>The primary reason this pursuit fails is that it necessitates a state of constant internal surveillance. When we treat joy as a “trophy” to be hoisted or a destination to be reached, we trigger a relentless process of emotional auditing. We become the grim accountants of our own well-being, perpetually checking the ledger and asking:</p>
+
+<p><em>“Am I happy enough yet?”</em></p>
+<p><em>“Is this moment as good as it’s supposed to be?”</em></p>
+<p><em>“Why don’t I feel the way I’m ‘supposed’ to feel right now?”</em></p>
+<p>According to <a href="https://doi.org/10.1037/a0022010">research on the paradoxical effects</a> of valuing happiness, this hyper-awareness creates a destructive “expectation gap” between our messy, authentic reality and an idealized, “Instagram-ish” version of life. Furthermore, *the act of chasing happiness sends a powerful subconscious signal to the brain that our current state is inherently insufficient. By obsessing over the “missing piece” of the puzzle, we become functionally blind to the abundance already present. We effectively starve ourselves of the joy that exists in the now by grieving the joy we haven’t yet secured for the next.</p>
+
+<h2>The Duality of the Human Experience: Shadow and Light</h2>
+<p>Happiness is, by its very nature, a flicker—it is radiant, but it is inherently fleeting. Paradoxically, our deepest bouts of melancholy often arise not from a specific tragedy, but from the unconscious realization that a moment of peak joy is already beginning to erode. We suffer because we sense the end of the “high” before it has even fully passed, mourning the loss of the moment while we are still standing in it.</p>
+
+<p>However, there is a profound liberation found in accepting that pain and rapture are inextricably linked. They are two sides of the same coin; the depth of one defines the boundaries of the other. If we accept that joy is temporary, we must also embrace the grace that follows. In our darkest moments, the pain is equally transient.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
-</div>
-</div>
-<p><em>This post is part 1 of a series.</em></p>
-<p>This is the first of a three-part series on analytic approaches to personality organization and how we can use this framework to develop a psychoanalytic formulation of our patients. It contrasts with how the DSM is currently organized, and apparently how it <a href="https://substack.com/home/post/p-190943806">will be organized in future editions</a>. I personally find the use of levels of personality organization incredibly useful in conceptualizing complicated clinical presentations, and I’ll refer back to this series frequently in other writings.</p>
 
-<p>The DSM categorizes symptom clusters into syndromes, which it then mislabels “diagnoses.” These symptom clusters are thought to aggregate in ways that provide useful pathophysiological or prognostic information. See <a href="https://drhurford.substack.com/p/schizophrenia-a-label-without-a-disease?r=3v5oes">here</a> for one of my critiques of this approach.</p>
-<p>Many analysts, by contrast, categorize people and their symptomatic presentations along two separate axes: the level of personality organization and their characterological traits. Nancy McWilliams, in her book <em>Psychoanalytic Diagnosis</em>,<sup>1</sup> does a wonderful job reviewing this approach to case construction. The seminal works on personality organization come from Otto Kernberg, which I highly recommend.<sup>2,3</sup> In this post, I focus primarily on levels of personality organization, using the characterological trait of obsessionality as a clinical illustration across levels.</p>
+  </div>
 
-<h2>Levels of Personality Organization</h2>
-<p>The three levels of personality organization in patient populations are <em>neurotic, borderline, </em>and<em> psychotic</em>. Kernberg also describes a fourth, “healthy” level of organization,<sup>4</sup> which I will not be addressing in this series.</p>
-<p>Each level exists as a spectrum, so people can be organized at the juncture points—low neurotic/high borderline, for example, or low borderline/high psychotic. Because these categories are not truly categorical, the defining features of each bleed into the others at the extremes, which can generate significant diagnostic confusion.</p>
+<p>Acknowledging this is the beginning of true emotional maturity. It is the act of recognizing that the contrast between shadow and light is what gives the human experience its richness. To try to eliminate the shadow is to flatten the image of our lives until it loses all meaning.</p>
+<h2>From Primary Target to Organic Byproduct</h2>
 
-<p>These levels of organization intersect with characterological traits, such that a person can have an obsessional character organized at a neurotic, borderline, or psychotic level. Similar intersections exist across many analytic character descriptions—schizoid, histrionic, narcissistic, and others.</p>
-<h2>The Neurotic Level of Organization</h2>
+<p>When we make happiness our primary target, we strip it of its spontaneous essence. It ceases to be a feeling and becomes a performance. We start to view a bad day or a period of grief not as a natural, healthy part of the human rhythm, but as a failure of our “well-being strategy.” This creates a secondary, more toxic layer of suffering: we begin to feel bad about feeling bad.</p>
 
-<p>People organized at a neurotic level tend to struggle with the issues Freud described in his account of the Oedipal phase.<sup>5,6</sup> In <em>relationships</em>, they characteristically experience jealousy and competition reminiscent of the Oedipal struggle—the wish to claim the opposite-sex parent as a love object and defeat the rivalrous same-sex parent. Every parent who has heard their child announce plans to marry them one day is witnessing the Oedipal phase in action. These triangular dynamics, involving the individual, their love interest, and a rival, form a triangle with a person at each point, all in constant relational engagement.</p>
+<p>Lasting satisfaction is rarely the result of a direct frontal assault. Instead, it is a “sneaky” byproduct—a quiet resonance that emerges when we stop looking at ourselves and start looking at the world. True contentment is found not when we focus on the feeling itself, but when we positively lose ourselves in:</p>
 
-<p>This triangular struggle can surface in contexts that seem, at first pass, unrelated to relationships, but issues around fear of success (sabotaging professional or academic advancement) and writer’s block are also examples of Oedipal conflicts; a fear of upstaging or surpassing the same-sex parent and inciting their wrath.</p>
-
-<p>Those organized at a neurotic level tend to become especially <em>angry</em> around competition, jealousy, and justice. They may be overtly competitive, or the opposite—outwardly meek while unconsciously struggling with unexpressed competitive feelings. Regardless, themes of rivalry and injustice reliably fire them up, a further consequence of the basic triangular approach they take to relationships and relationship-analogous conflicts.</p>
-
-
-<p>Just as triangular issues around competition incite their anger, their primary <em>fear</em> is also driven by competitive dynamics. They fear punishment (the Freudian castration fear as a quintessential example). They dread retribution from the same-sex parent for their sexual fantasies toward the opposite-sex parent, or for aggressive fantasies toward the same-sex parental rival. While the unconscious targets of these feelings are the parents themselves, the more conscious manifestations are typically directed toward parental stand-ins: a romantic partner, a boss, a mentor. These fears generate intense guilt, which Freud attributed to the harsh internal condemnation of an overactive superego. Individuals at the neurotic level are accordingly prone to guilt, sometimes cripplingly so. Their deepest <em>wish</em>, then, is to compete freely, both romantically and professionally, without punishment and without guilt.</p>
-
-<h2>A General Example</h2>
-<p>Someone organized at a neurotic level with an obsessional character might be perfectionistic, detail-oriented, rigid, and judgmental. His careful and precise nature may make him exceptionally effective in certain kinds of work. But he may feel held back by a tendency towards procrastination and rumination, and his boss might complain that he can’t see the forest for the trees. He might feel a particular discomfort around hygiene and sexuality, which can, at times, feel disgusting or dirty. He is likely preoccupied with rivalry in romantic contexts, overtly jealous, or, alternatively, ruminating on feelings of inadequacy relative to men he imagines as competitors for his partner’s attention.</p>
+<p><strong>Rewarding Mastery</strong>: Engaging in work, art, or hobbies for the sheer sake of the craft, allowing the ego to temporarily disappear into the “flow” of the action. Another way of finding your “zone” or your “groove.”</p>
+<p><strong>Interconnectedness</strong>: Shifting the focus from what we can extract from a relationship to how we can authentically show up for another person. It suggests that the health of the “us” is more important than the gain of the “me.”</p>
 
 
 
   
 
 
-<p>At times, his obsessional character may balloon into full-blown obsessive-compulsive disorder. When this happens, he experiences the obsessions and compulsions as ego-dystonic—foreign to his sense of self—and something he desperately wants to be rid of. In dynamic or analytic therapy, he will characteristically rely on intellectualization, isolation of affect, and reaction formation as his primary defenses, which will require slow and careful defense interpretation to loosen his rigidity, deepen his experience of emotional richness, and help him find greater comfort with his own competitive and aggressive feelings.</p>
+<p><strong>Purpose Beyond the Self:</strong> Dedicating energy to causes, families, or communities larger than our immediate desires, providing a foundation of meaning that survives even when “happiness” is temporarily absent. Robert Green Ingersoll said, “The time to be happy is now. The place to be happy is here. The way to be happy is to make others so.”</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-04/fs9a3-b-span-style-font-size-14pt-font-family-arial-sans-serif-levels-of-personality-organization-span-b-.png.jpg?itok=lrjFIZyI" width="639" height="376" data-insert-type="image" title="Irene Hurford via Datawrapper" alt="Irene Hurford via Datawrapper"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Irene Hurford via Datawrapper</div>
-</div>
-</div>
-</div>
-<p><em>To find a therapist, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+  </div>
+
+<h2>The Stillness After the Chase</h2>
+<p>In the end, happiness is not a commodity to be acquired, hunted, or hoarded. It is the background hum of a life lived with curiosity, resilience, and purpose. When we finally abandon the exhausting, noisy chase, we often find that in the resulting stillness, it was right there in front of us all along.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/reality-in-dialogue/202604/levels-over-labels-the-neurotic-personality" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-magic-in-the-tragic/202604/is-your-pursuit-of-happiness-making-you-sad" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/reality-in-dialogue/202604/levels-over-labels-the-neurotic-personality</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/reality-in-dialogue/202604/levels-over-labels-the-neurotic-personality</guid>
-            <dc:creator><![CDATA[Irene Hurford MD]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-magic-in-the-tragic/202604/is-your-pursuit-of-happiness-making-you-sad</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-magic-in-the-tragic/202604/is-your-pursuit-of-happiness-making-you-sad</guid>
+            <dc:creator><![CDATA[John Tsilimparis MFT]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/orji-joseph-95ezy2cv5wm-unsplash.jpg?itok=WJVT5F3t" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/andrea_piacquadio_pexels.com__0.jpg?h=fd35b4b9&amp;itok=LaRXLNAg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
