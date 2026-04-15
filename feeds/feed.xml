@@ -4,118 +4,122 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 23:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 02:37:45 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 23:42:51 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 02:37:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Mean Girls in History: Women Who Fought Tooth and Claw]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/laura_betzig.png.jpg?itok=S31NKFK6" alt="Laura Betzig Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gender</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Mean Girls in History: Women Who Fought Tooth and Claw</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">People often say women are nicer than men. History suggests otherwise.</h2><p style="font-size:0.9em;color:#666;">Posted April 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How Cognitive and Social Forces Shape Medical Decisions]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/Ryan-Warner.jpg?itok=unjgwKga" alt="Ryan C. Warner Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Heuristics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Cognitive and Social Forces Shape Medical Decisions</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Examining what informs healthcare choices beyond the diagnosis.</h2><p style="font-size:0.9em;color:#666;">Posted April 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Despite the popular tropes, boys aren't always naughty, and girls aren't always nice.</li><li style="margin-bottom:6px;">Research suggests women are slightly more agreeable, altruistic and prosocial than men.</li><li style="margin-bottom:6px;">In history, women have fought tooth and claw with poisoned daggers and hired armies to defend their families.</li>
+              <li style="margin-bottom:6px;">Medical decisions are shaped by how options are framed and presented—and who presents them.</li><li style="margin-bottom:6px;">Biases like framing, anchoring, and status quo bias can influence choices.</li><li style="margin-bottom:6px;">Power dynamics, time pressure, and vulnerability can lead to quick agreement, even with uncertainty.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/de_casibus_08_0.jpg?itok=Jv2X6VBx" width="320" height="259" data-insert-type="image" alt="The Murder of Brunhilda" title="Wikipedia"></div>
-<div class="caption">The Murder of Brunhilda</div>
-<div class="insertArea--origin subtext">Source: Wikipedia</div>
-</div>
-</div>
-</div>
-<p>Boys are naughty, girls are nice. Boys are tough, girls are soft. Boys are snips and snails and puppy dog tails; girls are everything nice. So go the tropes.</p>
-<p>And the research labs back them up.<strong> </strong>Women are a bit more agreeable, altruistic, empathetic, compassionate, and prosocial than men. The curves overlap, but neuroimages, physiological measurements, experimental tasks, and self-reports suggest that girls tend to be nicer than boys.</p>
+                    <p>Most people have had this experience: sitting in a doctor’s office, hearing a recommendation, and agreeing to move forward—often within minutes.</p>
+<p>It may seem like a simple, fact-based decision. But research shows choices are also influenced by how information is presented, who is giving the recommendation, and how a person is feeling at the time. The way a diagnosis is explained, the options that are offered, and whether patients feel comfortable asking questions all shape what they choose.</p>
 
-<p>History suggests otherwise. Not all girls are sugar and spice. Some have access to scramasaxes. Some hoard poison boxes. Some hire mercenary armies.</p>
-<p>Consider Livia Drusilla.</p>
-<p>On the 30<sup>th</sup> of October, in 39 BC, the first Roman emperor, the man-who-would-be-called Augustus, divorced his wife. On the same day, his only daughter, Julia, was born. She became well-read and quick-witted, well-connected and well-liked; she was empathetic and kind. But she partied hard. There were rumors about orgies in the middle of the city. There were stories about late nights in the forum near the statue of Marsyas, the pipe-playing satyr who was a symbol of freedom, where she made herself available to the most eligible men in Rome. There was gossip about Julius Antonius, who was one of Mark Antony’s sons. The ax fell when Julia was a widow of just 36. Charged with <em>adulterium filiae et consilia parricidii: </em>adultery and plotting to assassinate her father, Julia was shipped off to Ventotene, a waterless hunk of volcanic rock near the Bay of Naples, where she was denied wine and men. She never saw Rome again. Her mother, Scribonia, tagged along.</p>
+<p>To understand how this plays out in real-world care, I interviewed Marc P. Pietropaoli, MD, an orthopedic surgeon with more than 25 years of experience examining how clinical recommendations—and how they’re delivered—shape patient decisions.</p>
+<h2>How Options Shape Choices</h2>
+<p>In medical visits, the way options are presented shapes what patients choose. Physicians set this “frame”—what is said, what is left out, and how choices are described. This isn’t manipulation; it’s part of clinical expertise. But it has real consequences.</p>
 
-<p>But her stepmother—Livia—was glad to see her go. And one by one, Julia lost her sons. Lucius, her eldest, got sick and died on his way to Spain at the age of 18; Gaius, her second son, was wounded in Armenia and died at 23 on his way home to Rome. Agrippa, who was Julia’s youngest son, got shipped off to a flat little island near Corsica for sowing his wild oats. A guard was instructed to off him in a note; Livia wrote it herself. All three of those boys were supposed to have been, as Tacitus <a href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0078%3Abook%3D1%3Achapter%3D5">wrote</a>, “cut off by destiny, or by their stepmother Livia’s treachery.”</p>
+<p>Research shows people make different decisions based on how the same information is presented. For example, a <a href="https://link.springer.com/article/10.1186/s12911-016-0377-1?utm">systematic review</a> found that framing consistently changes medical treatment choices, even when the clinical facts are identical.</p>
+<p>In healthcare, what is not presented can matter just as much as what is. For example, a patient with knee pain may be told, “You can get surgery or live with the pain.” Most people choose between those two. But other options—like physical therapy or less invasive treatments—may also exist. If they are not mentioned, patients often do not think to ask.</p>
 
-<p>By then, Augustus had been succeeded by his stepson, Tiberius Claudius Nero, Livia’s only boy.</p>
-<p>Or consider Fredegund.</p>
-<p>One day toward the end of AD 575, the king of Austrasia, Sigibert I, was struck by a pair of assassins who came at him with poisoned daggers, or scramasaxes. Fredegund had sent them. Close to a decade later, the king of Neustria, Chilperic I, was struck in the stomach and armpit by another assassin. Brunhilda’s man, Falco, was named. Sigibert’s widow, Brunhilda, was left with Childebert II, her 14-year-old son; Fredegund, who was Chilperic’s widow, was left with Chlothar II, a 4-month-old son.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p>“Many patients are told they need a knee replacement,” Pietropaoli explains. “If they hesitate, the alternative becomes living with pain. In reality, there are often more options—but if they are not presented, patients don’t know to look for them.”</p>
+<h2>Why Patients May Say ‘Yes’ to Doctors</h2>
+<p>Medical decisions don’t happen on neutral ground. Patients are often in pain, anxious, and dealing with unfamiliar information. Physicians hold expertise, control the conversation, and represent institutional authority.</p>
 
-  </div>
+<p>This creates an authority gradient—a power imbalance that makes it harder to question or push back. Recent research shows this pattern is still strong. <a href="https://pubmed.ncbi.nlm.nih.gov/37269622/">Studies</a> show that while most patients want to be informed and involved, many still prefer shared decision-making or a more physician-led approach, with only a small minority preferring to make decisions entirely on their own.</p>
 
-<p>Months after Chilperic bled to death, Fredegund handed a pair of poisoned poignards, or iron daggers, to a couple of agents who posed as beggars, and told them to make their way with all speed to Childebert, then stab him on both sides. They failed. But Childebert was dead by the age of 25; his son Theudebert was done in after a battle with his brother in 612; and a year later, his other son, Theuderic, got sick and died as he was going to war with Chlothar. After which Sigibert II, Theuderic’s 12-year-old son, was done in. Brunhilda survived all of them.</p>
+<p>This shows that saying “yes” in healthcare is often less about agreement and more about context—how stress, trust, uncertainty, and power dynamics shape the way decisions are made in real time.</p>
+<h2>Anchoring and Momentum in Medical Decisions</h2>
+<p>Once a doctor makes a recommendation, it’s hard to hear anything else without that first option shaping how everything feels. <a href="https://www.psychologytoday.com/us/blog/stretching-theory/201902/outsmart-the-anchoring-bias-in-three-simple-steps">Anchoring bias</a> means the first thing said becomes the starting point, and everything after gets compared to it. <a href="https://www.psychologytoday.com/us/blog/persuasion-bias-and-choice/202006/status-quo-bias-why-things-feel-stuck-sometimes">Status quo bias</a> builds on that—once a plan is set, it often feels easier to stick with it than to stop and rethink it.</p>
 
-<p>But Chlothar finished her off. As Fredegar <a href="https://almuslih.org/wp-content/uploads/2024/11/Wallace-Hadrill-J-Fourth-Book-of-the-Chronicle-.pdf">wrote</a>: “He had her hair, one arm and one leg tied to the tail of a wild horse, and she was torn limb from limb by its hoofs and the speed of its course.”</p>
-<p>Or consider Isabella.</p>
-<p>On the 24<sup>th</sup> of September, in AD 1326, on a calm sea and under a clear sky, Isabella of France invaded England. Within weeks, she had Eleanor de Clare, her husband’s sister’s daughter, and maybe his lover, locked up in the Tower of London. Eleanor’s husband, Hugh Despenser, was hanged, drawn, and quartered in November, and Isabella’s husband, the king of England, was incarcerated in Kenilworth Castle.</p>
+<p>Together, these biases create momentum. What starts as “here’s one option” can quickly feel like “this is the option.” As Pietropaoli noted, “Once a treatment plan is on the table, it quietly narrows the rest of the conversation.” This can make it harder for patients to speak up, ask questions, or fully consider other options before deciding.</p>
 
-<p>In January, Isabella summoned a parliament to Westminster in her husband’s absence, where Edward II was issued 6 Articles of Accusation. <em>Le Roi nest pas suffisant de governer: </em>The king was incompetent to govern. And on 1 February, her 14-year-old son was crowned. Edward III would rule England for 50 years.</p>
+<h2>What Patients Can Do</h2>
+<p>Even small shifts can improve decision-making. Here are a few simple steps that can help:</p>
+<ol>
+<li dir="ltr"><strong>Ask about alternatives</strong>: If only one or two options are presented, there may be more. It’s okay to ask, “What else could we try?” or “Are there other approaches?” This can open up more choices you may not have been told about.</li>
+<li dir="ltr"><strong>Pause before committing</strong>: You don’t always have to decide in the moment. A short pause can help you think more clearly and reduce pressure.</li>
+<li dir="ltr"><strong>Separate diagnosis from treatment</strong>: Understanding what’s going on is not the same as choosing what to do next. Take time to make sure both are clear. This helps you avoid moving too quickly from information to action.</li>
+<li dir="ltr"><strong>Pay attention to discomfort</strong>: If something doesn’t sit right or feels rushed, that’s a signal to slow down and ask more questions—not ignore it.</li>
+<li dir="ltr"><strong>Look for collaboration</strong>: Good care should feel like a conversation. The goal is not just to receive a plan, but to build one together. This helps ensure decisions reflect both medical expertise and your values.</li>
+</ol>
 
-<p>His father was put out of his misery. Nobody is sure how or when he died. But the <a href="https://dn790006.ca.archive.org/0/items/brutorchronicles00brieuoft/brutorchronicles00brieuoft.pdf"><em>Brut Chronicle</em></a><em>, </em>written soon afterward in the vernacular, does not mince words:<em> </em>“They took a hot spit of burning copper and put it through the horn into his body, and oftentimes rolled it therewith his bowels; and so they quelled their lord.”</p>
-
-<p>Men fight to get access to mates. Like other male primates, and other male mammals, and most other males, men fight for access to the opposite sex. Women do that, but not as much. </p>
-<p>Women fight to defend their young. Like other female primates, and other female mammals, and most other females, they compete on their descendants’ behalf. Legacy matters to both parents, but mothers are the front lines.</p>
+<h2>Bottom Line</h2>
+<p>Medical decisions aren’t based on facts alone. How options are framed, who is speaking, timing, and human psychology all shape what happens in the room—often without anyone noticing.</p>
+<p>This doesn’t mean patients are passive or clinicians are doing something wrong. It just reflects how decisions work under pressure. Better care doesn’t come from simply “following directions.” It comes from slowing down, offering real choices, and making sure patients understand and take part in decisions that affect their lives.</p>
 
 
 
   
 
 
-<p>Under the best of circumstances, women are nurturing mothers, devoted lovers, supportive friends, and kind to strangers.</p>
-<p>Under the worst of circumstances, women compete for status, alliances, and material assets. They incarcerate, exile, or kill other women, their husbands, and children.</p>
-<p>And their legacies are often genetic. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>Tiberius, like other Roman emperors, had access to his wives, to the freeborn children rounded up and shipped to Capri to take part in his orgies, and to hundreds or thousands of slaves, who gave birth to homeborn slaves, or <em>vernae, </em>who became <em>liberti, </em>or freed slaves<em>, </em>and ended up as members of the imperial family, or <em>familia Caesaris</em>.</p>
-
-<p>Chlothar, like other medieval kings, had access to his wives, to his senators’ daughters, and to the <em>gynaecea, </em>or women’s rooms, he kept on his estates. Some of those women gave birth to children who grew up to become judges, counts, bishops, or knights; they were called <em>pueri Regis, </em>literally the children of kings.</p>
-
-<p>Edward III, like other kings of England, had access to his wife and mistresses, to the hundreds of servants who lived in his household, and to the women who followed his court. Like his ancestors, he employed a whore marshal, <em>dismembrandi malefactores adjudicatos:</em> dismembering adjudged malefactors.</p>
-<p>Women have always fought to live on in their daughters and sons.</p>
-
-<p>“That is just, like, the <a href="https://www.google.com/search?q=mean+girls+the+rules+of+feminism&amp;client=safari&amp;hs=mEM&amp;sca_esv=ca9c119048fe3647&amp;channel=mac_bm&amp;biw=1221&amp;bih=1084&amp;sxsrf=ANbL-n5OWIctqA3cXJ7ccyJcCGrMmI3jqg%3A1775944304124&amp;ei=cMLaae-rB9zrmLQPqsCg8Ag&amp;ved=0ahUKEwjvo42L5OaTAxXcNYYAHSogCI4Q4dUDCBE&amp;uact=5&amp;oq=mean+girls+the+rules+of+feminism&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiIG1lYW4gZ2lybHMgdGhlIHJ1bGVzIG9mIGZlbWluaXNtMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHMgQQABhHSJ0FULwEWLwEcAF4ApABAJgBAKABAKoBALgBA8gBAPgBAZgCAaACDpgDAOIDBRIBMSBAiAYBkAYIkgcBMaAHALIHALgHAMIHAzItMcgHBoAIAQ&amp;sclient=gws-wiz-serp#fpstate=ive&amp;vld=cid:9aa80f70,vid:mu7tsvXh1oo,st:1">rules of feminism</a>!” </p>
+<p dir="ltr"><em>© 2026 Ryan C. Warner, Ph.D.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-political-animal/202604/mean-girls-in-history-women-who-fought-tooth-and-claw" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202604/how-cognitive-and-social-forces-shape-medical" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-political-animal/202604/mean-girls-in-history-women-who-fought-tooth-and-claw</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-political-animal/202604/mean-girls-in-history-women-who-fought-tooth-and-claw</guid>
-            <dc:creator><![CDATA[Laura Betzig Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202604/how-cognitive-and-social-forces-shape-medical</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202604/how-cognitive-and-social-forces-shape-medical</guid>
+            <dc:creator><![CDATA[Ryan C. Warner Ph.D.]]></dc:creator>
             <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/de_casibus_08.jpg?itok=rjWi1bop" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-rdne-6129681.jpg?itok=T2WkFsKV" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Willpower Myth Has a Very Long History]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/thomas-rutledge-edited-photo.jpg?itok=fUGEYwh1" alt="Thomas Rutledge Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Control</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Willpower Myth Has a Very Long History</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Obesity is the latest example of condemning the person when biology is to blame.</h2><p style="font-size:0.9em;color:#666;">Posted April 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">After decades of blaming people for obesity, its biological causes have been revealed.</li><li style="margin-bottom:6px;">Obesity is just one of many historical examples of culture emphasizing personal causes over biological causes.</li><li style="margin-bottom:6px;">Features of human nature explain why humans keep making the costly error of misattributing cause to character.</li>
+            </ul>
+          </div>
+                    <p>Since the late 20th century, we've spent decades telling people they lacked the willpower to stop overeating.<sup>1</sup> Then, a novel hormone treatment did what 40 years of shame and stigma could not. GLP-1 medicines didn't just treat obesity<sup>2</sup>—they exposed a profound cultural mistruth. Overeating and obesity were never primarily about willpower or personal choice.<sup>3-4 </sup>All along, biology, satiety hormones, and poor hunger control were the real drivers behind the obesity epidemic and countless failed diets. </p>
+
+<p>Yet even now, with the biological underpinnings of weight control finally revealed, the willpower myth doggedly persists in U.S. culture. In this post, we'll explore how this pattern of misinterpretation—condemning the person when their biology is to blame—long predates the recent GLP-1 medicine revelation about obesity. And why we will probably make the same mistake again. </p>
+
+<h2>Five Centuries of the Same Mistake</h2>
+<p>The above obesity example alone represents decades of misplaced blame and immeasurable human harm. But what if it's just the tip of the iceberg? What if we've been committing the same error for centuries, mistaking biology for behavior and neurochemistry for character, without ever recognizing the pattern? As you can see from the table below, we have.<sup>5-6</sup> </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-04/condition_figure.png.jpg?itok=TIWnupMD" width="639" height="359" data-insert-type="image" title="Thomas Rutledge/PowerPoint" alt="Thomas Rutledge/PowerPoint"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Thomas Rutledge/PowerPoint</div>
+</div>
+</div>
+</div>
+<p>The above pattern is striking precisely because the circumstances vary so widely—different health conditions, different centuries, different cultural contexts. Yet the same error recurs. If Mesopotamians were making the same misinterpretation as modern humans, this suggests the mistake is rooted in something deeper than ignorance or malice. Perhaps something more fundamental about human nature itself. If we're ever to interrupt this pattern, we must first understand it and improve our speed of recognition. Here are three potential explanations. </p>
+
+<h2>To Err Is Human</h2>
+<p>Whether discussing obesity or ulcers, we appear predisposed to blaming people over biology for all the reasons below. And this human reflex runs deep enough that we're almost certainly making the same mistake about other conditions <em>right now</em>.</p>
+<ol>
+<li><strong>Humans are moral beings. </strong>Biology isn't. Biology has no values, no religion, no belief system. Yet people do. And so we inevitably inject our moral frameworks into explanations for conditions that remain mysterious. Unfortunately, these moral explanations are frequently sticky, persisting even after contradictory evidence emerges.</li>
+<li><strong>People love a good story. </strong>Given the choice between an emotionally satisfying fable and a lifeless fact, we choose the fable. And what makes a compelling story? A protagonist with agency and free will who can therefore be blamed, not a person quietly controlled by their own biology.</li>
+<li><strong>Knowledge and the event horizon. </strong>We cannot see beyond the boundaries of what we currently know. Throughout history, we have always explained the unknown through the lens of existing knowledge, unconsciously mistaking the edge of our understanding for the edge of reality itself. </li>
+</ol>
+
+<p>Together, these three tendencies don't describe a failure of intelligence. They describe something more insightful about our nature: an error pattern that is fundamentally, and perhaps inescapably, human. </p>
+<p>We're probably doomed to keep making the same mistake. But if we can learn to see the pattern, perhaps we can at least accelerate the correction cycle. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-healthy-journey/202604/the-willpower-myth-has-a-very-long-history" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-healthy-journey/202604/the-willpower-myth-has-a-very-long-history</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-healthy-journey/202604/the-willpower-myth-has-a-very-long-history</guid>
+            <dc:creator><![CDATA[Thomas Rutledge Ph.D.]]></dc:creator>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/roszie-woman-7780330.png.jpg?itok=rPqXNqX_" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
