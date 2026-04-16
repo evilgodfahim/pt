@@ -4,71 +4,423 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 02:45:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 13:49:05 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 02:45:28 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 13:49:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Science of Seeing Differently Through Virtual Reality]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-11/profile__1024x1024_-removebg-preview.jpg?itok=L82c1cWv" alt="Matilde Tassinari Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bias</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Science of Seeing Differently Through Virtual Reality</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Virtual reality experiments reveal how identity and bias intertwine.</h2><p style="font-size:0.9em;color:#666;">Posted April 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Does Your Accent Shape Your Impact?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/essec_logo-cropped.jpg?itok=7_MNDytS" alt="ESSEC Business School" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bias</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Does Your Accent Shape Your Impact?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Sharing a message is easy, but ensuring it gets heard is more complicated.</h2><p style="font-size:0.9em;color:#666;">Posted April 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Virtual reality can place people inside the lived experience of bias rather than asking them to imagine it.</li><li style="margin-bottom:6px;">Some virtual experiences meant to dissolve prejudice can backfire, reinforcing the biases they aim to reduce.</li><li style="margin-bottom:6px;">Understanding when and for whom virtual experiences may backfire is essential for responsible VR research.</li>
+              <li style="margin-bottom:6px;">Research finds that non-native English speakers get less attention than native speakers.</li><li style="margin-bottom:6px;">This suggests that accents can be a form of bias.</li><li style="margin-bottom:6px;">This is linked to stereotypes and cognitive processing.</li><li style="margin-bottom:6px;">We can develop strategies to improve knowledge transmission across cultures.</li>
             </ul>
           </div>
-                    <p dir="ltr">You look down, and something feels wrong. The hands in front of you are not the ones you are used to, and when you catch your reflection, it is a different face that meets your gaze—one capable of changing how others respond to you.</p>
-<p dir="ltr">People look at you differently, speak to you differently, and react to the same words and gestures in ways that feel unfamiliar, as if the rules of the interaction have changed without anyone explaining why.</p>
+                    <p><em>By Amir Sepehri, Ph.D., and Julia Smith, MSc</em></p>
+<p dir="ltr">Anyone who speaks a language other than their mother tongue has inevitably had moments of self-doubt about their accent: “Do they understand me? Do I sound silly? Is my pronunciation okay?”</p>
+<p dir="ltr">While it’s tempting to dismiss these fears and reassure yourself that no one is judging you based on your accent, recent research suggests there’s some basis to those concerns. Amir Sepehri, assistant professor of marketing at ESSEC Business School, and co-authors Aliah Zewail at the University of Massachusetts Amherst, Reihane Boghrati at Arizona State University, and Mohammad Atari at the University of Massachusetts Amherst <a href="https://journals.sagepub.com/doi/pdf/10.1177/09567976251398471?casa_token=w8EKvUIAFTgAAAAA:https://journals.sagepub.com/doi/abs/10.1177/09567976251398471">published a study </a>in <em>Psychological Science </em>suggesting public speakers with non-native English accents struggled to get attention compared with native speakers. This indicates that there’s work to be done when it comes to sharing knowledge across cultures and languages.</p>
 
-<p dir="ltr">Nothing else in the environment has changed, and yet your experience of it has. What has changed is who you are within it, or at least who others believe you to be.</p>
-<p dir="ltr">Except you’re not there, but wearing a headset.</p>
-<p dir="ltr">Over the past decades, psychologists have begun using virtual reality (VR) to investigate one of the most persistent features of human life: how we relate to people who belong to groups different from our own. From racial prejudice to political polarization, intergroup tensions shape societies across the world. Now researchers are asking whether immersive technology might help us understand and improve those relationships.</p>
+<p dir="ltr">In our interconnected world, it’s easier than ever to share your message, but ensuring your message gets heard is more complicated. TED Talks are one strategy for <a href="https://knowledge.essec.edu/en/society/ideas-worth-spreading.html">spreading the word</a>, used by experts all over the world and viewed by millions of people. However, not every video will rack up millions of views, and our research team identified the speaker’s accent as a critical factor influencing engagement. Specifically, speakers with a non-native English accent garnered fewer views and likes. This indicates that “accentism” is a major form of bias, and one that has been underrepresented in past research.</p>
 
-<p dir="ltr">The answer, it turns out, is complicated.</p>
-<h2>A Laboratory for Social Encounters</h2>
-<p dir="ltr">For decades, scientists studying prejudice relied on surveys, laboratory experiments, or real-world interventions such as intergroup contact programs. These approaches yielded important insights but often faced practical limits. It is not easy, for example, to recreate a tense encounter between groups under controlled conditions.</p>
+<p dir="ltr">While extensive research has been conducted on other forms of discrimination (class, race, gender), we know less about the impact of accents on how people are perceived. While accents are often linked to other qualities of the speaker, such as national origin or class, accentism is a distinct form of discrimination (Hegarty, 2020). Science is starting to explore the topic, with studies on the impact of our accent on how we are perceived at work and the link to stereotypes.</p>
 
-<p dir="ltr">In <a href="https://doi.org/10.1016/j.chb.2026.108908">our recent critical review</a>, we examined how virtual reality is beginning to change this landscape. In VR, researchers can construct detailed social worlds where participants can encounter virtual characters representing members of different groups or experience situations from someone else’s perspective. In some studies, people even inhabit a virtual body representing a person who belongs to a different social group—what we call outgroup embodiment.</p>
+<p dir="ltr">Our research team explored how viewers reacted to TED Talks to understand the accent-engagement link, analyzing information from over 5300 TED Talks. Since TED Talks’ primary audience is young Americans, it’s the ideal context to study the influence of a non-native English accent on how a talk is perceived. To further explore the impact of accentism, we also conducted a lab experiment to examine how American adults would react to the same talk by the same person but with a different accent. A Canadian-Iranian speaker recorded two audio clips: one with a North American English accent, one with a Persian accent.</p>
 
-<p dir="ltr">These experiences feel surprisingly real. VR works by creating a strong sense of presence, the feeling of “being there” inside the simulated environment. When that illusion succeeds, our brains respond to the digital world almost as if it were physical reality.</p>
-<p dir="ltr">That realism makes VR a powerful experimental tool. Researchers can manipulate social interactions, observe behavior in real time, explore how people respond to complex intergroup situations, and more.</p>
+<h2>Does having a stronger accent lead to fewer views?</h2>
+<p dir="ltr">The results from both studies indicated that engagement was higher for videos with native accents. Speakers with native English accents got more likes and views, regardless of their topic. Those with non-native accents were also more likely to be seen as cold, less trustworthy, and less competent. In turn, viewers were less inclined to engage with their content. Viewers also indicated that they found talks with non-native speakers harder to process. As I [Amir Sepehri] explained, “We saw that stereotypes and processing fluency play a powerful role in perception. Accents carry social stereotypes: They tie us to social identities, and a non-native accent identifies the speaker as “other.” The other effect in play is the role of processing fluency: a “native speaker audience can find that a non-native speaker is harder to understand, requiring more cognitive effort to process their message.” These results indicate that stereotypes and cognitive processing are the key factors driving the impact of accents on engagement.</p>
 
-<p dir="ltr">One of the most striking uses of VR is immersive perspective-taking.</p>
-<p dir="ltr">In classic psychological experiments, perspective-taking involves imagining what life might feel like for someone else. In VR, that imagination becomes a sensory experience.</p>
-<p dir="ltr">In some experiments, participants see the world through the eyes of someone from a different group—for instance, a victim of discrimination. Others go further, synchronizing a virtual body with the participant’s movements so that the digital body begins to feel like their own.</p>
+<h2>Takeaways and tools for speakers and platforms</h2>
+<p dir="ltr">The verdict is in: A non-native accent can impact your engagement. Our research team proposes several strategies for addressing this:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Sites can give equal footing to talks by non-native speakers, for instance, by featuring these talks on the site’s homepage.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">The ease of cognitive processing could be tackled by technology: subtitles, real-time translation, and other AI tools to “smooth” voices could all reduce the load.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Raising awareness about accentism as a form of bias and in diversity and inclusion programming, as education can help reduce bias.</p>
+</li>
+</ul>
 
-<p dir="ltr">These experiences can change how people feel about others. Studies have shown that embodying an outgroup member or observing events from their viewpoint can increase empathy, reduce certain biases, and encourage more prosocial behavior.</p>
-<p dir="ltr">But the effects are not universal, as some interventions produce meaningful changes, while others show little impact or even unexpected backlash.</p>
+<p dir="ltr">We all have accents, and it shouldn’t stand in the way of effective communication. With further research into the impact of accents on perceptions of the speaker, and increased awareness of accentism as a form of bias, we can smooth the way for the plethora of talented experts who have something to say in a language that is not their mother tongue.</p>
 
-<h2>When Virtual Experiences Backfire</h2>
-<p dir="ltr">Under certain conditions, VR interventions can produce the opposite of what researchers intend. If a scenario feels threatening or uncomfortable, participants may psychologically distance themselves from the experience. In some experiments, embodying a stigmatized group member actually increased bias when the situation activated negative stereotypes.</p>
+<p dir="ltr"><strong>Amir Sepehri, Ph.D., is an assistant professor of marketing at ESSEC Business School, and Julia Smith is editor-in-chief of </strong><em><strong>ESSEC Knowledge.</strong></em></p>
 
-<p dir="ltr">Pre-existing beliefs may also come into play: People strongly committed to particular political or ideological positions may interpret immersive experiences through the lens of motivated reasoning, reinforcing their original attitudes rather than reconsidering them.</p>
-<p dir="ltr">Even the design of the virtual world plays a role. Passive experiences, such as watching a narrative unfold without interacting, sometimes fail to trigger the kinds of meaningful engagement that drive real-world attitude change. </p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/be-in-the-know/202604/does-your-accent-shape-your-impact" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/be-in-the-know/202604/does-your-accent-shape-your-impact</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/be-in-the-know/202604/does-your-accent-shape-your-impact</guid>
+            <dc:creator><![CDATA[ESSEC Business School]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/freestocks-photos-audio-2941753.jpg?itok=dpFjPxf_" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Children Learn Friendship Skills]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/pamela_brown.png.jpg?itok=CYG2qvst" alt="Pamela D. Brown Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Friends</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Children Learn Friendship Skills</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why friendship skills don't always develop naturally, and what helps them grow.</h2><p style="font-size:0.9em;color:#666;">Posted April 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Social skills develop through experience, not just time with peers.</li><li style="margin-bottom:6px;">Screens reduce real-time opportunities to interact with peers and learn from those interactions.</li><li style="margin-bottom:6px;">Observation and adult commentary help children interpret interactions.</li>
+            </ul>
+          </div>
+                    <p>One of the most consistent issues of concern that comes up in conversations with parents is friendship, yet it is also the area most believe will develop naturally.</p>
+<h2>Why Parents Assume Friendship Skills Develop Naturally</h2>
+<p>Part of the reason for this assumption is that children are surrounded by peers for much of their day. It is reasonable to expect that, over time, they will learn how to form and maintain relationships through repeated interaction. And often, they do.</p>
+
+<p>But that process is not always as straightforward as it appears. Children today may also have fewer opportunities to develop these skills in the same natural way their parents did.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/fat_camera_from_getty_images_signature.jpg?itok=dbB8P7ig" width="320" height="229" data-insert-type="image" title="fatcamera / Getty Images Signature" alt="fatcamera / Getty Images Signature"></div>
+<div class="insertArea--origin subtext">Source: fatcamera / Getty Images Signature</div>
+</div>
+</div>
+</div>
+<h2>Friendship Skills Are Learned, Not Automatic</h2>
+<p>Friendship is not simply about connection. It is also shaped by misunderstanding, reaction, and repair. Children misread situations, react quickly, and feel strongly. At times, they may contribute to the very situations that upset them.</p>
+<p>As a result, friendship is not just something people experience. It is something they must learn to navigate. What may be less obvious is how important this process of learning to navigate relationships is over time.</p>
+
+<p>The ability to establish and maintain relationships influences how individuals manage stress by offering perspective, support, and opportunities to problem-solve, build a network of support they can rely on when challenges arise, and recover from setbacks. These are not secondary skills. They are foundational.</p>
+
+<h2>How Children Learn Social Skills Over Time</h2>
+<p>And perhaps because social interaction is such a constant part of our existence, we assume that learning how to be social will occur naturally. What we do not often recognize, however, is that even skills that develop over time depend on active experience, including modeling, repeated interaction, and reinforcement.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/generated-image.png.jpg?itok=LXVijAgr" width="320" height="320" data-insert-type="image" title="AI generated" alt="AI generated"></div>
+<div class="insertArea--origin subtext">Source: AI generated</div>
+</div>
+</div>
+</div>
+<h2>The Impact of Screen Time on Children’s Social Skills</h2>
+<p>Children today are spending more time engaged with screens and less time in direct interaction with peers. As a result, opportunities for this kind of learning are reduced. Some of the social skills required in face-to-face interaction, including awareness of others, adjustment, and consideration of impact, are used less often and may be less developed as a consequence.</p>
+
+<h2>How COVID Changed Children’s Social Development</h2>
+<p>This shift was likely accelerated during COVID, when many parents needed to work while also managing their children at home. Screens became a practical solution. They occupied children, held their attention, and reduced the need for continuous parental involvement across the day. At the same time, children had fewer opportunities for unstructured interaction with peers and fewer chances to work through small conflicts.</p>
+
+<h2>Why Real-Life Interaction Is Essential</h2>
+<p>These repeated, real-time interactions are how children learn what to do and what not to do. It happens through experience, through reaction, and through seeing the effect of their behavior on someone else.</p>
+<h2>Key Qualities of Healthy Friendships</h2>
+<p>Strong relationships are built on a combination of important qualities, including:</p>
+
+<ul>
+<li>Caring and support</li>
+<li>Understanding and empathy</li>
+<li>Loyalty and trust</li>
+<li>Equality and mutual respect</li>
+<li>The ability to self-disclose</li>
+<li>Conflict resolution skills</li>
+</ul>
+<p>Not every friendship includes all of these, and they may be present to different degrees. But together, they form the basis of connection and are worth helping children recognize in others and develop in themselves.</p>
+
+<h2>How Children Learn Through Observation and Conversation</h2>
+<p>These skills are often learned first through observation. Children watch how others interact, how they respond, how they handle conflict, and how they repair it. This is often reinforced through commentary by adults, who help children interpret what they have observed.</p>
 
 
 
   
 
 
-<p dir="ltr">Despite these uncertainties, research on immersive technologies and intergroup relations is expanding rapidly. The number of scientific papers on the topic has grown dramatically in the past decade, reflecting both advances in technology and growing interest across disciplines. VR is now being tested in a wide range of contexts: diversity training, education, policing, healthcare, and conflict resolution.</p>
+<p>These moments are often informal. They occur in passing, in reaction to something that has just happened or something the child has noticed. This is why conversation and sharing are so important. They create a foundation for vicarious learning, allowing children to learn not only from their own experiences but also from the experiences of others.</p>
 
-<p dir="ltr">The appeal is obvious: Immersive technologies allow researchers to simulate social situations that would be impossible to recreate in real life.</p>
-<h2>A New Window Into Human Relations</h2>
-<p dir="ltr">The dream that virtual reality could dissolve prejudice overnight may have been naive, but the technology is offering something of equal worth: a new way to observe the mechanics of social life. Inside a headset, researchers can watch how identities shift and how people react when confronted with unfamiliar perspectives.</p>
-
-<p dir="ltr">If used carefully, immersive technologies may not magically erase the boundaries between “us” and “them,” but they might help us understand those boundaries better, and perhaps even learn how to cross them.</p>
+<h2>Final Thought</h2>
+<p>Friendship skills do not develop by chance alone. They grow through experience, guidance, and opportunity. And with the right support, children can learn not just how to make friends—but how to build relationships that support them for life.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/vrtual-societies/202604/the-science-of-seeing-differently-through-virtual-reality" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/school-culture/202604/how-children-learn-friendship-skills" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/vrtual-societies/202604/the-science-of-seeing-differently-through-virtual-reality</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/vrtual-societies/202604/the-science-of-seeing-differently-through-virtual-reality</guid>
-            <dc:creator><![CDATA[Matilde Tassinari Ph.D.]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-tima-miroshnichenko-7047016.jpg?h=cffae03b&amp;itok=OKwwBkvZ" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/school-culture/202604/how-children-learn-friendship-skills</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/school-culture/202604/how-children-learn-friendship-skills</guid>
+            <dc:creator><![CDATA[Pamela D. Brown Ph.D.]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/fat_camera_from_getty_images_signature.jpg?itok=Q-yFgVeT" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Value of Humble Leadership]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-02/patricia_grabarek_and_katina_sawyer.png.jpg?itok=m-ptwKlj" alt="Patricia Grabarek, Ph.D., and Katina Sawyer Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Value of Humble Leadership</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Humble leaders—not authoritative or overly decisive leaders—often prevail.</h2><p style="font-size:0.9em;color:#666;">Posted April 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Humble leaders recognize their own weaknesses.</li><li style="margin-bottom:6px;">Humble leaders highlight others' strengths.</li><li style="margin-bottom:6px;">Humble leaders are willing to take action to learn and grow from feedback.</li>
+            </ul>
+          </div>
+                    <p>The best leaders are often thought to be decisive and authoritative. But is this actually the best way to lead? <a href="https://www.wiley.com/en-us/Leading+for+Wellness%3A+How+to+Create+a+Team+Culture+Where+Everyone+Thrives-p-9781394292011">Our research</a>, and a <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/job.2608">l</a>arge body of<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/job.2608"> scientific evidence</a>, suggests that another form of leadership—humble leadership—is better. But what is humble leadership, and why is it a more effective way to lead? And how can you become a more humble leader at work? </p>
+
+<h2>What is humble leadership? </h2>
+<p><a href="https://pubsonline.informs.org/doi/abs/10.1287/orsc.1120.0795">Humble leadership</a> is a form of leadership that is overarchingly focused on personal growth instead of projecting an image of perfection. It also places leaders on an equal pedestal compared to other employees. In many ways, humble leadership flies in the face of leadership stereotypes by showing that leaders who are open about their flaws are more likely to succeed than those who pretend they don't have any.</p>
+
+<p>The first set of behaviors that humble leaders display reflects a willingness to see oneself accurately. This means that humble leaders are open and honest about their own shortcomings, instead of denying their existence. It also means that they are transparent about their strengths. Yet, humble leaders aren't wallflowers who shirk or delegate their responsibilities. Rather, they are willing to step up to the plate when they are the best person for a task. But they also recognize when they might lack necessary skills and it is best to step back. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-rdne-7491149.jpg?itok=BZXgm_5A" width="320" height="213" data-insert-type="image" alt="Humble leaders know when to stand out and when to step back." title="RDNE Stock Project / Pexels"></div>
+<div class="caption">Humble leaders know when to stand out and when to step back.</div>
+<div class="insertArea--origin subtext">Source: RDNE Stock Project / Pexels</div>
+</div>
+</div>
+</div>
+<p>Second, humble leaders also highlight others' strengths, particularly those that help balance or make up for their weaknesses. As they become aware of their own skill deficits, they also look to other, more skilled employees to step up and fill in the gaps. Instead of being intimidated by others' superior skills, they appreciate them and see the team's shared success as the ultimate goal.</p>
+
+<p>Finally, leader humility also involves being teachable. While it may be most appropriate to let others take the lead when they are more skilled, other areas for improvement are more pervasive and need to be addressed head-on. For example, imagine a leader who is not good at managing finances but is on a team with someone who excels at it. It may not be necessary for this leader to improve their financial skills if another person on the team can fulfill that role long-term. Now, imagine another leader who unconsciously plays favorites and tends to listen more closely to those who are in their "inner circle." If a team member gives them this feedback, a humble leader will take their input seriously and take action to address their behavior. In other words, humble leaders are willing to take steps to improve their own skills when necessary.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-nurseryart-346834.jpg?itok=HahBOBDT" width="320" height="213" data-insert-type="image" alt="Humble leaders empower others to move their teams forward." title="Porapak Apichodilok / Pexels"></div>
+<div class="caption">Humble leaders empower others to move their teams forward.</div>
+<div class="insertArea--origin subtext">Source: Porapak Apichodilok / Pexels</div>
+</div>
+</div>
+</div>
+<h2>Why is leader humility important? </h2>
+<p>Leader humility is important for a variety of reasons. First, humble leaders <a href="https://journals.aom.org/doi/epub/10.5465/amj.2013.0660">set the tone</a> for other team members. Humility begets humility. As more team members become humble, they start to collectively strive toward goals that promote their team's highest potential. In turn, they perform better. In other words, leader humility is generative. Others mimic humble behavior when they see it, setting the wheels in motion for teams to work better together and achieve success. </p>
+
+<p>Humble leaders also drive more engaged and satisfied teams. When team members are energized by their work and feel positively about their work environment, they are less likely to turn over. Again, they are also more likely to perform better.</p>
+<p>Taken together, humble leaders promote positive employee outcomes, boosting attitudes and productive work behaviors. </p>
+
+<h2>How can you become a more humble leader?</h2>
+<p>First, it's important to take an honest look at your strengths and weaknesses. What do you really struggle with? Is it easy or hard for you to admit that you struggle with these shortcomings? If you haven't admitted shortcomings to your team yet, you might want to start small. We call these "struggle statements." They can be as simple as saying, "Time management has always been difficult for me," or as complex as sharing that you have attention deficit issues or disorders. Whatever is true and feels good to you will work. Starting small is OK, but refusing to recognize any of your weaknesses is not. </p>
+
+<p>Second, take a look at members on your team who have strengths you don't possess. How can you better highlight, recognize, and leverage those strengths? It's not enough just to ask someone for help. Let them know that you're specifically asking them to step in because you see them as being more skilled than you are. This will make your team members feel valued, while also showing that you're willing to recognize your own weaknesses.</p>
+
+
+
+  
+
+
+<p>Finally, reflect on how you respond to feedback. Do you immediately get defensive and push back on the feedback you receive? Or are you open to hearing others' perspectives? If you tend toward the former, you may need to work on your willingness to learn and grow. Even if you have ignored feedback in the past, it's possible to correct for it. Perhaps you can revisit it and take actions to address past concerns. Or if you are about to receive new feedback, you might work on better managing your gut reactions and instead take action steps toward growth. </p>
+
+<p>Being a humble leader isn't easy, but it comes with great benefits. How can you improve at recognizing your own flaws, highlighting others' strengths, or engaging in your own growth and learning? </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/leading-for-wellness/202604/the-value-of-humble-leadership" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/leading-for-wellness/202604/the-value-of-humble-leadership</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/leading-for-wellness/202604/the-value-of-humble-leadership</guid>
+            <dc:creator><![CDATA[Patricia Grabarek, Ph.D.,  and Katina Sawyer, Ph.D.]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-dawn-lio-1140724-2177813.jpg?itok=jOearp0O" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has Mindfulness Had Its Day?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/Kuyken.png.jpg?itok=daTTPRmh" alt="Kuyken" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mindfulness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Has Mindfulness Had Its Day?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Mindfulness isn’t a panacea, but it's vital for the challenges of our times.</h2><p style="font-size:0.9em;color:#666;">Posted April 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Mindfulness has sometimes been oversold, and that invites understandable critique.</li><li style="margin-bottom:6px;">Evidence shows that mindfulness can help people live well with depression, pain, and illness.</li><li style="margin-bottom:6px;">The challenge now is helping people access what we know helps.</li>
+            </ul>
+          </div>
+                    <p>Recently, a colleague said: “I think mindfulness has had its day.” I felt alarm, confusion, quiet hurt, and a flash of anger. I didn’t trust my reaction or my impulse to push back. So I sat with it. I’ve heard some version of this comment in different countries, from a range of colleagues—each time with a different mix of curiosity, concern, even relief. As if we’ve been surfing a wave, and now it’s time to move on to the next one.</p>
+
+<p>My work over more than 30 years has been a vocation rather than a career—and that’s partly because it has been personal. I was raised in Nigeria, where as a young child I witnessed both tremendous suffering and extraordinary resilience. My experience of depression started in my teenage years. My first job at the World Health Organisation, travelling through China, India, and Thailand, was formative: I encountered ways of approaching the challenge of living well amid very real hardship that made me rethink much of what I’d learned growing up. For three decades, I have explored ideas and practices from contemplative traditions and modern psychology, and used them to learn how to live with recurrent depression—and, more than that, how to live well.</p>
+
+<p>Depression will affect around a billion people worldwide at some point in their lives; it is already the second-leading cause of disability globally. We’ve learned a great deal about how to treat and prevent it, but that knowledge isn’t reaching the people who need it: In developed countries, only a minority of people access adequate treatment, and in lower-income countries that figure drops to a small fraction. We also need to focus on prevention. Heart health wasn’t changed by treating people after a heart attack; remarkable improvements around the world came from diet, exercise, sleep, and tackling risk factors early. Mental health is no different. What we’ve learned is that foundational psychological skills are essential to resilience for all of us, whether we’re depressed, languishing, well, or even thriving. The pressing challenge becomes how we reach younger people, how we connect with those living with depression, how we understand the barriers they face in accessing what we know helps, and how we make mental health a priority for all of us.</p>
+
+<p>Maybe there’s something in my friend’s challenge. Yes, there is a version of mindfulness that got packaged as a panacea—a quick fix, something everyone should do, especially children, something that might help us feel better about a life or a world that hasn’t changed. She’s right: This version of mindfulness needs to be challenged, refined, or debunked in line with a growing body of scientific evidence.</p>
+
+<p>But over 25 years of research, teaching, and clinical work, I have seen something much more substantive emerging that needs cultivation and development. No, mindfulness is not a quick fix, nor a panacea, nor a salve for discontent caused by real-world problems—injustice, inequality, conflict, and challenges to planetary health. But it is a set of ideas and practices for training the mind—drawing on the evidence of ancient wisdom and modern psychology alike—that helps people see and change the habits and patterns that create and recreate suffering. There is a substantive body of research that shows clearly that mindfulness-based interventions can help people with depression, pain, and living with chronic disease. There is also promising evidence that it can help teachers and health-care professionals, and that it can be an important part of healthy relationships, families, schools, and workplaces.</p>
+
+<p>When people say the mindfulness wave is over, perhaps what they’re actually saying is that the way we’ve been talking about it has to change. It needs to be honest, nuanced, responsible, and grounded in evidence. It needs to be clear that we’re talking about a set of ideas and practices rooted in ethics, awareness, and attitudes of interest, kindness, and care—tested against two forms of evidence: the evidence of our own experience and the findings of science. It also requires teachers who are rigorously trained and supported.</p>
+
+<p>As I sat with my colleague’s challenge, the image of waves kept coming back to me. A wave rises, it breaks, it returns to the body of water. It doesn’t disappear; it was never separate from the body of water. The history of contemplative traditions and psychology moves the same way. The ideas and practices that are true and useful keep returning, refined, made useful again. In the coming weeks and months, I’ll be sharing some of the work my team and wider collaborators is working on. The vision driving it is simple, even if achieving it is not: a world where people flourish, free from the devastating impacts of depression—where ancient wisdom and modern psychology together help us teach lifelong skills, build resilience in individuals, relationships, families, schools, and workplaces, and make that learning genuinely accessible. I hope it’s a conversation you want to be part of.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/mindfulness/202604/has-mindfulness-had-its-day" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/mindfulness/202604/has-mindfulness-had-its-day</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mindfulness/202604/has-mindfulness-had-its-day</guid>
+            <dc:creator><![CDATA[Willem Kuyken Ph.D.]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pink_and_gold_seascape1._pic_by_barb_baker.jpeg.jpg?itok=ToOJrWc_" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Cost of Emotional Reactivity]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/471-dr-jan-bonhoeffer-biopic.png.jpg?itok=LPHENm1i" alt="Jan Bonhoeffer M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Stress</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Cost of Emotional Reactivity</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How stress-driven physiology shapes our decisions, relationships, and outcomes.</h2><p style="font-size:0.9em;color:#666;">Posted April 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Stress doesn’t just affect how we feel—it alters how we perceive reality.</li><li style="margin-bottom:6px;">The nervous system frequently misreads pressure as threat.</li><li style="margin-bottom:6px;">Most regretted conversations happen when we are physiologically dysregulated.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/social_media_hbm_hidden.jpg?itok=BQKgQTNE" width="320" height="340" data-insert-type="image" alt="When reactivity feels like clarity" title=".shock / iStock"></div>
+<div class="caption">When reactivity feels like clarity</div>
+<div class="insertArea--origin subtext">Source: .shock / iStock</div>
+</div>
+</div>
+</div>
+<p>It was a small moment. Almost forgettable.</p>
+<p>My patient hesitated. Asked the same question again, just slightly differently.</p>
+<p>An inner sigh because I’d already answered it.</p>
+<p>Time was tight. The clinic was full. There were 10 other things waiting.</p>
+<p>Something in my body tightened—just slightly—and my reply came faster this time. Sharper. More final. She went quiet. Nothing dramatic happened. No complaint, no escalation. But something closed.</p>
+
+<p>If you’ve ever walked away from an interaction and thought: “That wasn’t how I wanted to be…” you already know this moment.</p>
+<p>Here’s the uncomfortable truth. Most of us don’t say the wrong thing because we don’t know better. We say the wrong thing because our physiology has already decided we’re under threat. And once that happens, the conversation is no longer being led by clarity, curiosity, and care. It’s being led by speed, protection, and control.</p>
+
+<h2>Stress Doesn’t Just Change Your Mood—It Changes Your Reality</h2>
+<p>We like to believe we’re thinking clearly under pressure. We’re not.</p>
+<p>Under stress, the brain:</p>
+<ul>
+<li>filters out nuance</li>
+<li>reduces empathy</li>
+<li>prioritises efficiency over connection</li>
+</ul>
+<p>We become more certain. And more wrong. We stop asking “What’s really happening here?” and start assuming “This is a problem I need to solve quickly.”</p>
+
+<p>The field narrows. And in that narrowing, people become problems instead of humans.</p>
+<h2>Why Reactivity Feels So Justified</h2>
+<p>Emotional reactivity rarely feels like reactivity in the moment. It feels like clarity, decisiveness, being “on top of things.” What it actually does is amplify tension in the system.</p>
+<p>A sharper tone invites defensiveness. Defensiveness confirms irritation, and suddenly, a simple interaction becomes charged. Not because anyone intended harm, but simply because no one was regulated enough to hold the moment open.</p>
+
+<h2>A Personal Moment</h2>
+<p>I remember a conversation that stayed with me far longer than it should have. Less because of what was said; more because of how I said it.</p>
+<p>I was tired, emotionally full, probably carrying more than I realised. Someone close to me asked a simple question. I heard it as pressure and responded too quickly, efficiently, slightly cold. And I watched, in real time, as something in them withdrew.</p>
+
+<p>It wasn’t dramatic; it was subtle, but it mattered. What struck me later was this:</p>
+<p>I didn’t need more skill in that moment. I needed a more regulated nervous system.</p>
+<h2>The Nervous System Is Not Neutral</h2>
+<p>When we are dysregulated, the nervous system becomes a distortion lens.</p>
+<p>It interprets:</p>
+<ul>
+<li>urgency as threat</li>
+<li>questions as challenge</li>
+<li>openness as risk</li>
+</ul>
+
+<p>And once that interpretation is in place, everything that follows feels justified. This is why so many people say, “I don’t know what came over me.” Something did—their physiology.</p>
+<h2>The Conversations That Shape Our Lives</h2>
+<p>Here’s the deeper cost. The conversations that matter most—with patients, with partners, with colleagues, with family—don’t usually happen when we’re calm, rested, and resourced.</p>
+
+
+<p>They happen when we are tired, stretched, and emotionally activated.</p>
+<p>In other words: precisely when we are least equipped to have them well</p>
+<p>So what actually changes this? Not more communication training. Not better scripts. Not trying harder to “stay calm.” Those all come too late. The shift begins earlier. It begins with recognising: I am not in a state to have this conversation well.</p>
+
+<p>That moment of awareness is everything because it creates a gap. And in that gap, something else becomes possible.</p>
+<h2>A Different Kind of Mastery</h2>
+<p>We often think mastery looks like:</p>
+<ul>
+<li>saying the perfect thing</li>
+<li>handling every situation well</li>
+<li>staying composed under pressure</li>
+</ul>
+<p>But real mastery is quieter than that.</p>
+
+
+
+  
+
+
+<p>It looks like:</p>
+<ul>
+<li>noticing the tightening in your body</li>
+<li>feeling the impulse to react</li>
+<li>and not immediately obeying it</li>
+</ul>
+<p>Sometimes that means pausing. Sometimes it means saying less. Sometimes it means coming back later.</p>
+<p>The most important conversations in our lives rarely happen at convenient times. They happen in moments of pressure, fatigue, and emotional charge. And in those moments, we are not just communicating; we are revealing the state of our nervous system.</p>
+
+<p>The question is not: Will I feel reactive?</p>
+<p>You will.</p>
+<p>The question is: Will I recognise it soon enough to choose differently?</p>
+<p>Because in that moment, just before the reaction lands, is the difference between a conversation that closes and one that deepens. And most of us only realise which one we chose after it’s too late.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/heart-of-healthcare/202604/the-hidden-cost-of-emotional-reactivity" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/heart-of-healthcare/202604/the-hidden-cost-of-emotional-reactivity</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/heart-of-healthcare/202604/the-hidden-cost-of-emotional-reactivity</guid>
+            <dc:creator><![CDATA[Jan Bonhoeffer M.D.]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/social_media_hbm_hidden.jpg?itok=I0JSltlX" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Compassionate History of American Attitudes Toward Animals]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Ethics and Morality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Compassionate History of American Attitudes Toward Animals</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A moral revolution on behalf of animals.</h2><p style="font-size:0.9em;color:#666;">Posted April 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A new book offers a detailed history of human-animal relationships and how we got to where we are now.</li><li style="margin-bottom:6px;">Our pets have increasingly become family members but we often ignore the suffering of other species.</li><li style="margin-bottom:6px;">We’re responsible for the unseen consequences of our actions, not just the seen ones.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/broadway_scene.jpg?itok=jhN0uJpq" width="320" height="514" data-insert-type="image" title="Bill Wasik/Currier and Ives/Public Domain." alt="In America's mid-nineteenth century cities, animals were pervasively seen, heard, and smelled. The is a scene from New York City. "></div>
+<div class="caption">In America's mid-nineteenth century cities, animals were pervasively seen, heard, and smelled. The is a scene from New York City. </div>
+<div class="insertArea--origin subtext">Source: Bill Wasik/Currier and Ives/Public Domain.</div>
+</div>
+</div>
+</div>
+<p>I've long been interested in the many ways in which nonhuman animals (animals) have been viewed during different periods of history. A few years ago I published an post titled <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202009/henry-bergh-and-the-birth-the-animal-rights-movement">Henry Bergh and the Birth of the Animal Rights Movement</a>—Bergh, the founder of the ASPCA, was called "a traitor to his species" because of his views on the moral status of animals—but other commitments sitting on my desk got in my way of doing more research. </p>
+
+<p>Because of my lingering interests in human-animal relationships and how these interactions have evolved over time, I was thrilled to learn of an outstanding <a href="https://www.penguinrandomhouse.com/books/634494/our-kindred-creatures-by-bill-wasik-and-monica-murphy/">book</a><em>, Our Kindred Creatures: How Americans Came to Feel the Way They Do About Animals, </em>by Bill Wasik, who was recently named the new Science editor of the <em>New York Times</em>, and veterinarian Monica Murphy. In their deeply researched and fascinating historical account of the moral transition of human attitudes toward animals, they cover the contributions of many people, including Bergh. </p>
+
+<p><strong>Marc Bekoff: Why did you write </strong><em><strong>Our Kindred Creatures</strong></em><strong>?</strong></p>
+<p><strong>Bill Wasik and Monica Murphy: </strong>Over the course of researching and writing our previous book, <em>Rabid: A Cultural History of the World’s Most Diabolical Virus</em>, we discovered that many of the attitudes towards animals which Americans currently take for granted formed during the late nineteenth century. Our abhorrence of cruelty and bloodsport, our fascination with animals in entertainment, our limited acknowledgement of what livestock go through, our concern about extinction of wildlife species, our ambivalence toward animals in research, our obsession with our pets—all of these arose during the same 30 years or so after the Civil War. For those of us who love animals, it’s disconcerting to realize that our predecessors didn’t always feel the way we do, but kind of thrilling to learn that there were specific people who championed and innovated a way of living with animals which is recognizable to us today.</p>
+
+<p>The other thing we realized while working on <em>Rabid</em> was that this time period is just really, really fun to read and write about. The newspapers, magazines, and books of the era provide very detailed and colorful documentation of the events and personalities that so dramatically altered popular ways of thinking about the creatures that live amongst us.</p>
+
+<p><strong>MB: How does your book relate to your backgrounds and general areas of interest?</strong></p>
+<p><strong>BW/MM: </strong>We are a married couple, a journalist (Bill) and a veterinarian (Monica). We love working on projects together that involve our shared interests of animals, history, and science.</p>
+<p><strong>MB: Who do you hope to reach?</strong></p>
+<p><strong>BW/MM:</strong> Everyone! This is foremost a book about the relationship between humans and non-human animals—a history of how we got to where we are now—but it’s also a study of an extremely successful social movement, a biography of several undersung American innovators, and an examination of how our culture collectively approaches thorny moral questions. Plus it’s got animal stories!</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/our_kindred_creatures.jpeg.jpg?itok=ac87pyHP" width="298" height="450" data-insert-type="image" title="Alfred A. Knopf/with permission. " alt="Alfred A. Knopf/with permission. "></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Alfred A. Knopf/with permission.</div>
+</div>
+</div>
+</div>
+<p><strong>MB: What are some of the topics you consider and what are some of your major messages?</strong></p>
+<p><strong>BW/MM: </strong>The main thread of <em>Our Kindred Creatures</em> is the story of the rise of the American animal welfare movement, which began in 1866 with the establishment of the ASPCA by Henry Bergh, but went on to very quickly win over American hearts and minds to the idea that animals are entitled to some degree of consideration and kindness. Along with Bergh in New York, George Angell in Boston, and Caroline Earle White in Philadelphia were instrumental in changing not only laws but fundamental attitudes about animals.</p>
+
+<p>But accompanying the growing concern for welfare, there were other changes afoot. We write about the rise of science-based veterinary medicine, the growth of animals in entertainment like museums, zoos, and circuses, the early American wildlife conservation movements focused on birds and bison, the industrialization of food animal production and processing, and the unresolved arguments about the use of animals in scientific research. Along the way we meet fascinating, complicated people like the uncompromising French-American veterinarian Alexandre Liautard, the charismatic showman P.T Barnum, and such defenders of animal research as John Call Dalton and W.W. Keen.</p>
+
+<p>Perhaps the biggest theme we land on is that while our present-day love and affection for animals has its origins in that era, it’s a very selective affection: Our pets have increasingly become members of the family, but we often turn a blind eye to the suffering of other species, whether it’s wildlife going extinct or, worst of all, meat animals languishing in factory farms. And you can explain that divergence in feelings in large part through a divergence in awareness: While our pets have never been more physically present in our lives, these other animals have never felt more distant. In the 19th century, humans lived cheek to jowl with their food animals, even in cities, but sweeping changes in the era we write about meant that increasingly the process of raising and slaughtering animals could happen hundreds or even thousands of miles away. In the end, we believe, our changing attitudes toward animals have been driven by changing patterns of how we live (or, more specifically, <em>don’t</em> live) among them.</p>
+
+<p><strong>MB: Are you hopeful that as people learn more about this history, they might develop more compassion about the nonhuman animals in their midst?</strong></p>
+<p><strong>BW/MM: </strong>Yes, we can at least hope that. In the conclusion to our book, we raise the question of whether the kind of revolution that the rise of the anti-cruelty movement represented—in which people really did undergo a sea change in how they behaved toward the domestic animals around them—could happen today, to make people more mindful of the treatment of food animals and other suffering creatures that they don’t ever get to interact with. It would be a big shift, and one that would be somewhat analogous to the mental shifts that many of us need to make around climate change, another issue where human beings seem to find it hard to behave in moral ways when the impact of our actions is often indirect and hidden from us.</p>
+
+
+
+  
+
+
+<p>In general, systemic problems like that can be tricky to provoke change around. But so many of the worst challenges we face today <em>are</em> systemic in nature, and we’ll never solve them if we can’t retrain our moral sense to recognize that we’re responsible for the unseen consequences of our actions, not just the seen ones.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202603/a-compassionate-history-of-american-attitudes-toward-animals" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202603/a-compassionate-history-of-american-attitudes-toward-animals</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202603/a-compassionate-history-of-american-attitudes-toward-animals</guid>
+            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/broadway_scene.jpg?itok=7VpPg6Ge" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
