@@ -4,126 +4,71 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 23:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 02:45:28 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 23:42:31 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 02:45:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[For Great Sex, IUDs Beat the Pill]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Michael-Castleman.jpg?itok=UhC6Vc8Q" alt="Michael Castleman M.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sex</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">For Great Sex, IUDs Beat the Pill</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">While more women use oral contraceptives, the Pill may impair sex. IUDs don’t.</h2><p style="font-size:0.9em;color:#666;">Posted April 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Science of Seeing Differently Through Virtual Reality]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-11/profile__1024x1024_-removebg-preview.jpg?itok=L82c1cWv" alt="Matilde Tassinari Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bias</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Science of Seeing Differently Through Virtual Reality</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Virtual reality experiments reveal how identity and bias intertwine.</h2><p style="font-size:0.9em;color:#666;">Posted April 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">American women who use contraception prefer the Pill over IUDs.</li><li style="margin-bottom:6px;">Studies show the Pill can cause reduced arousal, pelvic or vaginal pain, and less sexual satisfaction.</li><li style="margin-bottom:6px;">Individuals who experience sex problems that appear Pill-related might want to consider switching methods.</li>
+              <li style="margin-bottom:6px;">Virtual reality can place people inside the lived experience of bias rather than asking them to imagine it.</li><li style="margin-bottom:6px;">Some virtual experiences meant to dissolve prejudice can backfire, reinforcing the biases they aim to reduce.</li><li style="margin-bottom:6px;">Understanding when and for whom virtual experiences may backfire is essential for responsible VR research.</li>
             </ul>
           </div>
-                    <p>There are several good reasons why women might prefer the Pill over an IUD, but satisfying sex is not one of them.</p>
-<p>Among sexually active women who use contraception, 21 percent take birth control pills, while far fewer—13 percent—rely on intrauterine devices (IUDs). The Pill and IUDs both offer advantages and disadvantages. Women can assess which of the dozen methods is best for them by talking with family planning counselors at Planned Parenthood and other contraception providers.</p>
+                    <p dir="ltr">You look down, and something feels wrong. The hands in front of you are not the ones you are used to, and when you catch your reflection, it is a different face that meets your gaze—one capable of changing how others respond to you.</p>
+<p dir="ltr">People look at you differently, speak to you differently, and react to the same words and gestures in ways that feel unfamiliar, as if the rules of the interaction have changed without anyone explaining why.</p>
 
-<p>But those interested in satisfying sex are more likely to enjoy it if they choose an IUD over the Pill. Recently, a rigorous Brazilian study shows that, compared with IUD users, women taking the Pill report reduced arousal (p &lt; 0.05), more sexual pain (p &lt; 0.05), more anxiety and depression (p &lt; 0.03), and less sexual satisfaction (p &lt; 0.05).</p>
+<p dir="ltr">Nothing else in the environment has changed, and yet your experience of it has. What has changed is who you are within it, or at least who others believe you to be.</p>
+<p dir="ltr">Except you’re not there, but wearing a headset.</p>
+<p dir="ltr">Over the past decades, psychologists have begun using virtual reality (VR) to investigate one of the most persistent features of human life: how we relate to people who belong to groups different from our own. From racial prejudice to political polarization, intergroup tensions shape societies across the world. Now researchers are asking whether immersive technology might help us understand and improve those relationships.</p>
 
-<h2>Does the Pill Have a Dirty Little Secret?</h2>
-<p>Some studies show no connection between the Pill and women’s sex problems. But the Brazilian finding is not an outlier. Other studies have corroborated the Pill’s association with a wide array of sex problems:</p>
-<ul>
-<li>Polish researchers surveyed 495 women, of whom 237 used the Pill, with the rest relying on other methods. Among users of methods other than the Pill, 14 percent reported sex problems. Among Pill users, the proportion was considerably higher, 22 percent.</li>
-<li>Women’s health specialists from around the U.S. reviewed the research linking the Pill to sexual side effects. Their conclusion: Birth control pills “have a negative effect on sexual arousal, lubrication, and orgasm, and appear to be associated with vaginal pain during sex. Sexual side effects are a strong predictor of oral contraceptive discontinuation.” In other words, Pill-related sex problems are a major reason why women stop using birth control pills.</li>
-</ul>
+<p dir="ltr">The answer, it turns out, is complicated.</p>
+<h2>A Laboratory for Social Encounters</h2>
+<p dir="ltr">For decades, scientists studying prejudice relied on surveys, laboratory experiments, or real-world interventions such as intergroup contact programs. These approaches yielded important insights but often faced practical limits. It is not easy, for example, to recreate a tense encounter between groups under controlled conditions.</p>
 
-<h2>Why Would Birth Control Pills Cause Sex Problems?</h2>
-<p>Birth control pills contain one or two female sex hormones, estrogen and/or progestin. The monthly hormonal changes of the menstrual cycle alter many women’s moods and how they experience sex. It’s reasonable to believe that the hormone(s) in the Pill might do the same.</p>
+<p dir="ltr">In <a href="https://doi.org/10.1016/j.chb.2026.108908">our recent critical review</a>, we examined how virtual reality is beginning to change this landscape. In VR, researchers can construct detailed social worlds where participants can encounter virtual characters representing members of different groups or experience situations from someone else’s perspective. In some studies, people even inhabit a virtual body representing a person who belongs to a different social group—what we call outgroup embodiment.</p>
 
-<p>Compared with 30 years ago, today’s birth control pills contain lower doses of hormones. But even at low doses, available research shows that Pill might still cause sex problems. Pill-related sex problems typically begin a few weeks to a few months after starting them.</p>
-<h2>What to Do</h2>
-<p><strong>Assess your situation.</strong> Do you think you’re having more sexual issues since you started taking birth control pills? Top sexual side effects include: reduced arousal, reduced vaginal self-lubrication, pelvic or vaginal pain, and less sexual satisfaction. In addition, many Pill users report increased anxiety and depression that might also interfere with sex.</p>
+<p dir="ltr">These experiences feel surprisingly real. VR works by creating a strong sense of presence, the feeling of “being there” inside the simulated environment. When that illusion succeeds, our brains respond to the digital world almost as if it were physical reality.</p>
+<p dir="ltr">That realism makes VR a powerful experimental tool. Researchers can manipulate social interactions, observe behavior in real time, explore how people respond to complex intergroup situations, and more.</p>
 
-<p><strong>Consult the physician who prescribed you the Pill.</strong> Discuss your experience. Ask what the clinician knows about Pill-related sex problems. You might bring along a copy of this post.</p>
-<p><strong>Consider switching to another method.</strong> You might switch temporarily to see if you enjoy sex more using another method. If so, you can consider making the change permanent. The Brazilian study shows that IUDs are less likely than the Pill to cause sex problems. In addition, diaphragms, condoms, and ovulation-detection approaches are unlikely to cause sex problems.</p>
+<p dir="ltr">One of the most striking uses of VR is immersive perspective-taking.</p>
+<p dir="ltr">In classic psychological experiments, perspective-taking involves imagining what life might feel like for someone else. In VR, that imagination becomes a sensory experience.</p>
+<p dir="ltr">In some experiments, participants see the world through the eyes of someone from a different group—for instance, a victim of discrimination. Others go further, synchronizing a virtual body with the participant’s movements so that the digital body begins to feel like their own.</p>
 
-<p><strong>Involve your partner. </strong>If your partner is a woman, she'll probably sympathize with your situation. But if you're with a man, he might not. Ask him to read this post. The two of you might try condoms. If he thinks they reduce pleasure, ask him to read my <a href="https://www.psychologytoday.com/us/blog/all-about-sex/201505/do-condoms-impair-erotic-sensitivity">previous post</a> about condoms.</p>
+<p dir="ltr">These experiences can change how people feel about others. Studies have shown that embodying an outgroup member or observing events from their viewpoint can increase empathy, reduce certain biases, and encourage more prosocial behavior.</p>
+<p dir="ltr">But the effects are not universal, as some interventions produce meaningful changes, while others show little impact or even unexpected backlash.</p>
 
+<h2>When Virtual Experiences Backfire</h2>
+<p dir="ltr">Under certain conditions, VR interventions can produce the opposite of what researchers intend. If a scenario feels threatening or uncomfortable, participants may psychologically distance themselves from the experience. In some experiments, embodying a stigmatized group member actually increased bias when the situation activated negative stereotypes.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/all-about-sex/202604/for-great-sex-iuds-beat-the-pill" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/all-about-sex/202604/for-great-sex-iuds-beat-the-pill</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/all-about-sex/202604/for-great-sex-iuds-beat-the-pill</guid>
-            <dc:creator><![CDATA[Michael Castleman M.A.]]></dc:creator>
-            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-shvets-production-9742748.jpg?itok=2BJzHn5Y" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Verdict on Social Media Addiction]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/eva_ritvo.jpg?itok=JFvjoTw_" alt="Eva Ritvo M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Verdict on Social Media Addiction</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Rulings against Meta and YouTube will change how we understand mental health.</h2><p style="font-size:0.9em;color:#666;">Posted April 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Recent verdicts against Meta and YouTube suggest social media harm may be linked to platform design.</li><li style="margin-bottom:6px;">The adolescent brain is especially vulnerable to reward-driven systems.</li><li style="margin-bottom:6px;">Clinicians and educators must rethink how they address digital exposure with clients.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/jk_image_1.png.jpg?itok=lItO7wWw" width="320" height="213" data-insert-type="image" title="Image by Dr. Jessica Kizorek and ChatGPT " alt="Image by Dr. Jessica Kizorek and ChatGPT "></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by Dr. Jessica Kizorek and ChatGPT</div>
-</div>
-</div>
-</div>
-<p dir="ltr">For the past decade, the conversation around social media and mental health has lived in an uncomfortable gray area. Parents sensed something was off, clinicians observed rising anxiety and depression, and researchers pointed to troubling patterns. The finger that was often pointed at the individual is now shifting to the platforms that are supporting these addictive behaviors.</p>
-
-<p dir="ltr">Recent jury decisions finding Meta and YouTube liable for harms associated with addictive platform design suggest something more structural is at play. These rulings indicate that social media is not a neutral tool that a subset of users may use excessively. Instead, it is an engineered environment meticulously designed to capture and hold human attention at the expense of psychological health.</p>
-
-<h2>From Screen Time to System Design</h2>
-<p dir="ltr">Parents often focus on managing their children’s screen time, as if the problem with social media could be solved through a stopwatch and better discipline. This approach assumes the technology is a passive participant—but these cases highlight that design plays a significant role in shaping behavior.</p>
-
-<p dir="ltr">From a clinical standpoint, this aligns with a growing phenomenon of emotional dependence. Users often describe a lingering pull to return to an app even when the experience has ceased to be enjoyable. As one student at Florida International University (FIU) noted, “I don’t even enjoy it half the time, but I still keep scrolling.” This tension reflects a system designed not just for engagement but to retain their attention for long periods of time.</p>
-
-<h2>Joining the Tobacco and Opioid Club</h2>
-<p dir="ltr">The comparison to substances like tobacco and opioids shows the addictive power of social media. In both cases, industries initially framed their products as matters of personal choice, while internal design and distribution strategies quietly amplified dependence. Over time, litigation revealed that these were not simply consumer behaviors but predictable outcomes shaped by product design, marketing, and accessibility. The current legal arguments surrounding social media follow a similar trajectory. </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/jk_image_2.png.jpg?itok=OSE2qGjj" width="320" height="214" data-insert-type="image" title="Image by Dr. Jessica Kizorek and ChatGPT/Used with permission " alt="Image by Dr. Jessica Kizorek and ChatGPT/Used with permission "></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by Dr. Jessica Kizorek and ChatGPT/Used with permission</div>
-</div>
-</div>
-</div>
-<p dir="ltr">By shifting the focus from user behavior to system architecture, these cases suggest that the psychological consequences of prolonged use may not be incidental. They may be intentionally embedded in the way these platforms are built and optimized.</p>
-<h2>What Educators in Higher Education Are Beginning to Notice </h2>
-
-<p dir="ltr">As awareness grows, the role of digital behavior in mental health assessment is becoming more central. Clinicians are beginning to incorporate questions about social media and AI use into routine evaluations, recognizing that these platforms can influence mood, attention, and self-perception. </p>
-<p dir="ltr">Otis Kopp, a professor at Florida International University (FIU), explains that “our focus can’t be on technology alone. We must prepare students to make decisions inside systems that are influencing them in real time, which requires judgment and critical thinking rather than just a technical skill.”</p>
-
-<p dir="ltr">This evolution in thought suggests that proficiency is no longer enough, and students need a psychological anchor to navigate digital spaces. Jessica Kizorek, also a professor at FIU, believes that “social media and generative AI are moving targets. Our role as educators is to point students in a direction they believe is ethical, then trust that they can adapt once they are out there navigating it themselves.”</p>
-
-<p dir="ltr">The concern is most acute regarding adolescent development. Teenagers are biologically predisposed to seek reward and social feedback. These are the pillars of social media design. Intermittent rewards such as likes and comments create a feedback loop similar to the reinforcement patterns seen in gambling. From a psychological perspective, these outcomes are consistent with how these systems are built to function.</p>
+<p dir="ltr">Pre-existing beliefs may also come into play: People strongly committed to particular political or ideological positions may interpret immersive experiences through the lens of motivated reasoning, reinforcing their original attitudes rather than reconsidering them.</p>
+<p dir="ltr">Even the design of the virtual world plays a role. Passive experiences, such as watching a narrative unfold without interacting, sometimes fail to trigger the kinds of meaningful engagement that drive real-world attitude change. </p>
 
 
 
   
 
 
-<h2>The Path Forward for Mental Health Professionals</h2>
-<p dir="ltr">As Meta and YouTube prepare to appeal recent rulings, the legal battle is far from over. The idea that social engineering through technology plays a role in mental health is no longer confined to academic journals or clinical observations; it has entered public and legal discourse in a tangible way. </p>
+<p dir="ltr">Despite these uncertainties, research on immersive technologies and intergroup relations is expanding rapidly. The number of scientific papers on the topic has grown dramatically in the past decade, reflecting both advances in technology and growing interest across disciplines. VR is now being tested in a wide range of contexts: diversity training, education, policing, healthcare, and conflict resolution.</p>
 
-<p dir="ltr">As this journey unfolds, responsibility will be on the clinician to nudge patients towards self-awareness of how technology impacts their lives. The focus is moving away from how much time we spend online and toward the quality of the environments we are being asked to inhabit. This requires moving beyond individual habit-tracking toward a collective demand for ethical design, though the exact blueprint for such a shift remains to be seen.</p>
+<p dir="ltr">The appeal is obvious: Immersive technologies allow researchers to simulate social situations that would be impossible to recreate in real life.</p>
+<h2>A New Window Into Human Relations</h2>
+<p dir="ltr">The dream that virtual reality could dissolve prejudice overnight may have been naive, but the technology is offering something of equal worth: a new way to observe the mechanics of social life. Inside a headset, researchers can watch how identities shift and how people react when confronted with unfamiliar perspectives.</p>
 
-<p><em>To find a therapist, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+<p dir="ltr">If used carefully, immersive technologies may not magically erase the boundaries between “us” and “them,” but they might help us understand those boundaries better, and perhaps even learn how to cross them.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/on-vitality/202604/the-verdict-on-social-media-addiction" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/vrtual-societies/202604/the-science-of-seeing-differently-through-virtual-reality" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/on-vitality/202604/the-verdict-on-social-media-addiction</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/on-vitality/202604/the-verdict-on-social-media-addiction</guid>
-            <dc:creator><![CDATA[Eva Ritvo M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/vrtual-societies/202604/the-science-of-seeing-differently-through-virtual-reality</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/vrtual-societies/202604/the-science-of-seeing-differently-through-virtual-reality</guid>
+            <dc:creator><![CDATA[Matilde Tassinari Ph.D.]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/jk_image_1.png.jpg?itok=X_PejOEF" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-tima-miroshnichenko-7047016.jpg?h=cffae03b&amp;itok=OKwwBkvZ" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
