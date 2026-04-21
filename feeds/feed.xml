@@ -4,173 +4,75 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 21:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 22:38:48 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 21:47:31 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 22:38:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How to Move Beyond the AI Pilot]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2021-07/jonathan_brill.png.jpg?itok=hFVR7JLr" alt="Jonathan Brill" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Move Beyond the AI Pilot</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Turning AI experiments into enterprise change.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Examining Racial Disparities in Health Care]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/Untitled_1.jpg?itok=1VFh3fPt" alt="Robert T Muller Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Race and Ethnicity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Examining Racial Disparities in Health Care</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Studies uncover the discrimination BIPOC families face in the health care system.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">"Pilot purgatory" stalls transformation, despite AI success.</li><li style="margin-bottom:6px;">Success metrics alone can't ensure scalable results.</li><li style="margin-bottom:6px;">Build pilot scale infrastructure early to avoid setbacks.</li><li style="margin-bottom:6px;">Cultivate support networks for seamless AI adoption.</li>
+              <li style="margin-bottom:6px;">BIPOC are policed, and punished more than non-BIPOC while receiving less support while receiving less support.</li><li style="margin-bottom:6px;">Studies found that BIPOC patients are regularly discriminated against by the health care system.</li><li style="margin-bottom:6px;">Systemic neglect can lead to chronic stress and trauma, intensifying grief for BIPOC families.</li>
             </ul>
           </div>
-                    <p dir="ltr"><em>"Pilot purgatory" kills momentum. Here's how to escape.</em></p>
-<p dir="ltr">The conference room walls were covered with success stories. Forty-seven AI pilots, each with impressive metrics. Customer service bot: 34 percent faster resolution. Inventory optimizer: $2.3 million saved. Predictive maintenance: 89 percent accuracy.</p>
+                    <p><em>This post was co-authored by Suliana Beraki and Robert T. Muller, Ph.D.</em></p>
+<p>My sister's experience of terminal illness was shaped by many factors: pain, communication, disregard, fear, and advocacy. These often overshadowed the person at the center of it all—her. The urgency to advocate for better end-of-life care consumed what little time we had left together. It was a painful reminder that care is sometimes determined by race rather than illness.</p>
 
-<p dir="ltr">Two years later, only three had scaled beyond their original teams.</p>
-<p dir="ltr">Welcome to pilot purgatory—that special hell where experiments succeed but transformation never happens. The technology works, the ROI is proven, but somehow the organization remains fundamentally unchanged. Meanwhile, competitors who started later are already transforming at scale.</p>
+<p>Michelle Regnier, a registered social worker and cancer survivor working with the Wellspring Cancer Support Foundation, comments, “Some people want to make peace before passing. But too often, people and their families are forced into advocacy just to be heard.”</p>
+<p>Canada’s reputation is that of a nation that promotes equality for all, but this ideal doesn’t hold true, particularly for Black and Indigenous people of colour (BIPOC). BIPOC are both hyper-visible and invisible in the face of systemic barriers. This means being surveilled, policed, or punished to a greater extent than non-BIPOC people, but also receiving <a href="https://www.tandfonline.com/doi/full/10.1080/02673037.2022.2151986?src=recsys">less support </a>from public services. This is a systemic double bind imposed on racialized people in Canada.</p>
 
-<p dir="ltr">Research shows that while <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage">80 percent of companies</a> have AI pilots, <a href="https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://media-publications.bcg.com/The-Widening-AI-Value-Gap-October-2025.pdf">only 5 percent </a>are achieving AI value at scale. The problem isn't technology or even culture. It's the absence of a bridge between experimentation and transformation.</p>
-<h2>Why Pilots Die in Purgatory</h2>
-<p dir="ltr">Pilot purgatory happens when organizations mistake motion for progress. They launch experiments without asking the hardest question: "If this works, then what?"</p>
+<p>Bianca Beauchemin, an assistant professor in the School of Gender, Sexuality, and Women’s Studies at York University, shared her insights. “Blackness in Canada is often framed as a product of multiculturalism, yet it is not truly recognized. One dimension of this erasure is silence; we simply do not talk about it. While racism in Canada may not always appear as overt or extreme as in other nations, it still exists in insidious and systemic ways.” </p>
 
-<p dir="ltr">Three organizational traps keep pilots from scaling.</p>
-<ul>
-<li>
-<p dir="ltr"><strong>Success Theater: </strong>Teams optimize metrics that impress executives but don't connect to enterprise value.</p>
-</li>
-<li>
-<p dir="ltr"><strong>Champion Dependency: </strong>Pilots thrive under enthusiastic early adopters but wither when they meet the skeptical middle.</p>
-</li>
-<li>
-<p dir="ltr"><strong>The Integration Vacuum: </strong>Experiments run in isolation from the systems they need to transform at scale.</p>
-</li>
-</ul>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-rdne-8312818-300x200.jpg?itok=0U1_K9s5" width="300" height="200" data-insert-type="image" title="RDNE Stock Project / Pexels" alt="RDNE Stock Project / Pexels"></div>
+<div class="insertArea--origin subtext">Source: RDNE Stock Project / Pexels</div>
+</div>
+</div>
+</div>
+<p>Systems of social infrastructure are all still embedded with <a href="https://www.researchgate.net/profile/Olu-Mbanugo/publication/390196284_Structural_Racism_Healthcare_Policy_and_Their_Impact_on_Health_Disparities_Among_Underserved_Populations_in_the_United_States/links/67e428219f230864218eb01e/Structural-Racism-Healthcare-Policy-and-Their-Impact-on-Health-Disparities-Among-Underserved-Populations-in-the-United-States.pdf">structural racism.</a> These acts of racism may not always be conscious, but their impact is nonetheless felt. The pain of BIPOC communities is frequently dismissed. For many, the promise of care is replaced by feelings of abandonment, anger, and grief. Their realities, needs, emotions, and agency are often suppressed.</p>
 
-<p dir="ltr">A Fortune 500 retailer learned this the hard way. Their AI-powered demand forecasting pilot delivered stunning results in Portland. But scaling required integrating with legacy systems, retraining buyers, and changing supplier contracts across many vendors. The pilot succeeded precisely because it avoided these complexities. Scaling meant confronting them all simultaneously.</p>
+<p>Many BIPOC individuals do not trust the health care system because they have been continuously let down by it. Black and Indigenous patients experience unique forms of medical racism rooted in <a href="https://www.mdpi.com/1660-4601/22/2/273">separate </a>histories and realities, which have included being subject to unethical medical experiments. Generations of mistreatment intersect with medical myths, especially for Black women, who have historically been portrayed as having <a href="https://journals.sagepub.com/doi/full/10.1177/08445621241247865">higher pain thresholds</a>, a false belief based on biased and outdated medical research.</p>
 
-<p dir="ltr">The solution isn't fewer pilots or lower ambitions. It's building transformation infrastructure from day one.</p>
-<h2>The Five-Phase Transformation Architecture</h2>
-<p dir="ltr">Successful AI transformation follows a predictable pattern that most organizations accidentally invert. They start with technology and hope culture follows. Winners start with architecture and let technology fill it.</p>
+<p><a href="https://www.cambridge.org/core/journals/canadian-journal-of-emergency-medicine/article/patient-race-ethnicity-and-care-in-the-emergency-department-a-sco**-review/E4CA53A519B7E16E64A411C729F64070">Studies indicate</a> that minority groups, including Black patients, experience longer wait times in emergency departments. 91 percent of studies found that Black and other racialized patients wait significantly longer for assessment than white patients, even after considering factors such as hospital location and insurance status, suggesting systemic issues beyond facility differences. </p>
 
-<p dir="ltr"><strong>Phase 1:</strong> <strong>Coalition Before Code </strong></p>
-<p dir="ltr">Before writing a line of code or buying a single license, build your transformation coalition. Not a steering committee that meets monthly—an active alliance of senior sponsors, middle management champions, and frontline advocates.</p>
-<p dir="ltr"><a href="https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20people%20power%20of%20transformations/the-people-power-of-transformations.pdf">Research on change networks</a> shows that transformations with broad coalitions are significantly more likely to succeed. But here's what most miss: The coalition's job isn't to cheerlead. It's to identify and eliminate barriers before they become fatal.</p>
+<p>A 2023 U.S. <a href="https://journals.sagepub.com/doi/abs/10.1177/26320770241248455">study</a> shows Black and Indigenous women experience unfair racial treatment, especially if they have chronic pain conditions or depression. They also had higher odds of delaying care or using the emergency department as their usual source of care rather than booking a doctor’s appointment.</p>
+<p>In Canada, as recently as 2024, over <a href="https://www150.statcan.gc.ca/n1/daily-quotidien/241104/dq241104a-eng.htm">one-quarter</a> of Indigenous people waited two weeks or longer for non-urgent care. One in five reports unfair treatment and racial discrimination from health care professionals.</p>
 
-<p dir="ltr">One pharmaceutical company required every AI pilot to identify three "collision points"—places where success would require changing another team's process. Coalition members owned resolving these collisions before the pilot launched, not after it succeeded.</p>
-<p dir="ltr"><strong>Phase 2: Learning Goals Before Success Metrics</strong> </p>
+<p>Regnier explains the challenges of advocacy amid ailing health, “They have to say things like ‘I should be treated with dignity’ or ‘I matter.’ The system becomes central to their experience when it shouldn’t be. That’s not fair. That’s not a collaborative, supportive, or empathetic process—and it should be.”</p>
 
-<p dir="ltr">Every pilot needs success metrics. But success metrics without learning goals create theatrical successes that can't scale.</p>
-<p dir="ltr">Learning goals answer different questions: What do we need to discover to scale this? Which assumptions might be wrong? What capabilities must we build? These aren't nice-to-have additions to your success criteria—they're prerequisites for transformation.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-ivan-s-8964069-200x300.jpg?itok=WSSz_bqM" width="200" height="300" data-insert-type="image" title="Ivan S / Pexels" alt="Ivan S / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Ivan S / Pexels</div>
+</div>
+</div>
+</div>
+<p>The neglect from the system and the subsequent mistrust can lead to chronic stress and trauma, which contribute to poor health <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9660427/#hesr13998-sec-0010">outcomes</a>. Racial trauma can also <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/johc.12229">intensify</a> the grieving process for BIPOC families. </p>
+<p>Shanique Victoria Edwards, a registered psychotherapist specializing in racial trauma and mental health resilience, states, “Systemic shortcomings don’t just exist in hospitals; they permeate families and communities. The trauma of health inequities doesn’t simply fade; it embeds itself in our bodies, carried across generations.” This shapes the way these BIPOC communities experience illness, seek care, and navigate grief. This cyclical burden continues to demand resilience where there should instead be care.</p>
 
 
 
   
 
 
-<p dir="ltr">Frame learning goals as testable hypotheses. "We believe nurse managers will adopt AI scheduling if it reduces admin time by 20 percent" becomes testable. "We want to explore AI opportunities in health care" doesn't. This precision prevents pilots from becoming permanent science experiments.</p>
-<p dir="ltr"><strong>Phase 3: Time-Box Everything</strong> </p>
-
-<p dir="ltr"><a href="https://www.economist.com/news/1955/11/19/parkinsons-law">Ruthlessly, Parkinson's Law </a>applies doubly to AI pilots—they expand to fill available time and budget. Without hard stops, experiments become permanent pilots, accumulating features but never scaling.</p>
-<p dir="ltr">Set three clocks for every pilot: </p>
-<ul>
-<li>
-<p dir="ltr"><strong>Learning Window </strong>(when we'll know if assumptions hold)</p>
-</li>
-<li>
-<p dir="ltr"><strong>Decision Window</strong> (when we'll vote to scale or stop)</p>
-</li>
-<li>
-<p dir="ltr"><strong>Integration Window</strong> (when scaled systems must be operational)</p>
-</li>
-</ul>
-
-<p dir="ltr">A telecom company enforced this through "graduation day"—every pilot had a prescheduled date to present scale/stop recommendations. Teams couldn't delay. Executives couldn't defer. This forcing function turns pilots into decisions.</p>
-<p dir="ltr"><strong>Phase 4: Build Scale Infrastructure in Parallel </strong></p>
-<p dir="ltr">The fatal flaw in most pilots: They build toy solutions for real problems. When success comes, they have to rebuild everything for scale. Momentum dies during reconstruction.</p>
-
-<p dir="ltr">Instead, decide in advance where you will build enterprise plumbing alongside your pilot. If the pilot needs data access, consider building production-grade APIs, not one-off connections. If it requires new skills, understand what it will take to scale training, not hero support. If governance matters, consider in advance where you will need to establish frameworks, and start unlocking those blockers before project completion.</p>
-
-<p dir="ltr">This may feel like over-engineering, but<a href="https://ieeexplore.ieee.org/document/6225984"> </a><a href="https://www.researchgate.net/publication/260649631_Estimating_the_Principal_of_an_Application&amp;apos;s_Technical_Debt">research on technical debt</a> shows the cost of retrofitting scale exceeds the cost of building it initially by 3 to 10 times. More importantly, pilots with scale infrastructure built in face fewer political barriers—they're already integrated with enterprise systems.</p>
-
-<p dir="ltr"><strong>Phase 5: Design for Viral Spread </strong></p>
-<p dir="ltr">Some innovations spread naturally. Others require force. Understanding the difference determines your scaling strategy.</p>
-<p dir="ltr"><a href="https://teddykw2.wordpress.com/wp-content/uploads/2012/07/everett-m-rogers-diffusion-of-innovations.pdf">Network research</a> identifies three factors that predict viral adoption: observable value (can others see the benefit?), trialability (can they test without commitment?), and social proof (are peers succeeding?).</p>
-
-<p dir="ltr">Design pilots to maximize all three.</p>
-<ul>
-<li dir="ltr">Make benefits visible through dashboards that everyone sees.</li>
-<li dir="ltr">Enable trial through self-service tools.</li>
-<li dir="ltr">Create social proof through peer testimonials, not executive mandates.</li>
-</ul>
-<p dir="ltr">One insurance company transformed its pilot into a "roadshow"—teams could request a two-week trial with full support. Seeing peers succeed mattered more than any executive mandate. Adoption spread organically to 80 percent of eligible teams within six months.</p>
-
-<h2>The Kill Decision That Creates Life</h2>
-<p dir="ltr">Not every pilot should scale. But organizations struggle with productive failure because<a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/loss-aversion/"> loss aversion</a> makes killing experiments feel like admitting waste.</p>
-<p dir="ltr">The healthiest organizations celebrate sunset decisions as learning victories. They archive insights, document barriers discovered, and share knowledge gained. In short, understanding that the majority of experiments <em>should</em> fail, they celebrate the useful ones over the successful ones.</p>
-
-<p dir="ltr">This isn't semantic gymnastics. It's recognizing that zombie pilots—experiments neither scaling nor dying—consume resources and attention that could fund real transformation. The discipline to end experiments matters as much as the ability to scale them.</p>
-<h2>Your Escape From Purgatory</h2>
-<p dir="ltr">The path out of pilot purgatory isn't about running better experiments. It's about building the architecture that turns experiments into transformation.</p>
-
-<p dir="ltr">Start by auditing your current pilots.</p>
-<ul>
-<li dir="ltr">How many have clear learning goals versus just success metrics?</li>
-<li dir="ltr">How many have coalition support beyond their immediate team?</li>
-<li dir="ltr">How many could scale tomorrow if the decision were made?</li>
-</ul>
-<p dir="ltr">Then apply the five-phase architecture to one strategic pilot—not your most successful, but your most scalable. Build the coalition, set the clocks, construct the infrastructure. Make it the template for everything that follows.</p>
-
-<p dir="ltr">The difference between organizations stuck in pilot purgatory and those achieving transformation isn't the quality of their experiments or the sophistication of their AI. It's the discipline to build bridges before you need to cross them.</p>
-<p dir="ltr">Because pilot purgatory isn't where experiments go to die. It's where transformations go to hide from the hard work of actually changing.</p>
-
-<p dir="ltr">The escape route exists. The question is whether you'll take it.</p>
+<p>For Canada’s health care system to fulfil its commitment to universal care, addressing racial disparities in respect for patients, treatment, and outcomes must become a priority. Until then, the burden of advocacy will continue to fall on those who should only have to focus on healing. </p>
+<p><em>Suliana Beraki is a York University Student.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/decisions-decisions/202604/how-to-move-beyond-the-ai-pilot" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/talking-about-trauma/202604/examining-racial-disparities-in-health-care" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/decisions-decisions/202604/how-to-move-beyond-the-ai-pilot</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/decisions-decisions/202604/how-to-move-beyond-the-ai-pilot</guid>
-            <dc:creator><![CDATA[Jonathan Brill]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/talking-about-trauma/202604/examining-racial-disparities-in-health-care</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/talking-about-trauma/202604/examining-racial-disparities-in-health-care</guid>
+            <dc:creator><![CDATA[Robert T Muller Ph.D.]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-gustavo-fring-4872018.jpg?itok=8Wy_ljna" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why 'Optimizing' Motherhood Is Destroying Your Mental Health]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/Kathleen-Chapin.jpg?itok=LNKYBe71" alt="Katie Chapin LCSW, MCAP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Productivity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why 'Optimizing' Motherhood Is Destroying Your Mental Health</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to resist the productivity culture and find freedom in motherhood.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Constant pressure to “do it all” creates chronic stress and emotional overwhelm.</li><li style="margin-bottom:6px;">The drive to over-function is linked to increased stress and negative physical health outcomes.</li><li style="margin-bottom:6px;">Modern motherhood often requires one person to fulfill roles that historically belonged to a “village.”</li><li style="margin-bottom:6px;">Social media, workplace demands, and post-COVID expectations reinforce an unattainable standard.</li>
-            </ul>
-          </div>
-                    <p>I am a mom to young children, a fact social media seems well aware of. My feed is a constant flood of ways to structure my child’s wake windows, cook whole-food meals for my picky toddler, and get back in shape post-baby—all while working a full-time job and curating my toddler’s bespoke wooden toy collection. Optimization culture is trashing our mental health, and we need to resist it at all costs.</p>
-
-<p><strong>Just Because You Can Doesn’t Mean You Should</strong></p>
-<p>If it were just social media, it would be much easier to swear off, but it is not; it is like the air we breathe. It comes from our employers, our family, and horrible people with podcast equipment—this overwhelming feeling of needing to optimize, to always be doing more. Some of us do very well at this; clients I work with identify themselves as perfectionists. In its most severe form, it is obsessive-compulsive personality disorder. Many of my clients fit the <a href="https://www.ncbi.nlm.nih.gov/books/NBK597372/">diagnostic criteria</a> and suffer as a result; others are “over-functioners” fueled by an overwhelming need to please (and probably a gallon of coffee). These women do it all. For those of you who have been forced to watch <em>Bluey</em> by your toddler, it is like a never-ending game of “keepy uppy.” The balloon must always remain in the air, no matter what, and at any cost.</p>
-
-<p>And the costs are quite high. Research has shown that individuals high in perfectionism are at increased risk for negative health outcomes, including chronic illness and pain conditions, largely due to heightened stress responses (Molnar and colleagues, 2018; Sirois and Molnar, 2012). This is because the game of “keepy uppy” is flooding your brain with stress hormones, keeping you on alert all the time (Molnar and colleagues, 2018). Your body is on high alert; it is no wonder it would eventually start to attack itself.</p>
-
-<p>Even if you can do it all, that does not mean you should. And if you do, there is likely a price to pay.</p>
-<p>And if you can’t, it is probably because the game is rigged.</p>
-<p>Since the COVID-19 pandemic, there has been a notable increase in ADHD diagnoses, particularly among young adults and women of childbearing age (Auro and colleagues, 2024). I would argue that there are several factors here, one of which is the shift in expectations that came following the pandemic. Women were expected to work while being a teacher, full-time mom, maid, and activity director—24/7. When restrictions lifted, what was left behind was a set of unrealistic expectations and a rapidly growing group of influencers and advertisers with a built-in pain point—everyone else can do it all, why can’t you? Maybe you need a new planner, a new journal, or a new organization system, and if that doesn't work, maybe your brain doesn’t work right. I am not saying that women have not been underdiagnosed<a href="https://www.nature.com/articles/d41586-026-00098-7"> with ADHD historically</a>, nor am I saying that women on these medications are misdiagnosed; I am just saying the game is rigged.</p>
-
-<p>I have so many clients who struggle because they are <a href="https://www.parents.com/12-signs-you-might-be-a-type-b-mom-11897792#:~:text=Type%20B%20moms%20take%20a%20relaxed%2C%20flexible,than%20adhering%20to%20a%20specific%20parenting%20style.">“type B”</a> parents and want to have the structured, clean, and tantrum-free lives they see on the internet. They see this as a personal failing, but I don't. Motherhood was never meant to be a single person (usually the mother) playing all of the roles. Throughout history, we had a village, and now women are expected to do this essentially alone, with the help of a tribe of internet “mamas” letting you know that screen time is rotting your child’s brain and that if your snacks have sugar, then you have failed as a mother. </p>
-
-<p><strong>How Do We Resist Optimization?</strong></p>
-<p><strong>Manage expectations and understand where they come from:</strong> One of my favorite techniques in session is to ask, “Where did you get that?” When a client says, “If I am not making the most of my mornings, then my day is a waste.” I ask, "Where did you get that? The internet? Your mother-in-law? You in your 20s before you had kids?" Resisting optimization culture means understanding expectations and uncovering the messaging that drives them.</p>
-
-<p><strong>Zoom out and focus on values:</strong> Value clarification work is like a roadmap to a life well-lived, and without that map, it can be really easy to get off course. Take some time to think about the values that are actually important to you. You are not going to be able to do it all. What actually matters? For our family, time outside and dinner at the table are important for our values of connection to the natural world and connection to each other. These are the things we prioritize.</p>
-
-<p><strong>This time is short:</strong> This statement can bring up a lot of guilt, but I say this to set you free. If you have young babies, your entire identity has shifted, and you might be trying to claw back some sense of yourself. We optimize. We feel we have to use time well and not waste these precious moments. I would argue that presence is more important than productivity. Focus on the overall feeling rather than the goals to be accomplished. At the end of a weekend, your house may be a mess, and you may be ordering pizza, but how do you feel? Were you able to show up for yourself? For your kids? That is what matters.</p>
-
-<p>Overall, we need to shift how we see early motherhood. Some basic mantras to remember—be intentional, not optimized; focus on presence over productivity; how you feel is more important than how things look</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/maternal-mental-health/202604/why-optimizing-motherhood-is-destroying-your-mental-health" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/maternal-mental-health/202604/why-optimizing-motherhood-is-destroying-your-mental-health</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/maternal-mental-health/202604/why-optimizing-motherhood-is-destroying-your-mental-health</guid>
-            <dc:creator><![CDATA[Katie Chapin LCSW, MCAP]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/baby-marosbauershutterstock_175900637.jpg?itok=4m6awwo6" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/national-cancer-institute-smxzeaidr20-unsplash-768x614.jpg?itok=YjDNiEUJ" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
