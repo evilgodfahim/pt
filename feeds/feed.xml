@@ -4,260 +4,173 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 20:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 21:47:31 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 20:55:00 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 21:47:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Sexual Assault Survivors Are Not Responsible for Their Own Suffering]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-08/WSmith.png.jpg?itok=STK5QP3N" alt="Wendy Smith Ph.D. LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sexual Abuse</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Sexual Assault Survivors Are Not Responsible for Their Own Suffering</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The sexually abused wrongly carry a greater burden of shame than their abusers.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How to Move Beyond the AI Pilot]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2021-07/jonathan_brill.png.jpg?itok=hFVR7JLr" alt="Jonathan Brill" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Move Beyond the AI Pilot</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Turning AI experiments into enterprise change.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The effects of trauma do not have an expiration date.</li><li style="margin-bottom:6px;">Sexual abuse of adolescents has specific harmful effects.</li><li style="margin-bottom:6px;">Perpetrators feel less shame and guilt than victims do.</li>
+              <li style="margin-bottom:6px;">"Pilot purgatory" stalls transformation, despite AI success.</li><li style="margin-bottom:6px;">Success metrics alone can't ensure scalable results.</li><li style="margin-bottom:6px;">Build pilot scale infrastructure early to avoid setbacks.</li><li style="margin-bottom:6px;">Cultivate support networks for seamless AI adoption.</li>
             </ul>
           </div>
-                    <p>The survivors of Jeffrey Epstein have lived with their pain for decades while their complaints were ignored or sidelined by various law enforcement bodies. The effects of trauma do not have an expiration date. It can rear its head at any time, triggered by a song, a scent, an unexpected encounter with the past—putting us right back in the terrifying moment. The trauma of sexual abuse in adolescence lives on in sudden triggering moments, but it is also never entirely absent from the daily experience of self.</p>
+                    <p dir="ltr"><em>"Pilot purgatory" kills momentum. Here's how to escape.</em></p>
+<p dir="ltr">The conference room walls were covered with success stories. Forty-seven AI pilots, each with impressive metrics. Customer service bot: 34 percent faster resolution. Inventory optimizer: $2.3 million saved. Predictive maintenance: 89 percent accuracy.</p>
 
-<p>Some of the adolescent victims of Jeffrey Epstein were as young as 13 or 14. They were just becoming the people they would grow up to be, giving sexual trauma a kind of shaping influence that is diminished when it occurs later in adulthood. Teens younger than age 18 are deemed by law to be incapable of consenting to sex because the teen years constitute a critical period for development, neurobiologically, physically, intellectually, psychologically, sexually, and socially. </p>
+<p dir="ltr">Two years later, only three had scaled beyond their original teams.</p>
+<p dir="ltr">Welcome to pilot purgatory—that special hell where experiments succeed but transformation never happens. The technology works, the ROI is proven, but somehow the organization remains fundamentally unchanged. Meanwhile, competitors who started later are already transforming at scale.</p>
 
-<p>Young people over the age of 18 who are sexually abused are also profoundly affected, as many of the Epstein victims were. The course of development of a young person who is traumatized is inescapably altered from what it might have been; the path it might have taken in the absence of that experience cannot be known.</p>
+<p dir="ltr">Research shows that while <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage">80 percent of companies</a> have AI pilots, <a href="https://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://media-publications.bcg.com/The-Widening-AI-Value-Gap-October-2025.pdf">only 5 percent </a>are achieving AI value at scale. The problem isn't technology or even culture. It's the absence of a bridge between experimentation and transformation.</p>
+<h2>Why Pilots Die in Purgatory</h2>
+<p dir="ltr">Pilot purgatory happens when organizations mistake motion for progress. They launch experiments without asking the hardest question: "If this works, then what?"</p>
 
-<p>Sexual abuse, which unavoidably includes emotional and physical abuse as well, is harmful in some specific ways. It catapults a child or adolescent into a physical and emotional vortex where there is little to grab on to for safety. During episodes of sexual abuse, no one is looking out for you. You are alone with your fears and confusion. The sexual excitement of the person doing things to you and with you may be frightening or repulsive. The things they are doing may be causing physical pain.</p>
+<p dir="ltr">Three organizational traps keep pilots from scaling.</p>
+<ul>
+<li>
+<p dir="ltr"><strong>Success Theater: </strong>Teams optimize metrics that impress executives but don't connect to enterprise value.</p>
+</li>
+<li>
+<p dir="ltr"><strong>Champion Dependency: </strong>Pilots thrive under enthusiastic early adopters but wither when they meet the skeptical middle.</p>
+</li>
+<li>
+<p dir="ltr"><strong>The Integration Vacuum: </strong>Experiments run in isolation from the systems they need to transform at scale.</p>
+</li>
+</ul>
 
-<p>When the perpetrator is someone you depend on and trust, a sexual assault shatters the world as you knew it. Adolescents do their best to close the abyss that opens between what they used to believe and what they now feel. Sometimes they do this by locating the source of the badness in themselves, trying to preserve their view of the needed adult so life can continue as before. Sometimes they try to shut down what they’re feeling, numbing themselves as best they can. In the worst case, they deny the reality of what is happening. All of these efforts to manage the unmanageable set the stage for future doubts about oneself, about others, and about the world.</p>
+<p dir="ltr">A Fortune 500 retailer learned this the hard way. Their AI-powered demand forecasting pilot delivered stunning results in Portland. But scaling required integrating with legacy systems, retraining buyers, and changing supplier contracts across many vendors. The pilot succeeded precisely because it avoided these complexities. Scaling meant confronting them all simultaneously.</p>
 
-<p>A survey of 17-year-olds found that the lifetime experience of sexual abuse or assault for girls was 26.6 percent. The risk was concentrated in late adolescence, with the rate for girls rising from 16.8 percent at 15 years to 26.6 percent for 17-year-olds (Finkelhor, Shattuck, Turner &amp; Hamby, 2014).</p>
-<p>Teens who have been sexually abused are more likely to be revictimized, to experience mental health disorders and suicide attempts, high-conflict relationships, financial difficulties, and benefit use, among other negative outcomes (Guiney, H., Caspi, A. et al., 2024). Underlying these problems is the intense shame and guilt that result from sexual abuse.</p>
+<p dir="ltr">The solution isn't fewer pilots or lower ambitions. It's building transformation infrastructure from day one.</p>
+<h2>The Five-Phase Transformation Architecture</h2>
+<p dir="ltr">Successful AI transformation follows a predictable pattern that most organizations accidentally invert. They start with technology and hope culture follows. Winners start with architecture and let technology fill it.</p>
 
-<p>A research finding that is especially relevant in the Epstein case is that survivors of sexual abuse tend to experience both shame and guilt greater than offenders do, and that less than one-third of survivors report the abuse right away. When they do, it is most often disclosed to friends rather than adults (Shubhangi, Kothiyal &amp; Delhi, 2025). </p>
+<p dir="ltr"><strong>Phase 1:</strong> <strong>Coalition Before Code </strong></p>
+<p dir="ltr">Before writing a line of code or buying a single license, build your transformation coalition. Not a steering committee that meets monthly—an active alliance of senior sponsors, middle management champions, and frontline advocates.</p>
+<p dir="ltr"><a href="https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20people%20power%20of%20transformations/the-people-power-of-transformations.pdf">Research on change networks</a> shows that transformations with broad coalitions are significantly more likely to succeed. But here's what most miss: The coalition's job isn't to cheerlead. It's to identify and eliminate barriers before they become fatal.</p>
 
+<p dir="ltr">One pharmaceutical company required every AI pilot to identify three "collision points"—places where success would require changing another team's process. Coalition members owned resolving these collisions before the pilot launched, not after it succeeded.</p>
+<p dir="ltr"><strong>Phase 2: Learning Goals Before Success Metrics</strong> </p>
 
-<p>Jeffrey Epstein’s victims are no different from other abused children in the harm that was done to them. They are no different in the ways their abusers have been able to slough off their own guilt and responsibility, even to the present day. What is remarkable about these survivors is their courage and their determination to shift the responsibility and the shame for the heedless, damaging use and abuse of children back to where it belongs: to those who committed the crimes. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202604/sexual-assault-survivors-are-not-responsible-for-their" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202604/sexual-assault-survivors-are-not-responsible-for-their</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202604/sexual-assault-survivors-are-not-responsible-for-their</guid>
-            <dc:creator><![CDATA[Wendy B Smith Ph.D. LCSW]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-rdne-6003790.jpg?itok=e4wetcW6" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[6 Ways ADHD Can Hide Autism]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/Neff.png.jpg?itok=Gwf6BPp5" alt="Neff" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">6 Ways ADHD Can Hide Autism</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When one diagnosis becomes the whole story, autism can go unseen for years.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">ADHD's traits can leave autistic traits misattributed or missed, a process of diagnostic overshadowing.</li><li style="margin-bottom:6px;">Social struggles, sensory needs, and emotional responses to change can be misread through an ADHD-only lens.</li><li style="margin-bottom:6px;">Seeing both conditions clearly isn't about collecting labels, it's about having the right lens.</li>
-            </ul>
-          </div>
-                    <p>Many people who are both autistic and have ADHD, sometimes called AuDHD, spend years being understood through only one lens. ADHD tends to be visible, recognizable, and identified first. And once it's on the chart, it can become the frame through which everything else is explained.</p>
-<p>Social struggles get understood through the lens of "impulsivity" and "inattention." Sensory needs and stimming become "hyperactivity." Emotional distress around change becomes "poor frustration tolerance." None of these explanations is wrong, exactly, but when ADHD becomes the whole story, autistic traits can be overshadowed for years.</p>
-
-<p>This pattern came up again and again in a survey I conducted with over 700 AuDHD adults for my upcoming book, <a href="https://neurodivergentinsights.com/audhd-unlocked/"><em>AuDHD Unlocked</em></a>, years of partial recognition before the full picture came into view. Clinicians call this diagnostic overshadowing: when traits that could belong to multiple conditions get automatically attributed to the first diagnosis. <a href="https://pubmed.ncbi.nlm.nih.gov/30244604/">Research bears this out</a>: when ADHD is identified before autism, autism recognition is delayed by an average of 1.8 years, and closer to 2.6 years for girls.</p>
-
-<p>Here are six common ways this plays out.</p>
-<p><strong>1. Social behavior looks "ADHD enough."</strong></p>
-<p>A person who struggles socially — interrupting, talking over others, blurting things out — might be read as impulsive rather than autistic. Even when they're missing social cues and context cues or struggling to interpret others' emotions, this gets attributed to ADHD inattention. Once the ADHD frame seems to fit, clinicians, parents, and teachers often stop asking deeper questions, and more subtle social-communication differences fly under the radar.</p>
-
-<p><strong>2. Movement and sensory seeking get filed under hyperactivity.</strong></p>
-<p>Fidgeting, pacing, and constant motion are easily understood as hyperactivity. But the underlying sensory drivers—needing movement to regulate, seeking deep pressure or proprioceptive input—often go unnoticed. A child spinning, climbing, or seeking certain repetitive sensations might be seen as "overactive" rather than as someone whose sensory needs are deeply intertwined with autism.</p>
-
-<p><strong>3. Executive-function struggles are attributed solely to ADHD.</strong></p>
-<p>Difficulties with planning, transitioning, or shifting attention are classic ADHD presentations. But they can also be connected to autistic bottom-up processing differences and to sensory and cognitive overload, which make planning and shifting even harder. If ADHD is already on the chart, these struggles get explained through an executive-functioning lens alone, while the ways processing differences contribute remain invisible.</p>
-
-<p><strong>4. Emotional responses to change are misread.</strong></p>
-<p>Autistic distress around sudden change—shutdowns during transitions, rigid routines, intense reactions to schedule disruptions—can get framed as "emotional reactivity," something commonly associated with ADHD. When ADHD is the first label, these responses may be misread as behavioral issues rather than recognized as autistic responses to uncertainty and routine disruption. Sensory distress follows the same pattern. A child who melts down when someone tries to brush their hair might be seen as defiant rather than in genuine sensory distress.</p>
-
-<p><strong>5. Special interests get folded into ADHD hyperfocus.</strong></p>
-<p>Deep, focused interests may be chalked up to hyperfocus, without attention to how narrow, immersive, or regulating those interests truly are. A clinician might note "gets very absorbed in preferred activities" and attribute it to ADHD, but never ask how those interests function socially, emotionally, or sensorially—questions that are key to understanding autism.</p>
-
-
-<p><strong>6. Masking hides what's underneath.</strong></p>
-<p>Many AuDHD people become skilled at using ADHD strengths, such as humor, quick speech, storytelling, and sociability, to smooth over autistic social anxiety or confusion. On paper, this looks like "friendly, talkative ADHD." Underneath, the person is carefully scripting, rehearsing, and collapsing afterward from the effort.</p>
-
-<h2>Widening the Lens</h2>
-<p>In each of these scenarios, the ADHD lens captures something real, but not the whole picture. And when it becomes the whole story, you end up trying to support yourself with the wrong map. Strategies designed for half your nervous system. Years of "I should be able to do this" when the supports were never aligned with how your brain actually works.</p>
+<p dir="ltr">Every pilot needs success metrics. But success metrics without learning goals create theatrical successes that can't scale.</p>
+<p dir="ltr">Learning goals answer different questions: What do we need to discover to scale this? Which assumptions might be wrong? What capabilities must we build? These aren't nice-to-have additions to your success criteria—they're prerequisites for transformation.</p>
 
 
 
   
 
 
-<p>A later autism recognition helps widen the lens. It gives language to the sensory overwhelm, the shutdowns, the scripting, and the deep need for sameness that never quite fit ADHD on its own. That might look like combining ADHD-friendly external structure with autistic-centered sensory safety and predictability. Or revisiting past "treatment failures" not as personal flaws, but as mismatches between the support offered and the nervous system it was meant to serve.</p>
+<p dir="ltr">Frame learning goals as testable hypotheses. "We believe nurse managers will adopt AI scheduling if it reduces admin time by 20 percent" becomes testable. "We want to explore AI opportunities in health care" doesn't. This precision prevents pilots from becoming permanent science experiments.</p>
+<p dir="ltr"><strong>Phase 3: Time-Box Everything</strong> </p>
 
-<p>Bringing autism into view doesn't add another problem or pathology. it provides the context needed to know how to offer support. And for many people, it's the first time their full picture has been allowed to exist in the same story.</p>
+<p dir="ltr"><a href="https://www.economist.com/news/1955/11/19/parkinsons-law">Ruthlessly, Parkinson's Law </a>applies doubly to AI pilots—they expand to fill available time and budget. Without hard stops, experiments become permanent pilots, accumulating features but never scaling.</p>
+<p dir="ltr">Set three clocks for every pilot: </p>
+<ul>
+<li>
+<p dir="ltr"><strong>Learning Window </strong>(when we'll know if assumptions hold)</p>
+</li>
+<li>
+<p dir="ltr"><strong>Decision Window</strong> (when we'll vote to scale or stop)</p>
+</li>
+<li>
+<p dir="ltr"><strong>Integration Window</strong> (when scaled systems must be operational)</p>
+</li>
+</ul>
+
+<p dir="ltr">A telecom company enforced this through "graduation day"—every pilot had a prescheduled date to present scale/stop recommendations. Teams couldn't delay. Executives couldn't defer. This forcing function turns pilots into decisions.</p>
+<p dir="ltr"><strong>Phase 4: Build Scale Infrastructure in Parallel </strong></p>
+<p dir="ltr">The fatal flaw in most pilots: They build toy solutions for real problems. When success comes, they have to rebuild everything for scale. Momentum dies during reconstruction.</p>
+
+<p dir="ltr">Instead, decide in advance where you will build enterprise plumbing alongside your pilot. If the pilot needs data access, consider building production-grade APIs, not one-off connections. If it requires new skills, understand what it will take to scale training, not hero support. If governance matters, consider in advance where you will need to establish frameworks, and start unlocking those blockers before project completion.</p>
+
+<p dir="ltr">This may feel like over-engineering, but<a href="https://ieeexplore.ieee.org/document/6225984"> </a><a href="https://www.researchgate.net/publication/260649631_Estimating_the_Principal_of_an_Application&amp;apos;s_Technical_Debt">research on technical debt</a> shows the cost of retrofitting scale exceeds the cost of building it initially by 3 to 10 times. More importantly, pilots with scale infrastructure built in face fewer political barriers—they're already integrated with enterprise systems.</p>
+
+<p dir="ltr"><strong>Phase 5: Design for Viral Spread </strong></p>
+<p dir="ltr">Some innovations spread naturally. Others require force. Understanding the difference determines your scaling strategy.</p>
+<p dir="ltr"><a href="https://teddykw2.wordpress.com/wp-content/uploads/2012/07/everett-m-rogers-diffusion-of-innovations.pdf">Network research</a> identifies three factors that predict viral adoption: observable value (can others see the benefit?), trialability (can they test without commitment?), and social proof (are peers succeeding?).</p>
+
+<p dir="ltr">Design pilots to maximize all three.</p>
+<ul>
+<li dir="ltr">Make benefits visible through dashboards that everyone sees.</li>
+<li dir="ltr">Enable trial through self-service tools.</li>
+<li dir="ltr">Create social proof through peer testimonials, not executive mandates.</li>
+</ul>
+<p dir="ltr">One insurance company transformed its pilot into a "roadshow"—teams could request a two-week trial with full support. Seeing peers succeed mattered more than any executive mandate. Adoption spread organically to 80 percent of eligible teams within six months.</p>
+
+<h2>The Kill Decision That Creates Life</h2>
+<p dir="ltr">Not every pilot should scale. But organizations struggle with productive failure because<a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/loss-aversion/"> loss aversion</a> makes killing experiments feel like admitting waste.</p>
+<p dir="ltr">The healthiest organizations celebrate sunset decisions as learning victories. They archive insights, document barriers discovered, and share knowledge gained. In short, understanding that the majority of experiments <em>should</em> fail, they celebrate the useful ones over the successful ones.</p>
+
+<p dir="ltr">This isn't semantic gymnastics. It's recognizing that zombie pilots—experiments neither scaling nor dying—consume resources and attention that could fund real transformation. The discipline to end experiments matters as much as the ability to scale them.</p>
+<h2>Your Escape From Purgatory</h2>
+<p dir="ltr">The path out of pilot purgatory isn't about running better experiments. It's about building the architecture that turns experiments into transformation.</p>
+
+<p dir="ltr">Start by auditing your current pilots.</p>
+<ul>
+<li dir="ltr">How many have clear learning goals versus just success metrics?</li>
+<li dir="ltr">How many have coalition support beyond their immediate team?</li>
+<li dir="ltr">How many could scale tomorrow if the decision were made?</li>
+</ul>
+<p dir="ltr">Then apply the five-phase architecture to one strategic pilot—not your most successful, but your most scalable. Build the coalition, set the clocks, construct the infrastructure. Make it the template for everything that follows.</p>
+
+<p dir="ltr">The difference between organizations stuck in pilot purgatory and those achieving transformation isn't the quality of their experiments or the sophistication of their AI. It's the discipline to build bridges before you need to cross them.</p>
+<p dir="ltr">Because pilot purgatory isn't where experiments go to die. It's where transformations go to hide from the hard work of actually changing.</p>
+
+<p dir="ltr">The escape route exists. The question is whether you'll take it.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-neurodivergent-psychologist/202603/6-ways-adhd-can-hide-autism" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/decisions-decisions/202604/how-to-move-beyond-the-ai-pilot" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-neurodivergent-psychologist/202603/6-ways-adhd-can-hide-autism</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-neurodivergent-psychologist/202603/6-ways-adhd-can-hide-autism</guid>
-            <dc:creator><![CDATA[Megan A. Neff Psy.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/decisions-decisions/202604/how-to-move-beyond-the-ai-pilot</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/decisions-decisions/202604/how-to-move-beyond-the-ai-pilot</guid>
+            <dc:creator><![CDATA[Jonathan Brill]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-03/Depositphotos_39645177_L.jpg?h=8f2aa541&amp;itok=PXcvBiRZ" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-gustavo-fring-4872018.jpg?itok=8Wy_ljna" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How Co-Parenting Apps Can Reduce Conflict for Co-Parents]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-04-29_at_2.11.47_pm.jpg?itok=klpCoXeC" alt="Lisa Zeiderman Esq., CFL" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Co-Parenting Apps Can Reduce Conflict for Co-Parents</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Replace your high-conflict texts with centralized, digital records.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why 'Optimizing' Motherhood Is Destroying Your Mental Health]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/Kathleen-Chapin.jpg?itok=LNKYBe71" alt="Katie Chapin LCSW, MCAP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Productivity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why 'Optimizing' Motherhood Is Destroying Your Mental Health</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to resist the productivity culture and find freedom in motherhood.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Using a shared calendar and communication system can reduce co-parenting stress.</li><li style="margin-bottom:6px;">Custody apps offer a structured environment that encourages respectful communication.</li><li style="margin-bottom:6px;">Courts frequently rely on well-documented records when evaluating disputes, so apps can support you legally.</li><li style="margin-bottom:6px;">Remember to lean on your team of legal and mental health professionals for advice tailored to your situation.</li>
+              <li style="margin-bottom:6px;">Constant pressure to “do it all” creates chronic stress and emotional overwhelm.</li><li style="margin-bottom:6px;">The drive to over-function is linked to increased stress and negative physical health outcomes.</li><li style="margin-bottom:6px;">Modern motherhood often requires one person to fulfill roles that historically belonged to a “village.”</li><li style="margin-bottom:6px;">Social media, workplace demands, and post-COVID expectations reinforce an unattainable standard.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/lz_coparenting_apps___lipik_stock_media_for_canva_pro.jpg?itok=Ytt_b7hP" width="320" height="180" data-insert-type="image" alt="Many platforms include tools that analyze the tone of messages before they are sent, helping users avoid language that could escalate tensions." title="Lipik Stock Media / Canva Pro"></div>
-<div class="caption">Many platforms include tools that analyze the tone of messages before they are sent, helping users avoid language that could escalate tensions.</div>
-<div class="insertArea--origin subtext">Source: Lipik Stock Media / Canva Pro</div>
-</div>
-</div>
-</div>
-<p dir="ltr">Even in the most amicable separations, divorce reshapes the emotional and logistical landscape of a family. When children are involved, the complexity increases: Schedules must be coordinated, decisions must be shared, and communication must continue. In high-conflict situations, these demands can quickly become overwhelming.</p>
+                    <p>I am a mom to young children, a fact social media seems well aware of. My feed is a constant flood of ways to structure my child’s wake windows, cook whole-food meals for my picky toddler, and get back in shape post-baby—all while working a full-time job and curating my toddler’s bespoke wooden toy collection. Optimization culture is trashing our mental health, and we need to resist it at all costs.</p>
 
-<p dir="ltr">In my family law practice, I have seen firsthand how technology, specifically custody apps, can help bring structure, clarity, and civil communication to co-parenting arrangements that might otherwise feel unmanageable.</p>
-<h2>A Centralized System for Communication and Scheduling</h2>
-<p dir="ltr">Custody apps provide a single, organized platform where parents can manage parenting time, exchanges, and day-to-day logistics. Instead of relying on fragmented email threads or text messages, co-parents can access a shared calendar and communication system that keeps everything in one place.</p>
+<p><strong>Just Because You Can Doesn’t Mean You Should</strong></p>
+<p>If it were just social media, it would be much easier to swear off, but it is not; it is like the air we breathe. It comes from our employers, our family, and horrible people with podcast equipment—this overwhelming feeling of needing to optimize, to always be doing more. Some of us do very well at this; clients I work with identify themselves as perfectionists. In its most severe form, it is obsessive-compulsive personality disorder. Many of my clients fit the <a href="https://www.ncbi.nlm.nih.gov/books/NBK597372/">diagnostic criteria</a> and suffer as a result; others are “over-functioners” fueled by an overwhelming need to please (and probably a gallon of coffee). These women do it all. For those of you who have been forced to watch <em>Bluey</em> by your toddler, it is like a never-ending game of “keepy uppy.” The balloon must always remain in the air, no matter what, and at any cost.</p>
 
-<p dir="ltr">A proposed schedule change, for example, is no longer lost in a string of texts. It is recorded, visible, and easily referenced in the same place.</p>
-<p dir="ltr">Many custody apps also offer expense-tracking features, which can be particularly useful for costs explicitly addressed in a settlement agreement—such as camp, extracurricular activities, orthodontics, unreimbursed medical expenses, or tutoring. By documenting these expenses as they arise, parents can avoid disputes later. The apps also allow you to show a parent’s pro-rata sharing of the expenses so that accurate records can be maintained. </p>
+<p>And the costs are quite high. Research has shown that individuals high in perfectionism are at increased risk for negative health outcomes, including chronic illness and pain conditions, largely due to heightened stress responses (Molnar and colleagues, 2018; Sirois and Molnar, 2012). This is because the game of “keepy uppy” is flooding your brain with stress hormones, keeping you on alert all the time (Molnar and colleagues, 2018). Your body is on high alert; it is no wonder it would eventually start to attack itself.</p>
 
-<h2>Ensuring a Respectful Tone</h2>
-<p dir="ltr">For co-parents in high-conflict situations, minimizing direct and emotionally charged communication can be critical. Custody apps provide a structured environment that encourages more measured interactions.</p>
-<p dir="ltr">Many platforms include tools that analyze the tone of messages before they are sent, helping users avoid language that could escalate tensions. While no technology can eliminate conflict entirely, these features can promote more thoughtful, less reactive communication. Remember: The court is going to judge the way you communicate with your co-parent. So an app that helps you communicate respectfully can be “priceless.”</p>
+<p>Even if you can do it all, that does not mean you should. And if you do, there is likely a price to pay.</p>
+<p>And if you can’t, it is probably because the game is rigged.</p>
+<p>Since the COVID-19 pandemic, there has been a notable increase in ADHD diagnoses, particularly among young adults and women of childbearing age (Auro and colleagues, 2024). I would argue that there are several factors here, one of which is the shift in expectations that came following the pandemic. Women were expected to work while being a teacher, full-time mom, maid, and activity director—24/7. When restrictions lifted, what was left behind was a set of unrealistic expectations and a rapidly growing group of influencers and advertisers with a built-in pain point—everyone else can do it all, why can’t you? Maybe you need a new planner, a new journal, or a new organization system, and if that doesn't work, maybe your brain doesn’t work right. I am not saying that women have not been underdiagnosed<a href="https://www.nature.com/articles/d41586-026-00098-7"> with ADHD historically</a>, nor am I saying that women on these medications are misdiagnosed; I am just saying the game is rigged.</p>
 
-<h2>Creating a Clear, Objective Record</h2>
-<p dir="ltr">One of the most significant benefits of custody apps is the creation of a reliable, time-stamped record of communication and decision-making. From a legal perspective, this can be invaluable.</p>
-<p dir="ltr">Disputes often arise over seemingly small details—who was responsible for a pickup, whether a schedule change was agreed upon, or how holiday time was allocated. When these issues are documented in a centralized platform, there is far less room for disagreement about what actually occurred.</p>
+<p>I have so many clients who struggle because they are <a href="https://www.parents.com/12-signs-you-might-be-a-type-b-mom-11897792#:~:text=Type%20B%20moms%20take%20a%20relaxed%2C%20flexible,than%20adhering%20to%20a%20specific%20parenting%20style.">“type B”</a> parents and want to have the structured, clean, and tantrum-free lives they see on the internet. They see this as a personal failing, but I don't. Motherhood was never meant to be a single person (usually the mother) playing all of the roles. Throughout history, we had a village, and now women are expected to do this essentially alone, with the help of a tribe of internet “mamas” letting you know that screen time is rotting your child’s brain and that if your snacks have sugar, then you have failed as a mother. </p>
 
-<p dir="ltr">Courts frequently rely on clear, contemporaneous records when evaluating disputes. Having this documentation readily available can help resolve conflicts more efficiently, often reducing both the emotional and financial toll on families.</p>
-<p dir="ltr">It is for this reason that many custody agreements now include provisions requiring the use of these apps.</p>
+<p><strong>How Do We Resist Optimization?</strong></p>
+<p><strong>Manage expectations and understand where they come from:</strong> One of my favorite techniques in session is to ask, “Where did you get that?” When a client says, “If I am not making the most of my mornings, then my day is a waste.” I ask, "Where did you get that? The internet? Your mother-in-law? You in your 20s before you had kids?" Resisting optimization culture means understanding expectations and uncovering the messaging that drives them.</p>
 
-<h2>A Tool, Not a Substitute</h2>
-<p>While custody apps can be highly effective in reducing stress and improving communication, they are not a substitute for sound legal advice or, when appropriate, support from mental health professionals.</p>
-<p dir="ltr">The right app will depend on each family’s specific needs and dynamics. What matters most is consistency in use and a shared commitment to keeping communication focused, respectful, and centered on the best interests of the children.</p>
+<p><strong>Zoom out and focus on values:</strong> Value clarification work is like a roadmap to a life well-lived, and without that map, it can be really easy to get off course. Take some time to think about the values that are actually important to you. You are not going to be able to do it all. What actually matters? For our family, time outside and dinner at the table are important for our values of connection to the natural world and connection to each other. These are the things we prioritize.</p>
 
+<p><strong>This time is short:</strong> This statement can bring up a lot of guilt, but I say this to set you free. If you have young babies, your entire identity has shifted, and you might be trying to claw back some sense of yourself. We optimize. We feel we have to use time well and not waste these precious moments. I would argue that presence is more important than productivity. Focus on the overall feeling rather than the goals to be accomplished. At the end of a weekend, your house may be a mess, and you may be ordering pizza, but how do you feel? Were you able to show up for yourself? For your kids? That is what matters.</p>
 
-<p dir="ltr">As always, please take care of yourself and your children during this stressful time.</p>
-<p dir="ltr"><em>Note: This article is for informational purposes only and is not intended as legal or mental health advice. Every family situation is unique. Individuals should consult with a qualified attorney or mental health professional in their area for guidance specific to their circumstances.</em></p>
+<p>Overall, we need to shift how we see early motherhood. Some basic mantras to remember—be intentional, not optimized; focus on presence over productivity; how you feel is more important than how things look</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/legal-matters/202604/how-co-parenting-apps-can-reduce-conflict-for-co-parents" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/maternal-mental-health/202604/why-optimizing-motherhood-is-destroying-your-mental-health" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/legal-matters/202604/how-co-parenting-apps-can-reduce-conflict-for-co-parents</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/legal-matters/202604/how-co-parenting-apps-can-reduce-conflict-for-co-parents</guid>
-            <dc:creator><![CDATA[Lisa Zeiderman Esq., CFL]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/maternal-mental-health/202604/why-optimizing-motherhood-is-destroying-your-mental-health</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/maternal-mental-health/202604/why-optimizing-motherhood-is-destroying-your-mental-health</guid>
+            <dc:creator><![CDATA[Katie Chapin LCSW, MCAP]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/lz_coparenting_apps___lipik_stock_media_for_canva_pro.jpg?itok=ZW5pCwDa" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 Amazing Ways You Can Re-Parent Yourself]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jonice_webb.png.jpg?itok=Ks8xqhUh" alt="Jonice Webb Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Amazing Ways You Can Re-Parent Yourself</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to build the inner support you may not have received growing up.</h2><p style="font-size:0.9em;color:#666;">Posted April 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The emotional lessons you missed in childhood can still be learned in adulthood.</li><li style="margin-bottom:6px;">Compassionate responsibility helps you learn from mistakes without attacking yourself.</li><li style="margin-bottom:6px;">Self-discipline is a learned skill, not a sign of strength or weakness.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/adobestock_1428337201.jpeg.jpg?itok=O6Htagot" width="320" height="179" data-insert-type="image" title="Karen/Adobe Stock" alt="Karen/Adobe Stock"></div>
-<div class="insertArea--origin subtext">Source: Karen/Adobe Stock</div>
-</div>
-</div>
-</div>
-<p dir="ltr">Have you ever noticed yourself reacting to a small error with surprising intensity?</p>
-<p dir="ltr">Maybe you said something awkward, forgot an obligation, or handled a situation poorly. Hours later, you are still replaying it, criticizing yourself far more harshly than you would ever judge someone else.</p>
-<p dir="ltr">Or perhaps, it shows up differently. You know what you should do, but you can’t seem to make yourself do it. Or you move through life with a quiet sense that something is missing, even when things appear fine on the outside.</p>
-
-<p dir="ltr">These struggles often have less to do with who you are and more to do with what you missed out on while growing up. If your parents didn’t understand emotions, they may not have taught you how to handle mistakes, impulses, or emotions. The good news is that you can learn now what your parents couldn’t teach you by re-parenting yourself.</p>
-
-<h2>The First Way—Compassionate Responsibility</h2>
-<p>In my office, I’ve heard stories of broken phones, punched walls, and even bent steering wheels. All in the name of anger. </p>
-<p dir="ltr">At themselves. </p>
-<p dir="ltr">For making a mistake.</p>
-<p><strong>What You Didn’t Get</strong></p>
-<p dir="ltr">When a parent sits with a child after a mistake and says, “Let’s figure out what happened,” that parent is teaching their child compassionate responsibility.</p>
-
-<p dir="ltr">But many parents don’t know that it’s their role to teach this: how to sift through what happened and sort out what part of it belongs to circumstances, and what part belongs to the child. What can we learn from this? What should you do differently next time? </p>
-<p dir="ltr">This balance matters. The child is held accountable, but also understands himself and his mistake with compassion. Without this, mistakes can feel much bigger than they are.</p>
-
-<p><strong>What to Give Yourself</strong></p>
-<p dir="ltr">If your parents were too hard, too lenient, or simply didn’t notice your mistakes, it’s not too late for you. You can learn compassionate responsibility now.</p>
-<p dir="ltr">. Follow these steps when you make a mistake.</p>
-<ol>
-<li dir="ltr">Remind yourself that you are human. Humans make mistakes.</li>
-<li dir="ltr">Think through the situation. What part belongs to you? What can you learn?</li>
-<li dir="ltr">Have compassion for your humanness: your stress level, your limits in that moment.</li>
-<li dir="ltr">Decide what you will do differently next time and allow yourself to move on.</li>
-</ol>
-
-<h2 dir="ltr">The Second Way—Self-Discipline</h2>
-<p dir="ltr">We are not born knowing how to manage our impulses. Self-discipline is supposed to be learned in childhood.</p>
-<p><strong>What You Didn’t Get</strong></p>
-<p dir="ltr">When parents set limits and follow through with consistency and care, they are teaching their children how to do this internally. Do your homework before you go out to play. Finish your responsibilities even though you don’t want to. Balanced, fair requirements enforced with care by your parents teach you how to do this for yourself.</p>
-
-<p><strong>What to Give Yourself</strong></p>
-<p dir="ltr">If you struggle with self-discipline, it does not mean that you are weak. It only means you were not taught how to build it. You can begin now.</p>
-<ol>
-<li dir="ltr">Stop blaming yourself. Harsh self-judgment makes it harder to follow through.</li>
-<li dir="ltr">Notice your patterns. If you are too hard on yourself at times, at other times you may go too far in the opposite direction. Both extremes can keep you stuck.</li>
-<li dir="ltr">Instead, begin applying compassionate responsibility to these moments. Hold yourself accountable, but stay on your own side as you do.</li>
-</ol>
-
-
-<h2 dir="ltr">The Third Way—Learn to Love the Real You</h2>
-<p dir="ltr">We learn to love ourselves in childhood when things go well. When a parent truly sees and knows a child, that love becomes the child’s own self-love.</p>
-<p><strong>What You Didn’t Get</strong></p>
-<p dir="ltr">We tend to assume that if our parents loved us, that’s enough. But there are different kinds of love. There is the general kind: “Of course, I love you. You’re my child.” Then there is a deeper kind. This is the love of a parent who really watches the child, really sees and knows the child, and really loves the child for who he or she truly, deeply is.</p>
-
-<p dir="ltr">Most people receive at least some of the first type of love. Far fewer receive the second type. Do you feel that your parents truly know the real you? Do they love you for who you are? Do you love yourself this way? Truly and deeply?</p>
-<p><strong>What to Give Yourself</strong></p>
-<p dir="ltr">You can begin giving yourself this deeper kind of love.</p>
-
-
-
-  
-
-
-<ol>
-<li dir="ltr">Accept that it’s not your fault that your parents couldn’t love you in the way you needed.</li>
-<li dir="ltr">Start paying more attention to yourself. Who are you? What do you love and hate, like and dislike, care about, feel, and think? These are the aspects of you that make you who you are.</li>
-<li dir="ltr">Pay special attention to what’s good about you. Make a list and keep adding to it. Are you a loyal friend? A hard worker? Dependable? Caring? Honest? Write down everything that occurs to you, even if it’s very small. Reread the list often. Take these qualities in and own them. They are you.</li>
-</ol>
-
-<p dir="ltr">Growing up with mostly Type 1 love can have a far more serious impact than you think. It’s a form of childhood emotional neglect and is highly correlated with not learning compassionate responsibility and self-discipline. </p>
-<h2 dir="ltr">What You Can Begin Giving Yourself Now</h2>
-<p dir="ltr">If you recognize yourself in any of this, you may feel a mix of emotions. Relief. Sadness. Doubt. All of that is part of the process.</p>
-
-<p dir="ltr">But something important may begin to happen.</p>
-<p dir="ltr">The voice that criticizes you can slowly become a voice that guides you. The battle with self-discipline can begin to feel more like a skill that you are learning. And the sense of not fully knowing or loving yourself can begin to shift as you learn to see and value the person that you really are.</p>
-
-<p dir="ltr">In other words, whatever gaps you brought forward from your childhood do not have to remain with you. You can give yourself what you never got and start filling up those empty spaces now.</p>
-<p dir="ltr">A version of this post also appears on <a href="https://drjonicewebb.com/three-amazing-ways-you-can-re-parent-yourself/">emotionalneglect.com</a></p>
-<p dir="ltr">© Jonice Webb, Ph.D.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/childhood-emotional-neglect/202604/3-amazing-ways-you-can-re-parent-yourself" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/childhood-emotional-neglect/202604/3-amazing-ways-you-can-re-parent-yourself</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/childhood-emotional-neglect/202604/3-amazing-ways-you-can-re-parent-yourself</guid>
-            <dc:creator><![CDATA[Jonice Webb Ph.D.]]></dc:creator>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/adobestock_1428337201.jpeg.jpg?itok=hk3wOf3l" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/baby-marosbauershutterstock_175900637.jpg?itok=4m6awwo6" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
