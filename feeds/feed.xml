@@ -4,213 +4,201 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 17:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 19:11:18 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 17:22:16 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 19:11:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[AI and the Unintended Self]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/john_nosta.png.jpg?itok=SIw4PGFR" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI and the Unintended Self</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How artificial intelligence reshapes the mind that uses it.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Artificial intelligence's deepest impact may be on the self, not society.</li><li style="margin-bottom:6px;">Repeated use of AI trains the mind to outsource thinking before it begins.</li><li style="margin-bottom:6px;">The real risk may not be machine dominance, but our human agency becoming optional.</li>
-            </ul>
-          </div>
+            <title><![CDATA[Are We Moving From Cognitive to Relationship Offloading?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/IMG_1313-removebg-preview.jpg?itok=ObbAdNW8" alt="Cornelia C. Walther Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are We Moving From Cognitive to Relationship Offloading?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The dark side of the Zuckerberg bot.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/geralt-psychology-2709651.jpg?itok=3ePLudXo" width="320" height="213" data-insert-type="image" title="Gerd Altmann / Pixabay" alt="Gerd Altmann / Pixabay"></div>
-<div class="insertArea--origin subtext">Source: Gerd Altmann / Pixabay</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatgpt_image_apr_23__2026__05_12_27_pm.png.jpg?itok=BXrRtfmr" width="320" height="256" data-insert-type="image" alt="Relationship offloading is new, strange phenomenon. Reaching beyond cognitive offloading it carries a whole different order of risk." title="Walther. ChatGTP. 2026"></div>
+<div class="caption">Relationship offloading is new, strange phenomenon. Reaching beyond cognitive offloading it carries a whole different order of risk.</div>
+<div class="insertArea--origin subtext">Source: Walther. ChatGTP. 2026</div>
 </div>
 </div>
 </div>
-<p>Every transformative technology arrives with a promise. The internet promised newly found connectivity and a democratization of knowledge. And yes, it delivered those things, and then it delivered something else entirely. Attention became fractured, and identity became performative. The internet didn't just change what we could do. It changed the social conditions in which we lived. And perhaps most notably, many of these changes came in the form of unintended consequences.</p>
+<p dir="ltr">Something shifted last week inside a corporate compound in Menlo Park. Meta has begun building a 3D, photorealistic <a href="https://www.euronews.com/next/2026/03/24/mark-zuckerberg-is-building-an-ai-bot-to-help-run-meta-and-remain-competitive-in-ai">AI persona of Mark Zuckerberg</a>, trained on his voice, mannerisms, public statements, and strategic thinking. The intent is to give employees direct, on-demand access to their CEO. Or rather, to a convincing simulacrum of him. Simultaneously, a separate CEO agent handles Zuckerberg's own information retrieval, collapsing the management layers that ordinarily stand between a leader and raw data. Two bots. One wearing a founder's face, the other running on his behalf. Welcome to the new org chart.</p>
 
-<p>Artificial intelligence (AI) may follow a similar path, but at a different depth. The internet reshaped society. AI may reshape the self.</p>
-<p>History gives us a key lesson. Technologies rarely stay confined to their initial purpose. They enter human systems with one set of intentions and unfold through a tangle of habits and adaptations that nobody fully controls. The real story often begins after adoption, when side effects become inculcated into ordinary life.</p>
+<p dir="ltr">The efficiency argument is seductive. Meta employs roughly 75,000 people. Meaningful guidance from a single human being at that scale is structurally impossible. An AI persona calibrated to Zuckerberg's reasoning could, in theory, give every staff member the sensation of a direct line to strategic intent. Flatter hierarchies, faster decisions, higher throughput. As Zuckerberg said on a recent earnings call, "We're elevating individual contributors and flattening teams." The bot is the infrastructure for that ambition. Employees already use "<a href="https://qz.com/meta-ai-mark-zuckerberg-employees-character-041326">My Claw</a>," a personalized AI agent that accesses files and communicates with colleagues autonomously, and "Second Brain," a document-retrieval system. The AI Zuckerberg is the apex node of this emerging human-machine network — the highest-level manager in a system where most managers are algorithms. Let's pause there…</p>
 
-<p>With the internet, those effects played out in public. We saw them everywhere—from politics to our personal lives. But AI is different. Its influence is more, dare I say, intimate. It doesn't change how information moves across society. It changes how language and thought show up inside a life. It meets us at the level of cognition itself.</p>
+<h2 dir="ltr">From the delegation of thought to the transfer of emotions? </h2>
+<p dir="ltr"><a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202602/are-we-cruising-toward-cognitive-capitulation">Cognitive offloading </a>— delegating memory, calculation, and decision support to machines — has been studied, debated, and broadly accepted as an increasingly common feature of modern intellectual life. GPS, calendars, search engines: We extend our minds beyond biological limits and accept the trade-offs. The risks are documented: gradual erosion of navigational sense, weakened memory consolidation, narrowed tolerance for ambiguity—sadly familiar territory.</p>
 
-<h2>Convenience Meets Psychology</h2>
-<p>Most people approach AI for reasonable reasons. Speed, fluency, and polish—utilities that are real. But my sense is that usefulness has a way of slipping into dependence, especially when AI operates so close to thinking.</p>
-<p>And here's a fascinating insight. The deepest effect of a technology may not simply be what it helps us do, but what it teaches us to stop doing.</p>
+<p dir="ltr">Relationship offloading is newer and stranger, and carries a different order of risk. When we delegate relational presence — the authority, warmth, and contextual attunement of a human being — to a machine trained on that person's outputs, we are doing something cognitive offloading never quite reached: We are outsourcing the human encounter itself. <a href="https://www.nature.com/articles/s41599-025-04532-5">Research</a> shows that as AI becomes more personalised and agentic, users form genuine socio-affective bonds that shape behaviour, well-being, and autonomy in ways that passive para-social relationships with celebrities never managed — because AI talks back. (This bidirectional dynamic is one of the reasons why the comparison of AI as just another technology<a href="https://www.scientificamerican.com/article/ai-can-transform-the-classroom-just-like-the-calculator/"> like the calculator </a>fails.) The bond feels mutual. But let's face it – it is not.</p>
 
-<p>Think about the blank page or a half-formed idea. The friction here is the work. It forces the thought into a structure it may not have found otherwise. With AI, that blank page is transformed with the ease of a prompt, and then, the cognitive relief is immediate.</p>
-<p>So, what happens when uncertainty no longer drives reflection, but reaches instead for an answer? When the first impulse is to externalize a thought and wait for AI to return its polished response? At first, this feels like support, but over time, it may become substitution or even submission. </p>
+<h2>The underpinning mechanics </h2>
+<p dir="ltr">An employee messages the Zuckerberg bot. Receives feedback calibrated to his known reasoning style. Feels seen, feels aligned. The interaction is frictionless. It's also weightless — no real accountability, no genuine judgment call with actual stakes on the other side. Emotional dependencies on AI companions can mirror the <a href="https://www.sciencedirect.com/science/article/pii/S2451958825003276">dynamics </a>of unhealthy human relationships, contributing to anxiety and eroded capacity for social repair. Scale this across an organisation of 75,000. Then across the internet, where Meta's AI Studio already allows creators to deploy AI versions of themselves for their audiences — a programme that eventually had to block teenagers after sexually explicit personas proliferated. The architecture of relationship offloading is already live.</p>
 
-<p>AI may carry consequences that the internet did not. The internet changed the environment around thought. AI enters the process of thought itself.</p>
-<h2>The Erosion From the Inside</h2>
-<p>Much of human development depends on activities that, much to our chagrin, are slow and uncomfortable. These are not inefficiencies but are part of how our judgment takes shape.</p>
+<p dir="ltr"><strong>The crystallisation of four risks:</strong></p>
+<ul>
+<li dir="ltr"><a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202505/what-is-agency-decay">Agency decay</a>: the gradual transfer of judgment and direction to systems that simulate the human but carry none of its uncertainty or genuine stakes.</li>
+<li dir="ltr"><a href="https://www.forbes.com/sites/corneliawalther/2025/01/15/the-abcd-of-silent-ai-issues-------4-opportunities-in-disguise/">Bond erosion</a>: the thinning of authentic connection as simulated warmth substitutes for the friction that actually builds trust.</li>
+<li dir="ltr">Power asymmetry: one person gets an infinitely scalable relational presence while millions of interlocutors receive a reflection of his thinking with no reciprocal window into theirs.</li>
+<li dir="ltr">Consent ambiguity: most people interacting with an AI persona will not, in any deep sense, know what they are engaging with or what data shapes the performance. Psychologists have already noted how AI-driven parasocial bonds outpace our ability to regulate them — especially among adolescents, for whom the line between simulated and real connection is genuinely unstable.</li>
+</ul>
 
-<p>AI offers a seductive compression of this process. It can collapse the distance between question and answer, between intention and articulation and the path for human imagination. And that compression can be liberating. My concern is what happens when it becomes the default—when <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202512/watching-intelligence-lose-its-friction">frictionless assistance</a> replaces the resistance that made thinking generative in the first place. And the personal labor of forming a thought gets replaced by the more frictionless act of selecting one. </p>
+<h2>The Antidote: Double Literacy for Hybrid Intelligence</h2>
+<p dir="ltr">A central countermove is <a href="https://www.forbes.com/sites/corneliawalther/2025/07/09/why-we-need-double-literacy-to-life-in-a-hybrid-world/">double literacy</a>. This covers, on the one hand, human literacy, the cultivation and understanding of natural human intelligence across its emotional, aspirational, cognitive, and embodied dimensions, which gives us the internal reference point to notice when a relationship feels off, when a response is too smooth, when our own critical faculty has gone quiet. Algorithmic Literacy, on the other hand — critical, informed engagement with how AI systems are built, trained, and deployed — gives us the tools to interrogate what a bot is actually doing when it speaks in someone's voice. Together, these two strands form double literacy: the irreducible foundation of <a href="https://knowledge.wharton.upenn.edu/article/why-hybrid-intelligence-is-the-future-of-human-ai-collaboration/">hybrid intelligence</a>.</p>
 
-<p>Authorship is about formation as much as ownership. The process of finding words often changes the thinker doing the finding. A sentence is sometimes more than just an expression. It's evidence that a mind has gone somewhere, traversed a cognitive landscape and returned altered. When language arrives before the struggle, that alteration may not occur at all. </p>
+<p dir="ltr">Hybrid Intelligence arises from the complementarity of natural intelligence and artificial intelligence, with human agency as the non-negotiable axis. It is curated, maintained, and defended through double literacy. Technology may be able to simulate human presence, yet the sore word remains “simulate.” No matter how tempting the lure of delegating cumbersome conversations or lengthy discussions may be, we should remain radically honest with ourselves: We owe each other more than simulation could ever carry. </p>
 
-<p>Speed, expectation, and tolerance for ambiguity form a precarious triad. Separately, each seems rather benign. Together, and trained into habit, they begin to describe a mind that moves, in a curious way, ahead of itself. AI trains us to expect an answer before we've fully formed the question. It trains us to accept a powerful level of coherence that arrives without the human thought of earning it. </p>
+<p dir="ltr">Investing in double literacy, from preschools to workplaces, carried by policy and programmatic investments, is one structural answer to the structural risk. Without it, the default trajectory runs from conscious human-machine partnerships toward artificial substitution, one smooth interaction after the next.</p>
 
 
 
   
 
 
-<h2>What Follows From That</h2>
-<p>Think about the technological changes that emerge slowly, then suddenly feel normal. The internet's unintended consequences changed the culture around us. AI's unintended consequences may change the habits within us.</p>
-<p>For me, the question is no longer just what AI can do. It's what repeated use does to the person using it. Does it deepen judgment or slowly displace it? Does it support thought or arrive just ahead of it, preempting the effort that makes thought genuinely one's own?</p>
+<h2>The A-Frame: 4 practical takeaways </h2>
+<p dir="ltr"><strong>Awareness:</strong> Notice which of your interactions are already mediated by AI personas — bots built on real people, customer service agents voiced with warmth that belongs to no one. Naming the phenomenon is the first act of resistance.</p>
+<p dir="ltr"><strong>Appreciation:</strong> Recognise what you value in human interaction: unpredictability, genuine stakes, the possibility of being changed by the encounter. These qualities cannot be replicated. Cherish their irreplaceability before their absence becomes routine.</p>
 
-<p>These aren't technical questions; they're psychological ones. And the real caution belongs not in dystopian fantasies of machine domination but in the possibility that a technology built to assist human cognition may gradually alter the fundamentally human experience of having a mind.</p>
-<p>The internet changed the social world. AI may do something more intimate. It may begin to change the interior conditions of being a self—not by taking agency away, but by subtly making it optional.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202604/ai-and-the-unintended-self" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202604/ai-and-the-unintended-self</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202604/ai-and-the-unintended-self</guid>
-            <dc:creator><![CDATA[John Nosta]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/geralt-psychology-2709651.jpg?itok=9xhMrzd5" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Harm OCD Involves Pets]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/_MG_3705-removebg-preview.jpg?itok=8E_bJx1Q" alt="Renata Roma Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">OCD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Harm OCD Involves Pets</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How what we fear shapes how obsessive-compulsive disorder is felt and managed.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">OCD is not defined by the theme of the thoughts but by how they are experienced and responded to.</li><li style="margin-bottom:6px;">Different themes may reflect distinct meanings, values, and perceived responsibilities.</li><li style="margin-bottom:6px;">Less is known about how these dynamics may unfold when obsessions involve pets.</li>
-            </ul>
-          </div>
-                    <p>Recently, I came across a situation in clinical practice that made me think about harm obsessive-compulsive disorder (OCD) involving pets. As is commonly observed in these cases, the situation involved a pet guardian with intrusive thoughts about hurting their pet, without a real intention of hurting the animal. Not only in this case, but also in general, this type of thought often comes with intense distress. Why do these thoughts feel so distressing, and why do they sometimes involve pets?</p>
-
-<h2>What Is Known About Harm-Related OCD</h2>
-<p>OCD is a condition often misunderstood, particularly when it involves thoughts about harm. Importantly, in these cases, the intrusive thoughts about harming someone are egodystonic. This means they are not aligned with the individual’s real intention and values. In addition, they often focus on topics that the individual values and considers meaningful in their lives, which is why they are so distressing. To avoid distress and other uncomfortable feelings, the individual may engage in a variety of compulsions, such as listing reasons why they would not act on their thoughts, rituals, or seeking constant reassurance.</p>
-
-<p>The treatment involves understanding these patterns, finding different ways of responding to intrusive thoughts, and breaking the cycle of engaging in behaviours that increase their intensity over time. Exposure and response prevention (ERP) is one of the most effective approaches for this condition, as it helps people gradually face these situations in small steps and relate to their thoughts in a more balanced way.</p>
-
-<p>Although the therapeutic approach to supporting clients with OCD is not focused on the specific content of the obsessive thoughts, understanding how the client engages with the content is relevant. In this context, the content may affect the intensity of the fear, the shame often presented in these cases, and the relationship with the target of the obsessions.</p>
-
-<h2>The Impact of the Content</h2>
-<p>In treatment, the focus is not on interpreting the content, as it would mean engaging even more in the OCD cycle. However, <a href="https://www.bmj.com/content/392/bmj-2024-083443">research</a> in this field has suggested that the content is relevant to understanding the impact of OCD on the individual’s life. For example, when thoughts focus on one’s child, they tend to come with doubts about being a good caregiver, a heightened sense of responsibility, and avoidance of situations such as being alone with the child or engaging in caregiving tasks. This, in turn, can lead to feelings of guilt and a strong moral fear.</p>
-
-<p>When the thoughts are directed toward oneself, they are commonly accompanied by an intense fear of losing control, a need to be monitored, and intense anxiety. There are, of course, variations, and these patterns are not rigid. However, understanding how each individual engages with these thoughts helps identify feared stimuli and informs the design of exposure tasks that are context-specific and clinically meaningful.</p>
-
-<h2>The Relevance of Understanding the Human-Animal Bond</h2>
-<p>When harm OCD involves pets, understanding what the bond with the animal represents becomes clinically relevant. In this sense, when clinicians have familiarity with the impact of the human-animal bond, they are better equipped to explore how the nature of the bond influences the way OCD is experienced.</p>
-
-
-<p>Besides being attachment figures, pets are often perceived as dependent and unable to protect themselves. It is possible that strong pet attachment is linked to a greater sense of responsibility toward the pet, which may intensify harm-related fears or intolerance to risks. Another aspect that may be relevant to explore is related to pets’ interaction style. For instance, the fact that pets do not verbalize their perceptions might contribute to the intensity of the symptoms. To be more precise, the lack of verbal feedback from the pet can potentially lead to ongoing doubt and persistent uncertainty.</p>
-
-<p>Considering that difficulties in dealing with uncertainties are a key component in OCD, understanding the particularities of pet-related harm OCD can inform clinicians about factors that may play a role in the maintenance of the OCD cycle. The differences may be about not only intensity but also about the specific meaning attributed to the harm.</p>
-
-
-
-  
-
-
-<p>The relational context, including pet attachment patterns, might also shape the interpretation of harm-related thoughts. Drawing on the literature on <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9441033/">pet attachment</a>, one possible venue to be explored is the impact of these patterns on the ways individuals relate to their thoughts.</p>
-<p>In this sense, it may be helpful to explore, for example, whether individuals with anxious attachment tendencies might be more likely to interpret their thoughts as a signal of real risk to their pet. In contrast, those with more secure attachments might be more likely to tolerate uncertainty and manage distress, which is clinically relevant.</p>
-
-<h2>Clinical Considerations in Pet-Related Harm OCD</h2>
-<p>The themes that emerge in the context of harm-related OCD are rarely random. Even though OCD is not defined by its content, it often reflects underlying values and attachment patterns. When it comes to pet-related harm OCD, it is understandable that this topic is seen in clinical settings, given the increasing impact of pets on people’s lives. In fact, the significance of the HAB is not limited to OCD. The impact of this bond may be present in clinical conversations about a range of topics, including anxiety and grief.</p>
-
-<p>The lack of studies exploring the specific characteristics of pet-related harm OCD points to an underexplored area. A closer look at the specific characteristics of these presentations can clarify whether and how pet-related content affects symptom intensity and engagement in treatment.</p>
-<p>In taking this nuanced perspective, it is possible to design therapeutic interventions, including exposures that are more aligned with the specific ways the individual engages with the content of the obsession. This is particularly relevant when the target is perceived as dependent or emotionally significant, such as a pet. </p>
-
-<p><strong>To find a therapist, </strong><a href="https://www.psychologytoday.com/us/therapists"><strong>visit the Psychology Today Therapy Directory</strong></a><strong>.</strong></p>
+<p dir="ltr"><strong>Acceptance:</strong> AI personas are here. They will multiply. Accepting this reality clearly, rather than dismissing it or catastrophising, is the only stance that leaves room for intelligent navigation. Clarity precedes choice.</p>
+<p><strong>Accountability:</strong> Demand transparency from platforms deploying AI personas: who designed them, on whose data, toward what goals? Build Double Literacy into workplaces, schools, and policy. The capability to simulate human presence is a design choice — and design choices carry responsibility.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/rethinking-the-human-animal-bond/202604/when-harm-ocd-involves-pets" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/are-we-moving-from-cognitive-to-relationship-offloading" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/rethinking-the-human-animal-bond/202604/when-harm-ocd-involves-pets</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/rethinking-the-human-animal-bond/202604/when-harm-ocd-involves-pets</guid>
-            <dc:creator><![CDATA[Renata Roma Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/are-we-moving-from-cognitive-to-relationship-offloading</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/are-we-moving-from-cognitive-to-relationship-offloading</guid>
+            <dc:creator><![CDATA[Cornelia C. Walther Ph.D.]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/000.jpg?itok=D_2AvqJN" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/chatgpt_image_apr_23__2026__05_12_27_pm.png.jpg?itok=pV9P6FNt" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How Children Actually Learn Hope When the World Feels Uncertain]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Stevelos.png.jpg?itok=L3g6pFJI" alt="JoAnn Stevelos, MS, MPH" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Children Actually Learn Hope When the World Feels Uncertain</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why hope for children depends on experience, not reassurance.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Children do not develop hope through reassurance, but through lived experience.</li><li style="margin-bottom:6px;">When children lack predictability, their sense of safety and agency can begin to shift.</li><li style="margin-bottom:6px;">Exposure to care, community, and constructive action helps children see the world as livable.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
+            <title><![CDATA[Mothers, Daughters, and Body Image Inheritance]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Body Image</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Mothers, Daughters, and Body Image Inheritance</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Author Geneen Roth untangles the link between the mother wound and body image.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p dir="ltr">Mothers play a significant role in shaping their daughters’ perceptions of beauty and self-worth.</p>
+<p dir="ltr">Studies suggest that when mothers directly encourage their daughters to lose weight, it is linked to the development of bulimic symptoms. In fact, mothers who merely talk about dieting and body dissatisfaction are more likely to be diagnosed with an eating disorder (Hillard et al., 2016).</p>
+
+<p dir="ltr">By role-modeling healthy behaviors, using positive body talk and communication, and forging a strong connection with their daughters, mothers can play an integral role in laying the foundation for a healthy body image (Goslin &amp; Koons-Beauchamp, 2022).</p>
+<p dir="ltr">For more than four decades, Geneen Roth has helped people step out of the exhausting cycle of control, shame, and self-judgment, and discover something far more lasting—peace. Her latest book, <a href="https://geneenroth.com/love-finally/#footer"><em>Love, Finally</em></a><em>, </em>explores her relationship with her mother, her body, and food. </p>
+
+<p dir="ltr"><em><strong>Heather Rose Artushin: </strong></em><strong>Share a bit about your background and what inspired you to write</strong><em><strong> Love, Finally</strong></em><strong>.</strong></p>
+<p dir="ltr"><em><strong>Geneen Roth: </strong></em>My background: I have a Ph.D. in compulsive eating, having gained and lost the equivalent in pounds of a baby grand piano or a small horse. I was wild, hysterical, and consumed by self-hatred for years, until I realized that I was trying to get through to myself in the only way that seemed to get my attention—pounds lost and gained.</p>
+
+<p dir="ltr">After making peace with myself around food, I taught workshops and retreats for 30 years, focusing on the reasons—the ways we talk to ourselves, the ways we shame ourselves, the ways we deprive ourselves—we turn to food, and how to emerge from that inner war.</p>
+<p dir="ltr">Although I knew that my relationship with food and, consequently, the ways I turned on myself were connected to my mother, I didn’t realize how thoroughly I had internalized her judgments about my face, my thighs, my way of living until I met my mentor Coco and realized those judgments were really conclusions I’d made about myself by the time I was 7 years old—I’m damaged, I’m unlovable, I’m too intense—and that they were lies.</p>
+
+<p dir="ltr">I’d already done decades of therapy and meditation, and although most of it was helpful, neither dismantled the mother wound or dissolved those conclusions. So, as I’ve been doing since fifth grade when writing first discovered me, I began writing about my mother, food, Coco, and those never-true but unavoidable conclusions, which became <em>Love, Finally.</em> </p>
+
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pexels-felix-kiss-568824727-17719019.jpg?itok=CRv2F6EP" width="320" height="480" data-insert-type="image" title="Felix Kiss / Pexels" alt="Felix Kiss / Pexels"></div>
-<div class="insertArea--origin subtext">Source: Felix Kiss / Pexels</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/geneen_roth_credit_gregory_thomas_headshot.jpg?itok=IZLN4cxn" width="320" height="316" data-insert-type="image" alt="Author Geneen Roth untangles the link between the mother wound and body image in her latest book, &quot;Love, Finally.&quot;" title="Gregory Thomas/Used with permission"></div>
+<div class="caption">Author Geneen Roth untangles the link between the mother wound and body image in her latest book, "Love, Finally."</div>
+<div class="insertArea--origin subtext">Source: Gregory Thomas/Used with permission</div>
 </div>
 </div>
 </div>
-<p dir="ltr">I have four granddaughters. It’s impossible not to think about the world they are growing into. And I don’t always feel hopeful about it.</p>
-<p dir="ltr">I have had to understand what actually helps a child stay hopeful in a world that isn’t.</p>
-<p dir="ltr">We cannot fully shield children from what they hear, see, and absorb. Research suggests that children are paying attention and actively trying to make sense of what they experience, even when information is incomplete. They are doing this with limited control and limited context.</p>
+<p dir="ltr"><em><strong>HRA: </strong></em><strong>Describe the unique connection between the mother-daughter relationship and a woman’s relationship with her body and food. </strong></p>
+<p dir="ltr"><em><strong>GR: </strong></em>If we are still judging our thighs, our faces, it has to do with us, not our mothers. It has to do with how we interpreted what they said, how they acted. It has to do with what we believed it meant, i.e., <em>I’m damaged, I’m unlovable, I don’t belong here</em>. And it is those interpretations that are causing our present suffering, not what our mothers told us or how they felt about their own bodies—or ours.</p>
 
-<p dir="ltr">What matters is not whether the world feels certain and stable. What matters is how a child experiences being in it.</p>
-<p dir="ltr">We use the word hope easily with children. I hope you have a good day. I hope you do well on your test. I hope things get easier. These kinds of statements sound more like wishful thinking or optimism than true hope. </p>
-
-<p dir="ltr">The kind of hope that sustains a child is not built through reassurance or platitudes.</p>
-<h2>Building Hope Through Practice and Experience</h2>
-<p dir="ltr">Hope is built and sustained through practice and experience. It develops in relationships, in action, in what a child learns is possible when something is hard, and in meaning-making. Research on resilience shows that consistent support increases a child’s ability to remain engaged under stress (Ann Masten, 2014). More recent work continues to show that hope itself functions as a protective factor in how people cope with adversity.</p>
-
-<p dir="ltr">The work of Anthony Scioli offers a way to understand this more precisely. He describes hope as a system built from four capacities: attachment, mastery, survival, and spirituality. This framework does not rely on optimism. It does not require us to promise children that everything will be fine. It asks what allows a child to stay connected to their life when things feel uncertain.</p>
-
-<p dir="ltr">I have written about this work before, and I sit on the board of The Hope Institute. I came to it because I did not feel hopeful. I was looking for something that did not depend on optimism. This work changed how I understand hope. Not as a feeling, but as a practice that allows a person to stay engaged with their life. That is why I return to it with children.</p>
-
-<p dir="ltr">A child hears something they do not fully understand. A conversation about politics. A comment about something happening in the family. A news broadcast about wars.</p>
-<p dir="ltr">Developmental and attachment research show that when children cannot locate stability or predictability, their sense of security can shift (John Bowlby, 1969; Erik Erikson, 1950). They try to make sense of what they are perceiving, often filling in gaps with limited information.</p>
-
-<p dir="ltr">In that process, something can begin to feel at risk. Home, safety, stability, what they expect will stay the same.</p>
-<p dir="ltr">What they are expressing is not just fear. It can reflect a disruption in their sense that things will hold together, which is foundational to the development of trust and hope.</p>
-<h2>Responding to Children's Fear</h2>
+<p dir="ltr"><em>Sigh</em>. I know this is a hard one. I loved my mother, but I also loved hating my mother. When I wore the badge of daughter-of-an-awful mother, I got a lot of attention. The problem is that in my attachment to that mother wound, I continued to see myself as a victim who needed a big person to see her, love her, save her, which meant that I continued to idealize and project value and goodness onto other people while secretly believing I was damaged. And when I saw this same pattern in my students, I realized how much we cling to what we don’t want. </p>
 
 
-<p dir="ltr">The first response is not to correct or reassure. It is to stay. You sit with the child. You acknowledge what they are feeling without minimizing it. You let them know they are not alone. Attachment research shows that consistent, responsive caregiving supports a child’s ability to regulate distress and maintain a sense of safety (Bowlby, 1969). Even when nothing has been resolved, the relationship provides stability.</p>
+<p dir="ltr"><em><strong>HRA:</strong></em><strong> Your work guides women in tuning into their intuition on their journey to giving up dieting and compulsive eating. How might a woman’s inner voice actually be that of her mother? How can she best discern what belongs to her, and what she is carrying from her mother?</strong></p>
+<p dir="ltr"><em><strong>GR:</strong></em> Our true inner voice is clear, sane, and free when it is unclouded by the decisions we made as a 3- or 4-year-old. If at any moment you find yourself paralyzed or collapsed or suddenly feeling two feet tall, you know you are believing a lie. You are believing the conclusion of a 3-year-old who needed her mother to survive and, therefore, needed to do, believe, and act in ways that pleased her, even if it meant belittling yourself. </p>
 
-<p dir="ltr">From there, you help the child understand what is known and what is not. You offer information that is honest and contained. You do not promise outcomes you cannot guarantee. You help them locate what remains stable. What time you will eat dinner. Where they will sleep tonight. Who will be with them. Essentially, naming what will stay the same. This helps the child organize their experience.</p>
+<p dir="ltr">I remember, for instance, the afternoon I apologized to my mother for being so bad that she needed to hit me with a stick. I would have turned myself into a field of daisies for her to walk on, would have done anything to feel loved and glowed upon by her, so I sacrificed myself on the altar of her love, which every child does. </p>
 
 
 
   
 
 
-<p dir="ltr">Children also need ways to act. Not to fix what is happening, but to remain engaged with it. Research in education and resilience shows that when children are given opportunities to participate, contribute, and take meaningful action, these experiences can transform distress into a sense of agency and hope. This includes work emerging from Monash University on preparing children for uncertain futures through active engagement.</p>
+<p dir="ltr"><em><strong>HRA: </strong></em><strong>What three things can readers do to disentangle from the criticism and self-doubt inherited from their mothers while healing and preserving the important mother-daughter relationship? </strong></p>
+<p dir="ltr"><em><strong>GR: </strong></em>Here are three things you can do anywhere, any time, when you find yourself entranced by the mean voices. The first is to drop into your heart and ask yourself what the kindest thing you could do for yourself at that moment is. The second is to make a list, either in your head or, much better, on paper (because when you write, it automatically creates distance between the muck of your mind and the clarity with which you are writing), of the answers to this question: What is not wrong right now? There are so many more things that aren’t wrong than are, but when we believe our catastrophic thoughts, we aren’t aware of them. So go ahead and make that list. Make it first thing in the morning, any old time in the afternoon, before you go to bed. (I often begin my retreats by asking that question because it pops people out of the trance of wrongness, and it is only from there, from a clear space, that the next step to the issue you want to tackle becomes apparent). The third thing is to go outside and move, breathe, take in beauty, let it transport you. </p>
 
-<p dir="ltr">At the same time, when children are already trying to cope, they may become quiet. They may try to control small details. They may take on more than is theirs to carry. These responses are attempts to create safety. When they are understood rather than dismissed, children are more able to adapt and expand their coping over time.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/love__finally_cover_art.jpg?itok=JMeEtgMh" width="320" height="486" data-insert-type="image" title="Penguin Random House/Used with permission" alt="Penguin Random House/Used with permission"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Penguin Random House/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em><strong>HRA: </strong></em><strong>What do you hope readers will take away from spending time with </strong><em><strong>Love, Finally</strong></em><strong>? </strong></p>
+<p dir="ltr"><em><strong>GR:</strong></em> I want readers to know they are so much wiser than they take themselves to be. I want them to know that everything comes to pass and that the quickest way for a judgment or self-hatred to stick around is to judge it, to want it to go away. I want them to know that they see what they believe, not believe what they see, and that if they want to change the world, they must, we all must, begin by changing ourselves—but that this change is not a matter of adding anything on. Not acquiring yet another affirmation or skill, but of subtracting the obstacles/beliefs/conclusions they have taken on that are not true. Because when we do that, peace remains. </p>
 
-<p dir="ltr">Spirituality, in this context, is not about religion. It refers to experiences that help a child perceive the world as livable and meaningful. This can include participation in community, exposure to acts of care and fairness, and experiences of curiosity or beauty. These experiences contribute to a child’s developing sense that the world is worth engaging with.</p>
-
-<p dir="ltr">There is disruption. That is real. There are also many people living steady, ethical, and compassionate lives. Many people are working to create stability, fairness, and peace. Children benefit from exposure to both realities. Seeing constructive action in the world helps balance their understanding of risk with evidence of care and continuity.</p>
-
-<p dir="ltr">We cannot promise children that the world will be stable. We cannot remove uncertainty from their lives. But we are not without influence. We can shape how they experience what is happening around them.</p>
-<p dir="ltr">Hope is not built by shielding children from reality. It is built by helping them remain in relationship with it.</p>
-
-<p>Teaching my granddaughters, who range from 3 to 12, how to practice hope means translating these ideas into something they can understand and use.</p>
-<p>For a 3-year-old, hope begins in the body. It means staying close when something feels overwhelming. Naming what is happening. Letting her know she is safe enough in that moment. It might look like sitting with her when she is upset, helping her take a breath, or reminding her that you are there and not leaving. At that age, hope is not a concept. It is the experience of distress being met and settling.</p>
-
-<p>For a 10-year-old, it begins to include action. She can understand that even when something feels uncertain, there are things she can do. She might help someone, make a plan, or take part in something that contributes to her family or community. These actions are not about solving the problem. They are about experiencing herself as capable of responding to it.</p>
-
-<p>For a 12-year-old, it becomes more reflective. She can begin to think about the kind of person she wants to be in the world. She can see that there are people working to create fairness, stability, and care, and she can choose how she wants to participate. </p>
-<p>Across all ages, my work is the same. It is helping them stay connected, helping them act in ways that are possible, and helping them experience a world that is not defined only by uncertainty.</p>
-
-<p dir="ltr">Hope is something we build over time, in relationships, and in the ways we help children stay connected to a world that does not always feel certain.</p>
-<p dir="ltr">When we can't remove the uncertainty, we can give them a way to live with it.</p>
+<p dir="ltr">I want them to be willing to forgive themselves now, immediately, because in that process, they will also forgive their mothers. I want them to see that anything is possible. And that the most effective way to change the world is to begin here, now. When we stop being at war with ourselves, peace remains. When we change the way we see ourselves, the things and people we see change—and in that way, one by one, we create a new world. Sign me up.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/children-at-the-table/202604/how-children-actually-learn-hope-when-the-world-feels-uncertain" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/well-read/202603/mothers-daughters-and-body-image-inheritance" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/children-at-the-table/202604/how-children-actually-learn-hope-when-the-world-feels-uncertain</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/children-at-the-table/202604/how-children-actually-learn-hope-when-the-world-feels-uncertain</guid>
-            <dc:creator><![CDATA[JoAnn Stevelos, MS, MPH]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/well-read/202603/mothers-daughters-and-body-image-inheritance</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202603/mothers-daughters-and-body-image-inheritance</guid>
+            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-ruyat-supriazi-2154700906-36423781.jpg?itok=XHEL8Gzd" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/geneen_roth_credit_gregory_thomas_headshot.jpg?itok=vRIPMwBx" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Question Mark: Systemic Failures in the Virginia Tech Shooting]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/ninac.jpg?itok=9-frdLqK" alt="Nina E. Cerfolio M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mass Shootings</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Question Mark: Systemic Failures in the Virginia Tech Shooting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Clinical gaps, cultural barriers, and legal loopholes paved the way for the Virginia Tech tragedy.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Early signs of schizophrenia were mislabeled as depression, allowing a decade of psychosis to go untreated.</li><li style="margin-bottom:6px;">Family and community barriers often treated mental illness as a "mortal sin," blocking early intervention.</li><li style="margin-bottom:6px;">Prioritizing autonomy over clinical safety left a psychotic individual without essential care.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">The 19th anniversary of the Virginia Tech massacre has come and gone—a grim milestone that serves as a stinging indictment of our societal failures. We mourn, yet we continue to ignore the roadmap to preventing violence. By failing to confront the reality of untreated mental illness and legal loopholes, we have left the door open for the next tragedy.</p>
+
+<p dir="ltr">The April 16, 2007, Virginia Tech shooting remains a watershed moment in the history of mass violence. With 32 lives lost and 23 wounded, it stands as the deadliest school shooting in U.S. history. As police stormed Norris Hall, Cho fatally shot himself in the head. Beyond the immediate carnage lies a more haunting reality: The tragedy was a perfect storm fueled by untreated psychosis and a failure of academic, psychiatric, and legal safeguards. By examining the story of Seung-Hui Cho, the 23-year-old senior behind the Virginia Tech shooting, we can understand the problems of clinical gaps, cultural barriers, and legal loopholes.</p>
+
+<h2>Misdiagnosing Early Onset Schizophrenia</h2>
+<p dir="ltr">Cho’s psychiatric history included multiple misdiagnoses, including selective mutism, autism, and depression, and consistently overlooked the signs of schizophrenia that he had.<sup>1</sup> In adolescence, schizophrenia may present through negative symptoms: affective flattening (lack of emotion), alogia (limited speech), and asociality. These were the very traits that earned Cho the nickname "The Question Mark" in school.</p>
+
+<p dir="ltr">While these symptoms are often mistaken for personality quirks or depression, they represent a hollowing out of a child’s internal life. In Cho's case, the introduction of antidepressants may have acted as a chemical catalyst, lowering his psychotic threshold and intensifying a latent vulnerability to delusions. By the time his positive symptoms of schizophrenia became visible, including the messianic and persecutory delusions found in his manifesto, the pathology had been tearing at him for a decade. The longer psychosis is left untreated, the more difficult it is to treat.</p>
+
+<h2>Cultural Barriers</h2>
+<p dir="ltr">When I interviewed Daniel Porter, a psychopathologist, his investigation into Cho’s social and academic circles revealed a critical convergence of cultural and familial failures. Immigrating at age 8, Cho was the child of Korean parents driven by a relentless pursuit of the American Dream. They worked long hours in their dry-cleaning business and were rarely at home. In this high-pressure neglectful environment, the siblings were forced to raise each other. This was compounded by a Korean cultural stigma that often views mental illness as a "moral failing" or "bad blood." Korean Confucian emphasis on willpower creates a further stigma against psychiatry, where mental illness is seen as a trial for stoic endurance rather than a treatable condition.<sup>2</sup></p>
+
+<p dir="ltr">This belief system created a powerful barrier. Stigma likely influenced the family to resist clinical interventions while Cho was in high school, leaving a mentally struggling adolescent to navigate internal chaos without care. This sociological layer highlights that Cho was not just a failing student, but the product of an environment where the pursuit of success met an absolute void of psychiatric treatment.</p>
+
+<p dir="ltr">Porter’s interview with Andy Knock, Cho’s roommate and only college friend, provided a rare window into Cho’s deteriorating mental state. Knock recounted episodes that signaled a departure from reality, such as Cho’s claims of an “imaginary supermodel girlfriend who lived in space” and a Thanksgiving “holiday vacation with Vladimir Putin.” These interactions were clear evidence that he wasn't just a bullied or isolated student; he was experiencing psychotic delusions that signaled a future break from reality.</p>
+
+<h2>Systemic Failures</h2>
+<p dir="ltr">Upon entering Virginia Tech, federal privacy laws (FERPA) erased Cho’s psychiatric history, denying the university a continuum of care. Even after a Virginia special justice declared Cho mentally ill in 2005 following stalking allegations, legislative loopholes allowed him to slip through.</p>
+
+<p dir="ltr">The law remained "fuzzy" regarding outpatient versus inpatient care. Because his court-ordered hospitalization lasted only three days, it failed to trigger reporting requirements that would have barred him from purchasing firearms. Cho was also trapped in the vacuum of anosognosia—a neurological inability to recognize his own illness. To Cho, it was not his mind that was broken, but the world.</p>
+
+
+
+  
+
+
+<h2>Manifesto</h2>
+<p dir="ltr">Cho’s 1,800-word manifesto, mailed to NBC News between his two attacks, provides a window into "soul murder"—a psychological state described by Leonard Shengold, where one feels their essence has been systematically crushed by society. Donning a messianic mantle, Cho reframed his homicidal intent as a sacred sacrifice, comparing himself to Jesus and Moses.</p>
+
+<p dir="ltr">His language—referring to "raping my soul" and being "forced into a corner"—demonstrates a total lack of agency. He utilized a psychotic rationalization where violence became the only path to reclamation. This was not a spontaneous act, but the terminal scream of a man whose roadmap to violence had been visible for years.</p>
+
+<h2>Criminalization of Mental Illness</h2>
+<p dir="ltr">The legacy of Virginia Tech illustrates the eroding state of American mental health care. Deinstitutionalization, which began in the 1970s, shifted care to under-resourced outpatient clinics. Today, we face a burgeoning social crisis: the de facto criminalization of mental illness.</p>
+
+<p dir="ltr">Modern statutes skew so far toward a narrow definition of autonomy that psychotic individuals are often shielded from intervention until they commit a dangerous overt act. As a former chief of a psychiatric emergency room, I have seen how our "revolving door" system discharges individuals whose violent ideations are quieted, not fully resolved.</p>
+
+<h2>Legacy of Negligence</h2>
+<p dir="ltr">A meager silver lining emerged as the tragedy sparked reviews of FERPA in the context of public safety. However, the core issue remains: The psychiatric needs of the "worried well" are not the same as those facing a psychotic fracture.</p>
+<p>Cho was a man driven to mass murder by the untreated momentum of his psychosis. His final words—"I didn't want to do this"<sup>3</sup>—betray an internal fracture that society failed to intercept. To neglect those on the periphery is to erode the social fabric, eventually placing the entire community at risk. Our safety is inextricably tied to our willingness to provide clinical sanctuary to the seemingly unreachable.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/esprit/202604/the-question-mark-systemic-failures-in-the-virginia-tech-shooting" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/esprit/202604/the-question-mark-systemic-failures-in-the-virginia-tech-shooting</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/esprit/202604/the-question-mark-systemic-failures-in-the-virginia-tech-shooting</guid>
+            <dc:creator><![CDATA[Nina E. Cerfolio M.D.]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-leeloothefirst-5428826.jpg?itok=No-j6n1I" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
