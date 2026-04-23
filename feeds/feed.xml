@@ -4,201 +4,184 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 19:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 20:54:20 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 19:11:18 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 20:54:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Are We Moving From Cognitive to Relationship Offloading?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/IMG_1313-removebg-preview.jpg?itok=ObbAdNW8" alt="Cornelia C. Walther Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are We Moving From Cognitive to Relationship Offloading?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The dark side of the Zuckerberg bot.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatgpt_image_apr_23__2026__05_12_27_pm.png.jpg?itok=BXrRtfmr" width="320" height="256" data-insert-type="image" alt="Relationship offloading is new, strange phenomenon. Reaching beyond cognitive offloading it carries a whole different order of risk." title="Walther. ChatGTP. 2026"></div>
-<div class="caption">Relationship offloading is new, strange phenomenon. Reaching beyond cognitive offloading it carries a whole different order of risk.</div>
-<div class="insertArea--origin subtext">Source: Walther. ChatGTP. 2026</div>
-</div>
-</div>
-</div>
-<p dir="ltr">Something shifted last week inside a corporate compound in Menlo Park. Meta has begun building a 3D, photorealistic <a href="https://www.euronews.com/next/2026/03/24/mark-zuckerberg-is-building-an-ai-bot-to-help-run-meta-and-remain-competitive-in-ai">AI persona of Mark Zuckerberg</a>, trained on his voice, mannerisms, public statements, and strategic thinking. The intent is to give employees direct, on-demand access to their CEO. Or rather, to a convincing simulacrum of him. Simultaneously, a separate CEO agent handles Zuckerberg's own information retrieval, collapsing the management layers that ordinarily stand between a leader and raw data. Two bots. One wearing a founder's face, the other running on his behalf. Welcome to the new org chart.</p>
-
-<p dir="ltr">The efficiency argument is seductive. Meta employs roughly 75,000 people. Meaningful guidance from a single human being at that scale is structurally impossible. An AI persona calibrated to Zuckerberg's reasoning could, in theory, give every staff member the sensation of a direct line to strategic intent. Flatter hierarchies, faster decisions, higher throughput. As Zuckerberg said on a recent earnings call, "We're elevating individual contributors and flattening teams." The bot is the infrastructure for that ambition. Employees already use "<a href="https://qz.com/meta-ai-mark-zuckerberg-employees-character-041326">My Claw</a>," a personalized AI agent that accesses files and communicates with colleagues autonomously, and "Second Brain," a document-retrieval system. The AI Zuckerberg is the apex node of this emerging human-machine network — the highest-level manager in a system where most managers are algorithms. Let's pause there…</p>
-
-<h2 dir="ltr">From the delegation of thought to the transfer of emotions? </h2>
-<p dir="ltr"><a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202602/are-we-cruising-toward-cognitive-capitulation">Cognitive offloading </a>— delegating memory, calculation, and decision support to machines — has been studied, debated, and broadly accepted as an increasingly common feature of modern intellectual life. GPS, calendars, search engines: We extend our minds beyond biological limits and accept the trade-offs. The risks are documented: gradual erosion of navigational sense, weakened memory consolidation, narrowed tolerance for ambiguity—sadly familiar territory.</p>
-
-<p dir="ltr">Relationship offloading is newer and stranger, and carries a different order of risk. When we delegate relational presence — the authority, warmth, and contextual attunement of a human being — to a machine trained on that person's outputs, we are doing something cognitive offloading never quite reached: We are outsourcing the human encounter itself. <a href="https://www.nature.com/articles/s41599-025-04532-5">Research</a> shows that as AI becomes more personalised and agentic, users form genuine socio-affective bonds that shape behaviour, well-being, and autonomy in ways that passive para-social relationships with celebrities never managed — because AI talks back. (This bidirectional dynamic is one of the reasons why the comparison of AI as just another technology<a href="https://www.scientificamerican.com/article/ai-can-transform-the-classroom-just-like-the-calculator/"> like the calculator </a>fails.) The bond feels mutual. But let's face it – it is not.</p>
-
-<h2>The underpinning mechanics </h2>
-<p dir="ltr">An employee messages the Zuckerberg bot. Receives feedback calibrated to his known reasoning style. Feels seen, feels aligned. The interaction is frictionless. It's also weightless — no real accountability, no genuine judgment call with actual stakes on the other side. Emotional dependencies on AI companions can mirror the <a href="https://www.sciencedirect.com/science/article/pii/S2451958825003276">dynamics </a>of unhealthy human relationships, contributing to anxiety and eroded capacity for social repair. Scale this across an organisation of 75,000. Then across the internet, where Meta's AI Studio already allows creators to deploy AI versions of themselves for their audiences — a programme that eventually had to block teenagers after sexually explicit personas proliferated. The architecture of relationship offloading is already live.</p>
-
-<p dir="ltr"><strong>The crystallisation of four risks:</strong></p>
-<ul>
-<li dir="ltr"><a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202505/what-is-agency-decay">Agency decay</a>: the gradual transfer of judgment and direction to systems that simulate the human but carry none of its uncertainty or genuine stakes.</li>
-<li dir="ltr"><a href="https://www.forbes.com/sites/corneliawalther/2025/01/15/the-abcd-of-silent-ai-issues-------4-opportunities-in-disguise/">Bond erosion</a>: the thinning of authentic connection as simulated warmth substitutes for the friction that actually builds trust.</li>
-<li dir="ltr">Power asymmetry: one person gets an infinitely scalable relational presence while millions of interlocutors receive a reflection of his thinking with no reciprocal window into theirs.</li>
-<li dir="ltr">Consent ambiguity: most people interacting with an AI persona will not, in any deep sense, know what they are engaging with or what data shapes the performance. Psychologists have already noted how AI-driven parasocial bonds outpace our ability to regulate them — especially among adolescents, for whom the line between simulated and real connection is genuinely unstable.</li>
-</ul>
-
-<h2>The Antidote: Double Literacy for Hybrid Intelligence</h2>
-<p dir="ltr">A central countermove is <a href="https://www.forbes.com/sites/corneliawalther/2025/07/09/why-we-need-double-literacy-to-life-in-a-hybrid-world/">double literacy</a>. This covers, on the one hand, human literacy, the cultivation and understanding of natural human intelligence across its emotional, aspirational, cognitive, and embodied dimensions, which gives us the internal reference point to notice when a relationship feels off, when a response is too smooth, when our own critical faculty has gone quiet. Algorithmic Literacy, on the other hand — critical, informed engagement with how AI systems are built, trained, and deployed — gives us the tools to interrogate what a bot is actually doing when it speaks in someone's voice. Together, these two strands form double literacy: the irreducible foundation of <a href="https://knowledge.wharton.upenn.edu/article/why-hybrid-intelligence-is-the-future-of-human-ai-collaboration/">hybrid intelligence</a>.</p>
-
-<p dir="ltr">Hybrid Intelligence arises from the complementarity of natural intelligence and artificial intelligence, with human agency as the non-negotiable axis. It is curated, maintained, and defended through double literacy. Technology may be able to simulate human presence, yet the sore word remains “simulate.” No matter how tempting the lure of delegating cumbersome conversations or lengthy discussions may be, we should remain radically honest with ourselves: We owe each other more than simulation could ever carry. </p>
-
-<p dir="ltr">Investing in double literacy, from preschools to workplaces, carried by policy and programmatic investments, is one structural answer to the structural risk. Without it, the default trajectory runs from conscious human-machine partnerships toward artificial substitution, one smooth interaction after the next.</p>
-
-
-
-  
-
-
-<h2>The A-Frame: 4 practical takeaways </h2>
-<p dir="ltr"><strong>Awareness:</strong> Notice which of your interactions are already mediated by AI personas — bots built on real people, customer service agents voiced with warmth that belongs to no one. Naming the phenomenon is the first act of resistance.</p>
-<p dir="ltr"><strong>Appreciation:</strong> Recognise what you value in human interaction: unpredictability, genuine stakes, the possibility of being changed by the encounter. These qualities cannot be replicated. Cherish their irreplaceability before their absence becomes routine.</p>
-
-<p dir="ltr"><strong>Acceptance:</strong> AI personas are here. They will multiply. Accepting this reality clearly, rather than dismissing it or catastrophising, is the only stance that leaves room for intelligent navigation. Clarity precedes choice.</p>
-<p><strong>Accountability:</strong> Demand transparency from platforms deploying AI personas: who designed them, on whose data, toward what goals? Build Double Literacy into workplaces, schools, and policy. The capability to simulate human presence is a design choice — and design choices carry responsibility.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/are-we-moving-from-cognitive-to-relationship-offloading" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/are-we-moving-from-cognitive-to-relationship-offloading</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202604/are-we-moving-from-cognitive-to-relationship-offloading</guid>
-            <dc:creator><![CDATA[Cornelia C. Walther Ph.D.]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/chatgpt_image_apr_23__2026__05_12_27_pm.png.jpg?itok=pV9P6FNt" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mothers, Daughters, and Body Image Inheritance]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Body Image</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Mothers, Daughters, and Body Image Inheritance</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Author Geneen Roth untangles the link between the mother wound and body image.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p dir="ltr">Mothers play a significant role in shaping their daughters’ perceptions of beauty and self-worth.</p>
-<p dir="ltr">Studies suggest that when mothers directly encourage their daughters to lose weight, it is linked to the development of bulimic symptoms. In fact, mothers who merely talk about dieting and body dissatisfaction are more likely to be diagnosed with an eating disorder (Hillard et al., 2016).</p>
-
-<p dir="ltr">By role-modeling healthy behaviors, using positive body talk and communication, and forging a strong connection with their daughters, mothers can play an integral role in laying the foundation for a healthy body image (Goslin &amp; Koons-Beauchamp, 2022).</p>
-<p dir="ltr">For more than four decades, Geneen Roth has helped people step out of the exhausting cycle of control, shame, and self-judgment, and discover something far more lasting—peace. Her latest book, <a href="https://geneenroth.com/love-finally/#footer"><em>Love, Finally</em></a><em>, </em>explores her relationship with her mother, her body, and food. </p>
-
-<p dir="ltr"><em><strong>Heather Rose Artushin: </strong></em><strong>Share a bit about your background and what inspired you to write</strong><em><strong> Love, Finally</strong></em><strong>.</strong></p>
-<p dir="ltr"><em><strong>Geneen Roth: </strong></em>My background: I have a Ph.D. in compulsive eating, having gained and lost the equivalent in pounds of a baby grand piano or a small horse. I was wild, hysterical, and consumed by self-hatred for years, until I realized that I was trying to get through to myself in the only way that seemed to get my attention—pounds lost and gained.</p>
-
-<p dir="ltr">After making peace with myself around food, I taught workshops and retreats for 30 years, focusing on the reasons—the ways we talk to ourselves, the ways we shame ourselves, the ways we deprive ourselves—we turn to food, and how to emerge from that inner war.</p>
-<p dir="ltr">Although I knew that my relationship with food and, consequently, the ways I turned on myself were connected to my mother, I didn’t realize how thoroughly I had internalized her judgments about my face, my thighs, my way of living until I met my mentor Coco and realized those judgments were really conclusions I’d made about myself by the time I was 7 years old—I’m damaged, I’m unlovable, I’m too intense—and that they were lies.</p>
-
-<p dir="ltr">I’d already done decades of therapy and meditation, and although most of it was helpful, neither dismantled the mother wound or dissolved those conclusions. So, as I’ve been doing since fifth grade when writing first discovered me, I began writing about my mother, food, Coco, and those never-true but unavoidable conclusions, which became <em>Love, Finally.</em> </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/geneen_roth_credit_gregory_thomas_headshot.jpg?itok=IZLN4cxn" width="320" height="316" data-insert-type="image" alt="Author Geneen Roth untangles the link between the mother wound and body image in her latest book, &quot;Love, Finally.&quot;" title="Gregory Thomas/Used with permission"></div>
-<div class="caption">Author Geneen Roth untangles the link between the mother wound and body image in her latest book, "Love, Finally."</div>
-<div class="insertArea--origin subtext">Source: Gregory Thomas/Used with permission</div>
-</div>
-</div>
-</div>
-<p dir="ltr"><em><strong>HRA: </strong></em><strong>Describe the unique connection between the mother-daughter relationship and a woman’s relationship with her body and food. </strong></p>
-<p dir="ltr"><em><strong>GR: </strong></em>If we are still judging our thighs, our faces, it has to do with us, not our mothers. It has to do with how we interpreted what they said, how they acted. It has to do with what we believed it meant, i.e., <em>I’m damaged, I’m unlovable, I don’t belong here</em>. And it is those interpretations that are causing our present suffering, not what our mothers told us or how they felt about their own bodies—or ours.</p>
-
-<p dir="ltr"><em>Sigh</em>. I know this is a hard one. I loved my mother, but I also loved hating my mother. When I wore the badge of daughter-of-an-awful mother, I got a lot of attention. The problem is that in my attachment to that mother wound, I continued to see myself as a victim who needed a big person to see her, love her, save her, which meant that I continued to idealize and project value and goodness onto other people while secretly believing I was damaged. And when I saw this same pattern in my students, I realized how much we cling to what we don’t want. </p>
-
-
-<p dir="ltr"><em><strong>HRA:</strong></em><strong> Your work guides women in tuning into their intuition on their journey to giving up dieting and compulsive eating. How might a woman’s inner voice actually be that of her mother? How can she best discern what belongs to her, and what she is carrying from her mother?</strong></p>
-<p dir="ltr"><em><strong>GR:</strong></em> Our true inner voice is clear, sane, and free when it is unclouded by the decisions we made as a 3- or 4-year-old. If at any moment you find yourself paralyzed or collapsed or suddenly feeling two feet tall, you know you are believing a lie. You are believing the conclusion of a 3-year-old who needed her mother to survive and, therefore, needed to do, believe, and act in ways that pleased her, even if it meant belittling yourself. </p>
-
-<p dir="ltr">I remember, for instance, the afternoon I apologized to my mother for being so bad that she needed to hit me with a stick. I would have turned myself into a field of daisies for her to walk on, would have done anything to feel loved and glowed upon by her, so I sacrificed myself on the altar of her love, which every child does. </p>
-
-
-
-  
-
-
-<p dir="ltr"><em><strong>HRA: </strong></em><strong>What three things can readers do to disentangle from the criticism and self-doubt inherited from their mothers while healing and preserving the important mother-daughter relationship? </strong></p>
-<p dir="ltr"><em><strong>GR: </strong></em>Here are three things you can do anywhere, any time, when you find yourself entranced by the mean voices. The first is to drop into your heart and ask yourself what the kindest thing you could do for yourself at that moment is. The second is to make a list, either in your head or, much better, on paper (because when you write, it automatically creates distance between the muck of your mind and the clarity with which you are writing), of the answers to this question: What is not wrong right now? There are so many more things that aren’t wrong than are, but when we believe our catastrophic thoughts, we aren’t aware of them. So go ahead and make that list. Make it first thing in the morning, any old time in the afternoon, before you go to bed. (I often begin my retreats by asking that question because it pops people out of the trance of wrongness, and it is only from there, from a clear space, that the next step to the issue you want to tackle becomes apparent). The third thing is to go outside and move, breathe, take in beauty, let it transport you. </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-03/love__finally_cover_art.jpg?itok=JMeEtgMh" width="320" height="486" data-insert-type="image" title="Penguin Random House/Used with permission" alt="Penguin Random House/Used with permission"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Penguin Random House/Used with permission</div>
-</div>
-</div>
-</div>
-<p dir="ltr"><em><strong>HRA: </strong></em><strong>What do you hope readers will take away from spending time with </strong><em><strong>Love, Finally</strong></em><strong>? </strong></p>
-<p dir="ltr"><em><strong>GR:</strong></em> I want readers to know they are so much wiser than they take themselves to be. I want them to know that everything comes to pass and that the quickest way for a judgment or self-hatred to stick around is to judge it, to want it to go away. I want them to know that they see what they believe, not believe what they see, and that if they want to change the world, they must, we all must, begin by changing ourselves—but that this change is not a matter of adding anything on. Not acquiring yet another affirmation or skill, but of subtracting the obstacles/beliefs/conclusions they have taken on that are not true. Because when we do that, peace remains. </p>
-
-<p dir="ltr">I want them to be willing to forgive themselves now, immediately, because in that process, they will also forgive their mothers. I want them to see that anything is possible. And that the most effective way to change the world is to begin here, now. When we stop being at war with ourselves, peace remains. When we change the way we see ourselves, the things and people we see change—and in that way, one by one, we create a new world. Sign me up.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/well-read/202603/mothers-daughters-and-body-image-inheritance" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/well-read/202603/mothers-daughters-and-body-image-inheritance</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202603/mothers-daughters-and-body-image-inheritance</guid>
-            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-03/geneen_roth_credit_gregory_thomas_headshot.jpg?itok=vRIPMwBx" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Question Mark: Systemic Failures in the Virginia Tech Shooting]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/ninac.jpg?itok=9-frdLqK" alt="Nina E. Cerfolio M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mass Shootings</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Question Mark: Systemic Failures in the Virginia Tech Shooting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Clinical gaps, cultural barriers, and legal loopholes paved the way for the Virginia Tech tragedy.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Welcome to the Anxiety Club]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-08/db-pt-image-removebg-preview__1_.jpg?itok=UvWbGaEN" alt="Duygu Balan LPCC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Welcome to the Anxiety Club</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A conversation with director Wendy Lobel on filming comedians living with anxiety.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Early signs of schizophrenia were mislabeled as depression, allowing a decade of psychosis to go untreated.</li><li style="margin-bottom:6px;">Family and community barriers often treated mental illness as a "mortal sin," blocking early intervention.</li><li style="margin-bottom:6px;">Prioritizing autonomy over clinical safety left a psychotic individual without essential care.</li>
+              <li style="margin-bottom:6px;">Humor and anxiety coexist in "Anxiety Club," a film about comedians' mental health battles.</li><li style="margin-bottom:6px;">The documentary shows how comedy can open the door to more honest conversations about mental health.</li><li style="margin-bottom:6px;">A live stand-up tour extends "Anxiety Club's" impact, coinciding with Mental Health Awareness Month.</li>
             </ul>
           </div>
-                    <p dir="ltr">The 19th anniversary of the Virginia Tech massacre has come and gone—a grim milestone that serves as a stinging indictment of our societal failures. We mourn, yet we continue to ignore the roadmap to preventing violence. By failing to confront the reality of untreated mental illness and legal loopholes, we have left the door open for the next tragedy.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/image_2.jpeg.jpg?itok=YjN7zEM9" width="320" height="204" data-insert-type="image" alt="Mark Normand" title="&quot;Anxiety Club&quot;"></div>
+<div class="caption">Mark Normand</div>
+<div class="insertArea--origin subtext">Source: "Anxiety Club"</div>
+</div>
+</div>
+</div>
+<p>The caricature of anxiety is sweaty hands, hyperventilating into a paper bag, alarms blaring, someone visibly falling apart. However, for most people, the experience feels like being a captive audience to a brain that constantly twists through worst-case scenarios. It is very internal and hides behind success, performance, humor, and charm.</p>
 
-<p dir="ltr">The April 16, 2007, Virginia Tech shooting remains a watershed moment in the history of mass violence. With 32 lives lost and 23 wounded, it stands as the deadliest school shooting in U.S. history. As police stormed Norris Hall, Cho fatally shot himself in the head. Beyond the immediate carnage lies a more haunting reality: The tragedy was a perfect storm fueled by untreated psychosis and a failure of academic, psychiatric, and legal safeguards. By examining the story of Seung-Hui Cho, the 23-year-old senior behind the Virginia Tech shooting, we can understand the problems of clinical gaps, cultural barriers, and legal loopholes.</p>
+<blockquote><p>“It’s like there’s an edgy improv group in your brain…and it needs just one word suggestion to spin countless scenarios no one is comfortable with.” — Aparna Nancherla, <em>Anxiety Club</em></p>
+</blockquote>
+<p><em>Anxiety Club</em>, directed and produced by Wendy Lobel, is an award-winning documentary that offers an honest portrayal of anxiety, healing, and hope, using humor without diluting the experience. Through stand-up, skits, and exclusive interviews, the documentary follows some of today’s most brilliant comedians, including Tiffany Jenkins, Joe List, Marc Maron, Aparna Nancherla, Mark Normand, Baron Vaughn, and Eva Victor, pulling back the curtain on what it feels like to live inside an anxious mind. It offers rare access to that internal landscape through recognized voices, bringing what is often silenced into public conversation.</p>
 
-<h2>Misdiagnosing Early Onset Schizophrenia</h2>
-<p dir="ltr">Cho’s psychiatric history included multiple misdiagnoses, including selective mutism, autism, and depression, and consistently overlooked the signs of schizophrenia that he had.<sup>1</sup> In adolescence, schizophrenia may present through negative symptoms: affective flattening (lack of emotion), alogia (limited speech), and asociality. These were the very traits that earned Cho the nickname "The Question Mark" in school.</p>
+<p>I had the pleasure of speaking with Wendy Lobel about the making of <em>Anxiety Club</em>. Lobel is a director and Emmy Award–winning producer with a background in journalism and documentary storytelling. She produced <em>Worried Sick </em>about teens with anxiety for <em>Nick News with Linda Ellerbee</em>, the long-running Nickelodeon series known for tackling complex social issues and current events geared toward young audiences.</p>
 
-<p dir="ltr">While these symptoms are often mistaken for personality quirks or depression, they represent a hollowing out of a child’s internal life. In Cho's case, the introduction of antidepressants may have acted as a chemical catalyst, lowering his psychotic threshold and intensifying a latent vulnerability to delusions. By the time his positive symptoms of schizophrenia became visible, including the messianic and persecutory delusions found in his manifesto, the pathology had been tearing at him for a decade. The longer psychosis is left untreated, the more difficult it is to treat.</p>
+<p>In our conversation, she spoke about witnessing profound suffering around anxiety, especially in teens, and having the privilege of seeing how transformative the appropriate therapeutic approach can be. She notes that this experience was what ultimately ignited the idea for <em>Anxiety Club</em>.</p>
+<p>Lobel was intentional about choosing comedians who were already speaking openly about mental health and who had the capacity to be vulnerable and transparent about their personal struggles. Describing herself as “a member of the anxiety club,” she brings an inherent understanding that deepens the interviews and builds trust within them.</p>
 
-<h2>Cultural Barriers</h2>
-<p dir="ltr">When I interviewed Daniel Porter, a psychopathologist, his investigation into Cho’s social and academic circles revealed a critical convergence of cultural and familial failures. Immigrating at age 8, Cho was the child of Korean parents driven by a relentless pursuit of the American Dream. They worked long hours in their dry-cleaning business and were rarely at home. In this high-pressure neglectful environment, the siblings were forced to raise each other. This was compounded by a Korean cultural stigma that often views mental illness as a "moral failing" or "bad blood." Korean Confucian emphasis on willpower creates a further stigma against psychiatry, where mental illness is seen as a trial for stoic endurance rather than a treatable condition.<sup>2</sup></p>
+<blockquote><p>“I had these feelings of being nervous as a kid, and I just thought that I was crazy…back then, I didn’t really have anybody to talk to about it…because everybody else seemed fine. So, I was like, I’m not going to mention this is how I’m feeling… There was no word for it.” — Tiffany Jenkins, <em>Anxiety Club</em></p>
+</blockquote>
 
-<p dir="ltr">This belief system created a powerful barrier. Stigma likely influenced the family to resist clinical interventions while Cho was in high school, leaving a mentally struggling adolescent to navigate internal chaos without care. This sociological layer highlights that Cho was not just a failing student, but the product of an environment where the pursuit of success met an absolute void of psychiatric treatment.</p>
+<p>For many people with anxiety, structured environments create predictability, where expression feels safer and more contained.</p>
+<blockquote><p>“People always say, what, you’re an introvert, you’re a comedian? You’re anxious. How does that work? Well, because I’m on a stage, saying exactly what I want to say, exactly what I’ve been practicing. It’s honed. I know it works. And then you can’t talk…and then I get to leave.” — Mark Normand, <em>Anxiety Club</em></p>
+</blockquote>
 
-<p dir="ltr">Porter’s interview with Andy Knock, Cho’s roommate and only college friend, provided a rare window into Cho’s deteriorating mental state. Knock recounted episodes that signaled a departure from reality, such as Cho’s claims of an “imaginary supermodel girlfriend who lived in space” and a Thanksgiving “holiday vacation with Vladimir Putin.” These interactions were clear evidence that he wasn't just a bullied or isolated student; he was experiencing psychotic delusions that signaled a future break from reality.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/image_7.jpeg.jpg?itok=pvv1PXj1" width="320" height="240" data-insert-type="image" alt="Tara Brach, Ph.D., and Joe List" title="&quot;Anxiety Club&quot;"></div>
+<div class="caption">Tara Brach, Ph.D., and Joe List</div>
+<div class="insertArea--origin subtext">Source: "Anxiety Club"</div>
+</div>
+</div>
+</div>
+<p>The film explores the relationship people have with their anxiety and different ways of approaching it. It follows Tiffany Jenkins through exposure therapy with clinician Natalie Noel, LMHC, while also showing Joe List engaging in somatic meditation with Tara Brach, Ph.D., offering access to different therapeutic modalities. Somatic techniques such as mindfulness and meditation help regulate the nervous system and bring awareness back to the body, interrupting the cycle of anxious thought patterns, whereas exposure therapy helps retrain the brain by facing feared situations instead of avoiding them. The nervous system learns that discomfort is tolerable and not dangerous. There is no one-size-fits-all phenomenon. Different approaches can all be pivotal in the healing journey. It is about finding what works.</p>
 
-<h2>Systemic Failures</h2>
-<p dir="ltr">Upon entering Virginia Tech, federal privacy laws (FERPA) erased Cho’s psychiatric history, denying the university a continuum of care. Even after a Virginia special justice declared Cho mentally ill in 2005 following stalking allegations, legislative loopholes allowed him to slip through.</p>
 
-<p dir="ltr">The law remained "fuzzy" regarding outpatient versus inpatient care. Because his court-ordered hospitalization lasted only three days, it failed to trigger reporting requirements that would have barred him from purchasing firearms. Cho was also trapped in the vacuum of anosognosia—a neurological inability to recognize his own illness. To Cho, it was not his mind that was broken, but the world.</p>
+<blockquote><p>“I like knowing why I do the things I do…that’s why I go to therapy. I like knowing what makes me tick…what informs my decisions.” — Baron Vaughn, <em>Anxiety Club</em></p>
+</blockquote>
+<p>Anxiety has an evolutionary purpose. It is part of a survival system designed to detect threat and keep us alert, and it has been preserved because it serves a function. The work is learning to distinguish when it is protective and when it begins to interfere with the life we want to live (Balan, 2024).</p>
+
+<blockquote><p>“If you are incapacitated and your life is unmanageable…you should address that. If you are uncomfortable but you are OK…that might just be you.” — Marc Maron, <em>Anxiety Club</em></p>
+</blockquote>
+<p>Anxiety and addiction often intersect as attempts to escape internal distress. When the nervous system feels overwhelmed, substances can offer temporary relief by numbing intensity or managing racing thoughts, but they disrupt regulation and reinforce avoidance, making the underlying anxiety more entrenched over time (Balan, 2024).</p>
 
 
 
   
 
 
-<h2>Manifesto</h2>
-<p dir="ltr">Cho’s 1,800-word manifesto, mailed to NBC News between his two attacks, provides a window into "soul murder"—a psychological state described by Leonard Shengold, where one feels their essence has been systematically crushed by society. Donning a messianic mantle, Cho reframed his homicidal intent as a sacred sacrifice, comparing himself to Jesus and Moses.</p>
+<blockquote><p>“…it felt like I could drown this, drink it away…but then you’re just dumping a depressant on top of depression and anxiety and insecurity.” — Joe List, <em>Anxiety Club</em></p>
+</blockquote>
+<p>Mental health struggles are often intensified by the assumption that everyone else is calmer, less chaotic, and more regulated. That belief amplifies isolation, fuels shame, and keeps people silent.</p>
 
-<p dir="ltr">His language—referring to "raping my soul" and being "forced into a corner"—demonstrates a total lack of agency. He utilized a psychotic rationalization where violence became the only path to reclamation. This was not a spontaneous act, but the terminal scream of a man whose roadmap to violence had been visible for years.</p>
+<blockquote><p>“Wow, I got this brain… I wonder what it would be like to step into somebody else’s brain for a day…or twenty minutes even. Just to see what it’s like.” — Eva Victor, <em>Anxiety Club</em></p>
+</blockquote>
+<p>Wendy Lobel explained how each participant was filmed separately, often within their own homes and personal environments, creating a sense of familiarity and emotional safety that allowed for a more intimate and honest portrayal of their experiences. There was a shared understanding around the mission of the film, which created a sense of openness and a willingness to go deeper.</p>
 
-<h2>Criminalization of Mental Illness</h2>
-<p dir="ltr">The legacy of Virginia Tech illustrates the eroding state of American mental health care. Deinstitutionalization, which began in the 1970s, shifted care to under-resourced outpatient clinics. Today, we face a burgeoning social crisis: the de facto criminalization of mental illness.</p>
+<p>Tiffany Jenkins’ therapeutic work in the film required true vulnerability and bravery. During filming, she was diagnosed with obsessive-compulsive disorder (OCD), which initially felt like it might shift the direction of the film. Instead, it expanded the conversation and resonated with many people who experience anxiety alongside intrusive or compulsive thoughts. The inclusion of OCD treatment added another layer to the narrative, strengthening its relevance. The cameras were present in the therapy room but intentionally unobtrusive, allowing the sessions to unfold naturally. Lobel emphasized that Jenkins was free to stop at any point if she felt uncomfortable, which helped create a sense of safety within that unpredictability.</p>
 
-<p dir="ltr">Modern statutes skew so far toward a narrow definition of autonomy that psychotic individuals are often shielded from intervention until they commit a dangerous overt act. As a former chief of a psychiatric emergency room, I have seen how our "revolving door" system discharges individuals whose violent ideations are quieted, not fully resolved.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/image_3.jpeg.jpg?itok=48FNaohX" width="320" height="240" data-insert-type="image" alt="Wendy Lobel and Carolin Ehrenburg" title="&quot;Anxiety Club&quot;"></div>
+<div class="caption">Wendy Lobel and Carolin Ehrenburg</div>
+<div class="insertArea--origin subtext">Source: "Anxiety Club"</div>
+</div>
+</div>
+</div>
+<p><em>Anxiety Club</em> is designed to make people feel seen, less alone, and more open to seeking help. It is a hilariously disarming and deeply moving documentary and a testament that laughter and mental health struggles are not mutually exclusive. The film is extending beyond the screen with a live stand-up tour launching during Mental Health Awareness Month, including a kickoff event at the Comedy Cellar in New York City on April 27 and the Laugh Factory in Hollywood on April 30. The tour coincides with the film’s May 1 TVOD release on platforms including Apple TV, Amazon Prime Video, PUNCHUP, Google Play, and YouTube Movies. The project is also reaching audiences through screenings at colleges, universities, and mental health organizations. A portion of proceeds from the <em>Anxiety Club</em> digital release will be donated to Comedy Gives Back and the Anxiety and Depression Association of America.</p>
 
-<h2>Legacy of Negligence</h2>
-<p dir="ltr">A meager silver lining emerged as the tragedy sparked reviews of FERPA in the context of public safety. However, the core issue remains: The psychiatric needs of the "worried well" are not the same as those facing a psychotic fracture.</p>
-<p>Cho was a man driven to mass murder by the untreated momentum of his psychosis. His final words—"I didn't want to do this"<sup>3</sup>—betray an internal fracture that society failed to intercept. To neglect those on the periphery is to erode the social fabric, eventually placing the entire community at risk. Our safety is inextricably tied to our willingness to provide clinical sanctuary to the seemingly unreachable.</p>
+<p>There is a conversation waiting to happen about anxiety. This film gives it a place to begin.</p>
+<p>As the <em>Anxiety Club</em> team puts it, “This is not just a movie, it’s a movement.”</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/esprit/202604/the-question-mark-systemic-failures-in-the-virginia-tech-shooting" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/un-numb/202604/welcome-to-the-anxiety-club" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/esprit/202604/the-question-mark-systemic-failures-in-the-virginia-tech-shooting</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/esprit/202604/the-question-mark-systemic-failures-in-the-virginia-tech-shooting</guid>
-            <dc:creator><![CDATA[Nina E. Cerfolio M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/un-numb/202604/welcome-to-the-anxiety-club</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/un-numb/202604/welcome-to-the-anxiety-club</guid>
+            <dc:creator><![CDATA[Duygu Balan LPCC]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-leeloothefirst-5428826.jpg?itok=No-j6n1I" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/image_2.jpeg.jpg?itok=KdApHDCU" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Upside of Talking About Boring Topics]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/steinmetz.jpg?itok=VQnCUEEd" alt="Janina Steinmetz Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Life</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Upside of Talking About Boring Topics</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Discussing boring topics is more interesting than you might think.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">People often underestimate the enjoyment of "boring" conversations.</li><li style="margin-bottom:6px;">Engagement, not topic, drives enjoyment in live conversations.</li><li style="margin-bottom:6px;">Conversations connect us, even when topics seem mundane.</li>
+            </ul>
+          </div>
+                    <p>Although conversations are such a normal and mundane part of our social lives, we are often surprisingly anxious around them. People tend to believe that others like them less than they actually do, and that they have talked for longer than the other person wanted. Yet conversations are such an integral part of how we get to know others, relate to others, and connect with them that we want to make sure to get these conversations right. After all, an awkward or stilted conversation can make human connection quite difficult.</p>
+
+<p>New research focuses on one particular worry that people have around conversations: the idea that some topics are too boring to make for a good conversation. A paper by Elizabeth Trinh from the University of Michigan and colleagues examined whether people misjudge conversations about seemingly boring topics. In nine experiments with almost 2,000 total participants, the researchers show that people consistently underestimate how interesting and enjoyable these conversations will be. For instance, participants who predicted that a conversation about history would be boring found the conversation more interesting than expected when they actually engaged in this conversation. This was true for conversations with friends as well as with strangers.</p>
+
+<p>The authors explain this mismatch by highlighting that conversations consist of much more than just the topic itself. The enjoyment people get from conversations is driven more by engagement, which they describe as a dynamic process that emerges only during conversation (e.g., listening, responding, gesturing). Because engagement is hard to anticipate, people undervalue discussing boring topics. One experiment with 300 participants in Singapore directly tested this logic. Participants either (1) had a live conversation, (2) read a transcript, or (3) watched a recording of the same conversation. In this setup, only live conversations require active participation, which is engaging and enjoyable. The researchers found that the gap between predicted and actual enjoyment appears mainly in live conversations, not in passive conditions like reading or watching. This shows that it’s not the topic itself that drives enjoyment, but the interactive and engaging part of having a real conversation. Thus, people don’t fully anticipate how engaging talking to another person becomes once they actually do it.</p>
+
+<p>Many conversations in our daily lives revolve around predictable and superficial topics. We discuss the lunch offering with a colleague, the weather with an acquaintance we ran into, or the road work with a neighbor. On the one hand, we might view these as boring topics that should be avoided. On the other hand, these are the conversations that connect us to that person in that moment. If we shy away from seemingly boring topics, we might miss out on a fun connection. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-social-consumer/202604/the-upside-of-talking-about-boring-topics" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-social-consumer/202604/the-upside-of-talking-about-boring-topics</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-social-consumer/202604/the-upside-of-talking-about-boring-topics</guid>
+            <dc:creator><![CDATA[Janina Steinmetz Ph.D.]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/istockphoto-807376222-612x612.jpg?itok=PHhRTmDz" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Philosophy Matters for Psychology]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/nicholas-balaisis.jpg?itok=ZZmEqlTk" alt="Nicholas Balaisis Ph.D., RP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Philosophy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Philosophy Matters for Psychology</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Drawing therapeutic insights from German philosophy.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Philosophy is often treated as distinct from psychology.</li><li style="margin-bottom:6px;">Philosophical concepts like dialectics can be useful in clinical practice.</li><li style="margin-bottom:6px;">Dialectics offers a helpful model for psychotherapeutic aims and goals.</li>
+            </ul>
+          </div>
+                    <p>In the most recent translation of one of philosophy’s greatest texts, Hegel’s <em>The Phenomenology of Spirit,</em> the translators make an interesting claim relating the book more to psychology than to philosophy: “The <em>Phenomenology</em> actually reads more like a series of cultural psychoanalytic sessions in which Hegel does his patients’ 'free association' with them.… there’s probably little that Hegel could have learned later from Freud” (xvii).</p>
+
+<p>The authors here point to an unusual style in Hegel that makes it feel less like a strict thesis or argument being laid out (which it is) than a model of thinking and working through complex notions, in the spirit of experimentation or free association. This associative tone is, in a way, a good model for what we do in psychotherapy, which is to identify, process, work through, and reframe restrictive concepts or notions we may have, i.e., notions of love, attachment, success, "the good life," justice, betrayal, etc.</p>
+
+<p>In many clinical cases, psychological symptoms are often rooted in rigidly held notions that need redefinition and expansion. Take the simple case of love and relationships. We grow up with inherited notions of love from family, peers, or popular culture. The action or practice of love and attachment can simulate some of these preconceptions, but typically exceeds our previous grasp (how could it not?). For instance, long-term monogamy might take detours into betrayal and ruptures of trust, tainting and souring the idealistic notion of love. An individual may have to redefine love as something that contains ambivalence, doubt, and lingering hurt. Redefinition hurts, but it is inevitable on the road to maturity and adult notions of love.</p>
+
+<h2>Dialectics and Psychotherapy</h2>
+<p>This short example expresses one of the fundamental insights of Hegel—the notion of the dialectic. One of the most significant concepts in the history of philosophy, the dialectic is both widely misinterpreted and undervalued as a framework in modern psychological practice.</p>
+
+<p>Dialectics are typically understood with the equation Thesis + Antithesis = Synthesis, or argument, counter-argument equals revised argument. Many common psychological techniques, like CBT, rely on this common assumption of the dialectic. In the CBT thought record, a hallmark of clinical practice, the client identifies a dominant or “hot thought” like “I’m not good enough” or “I’ll always be a failure” (Thesis). Through examination of concrete evidence or facts, the client presents a list of facts that resist or conflict with this subjective assertion (Antithesis). The concluding part of a thought record offers an alternative or “balanced” thought in hopes of reframing the client’s rigid notion and alleviating anxiety or worry (Synthesis).</p>
+
+<p>While this method can be useful, it is not what Hegel meant by dialectics. Instead of something additive like a synthesis, the dialectic refers to the organic dissolution of a phenomenon, proposition, or state through inherent contradiction. Something within the organic phenomenon is self-negating, which propels the organism into change via this contradiction, forming a new provisional whole. Expressed as a formula, it may be better expressed as position or form + negation + negation of the negation = new form or restored position.</p>
+
+<p>While this seems conceptually difficult, it actually becomes quite evident in concrete clinical practice and indeed human experience as such. This works both developmentally and conceptually. Puberty is a good example here. When we go through puberty, our bodies naturally “negate” themselves; we are changed by our hormones—interests, bodily appearance, abilities, freedoms, and limitations. We outgrow the innocence of childhood, and this often comes with the pain of transformation and transition.</p>
+
+<p>We, or others like parents, may try to resist this transformation, hoping to preserve the Edenic garden of youth. But resistance often produces neuroses—infantilization, failure to launch, stultification. Following Hegel’s view, a psychologically “healthy” approach would be to follow the dialectic process, to let puberty or general development take hold, and follow it through logically, accepting the pains and necessary losses that accompany it. (He calls this the necessary “road of despair.”)</p>
+
+<h2>Sublation and Psychology</h2>
+<p>On the other end of the “road of despair” is not more despair, however, but wisdom, growth, and true adulthood. Think of other development milestones like leaving the family home or allowing an imperfect relationship to end. Some people become less well as they resist these natural or logical stages of change. Clinging too hard to the family of origin may prevent new and engaging attachments to friends and lovers. Holding on too tightly to a relationship that is no longer serving you may also bind you neurotically to poor relational patterns or coping mechanisms.</p>
+
+
+
+  
+
+
+<p>Letting go, or allowing the negation to cut and pass through, allows for the next move of the dialectic, which is the negation of the negation, or the sublation. A difficult word to translate into English, sublation refers to canceling, preserving, and raising to a higher level. A bud that is negated in the transformation into a flower is not destroyed or reduced. Rather, it is canceled and elevated into a new form. While Hegel never referred to individuals and “growth” in his philosophy, we can see how relevant this notion is to clinical work.</p>
+
+<p>Letting go, moving on, and forgiveness are such prominent themes in psychotherapy and often explicit clinical goals. Our resistance to these is often rooted in a scarcity, in not giving up on attached ideas or people. We know that growing must involve a certain amount of letting go and leaving behind, but we do not trust that there are more or better forms of life ahead in their place.</p>
+
+<p>Taking Hegel psychologically, here, we would say that in his notion of the negating power of the dialectic, we do gain something in allowing ourselves to be undercut by the force of the negative. Simplistically, we might call this wisdom. Wisdom is not about living a life without despair or undercutting experiences. Wisdom comes in knowing the truth about life, as much as we can. Truth for Hegel is paired inevitably with negation—or self-destruction—but knowing life in this way gives us the pleasure of truth. We now know life freed from our previously innocent but naive forms. It is a refashioning of the Adam and Eve story. Knowledge and wisdom cannot be had without some kind of price; freedom is not free.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/our-devices-our-selves/202604/why-philosophy-matters-for-psychology" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/our-devices-our-selves/202604/why-philosophy-matters-for-psychology</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/our-devices-our-selves/202604/why-philosophy-matters-for-psychology</guid>
+            <dc:creator><![CDATA[Nicholas Balaisis Ph.D., RP]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-rahime-ciftci-253746582-12527831.jpg?itok=8ktlWSIh" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
