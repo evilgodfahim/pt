@@ -4,210 +4,258 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 21:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 22:47:17 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 21:47:48 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 22:47:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Many Ways Chatbot Tools Can Manipulate Us]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/patrick_plaisance.jpg?itok=5EnDDZvI" alt="Patrick L. Plaisance Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Many Ways Chatbot Tools Can Manipulate Us</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">While helpful, AI assistants can mislead by design. And they can be gamed, too.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Day the 'Sandwich Generation' Got Real]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/ritaluss.png.jpg?itok=aIeddRSU" alt="Rita Lussier" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Midlife</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Day the 'Sandwich Generation' Got Real</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Difficult decisions for the "sandwich generation."</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">'Frictionless' exchange and sycophantic interactions may have long-term effects on our social lives.</li><li style="margin-bottom:6px;">More people are relying on AI assistants for daily 'interpersonal continuity,' yet few policies address this.</li><li style="margin-bottom:6px;">LLMs are vulnerable to manipulation themselves by commercial interests and bad actors.</li>
+              <li style="margin-bottom:6px;">A vacation cut short by real-life emergencies highlights the 'sandwich generation' dilemma.</li><li style="margin-bottom:6px;">Balancing care for kids and aging parents is a struggle the 'sandwich generation' faces.</li><li style="margin-bottom:6px;">Conflicting family obligations demand immediate attention and tough decisions.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatbotmanipulationimage3.jpg?itok=Lt9NVL0m" width="320" height="213" data-insert-type="image" title="Alex Shuper / Unsplash" alt="Alex Shuper / Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Alex Shuper / Unsplash</div>
-</div>
-</div>
-</div>
-<p>As we continue our headlong rush into our new “chatbot culture,” where Silicon Valley companies are pushing the use of AI assistants into virtually every corner of our lives, we are realizing real productivity and quality-of-life benefits. Yet just as apparent are the psychological risks of manipulation arising from the very structure of large language model-based tools themselves. We allow Big Tech to ignore or minimize these risks at our own peril. At the very least, we should be informed and clear-eyed about these risks and how they are baked into the design of chatbot tools.</p>
+                    <p>We are sitting here, husband and wife, on the edge of the bed.</p>
+<p>Outside the window, a babbling brook winds its way around a golf course, palm trees sway back and forth in the breeze, the fun and fantasy of our long-awaited and much-anticipated Disney World vacation stretch as far as our eyes can see. But we are sitting here, on the edge of the bed.</p>
 
-<p>Some AI ethics concerns have been getting considerable attention. Chatbot tools are reporting decreasing fabrication rates, but since we are being urged to rely on them, error rates are still a problem. Even if Google’s AI Overview tool is accurate 9 out of 10 times, as a recent analysis reported, this still means that it is providing tens of millions of wrong answers every hour as it processes more than 5 trillion searches a year (Mickel et al., 2026). Ethicists also have sounded the alarm over disturbing examples of <a href="https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202512/ai-de-skilling-will-chatbot-use-corrode-our-humanness">cognitive de-skilling</a> or creative dispossession that result from reliance on AI assistants. And they are calling attention to the risks associated with ill-considered or unjustified <a href="https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202401/the-danger-of-dishonest-anthropomorphism-in-chatbot-design">anthropomorphic features</a> that exploit our tendency to over-trust “social” or human-like interfaces.</p>
+<p>In the other room, the kids are waiting for us. Thousands of miles away from school and homework, they are as silly as the cartoons they are watching on TV. We hear them laughing. We hear them calling us. But we are sitting here, on the edge of the bed.</p>
+<p>There has been news from home and it is not good. The cellphone call is still ringing in our ears, its repercussions unraveling before us like a thread of a tightly-knit sweater that just a minute ago was so comfortable and now it’s coming apart.</p>
 
-<p>There are many other ethical problems in the design and implementation of LLM-based tools, but three concerns have arguably gained a sense of urgency:</p>
-<ul>
-<li>The push to develop “frictionless” interactive experiences and the resulting problem of sycophancy;</li>
-<li>The failure of AI developers to provide distinct use parameters for short-term task-based interaction and long-term use that creates what’s called “interpersonal continuity”;</li>
-<li>The vulnerability of LLMs to be “gamed” by commercial interests and bad actors.</li>
-</ul>
+<p>My husband’s mother has fallen down in her apartment. It’s her shoulder. It’s her heart.</p>
+<p>My husband’s mind is on fast-forward. What now? What happens next? Will she be able to go back to her apartment? Will she need help? What should we do? What will she want to do? Why didn’t we talk about this? Why didn’t we plan for this?</p>
 
+<p>Slow down, I tell him. She’s in the hospital. That’s all we know right now. That’s all we can know.</p>
+<p>But taking one step at a time is not his nature. And in this particular instance, it’s made more difficult because he’s an only child. Ever since his dad died nearly 30 years ago, he’s known that his mother needs him. Depends on him. He’s her family. He’s all there is.</p>
+
+<p>In the whirlwind of thoughts, odd as it may seem, what I can’t get out of my head is a TV commercial. Years ago, it was part of a campaign for John Hancock Financial Services.</p>
+<p>What you see are two grandparents going around and around and around on a carousel laughing with their grandchildren. The images are nice enough. It’s the words on the screen that haunted me then and still do.</p>
+
+<p>“Your children. Your parents. Yourself. Who do you love the least?”</p>
+<p>It speaks to the heart of that "sandwich generation" thing we’ve heard and read and talked about so much before. And if there’s one person who could articulate the conflicting emotions of the baby boomers when they’re feeling the pull of their aging parents on the one hand and the tug of their kids on the other, it would be my husband. And why wouldn’t he? After all, he wrote the commercial.</p>
+
+<p>But never had it hit home like this before. Never had either of us felt it as keenly as we do in this one moment of uncertainty, sitting here on the edge of the bed.</p>
+<h2>"Who do you love the least?"</h2>
+<p>I’m sure that when my husband wrote that question, he suspected what the answer would be. And now that he’s here with me on this vacation, in this land where nothing is real and yet everything is suddenly way too real, he knows the truth.</p>
+
+<p>There is no answer. </p>
 <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
+<div class="image-article_inline_full">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatbotmanipulationimage1.jpg?itok=zoUjNHG_" width="320" height="213" data-insert-type="image" title="Deniz Demirci / Unsplash" alt="Deniz Demirci / Unsplash"></div>
-<div class="insertArea--origin subtext">Source: Deniz Demirci / Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-04/paolo-bendandi-s8wrjl8-aey-unsplash.jpg?itok=07qJRSW7" width="639" height="419" data-insert-type="image" alt="What happens when you're in the middle?" title="Paolo Bendandi/Unsplash"></div>
+<div class="caption">What happens when you're in the middle?</div>
+<div class="insertArea--origin subtext">Source: Paolo Bendandi/Unsplash</div>
 </div>
 </div>
 </div>
-<h2>Sycophancy and frictionless design</h2>
-<p>We all love to be flattered, to be told that we’re right, that our opinions are brilliant. Chatbot developers know this, and that’s why they regularly adjust levels of “agreeableness” exhibited through algorithmic systems. Too little agreeableness and an AI assistant will discourage our engagement by challenging anything in our prompts. Too much and the chatbot becomes sycophantic. Get it just right, and we stay there and boost their product’s useful and profit potential. OpenAI made national news when it dramatically dialed back agreeableness levels from its ChatGPT-4 version to its 5 version last year, leaving millions of users traumatized when their previously amiable or even intimate AI accounts went “cold.” As users, we must keep in mind that agreeableness levels can vary widely by company, and that they do not exist to make us happy but to serve the commercial interest that these companies have in our continued engagement. Research has also raised questions about the serious effects that our reliance on “frictionless” chatbots may have on our real lives. Difference and dissonance are common features in our real relationships and are actually necessary for our social and cognitive development. When we opt for chatbot agreeableness over the messiness of real life, real harm can occur (Cheng et al., 2026).</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<h2>Discrete tasks versus relationship-building</h2>
-<p>It is one thing to use a chatbot to offer an analysis of a complex corporate spreadsheet in narrative form. It is quite another to harness the “conversational” capacities of an AI assistant and disclose intimacies, seek life coaching, or build actual companionship across a span of time. Yet most LLM-based tools are geared toward performing well with the former, and developers have largely ignored what might happen when people use chatbots for what’s called “interpersonal continuity.” The 2024 report by Google DeepMind, “The Ethics of Advanced AI Assistants,” documents this concern:</p>
-
-<blockquote><p>Existing economic incentives and oversimplified models of human beings have led to the development and deployment of technologies that meet users’ short-term wants and needs,… so they tend to be adopted and liked by users. However, in this way we may neglect considerations around the impact that human-technology relationships can have on users over time and how long-term beneficial dynamics can be sustained.</p>
-</blockquote>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatbotmanipulationimage2.jpg?itok=KlraDJ9G" width="320" height="191" data-insert-type="image" title="Anton Maksimov / Unsplash" alt="Anton Maksimov / Unsplash"></div>
-<div class="insertArea--origin subtext">Source: Anton Maksimov / Unsplash</div>
-</div>
-</div>
-</div>
-<p>How much should AI assistants be personalized? Should time limits or pop-up warnings be used? Should accounts be “aligned” with user preferences? Just as with the development of social media platforms in the early 2000s, when engagement is used as the only measure of success, long-term harms tend to be minimized.</p>
-
-<h2>LLMs are getting gamed </h2>
-<p>Remember all the hand-wringing over how businesses sought to manipulate Google’s search engine to ensure high placement on search results? Google has been forced to build elaborate safeguards to ward off bad actors and protect its search integrity. Now, we are seeing how both bad actors and corporate interests can manipulate our chatbot prompt results. Have you heard of bixonimania? It’s a troublesome skin condition that has gotten a lot of attention recently. Except there’s no such thing as bixonimania. It’s a fake condition dreamed up by a Swedish medical researcher to test whether LLMs would pick up on the example misinformation and incorporate it in their health advice. Osmanovic Thunström uploaded two fake studies about it and then watched as chatbots—including Microsoft’s Copilot, Google’s Gemini, and OpenAI’s ChatGPT—took it seriously and began repeating it (Stokel-Walker, 2026).</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>Chatbot effectiveness depends heavily on the quality of the prompts we use. Since few of us are experts, chatbot services and “prompt libraries” have emerged. GoDaddy, for example, offers a prompt library and urges users to “use these AI prompts to help boost your advertising strategy” (GoDaddy.com). Many such aids can be useful, but they also can promote language, even single words, to favor specific brands or services without users’ knowledge. In a recent study on the effectiveness of such “perturbed” prompts, even subtle synonym replacements in prompts can increase the likelihood (in some cases, up to 78 percent) that a chatbot will mention a specific brand (Lin et al., 2025). Such manipulative prompt suggestions “give the appearance of a personalized chatbot experience while ultimately undermining users’ autonomy.”</p>
-
-
-
-  
-
-
-<p>These and other examples of “large language manipulations” demonstrate the urgent need for greater ethical deliberation on both the design and use of AI assistants.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202604/the-many-ways-chatbot-tools-can-manipulate-us" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/for-the-moment/202604/the-day-the-sandwich-generation-got-real" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202604/the-many-ways-chatbot-tools-can-manipulate-us</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202604/the-many-ways-chatbot-tools-can-manipulate-us</guid>
-            <dc:creator><![CDATA[Patrick L. Plaisance Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/for-the-moment/202604/the-day-the-sandwich-generation-got-real</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/for-the-moment/202604/the-day-the-sandwich-generation-got-real</guid>
+            <dc:creator><![CDATA[Rita Lussier]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/chatbotmanipulationimage3.jpg?itok=2m9Max8e" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/paolo-bendandi-s8wrjl8-aey-unsplash.jpg?itok=0jmA2lqM" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Why Our Dreams Are So Stressful]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-12/Hylton.png.jpg?itok=goVvfl0Z" alt="Emily Hylton-Jean Ph.D., MPH" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dreaming</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Our Dreams Are So Stressful</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Upsetting dreams may actually help us feel better in the long run.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Uncoding the Strange Language of Dreams]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/layne_dalfen_biopic.jpg?itok=1Ip_soav" alt="Layne Dalfen" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dreaming</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Uncoding the Strange Language of Dreams</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When we take time to decode our dreams, they can often help us in waking life.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Humans have long sought to understand the purpose of dreaming.</li><li style="margin-bottom:6px;">Two psychological theories of dreaming paint different pictures of the role of dreams in emotional processing.</li><li style="margin-bottom:6px;">The continuity theory suggests that dreams reflect our waking emotions, matching dream mood with waking mood.</li><li style="margin-bottom:6px;">The emotion regulation theory sees dreams as a pressure valve that actively helps us process what we feel.</li>
+              <li style="margin-bottom:6px;">Our dreams offer up puns or plays on words that may point us to the solution to a problem.</li><li style="margin-bottom:6px;">Repetition in dreams may appear in the form of completely different images that when broken down are the same.</li><li style="margin-bottom:6px;">When we hold back feelings in our waking life, a drama-filled dream can be just the attention-getter needed.</li>
+            </ul>
+          </div>
+                    <p>My client, Sylvia, recounted to me a distressing dream in which she reacted with shock and extreme annoyance when a guest covered her walls in glue. Through our discussion of the dream, she realized that the gluer was communicating to her a solution to a problem she was having with one of her own clients, essentially demonstrating that she should have "stuck to" her own business principles in dealing with the client.</p>
+
+<p>By bringing the odd substance of the dream into the light of day, Sylvia was able to consider what she should have said and to rethink a decision that troubled her.</p>
+<h2>The Dream</h2>
+<p>Sylvia started by explaining her dream. “There was an event at our house, but not one that I had organized. A group of people had chosen my house to host a party for charity, so it felt very busy and chaotic with the comings and goings of the guests and the stuff they were bringing.</p>
+
+<p>“After the party, everyone was busy cleaning and packing up. I went downstairs (this was a big old house with long corridors and stone walls), and as I arrived downstairs, I saw that one of the guests had applied glue to the walls. I was shocked and wondered how I was going to clean all that up. I kept saying: ‘Who does that? Who covers walls in glue?’ For some reason, I think the man who had applied the glue had done it to help clean up.”</p>
+
+<p>Sylvia continued: “While I was trying to clean the glue up, I started smelling smoke, so we went outside to see where the smell was coming from and realized it was from a tornado. We started running back to the house. I almost got swept up, but we made it back inside to the basement, safe within the old stone walls.”</p>
+
+<h2>The Discussion</h2>
+<p>I started by saying, "Let's begin in the middle. You said, 'I was shocked and wondered how I was going to clean all that up.' And you kept repeating, 'Who does that? Who covers walls in glue?'</p>
+<p>"At that moment in the dream, would you say you were shocked and angry? Do I have your feelings correct?"</p>
+
+<p>Sylvia confirmed, "Maybe anger, yes. Extreme annoyance, for sure.</p>
+<p>"My feelings in this dream make me think of something,” she added. “A few days ago, I went to train a new client. Her house is big and old, and she had the place set up for a party.</p>
+<p>"She asked me to lower my fee. Part of me felt extreme annoyance. As I was leaving, I noticed a For Sale sign in front of her house, so I checked the listing. I was shocked to see the house listed at almost $3 million! Here are those two emotions—extreme annoyance and shock!"</p>
+
+<p>I wondered, "Did you agree when the client asked you to lower your fee?"</p>
+<p>Sylvia explained, "She requested that we work together three times per week. I told her that my schedule could not accommodate that right now, but that when it could, I would consider it.</p>
+<p>"Immediately, I regretted saying that. The price of gas is so high right now that I'm considering raising my fee, not lowering it."</p>
+
+<p>I offered, "I think I hear you saying you want to 'stick' to your fee. Let's stay with this thought and focus a bit on the man with the glue. You somewhat excuse him, giving him the grace to imagine he was actually trying to help."</p>
+<p>Hearing my interpretation, Sylvia jumped in. "Yes! This is me giving myself a break for telling the woman I would consider lowering my fee.</p>
+
+<p>"I was trying to help, just like the man was, but it’s not the kind of help this woman needs. It's better for me to help myself, especially after discovering that she's wealthy."</p>
+<p>Wanting to explore the dream's end, I asked, "You say that while you were trying to clean up the glue, you smelled smoke that turned out to be from a tornado. You describe yourself almost getting swept up, but you got back inside to the basement, safe within the old stone walls."</p>
+
+
+
+  
+
+
+<p>Sylvia confirmed, "I got swept up offering her the possibility of lowering my fee.</p>
+<p>"And the whole dream revolving around a charity event? That's so funny because it reminds me of a conversation with my mom, just a few days ago. I found out that we both commit to at least one gesture of kindness per day.</p>
+
+<p>"I have another client who just lost her job unexpectedly, and I decided to continue training her for free because I don’t want her to lose momentum. I consider this a gesture of kindness, not lowering my fee for someone who doesn't need it. This dream feels like my response, comparing these two events.”</p>
+
+<p>Immediately after sharing that insight, Sylvia raised another concern. "I do have a question about the level of drama in this dream,” she said. “All the action in the dream was exhausting, but in real life, it wasn't such a big deal. Why so much drama in my dream?"</p>
+<p>I offered, "It was because you under-reacted to the woman when she asked you to lower your fee. Your own response bothered you, but you were pushing it out of your mind. In your sleep, it rose to the surface with enough force to seize your attention. Your dream caused you to notice—to think—and then rethink how to respond."</p>
+
+<h2>What We Can Learn</h2>
+<p>This dream illustrates how we often replay at night an issue that concerns us during the day.</p>
+<p>Sylvia's dream dwells on the question of helping, seen both in the charity event and in the man "trying to help" by putting glue on the walls. The repetition forces Sylvia to consider how to balance helping her clients with helping herself.</p>
+
+<p>The "sticky" words within the dream help reveal the dreamer's internal debate around her professional fee. In stating that the man who placed glue on the walls was "only trying to help," the dreamer was able to uncover her conflicting emotions around sticking to her fee.</p>
+<p>Both actions and words from our dreams, when analyzed, can help us make decisions with greater self-awareness. We can even rethink previous decisions and possibly choose a different path.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/understanding-dreams/202604/uncoding-the-strange-language-of-dreams" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/understanding-dreams/202604/uncoding-the-strange-language-of-dreams</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/understanding-dreams/202604/uncoding-the-strange-language-of-dreams</guid>
+            <dc:creator><![CDATA[Layne Dalfen]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-tatianasyrikova-3933277.jpg?itok=1PduYbk7" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Long Live the King: 3 Lessons From 60 Years of the Black Panther]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/headshot_5-removebg-preview.jpg?itok=dUa7vPEe" alt="Felix Morton IV PhD, LCMHC, QS" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Race and Ethnicity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Long Live the King: 3 Lessons From 60 Years of the Black Panther</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">After 60 years, T'Challa is still shaping how we talk about Black men's health.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Suicide rates among Black Americans rose nearly 20% in two decades, even as rates fell for White Americans.</li><li style="margin-bottom:6px;">Black men are often praised for how well they're holding it together, while slowly falling apart inside.</li><li style="margin-bottom:6px;">Black men have long healed through community and culture, and therapy works best when it honors that wisdom.</li><li style="margin-bottom:6px;">Pop culture is already doing therapeutic work in people's lives, and clinicians should welcome it.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/kampus_production_pexels.jpg?itok=BwoQjm6_" width="320" height="214" data-insert-type="image" title="Kampus Production / Pexels" alt="Kampus Production / Pexels"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/pascalis_pw_shutterstock_1468057205.jpg?itok=DYKoMVrp" width="320" height="181" data-insert-type="image" title="Pascalis PW / Shutterstock.com" alt="Pascalis PW / Shutterstock.com"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Kampus Production / Pexels</div>
+<div class="insertArea--origin subtext">Source: Pascalis PW / Shutterstock.com</div>
 </div>
 </div>
 </div>
-<p dir="ltr">I started my predoctoral psychology internship in a large hospital system when my daughter was only a few months old. I was seeing more patients than ever before, but the biggest adjustment was having to document the majority of my human interactions on a given day. Meanwhile, I had an infant to take care of at home in the evenings. One night, in the midst of one of my daughter’s sleep regressions, I was up multiple times in the middle of the night to feed her. While sleeping in between feedings, I dreamed that I heard her crying. My dream-self thought, “If I get up to feed her, I’m going to have to document it in the medical record afterwards. It’s too much work, let’s just skip it.”</p>
+<p>The year 2026 marks six decades since the Black Panther first leapt across the pages of <a href="https://www.marvel.com/comics/issue/13258/fantastic_four_1961_52"><em>Fantastic Four</em> #52</a>. When Stan Lee and Jack Kirby introduced the world to T'Challa in 1966, they couldn't have imagined that the character would become a symbol and a mirror, one that decades later would reflect some of the most critical conversations about Black men's mental health.</p>
 
-<p dir="ltr">The idea that I would have to update my own daughter’s (nonexistent) medical chart after every nursing session was absurd. But our dreams are often bizarre, particularly when we are stressed, aren’t they?</p>
-<h2>Daytime Emotions and Nighttime Dreaming</h2>
-<p dir="ltr">Humans have been trying to understand (and sometimes interpret) our own dreams for much of recorded history. The study of psychology has taken on this curiosity, and Sigmund Freud himself was <a href="https://scholar.google.com/scholar_lookup?title=The%20Standard%20Edition%20of%20the%20Complete%20Works%20of%20Sigmund%20Freud&amp;author=S.%20Freud&amp;publication_year=1900&amp;">no stranger to dream theory</a>. There are two primary contemporary theories about the psychological function of dreams in processing emotion: The continuity theory suggests that dreams play a passive role in our emotional processing, and the emotion regulation theory suggests that dreams help us actively regulate emotions.</p>
+<p>I've spent years studying and paying attention to how Black men define and pursue wellness, and particularly how our society asks them to carry more than they can name. When Ryan Coogler’s <em>Black Panther</em> premiered in 2018, something drastically shifted. I literally watched grown men cheer, chant, dap each other up, and ultimately cry in theaters. Fathers brought their sons, teachers even brought classes of students, and coaches brought entire sports teams. A fictional African kingdom opened real-life emotional and representational doors and everybody wanted to witness that magic.</p>
 
-<h2>The Continuity Theory: Dreams as Background Music</h2>
-<p dir="ltr">The continuity theory suggests that our dreams reflect the types of thoughts and emotions that we are already experiencing while awake. Any role that dreams might play in emotional processing, according to this theory, is passive. Sometimes, our dreams include the same topics that we were thinking about during the day, just as I dreamed about medical records overnight while stressed about medical record documentation during the day. Both the mood (anxiety) and the content (medical documentation) matched. Other times, the mood will match, but the content will not. For example, many people dream that they totally forgot about a high school or college course until the day of the test, even decades after graduation. The dream mood might match their waking mood (stress), but the content (academic exams) doesn’t match their current waking reality. A key feature of the passive hypothesis is that we wake up from our dreams <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9626956/">in a similar mood to how we felt during our dream</a>. Meaning, if I fall asleep anxious about work and then have a stress dream, I’ll probably wake up in an anxious mood. The role of the dream is passive–it is merely a background score for the movie of our lives. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+<p>In 2026, that moment arguably matters more than ever before. Black men are dying and losing themselves at alarming rates, from suicide, depression, and burnout, to chronic stress from expectations and encounters with police that take their lives and retraumatize their communities (Darling-Hammond, 2025; Kaplan et al., 2022). Suicide in particular among Black Americans is rising sharply at a time when national trends are beginning to drop for other racial groups. Between 2000 and 2023, suicide rates in the U.S. climbed 36% overall. But that burden wasn't shared equally: While rates had declined among White Americans, they rose among Black Americans over that same period (Stone, Mack, and Qualters, 2023; Centers for Disease Control and Prevention [CDC], 2025). Nearly 50,000 people died by suicide in 2023, with millions more considering, planning, or attempting it (CDC, 2025) — a crisis that is not only worsening nationally but concentrating in communities where mental health resources remain least accessible or vastly limited.</p>
+
+<p>Attention to Black men's well-being has grown but accessible, culturally affirming care hasn't quite caught up yet. Popular culture, though, keeps showing up where traditional systems fall short. It gives us a voice, an idea, and often affirmation and permission around our experiences that too often live and suffer in silence. In those moments when we can't quite find the words, sometimes a hero speaks them to us. To honor <a href="https://www.marvel.com/comics/issue/130710/black_panther_60th_anniversary_special_2026_1">Black Panther's 60th anniversary</a>, and those that have contributed his story, here are three truths the character has taught us about Black men's mental health.</p>
+
+<h2>1. The Weight of the Crown Is Real, and It's Killing Us Softly</h2>
+<p>T'Challa is rarely shown resting. Across six decades of comics, cartoons, and film, he governs a nation, protects a world, mediates tribal conflicts, and honors ancestors often before sun even rises. Writers like Don McGregor, Christopher Priest, Ta-Nehisi Coates, Evan Narcisse, and David Liss have depicted a king who essentially never clocks out — quite frankly, because he can’t.</p>
+
+<p>“Heavy is the head that wears the crown," said Erik Killmonger in <a href="https://www.penguinrandomhouse.com/authors/2268676/sheree-renee-thomas/">Sheree Renée Thomas’ novelization of <em>Panther’s Rage</em></a>, and it’s real. Black men often carry chronic, unrelenting responsibility in their families, workplaces, and communities simultaneously. Many are uplifted as pillars and ideas to follow way before they're asked if they want the role. The result is what looks like masking <em>hyper-function</em>: excelling publicly while eroding privately. Promotions, daps, and compliments on the outside; exhaustion, emptiness, and numbness within.</p>
+
+<p>Courtney B. Vance and Dr. Robin L. Smith (2023) remind us in <a href="https://theinvisibleache.com/"><em>The Invisible Ache: Black Men Identifying Their Pain and Reclaiming Their Power</em></a> that traditional depression screens often miss it, because the person is still "performing." If we only measure Black men's mental health by whether they're outwardly falling apart, we'll keep missing the ones quietly breaking under their crowns.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/fred_duval_shutterstock_1806344677.jpg?itok=8RQIg-3h" width="320" height="213" data-insert-type="image" title="Fred Duval / Shutterstock.com" alt="Fred Duval / Shutterstock.com"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Fred Duval / Shutterstock.com</div>
+</div>
+</div>
+</div>
+<h2>2. Stoicism Can Cost Black Men Their Lives</h2>
+<p>T'Challa rarely cries. Even in grief, he holds in his emotion, conveying it only through silence and stillness. For many Black men, that restraint isn't indifference; it's training. We learn early that vulnerability can be punished and used against us. Our “strength” becomes synonymous with our silence.</p>
+
+<p>Chadwick Boseman taught us just how dangerous that bargain can be. While playing T'Challa, Boseman privately battled colon cancer, choosing to mask and carry his pain so others could carry hope. As a fan, losing him in 2020 was like a shot through the heart, and an unfortunate mirror and reminder. How many Black men are doing similar things in their own lives, swallowing pain so the people around them don't have to feel it? Masking their vulnerabilities so no one has to worry?</p>
+
+
+
   
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+
+
+<p>The research is clear: Rigid conformity to traditional masculine norms is linked to higher rates of depression, anxiety, and relationship strain (Mokhwelepa &amp; Sumbane, 2025). Stoicism may have protected earlier generations in environments where vulnerability was dangerous, but when it becomes the <em>only</em> mode and skill available, it stops protecting and starts isolating. Real healing requires giving Black men somewhere safe to <em>not</em> be strong.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/mimi-di-cianni-admpzw3omoy-unsplash.jpg?itok=woHmEzWD" width="320" height="213" data-insert-type="image" title="Mimi Di Cianni / Unsplash" alt="Mimi Di Cianni / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Mimi Di Cianni / Unsplash</div>
 </div>
-
-  </div>
-
-<p dir="ltr">The evidence for the continuity theory primarily comes from studies that ask participants to rate their own emotions before, during, and after dreaming. Findings from some of these studies have shown that participants who had negative emotions before going to sleep at night <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9523572/">were more likely to report having negative emotions while dreaming</a>, and that both positive and negative dream moods were <a href="https://pubmed.ncbi.nlm.nih.gov/36046002/">highly correlated with waking moods</a> the next morning. </p>
-
-<h2>The Emotion Regulation Theory: Stress Dreams Are Putting In Work</h2>
-<p dir="ltr">On the other hand, the emotion regulation theory of dreaming suggests that dreams play an important role in helping us actively process our emotions, particularly negative emotions. The emotion regulation theory preserves the idea that our dream emotions are related to the moods that we experience during the day. However, it posits that an active emotion regulation process occurs during dreaming that leaves us feeling different the next day. According to the emotion regulation theory, my dreams about documenting my baby’s nursing sessions helped me work through my stress and feel better when I left for the hospital the next day.</p>
-
-<p dir="ltr"><a href="https://pubmed.ncbi.nlm.nih.gov/1928468/">One influential research study</a> that supports the emotion regulation theory was led by Cartwright and colleagues. The research team recruited depressed, divorced participants to sleep overnight in a lab. Participants were woken up four times throughout the night and asked about their dreams. Those who reported dreaming about their ex-spouses in the sleep lab were more likely to see reductions in their depressive symptoms when the team followed up with them a year later. In <a href="https://pubmed.ncbi.nlm.nih.gov/16497389/">a replication study</a> with a different sample, the same research team found that participants who had more detailed, emotional dreams were more likely to see reductions in depression a year later. More recently, imaging studies such as <a href="https://pubmed.ncbi.nlm.nih.gov/31663236/">one by Sterpenich and colleagues</a> have shown that participants who report having fear-related dreams when they are awakened in the night show decreased activation in fear-related areas of the brain after they wake up. This suggests that their distressing dream might have benefited them by regulating pre-existing emotions of fear.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
 </div>
+</div>
+<h2>3. Healing Is a Group Project, Not a Solo Mission</h2>
+<p>Mainstream mental health models often center the individual: your symptoms, your coping skills, your recovery (Morton, 2025). The world of Wakanda offers a vastly different blueprint.</p>
+<p>Across the comics and film, T'Challa's growth is never his alone. Even though he tries numerous times to make it his own mission, we see in the movie that he learns to lean on Shuri's brilliance, Okoye's loyalty, Nakia's conscience, and his ancestors' wisdom. By the end of the first movie, he doesn't answer Killmonger's pain with revenge, but instead answers it with <em>infrastructure</em>, opening outreach centers, beginning in Oakland. His most heroic act is redistributing Wakanda’s resources so others don't have to survive alone.</p>
 
-  </div>
+<p>That lesson is major. Many of my Black male clients describe a kind of <em>forced autonomy</em>, like learning to handle everything alone because they shouldn’t rely on anyone else. It's a more toxic reframe of the “It’s my bed, so I’ll lay in it” idea. But connection to community, being rooted culturally, and collective empowerment are among the strongest predictors of well-being for Black men. Our ability to heal grows when it's watered, but Black men have to allow themselves to be planted first.</p>
 
-<h2>How Can These Theories Help My Sleep?</h2>
-<p dir="ltr">If you find the continuity theory compelling and want to reduce the likelihood of having a stress dream when feeling emotionally wired, use a buffer period before going to bed. Do something that is soothing or relaxing for the hour before bedtime in order to emotionally decompress: stretch, take a warm bath, fold laundry, read a book. Cultivating <a href="https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202409/6-ways-to-improve-your-sleep-without-medication">better habits related to sleep</a> can also help build positive, calming associations with your bedroom that may improve your dreams.</p>
+<h2>What T'Challa Still Has to Teach Us</h2>
+<p>Sixty years in, the Black Panther endures because he insists on something our culture often refuses Black men: the right to be many things, but human above all. Protector and protected, leader and learner, strong and struggling, simultaneously, without contradiction.</p>
 
-<p dir="ltr">It may be most beneficial in the long run, however, to radically accept that your stressful dreams may actually be helping you. Having a stress dream does not inherently mean that something is wrong with you or that you aren’t coping well with the stressors in your life. According to the emotion regulation theory, it could mean the opposite. In the studies of divorcees with depression, those dreaming in detail about their exes actually ended up feeling better a year later. It probably felt miserable to have those dreams and work through that pain every night. But in the end, the difficult dreams brought them closer to healing. The same could be true for you. Sometimes the <a href="https://thepoetryhour.com/poems/a-servant-to-servants/">words of Robert Frost</a> hold: there is “no way out but through.”</p>
+<p>For clinicians, this means moving beyond deficit-based frameworks and creatively building spaces where Black men can bring their full selves. For Black men, it means permission to rest, to feel, to be watered. Wakanda isn't just a place in a cool story. It's the possibility that we can dream and actualize something better for our lives. And six decades after a comic book hero first carried that dream, it's still within reach.</p>
+
+<p><em><strong>If you are in need of support, access PsychologyToday's therapy resources or call </strong></em><a href="https://988lifeline.org/?utm_source=SRC&amp;utm_medium=CPM&amp;utm_campaign=988GP&amp;utm_content=hotline&amp;gad_source=1&amp;gad_campaignid=23386135666&amp;gbraid=0AAAAABheg8eruDJZWyohRxaTJvH_g28bB&amp;gclid=CjwKCAjwhqfPBhBWEiwAZo196jnDtmP9U7TmYSFkjYjvDnBpgQzluApiumiu2iEfJS3WjcZXYB-yVBoCSGoQAvD_BwE"><em><strong>#988</strong></em></a><em><strong>.</strong></em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202604/why-our-dreams-are-so-stressful" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/herocomplex/202604/long-live-the-king-3-lessons-from-60-years-of-the-black-panther" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202604/why-our-dreams-are-so-stressful</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202604/why-our-dreams-are-so-stressful</guid>
-            <dc:creator><![CDATA[Emily Hylton-Jean Ph.D., MPH]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/herocomplex/202604/long-live-the-king-3-lessons-from-60-years-of-the-black-panther</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/herocomplex/202604/long-live-the-king-3-lessons-from-60-years-of-the-black-panther</guid>
+            <dc:creator><![CDATA[Felix Morton IV, PhD, LCMHC-QS, GTC]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/kampus_production_pexels.jpg?itok=y3UeshBa" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/distrographic_shutterstock_1806960385_0.jpg?h=44ad621a&amp;itok=iRGyupsk" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stop Demanding That You Know What's Next]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/nancy_colier.jpg?itok=GzEcSVcq" alt="Nancy Colier LCSW, Rev." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Help</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Stop Demanding That You Know What's Next</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The first step toward knowing what's next is letting yourself not know it.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>I’ve written a lot about the habit of “shoulding” on ourselves, constantly telling ourselves all the things we should do, improve, become, know, achieve, the better version of ourselves we should be. And specifically, the self-aggression of shoulding on ourselves, and the damage it does to our quality of life and ability to enjoy the present moment.</p>
+
+<p>Today, however, I want to investigate another self-aggressive activity we engage in, a close cousin of shoulding. It’s what I call “nexting.” Nexting is the habit of continually poking and prodding ourselves to know what’s next in our life, what we need to do, decide, attend to, accomplish, and create—next. In a nutshell, what <em>else</em> needs to happen. Nexting is the opposite of being in the present moment; it’s forcing ourselves to turn our attention away from what’s here right now.</p>
+
+<p>I was recently speaking with a friend whose youngest child is about to leave for college. She was obsessing over what she could do next to fill her empty nest; should she get a puppy, take up gardening, learn to sail? Later, I had a conversation with a colleague who’d just finished his most recent novel. He literally handed in the final draft the day before. His mind had already begun frantically searching for the topic of his next book. He was frustrated that he didn’t know what was next, assuming it must be writer’s block. Truth be told, I do the same: The instant I finish a project, I start searching for my next idea.</p>
+
+<p>We are conditioned to believe that we must keep moving forward in life, on to the next thing, and then the next, from the cradle to the grave. According to our grand cultural narrative, moving forward, otherwise known as “progress,” is the goal of a good life. It means we’re doing life right.</p>
+<p>As women, we’re taught that we have to start reinventing ourselves the instant our last child leaves for college, or the day we miss our first period. And that’s not enough; after that initial reinvention, we have to reinvent the reinvention. We even have a next for after we die, the afterlife, another place to have to get to. The nexts just keep on coming—they never end.</p>
+
+<p>While there’s a lot to be said for moving forward and progressing in life, personally, professionally, and spiritually, what we don’t know how to do is be where we are. We’re really not good at being in the present moment. And, we’re particularly not skilled at sitting in the unknown spaces, those moments when what’s next is not yet clear, when we don’t know what we want to do, explore, or pursue next. At the core, we don’t know how to not know. </p>
+
+<p>Not knowing what’s next makes us anxious; it feels like we’re nowhere, doing nothing. And so our mind rushes to fill the empty space, offering a thousand plans, problems, obsessions, ideas, and whatever else it can come up with for us to <em>do </em>and attend to in the meantime. The mind finds something with which to busy itself, a metaphoric bone to chew on. Once again, it’s not a problem that we want to make use of free time or be productive, but the anxiety that comes along with it, the urgency with which we feel compelled to get on to what’s next, is troubling.</p>
+
+<p>When we’re constantly nexting on ourselves, we’re missing out on the profound opportunity to get to know what it’s like in the unknown and not yet formed space, the in-between, still unclear space. We rush to lock it down and make it something we know. But becoming is a <em>something</em>—its own process. It might be one that’s uncomfortable and unfamiliar, that we’re not accustomed to sitting in, but it’s a place of its own. </p>
+
+
+<p>Nexting on ourselves, like shoulding on ourselves, can become a form of self-aggression. We use “what’s next?” against ourselves, insisting that we should always know what we want to do next, where we’re headed, and who we want to become. While we may calm the anxiety that comes from having to hang out in the corridor before the next door opens, we create a different kind of anxiety and discontent, the kind that comes from fielding the unending demands to know what we don’t know and, essentially, stop being in the place we actually are.</p>
+
+<p>If you suspect that you may be a habitual next-er, try this. Start paying attention to the voice inside you that asks you to decide or demands that you know what you don’t know yet. Start listening for the voice that tells you it’s not OK to be where you are, that the present moment is not enough, and not a place to land. Notice how often you hear some version of "what’s next?"<em> </em>inside your mind, or feel pressure to make a plan, have an experience, or be somewhere other than where you are. When you hear that voice, say to yourself (silently or aloud) “no next.” Then bring your attention back to what’s happening in this present moment—tune into your body, feel the sensations, drop into your now. Use your own attention to turn the transitional space, what feels like a non-space, into its own place—a destination, not just a launching pad. Ask yourself, "What’s it like right here if there’s nowhere else to get to—no next, just this.”</p>
+
+
+
+  
+
+
+<p>Play with these questions; see if <em>becoming</em> can become its own destination. Imagine the transitions in life, the corridors between rooms, as an opportunity to be curious about what’s percolating in you and what <em>wants</em> to come next. Relax and resist the urge to fill in the spaces so as to quell your own anxiety. Practice living in the questions rather than figuring out the answers. <em>Not knowing</em> is a place, and once you give yourself permission to be there, you may find that it’s one you can inhabit and even enjoy. The next time you start nexting on yourself, use it as an invitation—not to abandon the present moment, but to lean into it, and be curious about what it’s like to be right where you are. What you discover may surprise and even delight you.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202604/stop-demanding-that-you-know-whats-next" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202604/stop-demanding-that-you-know-whats-next</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202604/stop-demanding-that-you-know-whats-next</guid>
+            <dc:creator><![CDATA[Nancy Colier LCSW, Rev.]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-ann-h-45017-2646533.jpg?itok=tcJ-_kwy" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
