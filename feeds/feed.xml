@@ -4,184 +4,210 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 20:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 21:47:48 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 20:54:20 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 21:47:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Welcome to the Anxiety Club]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-08/db-pt-image-removebg-preview__1_.jpg?itok=UvWbGaEN" alt="Duygu Balan LPCC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Welcome to the Anxiety Club</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A conversation with director Wendy Lobel on filming comedians living with anxiety.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Many Ways Chatbot Tools Can Manipulate Us]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/patrick_plaisance.jpg?itok=5EnDDZvI" alt="Patrick L. Plaisance Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Many Ways Chatbot Tools Can Manipulate Us</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">While helpful, AI assistants can mislead by design. And they can be gamed, too.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Humor and anxiety coexist in "Anxiety Club," a film about comedians' mental health battles.</li><li style="margin-bottom:6px;">The documentary shows how comedy can open the door to more honest conversations about mental health.</li><li style="margin-bottom:6px;">A live stand-up tour extends "Anxiety Club's" impact, coinciding with Mental Health Awareness Month.</li>
+              <li style="margin-bottom:6px;">'Frictionless' exchange and sycophantic interactions may have long-term effects on our social lives.</li><li style="margin-bottom:6px;">More people are relying on AI assistants for daily 'interpersonal continuity,' yet few policies address this.</li><li style="margin-bottom:6px;">LLMs are vulnerable to manipulation themselves by commercial interests and bad actors.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/image_2.jpeg.jpg?itok=YjN7zEM9" width="320" height="204" data-insert-type="image" alt="Mark Normand" title="&quot;Anxiety Club&quot;"></div>
-<div class="caption">Mark Normand</div>
-<div class="insertArea--origin subtext">Source: "Anxiety Club"</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatbotmanipulationimage3.jpg?itok=Lt9NVL0m" width="320" height="213" data-insert-type="image" title="Alex Shuper / Unsplash" alt="Alex Shuper / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Alex Shuper / Unsplash</div>
 </div>
 </div>
 </div>
-<p>The caricature of anxiety is sweaty hands, hyperventilating into a paper bag, alarms blaring, someone visibly falling apart. However, for most people, the experience feels like being a captive audience to a brain that constantly twists through worst-case scenarios. It is very internal and hides behind success, performance, humor, and charm.</p>
+<p>As we continue our headlong rush into our new “chatbot culture,” where Silicon Valley companies are pushing the use of AI assistants into virtually every corner of our lives, we are realizing real productivity and quality-of-life benefits. Yet just as apparent are the psychological risks of manipulation arising from the very structure of large language model-based tools themselves. We allow Big Tech to ignore or minimize these risks at our own peril. At the very least, we should be informed and clear-eyed about these risks and how they are baked into the design of chatbot tools.</p>
 
-<blockquote><p>“It’s like there’s an edgy improv group in your brain…and it needs just one word suggestion to spin countless scenarios no one is comfortable with.” — Aparna Nancherla, <em>Anxiety Club</em></p>
-</blockquote>
-<p><em>Anxiety Club</em>, directed and produced by Wendy Lobel, is an award-winning documentary that offers an honest portrayal of anxiety, healing, and hope, using humor without diluting the experience. Through stand-up, skits, and exclusive interviews, the documentary follows some of today’s most brilliant comedians, including Tiffany Jenkins, Joe List, Marc Maron, Aparna Nancherla, Mark Normand, Baron Vaughn, and Eva Victor, pulling back the curtain on what it feels like to live inside an anxious mind. It offers rare access to that internal landscape through recognized voices, bringing what is often silenced into public conversation.</p>
+<p>Some AI ethics concerns have been getting considerable attention. Chatbot tools are reporting decreasing fabrication rates, but since we are being urged to rely on them, error rates are still a problem. Even if Google’s AI Overview tool is accurate 9 out of 10 times, as a recent analysis reported, this still means that it is providing tens of millions of wrong answers every hour as it processes more than 5 trillion searches a year (Mickel et al., 2026). Ethicists also have sounded the alarm over disturbing examples of <a href="https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202512/ai-de-skilling-will-chatbot-use-corrode-our-humanness">cognitive de-skilling</a> or creative dispossession that result from reliance on AI assistants. And they are calling attention to the risks associated with ill-considered or unjustified <a href="https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202401/the-danger-of-dishonest-anthropomorphism-in-chatbot-design">anthropomorphic features</a> that exploit our tendency to over-trust “social” or human-like interfaces.</p>
 
-<p>I had the pleasure of speaking with Wendy Lobel about the making of <em>Anxiety Club</em>. Lobel is a director and Emmy Award–winning producer with a background in journalism and documentary storytelling. She produced <em>Worried Sick </em>about teens with anxiety for <em>Nick News with Linda Ellerbee</em>, the long-running Nickelodeon series known for tackling complex social issues and current events geared toward young audiences.</p>
+<p>There are many other ethical problems in the design and implementation of LLM-based tools, but three concerns have arguably gained a sense of urgency:</p>
+<ul>
+<li>The push to develop “frictionless” interactive experiences and the resulting problem of sycophancy;</li>
+<li>The failure of AI developers to provide distinct use parameters for short-term task-based interaction and long-term use that creates what’s called “interpersonal continuity”;</li>
+<li>The vulnerability of LLMs to be “gamed” by commercial interests and bad actors.</li>
+</ul>
 
-<p>In our conversation, she spoke about witnessing profound suffering around anxiety, especially in teens, and having the privilege of seeing how transformative the appropriate therapeutic approach can be. She notes that this experience was what ultimately ignited the idea for <em>Anxiety Club</em>.</p>
-<p>Lobel was intentional about choosing comedians who were already speaking openly about mental health and who had the capacity to be vulnerable and transparent about their personal struggles. Describing herself as “a member of the anxiety club,” she brings an inherent understanding that deepens the interviews and builds trust within them.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatbotmanipulationimage1.jpg?itok=zoUjNHG_" width="320" height="213" data-insert-type="image" title="Deniz Demirci / Unsplash" alt="Deniz Demirci / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Deniz Demirci / Unsplash</div>
+</div>
+</div>
+</div>
+<h2>Sycophancy and frictionless design</h2>
+<p>We all love to be flattered, to be told that we’re right, that our opinions are brilliant. Chatbot developers know this, and that’s why they regularly adjust levels of “agreeableness” exhibited through algorithmic systems. Too little agreeableness and an AI assistant will discourage our engagement by challenging anything in our prompts. Too much and the chatbot becomes sycophantic. Get it just right, and we stay there and boost their product’s useful and profit potential. OpenAI made national news when it dramatically dialed back agreeableness levels from its ChatGPT-4 version to its 5 version last year, leaving millions of users traumatized when their previously amiable or even intimate AI accounts went “cold.” As users, we must keep in mind that agreeableness levels can vary widely by company, and that they do not exist to make us happy but to serve the commercial interest that these companies have in our continued engagement. Research has also raised questions about the serious effects that our reliance on “frictionless” chatbots may have on our real lives. Difference and dissonance are common features in our real relationships and are actually necessary for our social and cognitive development. When we opt for chatbot agreeableness over the messiness of real life, real harm can occur (Cheng et al., 2026).</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<blockquote><p>“I had these feelings of being nervous as a kid, and I just thought that I was crazy…back then, I didn’t really have anybody to talk to about it…because everybody else seemed fine. So, I was like, I’m not going to mention this is how I’m feeling… There was no word for it.” — Tiffany Jenkins, <em>Anxiety Club</em></p>
-</blockquote>
+  </div>
 
-<p>For many people with anxiety, structured environments create predictability, where expression feels safer and more contained.</p>
-<blockquote><p>“People always say, what, you’re an introvert, you’re a comedian? You’re anxious. How does that work? Well, because I’m on a stage, saying exactly what I want to say, exactly what I’ve been practicing. It’s honed. I know it works. And then you can’t talk…and then I get to leave.” — Mark Normand, <em>Anxiety Club</em></p>
+<h2>Discrete tasks versus relationship-building</h2>
+<p>It is one thing to use a chatbot to offer an analysis of a complex corporate spreadsheet in narrative form. It is quite another to harness the “conversational” capacities of an AI assistant and disclose intimacies, seek life coaching, or build actual companionship across a span of time. Yet most LLM-based tools are geared toward performing well with the former, and developers have largely ignored what might happen when people use chatbots for what’s called “interpersonal continuity.” The 2024 report by Google DeepMind, “The Ethics of Advanced AI Assistants,” documents this concern:</p>
+
+<blockquote><p>Existing economic incentives and oversimplified models of human beings have led to the development and deployment of technologies that meet users’ short-term wants and needs,… so they tend to be adopted and liked by users. However, in this way we may neglect considerations around the impact that human-technology relationships can have on users over time and how long-term beneficial dynamics can be sustained.</p>
 </blockquote>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/image_7.jpeg.jpg?itok=pvv1PXj1" width="320" height="240" data-insert-type="image" alt="Tara Brach, Ph.D., and Joe List" title="&quot;Anxiety Club&quot;"></div>
-<div class="caption">Tara Brach, Ph.D., and Joe List</div>
-<div class="insertArea--origin subtext">Source: "Anxiety Club"</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/chatbotmanipulationimage2.jpg?itok=KlraDJ9G" width="320" height="191" data-insert-type="image" title="Anton Maksimov / Unsplash" alt="Anton Maksimov / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Anton Maksimov / Unsplash</div>
 </div>
 </div>
 </div>
-<p>The film explores the relationship people have with their anxiety and different ways of approaching it. It follows Tiffany Jenkins through exposure therapy with clinician Natalie Noel, LMHC, while also showing Joe List engaging in somatic meditation with Tara Brach, Ph.D., offering access to different therapeutic modalities. Somatic techniques such as mindfulness and meditation help regulate the nervous system and bring awareness back to the body, interrupting the cycle of anxious thought patterns, whereas exposure therapy helps retrain the brain by facing feared situations instead of avoiding them. The nervous system learns that discomfort is tolerable and not dangerous. There is no one-size-fits-all phenomenon. Different approaches can all be pivotal in the healing journey. It is about finding what works.</p>
+<p>How much should AI assistants be personalized? Should time limits or pop-up warnings be used? Should accounts be “aligned” with user preferences? Just as with the development of social media platforms in the early 2000s, when engagement is used as the only measure of success, long-term harms tend to be minimized.</p>
 
+<h2>LLMs are getting gamed </h2>
+<p>Remember all the hand-wringing over how businesses sought to manipulate Google’s search engine to ensure high placement on search results? Google has been forced to build elaborate safeguards to ward off bad actors and protect its search integrity. Now, we are seeing how both bad actors and corporate interests can manipulate our chatbot prompt results. Have you heard of bixonimania? It’s a troublesome skin condition that has gotten a lot of attention recently. Except there’s no such thing as bixonimania. It’s a fake condition dreamed up by a Swedish medical researcher to test whether LLMs would pick up on the example misinformation and incorporate it in their health advice. Osmanovic Thunström uploaded two fake studies about it and then watched as chatbots—including Microsoft’s Copilot, Google’s Gemini, and OpenAI’s ChatGPT—took it seriously and began repeating it (Stokel-Walker, 2026).</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<blockquote><p>“I like knowing why I do the things I do…that’s why I go to therapy. I like knowing what makes me tick…what informs my decisions.” — Baron Vaughn, <em>Anxiety Club</em></p>
-</blockquote>
-<p>Anxiety has an evolutionary purpose. It is part of a survival system designed to detect threat and keep us alert, and it has been preserved because it serves a function. The work is learning to distinguish when it is protective and when it begins to interfere with the life we want to live (Balan, 2024).</p>
+  </div>
 
-<blockquote><p>“If you are incapacitated and your life is unmanageable…you should address that. If you are uncomfortable but you are OK…that might just be you.” — Marc Maron, <em>Anxiety Club</em></p>
-</blockquote>
-<p>Anxiety and addiction often intersect as attempts to escape internal distress. When the nervous system feels overwhelmed, substances can offer temporary relief by numbing intensity or managing racing thoughts, but they disrupt regulation and reinforce avoidance, making the underlying anxiety more entrenched over time (Balan, 2024).</p>
+<p>Chatbot effectiveness depends heavily on the quality of the prompts we use. Since few of us are experts, chatbot services and “prompt libraries” have emerged. GoDaddy, for example, offers a prompt library and urges users to “use these AI prompts to help boost your advertising strategy” (GoDaddy.com). Many such aids can be useful, but they also can promote language, even single words, to favor specific brands or services without users’ knowledge. In a recent study on the effectiveness of such “perturbed” prompts, even subtle synonym replacements in prompts can increase the likelihood (in some cases, up to 78 percent) that a chatbot will mention a specific brand (Lin et al., 2025). Such manipulative prompt suggestions “give the appearance of a personalized chatbot experience while ultimately undermining users’ autonomy.”</p>
 
 
 
   
 
 
-<blockquote><p>“…it felt like I could drown this, drink it away…but then you’re just dumping a depressant on top of depression and anxiety and insecurity.” — Joe List, <em>Anxiety Club</em></p>
-</blockquote>
-<p>Mental health struggles are often intensified by the assumption that everyone else is calmer, less chaotic, and more regulated. That belief amplifies isolation, fuels shame, and keeps people silent.</p>
+<p>These and other examples of “large language manipulations” demonstrate the urgent need for greater ethical deliberation on both the design and use of AI assistants.</p>
 
-<blockquote><p>“Wow, I got this brain… I wonder what it would be like to step into somebody else’s brain for a day…or twenty minutes even. Just to see what it’s like.” — Eva Victor, <em>Anxiety Club</em></p>
-</blockquote>
-<p>Wendy Lobel explained how each participant was filmed separately, often within their own homes and personal environments, creating a sense of familiarity and emotional safety that allowed for a more intimate and honest portrayal of their experiences. There was a shared understanding around the mission of the film, which created a sense of openness and a willingness to go deeper.</p>
-
-<p>Tiffany Jenkins’ therapeutic work in the film required true vulnerability and bravery. During filming, she was diagnosed with obsessive-compulsive disorder (OCD), which initially felt like it might shift the direction of the film. Instead, it expanded the conversation and resonated with many people who experience anxiety alongside intrusive or compulsive thoughts. The inclusion of OCD treatment added another layer to the narrative, strengthening its relevance. The cameras were present in the therapy room but intentionally unobtrusive, allowing the sessions to unfold naturally. Lobel emphasized that Jenkins was free to stop at any point if she felt uncomfortable, which helped create a sense of safety within that unpredictability.</p>
-
-<div class="insertArea ck-widget">
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202604/the-many-ways-chatbot-tools-can-manipulate-us" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202604/the-many-ways-chatbot-tools-can-manipulate-us</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/virtue-in-the-media-world/202604/the-many-ways-chatbot-tools-can-manipulate-us</guid>
+            <dc:creator><![CDATA[Patrick L. Plaisance Ph.D.]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/chatbotmanipulationimage3.jpg?itok=2m9Max8e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Our Dreams Are So Stressful]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-12/Hylton.png.jpg?itok=goVvfl0Z" alt="Emily Hylton-Jean Ph.D., MPH" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dreaming</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Our Dreams Are So Stressful</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Upsetting dreams may actually help us feel better in the long run.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Humans have long sought to understand the purpose of dreaming.</li><li style="margin-bottom:6px;">Two psychological theories of dreaming paint different pictures of the role of dreams in emotional processing.</li><li style="margin-bottom:6px;">The continuity theory suggests that dreams reflect our waking emotions, matching dream mood with waking mood.</li><li style="margin-bottom:6px;">The emotion regulation theory sees dreams as a pressure valve that actively helps us process what we feel.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/image_3.jpeg.jpg?itok=48FNaohX" width="320" height="240" data-insert-type="image" alt="Wendy Lobel and Carolin Ehrenburg" title="&quot;Anxiety Club&quot;"></div>
-<div class="caption">Wendy Lobel and Carolin Ehrenburg</div>
-<div class="insertArea--origin subtext">Source: "Anxiety Club"</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-04/kampus_production_pexels.jpg?itok=BwoQjm6_" width="320" height="214" data-insert-type="image" title="Kampus Production / Pexels" alt="Kampus Production / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Kampus Production / Pexels</div>
 </div>
 </div>
 </div>
-<p><em>Anxiety Club</em> is designed to make people feel seen, less alone, and more open to seeking help. It is a hilariously disarming and deeply moving documentary and a testament that laughter and mental health struggles are not mutually exclusive. The film is extending beyond the screen with a live stand-up tour launching during Mental Health Awareness Month, including a kickoff event at the Comedy Cellar in New York City on April 27 and the Laugh Factory in Hollywood on April 30. The tour coincides with the film’s May 1 TVOD release on platforms including Apple TV, Amazon Prime Video, PUNCHUP, Google Play, and YouTube Movies. The project is also reaching audiences through screenings at colleges, universities, and mental health organizations. A portion of proceeds from the <em>Anxiety Club</em> digital release will be donated to Comedy Gives Back and the Anxiety and Depression Association of America.</p>
+<p dir="ltr">I started my predoctoral psychology internship in a large hospital system when my daughter was only a few months old. I was seeing more patients than ever before, but the biggest adjustment was having to document the majority of my human interactions on a given day. Meanwhile, I had an infant to take care of at home in the evenings. One night, in the midst of one of my daughter’s sleep regressions, I was up multiple times in the middle of the night to feed her. While sleeping in between feedings, I dreamed that I heard her crying. My dream-self thought, “If I get up to feed her, I’m going to have to document it in the medical record afterwards. It’s too much work, let’s just skip it.”</p>
 
-<p>There is a conversation waiting to happen about anxiety. This film gives it a place to begin.</p>
-<p>As the <em>Anxiety Club</em> team puts it, “This is not just a movie, it’s a movement.”</p>
+<p dir="ltr">The idea that I would have to update my own daughter’s (nonexistent) medical chart after every nursing session was absurd. But our dreams are often bizarre, particularly when we are stressed, aren’t they?</p>
+<h2>Daytime Emotions and Nighttime Dreaming</h2>
+<p dir="ltr">Humans have been trying to understand (and sometimes interpret) our own dreams for much of recorded history. The study of psychology has taken on this curiosity, and Sigmund Freud himself was <a href="https://scholar.google.com/scholar_lookup?title=The%20Standard%20Edition%20of%20the%20Complete%20Works%20of%20Sigmund%20Freud&amp;author=S.%20Freud&amp;publication_year=1900&amp;">no stranger to dream theory</a>. There are two primary contemporary theories about the psychological function of dreams in processing emotion: The continuity theory suggests that dreams play a passive role in our emotional processing, and the emotion regulation theory suggests that dreams help us actively regulate emotions.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/un-numb/202604/welcome-to-the-anxiety-club" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/un-numb/202604/welcome-to-the-anxiety-club</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/un-numb/202604/welcome-to-the-anxiety-club</guid>
-            <dc:creator><![CDATA[Duygu Balan LPCC]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-04/image_2.jpeg.jpg?itok=KdApHDCU" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Upside of Talking About Boring Topics]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/steinmetz.jpg?itok=VQnCUEEd" alt="Janina Steinmetz Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Life</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Upside of Talking About Boring Topics</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Discussing boring topics is more interesting than you might think.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">People often underestimate the enjoyment of "boring" conversations.</li><li style="margin-bottom:6px;">Engagement, not topic, drives enjoyment in live conversations.</li><li style="margin-bottom:6px;">Conversations connect us, even when topics seem mundane.</li>
-            </ul>
-          </div>
-                    <p>Although conversations are such a normal and mundane part of our social lives, we are often surprisingly anxious around them. People tend to believe that others like them less than they actually do, and that they have talked for longer than the other person wanted. Yet conversations are such an integral part of how we get to know others, relate to others, and connect with them that we want to make sure to get these conversations right. After all, an awkward or stilted conversation can make human connection quite difficult.</p>
-
-<p>New research focuses on one particular worry that people have around conversations: the idea that some topics are too boring to make for a good conversation. A paper by Elizabeth Trinh from the University of Michigan and colleagues examined whether people misjudge conversations about seemingly boring topics. In nine experiments with almost 2,000 total participants, the researchers show that people consistently underestimate how interesting and enjoyable these conversations will be. For instance, participants who predicted that a conversation about history would be boring found the conversation more interesting than expected when they actually engaged in this conversation. This was true for conversations with friends as well as with strangers.</p>
-
-<p>The authors explain this mismatch by highlighting that conversations consist of much more than just the topic itself. The enjoyment people get from conversations is driven more by engagement, which they describe as a dynamic process that emerges only during conversation (e.g., listening, responding, gesturing). Because engagement is hard to anticipate, people undervalue discussing boring topics. One experiment with 300 participants in Singapore directly tested this logic. Participants either (1) had a live conversation, (2) read a transcript, or (3) watched a recording of the same conversation. In this setup, only live conversations require active participation, which is engaging and enjoyable. The researchers found that the gap between predicted and actual enjoyment appears mainly in live conversations, not in passive conditions like reading or watching. This shows that it’s not the topic itself that drives enjoyment, but the interactive and engaging part of having a real conversation. Thus, people don’t fully anticipate how engaging talking to another person becomes once they actually do it.</p>
-
-<p>Many conversations in our daily lives revolve around predictable and superficial topics. We discuss the lunch offering with a colleague, the weather with an acquaintance we ran into, or the road work with a neighbor. On the one hand, we might view these as boring topics that should be avoided. On the other hand, these are the conversations that connect us to that person in that moment. If we shy away from seemingly boring topics, we might miss out on a fun connection. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-social-consumer/202604/the-upside-of-talking-about-boring-topics" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-social-consumer/202604/the-upside-of-talking-about-boring-topics</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-social-consumer/202604/the-upside-of-talking-about-boring-topics</guid>
-            <dc:creator><![CDATA[Janina Steinmetz Ph.D.]]></dc:creator>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/istockphoto-807376222-612x612.jpg?itok=PHhRTmDz" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Philosophy Matters for Psychology]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/nicholas-balaisis.jpg?itok=ZZmEqlTk" alt="Nicholas Balaisis Ph.D., RP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Philosophy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Philosophy Matters for Psychology</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Drawing therapeutic insights from German philosophy.</h2><p style="font-size:0.9em;color:#666;">Posted April 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Philosophy is often treated as distinct from psychology.</li><li style="margin-bottom:6px;">Philosophical concepts like dialectics can be useful in clinical practice.</li><li style="margin-bottom:6px;">Dialectics offers a helpful model for psychotherapeutic aims and goals.</li>
-            </ul>
-          </div>
-                    <p>In the most recent translation of one of philosophy’s greatest texts, Hegel’s <em>The Phenomenology of Spirit,</em> the translators make an interesting claim relating the book more to psychology than to philosophy: “The <em>Phenomenology</em> actually reads more like a series of cultural psychoanalytic sessions in which Hegel does his patients’ 'free association' with them.… there’s probably little that Hegel could have learned later from Freud” (xvii).</p>
-
-<p>The authors here point to an unusual style in Hegel that makes it feel less like a strict thesis or argument being laid out (which it is) than a model of thinking and working through complex notions, in the spirit of experimentation or free association. This associative tone is, in a way, a good model for what we do in psychotherapy, which is to identify, process, work through, and reframe restrictive concepts or notions we may have, i.e., notions of love, attachment, success, "the good life," justice, betrayal, etc.</p>
-
-<p>In many clinical cases, psychological symptoms are often rooted in rigidly held notions that need redefinition and expansion. Take the simple case of love and relationships. We grow up with inherited notions of love from family, peers, or popular culture. The action or practice of love and attachment can simulate some of these preconceptions, but typically exceeds our previous grasp (how could it not?). For instance, long-term monogamy might take detours into betrayal and ruptures of trust, tainting and souring the idealistic notion of love. An individual may have to redefine love as something that contains ambivalence, doubt, and lingering hurt. Redefinition hurts, but it is inevitable on the road to maturity and adult notions of love.</p>
-
-<h2>Dialectics and Psychotherapy</h2>
-<p>This short example expresses one of the fundamental insights of Hegel—the notion of the dialectic. One of the most significant concepts in the history of philosophy, the dialectic is both widely misinterpreted and undervalued as a framework in modern psychological practice.</p>
-
-<p>Dialectics are typically understood with the equation Thesis + Antithesis = Synthesis, or argument, counter-argument equals revised argument. Many common psychological techniques, like CBT, rely on this common assumption of the dialectic. In the CBT thought record, a hallmark of clinical practice, the client identifies a dominant or “hot thought” like “I’m not good enough” or “I’ll always be a failure” (Thesis). Through examination of concrete evidence or facts, the client presents a list of facts that resist or conflict with this subjective assertion (Antithesis). The concluding part of a thought record offers an alternative or “balanced” thought in hopes of reframing the client’s rigid notion and alleviating anxiety or worry (Synthesis).</p>
-
-<p>While this method can be useful, it is not what Hegel meant by dialectics. Instead of something additive like a synthesis, the dialectic refers to the organic dissolution of a phenomenon, proposition, or state through inherent contradiction. Something within the organic phenomenon is self-negating, which propels the organism into change via this contradiction, forming a new provisional whole. Expressed as a formula, it may be better expressed as position or form + negation + negation of the negation = new form or restored position.</p>
-
-<p>While this seems conceptually difficult, it actually becomes quite evident in concrete clinical practice and indeed human experience as such. This works both developmentally and conceptually. Puberty is a good example here. When we go through puberty, our bodies naturally “negate” themselves; we are changed by our hormones—interests, bodily appearance, abilities, freedoms, and limitations. We outgrow the innocence of childhood, and this often comes with the pain of transformation and transition.</p>
-
-<p>We, or others like parents, may try to resist this transformation, hoping to preserve the Edenic garden of youth. But resistance often produces neuroses—infantilization, failure to launch, stultification. Following Hegel’s view, a psychologically “healthy” approach would be to follow the dialectic process, to let puberty or general development take hold, and follow it through logically, accepting the pains and necessary losses that accompany it. (He calls this the necessary “road of despair.”)</p>
-
-<h2>Sublation and Psychology</h2>
-<p>On the other end of the “road of despair” is not more despair, however, but wisdom, growth, and true adulthood. Think of other development milestones like leaving the family home or allowing an imperfect relationship to end. Some people become less well as they resist these natural or logical stages of change. Clinging too hard to the family of origin may prevent new and engaging attachments to friends and lovers. Holding on too tightly to a relationship that is no longer serving you may also bind you neurotically to poor relational patterns or coping mechanisms.</p>
-
-
-
+<h2>The Continuity Theory: Dreams as Background Music</h2>
+<p dir="ltr">The continuity theory suggests that our dreams reflect the types of thoughts and emotions that we are already experiencing while awake. Any role that dreams might play in emotional processing, according to this theory, is passive. Sometimes, our dreams include the same topics that we were thinking about during the day, just as I dreamed about medical records overnight while stressed about medical record documentation during the day. Both the mood (anxiety) and the content (medical documentation) matched. Other times, the mood will match, but the content will not. For example, many people dream that they totally forgot about a high school or college course until the day of the test, even decades after graduation. The dream mood might match their waking mood (stress), but the content (academic exams) doesn’t match their current waking reality. A key feature of the passive hypothesis is that we wake up from our dreams <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9626956/">in a similar mood to how we felt during our dream</a>. Meaning, if I fall asleep anxious about work and then have a stress dream, I’ll probably wake up in an anxious mood. The role of the dream is passive–it is merely a background score for the movie of our lives. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
+  </div>
 
-<p>Letting go, or allowing the negation to cut and pass through, allows for the next move of the dialectic, which is the negation of the negation, or the sublation. A difficult word to translate into English, sublation refers to canceling, preserving, and raising to a higher level. A bud that is negated in the transformation into a flower is not destroyed or reduced. Rather, it is canceled and elevated into a new form. While Hegel never referred to individuals and “growth” in his philosophy, we can see how relevant this notion is to clinical work.</p>
+<p dir="ltr">The evidence for the continuity theory primarily comes from studies that ask participants to rate their own emotions before, during, and after dreaming. Findings from some of these studies have shown that participants who had negative emotions before going to sleep at night <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9523572/">were more likely to report having negative emotions while dreaming</a>, and that both positive and negative dream moods were <a href="https://pubmed.ncbi.nlm.nih.gov/36046002/">highly correlated with waking moods</a> the next morning. </p>
 
-<p>Letting go, moving on, and forgiveness are such prominent themes in psychotherapy and often explicit clinical goals. Our resistance to these is often rooted in a scarcity, in not giving up on attached ideas or people. We know that growing must involve a certain amount of letting go and leaving behind, but we do not trust that there are more or better forms of life ahead in their place.</p>
+<h2>The Emotion Regulation Theory: Stress Dreams Are Putting In Work</h2>
+<p dir="ltr">On the other hand, the emotion regulation theory of dreaming suggests that dreams play an important role in helping us actively process our emotions, particularly negative emotions. The emotion regulation theory preserves the idea that our dream emotions are related to the moods that we experience during the day. However, it posits that an active emotion regulation process occurs during dreaming that leaves us feeling different the next day. According to the emotion regulation theory, my dreams about documenting my baby’s nursing sessions helped me work through my stress and feel better when I left for the hospital the next day.</p>
 
-<p>Taking Hegel psychologically, here, we would say that in his notion of the negating power of the dialectic, we do gain something in allowing ourselves to be undercut by the force of the negative. Simplistically, we might call this wisdom. Wisdom is not about living a life without despair or undercutting experiences. Wisdom comes in knowing the truth about life, as much as we can. Truth for Hegel is paired inevitably with negation—or self-destruction—but knowing life in this way gives us the pleasure of truth. We now know life freed from our previously innocent but naive forms. It is a refashioning of the Adam and Eve story. Knowledge and wisdom cannot be had without some kind of price; freedom is not free.</p>
+<p dir="ltr"><a href="https://pubmed.ncbi.nlm.nih.gov/1928468/">One influential research study</a> that supports the emotion regulation theory was led by Cartwright and colleagues. The research team recruited depressed, divorced participants to sleep overnight in a lab. Participants were woken up four times throughout the night and asked about their dreams. Those who reported dreaming about their ex-spouses in the sleep lab were more likely to see reductions in their depressive symptoms when the team followed up with them a year later. In <a href="https://pubmed.ncbi.nlm.nih.gov/16497389/">a replication study</a> with a different sample, the same research team found that participants who had more detailed, emotional dreams were more likely to see reductions in depression a year later. More recently, imaging studies such as <a href="https://pubmed.ncbi.nlm.nih.gov/31663236/">one by Sterpenich and colleagues</a> have shown that participants who report having fear-related dreams when they are awakened in the night show decreased activation in fear-related areas of the brain after they wake up. This suggests that their distressing dream might have benefited them by regulating pre-existing emotions of fear.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>How Can These Theories Help My Sleep?</h2>
+<p dir="ltr">If you find the continuity theory compelling and want to reduce the likelihood of having a stress dream when feeling emotionally wired, use a buffer period before going to bed. Do something that is soothing or relaxing for the hour before bedtime in order to emotionally decompress: stretch, take a warm bath, fold laundry, read a book. Cultivating <a href="https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202409/6-ways-to-improve-your-sleep-without-medication">better habits related to sleep</a> can also help build positive, calming associations with your bedroom that may improve your dreams.</p>
+
+<p dir="ltr">It may be most beneficial in the long run, however, to radically accept that your stressful dreams may actually be helping you. Having a stress dream does not inherently mean that something is wrong with you or that you aren’t coping well with the stressors in your life. According to the emotion regulation theory, it could mean the opposite. In the studies of divorcees with depression, those dreaming in detail about their exes actually ended up feeling better a year later. It probably felt miserable to have those dreams and work through that pain every night. But in the end, the difficult dreams brought them closer to healing. The same could be true for you. Sometimes the <a href="https://thepoetryhour.com/poems/a-servant-to-servants/">words of Robert Frost</a> hold: there is “no way out but through.”</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/our-devices-our-selves/202604/why-philosophy-matters-for-psychology" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202604/why-our-dreams-are-so-stressful" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/our-devices-our-selves/202604/why-philosophy-matters-for-psychology</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/our-devices-our-selves/202604/why-philosophy-matters-for-psychology</guid>
-            <dc:creator><![CDATA[Nicholas Balaisis Ph.D., RP]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202604/why-our-dreams-are-so-stressful</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mapping-your-mental-health-journey/202604/why-our-dreams-are-so-stressful</guid>
+            <dc:creator><![CDATA[Emily Hylton-Jean Ph.D., MPH]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/pexels-rahime-ciftci-253746582-12527831.jpg?itok=8ktlWSIh" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-04/kampus_production_pexels.jpg?itok=y3UeshBa" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
