@@ -4,49 +4,421 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 19:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 20:43:53 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 19:01:28 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 20:43:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Emotions and Meaning]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/-1_79.jpg?itok=0iZtku-N" alt="Steven Stosny, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Emotions and Meaning</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Meaninglessness may be the worst psychological state.</h2><p style="font-size:0.9em;color:#666;">Posted May 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Mental Disorders So Often Travel Together]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-11/Ed_Ergenzinger.jpg?itok=pinn-iHn" alt="Ed Ergenzinger J.D., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Mental Disorders So Often Travel Together</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">New genetic research helps explain why psychiatric conditions so often overlap.</h2><p style="font-size:0.9em;color:#666;">Posted May 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Meaning is created in the human brain by weaving thought and emotion into coherent categories and narratives.</li><li style="margin-bottom:6px;">The brain interprets emotional signals through appraisal and reality-testing, regulating them by explanation.</li><li style="margin-bottom:6px;">Explanations guide mental processing and help determine what gets processed.</li><li style="margin-bottom:6px;">Explanations do not have to be right; they just have to make experience coherent, for better or worse.</li>
+              <li style="margin-bottom:6px;">Many psychiatric conditions overlap not only in symptoms, but also in genetic risk.</li><li style="margin-bottom:6px;">A new study of more than 6 million people mapped shared genetic patterns across 14 disorders.</li><li style="margin-bottom:6px;">The findings may eventually help clinicians think more flexibly about diagnosis and treatment.</li>
             </ul>
           </div>
-                    <p>Meaning is how we experience the brain’s hierarchical classification system. It allows us to make comparisons, rankings, and judgments about value: what is desirable, helpful, beautiful, and moral. Emotion, experience, culture, religion, and historical moment heavily influence the brain’s construction of meaning. </p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/geralt-connection-8967705.jpg?itok=ldYB2Lns" width="320" height="181" data-insert-type="image" title="Gerd Altmann/Pixabay" alt="Gerd Altmann/Pixabay"></div>
+<div class="insertArea--origin subtext">Source: Gerd Altmann/Pixabay</div>
+</div>
+</div>
+</div>
+<p>Why does depression so often arrive with anxiety? Why do trauma symptoms, substance use, and mood problems so frequently become tangled together? For many patients, receiving more than one psychiatric diagnosis can feel confusing and discouraging, leaving them to question if the first diagnosis was wrong or if they're getting worse. But a large new study suggests another possibility: many psychiatric disorders overlap because some of their biological roots overlap, too.</p>
 
-<p>Meaning is largely a function of the prefrontal cortex (the part of the brain in back of the forehead), which reaches full structural maturity around age 28. I call it the "adult brain". Emotional signals are largely a function of the limbic system, which myelinates around age three. I call it the "toddler brain".</p>
+<p>In research published in <em>Nature</em>, the Psychiatric Genomics Consortium’s Cross-Disorder Working Group analyzed genetic data from more than 1 million people with a childhood- or adult-onset psychiatric disorder and about 5 million people without a diagnosis. The researchers examined 14 conditions and found that the diagnoses cluster into broader, partly overlapping families:</p>
 
-<h2>Components of Meaning</h2>
-<p>The brain interprets emotional signals through appraisal (<em>What is going on?</em>), reality-testing (calculating the probability that the signal is accurate, based on inferences about the self and the world), and explanation. </p>
-<p>For example, a sudden noise that disrupts prevailing sound patterns can stimulate anxiety:</p>
+<ul>
+<li><strong>Internalizing disorders</strong>: major depression, anxiety disorders, and post-traumatic stress disorder (PTSD).</li>
+<li><strong>Schizophrenia and bipolar disorder.</strong></li>
+<li><strong>Compulsive disorders</strong>: obsessive-compulsive disorder (OCD), anorexia nervosa, and, to a lesser extent, Tourette syndrome.</li>
+<li><strong>Substance use disorders</strong>: alcohol use disorder, nicotine dependence, opioid use disorder, and cannabis use disorder.</li>
+<li><strong>Neurodevelopmental disorders</strong>: autism spectrum disorder, attention-deficit/hyperactivity disorder (ADHD) and, to a lesser extent, Tourette syndrome.</li>
+</ul>
 
-<p><strong>Appraisal—</strong>The adult brain identifies the source of the noise as the phone ringing and assigns high probability to the accuracy of the signal. (If there’s no phone in the house, the probability plummets.) The adult brain explains the phone ringing as a routine occurrence of no threat, and the anxiety immediately subsides, usually replaced by interest or annoyance. The former motivates answering the phone, the latter motivates ignoring it.</p>
+<p>Some of the overlaps were striking. Major depression, anxiety disorders, and PTSD shared an estimated 90 percent of their genetic risk, while schizophrenia and bipolar disorder shared about 66 percent of their genetic markers. </p>
+<p>The findings support what many clinicians already see in practice. Depression and anxiety often share processes such as rumination, avoidance, sleep disruption, threat sensitivity, and emotion regulation difficulties. PTSD can include depression, hypervigilance, irritability, and substance use as attempts to manage unbearable arousal. ADHD may coexist with anxiety or substance use, not because a person is careless or weak, but because attention, impulse control, reward sensitivity, and stress regulation all intersect.</p>
 
-<p><strong>Reality-Testing </strong>is, in part, validation or invalidation of the emotional signal. If the adult brain validates the anxiety stimulated by the ringing phone (<em>Something must be wrong.</em>) it speculates (<em>bill collector, death in the family</em>), sending anxiety levels through the roof. If it invalidates the signal, say through denial (<em>I didn’t hear anything)</em>, the anxiety persists at a slightly lower level, as in “whistling in the dark.” If it explains the signal as, say, a stupid overreaction, anxiety gives way to embarrassment or shame. </p>
+<p>Genetics, however, is not destiny. A genetic association does not mean a person is fated to develop a disorder. Environment, trauma exposure, relationships, discrimination, poverty, culture, sleep, physical health, and access to care all shape mental health. The study tells us something important about population-level risk; it does not reduce any individual to their DNA.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p><strong>Explanations</strong> are to meaning what feelings are to emotions. Although the slowest part of the thinking system, explanations seem to organize and dominate meaning in the way that feelings seem to organize and dominate emotions.<br> <br>Explanations aid survival in two important ways. They enhance interest, which motivates behaviors suitable to finding food, shelter, protection, and opportunities for sex. They also protect us from the harmful effects of our own alarm system (fight or flight) by creating an illusion of order, predictability, and safety.</p>
+  </div>
 
-<p>The influence of emotions on explanations becomes clear in low-intensity emotional experience. A slight arousal of anxiety often leads to arbitrary selection of one of a thousand potential causes, as the brain looks for something to worry about. When feelings get hurt, the brain looks for something to resent. A tremor of guilt leads us to seize one of a thousand misdemeanors as the cause. Explanations of a dull feeling of shame can derive from myriad presumed failures or defects. Hostility will force focus on one of a thousand offenses. </p>
+<p>The study also hints at future treatment possibilities. Disorders that clustered together genetically showed similarities in when certain genes were active during development and which brain cell types were implicated. For instance, internalizing disorders were linked more strongly with genes expressed in oligodendrocytes, while schizophrenia and bipolar disorder were more strongly tied to genes expressed in excitatory neurons. These findings are early, but they may guide future efforts to develop or repurpose treatments for conditions that commonly appear together.</p>
+
+<p>For patients, the immediate takeaway is more human than technical: having multiple diagnoses is not a personal failure, and it does not mean your symptoms are “all over the place.” Comorbidity is common because the mind and brain do not organize themselves according to the chapters of a diagnostic manual.</p>
 
 
-<p>Each of these emotions might have been triggered by some transient change within the self or in the environment: a bit of gas or, voices from a farther room. Some people feel a slight sadness when they see a bird fly. </p>
-<p>Explanations do not have to be right; they just have to make experience coherent, for better or worse.</p>
+<p>For clinicians, the study reinforces the value of treating across categories. A patient with depression and anxiety may benefit from approaches that target shared processes rather than treating each diagnosis as a separate island.</p>
+<p>But the research offers a useful shift in perspective. Mental disorders may be named separately, yet they often travel together because they share vulnerabilities. Understanding those shared roots may help reduce stigma, improve care, and remind us that people are more complex than any single label.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/anger-in-the-age-of-entitlement/202411/emotions-and-meaning" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/night-sweats-and-delusions-of-grandeur/202605/why-mental-disorders-so-often-travel-together" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/anger-in-the-age-of-entitlement/202411/emotions-and-meaning</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/anger-in-the-age-of-entitlement/202411/emotions-and-meaning</guid>
-            <dc:creator><![CDATA[Steven Stosny, Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/night-sweats-and-delusions-of-grandeur/202605/why-mental-disorders-so-often-travel-together</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/night-sweats-and-delusions-of-grandeur/202605/why-mental-disorders-so-often-travel-together</guid>
+            <dc:creator><![CDATA[Ed Ergenzinger J.D., Ph.D.]]></dc:creator>
             <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2024-11/pexels-lilartsy-2787215.jpg?itok=uB2osuwb" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/geralt-connection-8967705.jpg?itok=rZNQtzRe" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Older Men Are at Higher Risk for Suicide]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/S_Tagay_HF_0675.png.jpg?itok=GXsizcKo" alt="Sefik Tagay Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Suicide</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Older Men Are at Higher Risk for Suicide</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">As men age, their need for autonomy, dignity, belonging, and meaning may suffer.</h2><p style="font-size:0.9em;color:#666;">Posted May 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Older men die by suicide at disproportionately high rates.</li><li style="margin-bottom:6px;">Late-life risk often reflects several threatened psychological needs at once.</li><li style="margin-bottom:6px;">Prevention should restore agency, connection, usefulness, dignity, and meaning.</li>
+            </ul>
+          </div>
+                    <p>Robert, 78, did not describe himself as depressed. He said he was “just old.” After retirement, his wife’s death, and a hip fracture that left him unable to drive, his world became smaller. He stopped meeting former colleagues, declined invitations from his daughter, and insisted he did not want to “be a burden.” What looked like ordinary withdrawal from the outside was psychologically more complex: Several foundations of livability were weakening at once.</p>
+
+<p>Robert is a fictional composite, but his situation reflects a broader epidemiological pattern. In the United States, men die by suicide far more often than women. Data from the Centers for Disease Control show that in 2023, the suicide rate among males was approximately four times higher than among females. And men aged 75 and older had the highest suicide rate of any age group. The pattern is not unique to the U,S.; male predominance in suicide deaths, especially in later life, has been observed across many high-income countries.</p>
+
+<p>A purely diagnostic explanation is necessary but insufficient. Depression, chronic pain, alcohol use, sleep disturbance, neurocognitive changes, bereavement, and psychiatric comorbidity all matter. But late-life suicide among men cannot be understood only as untreated depression. It also needs to be understood as a crisis in psychological need regulation.</p>
+
+<h2>A Needs-Based Model for Late-Life Suicide Risk</h2>
+<p>The theory of universal psychological needs (TUPG) proposes that psychological stability depends on six basic needs: safety and predictability, connection and belonging, autonomy and influence, competence and effectiveness, dignity and recognition, and meaning and coherence. In later life, suicide risk may increase when several of these needs are threatened simultaneously rather than sequentially or in isolation.</p>
+
+<p>This perspective helps clarify what may happen in men like Robert. Retirement may weaken the sense of competence and usefulness. Bereavement may remove the central relationship through which emotions were regulated. Physical illness may reduce autonomy and predictability. Social withdrawal may erode belonging. Dependency may threaten dignity. The person may not say, “I am suicidal.” He may say, “I am useless,” “I am a burden,” or “There is nothing left.”</p>
+
+<p>This is where a needs-based approach connects with established suicide theories. The interpersonal theory of suicide emphasizes thwarted belongingness and perceived burdensomeness as central to suicidal desire. The integrated motivational-volitional model emphasizes defeat, entrapment, and the transition from suicidal thoughts to suicidal behavior. TUPG does not replace these models; it organizes their mechanisms within a broader architecture of human functioning. Thwarted belongingness reflects a collapse of connection. Perceived burdensomeness injures dignity and meaning. Defeat threatens competence. Entrapment expresses the loss of autonomy and influence.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Masculine socialization can intensify this process. Many men are taught to value independence, emotional control, productivity, and self-reliance. The norms can support responsibility and endurance. But under conditions of frailty, bereavement, dependency, or chronic illness, they can become psychologically costly. Help may feel like loss of autonomy. Disclosure may feel like loss of dignity. Care may feel like evidence of incompetence. Recent meta-analytic evidence links traditional masculinity and gender-role conflict with more negative attitudes toward psychological help-seeking and greater self-stigma.</p>
+
+
+<p>This may explain why distress in older men is often expressed indirectly. It may appear as irritability, withdrawal, refusal of care, somatic complaints, alcohol use, neglect of treatment, or rigid insistence that others would be “better off” without them. These signs should not be reduced to stubbornness or personality. They may indicate that belonging, agency, competence, dignity, or meaning has become unstable.</p>
+
+<p>A needs-based approach does not replace clinical assessment; it deepens it. It asks not only whether an older man is depressed but which foundations of livability have become threatened.</p>
+<h2>Prevention as Restoration of Livability</h2>
+<p>First, primary care is central. Older men may see physicians more readily than psychotherapists. Routine assessment should therefore include depression, pain, sleep, alcohol use, bereavement, loneliness, functional decline, perceived burdensomeness, and access to highly lethal means. The conversation should be collaborative rather than paternalistic.</p>
+
+
+
+  
+
+
+<p>Second, prevention should protect autonomy. Instead of saying, “You need help,” clinicians and relatives can ask, “What would make daily life feel more manageable again?” Shared decision-making, concrete problem-solving, and small domains of choice can reduce the experience of being controlled.</p>
+<p>Third, belonging should be rebuilt before crisis. Peer groups, bereavement groups, volunteering, intergenerational programs, and social prescribing—in which clinicians connect patients with community activities or supportive groups—can function as need-based interventions. The evidence base for social prescribing is promising but heterogeneous; it should be used thoughtfully, not as a substitute for clinical care.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Fourth, prevention should restore competence. Rehabilitation, adapted tasks, mentoring roles, and opportunities to contribute can counter the belief “I am no longer useful.” Even small experiences of effectiveness matter when larger capacities decline.</p>
+<p>Fifth, dignity should be treated as a clinical variable. Older men should not be addressed as problems to be managed but as persons with histories, skills, losses, pride, and remaining agency. Respectful language, privacy, choice, and recognition of contribution can reduce shame.</p>
+
+<p>Finally, meaning must be actively addressed. Meaning in later life may emerge through legacy, reconciliation, caregiving, memory, spirituality, craft, humor, or being needed in one specific relationship.</p>
+<p>Older male suicide is not simply a problem of men not talking. It is often a problem of men losing the psychological conditions that make disclosure, help-seeking, and future imagination possible. Prevention begins when support restores agency without humiliation, connection without pressure, competence without denial, and dignity without silence.</p>
+
+<h2>Safety Note</h2>
+<p>If you or someone you know is struggling with suicidal thoughts, contact the 988 Suicide &amp; Crisis Lifeline by calling or texting 988.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202605/why-older-men-are-at-higher-risk-for-suicide" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202605/why-older-men-are-at-higher-risk-for-suicide</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202605/why-older-men-are-at-higher-risk-for-suicide</guid>
+            <dc:creator><![CDATA[Sefik Tagay Ph.D.]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Power of Community: Preventing Loneliness and Isolation]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/jasmin-tmcconatha.jpg?itok=j-cR37og" alt="Jasmin Tahmaseb-McConatha Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Power of Community: Preventing Loneliness and Isolation</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Community support as a pathway for promoting well-being in later life.</h2><p style="font-size:0.9em;color:#666;">Posted May 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Being a part of a community can provide a pathway for better health, life satisfaction, and happiness.</li><li style="margin-bottom:6px;">Access to the resources provided by community can boost resilience and make life’s challenges manageable.</li><li style="margin-bottom:6px;">People are lonely because they are disconnected from their communities and natural environments.</li>
+            </ul>
+          </div>
+                    <p>In contemporary cultural discourse, much attention has been given to the importance of community. Humans have a fundamental need for belonging and social connection. Research consistently indicates that strong satisfying social ties are key to better mental and physical health. Despite this, social bonds appear to be weakening, and loneliness, social isolation, and alienation are reaching unprecedented levels (Salari et al., 2025).</p>
+
+<p>Loneliness is a painful human experience. Unfortunately, it is also a universal experience, as most people are lonely at some point in life. The current loneliness crisis is most evident among young adults, who are the loneliest age group. At the same time, older adults are more vulnerable to the long-term negative effects of chronic loneliness. In later life, individuals face an increased risk of loss, including the loss of friends, family, health, and mobility, conditions that increase loneliness and isolation. If loneliness persists and becomes chronic, it can lead to increased susceptibility to a range of health problems, including heart disease, type 2 diabetes, stroke, dementia, anxiety, depression, and even premature death (Cacioppo, &amp; Cacioppo, 2018; Courtin, &amp; Knapp, 2017). Loneliness is closely linked to social isolation and alienation and occurs when meaningful and satisfying relationships and connections are lacking. We feel lonely and isolated when we feel disconnected from the people, communities, and environments in which we live (Berkman et al., 2017; Barreto, et al. 2021).</p>
+
+<p>Having access to community support, feeling that one is connected to a community, a network of support, serves as an important buffer for preventing loneliness and isolation (McConatha et al. 2023). “Community” can be understood as a person’s network of support including friends, family, and access to social, emotional, and instrumental support including connections with natural environments as well as online spaces. Kahn and Antonucci (1980) proposed an early theory of social support that relates to the contemporary notion of community. The Social Convoy Theory of Support is a framework that addresses the ways that people rely upon various forms of support across the life course. The model emphasizes that while some needs are stable other change over the life course. Making use of three concentric circles of support, from the closest level of support in the inner circle, to less intimate support in the middle circle, to the more peripheral connections in the outer circles. Together the layers comprise a crucial “community of support” surrounding an individual and promoting well-being.</p>
+
+<p>A sense of belonging to a community and access to the resources provided by one’s community can boost resilience and make life’s many challenges more manageable. Such support is especially vital during vulnerable periods and later life transitions. By providing support, affirmation, belonging, and a shared identity, a community can also shape health-related behavior. By offering pathways leading to health promoting behaviors. For example, community support can increase physical and social activities, lead to group gatherings, conversation, walking, talking, civic and political engagement, and mentoring. During periods of uncertainty and transition, belonging to personal, professional, or cultural communities can foster a sense of connection and belonging, which can buffer stress and support overall well-being (McConatha et al., 2023).</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>A Case Study of One Supportive Community</h2>
+<p>I recently visited family in a small village that lies a 30-minute drive from the German city of Frankfurt. Like many German villages, it is surrounded by woods and forests but is a short five-minute drive, 10-minute bus ride, or 20-minute walk to the nearby town where life’s daily necessities are easily found. This village is one of many places that exemplify a blend of natural and built spaces that provide a sense of belonging and community. There is a strong commitment to ensuring that all residents, even refugees from other lands, remain engaged, supported, and connected. Neighbors provide both emotional and practical help to one another, creating an environment that fosters social connection and helps prevent loneliness and isolation. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/bee_house.jpg?itok=gRkHpuqX" width="320" height="239" data-insert-type="image" alt="Bee hotel outside the village." title="Jasmin Tahmaseb McConatha"></div>
+<div class="caption">Bee hotel outside the village.</div>
+<div class="insertArea--origin subtext">Source: Jasmin Tahmaseb McConatha</div>
+</div>
+</div>
+</div>
+<p>Situated in a wine-producing region, the village hosts a local wine festival each fall. This event provides an example of the commitment to nature, neighbors, and tradition that still exists in many rural areas around the world. Throughout the year, residents organize regular social gatherings where potluck meals are shared, music is played, and everyone is made to feel welcome. These traditions contribute to a strong sense of belonging and a shared identity. In times of difficulty, if someone is sick, if a ride is needed, it is generally offered by one of the neighbors. The village is surrounded by abundant green space, walking trails, wooded areas, and picnic spots are within easy reach. Time in nature, access to natural spaces is an important part of daily life, it is an integral part of the community’s shared activities. For example, apple orchards offer residents the opportunity to adopt a tree, and on designated days, cider-making becomes a community event. These practices reinforce social bonds and preserve cultural heritage. Activities such as tending apple trees, producing cider, playing music, and participating in the care of the surrounding forest help build and maintain a shared identity. For older residents, the village also organizes group walks in the surrounding woods, open to anyone who wishes to join. These walks provide safety, physical activity, and valuable social connection, further strengthening the fabric of the community. They connect generations and provide continuity in a rapidly changing world.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/egg_sales_photo.jpg?itok=G4xI7Nsq" width="320" height="395" data-insert-type="image" alt="Self-serve egg sales." title="Jasmin Tahmaseb McConatha"></div>
+<div class="caption">Self-serve egg sales.</div>
+<div class="insertArea--origin subtext">Source: Jasmin Tahmaseb McConatha</div>
+</div>
+</div>
+</div>
+<p>One example is a historic bakehouse, a small building situated in the center of the village. It offers an example of the impact of one small space in a community. In the early 1800s, the building served as a gathering place where women would come together to bake their weekly bread while exchanging news, socializing, and in the process strengthening social ties. Today, the building continues to serve the community as a venue for meetings, musical events, and celebrations. Its ongoing use represents not just the preservation of a historic structure, but the continuation of its original purpose, building a sense of community, bringing people together.</p>
+
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/bakeshop_photo.jpg?itok=Hks6hY0R" width="320" height="413" data-insert-type="image" alt="Historic Bakeshop" title="Jasmin Tahmaseb McConatha"></div>
+<div class="caption">Historic Bakeshop</div>
+<div class="insertArea--origin subtext">Source: Jasmin Tahmaseb McConatha</div>
+</div>
+</div>
+</div>
+<p>As a regular visitor, I and others have consistently been made to feel welcome. The community actively strives to be open, accepting, and inclusive, creating an environment where residents can access social, emotional, and instrumental support. Of course, no community is without its challenges. Close-knit settings can sometimes become insular, placing pressure on individuals to conform and potentially excluding those who do not. Also, like rural areas everywhere, the need to travel to larger, urban areas for services and resources can present practical limitations.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Overall, however, this village appears to have fostered a community that is open, welcoming, non-judgmental, and supportive of both residents and visitors of different ages and backgrounds. As such, it has helped residents through times of difficulty, pain, and loss. This community offers a compelling example of how everyday life in one small village can align with broader global initiatives aimed at developing inclusive and age-friendly communities. It is an example of how community can help mitigate loneliness and social isolation while promoting well-being and quality of life, particularly in later life.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/live-long-and-prosper/202605/the-power-of-community-preventing-loneliness-and-isolation" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/live-long-and-prosper/202605/the-power-of-community-preventing-loneliness-and-isolation</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/live-long-and-prosper/202605/the-power-of-community-preventing-loneliness-and-isolation</guid>
+            <dc:creator><![CDATA[Jasmin Tahmaseb-McConatha Ph.D.]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/view_photo.jpg?itok=_0Fp6LHw" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why We Feel Grateful for Other People’s Good News]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/image001-removebg-preview.png.jpg?itok=gdpLvMOO" alt="Joel Wong Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gratitude</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why We Feel Grateful for Other People’s Good News</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The surprising benefits of vicarious gratitude.</h2><p style="font-size:0.9em;color:#666;">Posted May 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Vicarious gratitude is being thankful for a benefit that happened to someone else.</li><li style="margin-bottom:6px;">We experience vicarious gratitude because our self-concepts intersect with those of others we care about.</li><li style="margin-bottom:6px;">A self-concept that intersects with others gives us access to more joy than we could ever generate alone.</li><li style="margin-bottom:6px;">It is normal and healthy to share in others' joys and sorrows and to feel grateful for their blessings.</li>
+            </ul>
+          </div>
+                    <p>Gratitude is about appreciating benefits from <a href="https://www.psychologytoday.com/us/blog/gratefully/202512/the-gift-of-gratitude-why-we-cant-thank-ourselves">external sources</a> that matter to your personal life. But what does personal relevance really mean? The most obvious examples involve first-hand benefits: You win the lottery, receive a promotion, or enjoy a memorable evening with friends.</p>
+<p>Yet sometimes we feel gratitude for benefits that <em>others</em> receive. I was overjoyed and filled with gratitude when my spouse was offered a full-time faculty position at my university.</p>
+
+<p>Such responses are less common than gratitude for directly self-relevant benefits, but they are far from rare. <a href="https://link.springer.com/article/10.1007/s10902-014-9529-0#Sec14">One study</a> found that when Canadian undergraduates were given a generic gratitude prompt, 22% described at least one benefit that happened to someone else.</p>
+<p>Researchers call such responses <a href="https://link.springer.com/article/10.1007/s10902-014-9529-0">vicarious gratitude</a>.</p>
+
+<p>To be clear, vicarious gratitude does not mean feeling grateful to others for what they have done for you. It refers to feeling grateful for someone else’s positive outcome even when you don’t directly benefit. It’s about feeling thankful when a coworker receives an award or when a friend finds love.</p>
+
+<p>Why does this happen? To explore this question, I turn to an ancient story from the Gook of Ruth. </p>
+<p><strong>The Story of Naomi and Ruth</strong></p>
+<p>The Book of Ruth is one of my favorite stories from antiquity. Its two main characters are women—remarkable, given the patriarchal culture in which it was written.</p>
+<p>The book is about how an immigrant woman becomes an ancestor of a nation’s greatest king. Themes of loyalty, redemption, divine providence, immigration, genealogy, and romance weave through the story. But one thread that fascinates me is the bond between a mother-in-law and her daughter-in-law.</p>
+
+<p>A famine drives Naomi’s family to Moab, where her two sons marry Moabite women. Tragically, Naomi’s husband and sons die. She decides to return to Bethlehem, her hometown, and urges her daughters-in-law to remain in Moab. One stays. The other daughter-in-law, Ruth, refuses.</p>
+<p>Ruth, bound to Naomi by neither blood nor shared ethnicity, makes a radical vow of devotion. She will go where Naomi goes, live where she lives, claim Naomi’s people as her own, and worship her God. She commits not only to leaving with Naomi but to dying where Naomi dies. Moved by Ruth’s devotion, Naomi allows her to accompany her to Bethlehem.</p>
+
+<p>How do we make sense of Ruth’s commitment? Loyalty alone doesn’t quite capture the breadth and intensity of her vow.</p>
+<p><strong>Inclusion of the Other in the Self</strong></p>
+<p>Ruth’s vow illustrates a psychological principle known as <a href="https://journals.sagepub.com/doi/full/10.1177/02654075221110630?casa_token=NGNoSELRejcAAAAA%3AaF137eXiZpVsf3u-_qondb8GsZVQP_gvhX8U9e__aXSVqNrYy4dZOD7BX22Piwl4aPxRDauVH-xoSw"><strong>inclusion of the other in the self</strong></a>, or IOS. (For iPhone users, I know this is confusing, but, here, IOS doesn’t refer to the operating system running on your mobile phone.)</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>IOS refers to the degree to which you experience others as part of who you are. When IOS is strong, the boundaries between self and other become blurred. You think in terms of <em>we</em> rather than you and I.</p>
+<p>Researchers measure IOS using a simple visual tool: seven pairs of circles ranging from completely separate to almost completely overlapping. Participants select the pair that best represents their relationship with someone, such as a partner or friend.</p>
+
+
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/vicarious_gratitude_ios_scale.jpg?itok=duhH9vNR" width="468" height="167" data-insert-type="image" alt="Inclusion of Others in the Self " title="Arthur Aron, Elaine Aron, Danny Smollan"></div>
+<div class="caption">Inclusion of Others in the Self</div>
+<div class="insertArea--origin subtext">Source: Arthur Aron, Elaine Aron, Danny Smollan</div>
+</div>
+</div>
+</div>
+<p>When your sense of self expands to include another person, their joys and sorrows begin to register as your own. Their successes feel personally meaningful. Their gratitude evokes your gratitude.</p>
+<p>This helps explain vicarious gratitude. If others’ benefits become, in some sense, yours, too, their blessings will naturally stir thankfulness in you.</p>
+
+<p><strong>Two Extremes to Avoid</strong></p>
+<p>Is a strong IOS healthy? As with many things in life, the answer lies between extremes.</p>
+<p>If your identity becomes completely fused with another’s, you risk losing your individuality. Such fusion can manifest in controlling or enmeshed relationships, where privacy and autonomy disappear. That is not healthy.</p>
+
+
+
+  
+
+
+<p>But consider the opposite extreme: a self-concept entirely sealed off from others. Imagine living as though the top left, non-overlapping circles represent all your relationships. Nothing that happens to others affects you. You are untouched by their joy, unmoved by their sorrow. That may feel safe. But is your life meaningful?</p>
+
+<p><a href="https://www.psychologytoday.com/us/blog/gratefully/202601/the-missing-half-of-gratitude-feeling-good-vs-doing-good">Mattering</a> is a fundamental psychological need. We want to matter to others, and we want others to matter to us. And one way we experience mutual mattering is by allowing our circles of identity to overlap.</p>
+<p>A self-concept that intersects with others gives us access to more joy than we could ever generate alone. Gratitude becomes less a solo emotion and more a shared celebration.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>As a professor in a U.S.-based counseling psychology program, I sometimes wonder whether therapy in the United States has overemphasized firm boundaries. Boundaries matter. Enmeshed relationships are harmful.</p>
+<p>But maybe we don’t highlight enough the goodness of healthy interdependence and the value of overlapping identities with people who cherish us and enrich our lives.</p>
+
+<p>Let me be up-front about how I think about relationships: It is normal and healthy to care about others’ well-being, to root for their success, to share in their joys and sorrows, and to feel grateful for their blessings. That has been part of the human experience across cultures and time.</p>
+<p><strong>Practicing Vicarious Gratitude</strong></p>
+
+<p>Gratitude offers a window into how much others are included in our sense of self.</p>
+<p>If nearly all your gratitude is vicarious, you may be living your life almost entirely through others. Your IOS may be too strong. You may be losing your sense of self.</p>
+<p>But if your gratitude never extends beyond your own blessings, your sense of self may be bounded by stone walls, sturdy but closed to shared joy. In that case, you may be experiencing only a slice of what gratitude can be.</p>
+
+<p>That’s like bringing your favorite dish to a potluck but refusing to taste anything else. Gratitude for others’ blessings turns a private meal into a banquet.</p>
+<p>Just as IOS may facilitate vicarious gratitude, practicing vicarious gratitude, I suspect, can strengthen IOS, deepening relationships.</p>
+<p>If you already engage in gratitude reflections, consider adding a small dose of vicarious gratitude.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Reflect on the blessings of a significant other—a partner, spouse, family member, or close friend. Then widen the circle. Think about a new friend or a trusted coworker. Learn what is happening in their lives. Be curious. Give thanks for their blessings. Rejoice when they rejoice.</p>
+<p>Over time, you may find that practicing vicarious gratitude quietly expands your self-concept, shaping you into someone more attuned to others, more relationally grounded, and more capable of shared joy. Gratitude does not have to stop at your own doorstep. It can expand outward.</p>
+
+<p>When you rise, I rejoice.</p>
+<p><em>This piece is Part 5 of a miniseries on the </em><a href="https://www.psychologytoday.com/us/blog/gratefully/202604/the-invisible-gifts-we-receive"><em>varieties of goodness</em></a><em>. It also appears in my Substack</em><a href="https://gratitude4life.substack.com/"><em> newsletter on the science and practice of gratitude</em></a><em>.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/gratefully/202605/why-we-feel-grateful-for-other-peoples-good-news" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/gratefully/202605/why-we-feel-grateful-for-other-peoples-good-news</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/gratefully/202605/why-we-feel-grateful-for-other-peoples-good-news</guid>
+            <dc:creator><![CDATA[Joel Wong Ph.D.]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/walter-randlehoff-bljhnxlsuzu-unsplash.jpg?itok=W_Gns7RV" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
