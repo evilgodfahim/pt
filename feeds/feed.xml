@@ -4,126 +4,400 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 05:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 13:51:06 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 05:34:19 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 13:51:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Are Dating Apps Training Us to See People as Replaceable?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/img_0395-removebg-preview.jpg?itok=HKs9BbZa" alt="Jasmine Mohsen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mating</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are Dating Apps Training Us to See People as Replaceable?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Dating apps and the psychological devaluation of others.</h2><p style="font-size:0.9em;color:#666;">Posted May 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Are Religious People Happier?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jc-headshot2021-removebg-preview.jpg?itok=TptNjWca" alt="Jer Clifton Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Happiness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Are Religious People Happier?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Across eight studies, one variable statistically explained why.</h2><p style="font-size:0.9em;color:#666;">Posted May 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Dating apps may reduce satisfaction by showing endless potential alternatives.</li><li style="margin-bottom:6px;">App-driven self-evaluation focuses on appearance, potentially altering perceptions of self-worth.</li><li style="margin-bottom:6px;">Emotional habits from dating apps might shift broader societal views on human value.</li>
+              <li style="margin-bottom:6px;">Belief that “the world needs me” is related to increased happiness.</li><li style="margin-bottom:6px;">The relationship between religion and happiness disappears when you control for this belief.</li><li style="margin-bottom:6px;">It’s not about ego. The belief that the world needs you reflects purpose and belonging, not superiority.</li><li style="margin-bottom:6px;">Service, caregiving, and reflection may help anyone—religious or not—develop this belief.</li>
             </ul>
           </div>
-                    <p>Dating applications were originally promoted as technologies of connection. Platforms such as Tinder, Bumble, and Hinge promised to modernize romance by making attraction more efficient, accessible, and personalized. Geography became less important, social circles expanded, and millions of people gained access to potential partners they may never have encountered through traditional social environments. For many individuals, these platforms have indeed facilitated companionship, meaningful relationships, and marriage. Yet alongside these successes, an increasingly important psychological question has emerged: what if dating apps are not only changing how people meet, but also reshaping how people perceive themselves, evaluate others, and experience intimacy itself?</p>
+                    <p><em>This article was co-authored with </em><a href="https://myprimals.com/nick-kerry/"><em>Dr. Nick Kerry</em></a><em>, a social science researcher at the University of Vienna.</em></p>
+<p>For decades, psychologists have observed a consistent pattern: religious people tend to report being happier and more satisfied with their lives than non-believers. But why this happens has been much harder to pin down. Is it the social support of belonging to a faith community? A stronger sense of meaning? Hope in the face of hardship? Or perhaps, as the medieval philosopher Thomas Aquinas once suggested, simply the comfort of contemplating God?</p>
 
-<p>A growing body of contemporary research suggests that dating app use may be associated with loneliness, body dissatisfaction, anxiety, compulsive engagement, emotional exhaustion, depressive symptoms, and lower psychological well-being (Sharabi et al., 2025; Cela &amp; Wood, 2026). A recent systematic review examining dating app use and mental health outcomes found that a substantial proportion of studies reported significant negative relationships between dating app engagement and body image, self-esteem, and psychological well-being. Although these findings remain largely correlational, the consistency of the evidence has prompted researchers to increasingly question whether the architecture of dating apps may amplify pre-existing insecurities, social comparison, rejection sensitivity, and self-objectification.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-01.jpg?itok=pdUWkSHi" width="639" height="359" data-insert-type="image" title="ThinkTheory/Clifton" alt="ThinkTheory/Clifton"></div>
+<div class="insertArea--origin subtext">Source: ThinkTheory/Clifton</div>
+</div>
+</div>
+</div>
+<p>Much of this research involves a simple method: researchers hypothesize what they think could be driving the relationship between religion and wellbeing, such as being a part of a close-knit community. Then researchers measure being in a close-knit community and examine, when controlling for it, what happens to the relationship between well-being and religiosity. If the relationship stays the same, community isn’t driving the relationship. If the relationship gets smaller, then researchers start having reason to think that maybe religion impacts well-being by fostering community. </p>
 
-<h2>The Accelerated Marketplace of Visual Evaluation </h2>
-<p>Importantly, the issue is not simply rejection. Romantic rejection has always existed. The deeper concern is that some dating app environments may transform human interaction into a highly accelerated marketplace of visual evaluation, comparison, and disposability. In offline life, attraction is often gradual and multidimensional. Individuals become attractive through warmth, humour, emotional safety, vulnerability, intelligence, familiarity, and shared experiences over time. Someone who initially appears average may become deeply appealing through conversation, kindness, confidence, or emotional compatibility. Dating apps, by contrast, frequently compress this complexity into simplified digital signals: photographs, age, height, occupation, location, and carefully curated biographies.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-02.jpg?itok=vyxP0wSc" width="639" height="359" data-insert-type="image" title="ThinkTheory/Clifton" alt="ThinkTheory/Clifton"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ThinkTheory/Clifton</div>
+</div>
+</div>
+</div>
+<p>Here at the Penn Primals Project, our main research program is focused on <em>primal world beliefs</em>—people’s most basic assumptions about the nature of reality. There are 26 primal world beliefs, such as the belief that the world is abundant versus barren, interesting versus dull, and so forth. Primal world beliefs aren’t religious doctrines or personality traits, but views that people have about what is objectively true of the world generally. Researchers suspect they might function as lenses that color how people interpret new experiences and information.</p>
 
-<p>This environment encourages users to make rapid judgments within seconds. Recent research suggests that many users now strategically construct profiles designed to maximize algorithmic desirability and social attention, often through selective self-presentation, filtered imagery, and impression management techniques (Bowman et al., 2026). Over time, people may begin experiencing themselves less as multidimensional individuals and more as profiles competing within an attention economy. This process is psychologically significant because repeated exposure to appearance-centred evaluation environments may subtly reshape how users understand self-worth and human value.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-03.jpg?itok=PqxZE1pK" width="639" height="359" data-insert-type="image" title="ThnkTheory/Clifton" alt="ThnkTheory/Clifton"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ThnkTheory/Clifton</div>
+</div>
+</div>
+</div>
+<p>In our <a href="https://www.tandfonline.com/doi/abs/10.1080/17439760.2025.2587058">study</a>, recently published in the <em>Journal of Positive Psychology</em>, we analyzed data from eight samples involving more than 3,000 American adults, using multiple different measures of happiness and religiosity. Across all of them, we found the same age-old correlation: religious people were (on average) happier. </p>
 
-<p>Researchers increasingly argue that image-centred dating platforms may contribute to self-surveillance and self-objectification, where individuals begin evaluating themselves primarily through attractiveness and perceived “<em>market value</em>” (Bowman et al., 2026). Matches, likes, replies, and engagement become social indicators of desirability. Visibility itself becomes a form of validation. Some users report repeatedly changing photographs, rewriting biographies, concealing perceived flaws, or anxiously monitoring response rates in an effort to remain competitive within the platform environment. Under such conditions, rejection may no longer feel temporary or situational. Instead, it may become internalized as evidence of personal inadequacy or diminished desirability.</p>
+<p>Did any primal world beliefs play a role in this relationship? </p>
+<h2>In sample after sample, one primal world belief played the biggest role</h2>
+<p>This happened not just in a few samples, but was remarkably consistent across all of them. No other world belief explained the link as well. So, it wasn’t just that religious people tend to think more positively about life, they had to be positive in this one highly specific way. </p>
 
-<h2>Emotional Consequences of Digital Dating Environments </h2>
-<p>Clinical discussions surrounding dating app use increasingly highlight the emotional consequences of this constant evaluative environment. A recent clinician-oriented review noted that dating apps may intensify self-esteem problems, body dissatisfaction, anxiety, and emotional distress, particularly among individuals already vulnerable to insecurity or social comparison. The review further suggested that repeated exposure to ghosting, appearance-based rejection, inconsistent communication, and unstable validation may contribute to emotional exhaustion and compulsive app engagement.</p>
+<h2>The belief that the world “Needs Me” fully explained the religiosity-wellbeing relationship</h2>
+<p>Across all samples and religions we examined, people who were more religious were more likely to believe that the world needs them. That belief, in turn, had to be present for religious people to get that wellbeing bump. </p>
 
-<p>Another major psychological concern involves the logic of abundance embedded within dating applications. Users are continuously exposed to the possibility that someone slightly more attractive, entertaining, intelligent, or compatible may always exist one swipe away. While this abundance initially appears empowering, recent evidence suggests it may reduce satisfaction rather than increase it (Sharabi et al., 2025). Emotional investment can weaken when alternatives remain permanently visible. Users may disengage from potentially meaningful conversations simply because another profile appears momentarily more stimulating or visually appealing.</p>
+<p>Once this belief was controlled for, religiosity did not predict well-being <em>at all</em>. </p>
+<p>Whether our participants were healthy adults, people living with illness, or those who had faced trauma, the same pattern held.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-05.jpg?itok=k8pvgz1K" width="639" height="359" data-insert-type="image" title="ThinkTheory/Clifton" alt="ThinkTheory/Clifton"></div>
+<div class="insertArea--origin subtext">Source: ThinkTheory/Clifton</div>
+</div>
+</div>
+</div>
+<h2>What is this belief exactly?</h2>
+<p>This belief is the view that the universe is like this enormous jigsaw puzzle, with one particular—even unique—piece missing, and you are that piece. You, specifically, have an important part to play in this world. You are not simply interchangeable in the cold calculus of the universe’s machinery. </p>
 
+<p>To measure this belief, study participants note how much they agree or disagree with four statements:</p>
+<ul>
+<li><em>The universe needs me for something important.</em></li>
+<li><em>The world needs me and my efforts.</em></li>
+<li><em>Life has an important part for me to play.</em></li>
+<li><em>It feels like the world doesn’t really need me for anything.</em>* (responses are reversed)<br> </li>
+</ul>
 
-<p>This contributes to what researchers increasingly describe as “<em>swiping fatigue</em>” or “<em>dating burnout</em>” (Cela &amp; Wood, 2026). Many users report feeling emotionally drained despite unprecedented access to social interaction. Ironically, technologies designed to increase connection may sometimes intensify loneliness and dissatisfaction rather than reduce them. Balki (2025), for example, argues that some dating app algorithms may unintentionally amplify loneliness, particularly among men, by sustaining engagement through intermittent validation while failing to facilitate a stable emotional connection.</p>
-
-<p>The reward architecture of dating apps may partly explain why these patterns become psychologically difficult to escape. Many platforms operate through persuasive design systems similar to social media environments, where unpredictable rewards sustain engagement. A sudden match, a flattering message late at night, or an unexpected increase in attention can produce short-term emotional highs that encourage repeated swiping behaviour. Over time, users may continue engaging not necessarily because they are building meaningful intimacy, but because the process itself becomes psychologically stimulating.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-06.jpg?itok=v-3gSQJp" width="639" height="359" data-insert-type="image" title="ThnkTheory/Clifton" alt="ThnkTheory/Clifton"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ThnkTheory/Clifton</div>
+</div>
+</div>
+</div>
+<h2>The point is not self-glorification, but need-person fit.</h2>
+<p>Importantly, this belief is not the same as narcissism or self-importance. Several studies show that people who strongly endorse “the world needs me” don’t necessarily think they’re better than others—they might simply feel that they have a specific role to play. A doctor might feel her hospital needs her especially; a father might feel his children need him especially; activists might believe they have a unique contribution to make to their cause.</p>
 
 
 
   
 
 
-<h2>Validation vs. Intimacy in Digital Dating </h2>
-<p>This distinction is critical because validation is not intimacy. A person may receive dozens or even hundreds of matches and still feel profoundly lonely because emotional depth, trust, consistency, vulnerability, and genuine relational investment remain absent. This helps explain why many users simultaneously report hyperconnectivity and emotional isolation. Research examining the mental health effects of dating apps increasingly suggests that the pursuit of validation through swiping-based environments may produce only temporary emotional relief while intensifying longer-term dissatisfaction.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-07.jpg?itok=GD82mDUg" width="639" height="359" data-insert-type="image" title="ThinkTheory/Clifton" alt="ThinkTheory/Clifton"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ThinkTheory/Clifton</div>
+</div>
+</div>
+</div>
+<h2>Why it might matter—for everyone</h2>
+<p>For religious people, perhaps there are ways that one’s faith can promote this primal world belief even more. Many religious traditions already teach that each person has a divine purpose, that their life fits into a larger plan. By emphasizing these teachings, perhaps believers could enjoy even higher well-being. </p>
 
-<p>Another growing concern involves the normalization of disposability within digitally mediated relationships. In traditional social environments, interpersonal behaviour was often constrained by overlapping social networks and social accountability. Ghosting, abrupt withdrawal, or emotionally ambiguous behaviour carried reputational consequences. Dating apps significantly reduce many of these social frictions. Users can disappear instantly, disengage rapidly, or move on to new interactions with minimal accountability.</p>
+<p>These findings are especially hopeful for secular folks. Seeing the world as a place that needs you does not require you to be religious.</p>
+<p>Feeling needed doesn’t have to come from your career. Other people might focus on their roles as a parent, dog owner, or being someone who brings people together by throwing great dance parties.</p>
 
-<p>Over time, this may cultivate relational habits characterized by lower empathy, reduced patience, and avoidance. Minor imperfections that would normally be tolerated in face-to-face interactions, awkward humour, nervousness, delayed responses, conversational anxiety, or small incompatibilities, may trigger immediate dismissal because alternatives remain endlessly available. Some researchers now argue that dating apps may unintentionally encourage people to perceive others less as emotionally complex individuals and more as replaceable profiles within an infinite stream of options.</p>
+<p>Our research suggests that non-religious people might have a path to well-being, that perhaps they have not considered: even without religious faith, perhaps people can cultivate the belief the world “needs me” through reflection, service, and meaningful roles like volunteering, caregiving, mentoring, or creative work.</p>
 
-<p>This environment may also encourage unrealistic expectations surrounding attraction and emotional immediacy. Some users begin expecting instant chemistry, constant stimulation, and perfectly curated interaction from the earliest stages of communication. Yet meaningful relationships often emerge slowly through vulnerability, emotional patience, conflict navigation, imperfection tolerance, and shared human experience. By prioritizing speed and novelty, some dating apps may unintentionally weaken the psychological conditions necessary for authentic intimacy to develop.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-08.jpg?itok=Xu2sKOsk" width="639" height="359" data-insert-type="image" title="ThinkTheory/Clifton" alt="ThinkTheory/Clifton"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ThinkTheory/Clifton</div>
+</div>
+</div>
+</div>
+<h2>Reasons for caution and next steps in research</h2>
+<p>It’s worth remembering that these findings rely on correlations—statistical explanation is not causal explanation— and do not prove that believing "the world needs me" directly causes happiness. The next step for research is to test whether this belief can be deliberately strengthened—perhaps by helping people notice where their efforts genuinely matter—and whether doing so leads to lasting gains in well-being. We hope that future experiments can test whether it’s possible to strengthen the belief that “the world needs me” directly—perhaps by guiding people to notice how their actions affect others or how their work contributes to something larger. If so, researchers can test whether (and how) this leads to increases in happiness and meaning.</p>
 
-<p>Importantly, vulnerability to these mechanisms is not limited to emotionally immature individuals. Even highly educated, emotionally intelligent, and psychologically informed users remain susceptible because the underlying processes are fundamentally human: loneliness, uncertainty, comparison, belongingness needs, reward sensitivity, hope, and fear of rejection. Awareness of persuasive technology does not necessarily neutralize its emotional effects.</p>
+<h2>Takeaway</h2>
+<p>Humans thrive on being needed. To be needed is to belong, to matter. Religiosity may foster greater happiness, but in practice it may only do so alongside the belief that the universe has a role for you. Regardless of your religious views, finding that role—or just being more aware of the important roles you already have—may make you a happier person.</p>
 
-<h2>The Need for Critical Attention on Dating Apps</h2>
-<p>This does not mean dating apps are inherently harmful or should be rejected outright. For many individuals, including geographically isolated users, marginalized communities, busy professionals, and people with niche identities or preferences, dating apps provide valuable opportunities for connection that might otherwise remain inaccessible. However, the broader psychological implications of these technologies deserve more critical attention than they currently receive.</p>
-
-<p>The issue is not simply technology itself, but the relational logic embedded within many platform designs: speed over depth, quantity over quality, novelty over patience, stimulation over vulnerability, and visibility over emotional presence.</p>
-<p>The broader societal implications may extend beyond dating culture alone. Digital environments do not merely shape behaviour; they shape emotional habits, expectations, and perceptions of human value. If individuals become increasingly accustomed to evaluating others through rapid, appearance-centred, and transactional frameworks, this may gradually reshape how intimacy, empathy, commitment, and emotional connection are understood more broadly.</p>
-
-<p>The greatest danger may therefore not be wasted time or disappointing conversations. It may be the gradual normalization of viewing human beings as endlessly replaceable.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-05/religious-people-happier_kl1-09.jpg?itok=K-6WtJZo" width="639" height="359" data-insert-type="image" title="ThinkTheory/Clifton" alt="ThinkTheory/Clifton"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ThinkTheory/Clifton</div>
+</div>
+</div>
+</div>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202605/are-dating-apps-training-us-to-see-people-as-replaceable" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/primal-world-beliefs-unpacked/202605/why-are-religious-people-happier" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202605/are-dating-apps-training-us-to-see-people-as-replaceable</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202605/are-dating-apps-training-us-to-see-people-as-replaceable</guid>
-            <dc:creator><![CDATA[Jasmine Mohsen Ph.D.]]></dc:creator>
-            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-cottonbro-6833565.jpg?h=23011712&amp;itok=xW-JSYnl" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/primal-world-beliefs-unpacked/202605/why-are-religious-people-happier</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/primal-world-beliefs-unpacked/202605/why-are-religious-people-happier</guid>
+            <dc:creator><![CDATA[Jer Clifton Ph.D.]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-aj-collins-artistry-1772576281-28387049.jpg?itok=FApgWxDE" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Detecting Hidden Hurtful Humor in Narcissistic Friendships]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-04/kimberly_key_0.png.jpg?itok=JJDnYXJg" alt="Kimberly Key Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Humor</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Detecting Hidden Hurtful Humor in Narcissistic Friendships</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Friend or frenemy? Knowing when humor becomes a friendship manipulation tool.</h2><p style="font-size:0.9em;color:#666;">Posted May 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Freedom to Be Furious]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/psychtoday_headshot-removebg-preview.jpg?itok=K3vWDNpl" alt="Deb Mashek Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personal Perspectives</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Freedom to Be Furious</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: What Mother’s Day and psychedelics taught me about anger.</h2><p style="font-size:0.9em;color:#666;">Posted May 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Narcissists often use humor to manipulate friendships.</li><li style="margin-bottom:6px;">Grandiose narcissists devalue others to maintain superiority.</li><li style="margin-bottom:6px;">Vulnerable narcissists favor self-deprecating humor.</li>
+              <li style="margin-bottom:6px;">Psychedelic-assisted therapy can open to access to previously unfamiliar emotions, such as anger.</li><li style="margin-bottom:6px;">The benefits of psychedelic-assisted therapy unfold over time.</li><li style="margin-bottom:6px;">Symbolic images can help connect lived experiences and embodied understanding of difficult pasts.</li>
             </ul>
           </div>
-                    <p>What would life be like if we couldn’t laugh?</p>
-<p>Mark Twain called humor “mankind’s greatest blessing,” while Jimmy Buffett described it as critical to our mental health in his song “Changes in Latitudes, Changes in Attitudes,” where he said: “If we couldn’t laugh, we would all go insane.” (On an interesting side note, I thought this last quote was from Robert Frost and apparently it has been widely misattributed to him. Somewhere in the heavens I feel my Great-Uncle Billy, a devout Jimmy Buffett fan, is smiling widely.)</p>
+                    <p dir="ltr">“There’s somebody here. Her name is Wrecking Ball. She wants to hear 'Let the Bodies Hit the Floor.'”</p>
+<p dir="ltr">My therapist played the song "Drowning Pool" on her JBL speaker.</p>
+<p dir="ltr">“She wants it louder.”</p>
+<p dir="ltr">The therapist increased the volume.</p>
+<p dir="ltr">“No, louder!”</p>
+<p dir="ltr">The speaker was already maxed out.</p>
+<p dir="ltr">While this was my second psychedelic-assisted therapy session, it was my first introduction to Wrecking Ball—an imaginal character my psyche had conjured to teach me about anger.</p>
 
-<p>But not all humor is equal.</p>
-<p>Sometimes humor can be the tie that binds—or the one that cuts. In some friendships, this shows up in a “frenemy”—someone who calls themselves a friend, but whose behavior and humor undermine you.</p>
-<p>After writing about humor as a defense mechanism for some and an aggressive tactic used by other more narcissistic and manipulative personalities in my upcoming second edition of <em>Ten Keys to Staying Empowered in a Power Struggle,</em> I was fascinated to read a study that looked at humor’s role in friendships when narcissism is present.</p>
+<p dir="ltr">My observing self watched the waking dream unfold:</p>
+<p dir="ltr">Wrecking Ball’s tucked chin and clenched jaw amplified the intensity in her eyes. She glared at my mother, who was curled up, passively, on the floor, emotionally detached from the moment. The sterile white room contrasted starkly with Wrecking Ball’s black clothes, boots, eye makeup, and dyed-black hair. </p>
 
-<p>The authors (Altmann &amp; Sauls, 2025) focused on measuring the two main categories of narcissism, grandiose and vulnerable, with uses of adaptive versus maladaptive humor in friendships.</p>
-<p>As a recap to anyone not familiar with these types of narcissism—both types have a sense of entitlement and grandiosity yet grandiose types tend to have more superiority, manipulation, and exploitation, while vulnerable types are often more defensive, hypersensitive, insecure, dependent, and marked by swings from shame to grandiosity.</p>
+<p dir="ltr">Without restraint, she hurled aggression toward my mother. She was pissed, and she expressed that anger loud and clear. </p>
+<p dir="ltr">Anger wasn’t an emotion I had much experience with. While growing up in a home with two alcoholic parents, loads of chaos, and significant neglect, I hadn’t allowed myself, hadn’t dared, to feel anger at the parents who failed to provide love and a sense of safety.</p>
 
-<p>Adaptive versus maladaptive humor is a lot like it might sound, yet in my work, it can be super difficult to detect in social settings when everyone is laughing and putting public pressure on the targeted person to laugh and not be too serious.</p>
-<p>Fortunately, the authors of the study cite Martin et al.’s (2003) humor framework that describes adaptive (healthy) styles of humor as <strong>affiliative, </strong>where humor decreases tension, elicits bonding and camaraderie—and <strong>self-enhancing</strong>, where the person is able to take a more resilient humorous perspective about life and circumstances. The maladaptive types of humor (the ones that cut) include <strong>aggressive humor</strong>, where there is mocking, ridicule, and it comes at someone’s expense—and <strong>self-defeating</strong>, which is self-deprecating and often used to get attention and reassurance.</p>
+<p dir="ltr">Instead, my kid-mind decided I was the problem. Rather than come to the terrifying realization that the adults in my world were unable to care for me, I reached for the perversely more comfortable conclusion that I was unworthy of care. If I were the problem, at least I had some ability to control the situation.</p>
 
-<p>The authors found that grandiose narcissists tended to use affiliative and aggressive humor but viewed themselves as using positive forms of humor while viewing their friend's use of humor as more maladaptive. The authors pointed out that this is in line with grandiose narcissists’ propensity toward devaluing others to maintain their sense of superiority. Meanwhile, the vulnerable narcissists were more likely to use self-defeating humor and view their friends and their humor styles with a more idealized perspective.</p>
+<p dir="ltr">It wasn’t until middle age, after years filled with talk therapy, that I finally began questioning that conclusion. I understood, at least theoretically, that everyone deserves love and care. With psychological distance and clinical detachment, I observed that my family had provided little of either. But I still didn’t feel anger.</p>
 
-<p>When thinking about friendships, humor and frenemy detection—it might help to remember that healthy friendships engage in humor that invites genuine shared laughter. But humor that repeatedly places one person as the brunt of the joke can be a form of social dominance—and a red flag that you might be dealing with a grandiose narcissistic frenemy.</p>
+<p dir="ltr">Then Wrecking Ball arrived to show me that I had some work to do.</p>
+<p dir="ltr">Shortly before my psychedelic-medicine session, I absentmindedly doodled an image of a woman’s head in profile. The head was filled with wobbly ringlets, each nested inside the other. A line of bubbles rose from her throat, across her forehead, and back to her crown.</p>
 
-<p>Like a comment is made at your expense where everyone laughs and puts you in the place of joining along while inwardly feeling the sting of embarrassment or humiliation.</p>
-<p>If you react, the defense quickly follows:</p>
-<ul>
-<li>“Relax.”</li>
-<li>“I was just joking.”</li>
-<li>“You’re too sensitive.”</li>
-<li>“Can’t you take a joke?”</li>
-</ul>
-<p>Because laughter provides social cover, this type of humor can be especially damaging as it allows someone to undermine your dignity publicly or privately while avoiding accountability.</p>
+<p dir="ltr">When I showed the drawing to my regular therapist, she observed that the largest bubble blocked the woman’s throat. What, she wondered, hasn’t yet been spoken?</p>
+<p dir="ltr">The night before my session, I created linoleum prints of the bubble-filled profile and strung them together with a pretty ribbon. They hung on the wall in my den as psilocybin and MDMA ushered Wrecking Ball into my awareness. That was in January 2020.</p>
 
-<p>If you object, you are labeled humorless or overly sensitive. If you stay silent, the humiliation stands—and the confusing relationship with the frenemy persists.</p>
-<p>But recognizing a frenemy pattern matters—because dignity and psychological safety cannot coexist with humiliation, control, and manipulation, no matter how cleverly they are disguised as humor or friendship.</p>
+<p dir="ltr">A few months later, COVID isolation now a familiar part of our everyday lives, I took an online yoga class in the den. At the end of class, as we transitioned into our final resting pose, the linoleum prints, still hanging on the wall, caught my eye. My therapist’s question came to mind. What hasn’t been spoken yet?</p>
 
-<p>Real friendship doesn’t confound or require you to shrink, perform, or laugh at your own expense to belong.</p>
+<p dir="ltr">Suddenly, the answer revealed itself with startling clarity: As a child, I should have been loved, cared for, cocooned by safety. Separate from wanting those things, I deserved them. In that moment, the realization clicked—what I understood theoretically suddenly became known and accepted at a deep, personal level. It felt fantastic. I was making progress.</p>
+
+
+
+  
+
+
+<p dir="ltr">Then came Mother’s Day, four months after the medicine session and 20 years after my mom’s death. I looked at the linoleum prints again. This time, a wave of rage worthy of Wrecking Ball’s sledgehammer surged from my core and rose through my throat. For possibly the first time in my life, I felt unbridled anger.</p>
+
+<p dir="ltr">Shaking, I grabbed my journal. There was something I needed to say that I had never said before: “It’s Mother’s Day. You want me to celebrate you? When you’ve never noticed me, held me, loved me, much less celebrated me? No, you are the ungrateful little bitch. You are the one who couldn’t appreciate what she had—an adoring little girl who tried so hard to please. You couldn't see me. You ignored me. You neglected me.”</p>
+
+<p dir="ltr">Finally, there it was. Anger. Hard-earned and long overdue.</p>
+<p dir="ltr">My therapist once told me that anger is the difference between what you deserve and what you get. After 10 years of therapy, I had only just started to understand the variables in that equation. Now, with the help of psychedelic medicine and the patient unfolding of post-session integration, I found healing in the freedom to be furious. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/counseling-keys/202605/detecting-hidden-hurtful-humor-in-narcissistic-friendships" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/relationships-intimate-and-more/202605/freedom-to-be-furious" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/counseling-keys/202605/detecting-hidden-hurtful-humor-in-narcissistic-friendships</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/counseling-keys/202605/detecting-hidden-hurtful-humor-in-narcissistic-friendships</guid>
-            <dc:creator><![CDATA[Kimberly Key Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/relationships-intimate-and-more/202605/freedom-to-be-furious</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/relationships-intimate-and-more/202605/freedom-to-be-furious</guid>
+            <dc:creator><![CDATA[Deb Mashek Ph.D.]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/untitled_design__12_.png.jpg?itok=6chQl21I" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Aching Feeling of Never Enough]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/Roberts.png.jpg?itok=cZK1igMZ" alt="Roberts" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Aching Feeling of Never Enough</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">If you often feel like you don’t have enough, you may have a scarcity mindset.</h2><p style="font-size:0.9em;color:#666;">Posted May 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">If you worry you don't have enough, you may have a scarcity mindset.</li><li style="margin-bottom:6px;">This can lead to worry and anxiety about running out of money, food, or other resources.</li><li style="margin-bottom:6px;">Through an internal family systems lens, this means you have parts who feel anxious about the future.</li><li style="margin-bottom:6px;">Other, protective parts will try and help by being hypervigilant and worrying about every penny.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image_-_money.jpg?itok=37P4xH5o" width="320" height="213" data-insert-type="image" title="Alexander Grey/Unsplash" alt="Alexander Grey/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Alexander Grey/Unsplash</div>
+</div>
+</div>
+</div>
+<p>Have you ever tried dieting? If so, the term ‘yo-yo dieting’ is probably familiar to you, because very sadly, this happens to most people who try to lose weight. If you’re determined to lose 20lb for that family wedding in the summer, you might manage that—especially in the age of Ozempic and other weight-loss jabs—but you might also put that weight straight back on. Research shows that most people who lose weight with the help of drugs like Ozempic put the weight back on within 18 months.<sup>1</sup></p>
+
+<p>Why does this happen? One reason is that our ancestors evolved in conditions where hardship and famine were facts of life. Droughts, diseases, a seasonal lack of prey or plants to forage, competition with neighbouring tribes, and natural disasters like wildfires or floods—life was tough for our hunter-gatherer forebears. And one way to maximise their chances of survival was to eat as much as possible when times were good, storing up a maximum body fat for the hungry months ahead.</p>
+
+<p>When you lose weight—especially in a sudden, dramatic, Ozempic-style manner—your brain panics because it thinks you’re barely surviving a famine. Your stressed-out, threat-focused brain urges you to overeat and pile the pounds back on to help you survive the next famine, convinced it's just around the corner. Of course, in many poorer countries, people still face famine—a heartbreaking fact when other nations are so wealthy.</p>
+
+<p>But for those of us living in industrialised countries like the US or UK, even if times are hard, we’re almost certainly not starving. Unfortunately, the more primitive parts of our brains are unaware of this fact and are poorly adapted for modern life. You and I have a brain perfectly honed by evolution to survive in the wilderness, riding out those periods of calorific boom and bust, which is how our ancestors existed for millions of years before Starbucks and McDonald's popped up on every corner.</p>
+
+<h2>What is a scarcity mindset?</h2>
+<p>This helps explain the idea of a scarcity mindset; for most of human evolution, we <em>did</em> live with scarcity as an ever-present reality. No matter how full your refrigerator or how comfortable your bank balance, for the evolutionarily older parts of your brain, like the brainstem (which is concerned with basic survival strategies like kill or be killed, eat or be eaten), enough is never enough. These older parts of the brain are so powerful—and designed to override newer brain regions like the rational, perspective-taking prefrontal cortex—we can live in a perpetual state of background anxiety that it could all go away at any moment, as if the world were built on shaky foundations. </p>
+
+<p>Translated into internal family systems language, IFS, this means there are parts of you who feel anxious—young, frightened parts—and others trying to protect them, who might be hypervigilant to any signals of economic stress or vulnerability.<sup>2</sup> These might include a <em>worrier</em>, a <em>planner</em>, a <em>scan for danger part</em>, and what one of my IFS colleagues calls her <em>spreadsheet part—</em>mapping everything out in great detail to make all the sums add up.</p>
+
+<p>As I write these words, the US is in a deadlocked war with Iran, one consequence of which is that global food and energy prices are increasing at an alarming rate. If I had a scarcity mindset, my young parts would feel really anxious as I read the news, while my ever-resourceful protectors would be stockpiling tinned food and bottled water to help my family survive the lean times ahead.</p>
+
+
+<h2>Self-led versus parts-led</h2>
+<p>There’s nothing wrong with worrying about your family’s welfare, or getting freaked out by the news—it freaks me out daily. But as ever with IFS, we want to be <em>self-led</em> and not <em>parts-led</em>. So as your <em>self</em> (the wise, adult, prefrontal cortex you) processes the latest economic forecasts, you may calmly decide to cut back for a while, tightening your belt until things (hopefully) get back to normal. This would be a <em>self-led</em> response.</p>
+
+<p>But a <em>parts-led</em> response—especially if it involved those scarcity-sensitive parts—might look much more panicky, impulsive, and disproportionate to the actual situation. Picture videos of people fighting over toilet paper in the Covid pandemic, and you have a visual representation of parts-led overreaction. If you’re feeling a bit panicky right now (again, no judgment, these are scary times), try one of my <a href="https://www.psychologytoday.com/us/store-meditations/p/colour-breathing-technique">breathwork practices</a> to help you slow down, regulate your nervous system, and take a mindful pause before acting.</p>
+
+
+
+  
+
+
+<p>I hope that helps, especially if the state of the world is making you stressed right now. Let’s all pray for calmer times ahead, with more peace, love, and understanding for us all.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-calm-self/202605/the-aching-feeling-of-never-enough" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-calm-self/202605/the-aching-feeling-of-never-enough</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-calm-self/202605/the-aching-feeling-of-never-enough</guid>
+            <dc:creator><![CDATA[Dan Roberts MBACP]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/image_-_money.jpg?itok=U_8-LCK1" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Vanishing Rung: AI Is Climbing the Career Ladder]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/Nathan-Iverson.png.jpg?itok=KICbEM70" alt="Nathan Iverson Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Vanishing Rung: AI Is Climbing the Career Ladder</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI is eating entry-level work—and the senior pipeline depends on it.</h2><p style="font-size:0.9em;color:#666;">Posted May 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">AI is climbing the career ladder from the bottom, eating entry-level work across white-collar fields.</li><li style="margin-bottom:6px;">For 50 years, we've outsourced work to cheaper economies. AI is just the next destination.</li><li style="margin-bottom:6px;">The companies that keep hiring juniors as a pipeline strategy will have senior leaders in 2041.</li>
+            </ul>
+          </div>
+                    <p>Last year, my wife and I hired a sleep coach for our 1-year-old daughter. She was excellent. She also lived in Mexico, worked over video calls, and cost a fraction of what we would have paid in California. We've done the same with a personal trainer. I've had LASIK in India and a second-opinion consultation in Mexico that uncovered a health issue my U.S. doctors had missed. We are not unusual. Millions of American families have quietly built lives that depend on outsourcing parts of their care, work, and expertise to economies cheaper than their own.</p>
+
+<p>Which is why the conversation about AI and work has the wrong frame. The story is not that machines are suddenly coming for human jobs. The story is that for 50 years, we have been outsourcing work to wherever it could be done well and cheaply—first to Asian factories, then to Mexican assembly lines under NAFTA, then to Indian call centers, then to globally distributed software teams. <em>AI is just the next destination.</em> The destination changed; the pattern did not.</p>
+
+<p>But something is genuinely new. For the first time, the cheaper economy isn't a place. It's a system. And it is not coming for the bottom of the labor market the way previous waves did. It is coming for the middle and the top—and it is eating the entry rungs of nearly every white-collar career at once. I call this <em>vertical displacement</em>, and it is reshaping what it means to start a career.</p>
+
+<h2>The Pattern Economists Are Starting to See</h2>
+<p>For most of the last two centuries, automation moved horizontally. A machine took over a job, and the workers in that job had to find a new one. Tractors displaced farmhands. Spreadsheets displaced bookkeepers. The disruption was real, but it was contained—one occupation at a time, with decades between waves.</p>
+
+<p>Vertical displacement works differently. AI does not replace whole jobs. It replaces the bottom layer of <em>almost every</em> knowledge job at once. The first-year associate's document review. The junior analyst's spreadsheet. The new copywriter's first draft. The new developer's first website build. Stanford economist Erik Brynjolfsson and his colleagues have shown that AI's productivity gains are concentrated at the <em>junior</em> end of the workforce—the senior partner is more productive because the AI is doing what the junior used to do. The same pattern is showing up in law firm summer associate classes, audit pipelines, agency creative teams, and computer science graduate placements. The ladders are being sawed off from the bottom.</p>
+
+<p>This matters because every senior anything was once a junior something. Every master clinician was once a bewildered intern. The psychologist Anders Ericsson spent his career showing that expertise is not a gift; it is the slow accumulation of <em>deliberate practice</em> on consequential, graduated tasks. Lave and Wenger called the same phenomenon <em>legitimate peripheral participation</em>—the apprentice's slow movement from the edge of the work to its center. AI is now doing the consequential-but-bounded work that used to be the training ground. The question nobody is asking loudly enough: where do the next senior people come from?</p>
+
+<h2>Two Ladders, One Climb</h2>
+<p>There are actually two ladders being climbed at the same time. The first is the <em>task ladder</em> inside a single role—within any job, tasks range from rote to judgment-heavy, and AI started at the rote end and has been climbing toward judgment. The second is the <em>career ladder</em> across roles, from junior to senior. AI started with the rote-heaviest roles and has been climbing toward the judgment-heavy ones.</p>
+
+
+<p>The two ladders interact. AI replaces most of what juniors did, half of what mid-level workers did, and augments what seniors do in ways that make them more productive—which is partly why fewer juniors and mid-level workers are needed. The senior who used to need three associates now needs one and a good AI subscription.</p>
+
+<p>For knowledge workers willing and able to learn the tools, this is genuinely good news in the way Elon Musk and other technology optimists describe—bandwidth opens up, judgment work expands, the routine drudgery you never enjoyed disappears. For knowledge workers who do not or cannot, the ladder is being pulled up faster than they can climb. Both stories are happening at once, often to people sitting at adjacent desks.</p>
+
+
+
+  
+
+
+<h2>Households Are Already Adapting</h2>
+<p>Walk through my friend group and you will see the pattern. One spouse holds a W-2 job, often for the health care and the retirement match. The other does freelance, contract, gig, creator, or platform work. The W-2 functions as the household's stability anchor; the 1099 functions as its entrepreneurial wing. My own family is structured this way. This is not a conscious strategy—it is an emergent adaptation to a labor market that no longer reliably provides stability <em>and</em> upside in the same role.</p>
+
+<p>What looks new in the United States is already the present in much of the world. In Indonesia, Mexico, India, and Nigeria, somewhere between 60% and 90% of the workforce is informally employed. Family functions as the safety net. Religious community provides the meaning structure. America's post-1945 settlement was a historical anomaly, not the norm. We may be regressing toward a global mean the developed West was briefly exempted from.</p>
+
+<h2>What We Can All Learn</h2>
+<p><em>Will my job be automated</em> is a scarcity-minded question, and scarcity-minded questions tend to produce small, fearful answers. The more generative questions are: <em>What new bandwidth does AI create for me? What can I build now that I couldn't before? What human capacities does this free me to develop? Who can I bring along?</em></p>
+
+<p>A few practices I am working on in my own life and family—and that I think most of us will need to learn: Treat your career like a portfolio, not a ladder. Build at least one income stream you own. Develop the irreducibly human skills—judgment, taste, relationships, embodied craft. Cultivate communities that provide identity outside your job. And learn to author your own career narrative, because no HR department is going to write it for you anymore.</p>
+
+<p>Organizations have work to do, too. The business case for hiring entry-level talent has shifted. It is no longer about the immediate output the junior provides; AI does that faster. It is about building the senior pipeline you will need in 15 years. The companies that keep hiring juniors as a pipeline strategy will have senior leaders in 2041. The ones that optimize them away in 2026 will not.</p>
+
+<p>The economy we are outsourcing to has changed. The human need for mastery, meaning, and belonging has not. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-evolving-workforce/202605/the-vanishing-rung-ai-is-climbing-the-career-ladder" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-evolving-workforce/202605/the-vanishing-rung-ai-is-climbing-the-career-ladder</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-evolving-workforce/202605/the-vanishing-rung-ai-is-climbing-the-career-ladder</guid>
+            <dc:creator><![CDATA[Nathan D Iverson Ph.D.]]></dc:creator>
             <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/the-blowup-swdeadset6y-unsplash.jpg?itok=zem4YK_6" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-divinetechygirl-1181305.jpg?itok=bpOVRhBt" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Workplace Chaos Consumes High-Achieving Women]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/IMG_0882-removebg-preview.jpg?itok=YIDSIEaL" alt="Ekaterina Ricci MDR/MLS" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Boundaries</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Workplace Chaos Consumes High-Achieving Women</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How high-conflict dynamics can drain talented women—and what you can do.</h2><p style="font-size:0.9em;color:#666;">Posted May 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Instead of protecting high-performers, toxic systems often overuse and target them.</li><li style="margin-bottom:6px;">The system ends up damaging itself from within—like an autoimmune disease.</li><li style="margin-bottom:6px;">In dysfunctional environments, competence is often reframed as disruption.</li>
+            </ul>
+          </div>
+                    <p><em>By Ekaterina Ricci, MLS/MDR, and Bazil Cunningham, JD/MDR</em></p>
+<p>In medicine, autoimmune disease is a failure of recognition. The immune system misidentifies healthy tissue as a threat and launches a sustained attack against the very cells it is meant to protect. The damage is not caused by an external invader, but by the body’s own defense mechanisms operating without appropriate regulation.</p>
+
+<p><em>Something strikingly similar happens inside organizations.</em></p>
+<p>This post explores "organizational autoimmunity"—how institutions exploit their most capable talent: often high-achieving women. By examining toxic management, ADHD neurobiology, and the "tend-and-befriend" stress response, we expose how systems weaponize female competence to manage chaos created by high-conflict personalities (HCPs).</p>
+
+<h2>The Competence Trap in Practice</h2>
+<p>Consider a company where team members routinely avoid documenting processes or clarifying project roles. When a new employee tries to implement clearer procedures, set boundaries, or ask for defined responsibilities, they are subtly discouraged and degraded as “incompetent,” “disruptive,” “full of excuses,” or “not a team player.”</p>
+
+<p>Consider the case of Mary. She got a new job out of state, but the day-to-day reality was nothing like what she had been sold. Her manager exhibited unchecked high-conflict behaviors. One day he told Mary: “I don’t need to be specific. Just get it done! And fast!” While his instructions were frequently ambiguous and unclear, his hostility was known among staff, which made it difficult to ask for clarity. Distrust permeated all levels of the hierarchy and Mary learned to walk on eggshells.</p>
+
+<p>The organization employs a “Theory X” management style (the assumption employees are inherently irresponsible and must be heavily micromanaged or managed through friction) compared to “Theory Y,” which assumes employees are intrinsically motivated to achieve their goals (Anderson, 2024). This management style allows toxic leaders to avoid accountability and perceive themselves as “unfirable.” In these systems, highly capable people like Mary are not treated as assets to be protected, but rather as endlessly usable defenses—repeatedly activated until exhausted and gone.</p>
+
+<h2>Identity and the Medicalization of Competence</h2>
+<p>Operating in this kind of ambiguity has broader consequences. In many environments, the high-functioning, competent woman is overlooked—not because of a lack of ability, but because her strengths don’t fit neatly into how performance is interpreted.</p>
+<p>Traits like intensity, hyperfocus, strong pattern recognition, and a deep sense of responsibility are often misread. Instead of being recognized as strengths, they may be labeled as problems or signs of incompetence. In some cases, they are even pathologized rather than understood in context (Ishii et al., 2023).</p>
+
+<p>Yet many high-functioning women with this profile develop highly stable systems anchored in structure, discipline, scheduling, vigilance, and resilience. These strengths align well with structured environments such as law, medicine, executive leadership, and academia.</p>
+<p>These same environments, however, tend to attract another predictable presence: high-conflict personalities, as defined by Bill Eddy, a licensed attorney and therapist. Many HCPs have traits associated with narcissistic, antisocial, or borderline personality disorders. Charming public persona types present a very good public face that masks their negative private behavior, allowing them to climb professional ladders before their patterns become obvious.</p>
+
+<p><em>When these two profiles—high-functioning women and HCPs—intersect, the outcome is chaotic with an often irreversible impact.</em></p>
+<h2>Why Chaos Hits Differently and the Rescue Reflex</h2>
+<p>For a high-achieving woman who depends on carefully engineered structure, chaos created by high-conflict personalities destabilizes the systems she relies on to stay focused and regulated.</p>
+
+<p>In healthy environments, this approach is adaptive. In dysfunctional organizations, it is exploited. The woman becomes an emotional container and an unofficial stabilizer for others. Instead of being supported by structure, she is expected to replace it. Her strengths are redirected away from strategy and toward constant maintenance.</p>
+
+
+
+  
+
+
+<p>In 2000, psychologist Shelley E. Taylor introduced the “tend-and-befriend” model—a stress response more commonly observed in women (Taylor et al., 2000). Rather than fight or flee, many respond by nurturing relationships and trying to keep the environment calm and predictable.</p>
+<p>This dynamic also has a biological dimension. Research shows that emotional regulation can be more challenging in adults with ADHD, particularly under stress (Soler-Gutiérrez et al., 2023). Instead of remaining detached from interpersonal strain, emotional responses may intensify in unstable environments.</p>
+
+<p>Over time, the Rescue Reflex breaks down. What was meant to stabilize the system begins to deplete the individual instead.</p>
+<h2>Organizational Responsibility and the Path Forward</h2>
+<p>Individual women cannot fix this alone. These patterns are reinforced by systems that tolerate weak boundaries and lack accountability—conditions that allow high-conflict dynamics to take hold. Over time, this creates emotional volatility, placing greater pressure on the most capable individuals to step in and stabilize the environment.</p>
+
+<p>Real change requires structure. Clear expectations and predictable routines are essential—not only for performance, but for emotional regulation (Nordby et al., 2024). Without them, individuals are left to absorb the strain themselves.</p>
+<p>So what can a high-achieving woman do within a system that hasn’t corrected itself? The shift is from reflexive rescue to deliberate boundaries. When an HCP creates chaos, the instinct is to smooth things over. But repeated rescue only masks the underlying problem. The real work is to limit exposure and return responsibility to the system.</p>
+
+<p>Apply the SLIC Framework, a two-and-a-half-step method designed to break conflict loops:</p>
+<ul>
+<li><strong>Step 1: Set Limits.</strong> State your expectations clearly.</li>
+<li><strong>Step 2: Impose Consequences.</strong> State what you will do if the behaviour continues.</li>
+<li><strong>Step 2 ½: The EAR Statement (Or Not).</strong> While empathy, attention, and respect can de-escalate standard conflicts, HCPs often weaponize empathy. Use your judgment to decide whether an EAR statement is appropriate.</li>
+</ul>
+
+<p>While individual boundaries offer immediate survival, advocating for systemic improvements remains essential. Without boundaries, organizations erode the very conditions required for excellence. With them, high-performing individuals stay focused, effective, and resilient—even when the surrounding system has yet to learn how.</p>
+
+<p>© 2026 Ekaterina Ricci and Bazil Cunningham. All rights reserved.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/solutions-for-conflict/202605/how-workplace-chaos-consumes-high-achieving-women" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/solutions-for-conflict/202605/how-workplace-chaos-consumes-high-achieving-women</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/solutions-for-conflict/202605/how-workplace-chaos-consumes-high-achieving-women</guid>
+            <dc:creator><![CDATA[Ekaterina Ricci MDR/MLS]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-shkrabaanthony-7163379_0.jpg?itok=HfVvNzpZ" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
