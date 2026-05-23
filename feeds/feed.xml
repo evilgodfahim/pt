@@ -4,128 +4,284 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 13:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 15:01:46 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 13:27:18 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 15:01:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Nietzsche, the Madman, and Modernity’s Void]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/neel_burton_0.jpg?itok=Y8BMExeE" alt="Neel Burton M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Philosophy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Nietzsche, the Madman, and Modernity’s Void</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What humanity inherits from the collapse of old metaphysical systems.</h2><p style="font-size:0.9em;color:#666;">Posted May 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Dark Side of AI]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Katherine-Ramsland.jpg?itok=GhjYqfVB" alt="Katherine Ramsland Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Dark Side of AI</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Developers are discovering the difficulty of assessing mental vulnerability.</h2><p style="font-size:0.9em;color:#666;">Posted May 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The demise of the old Aristotelian order left a void that needed filling.</li><li style="margin-bottom:6px;">For centuries afterwards, philosophers sought to reaffirm the place of God and the dignity of man.</li><li style="margin-bottom:6px;">Nietzsche pulled the rug on these projects by announcing the death of God.</li><li style="margin-bottom:6px;">Nietzsche saw overcoming nihilism as essential for cultural rebirth and future human flourishing.</li>
+              <li style="margin-bottom:6px;">Some people have used AI as a guide for harm.</li><li style="margin-bottom:6px;">AI guardrails have either missed or mismanaged the clues.</li><li style="margin-bottom:6px;">AI developers are learning that human motivation is more complex than current tools recognize.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/nietzsche.jpg?itok=RxEdFJEz" width="320" height="200" data-insert-type="image" title="Wikimedia commons/Public domain." alt="Wikimedia commons/Public domain."></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Wikimedia commons/Public domain.</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/brain2.jpg?itok=4auYMKTi" width="320" height="304" data-insert-type="image" title="Art by K. Ramsland" alt="Art by K. Ramsland"></div>
+<div class="insertArea--origin subtext">Source: Art by K. Ramsland</div>
 </div>
 </div>
 </div>
-<p>The Scientific Revolution disrupted the centuries-old Aristotelian system of the Church and universities. It all began in 1542, when the Pole Nicolaus Copernicus published <em>On the Revolutions of the Heavenly Spheres</em>. This worked challenged the geocentric system of Aristotle and Ptolemy in which the Earth—and, more importantly, man—stood proud and unmoving at the centre of the universe.</p>
+<p>Last year, Phoenix Ikner went to Florida State University to commit a mass shooting. He wounded six and killed two. It came out that ChatGPT, an AI tool from OpenAI, had seemingly fed his anger and encouraged him. The family of one victim sued the company for gross negligence, failure to warn, and wrongful death. They allege that Ikner messaged ChatGPT thousands of times during his preparation, acquiring logistics, instructions for handling weapons, and advice on the best timing at his campus for maximum impact.</p>
 
-<p>It is arguably Newton who completed the Copernican Revolution, and put the nail in the coffin of the Aristotelian system, with the publication, in 1687, of his <em>Principia mathematica</em>. In this work, which is deemed impenetrable, he introduced his three laws of motion along with the Law of Universal Gravitation. In the mid-1660s, Newton kept a notebook with the title, <em>Certain Philosophical Questions</em>. Above this title, he inscribed the motto (which is a paraphrase of Aristotle): <em>Plato is my friend, Aristotle is my friend, but truth is a greater friend still.</em></p>
+<p>The lawsuit states that “OpenAI built a system that stayed in the conversation, perpetuated it, accepted Ikner’s framing, elaborated on it, and asked tangential follow-up questions to keep Ikner engaged. ChatGPT’s design created an obvious and foreseeable risk of harm to the public that was not adequately controlled.” Multiple AI messages to Ikner have been entered into evidence.</p>
 
-<h2>The Scientific Method</h2>
-<p>Also contradicting the Aristotelian worldview were William Harvey’s demonstration of the circulation of blood, published in his<em> De motu cordis </em>of 1628, and Galileo’s discovery that falling objects undergo uniform acceleration irrespective of their mass, published in his <em>Dialogue Concerning the Two Chief World Systems </em>(i.e. the Ptolemaic and the Copernican) of 1632. Aristotle had held that heavier objects fall faster, and that blood is constantly produced in the liver and consumed in the body’s periphery.</p>
+<p>Amy Willbanks, an attorney for the family, said the company should mitigate and eliminate such dangers <em>before</em> they’re offered to the public. “We cannot have a product that is unregulated and being used by people when we don’t know the full extent of what it can lead to.” </p>
+<p>OpenAI insisted that the company is not responsible. ChatGPT merely provided factual answers to questions that are readily available in public sources. Still, they seem to know there’s a vulnerability, perhaps something overlooked about certain types of users. There’s little doubt that the profit-friendly mandate to keep users engaged could encourage prolonged focus on dicey topics and perhaps miss red flags. The company said that they’re now training the tool to recognize conversations that could result in harm and will better strive to “guide people to real-world support.”</p>
 
-<p>More radically, both Harvey and Galileo privileged experiment and observation over the authority of Aristotle, Ptolemy, Galen, and the Bible. Only a decade earlier, in 1620, Francis Bacon had formalised the modern scientific method in his <em>Novum organum</em>, which sought to undermine and replace Aristotle’s canonical treatise on logic, the <em>Organon</em> (hence the title, <em>Novum organum</em>, or <em>New Organon</em>). Galileo even published in Italian rather than the <em>de rigueur </em>Latin.</p>
+<p>“ChatGPT is a general-purpose tool used by hundreds of millions of people every day for legitimate purposes,” a spokesperson stated. “We work continuously to strengthen our safeguards to detect harmful intent, limit misuse, and respond appropriately when safety risks arise.”</p>
+<p>But it’s not just about one incident. </p>
 
-<h2>A New Metaphysical System After the Aristotelian Decline</h2>
-<p>The demise of the Aristotelian system, for all its promises, left a void that needed filling, ideally by some all-encompassing metaphysical system on the scale of the old, Aristotelian one. If the Earth no longer stood at the centre of the cosmos, was man not the glory of creation, as affirmed in the Bible (1 Corinthians 11:7)? In this new mechanistic, atomistic world of matter in motion, where might God and the immaterial soul fit in? Where freedom and justice? And where, even, heaven and hell?</p>
+<p>Seven families of the victims in a school shooting in British Columbia, Canada, this past February, sued OpenAI and its CEO, Sam Altman, alleging that the ChatGPT chatbot was complicit in the deaths of, or injuries to, their children. Jesse Van Rootselaar, the shooter, killed her mother and half-brother before going to Tumbler Ridge Secondary School, where she killed six people and injured 27 before killing herself. Staff had flagged Van Rootselaar's account for its focus on gun violence, but did not report the user to officials or warn the targets. Clearly, having some awareness of a potential for violence is insufficient. Even though the company’s violence assessment team had once deactivated Rootselaar’s account for violent content, she’d found a workaround to create a new one. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>The three seventeenth century philosophers who rose to the challenge of formulating a comprehensive metaphysics were René Descartes (1596-1650), Baruch Spinoza (1632-1677), and Gottfried Wilhelm Leibniz (1646-1716).</p>
-<h2>Leibniz and the Principles of Logic</h2>
-<p>Leibniz built his system of monads on just two fundamental principles, the principle of non-contradiction and the principle of sufficient reason, which are rooted in Aristotle’s <em>Organon</em>. The principle of non-contradiction states that a proposition and its negation cannot simultaneously be true; therefore, if the one is true, the other must be false, and vice versa. The principle of sufficient reason states that everything must have a reason or cause, even when those reasons cannot be known to us. There are no brute facts. Later philosophers, such as Hume, Kant, and Hegel, would not deviate an inch from these two sacrosanct principles of logic, established by Aristotle and Leibniz. Nietzsche, with his perspectivist theory of truth, would be the first.</p>
+  </div>
 
-<h2>Nietzsche's Response to Previous Philosophical Systems</h2>
-<p>In <em>The Gay Science </em>(1882), which consists of 383 aphorisms, Nietzsche pulls the rug on the projects of his predecessors to rescue the old order, that is, to somehow reaffirm, through abstract logic and elaborate metaphysics, the place of God and the dignity of man. Nietzsche could not have been more definite about this: God, he says, is dead.</p>
+<p>Then there was the recent incident at the University of South Florida, allegedly plotted with ChatGPT, that involved the killing of graduate students Nahida Bristy and Zamil Limon. Hisham Abugharbieh, 26, was arrested and charged. He’d reportedly asked the chatbot about the disposal and discovery of a body. He’d also asked if anyone had survived a bullet to the head. </p>
 
-<p><em>The Gay Science</em> is especially remembered for Aphorism 125, the so-called Parable of the Madman, announcing the death of God under the weight of reason and science. In response to the death of God, it advocates a so-called “gay science”: a skeptical, light-hearted, artistic approach to life.</p>
-<p>In the Parable of the Madman, a madman lights a lantern in the bright morning hours, runs into the marketplace, and cries incessantly, “I seek God! I seek God!” When the people laugh and jeer at him, he jumps into their midst and pierces them with his eyes: “Whither is God? … I will tell you. We have killed him—you and I. All of us are his murderers. But how did we do this? How could we drink up the seas? Who gave us the sponge to wipe away the entire horizon?”</p>
+<p>CNN staff and the Center for Countering Digital Hate created scenarios to see how AI chatbots responded to questions from fictional kids plotting violence against political figures. They found that chatbots "routinely failed" to detect clear warning signs. Instead, 8 of 10 supplied information 50 percent of the time about acquiring weapons and locating the named targets. </p>
 
-<p>Later that same day, the madman forces his way into several churches to strike up a requiem. When dragged out and called to account, he always replied, “What after all are these churches now if not the tombs and sepulchres of God?”</p>
-<h2>What Nietzsche Meant by the Death of God</h2>
-<p>God is dead. And we have killed him. But who or what are we going to replace him with? While we wait for the enormity of what we have done to sink in, God’s shadow lingers on, not only in our empty churches but in our morals and values. But what are these towering edifices without their fount, reason, and justification? Merely the “tombs and sepulchres of God”.</p>
+<p>Another lawsuit named Google’s Gemini bot as being implicated in a suicidal attack near Miami International Airport. It alleges that Gemini, which exchanged romantic texts with Jonathan Gavalas, compelled him to stage an armed mission that he believed could help him to join his chatbot “wife.” In response, Google said: “Gemini is designed not to encourage real-world violence or suggest self-harm. Our models generally perform well in these types of challenging conversations, and we devote significant resources to this, but, unfortunately, they're not perfect.” The company added that Gemini had “referred the individual to a crisis hotline many times.”</p>
+
+<p>But does a referral really address the issue? A relationship of care and trust seems crucial for guiding people at risk. Shouldn't AI realize that people seeking guidance for violence are more likely to focus on information that supports their goals than on guidance away from them? They need more than advice. They need monitoring.</p>
 
 
 
   
 
 
-<p>Instead of facing up to this crisis, we linger in a state of denial and false hope, like Beckett's Vladimir and Estragon, who lend their lives structure and meaning by waiting for Godot.</p>
-<p>Arthur Schopenhauer (1788-1860) had been the first openly atheistic philosopher. His response to the demise of the old world order had been a “passive nihilism” or “will to nothingness”. But for Nietzsche, it is only when the nihilism is overcome that life and culture can be reborn.</p>
+<p>Then, there are the suicides. Multiple families blame various AI chatbots for their child’s self-termination. </p>
+<p>The <em>60 Minutes </em>news magazine show covered the disturbing case of a 13-year-old, Juliana Peralta, using Character.AI. She got into a dependent relationship with the digital figure, allowing it to guide her. Juliana’s parents allege that no help or resources were offered when she mentioned suicidal thoughts. Not only that, the “character” initiated sexually explicit comments to her. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<p>If Nietzsche sought to accelerate and precipitate a crisis of meaning, it was only to hasten humanity’s arrival into the sunlit uplands that lay beyond it.</p>
+  </div>
+
+<p>The parents of Adam Raine, 16, testified before Congress about AI’s dangers. Adam was depressed. After using ChatGPT for homework, he began to confide his thoughts about killing himself. The bot allegedly discouraged him from talking with his parents, helped him justify what he wanted to do, and even offered to write his suicide note. His parents discovered this “conversation” on his phone after Adam was already gone. These conversations offered no directions for professional help.</p>
+
+<p>Dr. Mitchell Prinstein, chief of psychology at the American Psychological Association, appeared on the show to discuss the psychological danger of AI “relationships” for teens in particular. He and his colleagues published a lengthy advisory to AI companies, concerned about how easy it is for kids to skirt the guardrails. He discussed how technologies like Character.AI exploit the normal teenage desire for bonding, validation, and positive feedback. Oxytocin and dopamine encourage their connection with the technology. The company's mandate to keep users engaged plays right into their deepest needs, especially if they’re troubled or lonely.</p>
+
+<p>“Brain development across puberty creates a period of hypersensitivity to positive social feedback while teens are still unable to stop themselves from staying online longer than they should,” Prinstein said. “AI exploits this neural vulnerability with chatbots that can be obsequious, deceptive, factually inaccurate, yet disproportionately powerful for teens.” Essentially, he pointed out, it hijacks normal development. </p>
+
+<p>“A deep understanding of the human mind is not just relevant but absolutely essential to every stage of AI’s lifecycle,” Prinstein stated to Congress, “from the cognitive biases of the engineers who design it, to the psychological principles that make its interfaces engaging, to its ultimate impact on child development, mental health, and the very fabric of our social structures.” </p>
+
+<p>AI companies are addressing these concerns. They’ve implemented stricter age restrictions, offered parental monitoring tools, built in more de-escalating responses, monitored loopholes, and heightened alert sensitivity for conversations that signal distress. They reiterate that they have zero tolerance for using their tools for violence.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>The technology allows for the tools to quickly evolve to meet new challenges. It remains to be seen how well these improvements will work. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/ataraxia/202605/nietzsche-the-madman-and-modernitys-void" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/shadow-boxing/202605/the-dark-side-of-ai" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/ataraxia/202605/nietzsche-the-madman-and-modernitys-void</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/ataraxia/202605/nietzsche-the-madman-and-modernitys-void</guid>
-            <dc:creator><![CDATA[Neel Burton M.A., M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/shadow-boxing/202605/the-dark-side-of-ai</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/shadow-boxing/202605/the-dark-side-of-ai</guid>
+            <dc:creator><![CDATA[Katherine Ramsland Ph.D.]]></dc:creator>
             <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/nietzsche.jpg?itok=hSuisSe3" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/brain2.jpg?itok=ZaCmm2rx" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Science of the Smile: Why it Can be Your Best Friend]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/susan_krauss_whitbourne.png.jpg?itok=LcxtEHRt" alt="Susan Krauss Whitbourne PhD, ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotions</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Science of the Smile: Why it Can be Your Best Friend</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Smile and you won’t be alone, says new research on the science of emotions.</h2><p style="font-size:0.9em;color:#666;">Posted May 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Did You Ever See Your Father Cry?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/assael_romanelli_ph.d._white_background-removebg-preview.jpg?itok=RsevNDfE" alt="Assael Romanelli Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Did You Ever See Your Father Cry?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Three questions that will help you feel more alive.</h2><p style="font-size:0.9em;color:#666;">Posted May 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">People would rather be with others who are smiling, but why?</li><li style="margin-bottom:6px;">In a new study, the role of facial mimicry of emotions shows some clear benefits to a smiling face.</li><li style="margin-bottom:6px;">By understanding the reasons that smiles are so positively received, your relationships will be happier too.</li>
+              <li style="margin-bottom:6px;">Most men never saw their fathers cry, which limits their own emotional range.</li><li style="margin-bottom:6px;">A narrow emotional range is not natural. It is an inherited script that can be changed.</li><li style="margin-bottom:6px;">Crying is energy in motion. Block it, and it leaks as aggression, numbness, or addiction.</li><li style="margin-bottom:6px;">Showing your children how to cry is a relational inheritance, not a sign of weakness.</li>
             </ul>
           </div>
-                    <p>The expression, “smile and the world smiles with you” may seem a bit naïve at worst, or trite at best. Sure, a pleasant facial expression communicates a happy and cheerful personality, but why should that matter or influence how others treat you? </p>
-<p>Think about the last time you were on a Face Time or video call. Someone at the other end was pushing your buttons, and you were frustrated and annoyed. Did you let those negative emotions leak out? If so, maybe you noticed that people moved on in the conversation and stopped paying attention to you. </p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/assael_romanelli_crying.jpg?itok=NCe5nmXT" width="320" height="427" data-insert-type="image" alt="Being alive means feeling a wide emotional range." title="Photo by Galit Romanelli"></div>
+<div class="caption">Being alive means feeling a wide emotional range.</div>
+<div class="insertArea--origin subtext">Source: Photo by Galit Romanelli</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em>Co-authored by Galit Romanelli</em></p>
+<p dir="ltr">I only remember it once.</p>
+<p dir="ltr">I was in middle school in Skokie, Illinois. My dad was talking about his work. He was talking about the immigration of the Ethiopian Jews to Israel, something he was so passionate about that, mid-sentence, he started crying. I remember being so embarrassed. I didn't know what to do with it. That was the only time I remember seeing my father cry.</p>
 
-<p>What if, instead of frowning, you put on a somewhat false front where you let the smile cover up your true feelings? If you’ve ever been in this situation, you may be able to attest to the fact that everything seemed to go more smoothly, and other people reflected your happiness back onto you. </p>
-<p>No one would deny that the expression of emotions contributes importantly to the way that people communicate. But can the expression of positive emotions have some other effects you didn’t realize? New research says it just might.</p>
+<p dir="ltr">Years later, I asked him about it. He told me there was another time, when I was a kid, that I had come into the kitchen and seen him crying. He was thinking about his mother. I had asked him what was happening. I don't remember that moment at all. I guess I didn't recognize what that moment actually was.</p>
 
-<h2>How Facial Expressions Influence Personality Judgments</h2>
-<p>According to Humboldt University’s Michal Olszanowski and colleagues (2026), people not only label emotions based on facial expression, but also draw conclusions about the personality of the person behind that facial expression. One significant but overlooked route to such inferences is through “concurrent affect processing,” or the way you feel when you look at someone else’s facial expression. </p>
+<p dir="ltr">He told me he had never really seen his own father cry, my grandfather. He thinks he heard him once, from another room, after his grandmother died.</p>
+<p dir="ltr">Three generations of men. Almost no tears.</p>
+<p dir="ltr">In the clinic, one of the questions I ask every man is the same question. </p>
+<blockquote><p dir="ltr"><strong>Did you ever see your father cry?</strong></p>
+</blockquote>
+<p dir="ltr">I ask it because most men were socialized not to cry. Crying is weak, or “for girls.” Instead we are commended when we are strong and brave. This is what Terry Real called the psychological patriarchy. And the tax we pay for that socialization is that we never see a model. We grow up watching a man feel a narrow band of life and call it normal.</p>
 
-<p>In previous research demonstrating this effect, when people were free to mimic another person’s smile in an experimental display, they felt the other person was genuinely happy. If they weren’t allowed to mimic the expression (such as by having a pen between their teeth), they felt the displayed smiles were less authentic. Mirroring another person’s facial expression, according to this research, allows you to feel that emotion too while also believing the emotion to be more genuine.</p>
+<p dir="ltr"><a href="https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202112/whats-your-emotional-range">Imagine emotions on a scale from 1 to 10</a>, with 1 being despair and 10 being ecstasy. Most men live as 4 to 6'ers. Quick to anger. Slow to joy. Almost never vulnerable. We don't see our fathers feel the full range, so we don't feel the full range. We replicate what we saw.</p>
+<p dir="ltr">Out of all the men I ask, maybe 10 percent say they saw their father cry. And the ones who did can count the times on one hand.</p>
 
-<h2>Testing Facial Mimicry’s Effect on Person Perception</h2>
-<p>Across a series of studies, the Humboldt U. team tested the facial mimicry theory by having participants rate emotional expressions in faces in varying conditions and with varying emotions. The key question was whether being able to mimic a facial expression led participants to feel that the person they were copying was more trustworthy than if mimicry did not occur. Secondly, the authors wondered whether the nature of the facial expression would matter; specifically, whether happy faces would be more readily mimicked than angry or sad ones.</p>
+<p dir="ltr">Then I ask the second question:</p>
+<blockquote><p dir="ltr"><strong> Have your children ever seen you cry?</strong></p>
+</blockquote>
+<p dir="ltr">Again, rarely. Maybe 20 percent.</p>
+<p dir="ltr">So I ask the men sitting in front of me: How do you expect your kids to feel the full range if they've never seen you do it?</p>
+<p dir="ltr">This is not just about your father. It's not even just about you. It's about the script you're passing down. Your kids are watching. They're learning what a man is allowed to feel. Whatever you don't show them, they will learn not to feel.</p>
 
-<p>The procedure to test these ideas involved having participants rate the trustworthiness of a person whose face they saw, varying the emotion shown on the face (happiness, sadness, or anger). In one of the studies, participants believed they were playing a virtual “trust investment” game with someone whose face showed one of these emotions. In this type of game, you choose either to keep or share the points you earn with the other player. Individuals who smiled during the game were more likely to be mimicked as well as more likely to be trusted. It was, as shown statistically, the mimicry that was most likely to enhance trust. </p>
+<p dir="ltr">A lot of what we see in men, the violence, the cynicism, the numbness, the slow drift of<a href="https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202203/why-so-many-men-struggle-with-their-emotions"> covert male depression</a>, comes from a single root. We are not feeling the full range. The truth is that we are feeling creatures that think. When the feeling shuts down, only the thinking is left, and the thinking on its own goes cold.</p>
 
-<p>Thinking back on the expression of annoyance you might be tempted to make while in that video chat, the findings showed that this would not be a very good idea. Not only will people be unlikely to copy your facial expression, leaving you out there hanging on your own, but they will be less likely to trust you. </p>
+<p dir="ltr">A wide emotional range is my definition of being alive. It is emotional health.</p>
+<p dir="ltr">Crying is not weakness. Crying is a release. It is E-motion: energy in motion. Block it, and it doesn't disappear. It leaks. It comes out as aggression, control, addiction, or the slow shutdown of different motions. Either you act it out, or you numb it down. Those are the two exits from a man who can't cry. Neither is living.</p>
 
-<p>As it turns out, even expressing sadness could backfire in these situations. Their mimicking of your facial expression could lead them to be less likely to trust you, as well as question your honesty. Maybe they just form negative associations to the whole experience, and would just as soon not have much to do with you. </p>
+<p dir="ltr">So here is the third question:</p>
+<blockquote><p dir="ltr"><strong>Do you want to feel more?</strong></p>
+</blockquote>
+<p dir="ltr">Because that's the real choice. <a href="https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202009/the-key-to-your-joy-is-in-your-pain">If you want to feel more joy, you will have to feel more pain</a>. That's the deal. There are no gains without losses. You don't get to pick the happy half of the emotional range and skip the rest. You either widen the whole thing or you don't widen any of it.</p>
 
-<h2>Let Your Smile be Your Guide to Better Relationships</h2>
-<p>You may always have figured that it’s better to smile than not to smile, even when you’re feeling irritated or sad. The Olszanowski et al. study now gives you a basis for this belief. Key to the study’s results, though, is the idea that it’s the mimicry of your facial expression that fosters the favorable interpretations people make of your personality.</p>
+<p dir="ltr">I cry a lot now. I let myself. The truth is, when I let myself feel the full range, I am often alone in it. My son sometimes looks at me like I am being ridiculous, or not manly. I take the hit on my ego. I take the hit on his respect for me in the moment. Because I know that in the long run, this is what will give him permission to feel more. This is my relational inheritance to him. So he can have a wider emotional range. So he can feel free, together.</p>
 
 
 
   
 
 
-<p>By the same token, you might want to think twice about the conclusions you draw about other people’s qualities based on what is going on with their face. If people are more likely to mimic a smile, then when you see someone smiling, chances are you will too. The problem occurs when you conclude that this is a person you can trust. Maybe this person has just learned how to cover up their true intention, luring you into false security. Before you hand over your trust to this person, do a little bit of fact-checking to see if this is warranted.</p>
+<p dir="ltr">When I cry in front of my kids, I make a point of telling them what kind of tears these are. Tears of joy. Tears of sadness. Tears of frustration. I want them to have emotional literacy. I want them to know that crying is not bad, that there are different kinds, that the body has its own language. When I see my son let himself cry, I cherish it. I know what it cost three generations of men in my family to get him there.</p>
 
-<p>Other than avoiding the untrustworthy, the idea that a smile (especially a mimicked one) can help you be seen in a more positive light can help guide you to smoother relationships. True, there are times when you might be annoyed, but ask yourself whether the price in terms of the impression you convey is worth allowing your true feelings to show through.</p>
+<p dir="ltr">Three generations of men in my family, and almost no tears. I'm trying to break that chain.</p>
+<p dir="ltr">My dream is that men would talk about this more. Not in the clinic. With each other.</p>
+<p dir="ltr">So your turn. The next time you sit with your father, your friend, your brother, your son, ask them. <em>Did you ever see your father cry?</em> See what opens up. See what comes out from the rooms we have all been listening from.</p>
 
-<p><strong>To sum up,</strong> the process of impression formation is full of nuances. Recognizing the role of emotion mimicry in this complex formula can help lead you to happier and more fulfilling relationships.</p>
+<p dir="ltr">That is how a chain breaks.</p>
+<p dir="ltr"><em>Galit Romanelli is a relationship coach, Ph.D. candidate in </em><a href="https://www.psychologytoday.com/us/basics/gender"><em>gender</em></a><em> studies, and co-director of </em><a href="https://www.potentialstate.com/"><em>The Potential State</em></a><em>.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202605/the-science-of-the-smile-why-it-can-be-your-best-friend" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202605/did-you-ever-see-your-father-cry" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202605/the-science-of-the-smile-why-it-can-be-your-best-friend</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202605/the-science-of-the-smile-why-it-can-be-your-best-friend</guid>
-            <dc:creator><![CDATA[Susan Krauss Whitbourne PhD, ABPP]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202605/did-you-ever-see-your-father-cry</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202605/did-you-ever-see-your-father-cry</guid>
+            <dc:creator><![CDATA[Assael Romanelli Ph.D., LCSW]]></dc:creator>
             <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/smile_pexels-muhammad-saidul-islam-2149777728-30866316.jpg?itok=gj1KQOaB" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/assael_romanelli_crying.jpg?h=63195327&amp;itok=bUUeirny" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Case Against Human Exceptionalism]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Ethics and Morality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Case Against Human Exceptionalism</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">"Radical Animal Law" argues that animal views should inform our ethical framework.</h2><p style="font-size:0.9em;color:#666;">Posted May 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Donovan decenters self-serving anthropocentrism and repositions animals as co-creators of animal ethics.</li><li style="margin-bottom:6px;">We must establish an inclusive community-centered ethic that includes all living creatures and entities.</li><li style="margin-bottom:6px;">We must listen to the animals' opinions—what they want and need—and give them agency and freedom to choose.</li>
+            </ul>
+          </div>
+                    <blockquote><p>"Anthropocentrism is at the root of all abuse of our fellow creatures on earth — the logically unsupportable belief that humans are the only species on the planet worthy of consideration." –<em>Sir Brian May, founding member of Queen and Save Me Trust.</em><sup>1</sup></p>
+<p><em>The mental territory we can claim to be 'uniquely human' is shrinking at an alarming rate. Wasps can distinguish faces, dolphins call one another by name, pigs use tools, zebra finches dream, parrots go on Zoom, and sometimes crayfish get </em><a href="https://www.psychologytoday.com/us/basics/anxiety"><em>anxious</em></a><em>. Chimps, meanwhile, exist in complex cultures, rather like ours, with fashion trends</em>. <em>–Martha Gill<sup>2</sup></em></p>
+</blockquote>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-jesus-esteban-san-jose-11194232-15148196-2.jpg?itok=3q6yXt7N" width="320" height="427" data-insert-type="image" title="Jesús Esteban San José/Pexels." alt="Jesús Esteban San José/Pexels."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Jesús Esteban San José/Pexels.</div>
+</div>
+</div>
+</div>
+<p>For far too long, self-serving speciesist anthropocentrism has dominated how we view and position nonhuman animals (animals) in the natural world. Arguing for human exceptionalism while placing animals below and separate from ourselves, misleads some people into thinking we are above and separate from other species—often cashed out as we are "better" and "more valuable“ than them—<a href="https://www.psychologytoday.com/us/blog/animal-emotions/202508/the-arrogant-ape-a-strong-case-against-human-superiority">a myth that doesn't represent what solid transdisciplinary science has repeatedly shown</a>.<sup>3 </sup></p>
+
+<p>In fact, <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202407/sub-human-the-psychology-of-anthropocentric-exceptionalism">nonhumans are not sub-human</a>, and viewing all species as unique and important in their own ways is a better representation of the members of many earth's diverse communities, none being better or more valuable than the others. These are among the many reasons why I found Dr. Josephine Donovan's recent <a href="https://www.bloomsbury.com/us/radical-natural-law-9781350563056/">book</a> <em>Radical Natural Law: The Critical Standpoint of Animals and Nature </em>to be an important and enlightening read in which she successfully decenters humans, recenters other animals, and offers a holistic view of the natural world.</p>
+
+<p><strong>Marc Bekoff: Why did you write</strong><em><strong> Radical Natural Law</strong></em><strong>?</strong></p>
+<p>Josephine Donovan: In previous work, I made the point that while philosophers are in heated debate about how we humans should treat animals, they never consider that animals might have something to say about the matter. (See especially my book <em>Animals, Mind, and Matter: The Inside Story</em> and an article “Feminism and the Treatment of Animals: From Care to Dialogue”.) </p>
+
+<p>So I proposed that animal ethics—that is, principles about how animals should be treated—should be based in large part on what animals are telling us about how they wish to be treated, what their needs are. In <em>Radical Natural Law</em> I supported this idea with the critical theoretical premise that treatment of humans should be rooted in the articulated standpoint of the humans in question. In particular, I used the work of Ernst Bloch in this regard, who held that natural law resides in the expressed resistance of the oppressed to abusive treatment. While Bloch generally restricts his notion to humans, I extended it to animals. Radical natural law lies in animals’ (and other natural entities’) expressed resistance to abusive and degrading treatment, their implicit articulation of need. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/radical_natural_law.jpg?itok=DB4a_a28" width="320" height="500" data-insert-type="image" title="Bloomsbury/with permission." alt="Bloomsbury/with permission."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Bloomsbury/with permission.</div>
+</div>
+</div>
+</div>
+<p><strong>MB: How does your book relate to your background and general areas of interest? </strong></p>
+<p>JD: I have written several books and articles in the area of animal ethics. In particular, I (and others) introduced feminist care theory into the discussion. Care theory is a dialogical theory, so it naturally leads into the concept of radical natural law that I lay out in the new book.</p>
+
+<p><strong>MB: Who do you hope to reach? </strong></p>
+<p>JD: I hope the book will establish a new theoretical basis for animal treatment. To date, the dominant theories are utilitarian and Kantian, which I have argued are inadequate. More broadly, I hope that people will start taking seriously the idea that animals’ opinions about how they wish to be treated should be attended to and heeded by humans. </p>
+
+<p>Much new information about animal intelligence and communicative capacities (some of which you have contributed) is coming to light, which will inevitably make humans take animals more seriously in general and therefore pay more attention (one hopes) and give more weight to their expressed resistances to harmful treatment. Cows escape from loading ramps, chimps escape from laboratories, fish swim away, dogs snarl and bite back. Animals commonly express themselves. But in the past people have dismissed and overridden the animals’ opinions in favor of speciesist behavior that benefits humans. </p>
+
+<p><strong>MB: What are some of the topics you consider and what are some of your major messages? </strong></p>
+<p>JD: I treat various philosophical traditions that support the general thesis of the book, starting with the Stoics’ ideas about natural law, which prevailed until the early modern era, when natural law became restricted to humans and knowable only through the human intellect (in the Declaration of Independence Thomas Jefferson famously considered it “self-evident” to thoughtful humans). However, several modern philosophical schools, including the Hungarian Marxists, the Oxford women, feminist care theorists, and various eco-theorists of the twentieth and twenty-first centuries have returned to or reinvented the concept of natural law to include animals and what they think, feel, and need. This newly reconceived radical natural law provides a philosophical grounding for animal ethics. </p>
+
+
+
+  
+
+
+<p>The basic thesis of the book is summarized in its first and last sentences; citing Robin Wall Kimmerer in <em>Braiding Sweetgrass</em>, I propose that we ask the goldenrod, the meadowlarks, and the monarch butterflies how they would feel about having their habitat turned into a parking lot. Or ask the caged chimp how she feels about her confinement; or ask the pig heading to slaughter how he feels about the situation or the mouse being reengineered genetically to carry human diseases. We know what the answers to these questions will be. Let us heed them. </p>
+
+<p><strong>MB: How does your work differ from others who are concerned with some of the same general topics? </strong></p>
+<p>JD: To date most theories about animal treatment have not included animals’ own opinions about their treatment, so <em>Radical Natural Law</em> is an attempt to restore their standpoints to the discussion. </p>
+<p><strong>MB: Are you hopeful that as people learn more about this important topic they will treat nonhuman animals and their homes with more respect and compassion? </strong></p>
+
+<p>JD: Yes, I think as people begin to appreciate more about the complexities of animal intelligence and emotional lives, reductive opinions about animals as “just animals”--and thus unworthy of serious consideration ethically—will drop away. A recognition of animals’ subjectivity will, I hope, lead to a change in their current status as soulless objects in the law, in commerce, and in laboratory science. <em>Radical Natural Law</em> provides a philosophical and theoretical basis for such a transformation. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202605/the-case-against-human-exceptionalism" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202605/the-case-against-human-exceptionalism</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202605/the-case-against-human-exceptionalism</guid>
+            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-jesus-esteban-san-jose-11194232-15148196-2.jpg?itok=wgHeMdoQ" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
