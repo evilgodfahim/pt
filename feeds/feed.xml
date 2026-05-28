@@ -4,399 +4,710 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 21:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 23:18:58 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 21:09:40 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 23:18:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Hidden Emotional Labor of Veterinary Medicine]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/k_compitus.jpg?itok=gQqx-kAa" alt="Katherine Compitus" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Labor</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Emotional Labor of Veterinary Medicine</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The psychological impact of veterinary care weighs heavily on those who provide it.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How the Brain Learns That Fear Is No Longer Needed]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/billhaseltinephoto.jpg?itok=a76H5bCT" alt="William A. Haseltine Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Fear</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How the Brain Learns That Fear Is No Longer Needed</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The brain doesn't erase fearful memories; it changes their power over behavior.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Veterinary professionals face high rates of burnout and compassion fatigue from repeated exposure to loss.</li><li style="margin-bottom:6px;">Addressing the emotional toll of veterinary work improves care quality and protects staff mental health.</li><li style="margin-bottom:6px;">Clinical social workers use evidence-based strategies to help staff process grief and moral stress.</li><li style="margin-bottom:6px;">Veterinary social workers take care of the people who are caring for our pets.</li>
+              <li style="margin-bottom:6px;">The immune cells of the brain help reduce fear after repeated safe exposure to a once-threatening place.</li><li style="margin-bottom:6px;">Microglia monitor neurons respond to activity and help reshape brain circuits.</li><li style="margin-bottom:6px;">The findings may help explain why fear memories persist in conditions such as PTSD.</li>
             </ul>
           </div>
-                    <p dir="ltr">Veterinary medicine is often associated with compassion and healing, but it also involves repeated exposure to suffering, loss, and ethically complex decisions. For many professionals in the field, the emotional demands are both cumulative and underrecognized.</p>
-<p dir="ltr">Veterinary social work addresses this often-invisible dimension of care. While much of the role involves supporting clients, an equally important focus is the well-being of veterinary staff. Research has consistently shown elevated rates of burnout, compassion fatigue, and psychological distress among veterinary professionals, driven in part by the frequency of euthanasia, financial constraints on care, and intense client interactions.</p>
+                    <p dir="ltr">Fear protects us by teaching the brain what to avoid. After a frightening experience, a sound, place, smell, or image can become linked with danger. That link can save a person from future harm. But when the danger has passed, the same system can become painful. In posttraumatic stress disorder (PTSD), reminders of trauma can trigger fear even when a person is physically safe.</p>
 
-<p dir="ltr">Compassion fatigue, a concept closely related to secondary traumatic stress, can emerge when clinicians are repeatedly exposed to the pain of others without sufficient opportunity to process their own emotional responses. Over time, this can lead to emotional exhaustion, detachment, and a reduced sense of efficacy. In veterinary settings, these effects may be intensified by the pace of care and the frequency of ethically complex decisions.</p>
+<p dir="ltr">A <a href="https://www.nature.com/articles/s41593-026-02286-0">new study in <em>Nature Neuroscience</em></a> offers a closer look at how the brain learns that a feared cue no longer signals threat. The study focuses on microglia, a type of immune cell that lives in the brain. Microglia act like caretakers of the nervous system. They scan nearby tissue, respond to inflammation and injury, communicate with neurons, and help shape the connections between brain cells. Although scientists once viewed them mainly as defenders against disease, newer work shows that microglia also help regulate learning, memory, and behavior.</p>
 
-<p dir="ltr">Veterinary social workers provide structured support to help mitigate these risks. This may include facilitating debriefing after difficult cases, introducing trauma-informed coping strategies, or supporting teams in recognizing early signs of burnout. These interventions align with broader psychological research emphasizing the importance of reflection, social support, and meaning-making in sustaining professionals in high-stress fields.</p>
+<p dir="ltr">The study examined fear extinction, the process through which fear decreases after repeated safe exposure to a once-threatening situation. In therapy for anxiety and trauma, this same principle appears in exposure-based treatments. A person gradually encounters reminders of fear in a safe setting, and the brain learns that those reminders no longer predict harm.</p>
 
-<p dir="ltr">Central to both client and staff experiences is the human-animal bond. From a psychological perspective, relationships with companion animals often function as attachment bonds, providing comfort, stability, and emotional regulation. Studies have shown that these relationships can play a significant role in mental health, particularly during periods of stress or isolation.</p>
+<h2>How the Brain Rewrites a Fear Response</h2>
+<p dir="ltr">In this study, mice learned to associate a specific context with a mild shock. Later, the mice returned to that context without receiving a shock. Over time, their freezing behavior decreased, showing that they had learned the place no longer carried danger.</p>
+<p dir="ltr">Inside the brain, the team focused on the dentate gyrus, a part of the hippocampus involved in memory. They labeled the neurons that became active during the original fear learning. These neurons form part of the fear memory trace, often called an engram.</p>
 
-<p dir="ltr">When that bond is disrupted, the effects can be profound. Grief in this context is not only about the loss of a companion, but also about the loss of routine, identity, and a source of emotional grounding. For veterinary professionals, repeated exposure to these losses—both their own and those of their clients—adds another layer of emotional complexity.</p>
+<p dir="ltr">After extinction training, microglia moved toward these fear-memory neurons. The total number of microglia did not simply rise across the hippocampus. Instead, microglia changed location and gathered near the specific neurons involved in the fear memory. This suggests that the brain recruits microglia in a targeted way when it needs to update a memory.</p>
 
-<p dir="ltr">Veterinary social workers also operate from a systems perspective. One important aspect of this work is recognizing the established link between animal abuse and interpersonal violence. By identifying warning signs and collaborating with veterinary teams and community resources, they contribute to broader efforts to protect both human and animal welfare.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+<p dir="ltr">Microglia interacted with fear-memory neurons in two main places. Near the cell body, they appeared to reduce the activity of the fear-memory cells when the mice returned to the once-threatening context. Along the dendrites, the branches where neurons receive signals, microglia helped remove some synaptic structures. These changes made the fear-memory neurons less likely to reactivate strongly.</p>
+
+<p dir="ltr">The brain did not delete the fear memory. It changed how much power memory had over behavior. The old association remained, but it became less able to command the body’s fear response.</p>
+<h2>Letting Go of Trauma</h2>
+<p dir="ltr">PTSD can make the past feel biologically present. A veteran may hear a sudden sound and feel transported back to combat. A survivor of violence may avoid streets, rooms, or situations that resemble the trauma. The body reacts before reasoning can intervene.</p>
+
+
+<p dir="ltr">The findings of this study point to a useful idea: Recovery from fear may require active cellular work inside the brain. The brain must not only learn that a cue is safe. It may also need cells like microglia to help reduce the strength and reactivation of the original fear circuit.</p>
+<p dir="ltr">When microglial function was disrupted, extinction slowed. The mice continued to show more fear. When signaling systems that help microglia remodel synapses were blocked, the fear-memory neurons stayed more reactive, and extinction became less effective. These results suggest that microglia help the brain update fear memories both by regulating neuronal activity and reshaping the connections that support the memory.</p>
+
+<p dir="ltr">Fear recovery has a physical basis. Healing does not rely only on willpower or positive thinking. It involves real biological change: cells communicating, circuits adapting, and memories losing some of their control over present behavior.</p>
+<h2>The Biology of Feeling Safe Again</h2>
+<p dir="ltr">Extinction learning sits at the center of many treatments for anxiety and trauma-related disorders. When a person safely revisits a feared reminder, the brain has an opportunity to form a new interpretation: This cue once signaled danger, but it no longer does.</p>
+
+
+
   
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
 
-  </div>
 
-<p dir="ltr">In addition, the “client” in veterinary settings is often not a single individual but a network: families, medical teams, and sometimes external agencies. Navigating these overlapping systems requires flexibility and strong clinical judgment. A single case may involve supporting a grieving family, coordinating with outside services, and helping staff process their own emotional responses.</p>
+<p dir="ltr">The new study adds microglia to that story. These cells may help determine whether a fear memory remains easily triggered or becomes less dominant over time. Because microglia respond to stress, sleep, inflammation, aging, and the environment, they may help link life experiences to the brain’s ability to recover from fear.</p>
 
-<p dir="ltr">Understanding veterinary social work as a clinical discipline has important implications. When emotional care is treated as secondary, gaps emerge that can affect both client outcomes and professional well-being. When it is integrated into the fabric of care, it strengthens the entire system.</p>
-<p dir="ltr">Moments of crisis in veterinary settings are rarely just medical. They are also relational and psychological, shaped by attachment, loss, and meaning. Veterinary social workers help bring these dimensions into focus, supporting both those who seek care and those who provide it.</p>
-
-<p dir="ltr">In this way, a veterinary hospital becomes more than a place of treatment. It becomes a space where human experiences—grief, connection, and resilience—are acknowledged as essential parts of care.</p>
+<p dir="ltr">Many people with PTSD feel frustrated that they cannot simply “move on.” But the brain does not release fear by command. It learns safety through repeated experience, supportive conditions, and biological change. Fear memories can be powerful, but they are not set in stone. The brain has systems for revising them. Microglia, once thought of mainly as the brain’s immune sentinels, may also help the mind loosen the grip of fear and make room for safety again.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/zooeyia/202605/the-hidden-emotional-labor-of-veterinary-medicine" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/best-practices-in-health/202605/how-the-brain-learns-that-fear-is-no-longer-needed" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/zooeyia/202605/the-hidden-emotional-labor-of-veterinary-medicine</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/zooeyia/202605/the-hidden-emotional-labor-of-veterinary-medicine</guid>
-            <dc:creator><![CDATA[Katherine Compitus]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/best-practices-in-health/202605/how-the-brain-learns-that-fear-is-no-longer-needed</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/best-practices-in-health/202605/how-the-brain-learns-that-fear-is-no-longer-needed</guid>
+            <dc:creator><![CDATA[William A. Haseltine Ph.D.]]></dc:creator>
             <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/shutterstock_2713352691.jpg?itok=5KB-9Rqm" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/woman-walking-balance-rooftop-edge-freedom-fun-by-sky-background-carefree-cloudy-storm-female-person-back-travel-adventure-mental-health-holiday-vacation_medium.jpeg.jpg?itok=UtUSgv3W" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How Running Changed My Sobriety]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/dana_bowman.png.jpg?itok=t5eU1Ap-" alt="Dana Bowman" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Alcoholism</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Running Changed My Sobriety</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Living life sober, one run at a time.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How Prison Quietly Reshapes Human Identity]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/siegcas.png.jpg?itok=luT8r_h1" alt="Sigifredo Castell Britton Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Identity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Prison Quietly Reshapes Human Identity</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Repeated incarceration can slowly reshape identity, belonging, and trust.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Repeated incarceration can gradually reshape identity and emotional belonging.</li><li style="margin-bottom:6px;">Survival inside prison often creates emotional habits that continue after release.</li><li style="margin-bottom:6px;">Recidivism frequently involves identity fragmentation, rejection, and social disconnection.</li>
+            </ul>
+          </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/venti-views-i1ewtm5mfem-unsplash__1_.jpg?itok=DWp1A2Gv" width="320" height="210" data-insert-type="image" title="Venti / Unsplash " alt="Venti / Unsplash "></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-wolrider-20620663.jpg?itok=W6RHn0eE" width="320" height="480" data-insert-type="image" title="wolrider/Pexels" alt="wolrider/Pexels"></div>
+<div class="insertArea--origin subtext">Source: wolrider/Pexels</div>
+</div>
+</div>
+</div>
+<p>Inside the prison, emotional restraint shaped nearly every interaction. Men moved through the corridors carefully, watching people closely, avoiding unnecessary attention, and carrying the emotional caution that often develops inside controlled environments. Long periods of incarceration gradually influence the way individuals communicate, trust others, and understand themselves socially. </p>
+
+<p>Owen, the man I interviewed, had returned to that Caribbean prison seven times.</p>
+<p>He described incarceration with a level of familiarity that revealed how deeply prison had entered his psychological routine. The schedules, the isolation, the constant awareness of conflict, and the emotional distance between people had become recognizable parts of ordinary life. Release from prison no longer felt emotionally stable or predictable.</p>
+
+<p>He explained that returning home after incarceration often felt uncomfortable. Relationships had weakened over time. Conversations outside prison sometimes felt forced. Crowded places increased his anxiety. Years inside prison had changed the way he experienced ordinary social life.</p>
+<p>Identity restoration theory (IRT) explains that incarceration often weakens belonging, dignity, communal connection, and identity continuity through prolonged emotional disconnection and institutional control (Castell Britton, 2026a). These disruptions rarely emerge all at once. They develop gradually through repetition, isolation, and emotional survival.</p>
+
+<h2>Survival Slowly Shapes Identity</h2>
+<p>Many incarcerated individuals adapt psychologically in order to survive prison environments. Emotional vigilance becomes routine. Distrust becomes normalized. Emotional expression narrows over time.</p>
+<p>Owen rarely spoke openly about feelings. Most of his reflections focused on remaining alert, avoiding conflict, and learning how to recognize danger before it emerged. Prison had conditioned him to observe people constantly and approach situations cautiously.</p>
+
+<p>Those adaptations often continue long after release.</p>
+<p>Research on prison reintegration in Colombia suggests that incarceration extends beyond physical confinement and gradually reshapes how individuals understand themselves socially and psychologically (Castell Britton, 2026c). Some individuals eventually organize their identity around survival rather than emotional connection, belonging, or personal reflection.</p>
+
+<p>The emotional changes become difficult to recognize because they develop quietly. Vulnerability begins to feel dangerous. Emotional distance begins to feel safer than closeness. Over time, some individuals stop discussing fear, sadness, affection, or emotional pain because prison environments condition emotional suppression as a form of protection.</p>
+
+<p>After repeated incarcerations, prison routines may begin to feel emotionally predictable while freedom feels uncertain. Reintegration demands emotional adjustment, social trust, and psychological reconstruction, processes that many former prisoners attempt to navigate alone.</p>
+<p>The emotional familiarity of prison sometimes becomes stronger than the emotional familiarity of society itself.</p>
+
+<h2>Recidivism and Identity Loss</h2>
+<p>Public discussions about recidivism often focus on crime, unemployment, poverty, or legal supervision. Those realities remain important, although they do not fully explain why some individuals continue returning repeatedly to prison environments.</p>
+<p>Owen described feeling emotionally disconnected after release. Familiar places no longer carried the same meaning. Relationships felt fragile. Over time, he began expecting rejection before connection.</p>
+
+<p>Identity restoration theory proposes that reintegration depends heavily on dignity, communal belonging, narrative repair, and agency activation (Castell Britton, 2026a). Without those conditions, many formerly incarcerated individuals struggle to develop a stable sense of self outside prison.</p>
+<p>Research examining prison education reform and reintegration found that emotional support, restorative engagement, legitimacy, and reflective educational experiences demonstrated stronger relationships with lower recidivism than employment alone (Castell Britton, 2026c). These findings reveal how deeply identity influences long-term reintegration.</p>
+
+
+
+  
+
+
+<p>Research on cultural identity and reintegration further explains that individuals often struggle to sustain transformation when they remain disconnected from belonging, meaning, and identity coherence (Castell Britton, 2026b). Shame accumulates quietly over time. Emotional trust weakens. Some individuals gradually internalize criminal labels, rejection, and survival identities until those experiences begin shaping how they see themselves permanently.</p>
+
+<p>The emotional fragmentation eventually influences behavior, relationships, decision-making, and belonging.</p>
+<h2>The Emotional Distance Between Prison and Society</h2>
+<p>Long-term incarceration creates emotional distance between individuals and ordinary social life. Family roles weaken through absence. Relationships become strained. Social belonging slowly deteriorates.</p>
+
+<p>He explained that prison had changed the way he related to people emotionally. Emotional closeness felt uncomfortable after years inside prison environments. Constant awareness of danger had followed him beyond the prison walls.</p>
+<p>Those patterns appear frequently among individuals exposed to prolonged institutional environments. Human identity develops through connection, recognition, emotional safety, and belonging. Prison environments often interrupt those experiences through surveillance, emotional suppression, social stigma, and isolation (Castell Britton, 2026a).</p>
+
+<p>Many incarcerated individuals eventually construct identities capable of surviving prison while struggling emotionally outside it. The same psychological adaptations that once protected them during incarceration may later interfere with trust, intimacy, emotional regulation, and reintegration.</p>
+<p>This helps explain why repeated incarceration sometimes reflects more than criminal intent alone. Psychological familiarity also shapes human behavior. People often return to environments that feel emotionally recognizable, even when those environments create suffering.</p>
+
+<p>The prison sentence may end legally, while the prison identity continues psychologically.</p>
+<h2>Restoration Beyond Survival</h2>
+<p>Near the end of the interview, the conversation shifted toward rehabilitation and change. He spoke quietly about people leaving prison without emotional direction, social support, or any stable sense of identity beyond incarceration.</p>
+
+<p>His reflections aligned closely with research on identity restoration and reintegration. Identity restoration theory emphasizes that rehabilitation requires more than institutional compliance or vocational preparation. Reintegration also involves dignity, reflective learning, emotional recognition, communal belonging, and opportunities to reconstruct identity beyond shame and survival (Castell Britton, 2026a; Castell Britton, 2026c).</p>
+
+<p>Research on cultural identity and restoration further suggests that individuals often regain emotional stability when learning reconnects them to meaning, memory, dignity, and belonging (Castell Britton, 2026b). Those dimensions of rehabilitation remain deeply human, although correctional systems frequently overlook them.</p>
+
+<p>If societies genuinely want to reduce recidivism and prevent dangerous or criminal behavior from repeating itself, the conversation must move beyond punishment alone. Many individuals leave prison carrying emotional adaptations shaped through survival, distrust, rejection, and identity fragmentation. Without opportunities to reconstruct identity, those same psychological patterns often continue long after release.</p>
+
+<p>Some dangerous minds are not sustained only through violence or criminal thinking. Many continue forming through emotional disconnection, fractured belonging, chronic rejection, and years of psychological survival without restoration. When rehabilitation ignores those deeper dimensions of identity, prison may temporarily change behavior while leaving the emotional foundations of reoffending largely untouched.</p>
+
+<p>Lasting reintegration begins when individuals gradually recover dignity, meaning, belonging, and emotional direction strong enough to support a different version of themselves outside prison. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/emotional-origins-of-violence/202605/how-prison-quietly-reshapes-human-identity" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/emotional-origins-of-violence/202605/how-prison-quietly-reshapes-human-identity</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/emotional-origins-of-violence/202605/how-prison-quietly-reshapes-human-identity</guid>
+            <dc:creator><![CDATA[Sigifredo Castell Britton Ph.D.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-wolrider-20620663.jpg?h=4cdf75f7&amp;itok=r5aD_V6H" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stop Protecting Your Child's Brain and Start Building It]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/timothy_cook.png.jpg?itok=huzVCctn" alt="Timothy Cook M.Ed." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Stop Protecting Your Child's Brain and Start Building It</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What children need most from parents has nothing to do with technology.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Children's brains develop through experience, not through protection from experience.</li><li style="margin-bottom:6px;">The freedom to be wrong without adult intervention builds architecture that AI cannot.</li><li style="margin-bottom:6px;">Policing screen time addresses the symptom while ignoring what should replace it.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">My daughter was riding one of those little green/yellow plastic bikes around the room and she got stuck between the coffee table and the couch. "Daddy, I'm stuck. Help."</p>
+<p dir="ltr">My first instinct was to push the table out of the way. It would have taken three seconds and the problem would have been solved and she'd continue riding around the room. That was the easy move, and it was the one I usually make and almost made again.</p>
+
+<p dir="ltr">But I did have other options. I could have walked out of the room and let her figure it out alone or I could have stayed in the room but refused to move the table. I took the third one and said, "Just figure it out," and I stayed where I was. Three seconds later she lifted the bike, turned it around, and went the other way.</p>
+
+<p dir="ltr">I am not telling this story because I knew what I was doing. I am telling it because the choice I almost made, pushing the table, is the choice I and many parents make a hundred times a day without thinking about it. And it is this choice that, multiplied across years, affects a child's capacity to solve problems independently.</p>
+
+<h2>Why Restriction Alone Is Not Enough</h2>
+<p dir="ltr">The conversations about children and technology almost always start with restriction. Let's limit screen time, monitor apps, and set boundaries around AI. Those are reasonable steps but they are also the wrong unit of analysis. Restriction is not the same as construction. You can remove every screen from a child's life and still fail to build the conditions where thinking actually develops.</p>
+
+<p dir="ltr">Alison Gopnik's research on child development argues that parents are not carpenters shaping a child into a finished product but gardeners creating the conditions in which a child can grow. A carpenter controls the outcome. A gardener controls the soil. The soil is what matters is this situation above. </p>
+
+<p dir="ltr">It is flawed to assume the conditions that build cognitive capacity in young children are only because of lessons, curricula, or carefully curated educational content taught in schools. They are often formed through unstructured time, boredom, the experience of wanting something and not having it handed over, and the freedom to try something, get it wrong, and sit in the wrongness long enough to figure out what went wrong.</p>
+
+<p dir="ltr">These later conditions are often uncomfortable. They look, from the outside, like a parent or teacher doing nothing. That is a problem in a culture that measures parental quality by how much intervention a parent provides. Sometimes the most important developmental work looks like neglect.</p>
+<p dir="ltr">How Early Experiences Shape Brain Development</p>
+
+
+<p dir="ltr">Dahl and colleagues published a <a href="https://www.nature.com/articles/nature25770">2018 paper in Nature</a> that reframed adolescent brain development as an investment window. They claim that the brain's plasticity during childhood and adolescence is not a vulnerability to be managed but a resource to be invested in. The experiences a child has during these years shape neural architecture in ways that become increasingly difficult to replicate later.</p>
+
+<p dir="ltr">So what is parental responsibility within this framing? It is not enough to protect children from harmful inputs. Children need to get the experiences for their brains that build the structures they will rely on for the rest of their lives.</p>
+<p dir="ltr">Those experiences are specific. They include sustained attention to problems that do not resolve quickly. They include social negotiation without adult arbitration. They include physical exploration of environments that have not been pre-sanitized for safety. They include long stretches of time in which nothing is scheduled and the child has to generate their own direction. Every one of these experiences is becoming rarer, not only because of screens, but because of a parenting culture that treats childhood as management rather than a developmental process to be supported.</p>
+
+
+
+  
+
+
+<h2 dir="ltr">The Hardest Thing a Parent Can Do</h2>
+<p dir="ltr">I've written before about <a href="https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them">cognitive foreclosure</a>: the difference between an adult who loses a skill to AI (atrophy, reversible) and a child who never builds the skill in the first place (foreclosure, likely permanent). Parents are usually relieved when they hear this distinction. It confirms that their instinct to limit AI exposure is correct.</p>
+
+<blockquote><p dir="ltr">And it is correct. But it is also incomplete.</p>
+</blockquote>
+<p dir="ltr">A child who never uses AI but spends every unscheduled hour in adult-directed activity is also experiencing a form of foreclosure. The cognitive architecture that comes from self-directed exploration, from boredom, and from social problem-solving, cannot be built through only adult instruction. It’s often built through experience but the experience has to be the child's, not the parent's plan for the child.</p>
+
+<p dir="ltr">A child lying on the floor doing nothing is not wasting time. A child who is bored and has not yet been rescued from the boredom is experiening <a href="https://www.cognitiveprivacyproject.org/what-is-cognitive-privacy">cognitive freedom</a>. A child who is struggling with a social conflict and has not yet had an adult intervene is building skills of negotiation, perspective-taking, and emotional regulation. </p>
+
+<p dir="ltr">Parents ask me "how do I protect my child from AI?" And my answer has begun to lean towards, "Am I providing the conditions where my child's capacity to think is actually being built?" Those conditions are not expensive or complicated. They are the oldest conditions in human development. They just require a parent who can tolerate watching their child struggle for a few moments. And that, in a culture that has redefined good parenting as the elimination of struggle, may be the hardest ask of all.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202605/stop-protecting-your-childs-brain-and-start-building-it" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202605/stop-protecting-your-childs-brain-and-start-building-it</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202605/stop-protecting-your-childs-brain-and-start-building-it</guid>
+            <dc:creator><![CDATA[Timothy Cook M.Ed.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/fermin-rodriguez-penelas-ljd_00l7clo-unsplash__1_.jpg?itok=6CT1qvlh" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI and the Problem of Polished Prose]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI and the Problem of Polished Prose</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Where AI's polish ends and your voice begins.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">AI prose is too perfect and that perfection has become a problem.</li><li style="margin-bottom:6px;">Flawless writing just doesn't sounds like you.</li><li style="margin-bottom:6px;">We're learning to write back against the machine.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/tookapic-writing-933262.jpg?itok=1Zqva6nk" width="320" height="213" data-insert-type="image" title="Image by tookapic from Pixabay" alt="Image by tookapic from Pixabay"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Venti / Unsplash</div>
+<div class="insertArea--origin subtext">Source: Image by tookapic from Pixabay</div>
 </div>
 </div>
 </div>
-<p>A few months after I got sober, I decided I needed to run a half-marathon. I was riding the "pink cloud" of recovery, high on life and very enthusiastic about living free and clear of alcohol. The early days of sobriety had been so tough, and I was so thrilled to be beyond them, that it seemed easy to comprehend running 13 miles. </p>
+<p>How I used to love to pepper my early writing with words like "ubiquitous" and "nascent." They certainly made me feel better, but contributed little to the communication. And I clearly remember being called to task by a teacher who warned me about purple prose. </p>
+<p>Writing in this style, often typical in a youthful and energetic writer, is so ornate and so emotionally dense, that the words overpowered the thought. Yes, it sounded intelligent. It <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202504/the-brilliant-illusion-of-ai-cognitive-theater">performed</a> intelligence but there was often very little actually happening.</p>
 
-<p>And run it, I did. I even set a personal record. I remember that day as a cool and crisp October morning full of feelings, with me teary-eyed and triumphant at the finish line. I was the poster child for healthy, sober living. </p>
-<p>Now, 14 years later, I run my daily two and a half miles, and my finish lines are sometimes full of gasps and wheezing. But still, I do it. I have to. It's part of my recovery.</p>
+<p>This was considered a human problem. Too much ego, decoration and the search to add style to substance. Now today, it's been engineered and a machine does it for us. Now the performance is automated and anyone can sound gloriously profound.</p>
+<p>Large language models have introduced the shift from "purple prose" to "polished prose" and do they it in seconds. And beyond the cadence of words, the text itself often feels intelligent before intelligence has actually entered the room. And when you read enough of it, it begins to feel off. It's not wrong, exactly but feels empty or even <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202507/the-vapid-brilliance-of-artificial-intelligence">vapid</a>. Every sentence arrives with a feeling of precision that is just too precise.</p>
 
-<p>Lots of people in recovery embrace a fitness habit when they give up alcohol. There are plenty of reasons for this. We have a new hole in our lives, an absence of drinking needs to be filled, and why not do so with something that sparks dopamine and aligns perfectly with our new, healthier path? When I first got sober, I signed up for races all the time because I needed goals. I needed to devote hours to a new habit because my calendar was no longer doused in wine, and I had a lot of time on my hands. I needed structure and routine in my life, and this was the perfect way to get there. I got a little obsessive about my times and PRs, perhaps substituting a new addiction for my old one, but athletically, so it was OK.</p>
+<p>What's missing is the texture of <em>your</em> thinking.</p>
+<p>Our thoughts bounce around as they take shape and often step over that purple edge. When we write, the process leaves traces of our humanity and our imperfections. Perhaps even akin to the "perfect imperfections" of a crooked smile or shifted perspective seen in art. Those irregularities are often elements of beauty that are realized in our uniquely human craft.</p>
 
-<p>Now, 14 years later, my runs are not half-marathons. They are three-mile jogs around my neighborhood. And they are not as fast. This is due to menopause, which seemed to hijack my body, making it tired and wonky. My balance is off on some days. I often start my runs by muttering "Don't fall" while I maneuver the sidewalks. I also walk intermittently during my runs, which my younger self would think is inexcusable. But these days, I don't pay much attention to my fleetness or PR's. I don't even use a watch or wear the latest gear. I run, patiently and methodically, with much less speed and a lot more wheezing. But still, I do it.</p>
+<p>AI-generated prose removes that friction. And here is where something strange begins.</p>
+<p>If the friction was the evidence, the proof that a person was actually present in the language, then restoring our humanity means restoring the friction. Not fixing the writing, but undoing some of its perfection. Professionals already rewrite AI-generated emails to sound less stuffy. Students reportedly plant errors to avoid suspicion. And even in social media, an oddly phrased sentence is starting to carry more weight than a flawless paragraph.</p>
 
-<p>My running has transformed. When I first noticed that my times were slowly decreasing, my all-or-nothing, alcoholic self struggled. "I should just quit," I would think. "If I can't keep improving, what's the point?" But after ignoring my running shoes for about a month, I realized I missed it. And I vowed to start running again, not for the goal-making or the dopamine hits. I didn't want to make running a symbol for my sobriety. Instead, this is a daily practice of my sober path. You know why? <em>Because it is really hard. </em></p>
+<p>The writer isn't revising anymore, the writer is unwriting.</p>
+<p>This is worth a serious look. Writing used to mean transforming incomplete thought into coherent and logical language. Now it may increasingly mean starting with machine-generated coherence and working backward. Today's task is to remove techno-fluency and insert the imperfections into our prose.</p>
 
-<p>There, I said it. Running is hard. It hurts. And there are days when I simply don't want to do it at all. And yet I still keep coming back, almost every day, because I am proving to myself with each footfall that I am worth it. I am worth the pain of the start and the hope of the finish. And for some crazy reason, despite rainy days or side cramps, I keep doing it, and I keep sober. After 14 years, I keep coming back, one day, and one run at a time.</p>
+<p>So, what the hell is going on here? And in this context, what is writing actually for? Maybe writing was never just a transfer of information. Maybe we were always searching for signs of our human presence. After all, we don't only read for conclusions, we read for evidence that someone was actually there and doing real thinking.</p>
 
+<p>AI is becoming powerful and persuasive mirrors of cognition, our cognition. They produce language that feels thoughtful while remaining disconnected from that lived experience. And that result can feel compelling on the surface, but rather hollow upon a closer inspection.</p>
+<p>I find it fascinating that we writers worked to overcome imperfection in drafting something that feels just right. But today, we may find ourselves carefully putting something that's "just wrong" back into our human narrative.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/highly-functioning-is-highly-dangerous/202605/how-running-changed-my-sobriety" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202605/ai-and-the-problem-of-polished-prose" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/highly-functioning-is-highly-dangerous/202605/how-running-changed-my-sobriety</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/highly-functioning-is-highly-dangerous/202605/how-running-changed-my-sobriety</guid>
-            <dc:creator><![CDATA[Dana Bowman]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202605/ai-and-the-problem-of-polished-prose</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202605/ai-and-the-problem-of-polished-prose</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
             <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/venti-views-i1ewtm5mfem-unsplash__1_.jpg?itok=Qvleud5W" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/tookapic-writing-933262.jpg?itok=QHq2vwc9" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Superagers May Hold Answers to Lifetime Cognitive Ability]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/richard_restak_md.png.jpg?itok=OhrRNbZK" alt="Richard Restak M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Aging</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Superagers May Hold Answers to Lifetime Cognitive Ability</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Neuroplasticity has the potential to prolong cognitive longevity for decades.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Building a Better Asylum]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-03/matthew-smith.jpg?itok=Mg0kOSm5" alt="Matthew Smith Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Building a Better Asylum</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What would an asylum fit for the 21st century look like?</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Superagers show the memory capacity of people decades younger, challenging aging stereotypes.</li><li style="margin-bottom:6px;">Superager brains have twice as many immature neurons in the hippocampus as peers' brains do.</li><li style="margin-bottom:6px;">Intense, lifelong hobbies—“magnificent obsessions”—may help extend cognitive powers into old age.</li>
+              <li style="margin-bottom:6px;">Asylums of the past may be controversial, but there are lessons we can learn from them.</li><li style="margin-bottom:6px;">Art therapy, nature-based-therapy, and physical-activity-based therapy were all featured in historic asylums.</li><li style="margin-bottom:6px;">Asylums reimagined for today could be more democratic and involve patients in decision-making.</li>
             </ul>
           </div>
-                    <p>Most of us would welcome the prospect of an extended lifespan. But while entertaining such a prospect, we should also add two important caveats: good health in general and the retention of cognitive longevity.</p>
-<p>A small group of octogenarians—informally known as superagers—possess a memory capacity equal to that of younger adults. Typically, an 80-year-old in this group demonstrates the memory powers of someone in their 50s or 60s, along with normal or above-normal performance in other cognitive domains. Until recently, brain research didn’t offer much help in understanding such outliers and didn’t present any neuroscientific explanation of how an 86-year-old could perform as well in memory as someone almost half their age. </p>
+                    <p>This year, I taught a brand-new class on the history of the psychiatric asylum with my colleague, Dr Hannah Proctor. "Bedlam and Beyond: The Controversial History of the Asylum" is a seminar-based class where students explore why asylums emerged, what happened in them, and why they began to shut down during the second half of the 20th century. During the course of the year, we also discuss a whole range of controversies, including why people ended up in asylums, how they were treated, and whether asylums were a force for good or ill in society.</p>
 
-<p>Until recently, cognitive decline was the prevailing leitmotif of our understanding of brain function in those 80 years of age or older. But in March, neuroscientists at the Northwestern University Mesulam Institute for Cognitive Neurology &amp; Alzheimer’s Disease announced, after 25 years of studying superagers, the discovery of a “resilience signature” based on postmortem studies. They concentrated on hippocampal tissue in 38 individuals drawn from five groups: healthy young adults, older adults without impaired cognitive functioning, older adults with mild or early dementia, older adults diagnosed with Alzheimer’s disease, and finally, superagers.<strong> </strong>Superagers possessed about <a href="https://www.nature.com/articles/s41586-026-10169-4">twice the number of immature neurons</a>, which retained the capability of additional maturation into adult brain cells within the hippocampal tissue. </p>
+<p>For the most part, people view asylums with suspicion. They are often depicted in film and television as places where unusual or evil things occur, providing the setting for many horror films. But, as we learn in the class, that was not the entire story. Asylums were a product of the <a href="https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202409/the-sunny-side-of-the-asylum">Enlightenment</a> and were founded in the hope of improving the lot of the mentally ill, many of whom were homeless, imprisoned, or kept at home in varying conditions. Most asylums were state-funded, marking one of the first examples of public healthcare. And numerous forms of therapy, including <a href="https://www.tandfonline.com/doi/full/10.1080/09523367.2012.742991">sport and physical activity</a>, <a href="https://www.psychologytoday.com/us/blog/short-history-mental-health/202206/song-and-sanity-music-treatment-in-19th-century-asylums">music</a>,<a href="https://wellcomecollection.org/works/bryvys9x"> art</a>, and <a href="https://eprints.gla.ac.uk/349622/">creative writing</a>, as well as <a href="https://www.psychologytoday.com/us/blog/short-history-mental-health/202105/can-nature-boost-mental-health">time in nature</a>, were offered to patients as forms of moral therapy. All of these approaches to improving mental health are acknowledged today as being beneficial.</p>
 
-<p>In contrast, people who met the criteria for Alzheimer’s disease possessed dramatically fewer neuroblasts (immature neurons) and neuronal precursor cells than were found in either healthy young or older adults. In addition, the Alzheimer's disease cohort demonstrated an elevated number of neural stem cells—another neuron precursor, but one that was unable to differentiate into mature neurons. Only in the superagers did <a href="https://doi.org/10.1038/d41586-026-00599-5"><strong>stem cells</strong></a> retain the capacity to successfully differentiate into the immature neurons and neuroblasts responsible for neuronal development.</p>
+<p>We wanted to encourage the students to think about the lessons that emerge from asylum history, rather than condemning them to the history wastebasket, so we assigned them a group project called "Build a Better Asylum." Taking what they had learned about the history of the asylum, as well as the current challenges facing the mental health system, they were tasked with creating an asylum fit for the 21st century. They definitely did not let us down.</p>
 
-<h2>Delving into the Brains of Superagers </h2>
-<p>According to the researchers at the Mesulam Institute, the brains of superagers possess certain distinct features: The brains look younger with less cortical thinning, combined with thickening in the area of the anterior cingulate cortex (ACC), an important connection between the frontal cortex and the limbic system.</p>
+<p>The asylums students envisioned balanced the good things about asylums with the bad. Asylums were often run in a very top-down fashion, with the medical superintendent being in charge of all major decisions. Patients did not tend to get much of a say in terms of treatment, how their days were structured, what they were free to do, or where they could go, let alone what kind of medical treatment they would receive. The vast majority of asylum staff also had very little say in decision-making, though their approach to their work could have a significant impact on the lives of patients.</p>
 
-<p>The anterior cingulate cortex is composed of highly specialized neurons known for their elongated shape and rapid signaling. These cells, known as Von Economo cells, play a commanding role in rapid response, emotional regulation, decision making, empathy, and socialization. The long, spindly body of the Von Economo cell facilitates rapid transmission by forming the equivalent of a “high speed highway” passing within the anterior cingulate cortex (ACC) and the fronto-insular cortex (FIC). Among superagers, these Von Economo cells reach a higher density than in anyone of comparable age.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p>Our students decided, therefore, that their "better" asylums should be run much more democratically. Patients should have much more of a say in all aspects of their lives and how the asylum is run. They should be involved in a significant amount of decision-making, especially with respect to things like diet, clothing, interior design, and even the design of the asylum and its grounds. In addition, patients should, as much as possible, consent to treatment.</p>
 
-  </div>
+<p>Similarly, occupational therapy (or work therapy) was widespread in many asylums. As Kylie Smith has shown in the case of <a href="https://uncpress.org/9781469689203/jim-crow-in-the-asylum/">Jim Crow asylums</a>, often such activities were nothing more than free labor, only a few steps removed from slave labor in fact. But in other asylums, patients had more of a say in what they were able to do. Our students argued that patients should be offered work opportunities, but should be free to select the sort of work they wanted to do based on their skills and interests. Since a good, meaningful job can contribute to good mental health (just like a rubbish, meaningless job can do the opposite), such opportunities could pave the way for employment outside the asylum for patients.</p>
 
-<p>A second distinction in most superager brains is a much reduced amyloid plaque and tau tangles burden—the two abnormal cell types found to accumulate in Alzheimer’s disease. But even within the brains of those superagers who showed the expected-for-age numbers of plaques and tangles, the practical consequences were much diminished: The affected person remained much more cognitively intact. Think of these resilient brains of the superagers as demonstrating increased plasticity, thus accounting for the brain’s retention of memories.</p>
-
-<p>Traits commonly observed among superagers and cognitively resistant very old adults include reduced chronic stress, increased adaptability, increased social embeddedness with many friends and acquaintances, and emotional stability. More than likely, additional traits will be discovered, but at this point, our knowledge of relevant behavioral and personality traits is limited based on the rarity of retained high cognitive functioning in the very elderly.</p>
+<p>For example, a great deal of the work in asylums was agricultural work, intended to provide food to patients and staff. While some such work was exploitative, the students' research at the archives of the Stirling District Asylum and, specifically, on the asylum magazine, <a href="https://www.jstor.org/stable/community.29668798?searchUri=%2Fsite%2Fstirling%2Fpassing-hour%2F%3Fso%3Ditem_title_str_asc&amp;ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&amp;refreqid=fastly-default%3A656391ac5a2d3fbbc7fed30ecf552f33&amp;seq=1"><em>The</em> <em>Passing Hour</em></a>, indicated that some patients really enjoyed such work, especially rearing animals. They argued that animals could play a key role in improving the well-being of patients and aiding their health in other ways.</p>
 
 
-<p>Although at this point no agreement exists among experts concerning which of these important contributors may exert the most powerful effect, my own observations lead me to emphasize the importance of long-term, intense intellectual involvement in what I term “cognitive hobbies.” </p>
-<p>I’m thinking now of a man I met on an Egyptian tour several years ago. He did not fit the stereotype of a scholar; his education was limited to a few years beyond college, and his occupation was very different from the usual mix of academics, lawyers, and doctors found on the typical study tour. He had started out as a construction worker and had risen over the years to the manager of his own construction company. Yet after we had shared a few Q&amp;A sessions, his cognitive sharpness was obvious to all the members of the tour. He knew more about Egypt and Egyptology than anybody, with the exception of the tour leader. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
+<p>Some of the groups also recommended many of the therapies employed in historic asylums, including art therapies, physical activity, and nature-based therapies — including swimming, which relates to the use of <a href="https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202307/hydrotherapy-in-a-prairie-asylum">hydrotherapy</a> in asylums. Although drugs would play a role, they should be more of a last resort and not take the place of talking therapies and other non-invasive approaches.</p>
 
-  </div>
-
-<p>Curious, I asked him during a break how and why he had learned so much about Egypt. He still remembered the lesson about ancient Egypt his teacher had given to his fifth-grade class. This had ignited a lifetime effort to learn more and more. Over the next 40 years, he had collected and read numerous books on Egypt, attended lectures about various aspects of Egyptian culture, and joined tours about Egypt, such as the one we were then participating in.</p>
+<p>Many students argued that asylums should be smaller in scale, housing a few dozen patients, rather than hundreds or thousands, as was the case in the past. They also thought that the doors of the asylums should be open as much as possible, bringing both the community in and allowing patients out. One group recommended having a community café as a way of facilitating engagement with the outside world. Others pointed to historic sports days, picnics, and Highland Games held by institutions of the past as a way of integrating asylums and the broader community.</p>
 
 
 
   
 
 
-<p>In essence, he had developed what I call a “magnificent obsession”—an intense intellectual interest in a specific subject accompanied by long-term efforts to learn everything possible about it. Essentially, his knowledge of Egyptian history corresponded to a massive enlargement of his store of crystallized knowledge, with each new fact built on something learned earlier. New knowledge led to new questions, which he addressed by reading additional books and attending lectures and tours.</p>
+<p>In addition to having spaces for sport and physical activity, which many historic asylums had, the students' "better" asylums would also boast another feature of their predecessors: beautiful grounds. Nature, they argued, could play a crucial role in the lives of patients and their recovery. Similar arguments were made in the past, and this is why asylums, such as <a href="https://www.crichton.co.uk/heritage-wellbeing/history/">the Royal Crichton</a> (which we visited), were situated in such beautiful settings. Indoor plants were also used in many asylums in order to brighten up patients during the dull, dark months of winter.</p>
 
-<p>The existence of superagers suggests that <a href="https://doi.org/10.1038/d41586-026-00256-x"><strong>cognitive aging may be modifiable</strong></a> throughout the lifespan. What’s more, many of the factors responsible for this modifiability include what we usually categorize as “psychological factors,” such as persistence, attentional powers, emotional regulation, and purpose. Now, researchers suspect that these psychological traits may somehow strengthen connective patterns within the brain and thereby exert a neurological protective influence.</p>
+<p>Finally, the students thought that the role of the asylum should not be over when the patient was able to leave. Asylum staff should also be involved in helping patients reintegrate into the community. In turn, patients would be encouraged to drop in for support when necessary. Above all, asylums of the future would have to live up to the true definition of the word: a place of sanctuary.</p>
 
-<p>We are very fortunate to have superagers. They hold the promise of teaching us—if we can discover their secret of prolonged cognitive longevity—how the brain can remain structurally and functionally intact until late age. In a phrase, we learn from the superagers that neuroplasticity is not limited to the younger brain, but potentially remains operative within the brains of the oldest old.</p>
-
-<p>Richard M. Restak, M.D. </p>
+<p>Whether there is a place for the asylum in the 21st century remains to be seen. Either way, our students would argue that many features of historic asylums deserve reconsideration as we think about new ways of dealing with mental illness that are truly fit for the 21st century.</p>
+<p><em>I would like to thank Rosie Al-Mulla-Taylor at the Stirling University Archives, Jennifer Challinor at the Crichton Trust, and Anne Rinaldi at the Ewart Library for the support they provided to our students.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-changing-brain/202605/superagers-may-hold-answers-to-lifetime-cognitive-ability" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202605/building-a-better-asylum" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-changing-brain/202605/superagers-may-hold-answers-to-lifetime-cognitive-ability</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-changing-brain/202605/superagers-may-hold-answers-to-lifetime-cognitive-ability</guid>
-            <dc:creator><![CDATA[Richard Restak M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202605/building-a-better-asylum</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-short-history-of-mental-health/202605/building-a-better-asylum</guid>
+            <dc:creator><![CDATA[Matthew Smith Ph.D.]]></dc:creator>
             <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-yankrukov-6815703.jpg?itok=FNjIvzga" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-ra-bi-2160204933-36564295.jpg?itok=xh4mxYWO" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Bad Part of Being Good]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/ben_endres.png.jpg?itok=nLzFN3OD" alt="Ben Endres Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Conscientiousness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Bad Part of Being Good</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Conscientious people try hard to be good, often too hard for their well-being.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Balancing Tradition and Innovation With AI in Psychology]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/covid-task-force.jpg?itok=8_oOn2_w" alt="Hospital, Health, and Addiction Workers Group" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Balancing Tradition and Innovation With AI in Psychology</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Reflecting on the potential of AI while preserving ethical psychology practices.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Conscientiousness is a trait that generally helps people to be successful.</li><li style="margin-bottom:6px;">Despite its advantages, extreme forms of conscientiousness can lead to to anxiety, self-doubt, and burnout.</li><li style="margin-bottom:6px;">Conscientious people benefit from turning toward uncertainty and emotion while letting go of problem-solving.</li><li style="margin-bottom:6px;">The challenge for conscientious people is not to lower standards but to increase flexibility and balance.</li>
+              <li style="margin-bottom:6px;">It is advantageous to know the pros and cons of AI before using it in clinical practice.</li><li style="margin-bottom:6px;">Computer or app-based cognitive training programs can track performance and provide feedback.</li><li style="margin-bottom:6px;">AI is often used to create disability-friendly technology.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
+                    <p><strong>By Maria J. Palmeri, Ph.D., and Robert M. Gordon, Psy.D.</strong></p>
+<p>Artificial intelligence (AI) was not a formal or informal part of my graduate school training, yet AI is increasingly utilized in present research, clinical work, and healthcare. While it brings excitement and possibility, it also elicits feelings of uncertainty about ethics, biases, and overreliance in the field and beyond.</p>
+
+<p>The term “artificial intelligence” was first used in 1955 at the Dartmouth Research Conference, organized by John McCarthy, the goal of which was to “proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it” (McCarthy et al., 1955). Current definitions of AI refer to the system or digital interface that is created to mimic human intelligence to perform tasks. </p>
+
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/ptconscientiousness_0.jpeg.jpg?itok=UYVlO4_M" width="320" height="388" data-insert-type="image" alt="When trying harder is the problem" title="Massimo Sartirana / Unsplash"></div>
-<div class="caption">When trying harder is the problem</div>
-<div class="insertArea--origin subtext">Source: Massimo Sartirana / Unsplash</div>
-</div>
-</div>
-</div>
-<p dir="ltr">Some of the most anxious people I see in my psychotherapy practice are also among the most capable and responsible. They are hardworking, and they hold themselves to high standards. In other words, they are very good at being "good." </p>
-<p dir="ltr">Conscientiousness, the personality trait characterized by self-control, responsibility, hard work, and orderliness, is generally advantageous. Conscientious people tend to do better at work, maintain healthier relationships, and even live longer, in part, because they follow medical advice and take care of themselves.<sup>1</sup> Conscientiousness is, understandably, a trait we try to cultivate in ourselves and our children.</p>
-
-<p dir="ltr">However, there can be too much of a good thing. Intense self-control contributes to anxiety and inhibition. A strong drive for orderliness can lead to obsessive control of one's environment. The pursuit of excellence can become perfectionism and lead to burnout.<sup>2</sup> Conscientiousness, in its extreme forms, can wear people down and quietly narrow their lives.</p>
-
-<p dir="ltr">Conscientiousness is not, in itself, a moral virtue. It is a personality trait that describes (rather than prescribes) a spectrum of inherited tendencies and environmental influences.<sup>3</sup> The less conscientious person has real strengths too: Their spontaneity and appetite for risk can be genuinely adaptive for themselves and for the groups they belong to.<sup>4</sup> In modern life, conscientiousness is rewarded so powerfully that its costs tend to go unexamined.</p>
-
-<p dir="ltr">In my psychotherapy practice, I often see the downside of the intense effort to be good. Extremely conscientious people often struggle with a pervasive sense of guilt about falling short of their obligations to others and their expectations for themselves. Their need for order and control fuels anxiety, and their intolerance of uncertainty can paralyze decision-making. Their close relationships can also suffer when their avoidance of conflict and difficult emotions keeps others at a distance.</p>
-
-<h2>The problem with always trying harder </h2>
-<p dir="ltr">When these strains on the conscientious person bring them into therapy, their first instinct is often to try harder, seeing therapy as a new way to address their deficits. When confronted with the possibility that their standards are self-punishing, they tend to worry that they are being asked to fail themselves or others.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p dir="ltr">I try to help conscientious people see that their ideals are not necessarily too high, but may be too rigid. A useful analogy here is the overtrained athlete. Imagine a distance runner who has built her fitness steadily over years, increasing her mileage, intensifying her speed work, getting faster and more competitive. Her intense training helps her meet her goals. But eventually, overuse injuries slow her down despite her overall fitness. In this case, the solution isn't to stop running or accept being slower. It is to build in more recovery and, crucially, to strengthen the muscles and connective tissue she's been taking for granted.</p>
-
-<p dir="ltr">The extremely conscientious person is in a similar position. Their drive and discipline have genuinely served them well. The answer isn't to dismantle those traits, but to "train" aspects of themselves that they have neglected to bring more balance to their lives.</p>
-<p dir="ltr">There are three core approaches to retraining the rigid ideals of the conscientious person.</p>
-
-
-<h2>Embracing uncertainty and imperfection</h2>
-<p dir="ltr">As they strive to be moral, rational, and successful, conscientious people tend to avoid uncertainty, imperfection, conflict, and intense emotion. Often, this avoidance is outside of their awareness and deeply ingrained in patterns of behavior.</p>
-<p dir="ltr">Anxiety and avoidance are locked in a self-reinforcing cycle: We tend to avoid the things that make us anxious, and this avoidance reinforces and intensifies the anxiety. Avoiding uncertainty offers a temporary and false sense of control.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p dir="ltr">Gradually and progressively approaching the situations that trigger anxiety is the foundation of exposure therapy, one of the most well-supported interventions in psychotherapy.<sup>5</sup> Starting with small steps, experiencing anxiety, and noticing one's worst fears aren’t realized, one can learn to move past the triggers and engage in behaviors that have been avoided. In practice, this can look quite modest: sending an email after editing it once, rather than revising it five times to anticipate every possible reaction; submitting a project despite lingering doubts; sharing a difficult feeling with someone you trust. For the conscientious person, accepting uncertainty in these small ways can feel like leaping into the unknown. Pushing through what seems like trivial discomforts is the path toward more meaningful change. </p>
-
-
-
-  
-
-
-<h2>Turning toward difficult emotions and interactions</h2>
-<p dir="ltr">Conscientiousness includes careful control of strong emotions, which is often appropriate, especially in professional contexts. However, emotional inhibition is problematic when it fails to adapt to the context. Relationships often involve friction. Effective communication sometimes means disappointing someone, saying something uncomfortable, or asking for what you need. Conscientious people often default to passive accommodation and then, when pushed too far, snap with anger. They often benefit from practicing calm, assertive, and direct communication in emotionally charged contexts.</p>
-
-<p dir="ltr">It can also be a challenge for conscientious people to share vulnerable emotions in appropriate contexts. Sharing feelings of sadness, hurt, and worry with our closest friends and family allows us to feel closer to them <em>and</em> allows them to feel closer to us. Conscientious people usually benefit from pushing themselves to share more vulnerable emotions with trusted others.</p>
-
-<h2>Letting go of problem-solving</h2>
-<p dir="ltr">Perhaps the most counterintuitive challenge for the conscientious person is simply to stop trying so hard. The same capacity for focused, effortful thinking that makes them effective can also make them prone to rumination and worry, spinning in thought about problems that aren't immediately solvable. They find it hard to step out of problem-solving mode.</p>
-
-<p dir="ltr">When I ask people who are stuck in problem-solving where they naturally let go of that mode, the answers are consistent: physical exercise, time in nature, creative activities, playing with children, and socializing with friends. Cultivating more time and attention for play, creativity, and rest is an obvious place to start. These kinds of activities aren’t merely a break from real work; they nourish cognitive and emotional capacities that effortful problem-solving tends to neglect.</p>
-
-<p dir="ltr">Mindfulness practices are also a powerful antidote to overthinking. Although sometimes oversold, mindfulness includes a family of well-researched practices that directly address rumination and rigid thinking.<sup>6</sup> The goal of mindfulness, sustaining attention to the present moment without judgment,<sup>7</sup> is a genuine counterbalance to the analytic tendencies of the conscientious mind. By focusing on breathing and bodily sensations while letting thoughts and emotions pass, mindfulness challenges our minds' tendency to get stuck in overthinking. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p dir="ltr">Of course, some of the easy options for escaping overwork and effortfulness can be unhealthy: alcohol, drugs, and electronic media. I find that conscientious people are more vulnerable to these vices despite, and sometimes because of, their rigid efforts at self-control. There is no harm in limited "escapes" to relax, but for many people with self-punishing standards, these behaviors can fuel avoidance and become obsessive.</p>
-
-<p dir="ltr">Psychotherapy is also a way of loosening the rigid thought patterns in the mind. The non-judgmental and open-ended exploration of one’s experience with a therapist can create an opportunity to tune in to emotions beneath the surface, to practice sharing them with others, and to see more clearly the cost of rigid ideals. Exploring one’s worries and emotional life with an experienced therapist can be a powerful form of help for the conscientious person. Of course, the avoidance of emotion and a fear of dependence on others can make it hard for conscientious people to seek help.</p>
-
-<p dir="ltr">The conscientious person's instinct, when struggling, is to try harder. The insights from psychotherapy offer a different path: Let go of effortful control, turn toward what's uncomfortable, including emotion, and invest in the parts of life that have been starved by the struggle to be good.</p>
-<p dir="ltr"><em>To find a therapist, please visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory.</em></a></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/threads-of-sanity/202605/the-bad-part-of-being-good" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/threads-of-sanity/202605/the-bad-part-of-being-good</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/threads-of-sanity/202605/the-bad-part-of-being-good</guid>
-            <dc:creator><![CDATA[Ben Endres Ph.D.]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/ptconscientiousness.jpeg.jpg?itok=y7FKREhA" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI Chatbot Therapists Lack Ethics, Study Finds]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jaasqeig_400x400.jpg?itok=ZrmRGFr4" alt="Cami Rosso" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Chatbot Therapists Lack Ethics, Study Finds</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Research shows LLMs disregard mental health codes of conduct.</h2><p style="font-size:0.9em;color:#666;">Posted May 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Study warns that reducing therapy to automated LLM responses risks serious harm to patients.</li><li style="margin-bottom:6px;">LLMs show issues like deceptive empathy, unfair bias, and poor crisis management in therapy settings.</li><li style="margin-bottom:6px;">Despite ethical lapses, global adoption of AI mental health support is accelerating rapidly.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pic1000.jpg?itok=NPKYKs9d" width="320" height="157" data-insert-type="image" title="Alexandra_Koch/Pixabay" alt="Alexandra_Koch/Pixabay"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/tim-witzdam-ywybu5v3fli-unsplash.jpg?itok=OydoOCWG" width="320" height="480" data-insert-type="image" title="Tim Witzdam/Unsplash" alt="Tim Witzdam/Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Alexandra_Koch/Pixabay</div>
+<div class="insertArea--origin subtext">Source: Tim Witzdam/Unsplash</div>
 </div>
 </div>
 </div>
-<p>Increasingly, artificial intelligence (AI) large language models (LLMs) are being integrated into the mental health industry for counseling, therapy, and companionship. A recent Brown University <a href="https://doi.org/10.1609/aies.v8i2.36632">study</a> shows how LLM counselors routinely breach mental health ethical standards such as the American Psychological Association (APA) professional codes of conduct. </p>
+<p>Since 1955, forms of AI have been integrated into the field of science and medicine, ranging from a Stanford’s research group’s computer system built on “if-then” technology, to recommending antibiotics for various infectious diseases in the 1970s, to the development of electronic health record tools to improve efficiency and decision support in the 1990s and early 2000s, and recently developed deep learning and generative models that we know today (e.g., recurrent neural networks, language learning models [LLMs] (Alnattah et al., 2025).</p>
 
-<p>“We argue that mental health support, especially psychotherapy, cannot be approached as a formulaic computational task, as it demands strict adherence to ethical standards and professional codes of conduct, something LLMs are prone to violating in real-world practice,” wrote lead author Zainab Iftikhar with co-authors Amy Xiao, Sean Ransom, Jeff Huang, and Harini Suresh. </p>
+<h2>Benefits of AI in Rehabilitation</h2>
+<p>With the seismic boom of AI in the modern age, it is easy to forget that it expands beyond LLMs such as ChatGPT, Meta, and Grok. For example, computer or app-based cognitive training programs that utilize adaptive algorithms, track performance, and provide real-time feedback can be incorporated into cognitive rehabilitation, allowing for additional practice and consolidation outside of in-person sessions.</p>
 
-<p>AI-powered mental health care is a growth industry. Smartphone-enabled therapy chatbots offer convenience, and real-time support to users. Pioneering companies in AI mental health include Woebot Health, Limbic, Rocket Health, Slingshot AI, HEADSPACE HEALTH, Wysa Ltd, Kintsugi Mindful Wellness, Inc, Aiberry, Ellipsis Health, Spring Care, Inc., and Lyra Health, Inc. By 2033, the market size of AI in mental health is expected to grow to an estimated USD 9.12 billion, which represents 23% compound annual growth rate from the USD 1.71 billion market size in 2025 according to Grand View Research. </p>
+<p>AI-based assessments and screening technology for cognitive and psychological disorders are being integrated into some healthcare systems for data collection. Furthermore, AI is often used to create disability-friendly technology (e.g., voice-recognition software, hearing assistance, predictive text, digital support tools).</p>
 
-<p>People around the world are opening up to the idea of consulting LLMs such as ChatGPT for mental health support. A February 2026 <a href="https://doi.org/10.1007/s00146-026-02858-5">study </a>published in <em>AI &amp; Society</em> of 31,000 adults from 35 countries by Yankouskaya et al. shows that 42% of American respondents, 41% of UK respondents, 56% of Italian respondents, 61% of South African respondents, 63% Japanese respondents, and 86% of Chinese respondents would use AI as a mental health advisor. </p>
+<p>LLMs in particular are being used for clinician benefit, such as streamlining note writing (models can be taught to construct notes/mimic writing style), aiding in writing code or cleaning data in research, building algorithms for searching and summarizing literature, and teaching patients to break down complicated tasks or problem-solve.</p>
 
-<p>Given these rapid technology adoption trends, it is important to understand the capabilities of LLMs to provide mental health care. Brown University researchers sought to uncover the risks of using LLM counselors for psychotherapy and how these can be incorporated into a framework for mental health codes of conduct. </p>
+<h2>Navigating the Pros and Cons of AI</h2>
+<p>As I venture through my fellowship in rehabilitation psychology, attending numerous seminars on AI-focused education, encouraging us to take advantage of its utility. I find myself increasingly drawn to the novelty and potential benefits, but worry about its proclivity for reinforcing socio-cultural and medical biases of underrepresented individuals (Hansen &amp; Kerkhoff, 2025). For example, LLMs were shown to produce images that narrowly overrepresent “disability” as physical (e.g., wheelchair users), show outdated assistive technology, or depict disabled individuals as sad/lonely (NYC Bar, 2025).</p>
 
-<p>In a period spanning 18 months, the study participants consisting of seven trained peer counselors and three clinically licensed psychologists helped evaluate the conduct of LLM counselors. The study includes a variety of LLMs, including OpenAI’s GPT-4, GPT-3.5, and GPT-3.0, Meta’s Llama 3.2 and 3.1, and Anthropic’s Claude 3 Haiku and Claude 3 Sonnet. </p>
+<p>Other concerns include clinicians or students using unencrypted patient-sensitive information on “everyday GPTs,” thus making it AI’s “property,” or the overreliance of using AI to write clinical notes or come up with neuropsychological test batteries and treatment plans, contributing to the “critical thinking epidemic” (i.e., societal decline of analytical, independent thought formation and problem-solving skills). A colloquial phenomenon, it alludes to the idea that increased dependence on AI tools is suppressing educational gains and independent decision-making (i.e., "cognitive offloading”) (Jose et al., 2025; Tian &amp; Zhang, 2025).</p>
 
-<p>From a data pool gathered from 137 sessions, the researchers created a guideline consisting of five categories and 15 ethical violations grouped by five major areas: 1) Lack of Contextual Understanding, 2) Poor Therapeutic Collaboration, 3) Deceptive Empathy, 4) Unfair Discrimination, and 5) Lack of Safety &amp; Crisis Management. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>“Through ethnographic observations, session evaluations, and interviews with peer counselors and licensed clinical psychologists, we found that LLMs, even the ones prompted to follow evidence-based treatments, breach multiple codes of conduct by generalizing lived experiences (e.g. minimizing identity groups), dominating therapeutic collaboration (e.g., gaslighting users), exploiting user vulnerability through deceptive displays of empathy, unfair discrimination against non-dominant identities, and exhibiting serious limitations in competence, especially when navigating sensitive issues such as trauma, abuse, and suicidal ideation,” the researchers wrote. </p>
-
-<p>The researchers warn that their study illustrates the risks of AI therapists and call for legal guidelines and regulations to minimize potential harm to clients. </p>
-<p>“Reflecting on these findings through a practitioner-informed lens, we argue that reducing psychotherapy—a deeply meaningful and relational process—to a language generation task can have serious and harmful implications in practice,” concluded the researchers. </p>
+<p>I currently provide cognitive rehabilitation with adults who have experienced Traumatic Brain Injury (TBI), concussion, stroke, and long COVID, who sometimes use OpenAI/ChatGPT to do the cognitive work for them. I try to balance these concerns by building the patient’s active collaboration in establishing treatment goals and the development of compensatory strategies that can be generalized to real-life situations.</p>
 
 
 
   
 
 
-<p><em>Copyright © 2026 Cami Rosso All rights reserved.</em></p>
+<h2>Personal Reflections and Key Lessons</h2>
+<p>In reflecting upon my career goals from the perspective of what healthcare systems, supervisors, mentors, and colleagues encourage when it comes to AI, three key lessons stand out:</p>
+<ul>
+<li> What goes into an LLM remains there, so if you upload anything, including your CV, case information, or manuscript, you are essentially “giving it” permission to use that information to build further models.</li>
+<li>LLMs and other AI-based programs are designed to keep you needing it, and it “wants” to help you—it will literally make up information and package it in a way that sounds true.</li>
+<li>AI-based programs are not search engines and should not replace actual research and fact-checking.</li>
+</ul>
+
+<p>Early career and training psychologists have the advantage of curated environments that allow us to equip ourselves with knowledge on the ethical use of AI, and it is our ethical duty to do so.</p>
+<h2>Tips to Navigate AI</h2>
+<p>Undoubtedly, AI can be a useful tool but it can also inadvertently lead both clinicians and patients down slippery slopes. Despite how we as a professional community feel about AI in psychology, it does not seem to be going away. I try to keep in mind some golden rules for incorporating any AI into patient care, clinical and administrative work, or research:</p>
+
+<ul>
+<li><em>The clinician is always needed to make thoughtful judgments and final decisions and proofread for accuracy.</em></li>
+<li>The clinician values<em> knowing better first</em> by equipping ourselves with as much information about AI as possible from multiple fields such as medicine, law, and education.</li>
+<li>It is critical to view and process information through a critical, cautious, skeptical, and ethically-grounded lens when implementing any form of AI into practice to mitigate unwanted outcomes and repercussions.</li>
+</ul>
+
+<p>The use of AI into psychological practice highlights continuity of tradition and innovation: “Tradition…is best served by a framework that balances continuities with discontinuities, preservation with change, and gratitude with an openness to moving on” (Mitchell, 1993, p. 8).</p>
+<h2>Training Resources for Students and Clinicians</h2>
+
+<p>Lastly, I want to share some resources for AI usage that leaders in the field have expertly crafted:</p>
+<ul>
+<li><em>Ethical guidance in AI in the professional practice of Health Service Psychology.</em></li>
+<li><em>Bias in AI: Ethical considerations for use of AI in psychological practice – ABPP.</em></li>
+<li><em>Ethical considerations in the use of generative artificial intelligence in psychological practice – ABPP.</em></li>
+<li><a href="https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai"><em>https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai</em></a></li>
+</ul>
+
+<p><strong>Maria J. Palmeri, Ph.D., </strong>received her Ph.D. from Ferkauf Graduate School of Psychology, Yeshiva University. She completed her Predoctoral Internship at NYU Langone Health–Rusk Rehabilitation. She is currently a Postdoctoral Psychology Fellow in Clinical Rehabilitation Research &amp; TBI through the Advanced Rehabilitation Research Training Program.</p>
+
+<p><strong>Robert M. Gordon, Psy.D., </strong>is a Clinical Associate Professor at NYU Grossman School of Medicine and former Director of Intern Training at NYU Langone Health-Rusk Rehabilitation. He is a member of the Medicine &amp; Addictions workgroup (established by 14 divisions of the American Psychological Association) that sponsors this blog.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-future-brain/202605/ai-chatbot-therapists-lack-ethics-study-finds" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/psychological-trauma-coping-and-resilience/202605/balancing-tradition-and-innovation-with-ai" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-future-brain/202605/ai-chatbot-therapists-lack-ethics-study-finds</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-future-brain/202605/ai-chatbot-therapists-lack-ethics-study-finds</guid>
-            <dc:creator><![CDATA[Cami Rosso]]></dc:creator>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pic1000.jpg?itok=9-nY0IeR" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/psychological-trauma-coping-and-resilience/202605/balancing-tradition-and-innovation-with-ai</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psychological-trauma-coping-and-resilience/202605/balancing-tradition-and-innovation-with-ai</guid>
+            <dc:creator><![CDATA[Hospital, Health, and Addiction Workers Group]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-tima-miroshnichenko-5336890.jpg?itok=gQh1YxfA" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[8 Leadership Practices That Slow Team Burnout]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/paula_davis__1_.png.jpg?itok=SLmwiv0M" alt="Paula Davis J.D., M.A.P.P." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Burnout</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">8 Leadership Practices That Slow Team Burnout</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How leaders can shape the conditions that determine team vitality.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>Burnout in the workplace is typically framed as an individual failing of stress management, to be solved with better self-care practices or wellness perks. In reality, burnout is far more often a reflection of how work is designed, led, and experienced every day. Specifically, leaders shape the conditions that influence team vitality through the expectations they set, the clarity they provide, the recognition they offer, and the psychological safety they create.</p>
+
+<p>While personal stress management practices matter, they cannot compensate for chronic overload, poor communication, or cultures that reward exhaustion. Preventing burnout requires a systemic approach, and leaders are uniquely positioned to influence the team dynamics, workflows, and workplace norms that determine whether people can perform at a high level without sacrificing their health and engagement.</p>
+
+<h2>Leaders Strongly Influence Team Vitality</h2>
+<p>Leaders are central to the conversation about burnout prevention because research shows that <a href="https://www.amazon.com/Culture-Shock-unstoppable-solution-leadership/dp/1595622470/ref=sr_1_1?crid=I36MWXGKJI1Q&amp;dib=eyJ2IjoiMSJ9.NoNgS7Nwuud_fIt-1wvLZ8J-5r53DCkxOZkTRP7mlJgOmfVGhPpkpwDuoYDNe7Wu7NPlVnIDxpqMSYPTeKLnUAfXBVl0vDSZD5qYacXUWWqAWX-sCgyJhuUE3CmUuF_nhIrvq0qNLBtxIoVAxEMYHtm0-I4URTsH_FAKKBdnc2OFxjh3RhXH_295cIISmf5Ddxxulh4Dl4tQrkEinz86COZuIdeQEN70N6kktmwD3B0.A6eoN11NAzX-BGQI2dzN46blxYj6atiAzuLVoXf8I38&amp;dib_tag=se&amp;keywords=culture+shock+gallup&amp;qid=1778707758&amp;sprefix=culture+shock+gall%2Caps%2C439&amp;sr=8-1">leaders</a> can account for at least <a href="https://www.gallup.com/workplace/285674/improve-employee-engagement-workplace.aspx">70 percent</a> of the variance in team engagement. What that means is that leaders have a huge influence on how well their teams function. In addition, a survey of 3,400 people across 10 countries by The Workforce Institute at UKG revealed that a person’s manager (69%) impacted their mental health more than their doctors (51%) or therapists (40%), and at the same level as their spouse or partner (69%). The survey also found that work stress negatively impacted employees’ home life (71%), well-being (64%), and relationships (62%). Further, employees experiencing <a href="https://sloanreview.mit.edu/article/with-burnout-on-the-rise-what-can-companies-do-about-it/">burnout</a> rate the support they receive from managers 33 points lower than employees experiencing none of the burnout dimensions.</p>
+
+<h2>Closing the Training Gap in Burnout Prevention</h2>
+<p>Leaders are often rewarded and promoted based on business metrics, expertise, or reputation, rather than on the qualities necessary to be an effective leader. And leadership development training typically includes little to no formal education in areas like team formation, establishing good workflows and work design, and the psychology underpinning motivation, engagement, resilience, stress awareness, and well-being.</p>
+
+<p>Further, perceptions of managerial effectiveness and leadership style have been associated with burnout, job satisfaction, and retention. Specifically, <a href="https://affinityhealthhub.co.uk/d/attachments/2-harms-et-al-2017-1554904644.pdf">leadership behaviors</a> that provide clarity and reduce ambiguity, encourage ongoing professional development, provide guidance, and nurture social support have been shown to reduce work stressors. Leaders require development and ongoing support to enhance these skills. As a result, understanding the causes of burnout and how to design for teams that create the opposite of that environment can present a significant leadership challenge. Where can leaders start?</p>
+
+<h2>8 Leadership Factors That Decrease Burnout in Work Teams</h2>
+<p>There are lessons that leaders across industries can take from the rigorous studies that health care researchers have done at the intersection of burnout, leadership, and professional fulfillment.</p>
+<p>In one multi-site study, physicians who rated their <a href="https://bmjopen.bmj.com/content/bmjopen/12/6/e057554.full.pdf">supervisor’s performance</a> in the topmost tertile reported 48% lower risk of burnout, 66% lower intent to leave their organization within two years, and nearly six times greater odds of having high professional fulfillment. Mayo Clinic regularly asks its health care employees to rate their immediate supervisor. Researchers <a href="https://www.sciencedirect.com/science/article/abs/pii/S0025619619309930">at Mayo</a> analyzed almost 40,000 employee surveys and discovered that the prevalence of burnout was much higher among responders who rated their immediate supervisor unfavorably on certain leadership qualities. Employees were asked to rate their immediate supervisor on these leadership qualities.</p>
+
+<p><em>My immediate supervisor:</em></p>
+<ol>
+<li><em>Treats me with dignity and respect</em></li>
+<li><em>Encourages me to develop my talents and skills</em></li>
+<li><em>Recognizes me for a job well done</em></li>
+<li><em>Provides helpful feedback and coaching on my performance</em></li>
+<li><em>Encourages me to suggest ideas for improvement</em></li>
+<li><em>Holds career development conversations with me</em></li>
+<li><em>Empowers me to do my job</em></li>
+<li><em>Keeps me informed about changes taking place</em></li>
+</ol>
+
+
+<p>Notably, for each one-point increase in composite leadership score, the odds of burnout decreased by 7%, and the odds of satisfaction with the organization increased by 11%. The immediate supervisor leadership score was strongly associated with both job satisfaction and burnout, even after researchers adjusted for gender, age, length of employment, and job category.</p>
+
+<p>Researchers concluded that of all the qualities of the organization, <a href="https://www.tandfonline.com/doi/pdf/10.2147/JHL.S465170">the single biggest</a> driver of professional satisfaction was the behavior of each person’s immediate supervisor. Nothing else (e.g., culture, salaries, benefits, organizational strategy) even came close.</p>
+<p>The eight practices outlined above are low-hanging leadership fruit. Leaders don’t need a complete cultural overhaul to make a difference—just focus on the right areas.</p>
+
+
+
+  
+
+
+<p>Burnout prevention is not about eliminating hard work, lowering standards, or shielding teams from every challenge. People can thrive in high stress when they feel supported, valued, connected to purpose, and confident that the way work is structured is sustainable over time.</p>
+<p>At a time when many organizations are asking employees to navigate significant change and uncertainty, leaders who intentionally design healthier ways of working will not only help slow burnout but will also build stronger, more adaptive, and more committed teams.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/pressure-proof/202605/8-leadership-practices-that-slow-team-burnout" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/pressure-proof/202605/8-leadership-practices-that-slow-team-burnout</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/pressure-proof/202605/8-leadership-practices-that-slow-team-burnout</guid>
+            <dc:creator><![CDATA[Paula Davis JD, MAPP]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/leadership_button_graphic.jpg?itok=oOm72wP5" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pop Psychology in the Age of Viral Advice]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/ETurner.png.jpg?itok=ZBJZp-z4" alt="Erlanger A. Turner Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Pop Psychology in the Age of Viral Advice</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Is pop psychology helping or hurting the mental health crisis?</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The influence of pop psychology has increased due to social media use.</li><li style="margin-bottom:6px;">Pop psychology includes psychological information through books, television, blog posts, and social media.</li><li style="margin-bottom:6px;">Psychological language online is often oversimplified, misused, or lacking in context, which can be harmful.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/nathan-dumlao-klmt1mpgjvg-unsplash.jpg?itok=sKfAqzRm" width="320" height="480" data-insert-type="image" title="Nathan Dumlao/Unsplash" alt="Nathan Dumlao/Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Nathan Dumlao/Unsplash</div>
+</div>
+</div>
+</div>
+<p>Social media has transformed the way we talk about mental health. Increases in the use of social media platforms like Twitter, Instagram, TikTok, and podcasts have helped reduce stigma, increase awareness, and encourage more people to go to therapy (Turner, Jernigan-Noesi, &amp; Metzger, 2021). As a licensed clinical psychologist with more than 15 years of experience, I have personally seen the positive impact that technology can have in promoting mental health literacy and creating conversations that once felt taboo. When I first began using social media in 2009 to discuss psychology and mental health, very few licensed psychologists were active online. Many professionals were hesitant because of concerns about ethics, misinformation, and the challenges of translating complex psychological science into short-form content. While the landscape has changed dramatically, those concerns remain highly relevant today.</p>
+
+<p>It's important to acknowledge why people look to pop psychology and online personalities for support. There are significant workforce shortages in mental health care, long waitlists, financial barriers, and a lack of provider diversity. Many individuals online are simply looking for connection, validation, and guidance wherever they can find it. That is why technology and social media can still play an important role in increasing mental health literacy and connecting people with resources. The key is transparency. A recent discussion online following Cheyenne Bryant’s appearance on the Joe Budden podcast has sparked a debate about degree, credentials, and who earns the right to use the term “doctor.” The public deserves to know whether someone is providing psychoeducation, coaching, advocacy, or licensed mental health treatment. Otherwise, we blur the lines, and the potential for harm increases.</p>
+
+<h2>What Is Pop Psychology?</h2>
+<p>The American Psychological Association defines popular (pop) psychology as psychological knowledge geared toward the general public. The term is often used to describe how psychological concepts are used to share information in digestible formats through books, television, blog posts, and social media. For centuries, pop psychology has existed to allow individuals to apply psychology in their everyday life. While it has existed for longer than most of us have been alive, pop psychology has been much more accessible in the age of social media. Many social media influencers and trained mental health professionals use social media platforms as a way to dismantle stigma, raise awareness about trauma, and share educational content to promote well-being.</p>
+
+<p>While pop psychology has benefits, there are some cautions we all need to be mindful of. First, not all mental health information you access online or through social media is accurate. It’s important to fact-check knowledge because misinformation could be harmful. Secondly, not everyone sharing information or calling themselves an “expert” has training, credentials, or expertise relevant to the topics they are discussing through media outlets. Although pop psychology is common, my concern is when it becomes problematic because people only have access to pop psychology when they actually would benefit from professional help.</p>
+
+<h2>Where Pop Psychology Goes Wrong</h2>
+<p>We live in a fast-paced society, where information is easily at our fingertips. One of the greatest risks of pop psychology is that it can blur the line between education, entertainment, and actual mental health treatment. Psychology concepts are now everywhere online, but psychological language is often oversimplified, misused, or stripped of context. Terms such as “trauma,” “narcissist,” “gaslighting,” and “boundaries” are frequently used in ways that do not reflect their clinical meaning. While increased awareness can be beneficial, misinformation can also cause harm. Particularly when individuals position themselves as mental health experts without the education, supervised clinical training, or licensure required to treat psychological disorders. The reality is that anyone can call themselves a “psychology expert” online, yet there is no universal standard for what that title means.</p>
+
+<p>Many licensed professionals have spoken out on this topic via Instagram, Threads, and other platforms. In a <a href="https://www.youtube.com/watch?v=kB3O9jD4rLk">podcast</a> discussion, psychologist Raquel Martin spoke with Marc Lamont Hill about the dangers of misinformation. In my opinion, pop psychology can go wrong when individuals seeking help are unable to distinguish between psychoeducation, coaching, and therapy. While coaching can be helpful for many areas of life, such as goal setting, accountability, motivation, and personal development (McKelley &amp; Rochlen, 2007), it’s important to recognize that coaching is not therapy. Coaches do not diagnose mental health conditions, treat psychological disorders, or provide evidence-based clinical interventions designed to address symptoms such as depression, anxiety, trauma, or other mental health concerns. A few years ago, I talked about this issue on an episode of <a href="https://open.spotify.com/episode/2wAiUYmUDjTBwNwFjRBOIS?si=NIUMU2OlQrOYw2grq3mObg">The Breakdown with Dr. Earl podcast </a>with a life coach, Pervis Taylor. While coaching is unregulated, licensed therapists have extensive graduate education, supervised clinical experience, ongoing professional development, and licensing exams designed to protect the public. Due to regulations, licensed psychologists and mental health professionals are held accountable by licensing boards to ensure ethical and evidence-based care.</p>
+
+<p>What makes this conversation about licensure particularly important is the potential for harm when vulnerable individuals receive advice from someone who lacks the expertise to recognize serious mental health concerns. Recently, I watched a <a href="https://www.tiktok.com/@sunnydaejones/video/7640201334813134094?_r=1&amp;_t=ZP-96k9L2PiR03">TikTok video</a> with @sunnydaejones, who openly discussed how damaging it had been to receive “mental health support” from someone who lacks the proper training. Stories like this are heartbreaking because they reinforce the barriers many communities already face when seeking care. For years, many in the Black communities have struggled with inadequate access to culturally responsive mental health services, contributing to mistrust, stigma, and reluctance to seek therapy. When misinformation spreads online, it can further erode confidence in mental health treatment altogether.</p>
+
+<h2>Moving Beyond Pop Psychology</h2>
+<p>Ultimately, the conversation surrounding pop psychology and psychology credentials is bigger than a social media debate. It highlights a longstanding issue in how society views psychology itself. Unlike medicine, where falsely presenting oneself as a physician would immediately raise concern, psychology is often misunderstood or dismissed as less scientific. Yet psychology is a rigorous discipline grounded in research, ethics, clinical training, and evidence-based practice. My hope is that these conversations encourage people to ask more questions, become more informed consumers of mental health information, and better understand the difference between inspiration, education, and professional psychological care.</p>
+
+<p><strong>Here are a few tips on using pop psychology as a stepping stone to supporting your well-being and mental health:</strong></p>
+<ul>
+<li>If you’re using information online to support your mental health, don’t rely only on this information. When possible, seek out mental health support from a licensed mental health professional. There are many directories that provide information about professionals with their credentials, educational background, and license verification. You can check your state psychological associations or psychology licensing boards.</li>
+<li>Consult with your doctor or mental health professional about pop psychology strategies or self-help advice. They can correct misinformation and offer evidence-based mental health interventions.</li>
+<li>It’s important to recognize that pop psychology advice may not work for everyone the same way. Personal stories and anecdotes can be useful to understand someone’s experience. However, mental health treatment is designed to be tailored to your unique experiences.</li>
+</ul>
+
+
+
+  
+
+
+<p>Be sure to reflect on who is providing the mental health information or advice. Not everyone who is popular or has a huge following actually has the education, expertise, and training to support your mental health. If in doubt, verify the person’s credentials. In most cases, mental health providers' credentials and their professional licenses are public information.</p>
+
+<p><em>To find a therapist, please visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory.</em></a></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-race-to-good-health/202605/pop-psychology-in-the-age-of-viral-advice" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-race-to-good-health/202605/pop-psychology-in-the-age-of-viral-advice</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-race-to-good-health/202605/pop-psychology-in-the-age-of-viral-advice</guid>
+            <dc:creator><![CDATA[Erlanger A. Turner Ph.D.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/u_icjer0igil-smartphone-8820274_1920.jpg?itok=GLWn3bQW" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moving From Fear-Based Rules to Values-Based Relationships]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/1606-INBODY-core_team-_Self_Study-72123-removebg-preview.jpg?itok=lgRy04Yz" alt="Chandra Khalifian, Ph.D. and Kayla Knopp, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Moving From Fear-Based Rules to Values-Based Relationships</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Acceptance and commitment therapy is a good framework to navigate non-monogamy.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">ACT helps people navigate jealousy and insecurity without abandoning their relational values.</li><li style="margin-bottom:6px;">Psychological flexibility allows partners to tolerate discomfort while staying connected and secure.</li><li style="margin-bottom:6px;">ACT helps couples respond to fear and jealousy with awareness instead of control or avoidance.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">For many people exploring non-monogamy, one of the hardest parts is figuring out which relationship “rules” are truly theirs and which ones were inherited from culture, family systems, or fear.</p>
+<p dir="ltr">Most of us were raised with a very specific blueprint for love: one partner, exclusivity, and the belief that jealousy is proof of love and commitment. But for people exploring ethical non-monogamy, polyamory, or open relationships, these inherited narratives can create significant internal conflict. Even when a relationship structure feels aligned intellectually and emotionally, it can still activate fear, insecurity, comparison, or shame.</p>
+
+<p dir="ltr">This is one reason why acceptance and commitment therapy (ACT) can be such a powerful framework for people navigating non-monogamy.</p>
+<p dir="ltr">Rather than focusing on eliminating uncomfortable emotions, ACT helps people develop psychological flexibility: the ability to stay connected to their values even in the presence of difficult thoughts and feelings. In non-monogamous relationships, this can be important because discomfort is not necessarily a sign that something is wrong. Sometimes discomfort reflects vulnerability, uncertainty, or the challenge of unlearning deeply ingrained relational conditioning.</p>
+
+<h2 dir="ltr">ACT and the Shift From Rules to Values</h2>
+<p dir="ltr">At the heart of ACT is the idea that values are chosen life directions rather than fixed goals. Values are not boxes to check off; they are ongoing ways of showing up in relationships and in life. For people practicing non-monogamy, this often means moving away from default societal expectations and intentionally defining what love, commitment, intimacy, and partnership actually mean to them. This may not be the right approach: “What is the correct relationship structure?” Instead, people can ask:</p>
+
+<ul>
+<li dir="ltr">“What kind of partner do I want to be?”</li>
+<li dir="ltr">“How do I want to show up in relationships?”</li>
+<li dir="ltr">“What values do I want guiding my decisions?”</li>
+</ul>
+<h2 dir="ltr">The Core ACT Principles in Consensual Non-Monogamy</h2>
+<p dir="ltr">One of the first tasks in ACT is identifying what truly matters to you. This is called values clarification. For people exploring CNM, this may involve clarifying values about:</p>
+
+<ul>
+<li dir="ltr">intimacy</li>
+<li dir="ltr">honesty</li>
+<li dir="ltr">exploration</li>
+<li dir="ltr">autonomy</li>
+<li dir="ltr">emotional safety</li>
+<li dir="ltr">sexuality</li>
+<li dir="ltr">growth</li>
+<li dir="ltr">family</li>
+<li dir="ltr">freedom</li>
+<li dir="ltr">stability</li>
+<li dir="ltr">community</li>
+</ul>
+<p dir="ltr">Rather than automatically adopting monogamous norms—or rejecting them entirely—ACT encourages people to consciously define the relationship structures that align with their authentic values. Importantly, values work also helps couples determine whether they are actually aligned. Sometimes conflict in non-monogamous relationships is not simply about jealousy; it is about fundamentally different values, needs, or visions for partnership.</p>
+
+<h2 dir="ltr">Common Values in Non-Monogamy</h2>
+<p dir="ltr">When therapists guide clients through values work in non-monogamy, several themes often emerge repeatedly.</p>
+<ul>
+<li><strong>Autonomy: </strong>valuing personal agency, freedom of expression, individuality, and the belief that love does not require ownership.</li>
+<li><strong>Transparency and honesty: </strong>committing to direct communication about desires, fears, boundaries, agreements, and needs.</li>
+<li><strong>Trustworthiness:</strong> building trust not through control, but through accountability, reliability, and open renegotiation when circumstances change.</li>
+<li><strong>Compassion: </strong>practicing empathy for yourself and your partners while navigating insecurity, attachment wounds, new relationship energy, and relational transitions.</li>
+</ul>
+
+<h2 dir="ltr">Acceptance: Making Space for Difficult Emotions</h2>
+<p dir="ltr">One of the biggest misconceptions about non-monogamy is that emotionally evolved people simply “don’t get jealous.” In reality, jealousy, fear, insecurity, grief, and comparison are common human experiences. ACT does not attempt to eliminate these emotions. Instead, it teaches people how to make room for them without becoming controlled by them. For example, someone may notice thoughts like:</p>
+
+
+<ul>
+<li dir="ltr">“I’m going to be replaced.”</li>
+<li dir="ltr">“What if my partner likes someone else more?”</li>
+<li dir="ltr">“What if I’m not enough?”</li>
+</ul>
+<p dir="ltr">ACT helps individuals observe these experiences with curiosity rather than immediately reacting to them. This matters because impulsive attempts to escape discomfort—through control, shutdown, reassurance-seeking, rigid rules, or emotional withdrawal—often create more suffering within relationships over time. Acceptance does not mean liking painful emotions or resigning yourself to distress. It means recognizing that vulnerability is part of intimacy and learning how to tolerate emotional complexity while still acting in alignment with your values.</p>
+
+<h2 dir="ltr">Cognitive Defusion: Thoughts Are Not Facts</h2>
+<p dir="ltr">ACT emphasizes cognitive defusion, which involves learning to see thoughts as mental events rather than objective truths. This can be transformative in non-monogamy work because many fears become fused with identity or certainty. A thought like: “My partner’s attraction to someone else means I’m inadequate,” can begin to feel unquestionably true.</p>
+
+
+
+  
+
+
+<p dir="ltr">Defusion helps create distance between the thinker and the thought. Instead of becoming consumed by the narrative, a person learns to notice: “I’m having the thought that I’m inadequate.” From here, we can begin to get curious about that thought: Where does it come from? How did I learn to think it? Do I want to buy into it? This small shift can dramatically reduce reactivity and create space for more intentional responses.</p>
+
+<h2 dir="ltr">Committed Action in Relationships</h2>
+<p dir="ltr">ACT ultimately asks people to take committed action toward the life and relationships they want to build, even when doing so feels uncomfortable. For non-monogamy, committed action may involve:</p>
+<ul>
+<li dir="ltr">initiating difficult conversations</li>
+<li dir="ltr">practicing transparency</li>
+<li dir="ltr">repairing after ruptures</li>
+<li dir="ltr">tolerating uncertainty</li>
+<li dir="ltr">setting boundaries</li>
+<li dir="ltr">renegotiating agreements</li>
+<li dir="ltr">asking for reassurance directly</li>
+<li dir="ltr">making time for connection and attachment security</li>
+</ul>
+
+<p dir="ltr">Psychological flexibility is not about becoming emotionless. It is about continuing to move toward your values even while feeling discomfort.</p>
+<h2 dir="ltr">Moving Beyond <em>Right </em>or<em> Wrong</em></h2>
+<p dir="ltr">One of the most important aspects of ACT is that it moves people away from rigid binaries of “right” and “wrong” relationship structures. Non-monogamy is not inherently more evolved than monogamy, and monogamy is not inherently more secure or healthy than non-monogamy. What matters most is whether people are acting intentionally, honestly, compassionately, and in alignment with their values.</p>
+
+<p dir="ltr">ACT helps individuals and couples build the psychological flexibility required to navigate intimacy with greater awareness, openness, and emotional responsibility. And ultimately, that flexibility may matter far more than the specific structure itself.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/expansive-relationships/202605/moving-from-fear-based-rules-to-values-based-relationships" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/expansive-relationships/202605/moving-from-fear-based-rules-to-values-based-relationships</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/expansive-relationships/202605/moving-from-fear-based-rules-to-values-based-relationships</guid>
+            <dc:creator><![CDATA[Chandra Estelle Khalifian, Ph.D. and Kayla Knopp, Ph.D.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-gustavo-fring-7447245_0_0.jpg?itok=mklj5abF" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infertility Has a Male Problem]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/IMG_3472_Copy_Copy_Copy_Copy-removebg-preview.jpg?itok=K8cNzEFs" alt="Fenella Das Gupta Ph.D., MFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Infertility</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Infertility Has a Male Problem</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When infertility is in play, why do we continue to focus on her and overlook him?</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Roughly half of all infertility cases involve a male factor, yet women still undergo first evaluation.</li><li style="margin-bottom:6px;">This imbalance is rooted in centuries of patriarchal medicine, not biology alone.</li><li style="margin-bottom:6px;">A balanced, couple-based evaluation reduces medical and emotional burden, improving outcomes.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/shutterstock_64514272.jpg?itok=ZdnJxrI5" width="320" height="242" data-insert-type="image" title="Kachalkina Veronika/Shutterstock" alt="Kachalkina Veronika/Shutterstock"></div>
+<div class="insertArea--origin subtext">Source: Kachalkina Veronika/Shutterstock</div>
+</div>
+</div>
+</div>
+<p><em>E and J sat in front of me. She had her arms crossed. He sat slightly apart, turning his phone over in his hands. They were nice people. Smart, thoughtful, both with careers they liked.</em></p>
+<p><em>So why were they in my office?</em></p>
+<p><em>Something intangible.</em></p>
+<p><em>For many months, the two of them had moved through fertility investigations and treatment. Hormone panels. A miscarriage. Two egg retrievals. All of it focused on E.</em></p>
+
+<p><em>Until J’s brother, going through his own fertility journey, discovered a genetic issue with his sperm. J brought it to the doctors immediately. And only then did the attention turn to him.</em></p>
+<p><em>What E had been carrying, for the longest time, wasn’t actually hers to carry. She had shouldered the blame, even though J hadn’t openly blamed her. In fact, J had been transparent the moment he knew.</em></p>
+
+<p><em>Neither of them knew how to talk about it, or why E had resentment and J had confusio</em>n*.</p>
+<h2>Women’s Issues</h2>
+<p>Much has changed in terms of fertility treatment. Research has expanded, treatments have improved, and public conversation has opened up in ways it never used to.</p>
+<p>But something remains essentially stuck.</p>
+
+<p>Infertility is still widely treated as a woman’s issue. You see it in who walks into the clinic first, who gets tested first, and in who initially carries the weight of something “being wrong.” It is often an automatic assumption, fueled by the commonplace idea of the biological clock that’s racing against time. So, naturally, she approaches the doctor first.</p>
+
+<h2>His Clock Was Always There Too</h2>
+<p>It’s interesting to me that male sperm aging is still treated as an afterthought, though the data has been there for a while.</p>
+<p>Sperm quality begins to decline in the mid-30s and accelerates after 40 (Harris et al., 2011; Xie et al., 2025). Volume drops, motility slows, and DNA fragmentation rises. Advanced paternal age has also been linked to longer time to conception, higher miscarriage risk, and elevated risk of certain neurodevelopmental conditions in offspring, including autism and schizophrenia (Sandin et al., 2016). At least 6,800 sperm samples later (Xie et al., 2025), we know his clock has always been there.</p>
+
+<h2>Half the Story</h2>
+<p>It’s not surprising then that half of all infertile couples have a male-factor component. More specifically, male factors are the sole cause of infertility in 20 to 30 percent of cases and contribute to another 20 to 30 percent (ASRM, 2025).</p>
+<p>Infertility is therefore not a one-person problem. It is, statistically and biologically, a shared one. Yet somehow this gets lost in translation. The medical system follows her around like a shadow she can’t shake.</p>
+
+<h2>How We Got Here</h2>
+<p>This deep-rooted pattern was not an oopsie-daisy, a we-didn’t-have-the-vocabulary-back-then kind of accident. It has a long history. For centuries, patriarchal social structures consistently located reproductive “failure” in women (Inhorn, 1996). Virility, fatherhood, and lineage were tied to a man’s social standing. Questioning his fertility would challenge that system.</p>
+
+
+<p>So, the burden of blame shifted sideways (Vignozzi et al., 2025), and medicine followed; diagnostic pathways have been built around this so-called specialness of hers. Cultural scripts followed only the female, with the most invasive testing and procedures, way before a basic semen analysis became a topic. The whole edifice was, to borrow from Alice in Wonderland, “nothing but a pack of cards.”</p>
+
+<p>The evidence has moved on; the practice and narrative still have a long way to catch up.</p>
+<h2>When Responsibility Lands on One Body</h2>
+<p>Thirty to 60 percent of women experiencing infertility face significant mental health challenges, with higher rates of anxiety and depression than their male partners (Society for Women’s Health Research, 2024). It's no surprise, then, that she bears disproportionate stigma, stress, and relationship pressure; this pattern has been documented globally (WHO, 2023).</p>
+
+
+
+  
+
+
+<p>But stats aside, when the system assumes the problem is hers, she begins to internalize it too, even when there is no habeas corpus — no charge, no evidence, no case.</p>
+<p>She <em>apologizes </em>to her partner, feeling embarrassed that she has introduced something into the relationship. She scans her body for fault, quietly self-flagellating for waiting too long, or for pursuing the higher echelons of a career that has traditionally belonged to men. This is what cultural assumption does. It moves quietly into the crevices of our interior life.</p>
+
+<p>And this is what we see with E and J. </p>
+<p>This is a script that had been handed down long before either of them stepped into my office. She knew her lines, and he knew his. She had absorbed the blame as if it were always hers, and he had duly stepped aside. Neither of them saw any of the backdrop, which caused the confusion and smoke and mirrors to the point that they had no words to talk about it.</p>
+
+<h2>What It Costs Men</h2>
+<p>What is less often named is what this imbalance does to men.</p>
+<p>When infertility is framed as her problem, men are positioned as observers. They become the supporter, the driver, the hand holder, the problem solver. Not because they care less (though yet again our culture does a number on them, where expressing emotion gets misconstrued as weakness), but because the system has restricted their role.</p>
+
+<p>When the cause later turns out to be a male factor, that quiet position becomes disorienting. Male infertility is consistently associated with depression, anxiety, lowered self-esteem, and disruptions to masculine identity (Sahoo et al., 2025). Many men also report emotional suppression, isolation, and a reluctance to seek support, partly because fertility services rarely include them in any meaningful way (Miner et al., 2019).</p>
+
+<p>So, what are we left with here? A patriarchal system that doesn’t actually protect men. It isolates them. It tells them they should not be the patient. And when they finally are, it offers them very little. Ironic, really.</p>
+<p>Two people. Two different ways of being unseen.</p>
+<h2>Toward Something More Accurate</h2>
+<p>If the evidence has been clear for decades, why hasn’t practice fully caught up?</p>
+
+<p>Narratives about identity are deeply embedded and slow to shift. Systems repeat themselves long after science has evolved.</p>
+<p>Psychologically, when something is uncertain, people look for somewhere to locate the problem. The more visible body usually becomes the one to latch onto. But the simplification creates distortion. </p>
+
+<p>A more balanced approach is also a more accurate one. Evaluation should begin with both partners. Early and without assumptions. Care should reflect the shared nature of infertility, not reinforce outdated narratives. This changes the emotional experience for everyone in the room. When responsibility is shared, conversations open up and the relationship has more room to breathe.</p>
+
+<p>If we apply this to the bigger picture, one of the deepest struggles many couples face is that powerful hidden forces operate beneath the surface. The reframe is not simply to "fix" the conflict as quickly as possible, but to become curious about the emotional architecture shaping the relationship, rather than remaining unconsciously governed by it.</p>
+
+<p>While painful, this process can become an opportunity to understand each other more deeply, and to ensure that this part of life isn’t a mystery operating silently in the background.</p>
+<p><em>* Names and identifying details have been changed to protect privacy.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202605/infertility-has-a-male-problem" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202605/infertility-has-a-male-problem</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202605/infertility-has-a-male-problem</guid>
+            <dc:creator><![CDATA[S. Fenella Das Gupta Ph.D., MFT]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/shutterstock_64514272.jpg?itok=tgBbzKbh" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
