@@ -4,652 +4,549 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 15:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 18:40:58 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 15:59:12 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 18:40:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[You Don’t Have a Choice: How Decisions Affect Your Energy]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/kovach.jpg?itok=ibIfJDzr" alt="Robert Kovach Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Decision-Making</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">You Don’t Have a Choice: How Decisions Affect Your Energy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Capacity, not complexity, is what fatigues us. Different choices can protect us.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Mental Health Field Has a Trust Problem With Police]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/opi.png.jpg?itok=JMfPZqeK" alt="Open Therapy Institute" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trust</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Mental Health Field Has a Trust Problem With Police</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Countless police officers need mental health care, but many distrust the field.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Decision fatigue is well documented. Our capacity to make choices is smaller than most people realize.</li><li style="margin-bottom:6px;">Being mindful of unnecessary choices preserves our capacity for larger decisions.</li><li style="margin-bottom:6px;">Eliminating smaller, unimportant choices is the easiest and most effective way to preserve energy.</li>
+              <li style="margin-bottom:6px;">Police officers face high rates of PTSD, depression, and suicide.</li><li style="margin-bottom:6px;">Many officers distrust therapists and avoid seeking mental health care.</li><li style="margin-bottom:6px;">Therapists need police cultural competence to build trust and improve outcomes.</li>
             </ul>
           </div>
-                    <p>As an organizational psychologist, I'm usually helping leaders think about how to solve complex issues, drive large organizations, and lead big teams in a global setting. These are usually highly competent people who can manage difficult, fast-paced situations regularly and effectively. But lately, a lot of them have been wrong about their biggest challenge. They say, in various ways, things are too complex, the decisions are too multi-faceted, they need more tools, they need more people. And often, well, they’re wrong. They need less, not more.</p>
+                    <blockquote><p dir="ltr">"Therapists are not your friend and really could care less about you as a person. Never ever talk to them."</p>
+</blockquote>
+<p dir="ltr">That’s a real quote from a real police officer, cited by psychiatrist Kristopher Kaliebe in a <a href="https://openinquirymentalhealth.substack.com/p/improving-mental-health-care-for">recent article</a> in <em>Open Inquiry in Mental Health</em>. It's an overgeneralization to be sure, but Kaliebe argues that it reflects something the mental health field needs to address: the significant trust gap between law enforcement officers and the therapists who are supposed to help them.</p>
 
-<h2>Most people misidentify complexity as draining. But choice is more exhausting.</h2>
-<p>Decision fatigue is a well-documented concept. One study said the average American adult makes <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/">35,000 decisions in a day</a>. When leaders of companies—who have more decisions on their plate than average—struggle to make decisions, they think there's something complex about the subject matter itself. The instinct is totally rational. But that isn’t how the brain works, and it’s the reason the complexity argument gets shoved in front of the real issue.</p>
+<p dir="ltr">The numbers make this need clear. Police officers face <a href="https://doi.org/10.1001/jamanetworkopen.2020.19658">elevated rates </a>of posttraumatic stress disorder (PTSD), depression, anxiety, and substance use compared to the general population. For instance, in a single big-city department, 26 percent of officers screened positive for at least one serious mental health condition (such as depression, anxiety, PTSD, or suicidal ideation). Police officers are routinely exposed to traumatic events, whether it be violence, death, child abuse, or the like—all while managing organizational stress, regular shift work, sleep disruption, and relentless public scrutiny. The result is that <a href="https://leb.fbi.gov/articles/featured-articles/reducing-the-stigma-surrounding-mental-health">more officers die by suicide </a>each year than in the line of duty.</p>
+
+<p dir="ltr">Yet, despite these numbers, remarkably few officers ever seek treatment. For example, <a href="https://doi.org/10.1001/jamanetworkopen.2020.19658">Jetelina and colleagues</a> found that only about 10 percent of officers with PTSD had ever accessed mental health care. As Kaliebe notes, part of this is due to occupational culture: Police work prizes toughness, and officers worry that seeking help could signal a lack of fitness for duty or could trigger removal from active service. Concerns about confidentiality and stigma are all major barriers to their seeking treatment.</p>
+
+<h2>Why Many Police Officers Don't Trust Therapists</h2>
+<p dir="ltr">While these reasons are all important, Kaliebe homes in on another: the fact that many officers don’t trust therapists because they have good reasons not to. The uncomfortable truth is that mental health institutions have grown rife with anti-police rhetoric. Social work academics have described police as tools of<a href="https://doi.org/10.1177/14624745211045652"> “social control and White supremacy.” </a>An entire subfield within social work is dedicated to police abolition. The American Psychological Association <a href="https://www.apa.org/news/press/releases/2022/08/police-reforms">adopted a 2022 resolution</a> endorsing several claims of anti-police activists. When officers scan the mental health landscape, it’s no wonder they’re skeptical. Why would they seek care from people who don’t respect them, or worse, think they’re the problem?</p>
+
+<p dir="ltr">This dynamic threatens to damage any would-be “therapeutic alliance” between therapists and their police clients. <a href="https://doi.org/10.1002/wps.20238">Decades of research </a>have demonstrated that forming this alliance is one of the strongest predictors of outcome—often more important than any technique a therapist uses. By definition, this alliance depends on the client’s belief that the therapist understands them, respects them, and is working in their interest. If an officer walks in already primed to expect hostility, or if a therapist starts a session ready to deliver it, the therapeutic relationship is compromised before the first question is ever asked.</p>
+
+<h2>Need for Cultural Competence With Police Populations</h2>
+<p dir="ltr">Kaliebe proposes several evidence-based interventions for police officers—motivational interviewing, mentalization, cognitive behavioral therapy, family counseling—but none of them work if the officer doesn’t voluntarily walk through a therapist’s door. Thus, the onus falls on therapists, who need to be trained in genuine cultural competence with police populations: understanding their organizational structure, knowing their lingo, appreciating all the unique stresses of their job, and, frankly, being willing to express respect for the important work they do. He even recommends therapists go on ride-alongs with current or former officers as part of their preparation.</p>
+
+<p>There is a bitter irony here: Many of the behaviors that activists most criticize in police officers—excessive aggression, impaired judgment, lack of empathy, etc.—are exactly the kinds of outcomes associated with untreated PTSD, depression, and chronic stress. Likewise, research has linked psychological distress in officers to restricted attention, <a href="https://doi.org/10.1177/0002716220901349">reduced self-regulation</a>, increased anger, and difficulty bringing <a href="https://doi.org/10.35502/jcswb.290">empathic, nondiscriminatory responses</a> to the communities they serve. In other words, when the mental health field alienates police officers, it doesn’t just fail those officers; it may be worsening the very problems it claims to care about.</p>
+
+<p><em>If you or someone you love is contemplating suicide, seek help immediately. For help 24/7, dial 988 for the 988 Suicide &amp; Crisis Lifeline, or reach out to the Crisis Text Line by texting TALK to 741741. To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/open-therapy/202605/the-mental-health-field-has-an-anti-police-problem" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/open-therapy/202605/the-mental-health-field-has-an-anti-police-problem</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/open-therapy/202605/the-mental-health-field-has-an-anti-police-problem</guid>
+            <dc:creator><![CDATA[Open Therapy Institute]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-kindelmedia-7714981.jpg?itok=EuGsbpx3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Children Don't Feel That They Matter]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-04/Mazur.png.jpg?itok=_2n2Bsbg" alt="Masur" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Children Don't Feel That They Matter</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What to do if a child does not feel that they matter.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">It is important for children to feel that they matter.</li><li style="margin-bottom:6px;">Regardless of what a parent does, sometimes a child or teen will feel bad about themselves.</li><li style="margin-bottom:6px;">If your child feels bad about themself do not hesitate to discuss with them what you notice.</li><li style="margin-bottom:6px;">If the bad feelings persist, reach out to a professional.</li>
+            </ul>
+          </div>
+                    <p><em>This is Part 2 of a series on how to help children feel that they matter. Read Part 1 </em><a href="https://www.psychologytoday.com/us/blog/parenting-matters/202605/what-makes-a-child-feel-like-they-matter"><em>here</em></a><em>.</em></p>
+<p>Mattering is a powerfully important part of psychological health. But what is it exactly? And how do we help our children to feel that they matter?</p>
+<p>Here is one definition: Mattering is a personal sense of feeling significant to others, valued by others, and visible in the world. Feeling this way can buffer life's stressors, and it is protective. Those who feel they matter are less likely to suffer from depression, to exhibit violence, or to participate in delinquent behaviors (Flett et al., 2021). It is different from having a sense of self-esteem, but it is related.</p>
+
+<p>According to the study by Flett et al. (2021), feeling that one matters is key to good mental health. A common theme among suicidal adolescents and adults is a feeling of not mattering to anyone. And while my last post discussed things that parents can do to help their children feel they matter, what was lacking in my post and in many discussions of this topic is the issue of how children feel on the inside, and how their own feelings about themselves can sometimes get in the way of receiving the parental message that they are loved and that they matter.</p>
+
+<p>It is important for parents to be aware of how children feel about themselves. The parent may say "I love you" every night before bed, but is the child able to take it in?</p>
+<p>One child I saw in treatment got frustrated easily. When he was 5 and 6 years old, at the end of the day, regardless of what his parents said, he would hit his head with his fist, saying, "I'm stupid, I'm stupid, I'm stupid!" His parents were concerned about this and sought help from a child psychiatrist for some psychotherapy, and also had him tested for learning problems. As it turned out, this little boy had both ADHD and a learning disability. While his parents loved him and told him so in many ways, he knew that he was not able to do everything in the same way as his friends at school, and he suffered terribly from feelings of frustration, self-blame, and low self-esteem. </p>
+
+<p>As he got older, this boy received educational support. He did well enough in school, and eventually, as a teen, he found a niche for himself doing volunteer work in his community as an EMT at his local ambulance company. Receiving the special educational help that he needed was crucial in helping him to feel more adequate. And finding meaningful work in the community helped him to feel he mattered in the larger world.</p>
+
+<p>To help your child feel they matter, you can do all the "things," but also, make sure you stay on top of how your child feels about themself. If you notice that they are feeling negatively, try to gently address this. Don't be afraid to talk with them about what you notice, and if their negative feelings about themselves go on for more than six months or so, don't hesitate to consult with a mental health professional.</p>
+
+<p><em>To find a therapist, please visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory.</em></a></p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/parenting-matters/202605/when-children-dont-feel-that-they-matter" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/parenting-matters/202605/when-children-dont-feel-that-they-matter</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/parenting-matters/202605/when-children-dont-feel-that-they-matter</guid>
+            <dc:creator><![CDATA[Corinne Masur Psy.D.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-kindelmedia-8550841.jpg?itok=pjtZtYiV" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Value of Humility When Parenting an Adolescent]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/img_3807.jpg?itok=I4ijgknr" alt="Carl E Pickhardt Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adolescence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Value of Humility When Parenting an Adolescent</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How modest expectations about parental influence on adolescent growth can help.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Parenting is a process of constant learning to create adequate knowing.</li><li style="margin-bottom:6px;">Parenting is more emergently experienced than deliberately planned.</li><li style="margin-bottom:6px;">In making decisions, parents must not allow themselves to be swept up in the urgent adolescent tyranny of now.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img alt="Carl Pickhardt" height="414" src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2022-11/20220811115658_00036.jpg?itok=Uf6P7H20" title="Carl Pickhardt" width="320"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Carl Pickhardt</div>
+</div>
+</div>
+</div>
+<p>Parenting is such a presumptuous occupation. I mean, who really knows how this job is supposed to be accomplished? The self-appointed “experts”? I don’t think so. The most they can do is to be thought-provoking. In the end, every parent with every child has to create their own best practices.</p>
+<p>Personally, I believe in parenting with humility—with an absence of arrogance (prizing one’s rightness and wisdom too much: “I know all the answers!”) and of ambition (depending self-esteem on the child’s performance too much: “I expect my child to make me proud!”) </p>
+
+<p>Humility acknowledges three hard facts of parenting life:</p>
+<ol>
+<li>Parents don’t “know” as much as they’d like.</li>
+<li>Parents don’t “control” as much as they’d like.</li>
+<li>Parents don’t get it “right” as much as they’d like. </li>
+</ol>
+<p>And these operating realities get more pronounced once the child enters the more complicated passage of adolescence. Now the push for more detachment for independence and freedom of action, and the push for more differentiation for individuality and freedom of expression, both energize the process of growing up. It was simpler parenting the closely attached and similar child. </p>
+
+<h2>How Much Can Parents Really Know?</h2>
+<p>Start at the beginning. Through birth or adoption, a stranger is given into their primary care. Now they have to get to understand the individual “hand” of innate human characteristics they have been dealt, and then to learn how to play this hand to foster healthy growth. Starting from ignorance, there is a lot to discover, and then they have to stay current with developmental changes that unfold. </p>
+
+<p>Every parent parents behind this growth curve and so is continually scrambling to keep up and catch up. They figure out the girl or boy at one age only to be surprised and challenged by the next. Parenting is a process of constant learning to create adequate knowing. </p>
+<p>Should your adolescent complain, “You don’t understand me!” or “You don’t know what my life is like!” rather than defend yourself, listen up. This may turn out to be a good time to learn. Always remember that when it comes to understanding your adolescent, your best teacher is that young person herself. </p>
+
+<p>Really, the process of parenting an adolescent is like the short-sighted leading the blind. Most of what parents know about parenting is from what they’ve known growing up, while their teenager has never grown up this way before. The parenting process is more emergently experienced than deliberately planned, with a lot of trial, error, and recovery on both sides of the relationship, and that’s OK. </p>
+
+<h2>How Much Can Parents Really Control?</h2>
+<p>Parents operated in the Age of Command when the little girl or boy, largely nestled in the family circle, believed that parents had sufficient power of authority to "make them" or "stop them." When the child becomes an adolescent, parents soon realize that they have entered the Age of Consent, when the teenager knows that parents can’t make them or stop them without adolescent cooperation: “My choices about what to do or not to do are up to me, not to you!” </p>
+
+<p>So now parents and adolescents realize that parental command depends on adolescent consent to get what they want. Parents do so by expressing caring and communication to make a convincing case, and sometimes giving or withholding conditions and resources on which the teenager still depends to encourage compliance. The parental job is to establish and assert a family structure of rules and expectations in which the adolescent can safely and responsibly grow, if the young person so chooses, which most teenagers elect to do most of the time. </p>
+
+
+<p>Parents also realize that with their worldly and socially active adolescent, even in the most compliant cases, they have a lesser influence on their teenager than other powerful forces that they don’t control. For example, consider dictates of the teenager’s innate nature, societal change, cultural forces, chance exposures, peer persuasion, and personal choices. Parents have no control over these.</p>
+
+<p>The older the adolescent grows, the less power parents have because independence is a process of emancipation. All this said, however, parents are usually the most powerful people in the adolescent’s world, and it is out of respect for that power and desire for approval from that power that much adolescent cooperation is given. </p>
+
+
+
+  
+
+
+<h2>How Much Can Parents Really Get Right?</h2>
+<p>Parenting an adolescent is more complicated than parenting a child because the young person is functioning in a family of peers in expanding offline and online worlds of activity outside the sheltered family circle, honorably pushing against and pulling away from and getting around parental authority for more freedom to grow. </p>
+
+<p>Now the “should I or shouldn’t I?” question for parents gets more problematic for them to make. Out of love for their teenager, they want to make the “right” decisions, but meeting that criterion is no easy task. Consider just a few of the common problematic questions they wrestle with.</p>
+<p>“Should or shouldn’t I: </p>
+
+<ul>
+<li>Give or withhold?</li>
+<li>Suspect or trust?</li>
+<li>Be fixed or be flexible?</li>
+<li>Stand firm or relent?</li>
+<li>Pursue or give up?</li>
+<li>Hold on or let go?</li>
+<li>Speak up or shut up?</li>
+<li>Correct or accept?</li>
+<li>Expect or not expect?</li>
+<li>Insist on or back down?</li>
+<li>Agree or disagree?</li>
+<li>Question or ignore?</li>
+<li>Encounter or avoid?</li>
+<li>Permit or disallow?"</li>
+</ul>
+<p>All these recurring questions and many more are judgment calls parents must routinely make that are often very difficult because of risks either way they decide. The invisible work of parenting, particularly a teenager, is all the hours of deliberation it takes. Only after the fact do the consequences of their decisions become clear, sometimes to the good, and sometimes not. </p>
+
+<p>At the time, the impatient adolescent is often more sure about what she wants to do than worried parents are about what is wise to do. What’s the adolescent hurry? “If I’m to go on this senior spring break trip with my friends, I have to make my reservations right away!” To this pressing demand, parents might elect to say: “If you must know right now, the answer is ‘no.’ However, if we have time to think and talk with you about risks and arrangements, that might create a possibility.” In making their decisions, parents must not allow themselves to be swept up in the urgent adolescent tyranny of now. </p>
+
+<p>When it comes to making judgment calls, most parents have a mixed record because, deliberate as they may be, they do not have perfect judgment. However, this uneven performance is par for the parenting course because how the young person is going to turn out will depend partly because of and partly in spite of whatever parents choose to decide. </p>
+
+<p>A mixed job is the best job most parents can make of their daunting task—a human mix of strength and frailty, wisdom and stupidity, sensitivity and selfishness, good decisions and bad. And in most cases, the young person comes out mostly OK, always graduating their care with some unfinished business to complete the task of growing up. Now the young person has to finish parenting himself: to address what habits need to be corrected and to develop what skills still need to be acquired. </p>
+
+<p>At a time when they feel they know less, control less, and are often less sure of what the right decision is, maintaining humility can help parents not put undue pressure on themselves during their child’s more complicated adolescent passage. In most cases, just giving a full-faith effort is going to be good enough.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/surviving-your-childs-adolescence/201808/the-value-of-humility-when-parenting-an-adolescent" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/surviving-your-childs-adolescence/201808/the-value-of-humility-when-parenting-an-adolescent</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/surviving-your-childs-adolescence/201808/the-value-of-humility-when-parenting-an-adolescent</guid>
+            <dc:creator><![CDATA[Carl E Pickhardt Ph.D.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2018-08/cp-002p3.jpg?itok=4MndpR4B" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Forgotten Years of Parenthood]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/Erin-O-Conner.jpg?itok=PHgN_rp-" alt="Erin O’Connor Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Forgotten Years of Parenthood</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What middle childhood means for your child—and for you.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Middle childhood is often overlooked between toddlerhood and adolescence.</li><li style="margin-bottom:6px;">During these years, children become more independent and emotionally self-directed.</li><li style="margin-bottom:6px;">Parents must adjust to new forms of closeness, often with quiet grief.</li><li style="margin-bottom:6px;">Researchers still know surprisingly little about how parental identity evolves during this stage.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/shutterstock_2704915489.jpg?itok=nLrk4JL1" width="320" height="180" data-insert-type="image" title="Cecilia Di Dio/Shutterstock" alt="Cecilia Di Dio/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Cecilia Di Dio/Shutterstock</div>
+</div>
+</div>
+</div>
+<p dir="ltr">As I watched my youngest bounce out of school to give me a hug, I was struck by a twinge of joy and sadness. Kindergarten is coming to an end. We are now fully in middle childhood. This means increases in self-regulation, deeper friendships, and an inevitable broadening of her social circle, with her parents not necessarily at the center.</p>
+
+<p dir="ltr">This phase is often forgotten, sandwiched between the emotionally volatile toddler years and the deeply emotional ones of adolescence. But these years matter deeply, both in the lives of our children and in our evolving identities as parents.</p>
+<p dir="ltr">There are huge differences between how a six-year-old and a twelve-year-old handle the disappointment of being left out of a playdate. While the six-year-old will likely run to be comforted by a parent or close caregiver, the twelve-year-old may close their bedroom door and process the emotional letdown alone. For the parent, it feels very different to co-regulate. In many respects, it's easier to talk through emotions with an older child than to co-regulate with a younger one, but sometimes it is also harder to get that fiercely tight sense of emotional connection with an older child. </p>
+
+<h2>The Quiet Shift in Who We Are</h2>
+<p dir="ltr">Parental identity — the way we understand ourselves as parents — is not fixed. It evolves continuously alongside our children. During the early years, many parents build their sense of self around availability and protection: being the safe harbor, the soother, the one who makes the boo-boos better. That role is visceral, physical, and often all-consuming. It can be exhausting, yes, but it is also clarifying. You know when you are needed.</p>
+
+<p dir="ltr">Middle childhood quietly scrambles that clarity.</p>
+<p dir="ltr">Your child is becoming genuinely competent. They can pack their own snack, navigate a disagreement on the playground, and aren’t afraid to tell you that you are embarrassing them. The need for you doesn't disappear; it transforms. They need you to be present without hovering, available without intruding, and emotionally steady precisely when they are trying to prove they don't need your steadiness anymore.</p>
+
+<p dir="ltr">For many parents, this shift produces a kind of low-grade grief that rarely gets named. We celebrate each milestone loudly and mourn it quietly. The door that used to be open (literally and figuratively) begins, inch by inch, to close.</p>
+<h2>What the Research Tells Us — and Where It Goes Silent</h2>
+<p dir="ltr">Developmental psychology has given us rich frameworks for understanding children during these years. We know that middle childhood is a critical period for the consolidation of self-concept, the development of industry versus inferiority (in Erikson's terms), and the deepening of peer relationships that will lay the groundwork for adolescent social life. Academically, cognitively, and socially, a tremendous amount is happening, even when it looks like a relatively calm stretch on the outside.</p>
+
+<p dir="ltr">What the research has been far slower to examine is what is happening to parents during this same window. The bulk of parenting research has focused on the early attachment years or on the turbulence of adolescence. The parental experience of middle childhood sits in the same blind spot as the children themselves: underexamined, undervalued, and quietly formative.</p>
+
+<p dir="ltr">What we do know suggests that a parent's sense of identity is meaningfully shaped by the developmental stage of their child, evolving continuously and dynamically as children grow. </p>
+<h2>Renegotiating Connection</h2>
+<p dir="ltr">The good news (and there is real good news here!) is that middle childhood, for all its quiet complexity, opens up entirely new modes of connection between parent and child. Conversation deepens. Humor becomes more genuinely shared. You may find that your child is developing opinions about music, or fairness, or the inexplicable behavior of their best friend, and that you are interested in those opinions in a way that feels different from the conversations of early childhood.</p>
+
+
+<p dir="ltr">The emotional connection doesn't disappear; it matures. And that maturation asks something of us as parents: the willingness to let go of earlier forms of closeness in order to make room for newer ones. This is easier said than done. Many of us are deeply attached, consciously or not, to the version of parenting that felt most natural, most needed, most us.</p>
+
+<p dir="ltr">But knowing that this change is healthy does not make it painless.</p>
+<h2>An Invitation to Reflect and Contribute</h2>
+<p dir="ltr">If you have found yourself wondering who you are becoming as your child does the same, you are not alone, and you are not overthinking it. Parental identity development is a real and important psychological process, and it deserves the same careful attention we give to the children at the center of it.</p>
+
+
+
+  
+
+
+<p dir="ltr"><em>Notably, we still lack substantial research on how parental identity develops across the full arc of a child's growing up and how that development intersects with children's own psychological growth. My colleague and I are currently conducting a study on exactly these topics. If you would like to contribute to this work, we would be grateful for your participation. </em><a href="https://nyu.qualtrics.com/jfe/form/SV_byckHF7Q4mBSmGO%20"><em>The survey takes approximately 15 minutes</em></a><em> and is open to parents of school-aged children, ages 6 to 12.</em></p>
+
+<p dir="ltr"><em>Your perspective can help us better understand this important and often overlooked stage of family life.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/scientific-mommy/202605/the-forgotten-years-of-parenthood" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/scientific-mommy/202605/the-forgotten-years-of-parenthood</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/scientific-mommy/202605/the-forgotten-years-of-parenthood</guid>
+            <dc:creator><![CDATA[Erin O’Connor Ed.D.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/shutterstock_2704915489.jpg?itok=T7cKaZBp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Play and Creativity Run on Free Energy]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Scott-Eberle.jpg?itok=LKAwfeht" alt="Scott G. Eberle Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Play</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Play and Creativity Run on Free Energy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Neuroscience and the Jack-in-the-Box.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Neuroscientists say that our brains search for order to protect us from chaos.</li><li style="margin-bottom:6px;">Playful humans also pursue rewarding surprises.</li><li style="margin-bottom:6px;">For the alert, playful mind, harnessing free energy is the gateway to creativity.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/jack-box_0.png.jpg?itok=OyJV5SWS" width="310" height="310" data-insert-type="image" alt="Thinking of surprise? Name that tune!" title="Image courtesy of Allison Farley and the Strong National Museum of Play."></div>
+<div class="caption">Thinking of surprise? Name that tune!</div>
+<div class="insertArea--origin subtext">Source: Image courtesy of Allison Farley and the Strong National Museum of Play.</div>
+</div>
+</div>
+</div>
+<p>If you had to name a song that swiftly calls to mind a toy, what would it be? </p>
+<p>Some might nominate the bouncy bubblegum single, “I’m a Barbie Girl” (“Life in plastic / It’s <em>fantastic!”</em>). Farther back, the post-war generation will remember Elvis Presley’s coy R and B dance classic, “Let Me Be Your Teddy Bear” (“Cuddle me <em>real tight</em>….”). Or you might retrieve the creepy stuffed-toys-coming-alive tune “Teddy Bear’s Picnic” (“If you go down in the woods today / You’re sure of a big surprise…”).</p>
+
+<p>But hands down, the melody and rhythm that most closely remind us of a classic plaything and the surprises that play promises? It must be the punctuated song “Pop Goes the Weasel.” </p>
+<p>Wind the crank. The melody builds. “All around the cobbler’s bench / The monkey chased the weasel / The monkey thought ‘twas all in fun…” Tension gathers in both the coiled steel and the listeners’ emotion. Then, abruptly, the Jack-in-the-Box figure springs free: “<em>POP</em> goes the weasel!” Delighting in keen expectation and the surprise that follows, the 3-year-old, wound-up with edgy potential energy, will demand, “Again!” And again. </p>
+
+<p>It seems like a paradox, but play thrives on pleasurable surprise even when it’s predictable. </p>
+<h2>The Challenge From Neuroscience</h2>
+<p>Cutting-edge neuroscience offers a fascinating twist and a challenge that bears some noodling. Current models of perception posit that our minds are not passive video-cameras that take in the unfolding scene, moment-to-micromoment. </p>
+
+<p>Instead, our brains act more like “prediction machines” that smooth our expectations as they look for predictability. Disorder is confusing. Chaos is alarming. Unpredictability may even be dangerous<em> if we guess wrong</em>. After all, natural selection punishes the unwary and the unobservant.</p>
+<p>Thus, our brain/minds resist the disorderly and the chaotic—states that cognitive theorists have termed “free-energy.” The British theoretical neuroscientist Karl Friston explained, “Value is inversely proportional to surprise.” Surprises, for Friston and other like thinkers, add up to “prediction errors.” And so, they explain, to navigate uncertainty and reduce free energy, our brain/minds must scheme to impose an order that minimizes surprise.</p>
+
+<p>In this view, our perceptions seem more anchored than freed.</p>
+<h2>Play and Learning Run on Free Energy</h2>
+<p>Yet play runs on free energy. Without unpredictable, surprising timing, its mechanical punchline, the Jack-in-the-Box would not be fun for long. If the outcome did not hang in the balance, a hand of poker would not hold much promise. A run down the mogul course wouldn’t offer much reward without suspense. </p>
+
+<p>Without caprice, play wouldn’t offer much in the way of learning, either. </p>
+<p>Think of the toy tower built of blocks, for example. Players wonder how high it can reach, testing how precariously it may totter before falling, intuiting the force of gravity and the ingenuity of the structure they have assembled. Players build their understanding along the way, reaping benefit by maximizing surprise, testing its limit. Similar suspenseful games like Pick-up-Sticks and Kerplunk counsel patience and train dexterity, of course, but they also instruct in cause-and-effect and educate our risk tolerance. </p>
+
+<p>One stray choice and the whole pile goes kerplunk.</p>
+<h2>The Fortunate Mistake</h2>
+<p>A phrase in Latin covers this: the <em>felix culpa</em>, the fortunate mistake, the happy error that opens understanding and propels innovation. </p>
+<p>If Alexander Fleming had been tidier with his culture dishes, he’d never have discovered penicillin. Chemists searching for a durable synthetic rubber suitable for tires instead synthesized a gooey, pinkish mess. But capitalizing on a prediction error, clever marketers discovered what? You guessed it—Silly Putty. And then there’s the one about serendipitously contaminating the chocolate bar with peanut butter, an unexpected, tasty mashup.</p>
+
+<p>So does play violate our very nature, bucking the trend toward orderly thinking? Nothing could be farther from the truth. It turns out that for the alert, playful mind, harnessing free energy is the gateway to creativity.</p>
+<h2>Free Energy Journeys in Time</h2>
+<p>The free energy principle is ambitious as explanation as it encompasses a time scale of nine magnitudes across a human life span and twice that for the evolution of life on earth. The span from femtoseconds to eons is a long time. </p>
+
+<p>The doors to perception open at the interval of milliseconds as our senses register, sample, sort, and interpret the flood of visual, aural, and tactile information that floats us along, safely and predictably, in the torrent. Prediction is protection. Letting us distinguish usefully between surprise and shock, and let’s say, between a pickleball bouncing in our direction and a hand grenade arching forward. </p>
+
+
+
+  
+
+
+<p>Over millions of years, the free energy principle claims, this protective effect has guided the evolution of species, again weeding out the reckless. Its implications taken in full, this unified brain theory adds up to a kind of philosophy of evolution. The survival of the cautious. </p>
+<p>So, the question is fair to ask: Do built-in protective effects edge toward inflexibility? Unchecked rigidity is undeniably advantageous in sessile organisms. People, though, are rarely happy as clams. For us restless mammals, whether rigidity arises in the temptations of the echo chamber or the various traps of dogma, stiffness is mostly harmful and maladaptive.</p>
+
+<h2>Play Against Rigidity</h2>
+<p>This is not to forget that play tallies its own costs. For starters, and basically, play is notoriously risky, diverting energy from main tasks like finding food and shelter, or daring us to test our limits, sometimes dangerously. “Ladies and gentlemen, <em>start your engines</em>!” </p>
+<p>But play compensates. Not only with the dividends of learning and innovation, but also in emotional rewards that in themselves prove protective and beneficial. A generous sense of humor or a keen feel for irony helps us weather rough spots. Play affords respite and release as we sometimes zone out in a timeless space that renews us. (In these instances, play is truly re-<em>creation</em>.) Play blows off steam. Playful charm makes it easier to find friendship or romance. </p>
+
+<p>Play resists the drag of prediction effects, reveling in undermining the guardrails against “prediction errors.” Because play cultivates surprises, play rescues us from boredom and inertia. </p>
+<p>Or put it this way: <em>Pop!</em> goes the weasel.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/play-in-mind/202605/play-and-creativity-run-on-free-energy" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/play-in-mind/202605/play-and-creativity-run-on-free-energy</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/play-in-mind/202605/play-and-creativity-run-on-free-energy</guid>
+            <dc:creator><![CDATA[Scott G. Eberle Ph.D.]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/jack-box_0.png.jpg?itok=K7qDjNmK" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[If Women Only Knew What They Never Heard]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/karen_teller_and_elaine_lyerly.png.jpg?itok=PVYdLxYO" alt="Karen Teller, M.B.A., and Elaine Lyerly" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">If Women Only Knew What They Never Heard</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Women are unknowingly labeled and the sounds of silence can harm their careers.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Sounds of silence can derail a career.</li><li style="margin-bottom:6px;">How women are sometimes unknowingly labeled at work.</li>
+            </ul>
+          </div>
+                    <p>Most of us don’t spend time wondering what people say behind our backs at work. We are focused on doing an excellent job, building professional relationships with colleagues, and meeting company goals. However, companies are filled with gender stereotypes and inequitable treatment, particularly in male-dominated fields. Most fields are male-dominated. This is supported by the fact that achieving gender equity in the U.S. is projected to take approximately 134 years at today’s pace, according to the Gender Equality Institute.</p>
+
+<p>Things said about women behind their backs can unknowingly label them.</p>
+<p>Janet was a candidate for a job she was highly interested in. The all-male selection committee had narrowed down to three people they were considering for the job. She was the only woman.</p>
+<p>Keith, one of the men who vetted Janet and added her to the interview shortlist, said in an email to the selection committee that she had big breasts. That resulted in comments about her breasts in an ongoing email thread. When Robert read it, he was upset and disheartened. He showed these comments to his wife, and she could not believe what she read. She was insistent that he do something about it, and he did. He called out his colleagues on their lack of professionalism and inappropriate sexist comments. They were embarrassed and apologized to Robert, but Janet was already branded and devalued as a sex object even before the interview happened. </p>
+
+<p>Women can’t respond to what they do not hear.</p>
+<p>Often, women don’t know how to respond to inappropriate comments made to them. They fear they will be sidelined, fired, or marginalized. However, in Janet's case, she will never know what these men said behind her back. But whenever her name comes up, she will be the candidate with the big breasts. Unfair, unjustified, and wrong? Yes!</p>
+
+<p>Debra’s story.</p>
+<p>Debra was an exceptional client service representative for a marketing firm. She was smart, friendly, and handled some of the company’s largest accounts. She was leading a conference call with three of her client contacts to discuss the organization’s strategic recommendations for the coming year. When they completed the call, the client did not disconnect and began talking about Debra. The comments were how hot she was and what they would like to do to her of a sexual nature—things that were extremely inappropriate and not meant for her to hear. When they realized the call was still live, they immediately hung up. But the damage to Debra was already done.</p>
+
+<p>As a former cheerleader for an NBA team in her college days, Debra had heard it all right to her face. She had a great way of dealing with inappropriate comments—a professional smile, brushing them off, and not taking them seriously. However, the comments Debra overheard from her client made it very awkward in future meetings. She never mentioned it.</p>
+
+<p>It is human nature to have opinions about the people you work with. But there is no place for inappropriate comments and sexism at work.</p>
+<p>These examples of hidden comments demonstrate a lack of respect and how men treat women differently from their male colleagues. They demonstrate some of the subtle ways that erode women’s value, leadership, professionalism, and career growth in an organization.</p>
+
+<p>It takes courage to be a good guy and ally and go against inappropriate male banter and unequal treatment at work. But guys like Robert (thanks to his wife’s strong encouragement), who will speak up in support of women, and their skills and talents can make a world of difference, sparking a good workplace where people feel valued for their contributions.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/words-at-work/202605/if-women-only-knew-what-they-never-heard" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/words-at-work/202605/if-women-only-knew-what-they-never-heard</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/words-at-work/202605/if-women-only-knew-what-they-never-heard</guid>
+            <dc:creator><![CDATA[Karen Teller, M.B.A., and Elaine  Lyerly]]></dc:creator>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/peoplegeraltpixabaay.png.jpg?itok=aLlmwSNc" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the United Nations Needs Psychology]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/dinesh-profile.png.jpg?itok=vqBZp9Nv" alt="Dinesh Sharma Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cross-Cultural Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why the United Nations Needs Psychology</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Psychology is essential for an interconnected world.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>Psychological research on gender is a highly interdisciplinary and contested field. This globally expanding area examines how gender interacts with different domains of experience—culture, biology, technology, economics, politics, and development— across diverse societies. Moving beyond earlier frameworks focused primarily on women’s rights and inequality (first and second wave feminism), contemporary scholarship increasingly emphasizes intersectionality (third wave), global and postcolonial perspectives (fourth wave), masculinity studies, digital media, AI, and developmental systems approaches that link social environments with neuroscience, epigenetics, and cultural change. The field is also shaped by major debates over identity, populism, family structures, and the impact of technological transformation on human relationships and social institutions (fifth wave and beyond).</p>
+
+<p>Identity development is a complex process, and our identities transform as our sense of self evolves with the changing times. Currently, at the forefront of politics, Indian and American female leaders have risen to global leadership. Both of these women, Kamala Harris and Droupadi Murmu, with diverse racial backgrounds, navigate their identity differently. While some openly discuss their heritage, others choose to address it more subtly, focusing primarily on their policies and achievements without emphasizing their race. The diversity in identity formation reflects how female politicians approach gender and feminism through a global intersectional lens.</p>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/vladislav-babienko-small.jpg?itok=soeGaJv4" width="320" height="400" data-insert-type="image" title="Vladislav Babienko / Unsplash " alt="Vladislav Babienko / Unsplash "></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Vladislav Babienko / Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/61jrlzcifzl._sl1500_.jpg?itok=enX_NNkP" width="320" height="480" data-insert-type="image" alt="Global Perspectives on Gender" title="Melissa E. Malley, Judy L. Gibbons, Elaine P. Congress, and Uwe P. Gielen/Emerald Insight Publishing"></div>
+<div class="caption">Global Perspectives on Gender</div>
+<div class="insertArea--origin subtext">Source: Melissa E. Malley, Judy L. Gibbons, Elaine P. Congress, and Uwe P. Gielen/Emerald Insight Publishing</div>
 </div>
 </div>
 </div>
-<h2>Set up your pre-work routine. Goal: zero decisions. </h2>
-<p>The stories about Obama and Zuckerberg (and Gates before them) only wearing two suits are well documented. That sounds silly because the suit is literally the easiest decision those men make each day (let’s hope). The insight is not about the complexity of those decisions. It’s that our decision-making capacity is finite, and it’s smaller than you think. </p>
+<p>In a chapter titled, <a href="https://www.amazon.co.uk/Global-Perspectives-Gender-International-Psychology-ebook/dp/B0G318M18R"><em>Dreams from their Mothers</em></a>, in the new book, <a href="https://www.amazon.co.uk/Global-Perspectives-Gender-International-Psychology-ebook/dp/B0G318M18R"><em>Global Perspectives on Gender</em></a>, my colleagues Britt Romagna, Zara Lowenthal and I attempt to conceptualize women’s lives in the context of global feminism, consisting of different waves of feminist movement: the first wave from 1848 onwards, which began at Seneca Falls; second wave, from 1963 with the publication of the Feminine Mystique; third wave, from 1992 concerned with intersectionality; and fourth wave, from 2013 onwards driven by online digital feminism. Indian women, while working for the suffrage movement in Britain, began to gain the right to vote in 1921 in Chennai and Mumbai, and with Indian independence became full citizens in 1947. While ahead of the world in some ways, in terms of fighting practices such as Sati and child marriage, Indian feminists lag in key measures of progress as they face larger inequities and barriers in their sociocultural environment. (Sati is a Hindu practice in which a widow would immolate herself on her deceased husband's funeral pyre.)</p>
 
-<p>The big disconnect is that the vast majority of decisions happen without emotion, on a subconscious or near-subconscious level. But the brain has to go through a series of data assessment loops any time it has to choose a path. Every choice you make leaves another route on the table. You have to consider the road you’re not taking. That is a risk. The brain takes risk seriously. And there’s a baseline of work it has to do even if the risk is “these socks or those?”</p>
+<p>In this context, my colleagues at Fordham University—Melissa Malley, Elaine Congress, and others—who are focused on the work of the United Nations, have organized a special volume on gender perspectives from around the world. Here, Elaine Congress, professor and associate dean of social work, offered some insights about the book.</p>
 
-<p>And it triggers new routes of thinking: The sock drawer looks low. Maybe it’s time to do laundry. But is there detergent? Can you stop at the store after work? You might feel like you decided it in an instant. (No. Maybe. Probably.) But you made three decisions.</p>
-<p>This is why so many productive people eliminate all routine, early day prep. For almost all of us, any decision downstream is more important than the number of detergent pods in our hypothetical sock emergency. It doesn't feel like much at the beginning of the day because you're at full capacity. </p>
+<p><strong>Dinesh Sharma: Do you think gender issues really divide the world?</strong></p>
+<p>Elaine Congress: People in different countries may have different ideas about gender, but because of the internet and international travel, beliefs about gender are becoming more homogenized worldwide. In general, we, the editors of Global Perspectives on Gender, believe that the concept of gender is changing and becoming more fluid. </p>
 
-<p>But by the end of the day, the detergent aisle itself will feel complicated. The upside is that there are simple ways to improve this. First, start to document the smallest, “easiest” decisions. They probably are low stakes or could be removed. Obviously, clothes out the night before is the first example. Food prep, meal planning for breakfasts and weekday lunches (especially if you work from home). Next level: automated delivery of staples like toothpaste and paper towels. You won’t notice it at the beginning of the day. You will notice it at the end of the day. Consider keeping a journal if you really want to test it. My clients sometimes can correlate a particularly tough day that “started poorly,” and sometimes that start was a break in routine. </p>
+<p><strong>DS: Why did you decide to write this book in 2026 on the 80th anniversary of the UN’s founding? </strong></p>
+<p>EC: Gender has been an important issue at the UN since its founding in 1946. The UN promotes the belief that women's rights are human rights. A woman, Eleanor Roosevelt, played a major role in the formation of the UN; throughout its history, UN organizations, including the Committee on the Status of Women and now UN Women, have been influential. We wrote Global Perspectives on Gender to demonstrate the continued focus and importance of gender at the UN. Two of the UN sustainable development goals—on gender equality and reducing inequalities—focus on women's issues. </p>
 
-<p>My guess? That disruption forced a lot more decision-making early in the day, effectively stealing capacity usually available late in the workday. The fatigue probably normally hits after dinner, but today was hitting early evening. Instead of feeling like it was time to wind down for bed (decision-making after dinner is too late, feels right), they felt incompetent. <em>Why can’t I make decisions while I’m at work? </em>was their experience, but the true issue might have been that they hit their normal decision capacity sooner.</p>
+<p><strong>DS: Given that the discipline of psychology tends to be heavily focused on the experimental method, how do you think psychologists will take on this global approach posited in your edited book?</strong></p>
+<p>EC: Global Perspectives on Gender is not a research book, but it would be possible to develop both quantitative and qualitative studies to understand different approaches to gender better. </p>
 
-<h2>Decide if work decisions are depleting your entire capacity.</h2>
-<p>But think about it the other way, too. What are you doing at work that could be frictionless, so that what you want to do in your evenings has some capacity left? It could mean making your day more organized, reducing the number of meetings, getting things off your plate, and delegating. </p>
+<p><strong>DS: How do you think psychologists can fit into the UN structure, given that it is run by diplomats, economists, and lawyers</strong></p>
+<p>EC: Psychologists can have expertise in mental health and family issues. There needs to be a way this information is shared more regularly with ambassadors at the UN. </p>
+<p><strong>DS: Are you proposing a universalistic approach or a culturally relativistic approach to the gender based challenges we face? </strong> </p>
 
-<p>One pro tip about delegating to consider: Are you truly delegating <em>decisions</em>? I see clients delegate <em>work</em>, but the decisions themselves are still living with them. I hate to break your heart, but if you are still driving exactly who does what, you’re secretly micromanaging. Which is just the kind of constant decision-making that burns up energy.</p>
+<p>EC: A culturally relativist approach, as we have to be sensitive and respectful of the many different ways that people and countries consider gender. As a lifelong feminist, I cringe when I think about restrictions in dress and behavior that women in some countries face; however, I believe it would be inappropriate to insist that all women be treated in terms of a Western model. </p>
 
 
 
   
 
 
-<p>Do you work from home? See where you can make fewer choices at work. Can you have a process you repeat, like backing up your computer or watering the plant? (Yes, seriously.) Do you have a dedicated set of chargers, or do you run to another room? A real work-from-home space, not the 2020 unplanned temporary setup. More than a desk and a chair. Do you have a work-from-home lunch routine and meal prep that doesn't require decisions in the middle of the day? Work is about habits, not just physical infrastructure.</p>
+<p><strong>DS: Do you envision social psychology, as a discipline, covering the UN in the coming decades, including gender issues and challenges?</strong></p>
+<p>EC: Yes, I am very confident that social psychology can provide needed support and guidance to the UN in the years to come. In fact, social psychology, the discipline that focuses on people in their environment, can be especially helpful to the UN in understanding, negotiating, and advocating for gender equity in the future.</p>
 
-<p>And are you able to avoid making home life decisions during the workday? That’s a big one because working at an office <em>protects</em> us from making other decisions. If you’re constantly running a load of laundry, making personal appointments, and checking private email—multitasking is exhausting. I wrote more about the benefits of a work-remote option that <em>isn’t</em> home <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-work/202308/forget-wfh-the-new-place-to-work-remotely-is-better">here</a>.</p>
+<p><strong>DS: It was said, when it was founded in 1945, "The UN was not created to take mankind to heaven, but to save humanity from hell." Do you think the UN has met that objective in the preceding 80 years?</strong></p>
+<p>EC: Where would we be without the UN? It is the only place where 193 countries meet together. If we didn't have the UN, where would the world be? There would be no efforts to improve living conditions for all. The UN is far from perfect, but its continued presence and actions help to improve the welfare of all! </p>
 
-<h2>Reduce the number of decisions you make. Start small, for bigger effects.</h2>
-<p>We have a primal instinct to protect our safety. Every time you ask your brain to leave an option on the table, you’ve lit up a risk assessment. It's so deeply embedded you won’t notice when you're at capacity. You only notice when your system begins to fatigue. It's protection, not failure. And luckily, it’s hardwired. One less decision for you.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-work/202605/you-dont-have-a-choice-how-decisions-affect-your-energy" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-psychology-of-work/202605/you-dont-have-a-choice-how-decisions-affect-your-energy</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-psychology-of-work/202605/you-dont-have-a-choice-how-decisions-affect-your-energy</guid>
-            <dc:creator><![CDATA[Robert Kovach Ph.D.]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/vladislav-babienko-small.jpg?itok=fThmuff8" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Number-One Habit That Destroys Adult Friendships]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Friends</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Number-One Habit That Destroys Adult Friendships</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Imbalance in give-and-take can spell serious trouble for a friendship.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <div class="insertArea ck-widget">
+<blockquote><div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/priscilla-du-preez-_exjk18doue-unsplash.jpg?itok=KrqbkcR9" width="320" height="320" data-insert-type="image" title="Priscilla Du Preez / Unsplash" alt="Priscilla Du Preez / Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Priscilla Du Preez / Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image4_0.jpg?itok=WovKdfP_" width="320" height="320" data-insert-type="image" alt="Mellisa E. Malley" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Mellisa E. Malley</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
 </div>
 </div>
 </div>
-<p>No healthy friendship operates on a strict 50/50 split at all times. Life happens. There will be seasons when one person gives more, carries more, or needs more. However, there’s a significant difference between a temporary imbalance and a structural one. </p>
-<p>When the same person is always the one reaching out first, always the one listening, always the one who shows up — and the other person always seems to be going through something, always a little too busy, always taking — the dynamic will start to feel extractive. The driver of this derailment is one sneaky habit that, if left unchecked for long enough, will destroy a friendship: nonreciprocity.</p>
-
-<p>If you’ve ever found yourself inexplicably frustrated with a friend, despite the length of your friendship, how much others love them, or how “nice” they are to everyone else, then there’s a good chance nonreciprocity is to blame. Here are three signs that it’s affecting your friendship:</p>
-<h2>1. Interactions in the Friendship Are Zero-Sum</h2>
-
-<p>The first wheel to fly off in a friendship is usually how they show up for you. Someone who never reaches out at all is easy to label a bad friend, because that level of one-sidedness is obvious. This is precisely why people often feel confused, or even guilty, when a friendship starts to feel toxic, even though interactions aren’t totally one-sided. Your friend does reach out. You do talk regularly. There is interaction. So, what’s the problem? What many fail to realize in these scenarios is that zero-sum interactions can hurt just as much as one-sided ones.</p>
-
-<p>Consider, for instance, a friend who texts when they’ve had a terrible day and need to vent. You listen for an hour over FaceTime. Then, two weeks later, you’re going through something difficult and reach out, and they reply with a few sympathetic words before steering the conversation back to themselves. They surface when they need support; they go quiet when you do. </p>
-
-<p>Alternatively, consider the friend that’s always “brutally honest” with you when it suits them: They can easily point out red flags in your relationship or tell you that you’re being too sensitive. However, when they’re doing something you know is a mistake, suddenly they’d rather you just be supportive than give them critical feedback. Their honesty is selective; it flows in the direction that benefits them.</p>
-
-<p>In each case, the interaction exists. The key detail to note, however, is that it always tilts in their favor. As a <a href="https://doi.org/10.1016/j.ssresearch.2006.11.002">2009 study</a> notes, friendship reciprocity is one of the most meaningful indicators of social support above and beyond simply having more friends or more frequent contact. Using the National Longitudinal Study of Adolescent Health, the researchers found that reciprocated friendships were associated with stronger school belonging, which in turn independently predicted academic performance. What the research makes clear is that it’s not the quantity of interaction that matters, but whether the exchange is mutually beneficial.</p>
-
-<p>When this reciprocity is absent, your body may notice it before your mind does. Conversations that should feel stimulating will start to feel like a stress test. You leave interactions feeling depleted rather than restored. Over time, you’ll begin feeling resentment, but without the sense of a clear cause. And because nothing is overtly wrong, you may even feel guilty for questioning the friendship. </p>
-
-<p>However, the mechanism is straightforward: A relationship that consistently costs you more than it gives back will feel laborious.</p>
-<h2>2. Their Boundaries Take Precedence Over Yours</h2>
-<p>Given how popular it has become in self-help spheres, hearing someone use the term “boundaries” is often enough to signal apparent psychological sophistication. Someone who sets boundaries is self-aware; someone who enforces them is brave. By this logic, a person who carefully protects their time and energy is doing something admirable and healthy.</p>
-
-<p>But setting boundaries (or even just using language that sounds related to boundaries) doesn’t automatically mean a friendship is psychologically safe. Just as boundaries can make a relationship, they can also break one. And when they do break, asymmetry is usually to blame.</p>
-<p>Addressing asymmetrical boundary-setting can be hard in the moment, as many fear being labelled as insensitive or toxic for exposing the behavior for what it is. Worse, noticing the dynamic can be just as hard, as it often takes time to become clear.</p>
-
-
-
-  
-
-
-<p>Imagine, for example, that your friend makes it clear that they need space when they’re stressed, and that they don’t want to talk through their problems until they’re ready. <a href="https://www.psychologytoday.com/us/blog/social-instincts/202405/3-ways-to-make-healthy-sustainable-friendships-as-an-adult">As a good friend</a>, you respect that. However, a few weeks later, when you go quiet during a hard stretch, they take it personally. </p>
-
-<p>By contrast, imagine a friend who has firm boundaries around their personal time. They’ll cite this boundary often, frequently declining plans whenever they aren’t in the mood. But whenever they need your time or energy, they expect you to be available without question.</p>
-<p>The issue in both cases is that, despite the boundaries being valid, their benefits are limited because they only run in one direction. This is what researchers call boundary dissolution, an experience most people have encountered firsthand. A <a href="http://doi.org/10.1300/J135v05n02_02">2008 study</a> from the <em>Journal of Emotional Abuse</em> defines boundary dissolution as the loss of psychological distinctiveness between individuals, or the confusion of interpersonal roles. The author is direct about its consequences: The breakdown of appropriate limits between individuals significantly increases the risk for emotional harm in a relationship. Notably, the operative word is <em>appropriate</em>. Boundaries are meant to be mutual protections — structures that help <em>both </em>people feel safe and respected. When they only function to regulate one person’s experience of the friendship, they’ve been distorted into something else.</p>
-
-<p>Pay close attention to when the boundaries in your friendship are invoked, as well as to whose needs they consistently serve. If their limits are treated as non-negotiable while yours are treated as soft suggestions, those aren’t boundaries at all. <a href="https://www.psychologytoday.com/us/blog/social-instincts/202512/how-to-tell-the-difference-between-a-rule-and-a-boundary">They’re rules</a>. And living inside someone else’s unspoken rulebook, while your own needs go unacknowledged, will establish you as the less important person in the dynamic.</p>
-
-<p><em>A version of this post also appears on Forbes.com.</em></p>
+<p><em> </em></p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image3_0.png.jpg?itok=AchxSSio" width="234" height="278" data-insert-type="image" alt="Judith L. Gibbons" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Judith L. Gibbons</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
+</div>
+</div>
+</div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image1.png.jpg?itok=558BDB6D" width="240" height="240" data-insert-type="image" alt="Elaine P. Congress" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Elaine P. Congress</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
+</div>
+</div>
+</div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image2_1.jpg?itok=IFinzAPs" width="320" height="426" data-insert-type="image" alt="Uwe P. Gielen" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Uwe P. Gielen</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
+</div>
+</div>
+</div>
+</blockquote>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image4_0.jpg?itok=WovKdfP_" width="320" height="320" data-insert-type="image" alt="Mellisa E. Malley" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Mellisa E. Malley</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
+</div>
+</div>
+</div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image3_0.png.jpg?itok=AchxSSio" width="234" height="278" data-insert-type="image" alt="Judith L. Gibbons" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Judith L. Gibbons</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
+</div>
+</div>
+</div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image1.png.jpg?itok=558BDB6D" width="240" height="240" data-insert-type="image" alt="Elaine P. Congress" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Elaine P. Congress</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
+</div>
+</div>
+</div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/image2_1.jpg?itok=IFinzAPs" width="320" height="426" data-insert-type="image" alt="Uwe P. Gielen" title="Courtesy Emerald Insight Publishing"></div>
+<div class="caption">Uwe P. Gielen</div>
+<div class="insertArea--origin subtext">Source: Courtesy Emerald Insight Publishing</div>
+</div>
+</div>
+</div>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202605/the-number-one-habit-that-destroys-adult-friendships" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/leaders-in-the-making/202605/why-the-united-nations-needs-psychology" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/social-instincts/202605/the-number-one-habit-that-destroys-adult-friendships</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202605/the-number-one-habit-that-destroys-adult-friendships</guid>
-            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/leaders-in-the-making/202605/why-the-united-nations-needs-psychology</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/leaders-in-the-making/202605/why-the-united-nations-needs-psychology</guid>
+            <dc:creator><![CDATA[Dinesh Sharma Ph.D.]]></dc:creator>
             <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/priscilla-du-preez-_exjk18doue-unsplash.jpg?itok=4-QyXhlQ" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/bookimage_.jpg?itok=2e-apEq7" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Inspiration Over Happiness]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/paul_dunion.png.jpg?itok=kAwl6EWy" alt="Paul J. Dunion Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Wisdom</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Inspiration Over Happiness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Letting go of the pursuit of happiness.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Prerequisite for Agency: Self-Compassion]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-10/jon_rosemberg.png.jpg?itok=hyP5Rgyn" alt="Jon Rosemberg MAPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Learned Helplessness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Prerequisite for Agency: Self-Compassion</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What Andre Agassi's collapse reveals about how we make decisions.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Pursuing happiness can make us feel that grief, loss, and sadness are abnormal.</li><li style="margin-bottom:6px;">Feeling inspired often arises from being deeply touched, learning, or witnessing genuine love.</li><li style="margin-bottom:6px;">Inspiration can arise even in hardship, providing meaning beyond simple joy or pleasure.</li>
+              <li style="margin-bottom:6px;">Self-compassionate people make more progress than harsh self-critics.</li><li style="margin-bottom:6px;">In an experiment, after failing a test, the self-compassion group studied harder than the self-esteem group.</li><li style="margin-bottom:6px;">Self-criticism keeps the threat system on, and the field of options you can see narrows with it.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/anil-sharma-u8pl4tzuuya-unsplash.jpg?itok=bD2fciBj" width="320" height="213" data-insert-type="image" title="Anil Sharma/Unsplash" alt="Anil Sharma/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Anil Sharma/Unsplash</div>
-</div>
-</div>
-</div>
-<p>It may be time to consider a paradigm shift — a move away from the pursuit of happiness to a life of inspiration. The word <em>happy </em>was<em> </em>defined in the late 14th century as “good luck” and “feeling very glad.” Let’s take a closer look.</p>
-<h2>The Shortcomings of Pursuing Happiness</h2>
-<ul>
-<li><em>It’s difficult to pursue “good luck.”</em> Happiness is a joyous feeling that arises from a fortunate event. The idea of pursuing happiness doesn’t seem viable.</li>
-<li><em>The price for prioritizing happiness</em>. Once happiness is viewed as the way to be, other aspects of the human condition are easily frowned upon. The implication is that there’s something wrong with us if we’re not happy. Anger, sadness, loss, melancholy, grief, and desperation are given a short shelf-life with the mandate to get back to happy as soon as possible. </li>
-<li><em>Life goes misunderstood</em>. The more happiness overshadows other ways of being alive, the more we can lose perspective of how vast and valuable life is beyond being happy.</li>
-<li><em>Easy to slip into abusing substances</em>. Once we understand that we don’t have much control over pursuing happiness, substituting the high of alcohol and drugs becomes an attractive alternative. </li>
-<li><em>Candid conversations about all that happens beyond being happy can easily be avoided</em>. This can compromise learning, as many aspects of our life experience are not discussed. </li>
-</ul>
+                    <p>I keep returning to this sentence in Andre Agassi's memoir: "I play tennis for a living, even though I hate tennis, hate it with a dark and secret passion, and always have." </p>
+<p>His memoir, <em>Open</em>, came out in 2009; Agassi's career had reached its lowest point 12 years earlier, in November 1997, when he was 27 and ranked 141st in the world. Two years earlier, he'd been number one. He'd been hitting balls in his father's backyard since age 3, and that drill‑like voice had become his inner voice. In 1997, he wanted to quit, but he wouldn't let himself. "In true fashion to my process," he writes, "I rebelled against myself. I said I didn't deserve to quit."</p>
 
-<h2>The Origins and Meanings of "Inspiration" </h2>
-<ul>
-<li><em>Breath and Wind. </em>From the Greek and Latin, the word i<em>nspiration </em>means “breath and wind,” suggesting movement. We can understand the movement as taking place both emotionally and cognitively. One meaning of the word <em>inspire </em>is “to take a breath.” We can say that when we feel inspired, we take in some aspect of life, what we read, see, or hear, that serves as a muse. The result is either an act of creativity or knowledge. Something new emerges.</li>
-<li><em>Emotional movement</em>. The word for i<em>nspiration</em> in Japanese is <em>Kundu</em>, which means “deeply touched.” We can be deeply touched and moved by witnessing an act of kindness, a moment of authenticity, or an act of generosity or mercy, and by feeling welcomed and included. </li>
-<li><em>Movement of the mind</em>. Inspiration happens as we entertain a new way of thinking. This movement of thought is especially inspiring if we believe it will serve us and possibly others. Sometimes, it can be a very simple understanding of something old. That happened to me recently when I heard an actor in a film say, “It can be difficult when someone in your life is not the person you want them to be.” I am often curious about what that statement is asking of me. I typically respond by thinking it’s asking me to accept or to move on. It was a wonderful invitation to accept such difficulty and let go of excessive rumination, analysis, and criticism. </li>
-<li><em>On the chosen path</em>. In Sanskrit, the word for <em>inspiration </em>is <em>preana,</em> meaning “moves a person forward on their chosen path.” We might not realize we’re being moved forward on a chosen path. Many years ago, I was teaching philosophy and noticed my students were making many more office appointments and not talking about philosophy during them. I brought the dilemma to my mentor, who said, “They want you to hear them.” Two years later, I opened a private counseling practice where I’ve worked for the past 48 years. Students standing in a line to meet with me was my <em>inspiration. </em></li>
-</ul>
+<p>That last line stops me in my tracks every time because it's the most accurate description of a state many of us call weakness, apathy, laziness, lack of discipline, or some failure of will. Agassi ranked 141 wasn't any of these things, but he'd stopped being <em>agentic</em>. I recognize the state, and so will anyone who's spent much longer than they're willing to admit staring at that email they can't make themselves send.</p>
 
-<h2>Capturing a Moment of Inspiration</h2>
-<p>Sometimes, an inspirational movement has us either witnessing a love story or expressing one. A number of years ago, I was giving a talk on this very topic to an audience of some 50 folks. At the end of my talk, a gentleman approached me and asked if I was open to some feedback. I agreed to hear what he had to offer. He promptly said, “I won’t remember a damn thing you said, and I know I won’t ever forget how much you love it.” </p>
+<p>By agency, I mean the capacity to be an active participant in your own life—the ability to notice, in almost any moment, that more than one option is available, and then make an intentional choice. <em>Agency is the antidote to helplessness because it lets you treat what's in front of you as a question instead of a verdict. </em>The voice many of us were raised to mistake for our conscience, the one that beats us up when we fall short, is what narrows the field around us until there's nothing left to choose.</p>
 
-<p>After some initial disorientation, I decided that we all wanted to witness someone making love. It moves us into a measure of reassurance that love is why we’re here. I also realized that I only give public presentations on topics that I love. The gentleman helped me understand how inspirational it is for me to make love in public, as I reassure myself about the value of love. </p>
+<p>The research runs counter to folk theory on this. In <a href="https://journals.sagepub.com/doi/abs/10.1177/0146167212445599">one well-known experiment</a>, people who'd just failed a hard test were given one of two scripts. Half were told to be self-compassionate, to speak to themselves the way they'd speak to a friend in the same spot. The other half were told to remember what they were good at and where they'd succeeded before. Which half studied harder for the retake? The self-compassionate half, by a clear margin. They were also more willing to be around people who'd done better than they had. Compassion produced more effort, and the authors argue it may support better outcomes over time.</p>
 
-<p><em>Inspiration </em>brings us more breadth and depth than the feelings associated with happiness. A fulfilled life is not reduced to feeling merry and joyful. We might feel inspired while holding a fractured dream, a broken heart, or a trial or ordeal, and a favorable event, issuing joy and a light heart. We can move emotionally, creatively, intellectually, be nudged toward our chosen path, and renew our relationship with love. </p>
+<p>Why does compassion produce better results? Because of what self-criticism does to the body. <a href="https://self-compassion.org/wp-content/uploads/publications/GilbertCFT.pdf">Compassion-focused therapy</a> identifies three inherited emotion systems: threat/protection, drive/resource-seeking, and contentment/soothing/safeness. Chronic self-criticism can keep activating the threat system. That same system runs our fight, flight, and freeze responses and activates our survival mode. Its job is to scan for danger, not to imagine positive futures. <em>So, under threat, options collapse. You stop asking what's possible, and instead start looking for ways to protect yourself.</em></p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202605/inspiration-over-happiness" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202605/inspiration-over-happiness</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202605/inspiration-over-happiness</guid>
-            <dc:creator><![CDATA[Paul J Dunion Ed.D.]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/anil-sharma-u8pl4tzuuya-unsplash.jpg?itok=d0PJOmAY" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Talking to a New Partner About Erection Difficulty]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/aprest.png.jpg?itok=JCOfGLjY" alt="Adam Prestegord LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sex</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Talking to a New Partner About Erection Difficulty</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When and how to disclose erection difficulty.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">How to speak about erection difficulty is more important than when.</li><li style="margin-bottom:6px;">Speak matter-of-factly about erection difficulty, not apologetically.</li><li style="margin-bottom:6px;">Consider taking penetrative sex off the table, and state other ways you could enjoy being intimate.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-mikhail-nilov-6933084.jpg?itok=MiiPs9Rm" width="320" height="480" data-insert-type="image" title="Mikhail Nilov / Pexels" alt="Mikhail Nilov / Pexels"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Mikhail Nilov / Pexels</div>
-</div>
-</div>
-</div>
-<p>Whether you have a diagnosable case of erectile dysfunction or just experience occasional difficulty, discussing this with new partners can feel uncomfortable. Many men worry that they will be rejected if they disclose too soon. However, holding onto that information can also create anxiety.</p>
-<p>The following case is a composite with client details anonymized to protect privacy:</p>
-
-<blockquote><p><em>Jay was in his 40s and dating. He experienced performance pressure during sex and was on guard with new partners, fearful he would not be able to get or maintain an erection. This worry was self-reinforcing. While monitoring his genitals, he wasn’t enjoying the moment or getting aroused. </em></p>
-<p><em>This fed into negative beliefs about himself—that he was less of a man and incapable of satisfying others. He avoided disclosure, expecting to receive the same criticism from partners. He apologized repeatedly for his “failure.” When partners responded with unease, it only confirmed his beliefs.</em></p>
-</blockquote>
-
-<h2>First-Time Nerves</h2>
-<p>Erection difficulty with new partners is not a failure. It’s contextual and understandable.</p>
-<p>First-time sex can be arousing for some, but it is anxiety-provoking for many others. The stakes feel high when everything seems to ride on that one moment. They want to make a good impression and end up acting cautiously. There may be awkwardness navigating an unfamiliar person and body. They may also have expectations of how sex “should” be—specifically, that it has to be penetrative. That makes intimacy more work than play. </p>
-
-<blockquote><p><em>Jay pushed himself to have intercourse during first-time encounters, assuming his partners expected it and would be upset if it didn’t happen. He generally avoided talking about sex, not sharing what he wanted and not asking his partners what they desired either. He spent so much time in his head, trying to make the intimacy go a specific way, that he couldn’t relax. It wasn’t an erotic experience, and he wasn't getting aroused. </em></p>
-</blockquote>
-
-<h2>When to Talk About It</h2>
-<p>There are multiple times you could bring up erection concerns with a new partner. Ultimately, it comes down to personal preference.</p>
-<p>Some guys are more comfortable disclosing before meeting in person, when communication is still through an app or over text. This relieves preparatory anxiety and makes expectations clear from the start. This strategy works well when you know sex will be imminent. </p>
-
-<p>In the early stages of dating or when sex seems less likely, it can make sense to wait a bit. This allows time to get to know each other and for initial social anxiety to lower. It also creates the possibility for sex to come up naturally in the conversation rather than raising it out of the blue. </p>
-<p>Some wait until intimacy starts. This runs the risk of talking while under performance pressure, making the conversation feel more difficult. For others, that is a natural time to disclose. It feels immediately relevant. Also, there can be the hope of speeding through the embarrassing part and going right into the action (a strategy that is not always successful).</p>
-
-<p>Other men decide to not disclose until after erection difficulty has occurred. </p>
-<blockquote><p><em>This was Jay’s initial strategy. However, by the time he experienced difficulty, he was not in the mood to talk. Sad, frustrated, and awash in shame, he would abruptly leave the bedroom in silence. He assumed his partners had a bad time and would not follow up with them. When he entered therapy, he was despairing and uncertain how to talk about it.</em></p>
-</blockquote>
-
-
-<p>For some, waiting to talk means sitting in anxiety before and shame after. However, others find it to be a helpful choice: The erection difficulty might not happen, medication might reduce uncertainty, or, if it’s a one-time encounter, the fear around judgment can feel lower.</p>
-<h2>How to Talk About It</h2>
-<p>Each of the above strategies has its advantages, but what really matters is <em>how</em> you talk about it rather than when. If you come across as nervous or apologetic, that signals there is a problem, making you and your partners feel cautious and uneasy. </p>
-
-<p>The best approach is matter-of-fact: </p>
-<ul>
-<li>“Sometimes I have difficulty with erections when meeting someone new. It’s helpful if we focus on your pleasure then.”</li>
-<li>“I feel some pressure around penetrative sex. I feel more comfortable when we’re intimate in these other ways first.”</li>
-<li>“My erections can vary. I’ve learned not to worry about it. What I enjoy is...”</li>
-</ul>
-
-
-
-  
-
-
-<p>When you show you’re not concerned, your partner knows they don’t need to be either. These statements turn erection difficulties from a problem into a simple fact of life. When erection loss happens, it won’t feel like a crisis, and you won’t need to over-explain or apologize. </p>
-<p>Apologizing—especially when it is done repeatedly—does not relieve insecurity but creates it, framing the issue as problematic. Lead with the positive instead. Afterward, direct the conversation to what you enjoyed. This invites enthusiasm rather than concern.</p>
-
-<h2>What You Can Do About It</h2>
-<p>Your comfort in talking will directly depend on how you feel about the erection difficulty. Talk to a sex therapist to process any emotions around it. They can help you explore what is within your control. Shifting focus from what’s not working to what’s possible can be relieving.</p>
-
-<p>Consider your expectations for sex. Where do these expectations come from, and how do they align with your actual desires? Explore your eroticism beyond penetrative sex. What elements about your partner, the environment, or yourself increase desire? </p>
-<p>Oral medications like sildenafil support erections rather than create them. They won’t override anxiety. However, knowing you have assistance can lower self-monitoring. </p>
-
-<p>Know that getting comfortable with disclosure often means being uncomfortable at first. With experience, it can feel less daunting.</p>
-<blockquote><p><em>Jay eventually accepted that he could not change the reliability of his erections, but he could navigate it. He began talking to partners beforehand, simply stating that he wasn’t always erect during intimacy. He then pivoted to what he desired and enjoyed. This lowered his stress and allowed him to focus on the pleasure of the moment. When he stopped trying to force erections, they sometimes arrived more easily. More importantly, he learned that they didn’t need to be his sole focus.</em></p>
-</blockquote>
-
-<p><strong>To find a therapist, </strong><a href="https://www.psychologytoday.com/us/therapists"><strong>visit the Psychology Today Therapy Directory</strong></a><strong>.</strong></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/dysfunction-departed/202605/talking-to-a-new-partner-about-erection-difficulty" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/dysfunction-departed/202605/talking-to-a-new-partner-about-erection-difficulty</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/dysfunction-departed/202605/talking-to-a-new-partner-about-erection-difficulty</guid>
-            <dc:creator><![CDATA[Adam Prestegord LCSW, CST]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/pexels-mikhail-nilov-6933084.jpg?itok=WEjfU6oZ" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Could You Recognize the First Signs of Psychosis?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-06/Gerlach.jpg?itok=G33R7vSa" alt="Gerlach" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychosis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Could You Recognize the First Signs of Psychosis?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why all therapists need a working knowledge of psychosis.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Psychosis often begins subtly.</li><li style="margin-bottom:6px;">Trauma and severe stress can trigger an initial episode of psychosis in someone with a genetic risk.</li><li style="margin-bottom:6px;">Autistic individuals are at heightened risk of psychosis compared to the general population.</li>
-            </ul>
-          </div>
-                    <p>Psychosis and schizophrenia are among the most common mental health concerns. Yet, these terms remain draped in misunderstanding, even among clinicians.</p>
-<p>As a therapist who has experienced psychosis herself, I often find myself seeking to correct misunderstandings. No, not all (or even most) extreme or difficult-to-understand behavior is considered "psychosis." Yes, people can have a first episode of psychosis after their 20s, especially women (Díaz-Pons et al., 2022). In psychosis care, multiple diagnoses are often the norm, not the exception, with many individuals' experiences falling outside the straightforward confines of <em>DSM</em> criteria. Watchful waiting is not always a good idea, even when we want to protect someone from the stigma of particular diagnostic labels.</p>
-
-<p>And yes, often, people do get better.</p>
-<h2>Why All Therapists Need a Working Knowledge of Psychosis</h2>
-<p>I recognize the lack of knowledge. Psychosis is one of thousands of difficulties that lead people to see mental health practitioners, and aspects of psychosis remain mysterious even to psychosis experts and researchers.</p>
-
-<p>Still, with early detection and intervention being documented as one of the best predictors of quality of life and recovery (Salazar de Pablo et al., 2024), being able to identify the signs of psychosis and route to appropriate care when necessary is essential for mental health clinicians.</p>
-<p>Within the United States, more than 400 early psychosis specialty clinics exist. Mostly funded through a large block grant through the Substance Abuse and Mental Health Services Administration (SAMHSA), these programs offer wraparound assessment and support to individuals in the earliest stages of psychosis. Called coordinated specialty care (CSC) programs, the philosophy of these centers is that through specialized psychotherapy, family interventions, psychiatric care, peer support, and assistance with work or school, individuals experiencing psychosis can live well with their conditions.</p>
-
-<p>And the evidence has been outstandingly positive, with many such programs showing results of 80 percent of participants re-engaging with work or school after 6 months, and just 10 percent needing hospitalization after 3 months (Nossel et al., 2018).</p>
-<p>Lauri Stephens is a psychologist and senior director of Autism Services at the Help Group, which offers such an early psychosis program. I spoke with her about what clinicians and others can look out for in terms of the early signs of psychosis.</p>
-
-<p>Together, we identified four key signs.</p>
-<h2>Early Warning Signs</h2>
+<p><a href="http://wexler.free.fr/library/files/bandura%20(2006)%20towards%20a%20psychology%20of%20human%20agency.pdf">Albert Bandura</a> spent 50 years on the question of what makes a person agentic. He landed on four capacities:</p>
 <ol>
-<li><strong>Social withdrawal: </strong>When someone is experiencing psychosis, and before it, it is common for people to isolate. Symptoms like hearing voices and paranoia can make it harder to be around others. In addition, loss of interest in social interactions and trouble connecting with others are common in a first episode of psychosis. According to Stephens, it can look like this: "All of a sudden, they used to be social, but now they are no longer wanting to text people back, go to family events, or do things that they used to want to do." Still, she clarifies that while this can indicate psychosis, it doesn't always, sharing, "Someone who is experiencing extreme depression or anxiety might be showing the same social withdrawal—becoming flatter in their affect too."</li>
-<li><strong>Odd beliefs or paranoia:</strong><em> </em>Unusual beliefs about others being out to get you or reading your mind are a hallmark of psychosis. In the earliest phases, people are sometimes aware that their perceptions have been altered. This very beginning stage, sometimes called a "clinically high risk" or prodromal phase, marks what could but doesn't always become psychosis. Stephens illuminates, "The things we tend to look for are in the prodromal phase, there's a lot of uncertainty, when it moves into clear psychosis, it is real to them. The person can't usually say, 'It could be in my mind.'"</li>
-<li><strong>Changes in day-to-day behaviors: </strong>When someone is experiencing psychosis, keeping up with day-to-day tasks like cleaning, completing homework, going to school, or even showering can be very difficult. Stephens shares that others might notice "Grades dropping, changes in ability to attend and ability to deal with daily hygiene." Such changes are not caused by laziness, but rather by loss of motivation, and cognitive changes common to psychosis can make these activities feel impossible.</li>
-<li><strong>Beginning of visions and voices: </strong>Hallucinations are common in psychosis. At the start, this might look like a rustling sound in one's ear, hearing chimes when none are there, illusions, or more developed voices and visions. In Stephens' words, "The potential hearing of things that aren't there—seeing things that aren't there—the paranoia—that's where you start to think that there is some sort of different processing going on with that particular client."</li>
+<li>forming intentions</li>
+<li>imagining future actions</li>
+<li>regulating oneself</li>
+<li>reflecting on one’s own functioning</li>
 </ol>
+<p>Each of those capacities requires a nervous system not overwhelmed by threat responses.</p>
+<h2>Why self-criticism narrows your options</h2>
 
-<h2>A Complex Phenomenon</h2>
-<p>While schizophrenia is one cause of psychotic symptoms, several origins exist. The most prevailing theory of what causes psychosis involves a mix of genetic vulnerability to stress and stress/trauma, with sufficient stress being believed to ignite a cascade of biological events culminating in psychosis (Grąźlewski et al., 2023). The stress hormone cortisol appears to be a key player, with individuals at high risk of psychosis having alterations in the cortisol awakening response. </p>
+<p>The belief that sheer discipline solves most problems is longstanding and has garnered strong traction in public discourse, from the Stoics down to whichever business book is on the airport shelf this week, and sometimes it manifests as this: Self-criticism is the load-bearing wall of high performance. Take the wall down<strong>,</strong> and the structure caves. Stop the voice that says you should be better, and you spend the rest of your life becoming the kind of person you used to pity.</p>
 
-<p>Stephens shares, "Trauma exposure has a high correlation with psychosis, and there is a genetic component. When you put the genetic component in with these extremely high stressors, it becomes very difficult to cope." She expands, "PTSD and trauma have a high comorbidity with psychosis."</p>
-<p>Stephens emphasizes that it is important to ask, "Could this be because of extreme and new kinds of stress? In those cases, we might deal with that instead of moving straight into medication management for psychosis...It is a dual-modality treatment of trauma-informed care and treatment for psychosis."</p>
+<p>There's something to the worry. Standards matter, and an honest appraisal of where you fell short is an important part of personal growth, but it doesn't mean you need to be your own enemy. Decades of research on <a href="https://guilfordjournals.com/doi/10.1521/jscp.2007.26.7.826">goal pursuit</a> show that people who can hold their shortcomings without making them a verdict on who they are make more progress, ruminate less, and quit less often. Self-compassionate people <a href="https://www.tandfonline.com/doi/abs/10.1080/13576500444000317">pursue mastery </a>more readily because they're less afraid of failing. Mike Agassi's brand of appraisal produced a number one player in Agassi by 1995. Two years later, the same appraisal had taken the same player apart.</p>
 
-
-<p>Autistic individuals are also at a heightened risk of psychosis. Stephens reflects, "Out of our population, about 35 percent either carry an autism spectrum diagnosis or are suspected of having an autism spectrum diagnosis."</p>
-<h2>Closing</h2>
-<p>What is most important to know is that the outlook for people experiencing psychosis is bright. People living with these conditions can have meaningful relationships and chase their dreams just like everyone else. A study that followed people who received treatment for a first episode of psychosis over 10 years found that 60 percent reported satisfaction with their lives, a number likely comparable to the general population (Simonsen et al., 2024).</p>
-
-<p>For those in need, SAMHSA offers a <a href="https://www.samhsa.gov/find-help/locators/esmi">treatment locator</a> for early psychosis care. To find a therapist near you, visit the <a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today</em> Therapy Directory.</a></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/beyond-mental-health/202605/could-you-recognize-the-first-signs-of-psychosis" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/beyond-mental-health/202605/could-you-recognize-the-first-signs-of-psychosis</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beyond-mental-health/202605/could-you-recognize-the-first-signs-of-psychosis</guid>
-            <dc:creator><![CDATA[Jennifer Gerlach LCSW]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-alexeydemidov-9505424.jpg?h=afcfdb10&amp;itok=FX8zDAqs" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are You Telling the Wrong Story About Your Exhaustion?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/AlbaneBrandPhoto-272-5679-removebg-preview.jpg?itok=hc6kjL3R" alt="Anna Katharina Schaffner Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Burnout</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are You Telling the Wrong Story About Your Exhaustion?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Self-blame, systems, brain wiring, and the metaphors that can shape recovery</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">We rarely experience exhaustion neutrally; we interpret it through stories.</li><li style="margin-bottom:6px;">Self-blaming, structural, and neurological explanations can all help us make sense of our fatigue.</li><li style="margin-bottom:6px;">Metaphors matter: Depleted batteries, empty tanks and burnout metaphors may not always help.</li><li style="margin-bottom:6px;">The stories we tell about exhaustion shape our experience of it and what kinds of cures we seek.</li>
-            </ul>
-          </div>
-                    <p>I have always been fascinated by the stories and metaphors we use to describe our inner lives. Often things of beauty, they are also highly revealing. We reach instinctively for story and metaphor because what goes on inside us can be difficult to describe in plain language. Stories and metaphors allow us to translate sensations and moods into shared images. They help us communicate what is otherwise diffuse, slippery and elusive. They illuminate the shifting weather systems of our inland empires.</p>
-
-<p>But stories and metaphors don’t merely describe experience. They also shape it. This matters profoundly when it comes to exhaustion.</p>
-<h2>Exhaustion Stories</h2>
-<p>The stories we tell about our energy – what gives us energy, what drains it, and why we struggle to replenish it – are rarely neutral. Most of us inhabit one of several dominant exhaustion narratives, often without realising it.</p>
-
-<p>Many of us tell self-blaming stories. We tell ourselves that we are simply not productive enough — that we are inefficient, badly organised, lacking in discipline. We believe we are poor time managers, hopeless procrastinators constitutionally incapable of keeping up with life’s demands. If only we were more focused, more resilient, more consistent, less distractible, and more optimised, we imagine, we would not constantly feel this tired.</p>
-
-<p>We may also tell world-blaming stories about the causes of our exhaustion. In this narrative, exhaustion becomes the fault of toxic bosses or colleagues, dysfunctional workplaces, impossible expectations, and cultures of relentless performance. </p>
-<p>Or perhaps we blame broader social structures: We may focus on the many discontents of neoliberal techno-capitalism, including the mandate to optimise for competitive advantages at all times, digital hyperconnectivity, economic precarity, and the tyranny of productivity culture. These stories, too, contain truth. Many workplaces are genuinely depleting. Many organisational cultures reward overwork and glorify permanent reachability. There are good reasons why burnout has become one of the defining maladies of our age.</p>
-
-<p>Increasingly, we also tell neurological stories about our exhaustion. We speak of different brain wiring, executive functioning management, cognitive load and nervous system overwhelm. Neurodivergence has given many of us explanatory frameworks that are genuinely liberating. Diagnoses of ADHD and autism can illuminate patterns that previously felt baffling or shameful. Many people discover, often with considerable relief, that what they had interpreted as personal failure may in fact involve the energetic cost of masking, manually managing executive function, or navigating environments poorly designed for our unique attentional style.</p>
-
-<p>These narratives matter because they help us make sense of our experience. They can offer validation, meaning, and self-understanding. Yet people have always told stories about energy and its depletion. Some of these past narratives can be illuminating, too, and help us look at our own struggles from a different perspective. </p>
-
-<p>In the past, people have understood the causes of exhaustion as blockages in our internal system of meridians which prevent our life energy from travelling unhindered, an imbalance of the four bodily humours, the result of the energy-draining qualities of the planet Saturn or demonic forces, toxic vapours emerging from stagnant waters, or as constant overstimulation of our sensitive nervous systems resulting from a faster pace of life.</p>
-
-
-<h2>Metaphors Matter</h2>
-<p>Consider also the metaphors we use to describe exhaustion. One particularly insidious modern metaphor is the mind-as-computer model. It encourages us to think of our inner life as determined by hard-wiring, programming, glitches, overload, depleted batteries, on-and-off switches, and psychological malware. This metaphorical family has become so pervasive that we barely notice it.</p>
-
-<p>Yet we are in no way like computers, nor should we aspire to be. We are relational and creative creatures – embodied, embedded and encultured, constantly interacting with our environments. We are not machines, clockworks or automatons. Our resources are not infinite. We need regularly to stop, rest, and replenish ourselves. That is not a design flaw. It is part of what makes us human. </p>
+<p><a href="https://www.annualreviews.org/content/journals/10.1146/annurev.me.23.020172.002203">Marty Seligman</a> gave the older version of this a name in the 1970s: <em>learned helplessness</em>. The finding was that when a person stops believing that their actions change outcomes, their field of perceived options collapses. They stop trying because trying no longer registers as something they can do. Self-criticism runs the same loop inside your head. When every misstep reads as proof of a flawed self, the question "What can I do differently?" no longer matters.</p>
 
 
 
   
 
 
-<p>When describing their exhaustion, many of my clients reach for imagery of empty batteries, drained tanks, and overdrawn accounts. Their language revolves around depletion. Energy becomes a commodity that must be managed and invested as carefully as our financial resources. Burnout itself is, of course, a metaphor. It suggests that we have consumed a limited reserve too quickly, burning the candle at both ends until nothing remains.</p>
+<p>Agassi's comeback included the biggest one-year leap into the top 10 in the history of the ATP, five more Grand Slam titles, and a return to Number One at age 29. The way he tells it, the change came as a result of the support from the people around him: his coach Brad Gilbert, his trainer Gil Reyes, and a small circle of friends who became like a family. They offered him the kind of support his father had never offered, they treated his suffering as their business, and, most importantly, <em>his decisions as his own</em>. The harsh voice didn’t leave, but other voices came in alongside it. The field he could see, and the options within it, got much wider.</p>
 
-<p>The problem is that some of these metaphors can be unhelpful. If our batteries are empty, if our fuel tanks are dry, if we are burnt out, the implication is that we have foolishly squandered a limited allowance. Recovery appears mechanical and moralised at once. We are depleted because we mismanaged ourselves. And somewhere beneath the surface lurks the accusation that this is, ultimately, our own fault. </p>
-
-<h2>H is for Heaviness</h2>
-<p>A very different metaphorical tradition understands exhaustion not as depletion but as heaviness. This imagery has always resonated more deeply with me. When I am exhausted, the dominant sensation is not emptiness but gravity. All activity becomes effortful. Walking feels strangely laborious. My legs seem glued to the ground. Speech slows. My eyes narrow, wanting to close. Gravity’s laws become tyrannical. It feels as though the cosmos itself has conspired to pull me down. </p>
-
-<p>Why does heaviness speak so powerfully to experiences of exhaustion? The linguists George Lakoff and Mark Johnson argue that many of our metaphors are rooted in bodily experience. Perhaps heaviness feels true because exhaustion quite literally alters our bodies. We slump. We bow our heads. We round our shoulders. We move as though carrying invisible weight. Thoughts themselves become oppressive despots, pressing upon our life force and urging us toward collapse. </p>
-
-<p>Yet here is the main reason I prefer heaviness imagery: Heaviness can lift. It tells an altogether different, more hopeful story.</p>
-<p>Unlike depleted batteries, faulty wiring, or permanently damaged machinery, heaviness suggests a temporary state rather than an irreversible condition. Clouds gather and disperse. Weather changes. Gravity loosens its oppressive grip. When heaviness lifts, we once again feel light. There is spring in our step. Our bodies cease to feel like burdens. Our thoughts levitate. We are among the effortlessly upright again.</p>
-
-<p>This does not mean denying the reality of structural pressures, neurological differences or genuine psychological suffering. The burnout crisis is real. Its causes are often multiple and deeply entangled, including inner and outer factors. But the stories we tell about our exhaustion still matter because they shape what we believe is possible, and how we seek to cure it.</p>
+<p>This is the part we get wrong as a culture (and I include myself in that “we”): Standards don’t need to change just because you’re more compassionate toward yourself. What changes when you’re not bracing for impact are the options you can see and choose from. Self-compassion is the ground you put under your feet before any of the walking begins. We’ve been asking it to be the prize at the top of the climb, and the order’s been wrong all along.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202605/are-you-telling-the-wrong-story-about-your-exhaustion" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/a-guide-to-thriving/202605/the-prerequisite-for-agency-self-compassion" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202605/are-you-telling-the-wrong-story-about-your-exhaustion</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202605/are-you-telling-the-wrong-story-about-your-exhaustion</guid>
-            <dc:creator><![CDATA[Anna Katharina Schaffner Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/a-guide-to-thriving/202605/the-prerequisite-for-agency-self-compassion</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-guide-to-thriving/202605/the-prerequisite-for-agency-self-compassion</guid>
+            <dc:creator><![CDATA[Jon Rosemberg MAPP]]></dc:creator>
             <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/shutterstock_2612316709.jpg?itok=lgwxSmeT" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Therapists Can Help Rebuild Our Attention]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/DGraham_Eve.jpg?itok=17L4ceMN" alt="D. Graham  Burnett, Ph.D., and Eve Mitchell" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Attention</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Therapists Can Help Rebuild Our Attention</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Sanctuaries of attention can collaboratively support our attentional health.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Technological and economic shifts have placed human attention under unprecedented strain in the last 15 years.</li><li style="margin-bottom:6px;">Attention activism rests on three pillars: study, organizing, and building sanctuaries to protect attention.</li><li style="margin-bottom:6px;">Therapy is itself an attention sanctuary, fostering rich joint attention through shared time and copresence.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">Therapists work at the intersection of the art and the science of human attention. This has never been more important because cultural, economic, and technological changes have, in the last 15 years, placed our attention under unprecedented strain. </p>
-<p dir="ltr">The good news is that people are banding together in new ways to protect and support human attention through collective action and solidarity. This emerging movement is called “Attention Activism.” Attention activism rests on three pillars: study, the open exploration of what collective attention is and can be (and consciousness-raising of the forces that threaten it); organizing, building coalitions on the common ground of protecting our attention; and sanctuary, the curation and cultivation of spaces where collective attention can be practiced, protected, and nurtured. </p>
-
-<p dir="ltr">Therapists are attention activists. We study our own attention in school and supervision; we advocate and organize for client well-being through our care and attention; and, in the course of our therapeutic engagements, we are stewards of a unique kind of attention sanctuary for our clients. But while therapeutic attention is a powerful form of joint attention, it struggles in a landscape ravaged by extractive attention industries—the “<a href="https://podcasts.apple.com/gb/podcast/human-fracking-ai-and-the-capture-of-attention/id1108741194?i=1000758078739">human fracking</a>” business model of big tech. Therapeutic attention alone may not be sufficient to help ourselves or our clients navigate this new world. More active and collaborative commitments are needed. </p>
-
-<h2>Attention Sanctuary</h2>
-<p dir="ltr">The third pillar of attention activism, sanctuary, is central to the overlap between our discipline and the urgent work of rehabilitating attentional health. Attention sanctuary emphasizes both (1) the protection of forms of attention particularly vulnerable to extraction and (2) the cultivation of non-commodifiable forms of attention. The classroom is an attention sanctuary, as are places that have a long legacy of providing space for human attention, like houses of worship, libraries, and museums. </p>
-
-<p dir="ltr">The therapeutic space is, by its very nature, an attention sanctuary. The formalized agreement between client and clinician, who agree to work toward a common goal of wellness by means of shared time and copresence, creates special “sanctuary” conditions, which then permit a rich, productive quality of joint attention to develop.</p>
-
-<p dir="ltr">Collaborative social practices for the creation of attention sanctuaries must become a standard component of attentional health. As a corollary of our training, therapists know how to foster sanctuary. As therapists and attention activists, we are ideally positioned to educate others outside of the therapeutic space on how to set the stage to effectively, collectively confront the unique issues of our time alongside other attention activists. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11998473/">Community guidelines</a> and consensus practices to facilitate authentic <a href="https://www.priyaparker.com/gathering-toolkit">gathering</a>—these are increasingly important to psychological well-being in families, friend groups, and civic settings.</p>
-
-<p dir="ltr">Of the many coalitions that have been forming around the issue of attention activism, the nonprofit <a href="https://www.schoolofattention.org/">Strother School of Radical Attention</a> (SoRA, with which we are both affiliated) has focused on developing programming around cultivating such forms of non-commodifiable attention, to build coalition across disciplines, and to codify guidelines for building sanctuary. Born out of work by the <a href="https://friendsofattention.org/">Friends of Attention</a> (a nonprofit group of artists, activists, and scholars), SoRA aims to develop tailored, scalable, grassroots changes at the local, national, and international levels. While SoRA is a school in the sense that it is an institute that supports education, it is also a school in the sense of being a school of thought: a movement toward human flourishing in a time of great cultural flux. </p>
-
-<p dir="ltr">Professionals in a variety of disciplines (including K-12 education, the arts, academia, and business) are finding their way toward attention activism using the materials SoRA has made publicly available. The field of therapy would be well-served in taking on the mantle of attention activism and adopting this new school of thought, developing theories, practices, and interventions in line with the needs of our cultural moment. </p>
-
-
-<h2>Conclusion</h2>
-<p dir="ltr">Therapeutic professionals have much to learn from this movement, as well as much to contribute. The successful therapeutic encounter hinges on particular forms of attention, rooted in care and the cultivation of joint, durational experiences of reflection and exchange. The rise of a new, multi-trillion-dollar industry that commodifies human attention presents novel challenges for individual and social well-being and can be understood to threaten key aspects of the attentional capacities on which clinicians and clients must draw in successful therapeutic work. Because of these developments, clinicians and clients alike would do well to engage with the emerging movement to protect human attention from the adverse effects of the “human fracking” business models of big tech and to consider the positive opportunities to cultivate, collaboratively, new kinds of attention sanctuaries. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/free-floating-attention/202605/how-therapists-can-help-rebuild-our-attention" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/free-floating-attention/202605/how-therapists-can-help-rebuild-our-attention</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/free-floating-attention/202605/how-therapists-can-help-rebuild-our-attention</guid>
-            <dc:creator><![CDATA[D. Graham  Burnett, Ph.D. and Eve Mitchell, LMHC-D, MS.Ed.]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/alt_psych_today.jpg?itok=xQd9dCyh" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leading Through Low Morale]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/headshot_jpeg_1_.jpg?itok=QPc9lY9y" alt="Ashley C. Jordan Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Leading Through Low Morale</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Navigating adaptive challenges at work.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Workplace morale problems rarely have quick fixes or simple technical solutions.</li><li style="margin-bottom:6px;">Strong leaders resist rushing to solutions before fully understanding the problem.</li><li style="margin-bottom:6px;">Employees closest to the work often have the clearest insight into needed change.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/dancefloor.jpg?itok=P8Z7uq29" width="320" height="214" data-insert-type="image" title="AI-generated with ChatGPT / OpenAI" alt="AI-generated with ChatGPT / OpenAI"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI-generated with ChatGPT / OpenAI</div>
-</div>
-</div>
-</div>
-<p dir="ltr">We’ve all been there: Maybe there’s been an economic downturn leading to layoffs and turnover, or maybe the company has been acquired and is going through a major restructuring with plenty of growing pains and changing expectations along the way. Or maybe there’s simply a new boss whose new policies and procedures clash with those of the department they’re charged with leading. Whatever the reason, most of us have experienced workplace climates that are less than ideal. The problem is that low morale is like a virus—it spreads quickly and can be difficult to contain once it takes hold.</p>
-
-<p dir="ltr">Additionally, once morale is low, there’s little incentive to be engaged or do one’s best work. Productivity suffers, potentially exacerbating problems within the organization and creating a negative feedback loop of employee dissatisfaction and poor output.</p>
-<h2>If you are charged with leading such a unit, what role can you play to help turn things around?</h2>
-
-<p dir="ltr">According to researcher Ronald Heifetz and colleagues at Harvard’s Kennedy School, the solution may be more nuanced than one might think. One of the most common leadership mistakes in these situations is treating the problem like a technical challenge. Technical challenges are those with known solutions. This might look like fixing a broken process or implementing a system to solve a recurring issue. Unfortunately, the scenarios described above are not technical in nature; they are adaptive challenges.</p>
-
-<p dir="ltr">Adaptive challenges are ones where the solution isn’t immediately known and often requires novel approaches, differing perspectives, and broad weigh-in from others.</p>
-<p dir="ltr">If morale is low because there have been recent layoffs and job security feels questionable, no amount of new process or policy will help fix that problem overnight. It’s going to take time. </p>
-
-<p dir="ltr">Fortunately, researchers have offered a roadmap for navigating situations where a clear solution may not exist.</p>
-<h2>Pause </h2>
-<p dir="ltr">Resist the urge to make changes immediately. There is power in the pause. Remedying complex adaptive challenges in the workplace takes time. Start by taking an honest assessment of the situation. Heifetz uses the analogy of a dance floor. So often, we’re in the middle of the action on the dance floor. That’s where the work happens, after all. But the best first move is often to step back.</p>
-
-<p dir="ltr">Move from the dance floor to the balcony. This observational position allows you to look at the problem from a higher vantage point. When you’re not in the middle of the action, larger dynamics driving the problem may become visible. To be clear, this is not an outright abandonment of the dance! You’ll need to step back onto the floor to effectively respond, decide, and manage. But take some time to step back first. </p>
-
-<h2>Empower the people </h2>
-<p dir="ltr">Adaptive challenges are best solved by the people living them, not by leaders acting on them. One of the best things a leader can do is create an environment with <a href="https://www.psychologytoday.com/us/blog/leading-with-connection/202601/the-building-blocks-of-belonging-at-work">psychological safety</a>, where employees feel comfortable expressing their views. Who best understands the quirks of a system or piece of technology? The people using it every day. Or better yet, the new employees who are baffled by the workarounds needed just to function in their jobs. Managers are often too removed from the day-to-day realities. Frontline employees are often best positioned to describe the issues and suggest changes that are actually meaningful and beneficial.</p>
-
-<h2>Sit with the ick </h2>
-<p dir="ltr">Sorting through the different facets of a problem can feel deeply uncomfortable. However, it’s a mistake for leaders to start throwing solutions at the problem before it’s been properly understood and diagnosed. Heifetz and colleagues (2009) refer to the productive zone of disequilibrium as “a state that creates enough discomfort to induce change but not so much that they fight, flee, or freeze.” </p>
-
-<p dir="ltr">From this perspective, if you turn up the heat too high, employees may enter a fear response that leads to unproductive outcomes. But if you don’t turn up the heat at least a little, there’s little motivation for change. Skilled leaders allow people to sit with discomfort long enough for real learning and adaptation to happen, without allowing the discomfort to become destructive.</p>
-
-
-
-  
-
-
-<p dir="ltr">Boosting low morale is a complex challenge without an easy one-size-fits-all solution. But the most effective leaders are those who can steward their people well even during difficult times. They don’t try to solve adaptive problems with technical solutions. They step back to see the bigger picture, talk directly with the people involved, and thoughtfully weigh options rather than slapping a band-aid on an issue that’s bound to resurface.</p>
-
-<p dir="ltr">Perhaps most importantly, they use their influence to create a culture of belonging—one where people feel safe pointing out problems, disagreeing with decisions, and voicing their opinions. The best defense is a good offense. By proactively including diverse viewpoints, encouraging weigh-in from everyone, and thinking critically about innovative, outside-the-box solutions, leaders give themselves the best shot at success.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/leading-with-connection/202605/leading-through-low-morale" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/leading-with-connection/202605/leading-through-low-morale</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/leading-with-connection/202605/leading-through-low-morale</guid>
-            <dc:creator><![CDATA[Ashley C. Jordan Ph.D.]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/work_stress.jpg?itok=rL9BbAw-" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Institutions Behave Like Narcissistic Lovers]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/joyce-vromen.jpg?itok=cIRNd2WD" alt="Joyce Vromen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Workplace Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Institutions Behave Like Narcissistic Lovers</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The very real psychological consequences of systems without humane correction.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Institutions need humane leadership, compassionate policies, and the capacity for self-correction.</li><li style="margin-bottom:6px;">Without humane safeguards, institutions risk reproducing toxic relational dynamics.</li><li style="margin-bottom:6px;">Institutions often operate like narcissistic lovers: demanding devotion while lacking reciprocal empathy.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/hello__1_.jpg?itok=s9vZMeVZ" width="320" height="320" data-insert-type="image" alt="Institution is king without humane touch" title="Just dance / Shutterstock"></div>
-<div class="caption">Institution is king without humane touch</div>
-<div class="insertArea--origin subtext">Source: Just dance / Shutterstock</div>
-</div>
-</div>
-</div>
-<p>Many people leave workplaces—including politics, universities, and healthcare systems—feeling profoundly disoriented. Not merely exhausted, but psychologically diminished.</p>
-<p>They often describe feeling unseen, replaceable, manipulated, blamed, or emotionally erased. They feel traumatized, with all the consequences that come with that.<br><br>One recent study asked early career academics about their work experiences, and it highlights this rhetoric and responsibility on a microlevel (Martínez-Goñi et al., 2026).</p>
-
-<p>Often, the language sounds less like organizational dissatisfaction and more like the aftermath of a toxic relationship of sorts.</p>
-<p>And indeed, there are parallels. Institutions regularly appear to operate with the emotional profile of narcissistic lovers: demanding devotion while lacking reciprocal empathy.</p>
-
-<p>Not that institutions are clinically narcissistic, but they are often large systems that optimize for self-preservation, image management, and risk avoidance, full of unchallenged hierarchy and continuity of power. </p>
-<p>Without humane correction mechanisms and enhancements, like good leadership, diversity, and staff policies, institutions can begin to resemble relational dynamics associated with narcissism.</p>
-
-<h2>Humane Enhancements</h2>
-<p>To avert psychological harm and ensure thriving people as well as institutions, we need human "interference." Institutions need leaders, policies, and cultures where</p>
-<ul>
-<li>compassion, </li>
-<li>reasonable flexibility, </li>
-<li>relational accountability, </li>
-<li>context sensitivity, </li>
-<li>repair and discussion</li>
-<li>and diversity </li>
-</ul>
-
-<p>act as restorative buffers.</p>
-<p>Without these in place, top-down and ingrained in institutional culture, institutions risk becoming psychologically extractive in a toxic manner.</p>
-<h2>The Parallels With Narcissistic Relationships</h2>
-<p>There are several parallel processes in toxically extractive workplaces that are akin to narcissistic dynamics.</p>
-
-<p><strong>1. Idealization followed by devaluation</strong></p>
-<p>Institutions often recruit staff with grand language: </p>
-<ul>
-<li>“mission” </li>
-<li>“excellence” </li>
-<li>“changing the world” </li>
-</ul>
-<p>Companies often treat new staff as promising, talented, and "better than." Think, for example, of the large jumps in salary that can be gained by jumping companies. But they often devalue people once they become inconvenient, ill, disabled, pregnant, dissenting, or exhausted. And this is often further compounded for minority groups—the immigrant-background politician with mental health struggles, the pregnant Ph.D. student, the disillusioned female surgeon. </p>
-
-<p><strong>2. Conditional worth</strong></p>
-<p>People are valued primarily for productivity, compliance, prestige, output, and optics. And while understandable from a productivity perspective, this, in the absence of supportive policies, relates closely to burnout culture. As we practice in therapy, worth and productivity can be separated, and this does not have to harm the bottom line or become a hippy approach.</p>
-
-<p><strong>3. Gaslighting through bureaucracy</strong></p>
-<p>People are told: “We care about well-being,” while at the same time systems structurally produce harm—words and behaviours that don’t add up. </p>
-<p>The contradiction creates cognitive dissonance. And it is especially pronounced in politics, healthcare settings, universities, and around diversity, equity, and inclusion (DEI) rhetoric.</p>
-
-<p><strong>4. Punishment for authenticity</strong></p>
-<p>Whistleblowers and neurodivergent people often destabilize institutional image management. Thus, institutional systems, when left unchecked, reward masking, silence, performative positivity, strategic conformity, and lack of diversity. </p>
-<p><strong>5. Lack of genuine repair or conversation</strong></p>
-
-
-
-  
-
-
-<p>Importantly, human relationships survive ruptures and grow through:</p>
-<ul>
-<li>taking accountability </li>
-<li>genuinely expressed remorse</li>
-<li>repair conversations and behaviours </li>
-<li>flexibility solution seeking and iteration </li>
-</ul>
-<p>But often, institutions offer procedural responses instead of relational repair at best and silence or punishment at worst.</p>
-
-<h2>Healthy Institutions Need a Humane Touch</h2>
-<p>Healthy institutions are not merely efficient and productive. They are capable of repair, humility, dialogue, and recognition of complexity. Without these humane enhancements, institutions risk becoming psychologically corrosive and toxic, asking people for devotion while remaining fundamentally incapable of mutual empathy and often doing active harm.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/divergent-minds/202605/when-institutions-behave-like-narcissistic-lovers" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/divergent-minds/202605/when-institutions-behave-like-narcissistic-lovers</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/divergent-minds/202605/when-institutions-behave-like-narcissistic-lovers</guid>
-            <dc:creator><![CDATA[Joyce Vromen Ph.D.]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/hello__1_.jpg?itok=WmnSvE6M" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Problem With Eating and Moving by Numbers]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/pt_profile_pic_troscianko_oct_2017.jpg?itok=vertU7Wg" alt="Emily T. Troscianko" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Eating Disorders</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Problem With Eating and Moving by Numbers</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Reclaiming our bodies from the tyranny of measurement culture.</h2><p style="font-size:0.9em;color:#666;">Posted May 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A simple magic-wand question about the eating-disorder field yielded an answer about the problem with numbers.</li><li style="margin-bottom:6px;">The overuse of quantification often contributes to unreflective, patronizing, and ineffective moralizing.</li><li style="margin-bottom:6px;">We're doing damage by making everything numerical, but we can reverse the trend.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-marta-longas-1449108-3143082.jpg?itok=aaDTym2j" width="320" height="321" data-insert-type="image" title="Marta Longas / Pexels" alt="Marta Longas / Pexels"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Marta Longas / Pexels</div>
-</div>
-</div>
-</div>
-<p>Whatever field we work in, things to get annoyed, frustrated, even angry about are probably easily found. It can be good to temper them with the creativity that comes from pretending, for a brief liberated moment, that there are no constraints: that we have a magic wand and a wish to be granted, and no need to be depressed or resentful anymore. </p>
-
-<p>Amongst the many great questions that a recent spell of career coaching involved, one of them did this for me. Of my work with eating disorders and recovery, my coach asked: If you could make one change in the system, what would it be? And my off-the-cuff answer was: I’d change how we think about healthy eating and movement from numbers-based to instinct-based. </p>
-
-<p>Losing your instincts by replacing them with numbers is often somewhere close to the centre of how an eating disorder takes hold. (In <a href="https://www.psychologytoday.com/us/blog/a-hunger-artist/201004/anorexia-and-the-invisible-changes-to-its-immovable-rules">one early post</a>, for example, I explored the weirdness of how eating-disorder rules that seem at any given moment immovable nonetheless evolve enormously over the years—and how their numerical guises help the arbitrary appear absolute.) So in a simple sense, this imagined magic is a reversal of that, at a global scale: gathering all the labels and apps and guidelines and scales into one enormous bonfire and letting the ashes feed the regrowth of intuition, appetite, and all the other forms of bodily self-knowledge.</p>
-
-<p>It’s a rousing image, to me at least, and it comes from a good-hearted desire to see the world freed of its self-made shackles. It’s also, like most inspirations, a bit more self-centred than that. For whatever set of nature/nurture reasons, I’ve always hated the feeling of being talked down to. And that feeling has grown more or less inescapable in public health initiatives relating to food and exercise—and it’s created primarily via numbers. Lots and lots and lots of them! </p>
-
-<p>They start us young with the patronizing, I suppose because it seems more justified with a 5-year-old than a 50-year-old. But kids are good at spotting when they’re being talked down to, and <a href="https://www.psychologytoday.com/us/blog/a-hunger-artist/202504/nonconformist-coping-strategies-in-treatment-and-prevention">I’ve mused</a> (in a series on why we need to take the drabness out of healthcare) on what it would mean to give schoolchildren enough credit to let them work out where their own dangers lie and how they want to ward them off—if indeed they want to.</p>
-
-<p>In the long messy document of “blog ideas” that lives on my hard drive, one snippet that encouraged me to start this series now was a <em>New York Times</em> <a href="https://www.nytimes.com/2026/05/04/dining/food-pleasure-mindful-eating.html">piece</a> by Pete Wells called “Is Loving Food the Secret to Eating Less of It? The case for ditching self-denial and embracing enjoyment.” Introducing an initiative designed to get children interested in veg, Wells writes:</p>
-
-<blockquote><p>“These kids have never been taught that broccoli or apples or lettuce is something they might enjoy,” Ms. Wilson said. “They have been told, ‘Eat five a day.’ But none of those are things that make someone, least of all a child, want to pick it up and eat it.”</p>
-<p>Public health campaigns for eating well seem to fall back on images that haven’t changed much since the 1950s, relying heavily on shiny raw produce that looks rather chaste. Nutrition has never had anything remotely like the ads at the height of the AIDS epidemic that promoted safe sex with images of hot, horny, entwined young people. Instead of fighting pleasure, those campaigns recognized it as a powerful motivator and enlisted it in the cause.</p>
-</blockquote>
-
-
-<p>Just as “just say no” has always failed as a health message, “make sure you count” always will too, I think. Imagine what might happen if we got inventive about how to help people want and delight in things that are truly good for them, instead of only ever trying to set want against need, temptation against goodness, desire against virtue, willpower against sloth—all of it with an emphasis on helping big companies make big money.</p>
-
-<p>One <em>NYT</em> reader, Sarah from Iowa, offered the opening lines of Mary Oliver’s poem “Wild geese” in response:</p>
-<blockquote><p>You do not have to be good.<br>You do not have to walk on your knees<br>for a hundred miles through the desert, repenting.<br>You only have to let the soft animal of your body<br>love what it loves. </p>
-</blockquote>
-<p>The series that begins here will be an exploration of how these soft animals that are our bodies have been systematically prevented from loving what they love, why this matters so much (to eating-disorder recovery and prevention and in many other ways), and what we can do about it. It’s a line of argumentation that is probably implicit in almost everything I’ve written on this blog over the past 17 years—in posts on anything from self-weighing and target weights to recovery meal plans and powerlifting, from “wasting time” to letting go or “letting yourself go”. And I think it’s high time to make it more explicit: numbers have their uses, of course, but they are terribly easily abused, because the machines put them at our fingertips and we humans are suckers for false precision.</p>
-
-
-
-  
-
-
-<p>So, in the forthcoming parts of the series, we’ll cover aspects of the “living by numbers” problem including:</p>
-<ul>
-<li>illustrations of just how prevalent the numbers-centric approach has become, in the realms of diet, exercise, and beyond;</li>
-<li>reasons why the count-everything approach to food and movement is winning out against others despite lack of efficacy;</li>
-<li>a priori reasons to be suspicious of it;</li>
-<li>evidence of its successes and its failures, including its unintended harms;</li>
-<li>ideas about what we could do to weaken its power;</li>
-<li>and caveats, nuances, open questions, and suggestions.</li>
-</ul>
-
-<p>I hope that the upshot won’t be merely a bland reiteration of the “trust your body, not the numbers” diktat, but instead a clearer view than we might have had before about the role of certain kinds of numbers in matters of life, death, and lives worth living. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/a-hunger-artist/202605/the-problem-with-eating-and-moving-by-numbers" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/a-hunger-artist/202605/the-problem-with-eating-and-moving-by-numbers</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-hunger-artist/202605/the-problem-with-eating-and-moving-by-numbers</guid>
-            <dc:creator><![CDATA[Emily T. Troscianko]]></dc:creator>
-            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-marta-longas-1449108-3143082.jpg?itok=bU3iykmL" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-pixabay-60689.jpg?itok=Zh4SO4eY" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
