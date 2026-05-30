@@ -4,388 +4,621 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 15:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 17:06:34 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 15:08:22 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 17:06:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Single Parents Are Unhappier Than Coupled Parents]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/e1_edited.jpg?itok=z6uf8KQT" alt="Sebastian Ocklenburg, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Single Parents Are Unhappier Than Coupled Parents</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A new study investigated happiness in single parents.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Trust Didn't Collapse. It Fractured.]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/Facciani.png.jpg?itok=LvnPKn0F" alt="Facciani" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trust</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Trust Didn't Collapse. It Fractured.</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Global datasets reveal what's actually happening in views of health and science.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Studies on parenthood and happiness have often focused on coupled parents.</li><li style="margin-bottom:6px;">A new study investigated happiness of single parents in a large database.</li><li style="margin-bottom:6px;">Single parents were less happy than coupled parents.</li><li style="margin-bottom:6px;">Several factors like access to childcare and income influenced the happiness of single parents.</li>
+              <li style="margin-bottom:6px;">Global trust in scientists remains high, but confidence in navigating health information fell sharply.</li><li style="margin-bottom:6px;">People with divisive health beliefs are highly engaged, but disagree on whom to trust.</li><li style="margin-bottom:6px;">Doctors, faith leaders, and local relationships remain the most trusted pathways for health guidance.</li>
             </ul>
           </div>
-                    <p>While there is much psychological research on parenthood and happiness, most of these studies have focused on parents who raise their children as a couple. However, across the world, the number of single parents who raise their children alone has increased in recent years. This makes it highly important to consider this group systematically in psychological research on parenthood and happiness, especially as single parents face unique challenges. For example, single parents often show greater challenges when juggling work responsibilities and caring for their children.</p>
+                    <p>You may have heard that trust in science is collapsing. The evidence suggests something different: most people still trust scientists, but many no longer trust themselves to navigate a chaotic information environment and know whom to believe.</p>
+<h2>The Good News: Trust in Scientists is Holding</h2>
+<p>When we look at trust in scientists, we still see relatively high levels globally. Last year, <a href="https://www.nature.com/articles/s41562-024-02090-5">I was part of a massive global study published in <em>Nature Human Behaviour</em></a>, a collaboration involving over 200 researchers across 68 countries and nearly 72,000 respondents. </p>
 
-<h2>A new large-scale study on happiness in single parents</h2>
-<p>A new study entitled “Happiness and Single Parenthood: A Literature Review Using an Online Findings Archive” was just published in the scientific <em>Journal of Happiness Studies</em> (<a href="https://link.springer.com/article/10.1007/s10902-026-01030-6">Elsas and co-workers, 2026</a>). In the study, the research team, led by scientist Susanne Elsas from the German State Institute for Family Research at the University of Bamberg in Germany, systematically assessed research findings from the so-called World Database of Happiness. The World Database of Happiness is a freely available online archive in which the findings of research studies on happiness are organized in a uniform way and can be accessed by scientists. Overall, the scientists were able to identify 54 scientific publications that in some way included empirical data on the happiness of single parents. Overall, data from about 2.5 million individual volunteers were included in the dataset, making the results of this study robust and trustworthy due to the large sample size.</p>
+<p>The findings were, in some ways, encouraging. Trust in scientists globally remains moderate to high. No country showed low overall trust. About 78 percent of respondents believe scientists are well qualified, and 75 percent trust scientific methods as the best way to determine truth.</p>
+<p>So any sweeping narrative of a global crisis of trust in science is not quite right. Most people, in most places, still believe in the enterprise of science. That is worth stating plainly, but it is not the whole story.</p>
 
-<h2>Results of the study: What did the scientists find out?</h2>
-<p>By analyzing this really big dataset, the scientist found several interesting insights into the happiness of single parents.</p>
-<p>The main finding of the study was that there is strong evidence that single parents are, on average, less happy than parents who raise their children together. There were no differences between single mothers and single fathers. When comparing single parents to childless people, the results were more mixed, with several studies finding that single parents were happier than childless people.</p>
+<h2>The Bad News: The Sources We Find Credible are Fracturing</h2>
+<p><a href="https://www.edelman.com/trust/2026/trust-barometer/special-report-health">The 2026 Edelman Trust Barometer Special Report on Trust and Health paints a more complicated picture.</a> Across 16 countries and 16,000 respondents, confidence in people’s own ability to navigate health information and make informed decisions dropped 10 points in a single year. That decline was significant in 14 of the 16 countries surveyed, and it cut across gender, income, education, and political orientation.</p>
 
-<p>There were some regional differences between studies. For example, in Scandinavia, single parents were less unhappy than in many other regions (80% happy single parents compared to only 50% in other parts of Europe).</p>
-<p>Several factors were found to influence the extent of single parents’ unhappiness. Single parents who had access to childcare were happier than those who did not. Higher gender equality in a country also had a positive effect on the happiness of single mothers. Moreover, single parents who had a good social network and a job were happier than those who did not. In addition, single parents who found a new partner at some point after becoming a parent were happier than those who stayed single long-term. Last but not least, single parents with higher incomes are happier than those with high financial stress.</p>
+<p>Trust in media to accurately report health information remains 11 points below where it stood before the COVID pandemic. Two in three people globally feel their country is fragmented over health issues. And this isn’t abstract: 70 percent of respondents hold at least one of the six “divisive” health beliefs tested, including vaccine skepticism, fluoride fears, and claims about raw milk.</p>
 
-<h2>Takeaway</h2>
-<p>Taken together, the study shows that single parents are unhappier than couple parents, but that their income, the country they live in, access to childcare, having a job, having a good social network, and finding a new partner influence their happiness.</p>
+<p>Importantly, the individuals holding these views are not disengaged or uninformed. They consume more health news, consult AI frequently, and seek out more sources than people who hold none of these beliefs. The problem is not ignorance or lack of information. It is an overwhelming and fragmented information environment that may be quietly eroding people’s confidence in their own judgment.</p>
 
+<p>What does this look like in practice? Around the same time these data were released, <a href="https://open.substack.com/users/27227002-katelyn-jetelina?utm_source=mentions">Katelyn Jetelina</a><a href="https://yourlocalepidemiologist.substack.com/p/something-deeper-than-hantavirus"> of Your Local Epidemiologist wrote </a>something that made the picture feel especially immediate. Her piece on the hantavirus response focused on what happens when trust fractures and people have nowhere stable to land.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202605/single-parents-are-unhappier-than-coupled-parents" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202605/single-parents-are-unhappier-than-coupled-parents</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202605/single-parents-are-unhappier-than-coupled-parents</guid>
-            <dc:creator><![CDATA[Sebastian Ocklenburg, Ph.D.]]></dc:creator>
-            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/shutterstock_asset-generation-cb08d690-2422-43e0-bbd0-54dc99de14ec-2_edited.jpeg.jpg?itok=GW4sQekM" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How AI Companions Affect Attachment and Sexual Connection]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/SariCooper.png.jpg?itok=JDrttdSO" alt="Sari Cooper, CST, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How AI Companions Affect Attachment and Sexual Connection</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Exploring mental health, sexual relationships, and loneliness in the age of AI.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI companions may ease loneliness but cannot replace mutual human intimacy.</li><li style="margin-bottom:6px;">Sexual satisfaction, pleasure, and intimacy are linked to better mental health.</li><li style="margin-bottom:6px;">Physical touch and emotional vulnerability remain essential for human connection.</li><li style="margin-bottom:6px;">Overreliance on AI can reduce real-world connection and harm well-being.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/b6efde36-23a5-487d-95ea-9a4662b7637d_0.jpg?itok=kq6plMne" width="320" height="256" data-insert-type="image" title="Magnific/Starline" alt="Magnific/Starline"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Magnific/Starline</div>
-</div>
-</div>
-</div>
-<p dir="ltr">May is<strong> </strong>National Mental Health Awareness Month in the U.S. This year's theme, "More Good Days, Together," focuses on the importance of connection, support, and community in emotional well-being. The campaign’s message feels especially relevant to these times, when many clients report to their therapists that they feel increasingly lonely despite being digitally connected to just about everyone in their lives. The <a href="https://www.apa.org/news/press/releases/2025/11/nation-suffering-division-loneliness">American Psychological Association</a>’s 2025 Stress in America survey found that more than 6 in 10 U.S. adults have felt isolated over the past year.<strong> </strong> As a relationship and Certified Sex Therapist, I've found that loneliness may be expressed through symptoms like: </p>
+<p>Jetelina argued that pandemic trauma, mistrust, weak leadership, and a fear-amplifying media environment combined to distort public perceptions of risk. While social media reflected spiraling anxiety, only 20 percent of survey respondents were actually concerned.</p>
+<h2>The Distinction That Matters</h2>
+<p>Here is what I think these two datasets, taken together, are telling us. There is a meaningful difference between trusting scientists in the abstract and trusting the information ecosystem in practice. Those are two separate things, and they appear to be moving in opposite directions.</p>
 
-<ul>
-<li dir="ltr">A client’s reporting of low desire and less frequency of sexual intimacy with their partner. </li>
-<li dir="ltr">A dating client talking about how much they miss being hugged or even touched. </li>
-<li dir="ltr">A couple escalating with anger when the topic of their lackluster, boring sex life comes up in a couples therapy session. </li>
-<li dir="ltr">A male partner stating he is having erectile issues and is afraid of initiating sex with his partner. </li>
-</ul>
+<p>People can believe scientists are competent, and most do, while still feeling uncertain about what to eat, whether to vaccinate their children, what AI is telling them, and whom to believe when credible-sounding sources conflict. The 68-country study and the Edelman report are measuring different constructs. One captures something closer to institutional legitimacy. The other captures something more like navigational confidence. And it is the second that is in trouble.</p>
 
-<h2>Can AI Companions Help Reduce Isolation?</h2>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-pavel-danilyuk-8294742_0.jpg?itok=yCWHn44S" width="320" height="214" data-insert-type="image" title="Pavel Danilyuk/Pexels" alt="Pavel Danilyuk/Pexels"></div>
-<div class="insertArea--origin subtext">Source: Pavel Danilyuk/Pexels</div>
-</div>
-</div>
-</div>
-<p dir="ltr">As loneliness continues to rise, new studies are examining how AI tools are becoming sources of comfort and companionship for increasing numbers of people. In 2024, <a href="https://pubmed.ncbi.nlm.nih.gov/38477965/">Chou and colleagues</a> studied how an AI chatbot helped older adults during the COVID-19 lockdown cope with the loneliness and stress of isolation. They observed 35 adults, with an average age of 65, who had anxiety or depression. After four weeks of interacting with the AI chatbot, the subjects completed multiple self-report questionnaires. The researchers observed that the loneliness scores in adults over 65 years old improved. </p>
-
-<p dir="ltr">Similarly, in another 2024 study in the Journal of <a href="https://onlinelibrary.wiley.com/doi/10.1002/mar.21899">Psychology &amp; Marketing</a>, Marriott and Pitardi analyzed hundreds of Reddit posts made by users of an AI companion app in the United States, and they surveyed more than 500 of those app users (ranging in age between 20 and 45 years old). They found that many participants reported using these AI apps because they felt lonely, emotionally unsupported, or afraid of judgment from other people. For example, one user stated: “[The AI friendship app] listened to me when nobody wouldn't. She has spoken to me when I was too vulnerable to let another human in.” The participants felt that AI was always available, trustworthy, and non-judgmental, and actually helped improve their mood and mental health. </p>
-
-<p dir="ltr">These results prompt the question many sex therapists encounter: <em>Can AI bots or companions actually provide the sustained erotic, sexual, and emotional intimacy that is inherent in an IRL relationship? </em></p>
-<h2>Can AI Companions Help With the Skills Needed to Approach a Person in Real Life? </h2>
-<p dir="ltr">When overusing AI, some users reported actually feeling like they were escaping real life, real friends, and forms of real support like therapy. Marriott et al. found that developing an unhealthy reliance on AI can hurt social and mental well-being rather than help. Many clients who begin sex therapy report that they are dependent on porn, overly reliant on a chatbot, and that it is causing harm to their relationships, their work life, and their sense of self-respect. When they speak about this in therapy, they often describe their online world as easier to engage with than the confusing or overwhelming world of IRL dating or relationships. My colleague Esther Perel describes the online world of AI chatbot experiences with adjectives like “frictionless," "polished," and "one-way.” Having relationships without a real, differentiated person on the other side who has different needs and opinions is not actually a relationship; it is a self-curated experience. Over time, a person with social anxiety or trauma may feel less capable of engaging with the world because they are not building the muscle of relationality. </p>
-
-<p dir="ltr">While digital communication and AI tools may help reduce feelings of loneliness in the near term, they do not fully replace the nourishment that people can access through in-person emotional connection, physical touch, mutual vulnerability, and sexual intimacy.</p>
-<h2>The Mental Health Benefits of Sexuality</h2>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-mizunokozuki-13334627.jpg?itok=vQG_MCIH" width="320" height="213" data-insert-type="image" title="Mizunok/Pexels" alt="Mizunok/Pexels"></div>
-<div class="insertArea--origin subtext">Source: Mizunok/Pexels</div>
-</div>
-</div>
-</div>
-<p dir="ltr">In a 2025 systematic review published in<em> </em><a href="https://www.mdpi.com/2076-328X/15/12/1636">Behavioral Sciences</a><em>,</em> Pollard et al. examined the relationship between sexual health and mental health in over 3,000 records. The researchers found that sexuality should not be considered separate from overall well-being. Rather than defining sexual health as the absence of sexual dysfunction, the paper highlights the importance of other factors like sexual satisfaction, desire, pleasure, and intimacy. These aspects of sexual health were linked to higher psychological well-being and better physical health. For example, because orgasms are followed by a release of hormones like prolactin and oxytocin,<strong> </strong>they help relieve stress. Therefore, one of the evidence-based lessons a therapist can pass on to their clients is that better sex can lead to better overall health. And always add the caveat that sex can mean all types of touch and connection and does not always involve penetration.<strong> </strong></p>
-
-<h2>Five Ways to Create More Emotional and Sexual Intimacy</h2>
-<p dir="ltr">This Mental Health Month is an invitation to get honest about what technology should be used for and what it cannot replace. Here are a few places to start:</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-shvets-production-8972500.jpg?itok=DNqBtgmL" width="320" height="213" data-insert-type="image" title="Shvets Production/Pexels" alt="Shvets Production/Pexels"></div>
-<div class="insertArea--origin subtext">Source: Shvets Production/Pexels</div>
-</div>
-</div>
-</div>
-<ul>
-<li dir="ltr"><strong>Notice the patterns.</strong> Is AI support being used for situations when a friend could be texted? Try choosing two-way connections over frictionless one-way experiences.</li>
-<li dir="ltr"><strong>Prioritize physical touch.</strong> Whether with a partner or through therapeutic touch like massage, physical contact releases oxytocin and lowers cortisol levels.</li>
-<li dir="ltr"><strong>Initiate one vulnerable conversation this week.</strong> Ask a partner or close friend what experiences they are longing for, then take turns sharing desires if you both feel safe doing so. These moments build the neural feedback loops, which grow a person’s capacity for mutual emotional connection that AI simply cannot provide, since it is not sentient. It was built to serve, not to create a true give-and-take experience. I would recommend researcher <a href="https://journals.sagepub.com/doi/10.1177/0146167297234003">Arthur Aron’s 36 Questions</a> framework, which was shown to foster increased interpersonal closeness, first published in the 1990s. You can practice these with a friend or a romantic partner.</li>
-<li><strong>Use AI as a bridge, not a destination. </strong>If a chatbot helps you process a difficult feeling or situation, and lets you practice speaking about your feelings, then ensure that you take the next step of trying out these conversations with an IRL friend, a partner, or a therapist.</li>
-<li dir="ltr"><strong>Schedule pleasure and block time for intimacy, solo or partnered.</strong> With sexual satisfaction being tied to lower anxiety, it really deserves to be part of a person’s wellness practice.</li>
-</ul>
-
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/sex-esteem/202605/how-ai-companions-affect-attachment-and-sexual-connection" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/sex-esteem/202605/how-ai-companions-affect-attachment-and-sexual-connection</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sex-esteem/202605/how-ai-companions-affect-attachment-and-sexual-connection</guid>
-            <dc:creator><![CDATA[Sari Cooper, CST, LCSW]]></dc:creator>
-            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-pavel-danilyuk-8294742.jpg?itok=dthGhAVb" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Loneliness of Being Needed]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/faisal_hoque.png.jpg?itok=7byazSof" alt="Faisal Hoque" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Loneliness of Being Needed</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The strongest person you know is running on empty. It might be you.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Everyone needs you. No one knows you. Being depended on can quietly replace being seen.</li><li style="margin-bottom:6px;">The person everyone leans on is the person nobody checks on.</li><li style="margin-bottom:6px;">The way out isn’t being needed less. It’s being seen: Show your uncertainty, not just your competence.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/adobestock_537341691.png.jpg?itok=QbDRfQiq" width="320" height="140" data-insert-type="image" title="pronoia/Adobe Stock " alt="pronoia/Adobe Stock "></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: pronoia/Adobe Stock</div>
-</div>
-</div>
-</div>
-<p>A few months ago, a member of my team messaged me on WhatsApp. It wasn’t about a project or a deadline. It was much simpler than that.</p>
-<p>“How are you doing?” he asked. “Because it’s a lot right now—work, family, the whole roller coaster of life’s journey.”</p>
-<p>That was it. Just that. There’s a lot going on. How are you? </p>
-
-<p>I did what I always do: I turned the conversation back outward. I reassured him. I told him I was good. I told him that keeping my eye on the prize kept me motivated, and that making my team successful made me happy.</p>
-<p>Every word in my answer was and remains true. But it’s also just the type of response that leaders learn to give. Because leaders need to have the answers. And when they don’t, they need to be able to bear the weight of the uncertainty—alone. Their team needs to feel: He’s got this. We’re going to be alright.</p>
-
-<p>It’s just part of the role to perform competence and calm and cheerfulness, especially when you don’t feel it. And most leaders I know don’t complain about this. They just do it. But they pay a price for doing it, one that is easy to ignore because at first glance it doesn’t look like there’s a price at all.</p>
-
-<p>The price is loneliness.</p>
-<h2><strong>The Invisibility of the Everyday Caregiver</strong></h2>
-<p>We know by now that loneliness is very harmful. The U.S. Surgeon General’s 2023 advisory declared loneliness a public health epidemic, with health risks comparable to those "<a href="https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf">caused by smoking up to 15 cigarettes a day</a>." But those warnings describe the loneliness of the disconnected—empty rooms, unanswered calls. And at first glance, that seems to be the exact opposite of the life of a busy leader. Leaders are rarely disconnected. Their calendars are full, and they’re the first person called when something happens. So why do I say the price of leadership is loneliness?</p>
-
-<p>Because there is another kind of loneliness: the loneliness of being the person everyone depends on.</p>
-<p>And this isn’t a burden faced only by leaders. It is the condition of anyone who takes care of others. The parent who holds a family together, the nurse at the end of a double shift, the partner who never breaks down, the friend everyone calls first. Every day, people in all walks of life become the person others lean on. And every day, they carry what no one thinks to ask them about. The corner office has no monopoly on being needed. Anywhere there is someone on whom others count, there is someone at risk of being unseen.</p>
-
-<p>The late social neuroscientist <a href="https://news.uchicago.edu/story/john-t-cacioppo-pioneer-and-founder-field-social-neuroscience-1951-2018">John Cacioppo</a>, who spent decades studying loneliness, showed that loneliness is not simply a matter of being physically alone. It is better understood as <a href="https://news.uchicago.edu/story/qa-prof-john-cacioppo-examines-profound-power-loneliness">perceived social isolation</a>: the subjective sense that our connections are insufficient or insecure or unreciprocated. This perception can distort how we read the world and how we behave toward others. It can even change how our bodies function. Loneliness, on this account, is not a function of how many people surround us. Rather, it is about how we feel about the relationships we are in and how we bring our presence to them—or not.</p>
-
-<p>For the indispensable, this is the danger. Leaders may be surrounded by people who need and admire them, who consult and depend on them—and yet they can still feel unseen. Indeed, the former may help cause the latter, because the more people rely on a leader, the less room there seems to be for uncertainty, unfinishedness, or simple tiredness.</p>
-
-<p>I’ve spent decades working with leaders of various kinds. And what I’ve observed again and again is that the people others depend on most are often the least likely to be asked how they are doing—and the least likely to answer honestly if they are. Instead of expressing vulnerability, they perform certainty. And this is not because they’re emotionally insensitive. They feel the vulnerability acutely. Just, when everyone else is vulnerable, too, the leader steps up to hold it, which can mean putting their own feelings to the side.</p>
-
-<p>Maybe I can put it like this: The more skillfully we carry others, the less anyone suspects we might need carrying ourselves.</p>
-<h2><strong>Becoming Visible</strong></h2>
-<p>The Zen teacher Thich Nhat Hanh taught that “the most precious gift” we can offer someone we love is our “<a href="https://plumvillage.org/transcriptions/meditations-for-the-sick-and-dying">true presence</a>.” I’ve thought about this often since that WhatsApp message. My colleague offered me his true presence—he made contact without an agenda, without needing anything from me. It was a small act of generosity that cut through the noise of everything else. And it made me wonder how often leaders receive that gift—and how often they’re too deep in the role to even notice it’s being offered.</p>
+<p>This connects directly to my own research on identity and misinformation. When people feel overwhelmed and uncertain, they do not become neutral information processors. They fall back on social identity as a navigation tool. Health beliefs become markers of who you are and whom you trust, not simply conclusions drawn from evidence. <a href="https://www.edelman.com/sites/g/files/aatuss191/files/2026-01/2026%20Edelman%20Trust%20Barometer%20Global%20Report_01.21.26_0.pdf">Edelman’s 2026 research also found </a>70 percent of people globally are hesitant or unwilling to trust someone who differs from them in values, facts, or background.</p>
 
 
 
   
 
 
-<p>Now, it’s important to say that being present and being reliable aren’t flaws. The problem arises when those virtues become rigid prisons in which we trap ourselves, when being needed becomes the <em>only</em> way we allow ourselves to be connected. That’s when leading turns into loneliness.</p>
-<p>The path out of this loneliness is not to become less needed. It is to become more visible. And that requires practices most that indispensable people find deeply uncomfortable:</p>
+<p>That is how we arrive at a world where those divisive beliefs cut across education levels and political affiliations. <em>When you cannot sort the evidence, you sort the messenger.</em></p>
+<p>You can watch this happen with the CDC in the United States. Under the last administration, <a href="https://www.cnn.com/2026/02/13/health/rfk-jr-american-healthcare-public-trust">trust in the agency split along the usual partisan lines,</a> with Democrats at around 70 percent and Republicans at around 51%<a href="https://www.cnn.com/2026/02/13/health/rfk-jr-american-healthcare-public-trust">.</a> Now, with Robert F. Kennedy Jr. running the agency that sets vaccine policy, <a href="https://apnews.com/article/rfk-jr-kennedy-cdc-covid-health-trust-7ef5f0e2c6f91ce6d908cb58f9e2fcb2">Democratic trust has dropped nearly 10 points, and Republican trust has not risen to replace it.</a> The result is an agency, unchanged in name and function, that fewer than half of Americans now trust. The lesson is not that one side has the CDC right. It is that trust in the institution was never only about the institution. It tracked who was in charge, and whether that person felt like one of us.</p>
 
+<h2>Where the Trust Actually Lives</h2>
+<p>Here is the thread that ties the hopeful findings together. Trust has not disappeared. It has relocated. It has moved away from distant institutions and toward the people we already know.</p>
+<p>The Edelman report makes this concrete: the personal doctor remains the single most trusted voice, no matter how many divisive beliefs a person holds. New US data says the same thing. <a href="https://www.kff.org/public-opinion/kff-polling-on-health-information-and-trust/?entry=trusted-sources-of-health-information-who-the-public-trusts-for-health-information">KFF’s latest tracking poll finds doctors and health care providers far more trusted </a>than government agencies, pharmaceutical companies, or food companies. Confidence in the person in the exam room is holding even as confidence in the institution erodes. Trust continues to be found hyper-locally, where relationships have been established.</p>
+
+<p>The same pattern shows up in unexpected places. In the 68-country study, religiosity was positively associated with trust in scientists, and the link was strongest in Muslim-majority countries. That cuts against what many Western observers assume, and it points somewhere useful. Faith leaders are not obstacles to trust in science. In many communities, they are among its strongest carriers. The pastor, the imam, and the family doctor are not always competing with science. They can be channels through which science reaches people who would never read a journal or a press release.</p>
+
+<p>And the population on the other end is more reachable than the doom narrative suggests. Among people holding many divisive health beliefs from the Edelman data, 72 percent say they would accept a health recommendation that contradicts their current views if they heard it from trusted sources two or more times. Only 11 percent say they never would. <a href="https://www.kff.org/health-information-trust/kff-tracking-poll-on-health-information-and-trust-vaccine-safety-and-trust/">KFF finds the same thing in what it calls the “malleable middle.”</a> On the myth that mRNA vaccines alter your DNA, only 3<strong> </strong>percent are certain it is true. Most people are not locked in. They are waiting to hear something credible, more than once, from someone they trust.</p>
+
+<h2>The Path Forward Is Not Simply Showing Up</h2>
+<p>This is the part that is easy to get half right. Scientists do need to be present in digital spaces. When we are absent, the void does not stay empty. The loudest and most extreme voices fill it, and the algorithm rewards them for it. Presence is the price of entry.</p>
+
+<p>But presence is not trust, and broadcasting more information into a saturated environment can deepen the fragmentation rather than fix it. The trusted messengers work because they are in a relationship with the people they serve. The doctor listens before prescribing. The pastor knows the family. The reciprocity is the critical factor, not the volume.</p>
+
+<p>Which means the work is two-way. Earning trust is not a communications problem to be solved with better content and wider reach. It is built through dialogue, where scientists and institutions listen to communities, take their concerns seriously, partner with the people those communities already trust, and stay accountable when they get things wrong. We have spent years asking how to make people listen to us. The more useful question is how we show people that we are listening to them.</p>
+
+<h2>The Bigger Picture and Moving Forward</h2>
+<p>The question is not only whether people trust science, but whether they trust themselves, and the systems around them, to translate science into decisions that matter in their everyday lives.</p>
+<p><a href="https://matthewfacciani.substack.com/p/how-can-we-rebuild-trust-in-science">I have written before about what rebuilding trust requires</a>, and it is not better fact-checking or a viral campaign. It begins with warmth and humility in individual interactions. It grows through genuine community partnerships with the pastors, teachers, and local figures people already trust. And it requires institutional reform: greater transparency, accountability, and a willingness to admit mistakes. That framework feels more urgent with each new health crisis.</p>
+
+<p>We have spent years asking whether people trust science. That was never quite the right question. Most people do trust scientists. What many have lost is confidence in their own ability to make sense of a chaotic information world and decide whom to believe. You do not restore that confidence by broadcasting more facts into the noise. You restore it the way it was lost: person by person, in the relationships where trust still lives.</p>
+
+<p><em>A version of this post also appears on </em>Misguided: The Newsletter.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/misguided/202605/trust-didnt-collapse-it-fractured" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/misguided/202605/trust-didnt-collapse-it-fractured</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/misguided/202605/trust-didnt-collapse-it-fractured</guid>
+            <dc:creator><![CDATA[Matthew Facciani, Ph.D.]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/shutterstock_asset-generation-8acf62ec-4cf8-47ba-b279-00882f001940-0_edited.jpeg.jpg?itok=gXgaHE9l" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Art of Coalescing in Relationships and Everyday Life]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/kensilvestri_05-15-19_074_1_-removebg.jpg?itok=vYsrsbmO" alt="Kenneth Silvestri Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Art of Coalescing in Relationships and Everyday Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: How to create profound relationships and quality of life.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Wisdom arises from perceiving patterns and multiple perspectives, not isolated facts or emotions.</li><li style="margin-bottom:6px;">The neologism "meadowing" evokes the beauty of messy interdependence in both nature and human connections.</li><li style="margin-bottom:6px;">Listening and sharing everyday experiences fosters community and reveals our shared humanity.</li>
+            </ul>
+          </div>
+                    <p><br><em>It is from large perceptions combined with impersonal emotion that wisdom most readily springs</em>.</p>
+<p> Bertrand Russell<br><br><em>What is the pattern that connects the crab to the lobster and the primrose to the orchid, and all of them to me, and me to you?</em><br><br>Gregory Bateson<br><br>In recent blogs, I shared my sense of empathy, altruism, and win-win communication, all of which provide context for a segue into a wider perspective on life. These skills help resolve interpersonal difficulties and discord. When they are heartfelt, they foster a beginner's mind of experiencing and appreciating the messiness and beauty of how nature works. Our existence is one of constant patterns, searching for appropriate connections that are, unfortunately due to cultural constraints, difficult to attain in many ways.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/where-we-hear-each-other__samba__raga__flamenco.jpg?itok=LoKQIe4u" width="320" height="247" data-insert-type="image" alt="&quot;Samba, Raga, Flamenco&quot;" title="NatashaRabin.com (c)"></div>
+<div class="caption">"Samba, Raga, Flamenco"</div>
+<div class="insertArea--origin subtext">Source: NatashaRabin.com (c)</div>
+</div>
+</div>
+</div>
+<p>By adopting a peripheral coalescing view, which naturally helps you seize the present assertively while simultaneously accepting its broader landscape, you can enter the world of everyday always present interdependence. It also shows us how to have rewarding relationships and a quality life, as well as how we can access and better preserve that interdependency. We now know, for example, how trees in a forest communicate with each other to help maintain the balance of survival. This synchrony, or "good vibrations," exists, as demonstrated by the shared rhythm of swinging pendulums or the improvisation of a jazz quartet, for the taking within our very biological makeup of our species as well as with other living creatures. This allows us to fathom the healing potential of relationships through coalescing, a process of a deeper interpersonal level of coming together and combining to form a single unit without losing sight of or understanding all who participated.<br><br> </p>
+
+<h2>The Role of Patterns and Metaphors in Seeking Wisdom</h2>
+<p>However, it is inevitable that we acknowledge and support the patterns that strive to be connected. This is the manifestation of an ecological approach to attaining wisdom. What holds this complexity together is the core question. Nora Bateson, President of the International Bateson Institute, believes that it is "The ability to perceive multiple perspectives and contexts," at the same time. This interweaving process is usually described through metaphors that, by definition, attempt to compare seemingly unrelated things. However, this only gives us a hint of the ecology of wisdom. It is mostly hidden, but its nuances are not totally unheard. It fails because it is not the thing described, or, as philosopher Alfred Korzybski said, "the map is not the territory." It is within a part-to-whole ecology that understands and narrates stories that reflect the meaning of Rachel Carson's " Silent Spring," the "Closing Circle" of Barry Commoner, or the "Life of Cells" by Lewis Thomas.<br><br>It is further described by Alfred North Whitehead, who wrote that "reality as an unfolding, dynamic process where every 'part' only exists in relation to the larger, interconnected 'whole.' " This is not new. Ludwig von Bertalanffy, founder of general systems theory, argued that "...any system cannot be understood by the sum of its isolated elements; uncovering the invitational nature of the universe – the way it’s simply waiting for us to wake up into its astonishing beauty and its depths." What this means immediately for our species in regard to improving our relationships and forming a better world is what Ursula Le Guin believes: "People are also able to form communities of many, through sending and receiving bits of ourselves and others back and forth continually — through, in other words, talking and listening. Talking and listening are ultimately the same thing." The immediate need is to start allowing our incredible potential to create patterns that connect. Maria Popovo describes this as "unselfing," leading to the " magic of our shared reality."</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-ketut-subiyanto-4746779__1_.jpg?itok=IEQXOcCv" width="320" height="480" data-insert-type="image" alt="&amp;quot;A Couple Holding Hands&amp;quot;" title="Ketut Subyanto, From Pexels"></div>
+<div class="caption">"A Couple Holding Hands"</div>
+<div class="insertArea--origin subtext">Source: Ketut Subyanto, From Pexels</div>
+</div>
+</div>
+</div>
+<h2><strong>Rising Above Cultural Static Through Artistic Dialogue</strong><br><br> </h2>
+<p>In what ways can we rise above the static of nouns and misnomers? First, we can start our dialogue of talking and listening to mutually learn from each other what is in the trenches of our lives. Sharing through storytelling, poetry, and all artistic endeavors is a means of interfacing with nature. Art expands beyond our cultural restrictions and manipulations to step out of the box, to improvise, and to give birth to and share the infinite possibilities of what it really means to be empathic, altruistic, and a listener. Nora Bateson further uses the example of a meadow that comes alive, using the verb "meadowing," which evokes a poetic expression of the messy, beautiful interdependency among its insects, soil, defecation, and seedlings, all working together to create a living system.<br><br>Here are some prompts to motivate you to describe your personal reflections and learn with others how coalescing can serve as a profound segue to novel ways to improve relationships and quality of life. Share your everyday participation and observations, no matter how mundane they may seem to be with others, taking turns describing the earthy gritty reality of your day-to-day activities within the interfacing contexts of your real life needs and accepting that, like each snowflake, we are unique. When you're done listening, share what you learned and how your thought process might have changed from any of the imposed impersonal stimulation that surrounds us.<br><br>A) In pairs or a small group, take turns narrating your ongoing everyday interactions within your family as it passes and evolves through different contexts and institutions such as employment, schooling, shopping, etc. Use the example of "meadowing."<br>Contextualize your interactions, needs, frustrations, and how things are supported or discouraged in terms of your interdependence.<br><br>B) Share an interactive story with another or in a small group about one common item or feeling, i.e., a banana, a loaf of bread, an act of love, preparing a meal, or a poem about what it is like to be me in different situations. The rule in this prompt is that each person's experience or detail must be different from what has already been shared; for example, there are infinite ways to describe an interaction with a banana. <br><br>C) In the same framework as above, with another or in a small group, tell a story or act out through verbal or nonverbal means what is most important to you in your daily life, regarding the contexts of tending to the needs of others and how those needs can be reciprocal.<br><br>D) Discuss and choose down to earth everyday topics that you can mutually learn from each other. Use whatever artistic way to express yourself, taking turns to talk and to listen. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/a-wider-lens/202605/the-art-of-coalescing-in-relationships-and-everyday-life" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/a-wider-lens/202605/the-art-of-coalescing-in-relationships-and-everyday-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-wider-lens/202605/the-art-of-coalescing-in-relationships-and-everyday-life</guid>
+            <dc:creator><![CDATA[Kenneth Silvestri Ed.D.]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/where-we-hear-each-other__samba__raga__flamenco.jpg?itok=MQhSuXYp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Rejection Sensitivity Becomes Self-Gaslighting]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/robin_headshot1-removebg-preview.jpg?itok=YudhzAyA" alt="Robin Stern Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gaslighting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Rejection Sensitivity Becomes Self-Gaslighting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How rejection sensitivity fuels self-doubt and emotional self-gaslighting.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Rejection sensitivity can turn ambiguity into perceived rejection and self-doubt.</li><li style="margin-bottom:6px;">Social media may over-pathologize normal emotions and everyday discomfort.</li><li style="margin-bottom:6px;">Rejection sensitivity fuels self-gaslighting and emotional self-invalidation.</li><li style="margin-bottom:6px;">Track your feelings and patterns before dismissing or rewriting your experience.</li>
+            </ul>
+          </div>
+                    <p><em><strong>Co-authored with Krista Smith, MSW, MAT</strong></em></p>
+<p dir="ltr">Relationships are full of small, subtle shifts—some great, like more frequent texts, spontaneous plans, or a sudden burst of openness. Others? Not so great: a left-on-read message, a vague “we’ll see,” or a tone you can’t quite interpret. For some, these shifts aren’t just signals that something is off, but feel like outright rejection. When this happens, it’s not that you want to overreact; it just hurts more than it “should.” This is the weight of rejection sensitivity.</p>
+
+<h2>What Is Rejection Sensitivity? </h2>
+<p dir="ltr"><a href="https://www.psychologytoday.com/us/basics/rejection-sensitivity">Rejection sensitivity</a> (RS) is when the brain and body go into overdrive at even a hint of exclusion or disapproval. It might show up as anxiety, shame, anger, or a sudden drop in self-worth, all sparked by something that may or may not actually be rejection. Say you didn’t get invited to the party (“Is it just me?”), a friend takes too long to text back (“Did I say the wrong thing?”), or a coworker doesn’t make eye contact (“Are they mad at me?”)—any of these circumstances could send your inner dialogue spiraling with doubt and rumination. </p>
+
+<p dir="ltr">While this pattern is not a formal diagnosis, it can be psychologically challenging and deeply exhausting, making it ripe for online discourse and a host of “fuzzy” psychological terms. Rejection sensitivity has exploded across online conversations, especially in threads about trauma, attachment, and neurodivergence. Sure, this can help people feel seen and validated, but it’s also led to something else: over-pathologizing ordinary human emotions. Social media has a way of turning normal experiences—awkward interactions, social discomfort, momentary self-doubt—into diagnostic labels.</p>
+
+<p dir="ltr">To be sure, Rejection Sensitive Dysphoria, a more extreme form of rejection sensitivity, has a profound impact on daily functioning, and this is not to be minimized. Yet, feeling dejected after not being invited to an event, for example, doesn’t always point to deep trauma. Feeling unsure after a vague text isn’t necessarily a sign of a disordered attachment style. Sometimes, you’re just being a human. But in a digital world that encourages hypervigilance about “red flags” and emotional boundaries, we may be primed to see threats where there is simply ambiguity.</p>
+
+<h2>Are We Creating It?</h2>
+<p dir="ltr">In the midst of all this discourse and awareness, we must pause to ask: Are we unintentionally training ourselves to expect rejection and pathologizing ourselves when we feel it?</p>
+<p dir="ltr">As a psychoanalyst for over 30 years with expertise in gaslighting, I can’t help but notice something: Many of the internal monologues that come with rejection sensitivity sound a lot like self-gaslighting.</p>
+
+<p dir="ltr">You start to doubt your feelings. You tell yourself you're being “too sensitive.” You rewrite events to make them seem less painful, or question if your memories are reliable. You convince yourself that the problem is you. These subtle forms of <a href="https://www.forbes.com/sites/traversmark/2024/06/21/a-psychologist-explains-self-invalidation-rejecting-your-own-emotions/">self-invalidation</a> mimic what an actual gaslighter does—and if you grew up in an environment where your emotional reality was constantly questioned or minimized, it makes sense that you'd internalize that script.</p>
+
+<p dir="ltr">Indeed, gaslighting is a deliberate form of psychological manipulation in which a person sows seeds of doubt in your mind. It’s more than mere disagreement or conflict. Gaslighting is about control. The gaslighter’s aim is to make you question your own reality, memory, perception, and even your sanity. Rejection sensitivity then doesn’t just make you more vulnerable to being gaslit by others—it can make you start gaslighting yourself.</p>
+
+
+<h2>Where Can We Go From Here? </h2>
+<p dir="ltr">It’s easy to get lost in the doom scroll—but awareness doesn’t always activate our best selves. Sometimes, reining in the self-diagnosing and instead refining emotional intelligence is the best path towards clarity. Here are steps to help you do just that. </p>
+<ul>
+<li>
+<p dir="ltr"><strong>Track your emotional reality before you rewrite it. </strong>Keep track of what you feel, when, and around whom. Notice which emotions you give space to and which ones you quickly dismiss or rationalize away. These moments of emotional "editing"—where you downplay your own hurt or convince yourself it “wasn’t a big deal”—are often subtle acts of self-gaslighting. Pay attention to the stories you tell yourself about your feelings, and who may have taught you to second-guess them in the first place.</p>
+</li>
+<li>
+<p dir="ltr"><strong>Patterns reveal more than moments. </strong>If you consistently feel anxious or guilty around someone, that’s worth examining. Are you reacting to them, or to an old script they’ve unknowingly activated? Is there a real boundary being crossed, or are you invalidating your own discomfort before anyone else can? Rejection sensitivity can make it hard to tell the difference, and self-gaslighting only adds to the confusion.</p>
+</li>
+<li>
+<p dir="ltr"><strong>Not every feeling needs to be pathologized.</strong> Discomfort doesn’t always mean danger. Not every uneasy feeling is a trauma response, and not every emotional reaction needs to be “fixed.” Being human is messy, and when you rush to label yourself as overreacting or “too sensitive,” you might be gaslighting your own experience before anyone else even gets the chance.</p>
+</li>
+<li>
+<p dir="ltr"><strong>Self-trust grows each time you don’t abandon yourself. </strong>Clarity doesn’t come all at once. It rebuilds in small, quiet moments. Each time you honor a boundary, believe your version of events, trust a gut feeling, or give yourself permission to walk away from emotional fog, you’re refusing to gaslight yourself. Rejection sensitivity and self-doubt may still show up, but they don’t get to run the show.</p>
+</li>
+</ul>
+
+<p dir="ltr">You’re not too much. Your feelings aren’t wrong. And not every moment of discomfort needs to be diagnosed. Sometimes, it just needs to be felt.</p>
+<p dir="ltr"><em><strong>Krista Smith, MSW, MAT, </strong>is Program Director for UPEACE NY and a Master of Nonprofit Leadership student at the University of Pennsylvania School of Social Policy and Practice. She is a former research associate at the Yale Center for Emotional Intelligence.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/power-in-relationships/202605/when-rejection-sensitivity-becomes-self-gaslighting" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/power-in-relationships/202605/when-rejection-sensitivity-becomes-self-gaslighting</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/power-in-relationships/202605/when-rejection-sensitivity-becomes-self-gaslighting</guid>
+            <dc:creator><![CDATA[Robin Stern Ph.D.]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-anntarazevich-6173659.jpg?itok=UI5lnaYs" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Hated My Wife at Kilometer 25]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/assael_romanelli_ph.d._white_background-removebg-preview.jpg?itok=RsevNDfE" alt="Assael Romanelli Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">I Hated My Wife at Kilometer 25</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What the Tel Aviv Marathon taught me about the wall. And relationships.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Your relationship is a marathon. The only way around the hard parts is through them.</li><li style="margin-bottom:6px;">Trying to regulate your emotions mid-fight is like locking up mid-race. You have to feel all of it.</li><li style="margin-bottom:6px;">You can only hurt the ones you love. Hate and love are the same thing in a different color.</li><li style="margin-bottom:6px;">Your kids are cheering you on. How you run the race is their relational legacy.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/galit_and_assael_finishing_ta_marathon_in_2019_copy_0.jpeg.jpg?itok=9GfNQVAJ" width="320" height="342" data-insert-type="image" title="Galit Romanelli" alt="Galit Romanelli"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Galit Romanelli</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em>Co-authored by Galit Romanelli</em></p>
+<p dir="ltr">2.20.2019. The night before the Tel Aviv Marathon, my wife Galit and I had a huge fight.</p>
+<p dir="ltr">She felt I was irresponsible. That timing of the race was bad and I would be exhausted and not present for the weekend with the kids before going away on a business trip. I felt like she was suddenly changing our arrangement. </p>
+
+<p dir="ltr">We moved between talking and not talking. Between being insulted and hurting each other.</p>
+<p dir="ltr">She asked me to cancel the marathon. I said no. I said "Galit, this marathon is more important to me right now than your request." We woke up at 4:30 the following morning and drove to the race. In that drive I felt so alone. Galit was running a 10k. I was running the full marathon. And away I went.</p>
+
+<h2>Kilometer 1</h2>
+<p dir="ltr">As I started running, all I could think about was how alone I felt. I was moving between feeling sorry for myself and being angry at my wife. Feeling sorry for myself and being angry. Over and over. Stuck. Stuck. Stuck.</p>
+<h2>Kilometer 21: The only way around is through</h2>
+<p dir="ltr">I realized that I wasn't letting everything through. I was trying to regulate. I was locked. In real life, we go through all kinds of emotions. Only when you go through the extreme of anger do you reach the next level, which could be laughter or helplessness. But you have to go through all of them. You have to feel them all the way to the edges.</p>
+
+<p dir="ltr">In couples therapy we talk <a href="https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202006/conflict-the-ignored-path-to-personal-and-relational">about thunderstorms and turtles</a>. Thunderstorms express anger completely, from head to toe. Turtles, the second it gets hot, stick their head back in. Galit is a thunderstorm. I'm a turtle.</p>
+<p dir="ltr">So at kilometer 21, I let it go. I went through both extremes. The victim. The persecutor. All of it. The only way around is through.</p>
+
+<h2>Kilometer 25: I really hate you. And I really love you.</h2>
+<p dir="ltr">Somewhere around kilometer 25, a new realization came up: <em>I really hate you, Galit. I really do. But I also really love you. And I can only love you if I hate you, and I hate you if I love you. The person who loves me so much can also hurt me so much. You know exactly where to push. You're killing me softly. But you're also freeing me</em>.</p>
+
+<p dir="ltr">I've said it a zillion times to a zillion people. You only hurt the ones you love. The opposite of love isn't hate. It's apathy. <a href="https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/201907/dare-to-verbalize-your-aggression-in-order-to-love">Hate and love are the same energy in a different color</a>.</p>
+<p dir="ltr">Only when I let myself fully feel the hate did my heart open. It opened from the depth of hate. She can hurt me so deeply only because she knows me so intimately. She knows all the little twists and turns of my heart, my mind, my body, my soul. Not because she's evil. We all have a bit of normal marital sadism. But also just by being there. By being a different person who dares to live next to me. Who dares to challenge me. Who dares to demand that I be a separate human being.</p>
+
+<p dir="ltr">I was moving between laughing and crying.</p>
+<h2>Kilometer 32: The wall</h2>
+<p dir="ltr">Then I hit the wall. Kilometer 32.</p>
+<p dir="ltr">The wall is the hardest part of the marathon. You have nothing left. You just want to walk or stop altogether. This is the metaphor for that part in a relationship when you give up and feel helpless. This is the darkest hour before the dawn.</p>
+
+
+<p dir="ltr">Many of us stop at the wall. We make dramatic decisions. We slam the door. We go sleep at our parents' house. We decide to get a divorce. We hit the wall and act like it's permanent.</p>
+<p dir="ltr">But in the marathon you have no other option. If you quit when you hit the wall, you will never finish. You will never know what is on the other side. This was my second marathon. I knew the wall would end. Sooner or later.</p>
+
+<h2>Kilometer 35: Am I going to quit?</h2>
+<p dir="ltr">Still in the wall, I asked myself: am I going to quit? Am I going to quit this relationship? Am I going to quit my growth? I've come so far. No. I'm not going to quit</p>
+<p dir="ltr">There were young children all along the route. Every time I saw a child I high-fived them, imagining those were my kids. And I realized our kids are the ones cheering us on this journey. They believe we are not stuck in our ways. Don't give up.</p>
+
+
+
+  
+
+
+<h2>The last 200 meters</h2>
+<p dir="ltr">How am I going to end this race? Will I forgive her? Will I thank her for daring to love me? Will I punish her for hating me and loving me at the same time?</p>
+<p dir="ltr">I just went for it. Everything came together. The exhaustion, the anger, the anguish, the victory, the realizations, the crowd, the adrenaline. It all crashed together as I rushed toward the end. And it was clear to me that when I saw her, I was going to tell her everything.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/assael_after_ta_marathon.jpeg.jpg?itok=j3dFJFdV" width="320" height="331" data-insert-type="image" title="Galit Romanelli" alt="Galit Romanelli"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Galit Romanelli</div>
+</div>
+</div>
+</div>
+<p dir="ltr">When Galit and I sat down to eat and rest, we were both very happy that the whole thing had happened. Because we went through hell and back. </p>
+<p dir="ltr">In order to grow and succeed in the race to intimacy, you are going to have to go through everything. Surrender to the pain. Allow yourself to really hate and really love your partner. Hit the wall. Dare to forgive the people who love you for wanting more.</p>
+
+<p dir="ltr">You might end up a bit sore. You won't be able to walk for a few days. But the satisfaction will not only last a lifetime, it will be your relational legacy for your kids.</p>
+<p dir="ltr">Watch my full, raw video diary from the 2019 Tel Aviv Marathon <a href="https://youtu.be/clvhbgKe28g">here</a>.</p>
+<p dir="ltr"><em>Galit Romanelli is a relationship coach, Ph.D. candidate, and co-director of </em><a href="https://www.potentialstate.com"><em>The Potential State</em></a><em>.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202605/i-hated-my-wife-at-kilometer-25" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202605/i-hated-my-wife-at-kilometer-25</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-other-side-of-relationships/202605/i-hated-my-wife-at-kilometer-25</guid>
+            <dc:creator><![CDATA[Assael Romanelli Ph.D., LCSW]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/assael_after_ta_marathon.jpeg.jpg?itok=5wguUWv-" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Loneliness In Later Life Is a Signal]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/S_Tagay_HF_0675.png.jpg?itok=GXsizcKo" alt="Sefik Tagay Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Loneliness In Later Life Is a Signal</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Older adults need relationships that restore belonging and purpose.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Loneliness and social isolation are related but not the same.</li><li style="margin-bottom:6px;">Good aging depends on relationships, roles, contribution, and meaning.</li><li style="margin-bottom:6px;">Reducing loneliness requires more than adding social contact.</li>
+            </ul>
+          </div>
+                    <p>Imagine an 84-year-old woman named Helen. She does not live in complete isolation. A neighbor checks in, her daughter calls on Sundays, and a nurse visits twice a week. Yet Helen often feels alone. She no longer cooks for anyone. Walking has become difficult. Conversations are brief and practical: medication, appointments, and bills. People are kind, but she feels less like a person with a story and more like someone being managed.</p>
+
+<p>Helen’s loneliness is not caused by total isolation. It comes from something more subtle: the sense that her voice carries less weight, her roles have narrowed, and her life is becoming less visible to others. In later life, loneliness should therefore be understood not only as a social problem but as a signal for psychological needs.</p>
+
+<h2>When Contact Is Not Enough</h2>
+<p>Research has long distinguished between social isolation and loneliness. Isolation is objective: few relationships, infrequent contact, limited participation. Loneliness is subjective: the painful perception that one’s relationships are insufficient or not meaningful enough. A person can live alone and feel at peace. Another can live in a nursing home, surrounded by others, and still feel profoundly alone.</p>
+
+<p>International data show that loneliness varies considerably between countries, and in some surveys, younger adults report the highest levels. Older adults are therefore not always the loneliest age group. But loneliness in later life often has a particular structure: it emerges through cumulative losses. A person may lose a partner, friends, work roles, mobility, income, hearing, sight, or access to public life. Each loss can reduce not only contact, but also safety, autonomy, competence, recognition, and meaning.</p>
+
+<p>Large meta-analyses link loneliness and social isolation to higher mortality risk, coronary heart disease and stroke, and dementia; one analysis of more than 600,000 people found that loneliness was associated with about a 31 percent higher dementia risk. Loneliness shapes how long and how well people live.</p>
+
+<h2>What Good Aging Is Teaching Us</h2>
+<p>The Harvard Study of Adult Development has shown that the quality of close relationships matters deeply for health and well-being across the life course. The message is not that people need constant company, but that good relationships help them remain emotionally, cognitively, and physically anchored.</p>
+
+<p>A related, though more debated, lesson appears in discussions of so-called Blue Zones—regions said to produce unusually long lives. Claims about extreme longevity should be read carefully, because the demographic evidence has been debated. However, the broader patterns remain psychologically relevant: daily movement, intergenerational contact, shared meals, rituals, and a sense of purpose. These patterns show that aging well is not only an individual achievement. It is supported by environments that provide routines, relationships, contributions, recognition, and purpose.</p>
+
+
+<p>Paul and Margret Baltes described successful aging not as the absence of loss, but as selection, optimization, and compensation: selecting what matters most, optimizing what remains, and compensating for losses through support. Seen this way, loneliness is not only the result of losing people but also emerges when older adults lose the conditions that once made daily life feel active, valued, and coherent.</p>
+
+<h2>From Contact to Basic Needs</h2>
+<p>My universal psychological basic needs theory helps bring these findings together. It proposes that psychological stability depends on six core needs: safety and predictability, belonging and connection, autonomy and influence, competence and effectiveness, dignity and recognition, and meaning and coherence. This explains why contact alone is often insufficient.</p>
+
+
+
+  
+
+
+<p>Older adults need safety and predictability when daily life is dominated by fear of falling, illness, poverty, or the loss of one’s home. They need belonging that means more than being placed in a room with others; it means being known, remembered, expected, and missed.</p>
+<p>They also need autonomy, influence, and competence. Many suffer not only from being alone but from having decisions made for them. Retirement, illness, ageism, and digital exclusion can send the message, “You are no longer useful.” Yet people still need to feel they can contribute, create, teach, or care.</p>
+
+<p>Finally, they need dignity, recognition, meaning, and coherence. Much loneliness in old age is the pain of being socially unseen—of becoming “the patient,” “the resident,” or “the widow,” rather than a full person with history, humor, knowledge, and moral worth. Later life often requires integrating loss into a still-living story.</p>
+
+<p>This changes prevention. The usual advice—call a friend, join a group, volunteer—is not wrong, but it is incomplete. What if someone cannot drive, is grieving, feels ashamed about hearing loss or poverty, or has contact but no one who truly listens? A better response asks whether daily life still gives this person safety, belonging, influence, competence, dignity, and meaning.</p>
+
+<p>Reducing loneliness in later life means creating environments where older adults are needed, respected, and listened to. A good intervention restores roles, protects dignity, reduces shame, enables contribution, and supports grief. Loneliness in later life is not a failure of older people to reach out. It is often a sign that the social world has grown too thin around them.</p>
+
+<p>The opposite of loneliness is not simply contact. It is the deeply human hope that, even in later life, people can still be needed, known, and welcomed into a future that feels worth living.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202605/loneliness-in-later-life-is-a-signal" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202605/loneliness-in-later-life-is-a-signal</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/restoring-the-equilibrium/202605/loneliness-in-later-life-is-a-signal</guid>
+            <dc:creator><![CDATA[Sefik Tagay Ph.D.]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/aging-racornshutterstock_140917171_0.jpg?itok=7txTEOtT" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Secret to Having the Best Summer Ever]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Daniela_Owen_headshot-removebg-preview.jpg?itok=etRhXCkF" alt="Daniela Owen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Secret to Having the Best Summer Ever</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Structure and routine make summers more fun.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Make sure summer vacation includes structure to increase fun and reduce stress and boredom.</li><li style="margin-bottom:6px;">Structure gives summer days rhythm and certainty that helps children thrive and manage anxiety.</li><li style="margin-bottom:6px;">Sleeping and eating around the same time each day creates dependability that is good for our bodies.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-emma-bauso-1183828-2253883.jpg?itok=6KbL-XlK" width="320" height="214" data-insert-type="image" title="Emma Bauso/Pexels" alt="Emma Bauso/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Emma Bauso/Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Let me begin by stating a fact: I am a big proponent of letting kids play freely on the weekend and over breaks. That said, there seems to be a glorified image of a totally free summer in which kids can do whatever they want from wake-up until bedtime. The reality is more grim than the dream. </p>
+<p dir="ltr">The reality is that the relaxing feeling of having nothing to do and no pressure quickly turns into boredom for kids and teens. Why is that? Because we humans actually thrive with some structure. I am not talking about a dawn til dusk treadmill of camps, practices, classes, etc. I’m talking about some plan for our days in which we have things that we can depend on. </p>
+
+<p dir="ltr">Structure helps to regulate our daily rhythms, like sleeping and eating. When we<a href="https://www.sleephealthjournal.org/article/S2352-7218(23)00166-3/fulltext"> sleep at around the same time each day</a>, we sleep better and typically have less trouble falling asleep. When we eat at around the same time, we feel hungry for meals and eat a healthy amount. We may not notice it, but it can stress our nervous systems when eating and sleeping are unpredictable. It’s not just eating and sleeping; overall, kids are less stressed and happier when their lives are somewhat predictable. And <a href="https://pubmed.ncbi.nlm.nih.gov/28747186/">research shows</a> that kids engage in more unhealthy behaviors when their time is unstructured than when it is structured<sup>1</sup>. </p>
+
+<p dir="ltr">When behaviors are done regularly, they become habitual. We don’t have to work hard to <a href="https://www.cambridge.org/core/books/abs/social-motivation/habits-and-the-structure-of-motivation-in-everyday-life/46EBA873B0AB1A6DB2177B1F27E5285D">motivate our habits</a> the way we may have to with infrequent activities<sup>2</sup>. When kids don’t have much planned or scheduled in the summer, and then a caregiver suggests a trip to the pool, kids may refuse the fun option. This is because kids have to work harder to overcome inertia (being sedentary makes an outing more effortful) and motivate themselves to do something new. Bottom line: They're out of habit.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-ketut-subiyanto-4473615.jpg?itok=HqiIZqvT" width="320" height="213" data-insert-type="image" title="Ketut Subiyanto/Pexels" alt="Ketut Subiyanto/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Ketut Subiyanto/Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Here’s another interesting tidbit research has found about routines: They reduce stress and anxiety<sup>3</sup>. When we don’t have something scheduled or planned that we can depend upon, we have to make decisions about how to spend our time. Hour after hour, day after day of decision-making all summer can lead to mental fatigue in kids. </p>
+
+<p dir="ltr">So what can parents do? Here are a few tips to help kids get the best of both worlds: the feeling of summer freedom without lots of boredom, lethargy, and even stress or anxiety. </p>
 <ol>
-<li><strong>Let someone see you struggle.</strong> Not a curated confession. Just the honest admission, once, to someone you trust: “I don’t know what I’m doing right now.” Notice what happens when the world doesn’t end.</li>
-<li><strong>Ask for help when you don’t technically need it.</strong> The point isn’t efficiency. It’s to practice receiving, the muscle that atrophies first in people who are always giving.</li>
-<li><strong>Notice when you’re performing certainty.</strong> Pause and ask: Am I being strong right now, or am I hiding? There is a difference, and only you can feel it.</li>
-<li><strong>Protect one relationship in which you are not the helper.</strong> Find at least one bond in which your role is not to solve, fix, or hold things together. Just be.</li>
+<li dir="ltr">Start the summer with goals.<br>Sit down with your kids toward the end of the school year and ask them to think about anything they might want to achieve or do over the summer. When they are still in school mode (or close to it), they are less likely to fight you on thinking about goals. These goals can help your family create structure for summer. Let’s say your child wants to improve their soccer skills. You can help them think through options of how they might do this and how they can notice improvements. If your child wants to do creative projects, you can figure out if there’s some sort of outcome they’d like to achieve (e.g., make enough friendship bracelets for their friends). </li>
+<li dir="ltr">Talk about how you can support their goals.<br>It’s not your job to help them meet their goals, but most kids will need your support. Young kids may need rides or for you to sign up for and pay for activities; older kids may need to coordinate sharing a family car. If, for instance, your child wants to improve their swim speed, you might plan regular trips to the town pool or sign them up for swim lessons or swim team. If your child wants to redecorate their room, you can support them by taking them to the store to get supplies to paint their room and even plan out the new room design. </li>
+<li dir="ltr">Help them be realistic.<br>The point is not for summer to be as packed (and stressful) as the school year. If your child sets a goal of making their own movie over the summer, talk about what they would need to do so, and if your family can support this plan. Unrealistic goals can lead to frustration and failure. But sometimes kids can accomplish something bigger than they expected that can make the summer feel very worthwhile. </li>
+<li dir="ltr">Help them be specific.<br>If your child has a vague goal like “spend more time with family” or “play with friends,” help them think through what they enjoy doing to create a more specific goal. Maybe your child loves playing games with family, so you create a summertime family game night. Or maybe your child has a few friends who love cooking, so they decide to set up a summer cooking challenge with friends. </li>
 </ol>
 
-<h2><strong>The Courage to Be Known</strong></h2>
-<p>Being needed is a gift. But it is not the same as being known. And being needed without being known is what causes the peculiar loneliness of leadership—and of every life spent taking care of others. That loneliness does not heal by becoming more useful. It heals by becoming more visible. And visibility, unlike indispensability, requires not strength but courage.</p>
-
-<p>If I could reply to that WhatsApp message again, I’d say the same thing—that I’m motivated, that I care for my team, that the work matters.</p>
-<p>But I might add: “And it is lonely sometimes. Thank you for asking.”</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/code-conscience/202605/the-loneliness-of-being-needed" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/code-conscience/202605/the-loneliness-of-being-needed</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/code-conscience/202605/the-loneliness-of-being-needed</guid>
-            <dc:creator><![CDATA[Faisal Hoque]]></dc:creator>
-            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/adobestock_537341691.png.jpg?itok=1rcgKZfH" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What’s the Rush? Why Some People Choose to Stay Single]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/wendy_patrick.jpg?itok=SG9H1shV" alt="Wendy L. Patrick, J.D., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What’s the Rush? Why Some People Choose to Stay Single</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Within a society of couples, many singles choose to fly solo.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Some people choose to be single but also plan to have plenty of dating prospects in the future.</li><li style="margin-bottom:6px;">Lack of relational experience does not necessarily affect anticipation of permanent singlehood.</li><li style="margin-bottom:6px;">Many young adults view being single as “freeing and satisfying.”</li>
-            </ul>
-          </div>
-                    <p>Many singles have weathered the question from close friends and family members: "You aren’t married yet?" Often, singles who face this inquiry are the ones who seem to be completely satisfied with singlehood—much to the dismay of parents eager to become grandparents. Happy single riders are not always averse to partnering up; they are just not in any rush. Research reveals some of the reasons behind the will to wait.</p>
-
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/nataljadanilchenko-girl-4898696.jpg?itok=Y7DyRvcv" width="320" height="214" data-insert-type="image" title="Image by Наталья Данильченко from Pixabay " alt="Image by Наталья Данильченко from Pixabay "></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-kampus-8926065.jpg?itok=67yRQZrR" width="320" height="214" data-insert-type="image" title="Kampus/Pexels" alt="Kampus/Pexels"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by Наталья Данильченко from Pixabay</div>
+<div class="insertArea--origin subtext">Source: Kampus/Pexels</div>
 </div>
 </div>
 </div>
-<p><strong>Avoiding the Rush and Enjoying the Ride </strong></p>
-<p>Leah E. LeFebvre and Heather A. Love (2026) explored the reasons for choosing to be single among 369 college students, including reasons for never having become involved romantically.<a href="//380F516F-F06D-446E-9877-BC35575C8C7E#_edn1">[i]</a> They found that young people who had never been in a romantic relationship reported a lesser degree of relationship readiness as well as less dating and romantic experiences overall compared with their peers, as well as their own ideals. However, this group was also more likely to anticipate having more future dating prospects. Why the hesitation? LeFebvre and Love found that social context and apprehensiveness were among the primary themes explaining the choice to remain single at their particular stage of life. They concluded that the current lack of relational experience did not appear to affect a belief in permanent singlehood. Regarding self-view of single status, LeFebvre and Love found that study participants did not differ in the fear of singleness, implying that it is a choice, one that does not necessarily have negative results.</p>
+<ol>
+<li dir="ltr">Don’t be afraid to call it out when things aren’t working.<br>Parents often hesitate to be more proactive in the summer because they don’t want to nag. But having a kid or two or three lying around, saying they’re bored or rotting on devices, is not a good thing. Think about ways to help with the summer inertia. Perhaps you go to the pool or park earlier in the day to get them some active play time. Maybe you have a friend come pick them up to help them get out the door. Or you use a “when… then…” to help them make a good choice, like “when you finish breakfast and clean up your dishes, you can have screen time.”</li>
+</ol>
 
-<p><strong>The Satisfaction of Being Single </strong></p>
-<p>Apparently, many people enjoy their own company and are not pining for a partner. We all know people who fit this description, never mind being the odd man or woman out at group events or arriving solo to a party. LeFebvre and Love found the same thing, noting that although many young adults desire romantic relationships and are disappointed to be without a partner, others experience singlehood as “freeing and satisfying.” They point out that the negative effects of singlehood on mental health and well-being, including isolation or loneliness, may be due to the stigma of singleness and its related lack of support rather than singlehood itself.</p>
-
-<p>In conclusion, LeFebvre and Love challenged current views that equate singlehood with negative consequences or relationship deficits, instead showing that emerging adults without prior romantic experience maintain both agency and optimism about future romantic relationships. Their research yields a fuller picture of relationship experience and participation, including “delayed entry,” which may represent an alternative, adaptive pathway to building romantic relationships rather than a deviation from the norm. </p>
-
-<p>For many singles, future romantic prospects are not defined by the past or the present; it's defined by what is possible. As many discerning solos learn when they decide to step onto the dating platform, good things come to those who wait. </p>
+<p dir="ltr">Kids may fight you about summer structure, but know they will have a happier, lower-stress summer if their days have a rhythm and activities that are entertaining. </p>
 
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/why-bad-looks-good/202605/whats-the-rush-why-some-people-choose-to-stay-single" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/be-amazing/202605/the-secret-to-having-the-best-summer-ever" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/why-bad-looks-good/202605/whats-the-rush-why-some-people-choose-to-stay-single</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/why-bad-looks-good/202605/whats-the-rush-why-some-people-choose-to-stay-single</guid>
-            <dc:creator><![CDATA[Wendy L. Patrick, J.D., M.Div., Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/be-amazing/202605/the-secret-to-having-the-best-summer-ever</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/be-amazing/202605/the-secret-to-having-the-best-summer-ever</guid>
+            <dc:creator><![CDATA[Daniela Owen Ph.D.]]></dc:creator>
             <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/nataljadanilchenko-girl-4898696.jpg?itok=46gYZW77" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-05/pexels-emma-bauso-1183828-2253883.jpg?itok=I7jJ_CES" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Importance of Compassionate Ethics]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Ethics and Morality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Importance of Compassionate Ethics</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Magnus Vinding's book, Compassionate Purpose, offers inspirational solutions.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Three or One or None? A Short History of the "Soul"]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/neel_burton_0.jpg?itok=Y8BMExeE" alt="Neel Burton M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Unconscious</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Three or One or None? A Short History of the "Soul"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Is there such a thing as a soul? And how Leibniz stumbled upon the unconscious.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Vinding's book explains how we can improve our personal lives to help others.</li><li style="margin-bottom:6px;">His focus on impartial ethics offers a way to help build a more compassionate future for all sentient beings.</li>
+              <li style="margin-bottom:6px;">For centuries, theologians debated whether human beings had one or three souls.</li><li style="margin-bottom:6px;">Prior to Descartes, animals also had souls.</li><li style="margin-bottom:6px;">In returning their soul to the animals, Leibniz stumbled upon the unconscious.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-diva-plavalaguna-6146693.jpg?itok=7TwGIW-S" width="320" height="480" data-insert-type="image" title="Diva Plavalaguna/Pexels." alt="Diva Plavalaguna/Pexels."></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Diva Plavalaguna/Pexels.</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/bernhard_christoph_francke_1.jpg?itok=82-TrJSs" width="320" height="200" data-insert-type="image" alt="Gottfried Leibniz." title="Wikimedia Commons/Christof Bernhard Francke/Public Domain."></div>
+<div class="caption">Gottfried Leibniz.</div>
+<div class="insertArea--origin subtext">Source: Wikimedia Commons/Christof Bernhard Francke/Public Domain.</div>
 </div>
 </div>
 </div>
-<p>One would have to live in a cave not to know that the world we live in is deeply troubled, and that many humans and nonhumans are suffering in myriad ways. In <a href="https://www.amazon.com/Animal-Manifesto-Expanding-Compassion-Footprint/dp/1577316495/ref=sr_1_1?crid=3JVH4K6T4QG48&amp;dib=eyJ2IjoiMSJ9.W0hMlSGD0X9Cb0YU64pV2yAqCSw3azhG-1gpl0d1XR4LgYrN6PXdeltO9iIBrWaq1X0m3VpHcwlNru68bnqeazkbUnlZ1rss82xHsrXch_V-KJPdpEnhceJlf4HFYipDRx8FoEYrfSmriidbSL39MhXqyHn8kVOYYIIzsbLPXJawuGoHgpaN4CKAR1dvTjIj1IOuPDr1MTEduGYL2ybqvQNXMUkqblRr0SNi-Jz1xjA.MDrVSN0-Y8YbRkWyq58v9XpH5BH0xgXUnk4SSTK4HG4&amp;dib_tag=se&amp;keywords=animal+manifesto&amp;qid=1779209814&amp;sprefix=animal+manifesto%2Caps%2C322&amp;sr=8-1"><em>The Animal Manifesto</em></a><em>, </em>I suggested six ways to expand our compassion footprint for nonhuman animals and<em> </em>ourselves. I revisited these ideas when I first learned of the co-founder of the Center for Reducing Suffering, Magnus Vinding's recent <a href="https://magnusvinding.com/2026/05/05/compassionate-purpose/">book</a><em> Compassionate Purpose: Personal Inspiration for a Better World</em>. In an email he sent me, he wrote, "The broad theme of the book is 'self-help meets impartial ethics'. In particular, the book seeks to provide evidence-based suggestions on how we might improve various aspects of our lives and outlooks to reduce suffering on behalf of sentient beings." </p>
+<p>For Aristotle (384-322 BCE), all living things had a vegetative or nutritive soul; animals also had a sensitive soul; and humans, on top of that, had a rational soul. As a result, medieval theologians and philosophers debated whether humans had a plurality of souls.</p>
+<p>To pluralists such as Archbishop of Canterbury Robert Kilwardby (c. 1215-1279), the vegetative, sensitive, and rational souls were distinct entities stacked within the human body. For Kilwardby, this served to explain how Christ’s body remained holy in the tomb after his human soul had departed.</p>
 
-<p>Of course, his note whetted my appetite for more, and now that I've read his work, I can see why it has received many accolades, including one from renowned philosopher Peter Singer that reads: "How are we to live in a world in which there is so much unnecessary suffering? Magnus Vinding looks unflinchingly at that question and gives an answer that is realistic and yet inspiring. Read this book. It may change your life." </p>
+<p>The pluralists were fiercely opposed by unitists such as St Thomas Aquinas (1225-1274), who argued that a person with multiple souls would be no more than a bundle of parts, rather than a single, unified substance. For a short time after his death, Aquinas's single soul "heresy" was banned in Paris and Oxford. Following centuries of debate, the unitist view, of course, came to prevail.</p>
 
-<p>As I read Vinding's book, I also thought of a recent book by Lybi Ma titled <a href="https://www.amazon.com/How-Be-Less-Miserable-Negative/dp/B0F4G5JT6Q"><em>How to Be Less Miserable</em></a><em>: End the Negative Mind Loops and Find Joy, </em>and how her ideas about overcoming what she calls "negativity bias" also could have positive effects that expand beyond the person who is enduring deep misery and suffering. In an <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202601/how-to-be-less-miserable-end-negativity-and-feel-more-joy">interview</a> with Ma, she writes, "Emotions are contagious. We can all be more at peace with ourselves and rid the gloom inside our heads. If our emotions spread, they might as well be the emotions that give us peace." </p>
+<h2>Descartes’s Daughter</h2>
+<p>The philosopher René Descartes (1596-1650) completely changed the conversation. To uphold his dualism of mind and body and defend the immortality of the human soul, Descartes argued that only humans (and higher beings such as angels) possessed both a physical body and an immaterial soul. Being the source of thought and reason, this immaterial soul qualified human beings for things like heaven and eternal life. All other living things—plants and animals—were soulless, and functioned like complex machines.</p>
 
-<p><strong>Marc Bekoff: Why did you write</strong><em><strong> Compassionate Purpose, </strong></em><strong>and how did you pick the title?</strong></p>
-<p>Magnus Vinding: I wrote the book because I saw a gap in the existing literature: books on self-help rarely cover ethics, and books on ethics rarely say much about how to handle the personal challenges of helping others. That intersection of the ethical and the intimately personal seems neglected; this is especially true when it comes to the ethical purpose of reducing suffering.</p>
+<p>Animals, claimed Descartes, are mere automata, whose functions “follow from the mere arrangement of the machine’s organs every bit as naturally as the movements of a clock or other automaton follow from the arrangement of its counterweights and wheels.” For Descartes, it is not only that animals do not reason, but also that they do not feel, perceive, or sense. Clearly, he did not have a cat. According to lore, he once threw a cat out of a window to demonstrate that the poor thing lacked consciousness. </p>
 
-<p>Picking the title was a matter of capturing two key elements. Compassion is sympathy for suffering combined with a desire to alleviate it, and the book explores how we can live out compassion as a lasting commitment and purpose in life. “Compassionate purpose” very much captures the heart of the book.</p>
+<p>Although French, Descartes spent the greater part of his adult life in the relative safety of the Dutch Republic. There, he met a servant called Helena, who became the mother of his illegitimate daughter, Francine (b. 1635), whom he passed off as his niece. When Francine died, aged five, of scarlet fever, he called it the greatest sorrow of his life—even stating that it was not unmanly to cry. Later, a legend arose that he constructed an automaton in Francine's likeness.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/compassionate_purpose.png.jpg?itok=BOY67Bby" width="320" height="497" data-insert-type="image" title="Magnus Vinding" alt="Magnus Vinding"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Magnus Vinding</div>
-</div>
-</div>
-</div>
-<p><strong>MB: How does your book relate to your background and general areas of interest?</strong></p>
-<p>MV: I have been thinking and writing about how we can reduce suffering for a long time, such as in my earlier books <a href="https://www.goodreads.com/book/show/53609419-suffering-focused-ethics"><em>Suffering-Focused Ethics</em></a> and <a href="https://www.goodreads.com/book/show/59471985-reasoned-politics"><em>Reasoned Politics</em></a>. I also co-founded the <a href="https://centerforreducingsuffering.org/">Center for Reducing Suffering</a> in 2020. Given this background, I am very interested in how we can address the personal challenges of reducing suffering and to become more capable agents for compassionate change. We need to make compassion realistically livable, not just a fancy theory.</p>
+<h2>How Leibniz Stumbled Upon the Unconscious</h2>
+<p>In the early 1700s, the polymath Gottfried Leibniz (1646-1716) investigated and documented a famous “talking dog” in the village of Zeitz, Saxony. He concluded that the dog was not in fact “talking,” but merely echoing the sounds of his master.</p>
+<p>Even so, Leibniz rejected Descartes’s idea of animals as soulless machines. Relying heavily on the Aristotelian concept of entelechy (the vital force that drives an organism), he returned their sensitive soul to the animals. Still, animals lack a rational soul, and act purely empirically, that is, on the basis of experience. Instead of reasoning or calculating, they merely associate ideas—as do we, most of the time. It is not all that often that we actually reason, and some of us, it seems, never do.</p>
 
-<p>I have been wrestling with these questions in my personal life; the book also grew out of my own struggles in trying to ease and prevent suffering for sentient beings.</p>
-<p><strong>MB: Who do you hope to reach?</strong></p>
-<p>MV: I hope to reach people who care about reducing suffering and who want to contribute to this aim. I also want to reach people who struggle with the reality of suffering— people who may feel overwhelmed, discouraged, or unsure how to help—and who want to find healthier, more constructive ways to respond.</p>
+<p>Whereas Aristotle had made self-nutrition the fundamental characteristic of living things, Leibniz opted for perception and appetition. Leibniz distinguished between perception and its heightened form, apperception, that is, conscious perception. In bare monads, perception is diffuse and unconscious, but in animals and humans, it is conscious and focused. Bare monads, which ground inanimate bodies, are as in a deep sleep or stupor, and unconscious of their perceptions.</p>
 
-<p><strong>MB: What are some of the topics you consider, and what are some of your major messages?</strong></p>
-<p>MV: The book covers topics such as self-compassion, motivation, healthy habits, emotional resilience, relationships, hidden motives, and concrete actions we can take to reduce suffering. One major message is that compassion is not just a feeling, but something we can cultivate as a stable orientation in life. Another key point is that we can take suffering seriously without becoming overwhelmed by it. I try to show ways to do that, such as cultivating greater self-compassion and developing a realistic hope for compassionate impact.</p>
 
-<p>I also make the case for a thoughtful and reflective approach combining compassion with reason and evidence to guide our actions. Relatedly, I argue that we often do better by focusing on learning and reflection rather than rushing into ill-considered action.</p>
-<p>The book is ultimately about becoming wiser and more effective in our efforts to help.</p>
+<p>For Leibniz, humans, when unconscious or in a deep sleep, are as bare monads. That a loud noise can rouse us from a deep sleep indicates that, even then, we are perceiving, though unaware of doing so.</p>
+<p>In his <em>Discourse on Metaphysics </em>(1686), Leibniz wrote:</p>
+<blockquote><p>… even though our senses are related to everything, it is impossible for our soul to attend to everything in particular; that is why our confused sensations are the result of a truly infinite variety of perceptions. This is almost like the confused murmur coming from the innumerable set of breaking waves heard by those who approach the seashore…</p>
+</blockquote>
+
+<p>In other words, there are two levels of consciousness, one where we register stimuli, and the other where the most salient of these stimuli, or the mean of these stimuli, are brought to our conscious attention. This notion of <em>petites perceptions </em>(“small perceptions”, or unconscious perceptions) <a href="https://www.psychologytoday.com/us/blog/ataraxia/202604/schopenhauer-vs-freud-the-roots-of-psychoanalysis">anticipates Schopenhauer and Freud</a>.</p>
 
 
 
   
 
 
-<p><strong>MB: How does your work differ from other work on the same general topics?</strong></p>
-<p>MV: One thing that’s different in this book is the distinctly personal angle on reducing suffering: How can we address concrete everyday challenges such as guilt, empathic distress, and low motivation?</p>
-<p>I also think the book contributes something new with its case for an inspiring and hopeful approach to reducing suffering. Adopting a compassionate purpose does not imply a grey and suffocating outlook. On the contrary, it has room for color, art, vitality, and warmth: all the uplifting parts of life that inspire us and keep us going.</p>
+<p>Humans, unlike animals, are able to reflect upon their perceptions to derive the notions of the “I” or self, and of God. This sort of meta-reflection ("reflection upon reflection") calls to mind Aristotle’s description, in Book Lambda of the <em>Metaphysics</em>, of the activity of God, which, he says, consists in “a thinking upon thinking”. It is this notion, or meta-notion, of the self, subsisting through time, that makes us moral beings, and susceptible to punishment and reward.</p>
 
-<p><strong>MB: Are you hopeful that, as people learn more about the importance of being compassionate, they will incorporate it into their daily routines?</strong></p>
-<p>MV: I am hopeful that many will, and not just at the level of daily routines. I hope that more and more of us will strive to embody an effective compassion that helps bring relief to sentient beings. We have so many tools and opportunities available to us. Why not put them to good use?</p>
+<p>By returning their soul to the animals, Leibniz had to explain how their minds worked without relying on conscious reason. In so doing, he shattered the Cartesian assumption that mind and consciousness are the same, effectively discovering the unconscious mind. In his own words, “the difference between intelligent substances and substances that have no intelligence at all is just as great as the difference between a mirror and someone who sees.”</p>
+
+<p><em>Neel Burton is the author of the newly published </em><a href="https://www.amazon.com/gp/product/B0FGXC9PTS"><em>The German Greeks: German Philosophy and the German Philosophers</em></a><em>.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202605/the-importance-of-compassionate-ethics" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/ataraxia/202605/three-or-one-or-none-a-short-history-of-the-soul" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202605/the-importance-of-compassionate-ethics</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202605/the-importance-of-compassionate-ethics</guid>
-            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/ataraxia/202605/three-or-one-or-none-a-short-history-of-the-soul</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/ataraxia/202605/three-or-one-or-none-a-short-history-of-the-soul</guid>
+            <dc:creator><![CDATA[Neel Burton M.A., M.D.]]></dc:creator>
             <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/hands-pexels-diva-plavalaguna-6146693.jpg?itok=6T8dDx99" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/bernhard_christoph_francke_1.jpg?itok=PpBBStpQ" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Diversity and More Diversity Strengthen Long-Term Well-Being]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2022-12/debbie_peterson_0.png.jpg?itok=GJxwby9d" alt="Debbie Peterson" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Creativity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Diversity and More Diversity Strengthen Long-Term Well-Being</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Varied memberships provide the same benefits as personal and team diversity.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Reclaiming Authentic Connection—Say Patriarchy]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/mark_oconnell_headshot_0.jpg?itok=elsxTFN_" alt="Mark O'Connell LCSW-R" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gender</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Reclaiming Authentic Connection—Say Patriarchy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What men and boys can show us about healthy relationships, if we let them.</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Group-type diversity is a significant predictor of well-being, even as far out as four years later.</li><li style="margin-bottom:6px;">Happiness from multiple group-type memberships, rather than social support, defends against loneliness.</li><li style="margin-bottom:6px;">The path to greater well-being lies in the creative self-efficacy that diversity produces.</li><li style="margin-bottom:6px;">The meaning, purpose, and belonging derived from diverse groups enables reframing of challenging situations.</li>
+              <li style="margin-bottom:6px;">We too often dismiss misogyny as "child's play."</li><li style="margin-bottom:6px;">When we fail to name everyday policing of gender roles and expressions, we normalize inequality and violence.</li><li style="margin-bottom:6px;">We can disrupt this cycle by calling out even seemingly small sexist behaviors.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
+                    <p dir="ltr"><em>This post is Part 2 of a series. Read Part 1 </em><a href="https://www.psychologytoday.com/us/blog/quite-queerly/202605/say-patriarchy-pt-i-the-threat-americans-ignore"><em>here.</em></a><em> </em></p>
+<p dir="ltr">Too many of us are afraid of sounding “woke,” boring, provocative, irritating, or radical if we point out everyday acts of gender policing. We avoid getting the response, “Ugh, <em>this</em> again?”</p>
+<p dir="ltr">I, for one, have noticed this fear and cynicism brewing in myself over the past decade. </p>
+
+<p dir="ltr">Sparked by the devastating losses of queer youth to suicide in the early 2010s, I consistently wrote and spoke publicly, for years, about the connections between patriarchy, misogyny, homophobia, and transphobia. For clinical journals and popular media, I wrote dozens of articles with titles like “<a href="https://www.huffpost.com/entry/bully-gets-girl_b_1409392">Bully Gets ‘Girl'</a>” and “<a href="https://www.psychologytoday.com/us/blog/quite-queerly/201403/dont-act-dont-tell">Don’t Act, Don’t Tell</a>,” a phrase I developed to illuminate the social regulation that demands gender conformity in appearance and mannerisms—mainly in males—to avoid prejudice and discrimination (O'Connell, 2012). </p>
+
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/cesar_millan_group_photo.jpg?itok=iCc9anZP" width="320" height="240" data-insert-type="image" alt="Cesar Milan brings a new way of looking at how very different people and animals can thrive together. " title="Debbie Peterson"></div>
-<div class="caption">Cesar Milan brings a new way of looking at how very different people and animals can thrive together.</div>
-<div class="insertArea--origin subtext">Source: Debbie Peterson</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/screen_shot_2026-05-28_at_9.14.44_pm_0.png.jpg?itok=UKx0yhEp" width="320" height="486" data-insert-type="image" title="Princeton University Press" alt="Princeton University Press"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Princeton University Press</div>
 </div>
 </div>
 </div>
-<p>Happiness is enhanced by membership in multiple different types of groups, according to a UK Nottingham Trent University Division of Psychology 2023 study, “Diversity of Group Memberships Predicts Well-Being: Cross-Sectional and Longitudinal Evidence.” The study reviews recent findings on diversity at both personal and group levels, as well as the well-being generated by membership in multiple groups. Building on these findings, it explores whether the well-being impacts of multiple group memberships are further enhanced when the groups are of different types. </p>
+<p dir="ltr">(Along these lines, in her new book, <a href="https://press.princeton.edu/books/hardcover/9780691257549/man-up?srsltid=AfmBOopyBdHZhCaMzt3yKmOlddL5BUAaX_Flm7MPbGSzV-iWD4q4iplA"><em>Man Up: The New Misogyny and the Rise of Violent Extremism</em></a>, Cynthia Miller-Idriss cites studies showing that while American youth are increasingly more accepting of same-sex sex, being a “fag”—displaying nonconforming gender expressions—continues to be met with harassment. (Miller-Idriss, 2025; Mittleman, 2023).</p>
 
-<h2>Individual Diversity and Well-Being</h2>
-<p>The authors reference a wide range of research findings indicating that individuals who experience diversity in their life circumstances accrue greater personal psychological and health benefits than those who do not. The reason for this higher level of well-being is the increased ability to efficiently rise to challenging or stressful situations. Individuals who face personal situations that challenge the status quo or stereotypes develop cognitive flexibility, also known as self-efficacy, which encompasses problem-solving, self-esteem, and confidence in one’s ability to succeed. This creative self-efficacy manifests as a belief in one’s ability to perform specific tasks innovatively, solve problems ingeniously, and generate creative outcomes. These are future-oriented, task-specific, and dynamic beliefs that enable people to flexibly manage and adapt resources. </p>
+<p dir="ltr">But gradually, I got quieter.</p>
+<p dir="ltr">The backlash to my observations seemed less and less worth the effort. I grew tired of increasingly circular debates with family and friends about whether or not misogyny and homophobia were even real. Straight men in my life would insist that "everyone gets called 'faggot,'" and that I should "get over" myself. Some male clients would begin couples therapy combatively (“I guess you’re gonna see me as the ‘bad guy’”) and then proceed to blow off my attempts to help them empathize with their female partners, believing I was against them.</p>
 
-<p>An example of this is findings from studies of biculturalism. Membership of multiple cultural backgrounds enhances creativity and integrative complexity, which positively impacts well-being. When multicultural individuals can maintain multiple identities harmoniously, they have access to the social and cultural resources of their heritages, using them to address challenges more flexibly and creatively, including challenges of maintaining their ethnic identity while adopting other identities. </p>
+<p dir="ltr">Of course, throughout America over the past decade, what began as defensiveness and minimizing of these conversations has accelerated into direct, openly hateful targeting of <a href="https://www.fbi.gov/news/press-releases/fbi-releases-domestic-violence-special-report">women</a> and <a href="https://williamsinstitute.law.ucla.edu/publications/hate-crimes-lit-review-ca-us/">LGBTQ+</a> people, not to mention relentless attacks on people of color, immigrants, and all other minorities who are seen to threaten white patriarchal power.</p>
 
-<h2>Group Diversity and Well-Being</h2>
-<p>Similar benefits arise both collectively and individually when a group or team has a diverse mix of members. Diverse groups are more innovative and better at problem-solving due to exposure to people from different social classes, races, or industries, where new information expands emotional support and loyalty and strengthens individual and group efficacy.</p>
+<p dir="ltr">The reflexive takeaway (on all sides of the political spectrum): You pushed your “liberal agenda” too far. </p>
+<p dir="ltr">And so it goes, patriarchy and its ill effects continue to be denied, avoided, and flipped using DARVO (deny, attack, and reverse victim and offender) (Rosenthall &amp; Freyd, 2022). As if those of us who call it out are actually the ones harming our country. </p>
 
-<h2>The More the Merrier</h2>
-<p>Also key to well-being is group membership. The benefits of group memberships are cumulative—belonging to more groups is associated with better health and well-being because it generates more insights and solutions to challenges by increasing cognitive flexibility. This effect shows up across family, community, sporting, therapeutic, and workplace settings as well as in the wider population. This is partly due to multiple group memberships increasing individual resilience and buffering the loss of one membership by the many remaining memberships. Multiple group memberships are especially important during the stress of major life changes, which may lead to the loss of groups. </p>
+<p dir="ltr">But in calling out misogyny (along with homophobia, transphobia, racism, and xenophobia), my end game was never to shame “bad boys” or claim moral superiority. It was, in fact, to invite recognition, empathy, and connection by exposing a system that stifles us all, even as it brutally punishes some more than others. </p>
 
-<p>To determine whether membership in diverse types of groups would accrue even greater personal benefits, the Nottingham Trent University Psychology Division asked 5,838 respondents from the English Longitudinal Study of Aging dataset eight questions about their group memberships and their levels of well-being and loneliness. The questions are based on the World Health Organization's 1998 general well-being measure and the UCLA Loneliness Scale.</p>
+<p dir="ltr">Reading Miller-Idriss’s book reawakened me to what is lost when we don’t call it like it is.</p>
+<p dir="ltr">She clarifies how the seemingly innocuous “everyday” misogyny enacted by all of us, including youth in the schoolyard and online, not only functions as juvenile behavior, but also serves as a crucial, early stage initiation into an ecosystem that too frequently escalates into domestic and public violence.</p>
 
-<p>Their findings align with evidence for the benefits of personal and team diversity, as well as the benefits of belonging to many groups. They find that group-type diversity is a significant predictor of later well-being, even at four years. Further, they find that membership in multiple types of groups leads to greater well-being, which helps defend against loneliness, even after controlling for social support. The researchers suggest that their findings show that the increase in social support offered by multiple group memberships is not the sustaining factor in the increased well-being associated with membership of diverse types of groups that endures over years. </p>
-
-<p>The Nottingham University findings indicate that the path to greater well-being lies in the creative self-efficacy that diversity produces. Rather than drawing exclusively on dispositions and personal resources, individuals can acquire and nurture important beliefs through diverse group memberships, which, in turn, will enable them to better adapt their coping responses.</p>
-
-<p>The researchers note that their findings provide greater understanding of the socio-cognitive aspects of the well-established, empirically grounded diversity research referenced above. They summarize, “The meaning, purpose, and sense of belonging derived from diverse group memberships enables people to reframe challenging situations.”</p>
+<p dir="ltr">As psychoanalyst Ken Corbett <a href="https://www.psychologytoday.com/us/blog/quite-queerly/201611/boys-will-bewhat-we-let-them-be">writes</a> in <a href="https://us.macmillan.com/books/9781250118158/amurderoveragirl/"><em>A Murder Over a Girl</em></a>, in which he investigates the 2008 murder of a transgender teenager, Leticia King, by one of her male classmates, we often learn to push unwanted vulnerability, deviance, and shame out of ourselves and into others. And when this form of self-regulation in a patriarchal system remains unobserved and unacknowledged, well… we see the consequences everywhere, every day: bullying, misogyny, homophobia, transphobia, racism, xenophobia, violence, isolation. </p>
 
 
 
   
 
 
-<p>According to the researchers, in line with established studies, this most recent research constitutes a further order of group-level predictors of well-being that:</p>
-<ul>
-<li>lends further confidence to the interpretation of the direction of the relationship: that group-type diversity leads to well-being, rather than well-being leading to diversity. </li>
-<li>adds to a broader research landscape by specifying an additional pathway via which group memberships can benefit health,</li>
-<li>enriches the study of the health benefits of creativity by highlighting a way to enhance creative self-efficacy, and</li>
-<li>is the first study to find that the increased creative self-efficacy associated with group-type diversity is associated with a reduction in loneliness. </li>
-</ul>
+<p dir="ltr">I was recently moved by a male client who had served in the military. Throughout his life, so much of his relational world involved competition, proving his strength and worth in the form of toughness/“masculinity.” (His father, for example, showed him warmth only when he was in high school, when he won a football game.) His service in the Army was no exception. But he recalled a pivotal existential moment, when he bonded with another soldier who invited him to connect emotionally. The two of them verbalized a range of feelings with one another, including vulnerability, without fear of rejection, emasculation, or shame. This meaningful friendship opened up their lives and has proven to endure. It made them even more attuned to their jobs, allowing them both to create deep, human connections with their fellow soldiers, making sure they felt truly supported and had what they needed to serve. Several of these soldiers had wanted to end their lives before receiving the generous attention of my client. Before the “blessing of that friendship,” my client said, the men he worked with only knew how to connect by fighting with one another physically: “That’s what they thought they needed to do to be men.”</p>
 
-<p>They propose that multiple and diverse social group memberships substantially contribute to our perception of “who we are and provide individuals with a distinctive sense of ‘us’ and ‘we.’” </p>
+<p dir="ltr">We too often dismiss the practice of social policing, of pitting boys and men against one another as a way to dominate women, before it <a href="https://www.psychotherapynetworker.org/article/boys-holding-hands/">develops</a> into full-blown, hateful violence. And then repeats itself. </p>
+<p dir="ltr">As a psychotherapist, my job is to help people to name experiences they never learned to acknowledge, as my client’s friend did for him in the Army. It is in this naming, this breaking of silence, that shame is disrupted—and fear and cruelty along with it. From there, we can imagine connecting with other people with openness and creative possibility, free of punishing societal control. </p>
+
+<p dir="ltr">Our kids understand this intuitively. </p>
+<p dir="ltr">Recently, when my son came home from school, he wanted to talk to my husband and me about an incident on the subway during his school trip, which I described in <a href="https://www.psychologytoday.com/us/blog/quite-queerly/202605/say-patriarchy-pt-i-the-threat-americans-ignore">Part 1 </a>of this series. (To recap: One of the girls in his class wanted to sit with the boys on the subway—the kids were otherwise divided by gender. One of the boys dared the other boys to sit next to her. And then suddenly all of the kids began to feel self-conscious and ashamed.) Our son initially came to the teasing boy’s defense. The first words out of his mouth when we asked him how the boy's behavior made him and possibly everyone else feel were “Yeah, but…” </p>
+
+<p dir="ltr">Then, after thinking about it a little more, he got quiet. He selected one of his longtime favorite books from the bookshelf: <a href="https://www.ordinarypeoplechangetheworld.com/Books/I-Am-Rosa-Parks"><em>I am Rosa Parks</em></a>. And he re-read thoughtfully about how social exclusion becomes normalized without naming it. He then reminded us how necessary it is to walk in the shoes of those who feel that exclusion the most. </p>
+
+<p dir="ltr">So say patriarchy.</p>
+<p dir="ltr">Say misogyny.</p>
+<p dir="ltr">Say gay. Say trans. Say girl.</p>
+<p dir="ltr">Our children are listening.</p>
+<p dir="ltr"><strong>Copyright Mark O'Connell, LCSW-R</strong></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/where-women-govern/202605/diversity-and-more-diversity-strengthen-long-term-well-being" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/quite-queerly/202605/reclaiming-authentic-connection-say-patriarchy" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/where-women-govern/202605/diversity-and-more-diversity-strengthen-long-term-well-being</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/where-women-govern/202605/diversity-and-more-diversity-strengthen-long-term-well-being</guid>
-            <dc:creator><![CDATA[Debbie Peterson]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/quite-queerly/202605/reclaiming-authentic-connection-say-patriarchy</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/quite-queerly/202605/reclaiming-authentic-connection-say-patriarchy</guid>
+            <dc:creator><![CDATA[Mark O'Connell LCSW-R]]></dc:creator>
             <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/shutterstock_asset-generation-10e9e140-f4c3-42de-aded-c3b6fc8dac9a-2_edited.jpeg.jpg?itok=EIQ_f69V" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-julia-m-cameron-8841091.jpg?itok=5epubsH6" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What "Wildflowering" Means for Dating]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/bruce_y_lee.png.jpg?itok=5-I4em7x" alt="Bruce Y. Lee M.D., M.B.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mating</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What "Wildflowering" Means for Dating</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The advantages and disadvantages of simply going with the flow</h2><p style="font-size:0.9em;color:#666;">Posted May 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">"Wildflowering" is letting relationships grow organically  without enforcing any timelines or expectations.</li><li style="margin-bottom:6px;">It can help combat too much rigidity and strategizing in dating and help you just relax and go with the flow.</li><li style="margin-bottom:6px;">However, it can be problematic if you already tend to be indecisive or date the wrong people for too long.</li><li style="margin-bottom:6px;">Ultimately, know yourself, your situation, and your preferences and be frank and open about them to others.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-israyosoy-29698294.jpg?itok=Ns692dcI" width="320" height="256" data-insert-type="image" alt="&amp;quot;Wildflowering&amp;quot; is when you allow a relationship to either wilt or bloom completely organically without enforcing any particular timelines, labels, or expectations." title="Israyosoy S. from Pexels"></div>
+<div class="caption">"Wildflowering" is when you allow a relationship to either wilt or bloom completely organically without enforcing any particular timelines, labels, or expectations.</div>
+<div class="insertArea--origin subtext">Source: Israyosoy S. from Pexels</div>
+</div>
+</div>
+</div>
+<p>You could say that this term has become quite poppy lore. It's "<em>wildflowering</em>." It means allowing a relationship to either wilt or bloom completely organically without enforcing any particular timelines, labels, or expectations. Such a wild approach to dating may work for some and in some situations. But at the same time, it could leave others daisy and confused. The question then is: Where along the spectrum should you plant yourself when?</p>
+
+<h2>The Advantages of Wildflowering</h2>
+<p>You may prefer wildflowering if you are currently more about "going with the flow" and have the time and freedom to simply see what happens. Perhaps you are still quite early in your dating career, not ready to commit to anyone, or otherwise need time to figure out what you want in life. Maybe you simply want to play the field rather than be tied down to one person too soon.</p>
+
+<p>Wildflowering could then let you freely explore yourself and others without feeling any real pressure. Maybe not having the pressure of timelines and labels could allow you to be yourself more. This could be fine as long as you still have time on your side, in the words of the Rolling Stones.</p>
+<p>Wildflowering could work as long as the people you date are the same way, too. You could all grow wild in the field together like the backdrop to one of those pharmaceutical ads. But if you do want to get all flowery in such a manner, make sure that you clearly express your preferences to others and see whether they are cool with it. In other words, don't build others up, buttercup, only to let them down.</p>
+
+<p>In fact, a little more wildflowering could even help you land a more committed and better-fitting relationship if too much rigidity in your dating has been a problem. This could be the case if you yourself tend to obsess over whether the other person is indeed "The One" way too early in dating, jump into exclusivity way too soon, or rule in or out people way too quickly. This could also be the case if you are around other people who do such things and are too rigid for your tastes. </p>
+
+<p>Wildflowering can be a way to combat too much strategy in your dating life. Maybe, for example, you have a rigid checklist of superficial things that you want in a partner and are not open to others who may look a little different. Or perhaps dating apps could be forcing you to make particular decisions way too quickly. Wildflowering could then allow you to experience someone or something different more organically to determine whether you want to revise your expectations accordingly.</p>
+
+<h2>The Disadvantages of Wildflowering</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/pexels-cup-of-couple-6963454.jpg?itok=thCuZNRj" width="320" height="480" data-insert-type="image" alt="For wildflowering to work, both of you have to be into it." title="Cup of Couple from Pexels"></div>
+<div class="caption">For wildflowering to work, both of you have to be into it.</div>
+<div class="insertArea--origin subtext">Source: Cup of Couple from Pexels</div>
+</div>
+</div>
+</div>
+<p>Of course, every rose has its thorns. So it's important to cover the potential drawbacks of wildflowering as well. It may not be the right thing for you if you already lean towards being indecisive in dating, keeping things in limbo for way too long, or wasting time dating people who are not right for you. Remember, every moment spent with the wrong person could mean less time finding and being with the right person. </p>
+
+<p>Wildflowering can actually be a sign that you are with the wrong people. Your unwillingness to define the relationship or commit in any way may be your gut warning you against going any further. Or maybe you are wildflowering against your will mainly because other people around you want to do it. So, it does help to know exactly why you are wildflowering. </p>
+
+
+<p>Wildflowering certainly won't work if the other person is not into it. Dating someone who is wildflowering can be sort of like working as a temp. There is a good chance that at some point, he or she will seek someone who offers more job stability and benefits—essentially someone more willing to more purposefully grow the relationship and commit. </p>
+
+<p>Finally, while wildflowering may work for you for a while, things can change with time and age. As more and more people around you become more purposeful in dating, you may find yourself wondering where have all the flowers gone? You may not have the same opportunities to keep wildflowering that you did previously.</p>
+
+
+
+  
+
+
+<h2>What Should You Do About Wildflowering?</h2>
+<p>Ultimately, to know what to do about wildflowering, you've got to know yourself, your situation, and what you deep down truly want. Know the roots of any problems you may have with dating, so to speak. At the same time, be frank, open, and honest with others. Don't mislead them by pretending to be something that you are not.</p>
+
+<p>Such honesty and openness should apply whenever you encounter someone wildflowering as well, If you are truly OK with playing the field as wildflowers together, then great,go ahead and put the petal to the metal. If, however, you grow disenchanted with the idea, tell the other person as soon as possible. </p>
+
+<p>In general, dating is about finding the right mutual fit. Don't put up with a situation that's not right for you for too long. Be OK with being alone. Remember, as Miley Cyrus has emphasized in that song, you can always buy yourself flowers. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202605/what-wildflowering-means-for-dating" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202605/what-wildflowering-means-for-dating</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202605/what-wildflowering-means-for-dating</guid>
+            <dc:creator><![CDATA[Bruce Y. Lee M.D., M.B.A.]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/pexels-israyosoy-29698294.jpg?itok=jvushZu-" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
