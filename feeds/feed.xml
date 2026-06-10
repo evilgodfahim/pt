@@ -4,611 +4,219 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jun 2026 20:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 22:51:38 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Jun 2026 20:39:21 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 22:51:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Is Biased Research Misleading Therapists? Probably]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/opi.png.jpg?itok=JMfPZqeK" alt="Open Therapy Institute" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivated Reasoning</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Biased Research Misleading Therapists? Probably</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Good science needs dissent, not just agreement.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Will Artificial Intelligence Replace Therapy for Addiction?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/arnold_m._washton__1_.png.jpg?itok=YNXSXyx8" alt="Arnold M. Washton Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Addiction</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Will Artificial Intelligence Replace Therapy for Addiction?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI can assist addiction therapy, but the therapeutic relationship is irreplaceable.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Motivated reasoning leads people, including experts, to favor studies that fit preexisting beliefs.</li><li style="margin-bottom:6px;">When researchers share similar biases, entire fields can drift from what data actually show.</li><li style="margin-bottom:6px;">Famous findings often persist in literature even after being debunked by rigorous meta-analyses.</li>
+              <li style="margin-bottom:6px;">AI tools can supplement CBT-based addiction care, but cannot replace human interpersonal psychotherapy.</li><li style="margin-bottom:6px;">Denial and ambivalence require skilled clinical truth-telling, not AI validation.</li><li style="margin-bottom:6px;">AI sycophancy trained to please and affirm is dangerous in the face of minimization and denial.</li><li style="margin-bottom:6px;">The therapeutic relationship remains the irreplaceable vehicle and driver of meaningful change.</li>
             </ul>
           </div>
-                    <p dir="ltr">In 1979, Stanford researchers <a href="https://doi.org/10.1037/0022-3514.37.11.2098">Charles Lord, Lee Ross, and Mark Lepper</a> ran a now-classic experiment in which they showed participants two studies on capital punishment: one concluding it deterred murder, one concluding it did not. Of course, the studies were totally fabricated. Participants who came in with strong opinions about the efficacy of capital punishment, in either direction, rated the study that agreed with their view as well designed, whereas the study that disagreed, they rated as weak and flawed. And, perhaps most surprisingly, even after reading both studies, participants did not update or moderate their positions. They became more extreme in the original direction they’d chosen.</p>
+                    <p>Artificial intelligence (AI) has entered virtually every sector of healthcare, and addiction treatment is no exception. Chatbots, conversational agents, and AI-powered coaching apps are now marketed as tools, or even substitutes, for traditional psychotherapy in the treatment of alcohol and other substance use disorders (SUDs). Proponents argue that AI can expand access to evidence-based care, reduce stigma, and provide around-the-clock support. Critics warn that these promises obscure serious limitations and genuine clinical dangers. Whether AI can meaningfully supplement, let alone replace, human psychotherapy for addiction (and other behavioral health problems) remains unclear and requires careful scrutiny.</p>
 
-<p dir="ltr">This study showcased what psychologists refer to as "motivated reasoning," wherein people sort incoming information through a filter of what they already believe, rather than analyzing information neutrally or based on pure logic. Motivated reasoning is a robust phenomenon and has been demonstrated across many topics, from climate science and gun policy to vaccine safety, applying to people on the political left and right in roughly equal measure. Indeed, some researchers have gone so far as to argue that motivated reasoning appears to be <a href="https://www.hup.harvard.edu/books/9780674237827">a normal part of human nature</a>, like walking on two legs or getting angry.</p>
+<h2>The Case for AI as a Supplement to Addiction Treatment</h2>
+<p>There are legitimate reasons to explore AI as a supplemental resource. Fewer than 10% of the estimated 46 million Americans with a substance use disorder received any treatment in 2023 (SAMHSA, 2024). Geographic, financial, and social barriers, including stigma, prevent millions from ever entering a therapist’s office. AI tools that deliver psychoeducation, screen for risk, encourage help-seeking, and provide between-session support can serve a meaningful adjunctive role.</p>
 
-<p dir="ltr">In a <a href="https://openinquirymentalhealth.substack.com/p/distorted-data-political-bias-and">recent article</a> in Open Inquiry in Mental Health, psychologist Benjamin Lovett raises an uncomfortable extension of this phenomenon: Researchers—the people we rely on for discovering what’s true in the world—are (gasp!) human, too, and thus subject to the same biases as the rest of us. Under normal circumstances, this might not matter, so long as the set of prior beliefs among the expert class is diversified enough that biased filtering in one direction cancels out the other. But when almost all experts share the same underlying beliefs, they can end up filtering information the same way, with downstream consequences for how they design experiments, interpret their data, and publish their results. In therapy specifically, this can mean that the resulting literature—the evidence base that clinicians are told to practice from—can drift away from what the data actually show. Recent survey data suggests most mental health researchers lean in the same political direction, which means this imbalance is not merely a hypothetical.</p>
+<p>Perhaps the most defensible application is AI-assisted delivery of cognitive behavioral therapy (CBT). Because CBT is highly structured and emphasizes psychoeducation, cognitive restructuring, and behavioral skill-building, its core components are more amenable to algorithmic delivery than the nuanced, relationally complex work of interpersonal or psychodynamic therapies. Several digital CBT programs have demonstrated modest efficacy in randomized controlled trials as supplements to standard care (Carroll et al., 2014). AI can also provide relapse-prevention prompts, help users track craving patterns, and offer immediate coping strategies at high-risk moments, extending the therapeutic hour into daily life.</p>
 
-<p dir="ltr">Consider an example Lovett describes. In the late 1990s, a study reported that when female students were reminded about the stereotype that women are worse at math, they actually performed worse on a subsequent math test (the so-called "stereotype threat" effect). The finding was electrifying: It implied that even subtle cultural messages could damage girls’ performance, and it quickly became one of the most-cited findings in social psychology. But years later, a careful meta-analysis revealed that studies demonstrating the effect were far more likely to get published than those that didn’t, and once this bias was accounted for, the effect essentially vanished. Despite this, the original 1999 study is still cited far more often than the more accurate meta-analysis.</p>
+<h2>The Fundamental Limits of AI as a Therapist</h2>
+<p>The notion that AI can replace psychotherapy rests on a profound misunderstanding of what therapy actually is. Therapy is not advice-giving, not the generation of to-do lists, not the dispensing of directives such as “stop drinking and start exercising” or “avoid triggers but maintain social connections.” Framing addiction treatment as a problem of insufficient behavioral instruction fundamentally misrepresents the clinical reality. Even CBT, the modality most amenable to algorithmic delivery, is most effective within a strong therapeutic relationship (Norcross &amp; Wampold, 2011).</p>
 
-<p dir="ltr">This is one pathway through which motivated reasoning can influence science: Findings that confirm what the field wants to believe get celebrated and amplified; findings that don’t quietly disappear from the literature, and the ones that survive still get cited long after they've already been corrected or debunked.</p>
+<p>Interpersonal, psychodynamic, and motivational enhancement therapies place the therapeutic relationship at the very center of the change process. Addiction is not merely a set of maladaptive behaviors to be corrected; it is an expression of deeper psychological vulnerabilities, including self-esteem deficits, unresolved trauma, attachment ruptures, and shame, that require a sustained, attuned, trusting relationship between patient and clinician to address effectively (Washton &amp; Zweben, 2023). No current AI system is capable of forming or therapeutically utilizing a genuine interpersonal relationship. It can simulate warmth, but it cannot provide it.</p>
 
-<p dir="ltr">For practicing clinicians, this creates a problem. Evidence-based practice relies on the assumption that the results being summarized in guidelines and textbooks are a reasonably accurate portrait of the underlying data, but on many politicized topics (cultural competence, gender-affirming care, trauma classification, and the effects of various interventions on different demographic groups), that may not be the case. </p>
+<h2>Denial, Ambivalence, and the Sycophancy Problem</h2>
+<p>Perhaps the most clinically significant limitation of AI in addiction treatment concerns denial and ambivalence, core features of virtually all SUDs. Addiction is uniquely characterized by a patient’s resistance to acknowledging the severity or consequences of the problem, being of “two minds” about change, or disputing that a problem exists at all. Minimization, rationalization, and externalization of blame are not merely obstacles to treatment; they are the treatment problem itself. Motivational interviewing (MI), the evidence-based framework specifically designed to address ambivalence and resistance, depends on the clinician’s ability to read subtle interpersonal cues, roll with resistance, develop discrepancy, and respond with calibrated empathy within an established therapeutic alliance (Miller &amp; Rollnick, 2023).</p>
 
-<p dir="ltr">Lovett recommends that when it comes to politically charged topics, clinicians read the actual studies rather than just the summaries, examine control conditions, check whether a meta-analysis corrected for publication bias, and what happened when they did—in other words, to think critically about the evidence. </p>
+<p>Current AI systems exhibit a well-documented tendency toward “sycophancy,” a systematic bias toward responses that users find agreeable and emotionally comfortable, even when clinical accuracy demands otherwise (Malmqvist et al., 2025). This tendency is not a superficial design flaw, but an artifact of AI training processes that reward responses consistently rated by human evaluators as affirming and preferable. In addiction treatment, this tendency is potentially dangerous. A patient who insists their drinking is “not really a problem” is likely to receive a gentle, validating AI response that neither challenges the distortion nor advances the change process. A skilled clinician, by contrast, uses that moment, together with the full context of the patient’s history, present affect, and the therapeutic relationship itself, to compassionately but directly address the discrepancy between stated values and current behavior. This is the art of therapeutic truth-telling, delivered with warmth within a relationship strong enough to hold the patient’s discomfort. AI, trained to avoid discomfort and optimize for user approval, is structurally ill-suited for it.</p>
 
-<p>Good research can survive disagreement. It can't survive the absence of it.</p>
+
+<h2>Safety, Ethical, and Clinical Risks</h2>
+<p>Significant safety concerns attend the use of AI in addiction treatment. Alcohol and certain drug withdrawals can be medically life-threatening; AI systems cannot conduct clinical assessments, detect imminent risk, or coordinate medical interventions. Comorbid psychiatric conditions, highly prevalent in SUDs, require differential diagnosis and treatment planning beyond the scope of any current AI. Confidentiality standards, mandatory reporting obligations, and liability frameworks governing licensed clinicians do not apply uniformly to commercial AI applications (NIDA, 2023). Patients who engage with AI as a primary “treatment” risk delaying or forgoing evidence-based care, potentially at serious cost to their health and well-being.</p>
+
+<h2>A Constructive Path Forward</h2>
+<p>The most defensible role for AI in addiction treatment is as an adjunct to human care, not a replacement for it. AI tools may appropriately extend the reach of psychoeducation, support between-session skill practice, facilitate symptom monitoring, and reduce barriers to entering treatment. Used judiciously and with appropriate clinical oversight, they may enhance care for patients already engaged with a qualified provider. What they cannot do, and should not be allowed to obscure, is the irreducibly human work of standing with another person in their struggle, earning their trust, tolerating their resistance, and helping them find the courage to face what they have been working so hard not to see. That remains the province of the skilled clinician, and no algorithm is close to replicating it.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/open-therapy/202606/is-biased-research-misleading-therapists-probably" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/harm-reduction-or-abstinence/202606/will-artificial-intelligence-replace-therapy-for-addiction" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/open-therapy/202606/is-biased-research-misleading-therapists-probably</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/open-therapy/202606/is-biased-research-misleading-therapists-probably</guid>
-            <dc:creator><![CDATA[Open Therapy Institute]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/harm-reduction-or-abstinence/202606/will-artificial-intelligence-replace-therapy-for-addiction</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/harm-reduction-or-abstinence/202606/will-artificial-intelligence-replace-therapy-for-addiction</guid>
+            <dc:creator><![CDATA[Arnold M. Washton Ph.D.]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/binocularrobhyronsshutterstock_206038120.jpg?itok=VZhXIlNU" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-silverkblack-36729385.jpg?itok=HXKDej-f" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Hidden Cost of Chronic Narcissistic Abuse]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/jn2021bb-removebg-preview__1_.png.jpg?itok=94K7CLJP" alt="Joe Navarro M.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Narcissism</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Cost of Chronic Narcissistic Abuse</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Narcissistic abuse erodes self-trust.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Victims of narcissistic abuse gradually lose confidence in their own memories and perceptions.</li><li style="margin-bottom:6px;">Chronic psychological stress becomes physically visible.</li><li style="margin-bottom:6px;">Through criticism, minimization, and control, victims may lose touch with who they were.</li>
-            </ul>
-          </div>
-                    <p><em>By Joe Navarro, M.A. and Deb Lieberman, PhD</em></p>
-<p>Not all psychological wounds are visible. Some accumulate slowly, across months or years, disguised as ordinary relationship stress—until the day a person looks in the mirror and no longer recognizes the face looking back.</p>
-<p>That moment of estrangement is one of the most telling signs of chronic narcissistic abuse. These are not the ordinary frustrations of a difficult relationship. They are indicators of profound psychological injury: disruptions in perception, identity, emotional functioning, and the capacity to engage fully with life. <em>Like water slowly wearing away stone, the narcissist's influence gradually undermines the victim's confidence until the person scarcely resembles who they once were.</em></p>
+            <title><![CDATA[5 Signs You’re a Self-Disciplined Person]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/alice_boyes.jpg?itok=beWKdmMs" alt="Alice Boyes Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Control</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Signs You’re a Self-Disciplined Person</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Don’t measure your self-discipline against a stereotype.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/gemini_generated_image_4vy0x04vy0x04vy0.png.jpg?itok=UQ5pysBj" width="320" height="320" data-insert-type="image" title="AI Generated Image" alt="AI Generated Image"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: AI Generated Image</div>
+</div>
+</div>
+</div>
+<p>You’re probably familiar with a “bro” image of a self-disciplined person. They eat plain chicken breast for the purest macros. They quote popular habits advice. They never miss a workout.</p>
+<p>This particular stereotype is pervasive, but there’s much more to being a self-disciplined person than that cliche.</p>
 
-<p>The progression is rarely sudden. Victims almost never recognize the extent of the damage while it is occurring. Instead, the erosion happens incrementally—one interaction at a time, one humiliation at a time, one distortion of reality at a time.</p>
-<h2>When You Can No Longer Trust Your Own Mind</h2>
-<p>One of the earliest and most disorienting warning signs is losing trust in one’s own perceptions. Healthy individuals rely on their memories, judgments, and instincts to navigate daily life. In a narcissistic relationship, those internal reference points are systematically attacked.</p>
+<p>Let’s review five under-appreciated signs that someone (perhaps you) is a self-disciplined person.</p>
+<h2>1. You Can Keep Friends</h2>
+<p>Ill-disciplined people blow up friendships in a variety of ways.</p>
+<ul>
+<li>Running hot and cold on friends.</li>
+<li>Outlandish behavior, like drunkenness or “embarrassing” behavior in groups that puts people off.</li>
+<li>Not biting their tongue when they should and saying hurtful things.</li>
+<li>Flaky behavior, like not showing up to confirmed plans.</li>
+<li>Annoying behaviors the person can’t see or help, like one-upping their friends (their achievements are always bigger).</li>
+</ul>
 
-<p>Conversations clearly remembered become sources of uncertainty. Events that occurred are flatly denied. Feelings are dismissed. Preferences are ignored. Over time, the victim begins to wonder whether their memory is failing or their judgment is fundamentally flawed. Eventually, compliance replaces resistance—because arguing, clarifying, or objecting seems futile. The narcissist's version of reality becomes the dominant one. The lie, repeated often enough, becomes the norm.</p>
+<p>Being able to keep friends over the long term signals you’re not doing any of these things. It’s a signal that you've overcome a big list of ill-disciplined behaviors.</p>
+<h2>2. There’s a Health Routine You Currently Do That You’ve Maintained for Longer Than a Year</h2>
+<p>Our image of a self-disciplined person is often of someone who doesn’t have any chronic health conditions. The idea that self-discipline prevents these is over-represented in the stereotype, which is usually of someone young and ultra fit.</p>
 
-<p>This is not accidental. It is the direct result of deliberate, persistent manipulation. In fact, it is a form of torment that one victim described as a “living terror.” And as the victim begins relying on the narcissist’s interpretation of reality more than their own, psychological dependency steadily replaces personal autonomy.</p>
+<p>We can broaden our image to someone who responsibly maintains a <a href="https://www.psychologytoday.com/us/blog/in-practice/202601/5-ways-to-learn-to-love-routines">health routine</a> and has successfully done so for a long period.</p>
+<p>Examples:</p>
+<ul>
+<li>You take a medication every morning and don’t mix it with what you’re not supposed to mix it with.</li>
+<li>You do the unsexy work of managing a chronic condition with standard evidence-based treatments, not unproven or trendy ones.</li>
+<li>You might not be managing a chronic condition, but you have a consistent health routine, like you put on sunblock or floss every day.</li>
+</ul>
 
-<h2>Stress You Can See in the Mirror</h2>
-<p>Chronic psychological stress leaves physical fingerprints. When the body is forced to endure relentless pressure, it remains locked in a state of vigilance—always preparing to freeze, fight, or flee. Nowhere is this more visible than in the face.</p>
-<p>The jaw tightens from constant clenching. The forehead furrows from repeated contraction. Crow’s feet form around the eyes—not from laughter, but from strain. Elevated cortisol accelerates aging, reduces collagen, and drains the complexion of its vitality. Lack of sleep and tension contribute as well. The result is something many people recognize immediately, even if they cannot name it: a stress face. It includes eyes that are burdened, features drawn, and an expression perpetually guarded.</p>
+<h2>3. You Get Around to Doing Things You Want to Do</h2>
+<p>The idea that a self-disciplined person doesn’t do impulsive but damaging things verges on being the definition, but here’s a really interesting counter pattern that virtually no one considers.</p>
+<p>Self-disciplined people actually do the things they want to do.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>And then there is the smile—or rather, its absence. For many victims, happiness itself becomes something to conceal. As countless individuals have told me over the years, there is often a penalty for looking too happy, too confident, or too content. Eventually, the face learns what the mind already knows: in a hostile environment, even a smile can harm you, so why even try? And so that dour face sets in, the corner of the mouth (commissures) turns downward; it is a facial projection of what you have become.</p>
+  </div>
 
-<p>Over time, through the agony of narcissistic abuse, many victims feel ensnared—a state of psychological captivity. Though physically free, they become constrained by fear of the narcissist's reactions. Thoughts are filtered, opinions withheld, emotions concealed. Even children raised in narcissistic households learn this lesson early: Remain invisible, attract no attention, give no one a reason to react.</p>
+<p>Consider someone who signs up for a popular bucket-list event a year before it will happen, and then <a href="https://www.psychologytoday.com/us/blog/in-practice/202601/how-to-become-someone-who-follows-unconventional-paths">follows through</a>. It’s the person who has always wanted to watch swimming at the Olympics who already has LA 2028 tickets. It’s the person who wants to do a bucket-list train ride that’s only available by lottery who has entered that lottery every year for the last ten.</p>
+
+<p>People who aren’t self-disciplined drift.</p>
+<h2>4. You Can Do Less When That’s the Better Choice</h2>
+<p>Sometimes people are <a href="https://www.psychologytoday.com/us/blog/in-practice/202603/how-to-become-more-comfortable-with-change">so rigid</a> with habits they do the habit when it’s not wise.</p>
+<p>For instance:</p>
+<ul>
+<li>You keep doing the rest of your planned workout when you feel an injury because your plan calls for a certain number of minutes or sets.</li>
+<li>You run on your wedding day even though it adds a lot of stress and creates time-management pressure for the day.</li>
+<li>You put out your podcast on time to maintain your streak even when you have nothing to say.</li>
+</ul>
 
 
-<p>Self-censorship becomes automatic. Life begins to revolve around avoiding conflict rather than pursuing fulfillment. Energy that would normally fuel creativity, connection, and growth is redirected entirely toward vigilance and survival. After all,<em> hammer long enough, and even the heartiest among us eventually yield.</em></p>
+<p>It’s faux discipline if you feel like your discipline hinges completely on habits. This means you’re good at habits (an excellent skill to have itself). However, it’s not really evidence of excellent discipline exactly because habits decrease the need for discipline.</p>
+<h2>5. You Have Internal Standards That Don’t Depend on What You Can Get Away With</h2>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<h2>Identity Lost</h2>
-<p>Perhaps the greatest casualty is identity itself. Preferences are criticized or ignored. Accomplishments are minimized or belittled. Dreams are ridiculed or crushed. Gradually, victims abandon parts of themselves to preserve peace. Years later, they find themselves asking questions they once answered effortlessly: <em>Who am I? What do I want? What am I entitled to that won’t offend?</em> These are questions victims have shared with me.</p>
+  </div>
+
+<p>You’re the podcast host who rejects sponsorships that don’t meet your <a href="https://www.psychologytoday.com/us/blog/in-practice/202603/7-signs-youre-an-independent-thinker">evidence-based standards</a>, even if you think your audience would tolerate them.</p>
+<p>The quality of your effort doesn’t depend on who’s watching. Your standards don’t depend on there being consequences for not keeping to them.</p>
+<h2>Don’t Measure Your Self-Discipline Against a Stereotype</h2>
 
 
 
   
 
 
-<p>Social isolation compounds the damage in ways that are both insidious and devastating. But here is something that often gets overlooked: Sometimes the narcissist doesn't have to do anything deliberate to isolate you. Their toxic presence alone is enough. Friends stop coming around. Family members grow quiet and distant. Colleagues find reasons to keep their interactions brief. People can sense, even if they can't articulate it, that something is deeply wrong, and they retreat. If you are married to a narcissist, you feel this acutely. You watch your social world shrink, not because anyone announced they were leaving, but because spending time around your partner has become something people simply stop volunteering for.</p>
+<p><a href="https://www.psychologytoday.com/us/blog/in-practice/202603/5-steps-to-meet-yourself-where-you-are">Hustle culture</a> (which incorporates optimization culture) would like us to measure ourselves against its stick. The confident and rebellious move is not doing that.</p>
+<p>The stereotype of a self-disciplined person is one who excels at habits, but that conflates two different concepts. Having excellent habits is often influenced by the privilege (e.g., money, health, control over their schedule) to avoid and recover from disruptions.</p>
 
-<p>And then there is the deliberate kind of isolation, the manufactured conflict with your sister, the cutting remark about your best friend, the subtle campaign to convince you that the people who love you most cannot be trusted. Direct interference. Engineered exhaustion. A slow, methodical severing of every lifeline you have in time vanishes.</p>
+<p>I’ve mentioned five under-appreciated signs of self-discipline. There are plenty of others I haven’t covered, such as you don’t take outrage bait. You don’t have to measure yourself solely against my list either. In fact, there is value in you identifying more under-appreciated but valid signs of self-discipline as your own cognitive project.</p>
 
-<p>What makes this so dangerous is what happens in the silence that follows. When your connections to friends, family, and colleagues are gone, whether driven away by the narcissist's toxicity or cut off by their direct interference, the distorted reality of the relationship goes completely unchallenged. There is no one left to say, "<em>This isn't normal."</em> There is no one left to say, "<em>You deserve better." </em>And yes, the reality is you are more alone than ever before. And in that loneliness, dependency on the narcissist deepens.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/in-practice/202606/5-signs-youre-a-self-disciplined-person" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/in-practice/202606/5-signs-youre-a-self-disciplined-person</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-practice/202606/5-signs-youre-a-self-disciplined-person</guid>
+            <dc:creator><![CDATA[Alice Boyes Ph.D.]]></dc:creator>
+            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/gemini_generated_image_4vy0x04vy0x04vy0.png.jpg?itok=BA87YZ26" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Variable in Mental Well-Being]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jason_linder_new_cropped.jpg?itok=COeBGiXU" alt="Jason N. Linder, PsyD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mindfulness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Variable in Mental Well-Being</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What matters is not "what" you experience, but "how" you relate to it.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>In my 15 years as a therapist, I'm used to clients arriving with a specific target: a relationship problem, a painful memory, an anxious or catastrophic prediction, or a harsh inner critic. They usually want to change <em>what</em> they are experiencing. But real breakthroughs rarely happen by changing the <em>content</em> of our experience; they happen when we change <em>how</em> we relate to it. It's not what I'm thinking, but how I'm relating to what I'm thinking that matters. It's not what I'm doing, but how I'm doing it. Before I was trained as a clinician and learned mindfulness, this distinction had sounded like a technical, almost superfluous, unnecessary, and philosophical footnote. Now I know it may be one of the most clinically significant, but subtle insights I've learned across 15 years of professional and personal practice. </p>
 
-<p>Consequently, many victims report developing what is called “trauma bonds”: powerful emotional attachments forged through cycles of abuse and intermittent affection. The temporary return of warmth appears to confirm that the loving version of the narcissist still exists and can be reclaimed. This hope, however painful, is often what keeps people tethered long after leaving has become necessary.</p>
+<h2>The "How" in Mindfulness</h2>
+<p>I first encountered this while studying and practicing mindfulness, originally in 2013 at Spirit Rock. Mindfulness is, as Jon Kabat-Zinn would say, the awareness that arises through paying attention on purpose, in the present moment, curiously, acceptingly, and nonjudgmentally. In workshops, attendees (including myself) often wanted to know what to pay attention to. They wanted content. In mindful practice, however, content matters far less than the quality of attention itself. </p>
+
+<p>The mechanism most consistently linked to mindfulness outcomes isn't relaxation, mental peace, or stress reduction. It's decentering. <em>Decentering</em> is the ability to observe thoughts and feelings as temporary rather than true reflections of reality and self. In decentering, you are not changing your inner world. You are changing your relationship to your inner world. </p>
+
+<p>As noted, the content of experience can remain exactly the same. What shifts is the angle of engagement. There is a profound difference between being trapped inside a storm and watching it pass from behind a window. In mental health work, we often exhaust ourselves trying to change the weather of our experience. But the secret to well-being isn't changing the storm; it's learning how to step behind the glass and observe.</p>
+
+<p>This isn't just one of my clinical observations; the research confirms this as well. Fuochi and Voci (2024) found that decentering suppressed the association between negative emotions at one point in time and negative emotions in the future, effectively interrupting patterns that would otherwise compound into greater distress. A separate study published (Wang et al., 2024) confirmed that decentering functioned as a significant mediator of the relationship between mindfulness and psychological suffering across both cross-sectional and longitudinal designs. </p>
+
+<p>None of this is really about meditation or technique. It's about something much more fundamental: whether we are inside our experience or able to watch it. Mindfulness training is thought to increase metacognitive awareness, the ability to decenter from one's experience and view it as passing events, rather than to identify with it or believe it to be entirely truthful representations of reality. How you hold a negative experience is different from what it says. Most of us spend copious energy trying to change our inner lives and almost no time examining the stance with which we're engaging with it. </p>
+
+<h2>The "How" in Therapy </h2>
+<p>In my clinical work, this shows up constantly. A client arrives convinced that if they could just resolve the right issue or reach the right conclusion, their suffering would lift. Often, what's actually available to them isn't resolution but a different relationship to the uncertainty itself. Process over content. </p>
+
+
+<p>I primarily practice as an EMDR therapist. In <a href="https://www.psychologytoday.com/us/blog/relationship-and-trauma-insights/202007/what-the-heck-is-emdr-therapy-can-it-really-help-me">EMDR</a> Therapy (a <a href="https://www.psychologytoday.com/us/blog/mindfulness-insights/201906/mindfulness-and-emdr-therapy">mindfulness-based therapy</a>), the client’s relationship to the <a href="https://www.psychologytoday.com/us/blog/mindfulness-insights/201909/what-is-trauma-and-can-mindfulness-help-treat-it">trauma</a> changes significantly as treatment progresses (not the factual, past traumatic events themselves). Zooming out to therapy in general, research has arrived at a similar conclusion. Decades of process-outcome data found that relational processes in therapy showed a significantly stronger association with outcome than technical processes. The what of treatment, the particular model, reliably predicts less than the how of treatment, the quality of the relationship holding it. Over decades, repeatedly and seemingly intractably: the therapeutic alliance emerges as the most robust predictor of outcome, across virtually all therapy models (Sprenkle, Davis, &amp; Lebow, 2009; Davis, Lebow, &amp; Sprenkle, 2012). </p>
+
+<p>This means that when I'm sitting with my clients, the type of therapy I'm applying matters considerably less than how clients feel I'm meeting them. As I wrote about previously, <a href="https://www.psychologytoday.com/us/blog/relationship-and-trauma-insights/202508/who-your-therapist-is-matters-more-than-the-model-they">who your therapist is</a> and how they show up with you matters much more than the model their model. Specifically this can come down to how safe, heard, and understood you feel with them, and the overall level of collaboration and productivity in the relationship over time (regardless of therapy model). </p>
+
+
+
+  
+
 
 <h2>Conclusion</h2>
-<p>Recognizing the signs of narcissistic abuse — eroded self-trust, a distorted sense of reality, physical decline, loss of identity, isolation, and trauma bonding — is not weakness. It is the first step toward clarity and healing. These are recognized consequences of prolonged manipulation and coercive control, not evidence of personal failure.</p>
+<p>What I keep learning as a clinician and daily meditator is that presence is a quality of attention, not a checklist. The task isn't to eliminate negative experiences, thoughts, and/or feelings, but to notice what's arising and then gently return attention to the present moment. That <a href="https://www.psychologytoday.com/us/blog/mindfulness-insights/201904/how-mindfulness-can-reshape-negative-thought-patterns">practice</a>, repeated thousands of times, changes not just how you relate to yourself but how you relate with others. </p>
 
-<p>People possess an extraordinary capacity to heal — not merely to survive, but to recover and thrive. But healing begins with recognition. Before restoration comes acknowledgment and, hopefully, validation. It was not you; it was them.</p>
-<p>What happened was real. The confusion was real. The fear, loneliness, and self-doubt were real. And the fact that you are still here, searching for answers and trying to make sense of it all, is not weakness. It is resilience.</p>
+<p>Most of us spend our lives fighting a civil war inside our own heads. We often treat a negative thought like an intruder to be argued with, managed, or evicted. But what if the problem isn’t the thought itself, but the fact that we are fighting it at all? The invitation isn't to stop caring about content. It's to notice that you've probably been optimizing for the wrong variable. </p>
 
-<p>From that clear-eyed understanding comes the rebuilding of trust, the reclaiming of identity, and the restoration of meaningful connections. A life no longer ruled by fear, confusion, or someone else’s need for control is possible. I have seen people find their way back to it.</p>
-<p>You can, too.</p>
-<p>Copyright (c) 2026</p>
+<p>What can you slow down and curiously observe today? What can you <a href="https://www.psychologytoday.com/us/blog/mindfulness-insights/201904/how-mindfulness-can-help-you-savor-your-life">savor</a> today? </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/spycatcher/202606/the-hidden-cost-of-chronic-narcissistic-abuse" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/mindfulness-insights/202606/the-hidden-variable-in-mental-well-being" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/spycatcher/202606/the-hidden-cost-of-chronic-narcissistic-abuse</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/spycatcher/202606/the-hidden-cost-of-chronic-narcissistic-abuse</guid>
-            <dc:creator><![CDATA[Joe Navarro M.A.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/mindfulness-insights/202606/the-hidden-variable-in-mental-well-being</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mindfulness-insights/202606/the-hidden-variable-in-mental-well-being</guid>
+            <dc:creator><![CDATA[Jason N. Linder, PsyD]]></dc:creator>
             <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/24550738-dda0-4cab-a5f6-b654f8eba839.png.jpg?itok=PZbH2B4r" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI Can Build the Science, But Not the Scientist]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Can Build the Science, But Not the Scientist</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Discovery changes the discoverer in ways algorithms cannot replicate.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI accelerates discovery, but the struggle to discover is what forms the scientist.</li><li style="margin-bottom:6px;">Judgment can't be transferred, but built through curiosity, error, and revision.</li><li style="margin-bottom:6px;">The greatest invention may be the mind that makes invention possible.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/funkyfocus-forest-4571929.jpg?itok=mpKgmGvy" width="320" height="180" data-insert-type="image" title="Image by David from Pixabay." alt="Image by David from Pixabay."></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by David from Pixabay.</div>
-</div>
-</div>
-</div>
-<p>Nikola Tesla once described a curious and remarkable habit. Before building a machine, he would build it in his mind. He would run it, test it, and find flaws without ever touching a physical prototype. The alternating current motor that would eventually help electrify our modern world existed first as an act of Tesla's mental construction.</p>
-
-<p>What interests me isn't whether this was actually true in every detail. What interests me is the possibility that the process itself was the point. The motor wasn't simply an invention waiting to be revealed. The time Tesla spent imagining and refining it may have been spent developing something else at the same time. Tesla himself.</p>
-
-<p>A recent article in <a href="https://www.noemamag.com/why-human-intuition-is-still-sciences-greatest-tool-in-the-age-of-ai/">Noema</a> argued that human intuition remains essential to scientific discovery even as AI becomes increasingly capable. I agree. But the argument may stop one step short. The deeper question for me isn't just if intuition helps produce discoveries. It's whether the process of discovery helps produce the kind of mind capable of discovering anything at all.</p>
-
-<p>We tend to think of knowledge—the theory, the experiment, the breakthrough—as the primary output of science. Yet scientific work produces something else that rarely appears in journals or textbooks. It shapes the minds engaged in the pursuit. A researcher who spends years toiling with a difficult problem develops more than expertise; they develop judgment. A feel for which intuitions deserve trust and which fail under closer scrutiny. They become, in ways that are hard to measure and easy to undervalue, different people than they were when they began.</p>
-
-<p>We may be misreading the role of difficulty. Confusion gets treated as the cost, and the answer as the reward. But patience and humility don't arrive after the struggle; they emerge from it. Being wrong may not simply precede understanding; it might be the mechanism through which understanding and the individual form.</p>
-
-<p>Imagine Tesla with access to modern simulation tools. The motor arrives sooner. Design flaws are caught instantly. And years of effort compressed into weeks. From the standpoint of productivity, it's an obvious improvement. But would Tesla have developed his extraordinary capacity for mental simulation if the tools had done the simulating? Would the mind that produced those answers have formed in the same way if the answers had arrived more easily and earlier?</p>
-
-<p>Knowledge and judgment are not the same thing. Knowledge can be transferred, but judgment must be cultivated. One can be delivered while the other must be developed through the very human constellation of curiosity, ambiguity, error, and revision.</p>
-<p>AI can generate science. That's the good news and the bad news. What it can't do is spend years toiling with a problem, getting it wrong, and then becoming someone capable of getting it right. That remains ours.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-can-build-the-science-but-not-the-scientist" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-can-build-the-science-but-not-the-scientist</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-can-build-the-science-but-not-the-scientist</guid>
-            <dc:creator><![CDATA[John Nosta]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-06/funkyfocus-forest-4571929.jpg?itok=nACxRj1R" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Better Listening Matters More Than Better Arguments]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Photo_Guy-removebg-preview.png.jpg?itok=TsdgdU5b" alt="Guy Itzchakov Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Better Listening Matters More Than Better Arguments</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">People reconsider their views when they feel heard, not when they're outargued.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">In conflict, high-quality listening lowers defensiveness and lets people keep thinking.</li><li style="margin-bottom:6px;">Speakers who felt truly heard became less extreme and felt closer to those they disagreed with.</li><li style="margin-bottom:6px;">Being listened to, not agreed with, protected well-being even in the middle of a disagreement.</li><li style="margin-bottom:6px;">Listening satisfies the needs disagreement threatens: relatedness, autonomy, and competence.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/shutterstock_2382547079_edited.jpeg.jpg?itok=8LlklDEx" width="320" height="213" data-insert-type="image" title="Mladen Mitrinovic/Shutterstock" alt="Mladen Mitrinovic/Shutterstock"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Mladen Mitrinovic/Shutterstock</div>
-</div>
-</div>
-</div>
-<p>A senior manager tells her team the company is returning to the office five days a week. Before she finishes, an employee says, "So you don't trust us." She responds: "That's not what this is about. Productivity has dropped, and collaboration is weaker." Another pushes back: "Productivity dropped because we're overloaded, not because we're remote."</p>
-
-<p>She adds data. They add counterexamples. Within minutes, each side has stopped trying to understand the other and started listening for weaknesses. The more each explains, the more rigid the other becomes.</p>
-<p>This is the moment disagreement hardens. We are often trained to make stronger arguments—to present evidence, defend decisions, and persuade. But new research suggests that in conflict, listening is not merely a sign of respect. It shapes whether people become more defensive or are able to reflect. High-quality listening is not just a softer way to have a hard conversation; it is what keeps hard conversations productive.</p>
-
-<p>Psychologists have documented "boomerang effects," in which persuasion backfires when people feel their freedom to hold a position is threatened. A policy update isn't heard as a policy update; it's heard as "Your judgment is wrong." Most difficult conversations are not only about facts. They are about psychological threat—and once people feel judged or dismissed, even strong arguments give them more material to resist.</p>
-
-<p>Across two recent papers, my colleagues and I examined what happens when speakers experience high-quality listening during disagreement, listening defined by undivided attention, understanding, and a nonjudgmental, positive intention toward the speaker.</p>
-<p>In the first set of studies, involving more than 900 participants, speakers who experienced high-quality listening during disagreement became less defensive, gained self-insight, and held their positions less extremely. This did not happen because the listener agreed, the listener disagreed. What changed was the quality of the listening. High-quality listening first created a felt sense of connection and safety. That safety allowed speakers to examine their own views without sliding into self-protection. Feeling connected and then thinking honestly is what produced depolarization: people saw their own views as less extreme and felt more similar to the person they disagreed with.</p>
-
-<p>In newer research, five studies with more than 1,600 participants, we asked whether high-quality listening can make disagreement less damaging to well-being. It can. Across videotaped workplace disagreements, live conversations, and recalled real-life conflicts with colleagues and family members, speakers who received high-quality listening reported greater well-being and more optimism that the conflict could be resolved. The mechanism was need satisfaction: high-quality listening met the three psychological needs disagreement threatens—relatedness (feeling connected and valued), autonomy (feeling free to speak without fear of judgment), and competence (feeling effective in getting one's perspective across).</p>
-
-<p>The most striking finding came when we put listening and agreement in direct competition. Speakers who were disagreed with but listened to well reported greater well-being and more optimism than speakers who were agreed with but listened to only moderately. An agreement without genuine listening did not protect well-being. Listening did—even alongside disagreement.</p>
-
-<p>The implication is direct: when people leave a hard conversation feeling worse, it is often not because they disagreed. It is because they did not feel heard. And fixing the listening is more within our control than fixing the disagreement.</p>
-<p>A final finding matters for anyone who assumes they are "not a good listener": listening can be trained. In a field experiment spanning 86 countries, participants completed a structured six-hour deep-listening program over three weeks, then discussed topics on which they strongly disagreed. Compared with a control group, trained participants listened better—and their partners reported more intimacy, more self-insight, and more attitude change, even though no one was trying to persuade them.</p>
-
-<h2>How to listen when disagreement hardens</h2>
-<p>Generic advice like "use active listening" isn't enough. Listening is not a checklist of nodding, staying silent, or paraphrasing; those behaviors can feel mechanical or evasive if they don't fit what the speaker needs. Three principles help more.</p>
-<p><strong>1. Listen well enough that people can keep thinking.</strong> In conflict, the first job of listening is to reduce the threat that stops people from using new information. That starts with undivided attention—and most of us listen while preparing a rebuttal, which the other person senses. Reflect not just the content but the concern behind it: "What I hear is that you're worried leadership is reading overload as a lack of commitment—is that right?" And avoid premature reassurance like "I understand, but…" Try instead: "I want to make sure I understand the concern before I respond."</p>
-
-<p><strong>2. Signal that listening is not agreement.</strong> People often confuse the two and may read careful listening as endorsement. The fix is not to listen less; it is to separate listening from deciding out loud: "I may not end up agreeing with your position, but I want to understand the concern behind it before I evaluate it." That protects the speaker from feeling dismissed and you from creating false expectations.</p>
-
-
-
-  
-
-
-<p><strong>3. Close the loop.</strong> Listening does not end when the conversation does. Follow-through doesn't mean acting on every request—it means showing what happened to the input: "I considered your concern. I'm not adopting the proposal, but it changed the decision in this way." Without that, people conclude nothing was heard, and over time, they stop speaking honestly.</p>
-
-<p>High-quality listening is not agreement, appeasement, or conflict avoidance. It may be most valuable precisely when we cannot agree, because it keeps disagreement productive rather than personal.</p>
-<p>Before a hard conversation, most of us ask, "How do I make my case?" Keep asking that. But add three questions: How will I show that I understand the other person's concern before I evaluate it? How will I make it clear that listening is not agreement? And how will I tell them what happened to what they said?</p>
-
-<p>Arguments matter. Evidence matters. But arguments work better when people feel heard enough to consider them. In a hard conversation, the winning argument is often the one the other person is still able to hear.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-listening-lens/202606/better-listening-matters-more-than-better-arguments" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-listening-lens/202606/better-listening-matters-more-than-better-arguments</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-listening-lens/202606/better-listening-matters-more-than-better-arguments</guid>
-            <dc:creator><![CDATA[Guy Itzchakov Ph.D.]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-06/shutterstock_2382547079_edited.jpeg.jpg?itok=DfWyypi2" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Irreplaceable Role of Human Connection in Therapy]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/melissa_goldberg_mintz.jpg?itok=stEnHl7l" alt="Melissa Goldberg Mintz Psy.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Irreplaceable Role of Human Connection in Therapy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI can't heal your trauma on its own.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI can be helpful in providing psychoeducation, and skills-based suggestions.</li><li style="margin-bottom:6px;">At the same time, it cannot mimic the feeling of safety in a relationship.</li>
-            </ul>
-          </div>
-                    <p>In a quiet flat in North London, over steaming plates of a home-cooked pot roast, I found myself talking not about trauma or grief or loss, but about artificial intelligence. I was visiting a cherished colleague. Kateryna was a fellow psychologist whom I had first met in Prague. We were in the Czech Republic to co-facilitate a training for local clinicians supporting parents of traumatized Ukrainian refugee children. </p>
-
-<p>Now, months later, we sat at her kitchen table and talked about something that seemed almost out of place in such a deeply human environment: AI in therapy. We discussed chatbots triaging mental health needs, algorithm-driven assessments, and apps that promised “evidence-based interventions in your pocket,” and patients who came to our offices after disastrous experiences enlisting Chat GPT to be their personal therapist.</p>
-
-<p><strong>AI Undermines Human Connection in Therapy</strong></p>
-<p>We found ourselves circling the same concern: Will AI start intruding on the therapy space in ways that weaken the very thing that makes therapy effective? And we kept returning to the same point. This is especially worrying in the area of trauma, where what is wounded in a relationship can only fully heal in a relationship.</p>
-
-<p>In some ways, AI can be helpful to a person in distress. Take someone struggling with their sleep. If they were to turn to Gemini and inquire about how to improve their restless nights, they would likely get feedback about how to maintain a consistent bedtime and wake-up time, limit screen use before bed, and avoid caffeine in the afternoon. These are valid, evidence-based recommendations that line up with insights I share with my own patients.</p>
-
-<p>For someone unsure where to begin, that kind of structured guidance can be concrete, accessible, and surprisingly helpful. It’s easy to implement in exactly the way many of us crave when we are struggling and want a checklist to follow. But therapy is not simply the delivery of information or techniques. If it were, Google and self-help books would have replaced therapists long ago. Human beings do not change only because they learn new tools. They change because they experience themselves differently in the presence of another person. </p>
-
-<p>This is even more true in trauma therapy. When we’ve been traumatized, especially in relationships, we don’t just need skills; we need safe, regulated human nervous systems to help calm and re-orient our own.</p>
-<p><strong>Neuroscience Has a Word for This: Co-Regulation</strong></p>
-<p>From infancy onward, we learn to manage distress by borrowing the stability of another person’s body, breath, and presence. In trauma, that system gets disrupted. Healing often requires practicing co-regulation again: feeling another person stay steady and stay with us while we touch the edges of our pain.</p>
-
-<p>AI can approximate empathy in its words, but it can’t simply be with you. It cannot sense your subtle facial expressions, your posture, the tremor in your voice. It cannot soften its tone because it notices you withdrawing. It cannot be quietly moved by your courage or hold your history in mind from week to week in the way a human being does, with all the messiness and depth of real memory and care.</p>
-
-
-<p>It can tell you, “You deserve compassion,” but it cannot offer you the experience of being met with genuine compassion in real time, from a person whose nervous system is resonating with yours. And in trauma work in particular, that lived, bodily experience of safety with another human is not a nice extra but the core of the work.</p>
-
-<p>AI will continue to rise. It will shape therapy, healthcare, and daily life in profound ways. But no matter how fast it advances, it cannot replace a steady presence across from you, a regulated nervous system meeting your dysregulated one, or the simple, transformative truth of being understood and accompanied by another person.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/connection-as-medicine/202606/the-irreplaceable-role-of-human-connection-in-therapy" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/connection-as-medicine/202606/the-irreplaceable-role-of-human-connection-in-therapy</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/connection-as-medicine/202606/the-irreplaceable-role-of-human-connection-in-therapy</guid>
-            <dc:creator><![CDATA[Melissa Goldberg Mintz Psy.D.]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/brain_peshkova_shutterstock_678583375_0.jpg?itok=xJTrsOS2" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Perinatal Mental Health Concerns Are Underreported]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/Z9__2_-removebg-preview.png.jpg?itok=0i2NFWk9" alt="Anthony D. Smith LMHC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Pregnancy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Perinatal Mental Health Concerns Are Underreported</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Help silently struggling perinatal women by learning to recognize the signs.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The U.S. has an increasing lack of maternal health care, including maternal mental health specialists.</li><li style="margin-bottom:6px;">Over 80% of maternal mental health concerns go unreported or unrecognized.</li><li style="margin-bottom:6px;">Perinatal depression is perhaps the most pervasive, but can be hard to recognize.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/pexels-mart-production-7089335.jpg?itok=6bAUYCJe" width="320" height="480" data-insert-type="image" title="Mart Products/Pexels" alt="Mart Products/Pexels"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Mart Products/Pexels</div>
-</div>
-</div>
-</div>
-<p>Maternal health care concerns are making research headlines. In 2025, The March of Dimes reported 24.5 % of expecting mothers no longer receive prenatal care in the first trimester, a critical period for ensuring a healthy pregnancy and baby. This year, researchers Stoneburner et al. told us, “Over 35 % of U.S. counties are designated as 'maternity care deserts', lacking obstetric clinicians and birthing facilities."</p>
-
-<p>Further, some women need perinatal mental health care, which is also lacking. The Policy Center for Maternal Mental Health (2025) reported that 84% of birthing-aged women reside in maternal mental health resource shortage areas. Given the importance of a mother’s mental well-being on the healthy development of the child, lack of these services could contribute to everything from struggles to bond to failure to thrive.</p>
-
-<h2>The maternal mental health care situation</h2>
-<p>Unfortunately, not only is there a lack of resources, but in 2024, Bublitz and Sharp at Brown University reported:</p>
-<blockquote><p>There is a popular perception that pregnancy is a time solely of joy...It is a myth that mental health is protected in pregnancy. Because of this, many people who struggle with mental illness in the perinatal period are reluctant to discuss their mental health with their providers. Over 80 percent of mental health problems in pregnancy go unreported. </p>
-</blockquote>
-
-<p>There’s not only lack of maternal mental health services, but 80% of perinatal mothers who could use them are going unrecognized. With early intervention, perhaps those mothers-to-be could experience more of the joy of pregnancy and prevent more significant post-partum psychiatric concerns. </p>
-<p>While we can't simply create more resources, we can help make sure struggling perinatal women are recognized and get some form of intervention. Even if they are in an area lacking maternal mental health specialists, working with a more general therapist or being prescribed pregnancy-safe medication is better than nothing. Against popular belief, psychiatric medication use in the perinatal period is often safe for the expecting mother and child (e.g. Fabiano et al., 2024; Petrosellini et al., 2024). </p>
-
-<h2>Perinatal depression can be hard to detect</h2>
-<p>When most people think of maternal mental health care, chances are that peripartum depression comes to mind. Peripartum depression is correlated with premature birth and low birth weight, trouble bonding with the baby, and development of cognitive and verbal deficits in the child (e.g. Fan, et al, 2004, Voit et al., 2022; Bergmann et al., 2025)</p>
-
-<p>There is also peripartum anxiety, mania, and psychosis, all often noticeable by others, making intervention more likely. Depression can be more subtle to detect, for both the mother and others, making awareness and screening extra important. </p>
-<p>Consider that some degree of fatigue, trouble concentrating, moodiness, and sleep disturbances aren’t unusual during pregnancy or post-delivery. However, they’re also symptoms of depression and should be evaluated closely. This is especially true if they are occurring together, intensifying, and/or impacting the mother’s ability to function effectively. This includes eating enough for the growing fetus or having the energy to attend to perinatal doctor appointments.</p>
-
-<p>Unfortunately, up to 15 % of perinatal mothers (e.g., Lindhal et al., 2005; Paul et al., 2021) may feel so depressed and inadequate they engage in non-lethal, self-injurious behavior (NLSIB), like cutting or burning themselves. Others may feel so unworthy and depressed that suicidal ideation or attempts occur. Perhaps the baby is very challenging, not eating or sleeping and is colicky, and in the anger that often accompanies depression, she has thoughts of shaking the baby or worse. </p>
-
-
-<p>The effects on the baby of maternal suicidal activity or aggression need no explanation. However, the effects of NLSIB in perinatal mothers on their child are just beginning to be understood. In fact some researchers (Paul et al., 2021) have noted that children whose mothers had only <em>thoughts</em> of self-harm from the 18th week of pregnancy to when the child was 18 were three times more likely to be depressed.</p>
-
-<h2>Risk factors and signs of perinatal depression </h2>
-<p>Risk factors for developing perinatal depression include a history of depression, perinatal or otherwise, and other present mental illnesses, including personality disorders, psychosocial stressors like domestic violence and low socioeconomic status, adolescent pregnancy, and unwanted pregnancy.</p>
-
-
-
-  
-
-
-<p>As for signs of perinatal depression, even if the person has no history of depression, be observant for any ongoing unpleasant mood, sleep, appetite, energy, and cognitive changes. Also, if you know they have a history of NLSIB, pay close attention for any scarring — or hiding or scarring, like wearing long sleeves even though it is summer.</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/vitaly-gariev-rqr2pntpmha-unsplash_0.jpg?itok=iRXvkkhX" width="320" height="180" data-insert-type="image" title="Vitaly Gariev/Unsplash" alt="Vitaly Gariev/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Vitaly Gariev/Unsplash</div>
-</div>
-</div>
-</div>
-<h2>Interventions for perinatal mothers you're concerned about</h2>
-<p>Should you feel the perinatal woman might be struggling emotionally, just asking how she feels can help open the discussion. They might confess they’re feeling stressed or overwhelmed. “How’s it affecting you?” would be a good follow up. If they give a simple reply like, “I just don’t have energy” or “I get snappy and moody,” ask about depressive symptoms. For example, “Has it bothered your eating or sleeping?” and “Do you feel all brain fogged?” Of course, asking if they feel sad/depressed or are having difficulty enjoying pregnancy or being a new mother is essential. Does she ever feel she is, or will be, an inadequate mother? Most importantly, she should be asked if she has had thoughts of harming herself or the baby. Affirmative answers to any of the above would indicate she is likely depressed. </p>
-
-<p>Perhaps the person looks stressed/depressed but says it’s just the fatigue of being pregnant or caring for a new baby and they’re really fine. In this case a gentle reply like, “I have to be honest, I asked because you seem like you have no energy and are kind of sad even though you were so excited to be pregnant [or to have given birth] earlier” could help get them to talk about their emotions. If they continue to say they’re fine, let them know you’re concerned and are available, and continue to check in. </p>
-
-<p>In the meantime, suggest they check in with their provider about the “stress” or “fatigue” to make sure its not depression. However, if you notice an increase in their struggle, talking to the person’s spouse/partner or other friends and showing group concern could help them realize they need treatment.</p>
-
-<p><em>Disclaimer: The material provided in this post is for informational purposes only and is not intended to diagnose, treat, or prevent any illness in readers or people they know. The information should not replace personalized care or intervention from an individual’s provider or formal supervision if you’re a practitioner or student.</em></p>
-
-<p><em>If you or someone you love is contemplating suicide, seek help immediately. For help 24/7 dial 988 for the 988 Suicide &amp; Crisis Lifeline, or reach out to the Crisis Text Line by texting TALK to 741741. To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/up-and-running/202606/perinatal-mental-health-concerns-are-underreported" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/up-and-running/202606/perinatal-mental-health-concerns-are-underreported</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/up-and-running/202606/perinatal-mental-health-concerns-are-underreported</guid>
-            <dc:creator><![CDATA[Anthony D. Smith LMHC]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-sarah-chai-7282627.jpg?itok=lpE585Ao" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Effortlessness Is a Myth]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/pamela_cantor_0.png.jpg?itok=0PaZwl9C" alt="Pamela Cantor M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Resilience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Effortlessness Is a Myth</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Roger Federer shows us what a mind loses when struggle gets bypassed.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A mind grows by staying with difficulty long enough for the experience to change it.</li><li style="margin-bottom:6px;">When young people bypass struggle too quickly, they lose chances to learn what they can do.</li><li style="margin-bottom:6px;">The presence of a steady adult is often what makes hard things survivable.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/federer_monte_carlo_2007.jpg?itok=Dnbd-45H" width="320" height="229" data-insert-type="image" title="Lijian Zhang / Wikimedia Commons" alt="Lijian Zhang / Wikimedia Commons"></div>
-<div class="insertArea--origin subtext">Source: Lijian Zhang / Wikimedia Commons</div>
-</div>
-</div>
-</div>
-<p>When Roger Federer gave the commencement address on a rainy Sunday at Dartmouth in 2024, he said something the graduates did not expect from a man whose tennis game was so smooth people frequently called it “effortless.”</p>
-<p>He hated that word.</p>
-<p>“Effortlessness is a myth,” he told them. He had won almost 80 percent of the 1,526 singles matches he played — but across all of them, he had won only 54 percent of the individual points. One of the greatest athletes who ever lived lost nearly half of every point he ever played.</p>
-
-<p>What he had built was a psychological skill: the capacity to lose a point, release it, and walk to the next one with a quiet mind. To fail at the highest possible rate and stay regulated enough to keep going. It is the work of building a self that can tolerate failure.</p>
-<p>I think about this a great deal, because we are quietly building the opposite. The conversation about young people and technology has narrowed to a worry: What are screens and chatbots doing to their attention? I want to ask a different question: What happens to a mind that is rarely allowed to struggle?</p>
-
-<h2>The Children I Worried About Most</h2>
-<p>In more than 20 years as a child psychiatrist, some of the young people I worried about most could not bear the feeling of not knowing. The moment something turned hard — a problem they couldn't solve, a page they couldn't follow, a feeling they couldn't name — they reached for relief. They quit, or came apart, or handed the difficulty to someone else.</p>
-
-<p>Effort has a feeling, and it is an uncomfortable one. It is the friction of trying something you cannot yet do, the frustration that rises when the answer won't come, the small voice that says you are not the kind of person who can do this. Psychologists have a dry name for the ability to stay with that feeling: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10345371/">Distress tolerance</a>. I think of it more simply as the capacity to remain in difficulty without fleeing it.</p>
-
-<p>It develops slowly, through experience, by being inside hard things and discovering, again and again, that we came out the other side. A mind that has never been asked to tolerate difficulty grows fragile. It reads ordinary effort as a threat.</p>
-<p>The wish to escape that feeling is one of the oldest things in us. AI changed how easy the escape has become. A young person can now be handed a finished answer to almost anything, instantly, before the discomfort of not knowing has a chance to do its work.</p>
-
-<h2>What the Mind Is Actually Building</h2>
-<p>Every time a person works through something they were sure they couldn't, they learn something about themselves that no one can simply tell them: I can do hard things. That belief is the residue of having actually done it. It is laid down one difficult experience at a time, and it cannot be installed from the outside.</p>
-
-<h2>No One Struggles Alone</h2>
-<p>The studies of expertise — the ones Malcolm Gladwell popularized as the <em>10,000-hour rule</em> — were never only about hours. What mattered was the structure of those hours: time spent on what you cannot yet do, effortful and uncomfortable by design. But the research never fully asked the question that has tugged at me for years: Who keeps people coming back after they fail?</p>
-
-
-<p>In every story like this, there is such a person.</p>
-<p>For Federer, it was Peter Carter, the coach who worked with him from age 10 to 14 and taught him how to lose a point and stay calm enough to win the next one. Federer has said that without him, he would not have become the player he became. What Carter built in that hot-headed boy was regulation — the capacity to quiet his own alarm before it hijacked the next moment.</p>
-
-<p>I know it from the inside, too. Before I understood any of this, I was a slow reader and a slower memorizer in medical school, and I survived it by sitting in the library night after night, converting everything I read into outlines in my own hand until the words finally got into my brain with meaning. What made those nights bearable were the people who had seen something in me before I could see it myself — my psychiatrist and the teachers and friends who refused to let me believe I was destined for less.</p>
-
-
-
-  
-
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/pexels-bertellifotografia-16094057.jpg?itok=OwvbazX1" width="320" height="480" data-insert-type="image" title="Matheus Bertelli" alt="Matheus Bertelli"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Matheus Bertelli</div>
-</div>
-</div>
-</div>
-<p>A child can tolerate a great deal of frustration when she is not facing it alone. Take the relationship away, and the same difficulty becomes unbearable. The connection is what makes the struggle possible.</p>
-<h2>What a Machine Cannot Do</h2>
-<p>We do not know what happens to a mind that was meant to be built through years of effortful practice when the practice is replaced by an instant answer. But I know what a mind requires, and none of it is produced by ease.</p>
-
-<p>A student who asks an AI tool to summarize a paper she never struggled to understand has not done the thing that changes a person. Her attention never narrowed to one hard idea for an hour. She never got to the far side of <em>I can't do this</em> and discovered that she could. A week later, she will remember reading about the paper, not the paper itself. She will not have collected the evidence that she is someone who can sit with something hard and prevail.</p>
-
-<p>I am not against these tools. I use them, as many of you do. But we have to be honest about what they cannot do. They can give us the answer. They cannot give us the experience of having found it. What you practice, you build. What you offload, you lose.</p>
-<h2>Staying Through Struggle</h2>
-<p>The impulse to spare the people we love from struggle is one of the most loving impulses there is. When a child pushes the hard thing away, every instinct says to step in, soothe, solve. But the most generous thing we can do is harder: to stay close while they stay in the difficulty, to be the steady presence that makes it survivable.</p>
-
-<p>The reach for something just past what you can do is the moment a mind grows. And the discovery on the other side — that you did not fall apart, that you are more capable than you feared — is something no tool can hand to a person. It has to be earned. Our job is to be there while they make it.</p>
-<p>Federer's “effortlessness” was a myth because every shot had been earned, in struggle, with a coach beside him who taught him how to lose. He left the graduates with a charge. You are going to lose a lot, he told them — you can't win everything, and no single point decides anything. What matters is the whole match, the whole adventure. “Go for your shots. Play free. Try everything.”</p>
-
-<p>That is the inheritance we are deciding whether to pass on. We can hand young people the answer to everything and ask them to struggle with nothing, and raise a generation that never finds out what it can survive. Or we can do the harder thing: stay close while they go for their shots and miss, while they lose the point, while they try something and fail — and discover, one hard thing at a time, that the losing did not break them.</p>
-
-<p>That, not the winning, is the whole match.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/federer_fonak.jpg?itok=lOOyvMEw" width="320" height="240" data-insert-type="image" title="Ian Gampon / Wikimedia Commons" alt="Ian Gampon / Wikimedia Commons"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Ian Gampon / Wikimedia Commons</div>
-</div>
-</div>
-</div>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/all-kids-thriving/202606/effortlessness-is-a-myth" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/all-kids-thriving/202606/effortlessness-is-a-myth</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/all-kids-thriving/202606/effortlessness-is-a-myth</guid>
-            <dc:creator><![CDATA[Pamela Cantor M.D.]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/federer_monte_carlo_2007.jpg?itok=lwX7ghc8" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[People Who Shut Down]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/untitled_2_0.jpg?itok=sNYHTgsC" alt="Robert Taibbi L.C.S.W." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">People Who Shut Down</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Shutting down is not the problem but a solution to an underlying emotional one.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Sutting down emotionally is a way of coping with underlying issues often learned in childhood.</li><li style="margin-bottom:6px;">The common causes are feeling overwhelmed, fear of conflict, or self-criticism and blame.</li><li style="margin-bottom:6px;">Solutions are broadcasting emotions, setting timeframes, making statements, and addressing the causes.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/geralt-couple-10113183_1280.jpg?itok=NOvZnhwy" width="320" height="477" data-insert-type="image" title="geralt/pixabay" alt="geralt/pixabay"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: geralt/pixabay</div>
-</div>
-</div>
-</div>
-<p>In my experience, there are two types of people who shut down. Sam is the first type: If he and his partner get into an argument, it often doesn’t go very far before Sam goes offline—stops listening, stops talking, and is clearly tuned out. But if the argument stops and he is given time to recover—minutes, hours, maybe the next day—he can re-engage.</p>
-
-<p>But Allie is the second type: When she gets annoyed by something her partner Jake does, she doesn’t snap or start an argument. Instead, she pulls away, and a wall goes up that Jake can sense. If he asks what’s wrong, Allie is likely to deny that anything is wrong. If Jake presses harder and asks more questions, things get worse, with Allie pulling away even more. Sometimes, several days later, Allie will come around and talk about what she’s upset about. But sometimes, the <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1659694/full">silent treatment</a> just seems to fade on its own, and the problem is swept under the rug.</p>
-
-<p>Shutting down is not the real problem; rather, it is Sam and Allie’s solution to an underlying emotional issue. For Sam, it’s about feeling overwhelmed in the heat of the argument, but what’s going on with Allie when there is no argument? Here are three common causes:</p>
-<h2>Allie is conflict-avoidant</h2>
-<p>While Allie is irritated with Jake, she becomes anxious about any conflict or strong emotions. Rather than saying something to Jake, she internalizes and holds her feelings, her way of avoiding stirring up in Jake the reaction she fears. His anxiety and questions only fuel her fears even more.</p>
-
-<h2>Allie is self-critical</h2>
-<p>While Allie is annoyed by Jake, her default response is to blame herself—either for somehow causing his behavior or scolding herself for being annoyed at all. Because it’s all about her in her mind, she denies being upset with him.</p>
-<h2>Allie needs time to process how she is feeling</h2>
-<p>This is where she is like Sam—she’s rattled and needs time to settle and sort herself out. But unlike Sam, her recovery time is much longer. Whatever the underlying cause, what they all have in common is her pulling away, which, in turn, creates anxiety in Jake, adding to the tension between them. </p>
-
-<p>What to do instead? Here are some suggestions for breaking the deadlock:</p>
-<h2>Broadcast your emotions</h2>
-<p>This is about proactively letting others know your emotional state—that you’re feeling grumpy, tired, or overwhelmed, among others. And then telling them what you need—leave me alone for a half hour, make dinner, or put the kids in bed. This is being emotionally responsible, and letting others know what’s going on with you helps put your behavior in a realistic context. It’s a preventive tool that, with practice, you can build into your daily routines.</p>
-
-<h2>Make statements rather than asking questions</h2>
-<p>Jake’s peppering Allie with questions makes things worse; questions instinctively put people on edge. Instead, make statements. Jake can say: “It seems like you’ve been quiet the last few days; I’m wondering if anything is wrong.” Or, “I sense something is bothering you; I’m happy to talk about it when you are ready.”</p>
-
-<h2>Provide a timeframe</h2>
-<p>This is Allie’s side of the relationship dynamic. To help relieve Jake’s anxiety, reduce his impulse to hound her, and give Allie more control, she can go on offense rather than playing defense: “I know you’re feeling anxious; I need a bit more time to sort out how I’m feeling; let’s talk sometime on Saturday.”</p>
-
-
-<h2>Work on the underlying problems.</h2>
-<p>Effective problem-solving in relationships often requires shedding old childhood coping styles. For Allie, this means working on her self-criticism or fear of confrontation and replacing them with self-acceptance and assertiveness, while for you, it may be something else that triggers you or makes you feel like a child rather than an adult. </p>
-
-<p>Upgrading your skills upgrades the quality of your life and relationships. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/fixing-families/202606/people-who-shut-down" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/fixing-families/202606/people-who-shut-down</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fixing-families/202606/people-who-shut-down</guid>
-            <dc:creator><![CDATA[Robert Taibbi L.C.S.W.]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/couple1geralt-pixabay.jpg?itok=kiDJ0bHS" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Despite Schizophrenia, I Have Worked for Over a Decade]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/byeiser_0.jpg?itok=oEu-K_2A" alt="Bethany Yeiser" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personal Perspectives</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Despite Schizophrenia, I Have Worked for Over a Decade</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A Personal Perspective: On work and schizophrenia.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/stocksnap-man-2562325.jpg?itok=E5FQxDja" width="320" height="213" data-insert-type="image" title="StockSnap / Pixabay" alt="StockSnap / Pixabay"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: StockSnap / Pixabay</div>
-</div>
-</div>
-</div>
-<p>During the past 18 years, I have enjoyed life in full recovery from schizophrenia, though I was told initially that this could never happen.</p>
-<p>Following years of suffering from debilitating schizophrenia, my journey to working again was rough. Ironically, my first symptoms in 1999 at age 17 included a strong obsession with work and school, with very little time left for friends or family. Oddly, as my illness progressed, the opposite happened. I gradually found myself unable to study or work. </p>
-
-<p>Looking back years later, from a place of stable recovery, I ask myself, why could I not handle even a part-time or low-stress job? I understand today that this was because I was experiencing certain symptoms of schizophrenia, namely delusions, paranoia, and catatonia, which left me disabled. <br><br><strong>Delusions </strong></p>
-
-<p>In 2002, the fall semester of my senior year of college, I began to believe I would become a prophet and was destined to be a billionaire. My racing mind believed I could change the lives of millions living in poverty across Africa. </p>
-<p>Delusions, in my experience, are not simply passing thoughts, but are fixed, false beliefs. Never in my life have I been so obsessed with anything as I was with delusions. This made it difficult to focus on anything else, even for a few minutes. I remember trying to study for a class and not being able to read the words on the page, though I had no insight into my illness.</p>
-
-<p>I was also delusional later on about being homeless. For weeks at a time, I wore a green dress, which became filthy. When I wandered around my former university campus, I’m sure I stood out, but I told myself that no one noticed. It would have been impossible to attend a job interview in my filthy clothing and worn shoes. Even if I had managed to find clean clothes, when I met with people during this time of my life, I would often stand up and just leave without warning and for no apparent reason, except that the voices in my mind told me to. If I had tried to attend a job interview, after a few minutes, it is likely I would have walked away.</p>
-
-<p><strong>Paranoia</strong></p>
-<p>During this time of my life, I was paranoid (unreasonably and obsessively anxious and mistrustful), believing that if I did find a job, my family and friends might find me and try to harm me in some way, even though throughout my life, they had always been supportive and loving. I never believed that I was being followed by the FBI, CIA, or other government entity. But today, as I work with people struggling with schizophrenia, some report that they cannot work because they hear other people whispering about them in the background, which distracts them.</p>
-
-<p><strong>Catatonia </strong></p>
-<p>It is hard to describe catatonia, but it felt a little like exhaustion. Perhaps like being awake for two days without any sleep, leaving me unable to function. I felt at a loss to move my body, as though I was stuck both physically and mentally. I didn’t even want to walk a few steps to grab a drink or a snack. I might sit in a park for four or five hours, sometimes more. I would daydream about the great things I was going to do for Africa as I stared into the distance. This catatonia wasted huge amounts of my time each day; I literally did not have the time to work a job. I was unable to even manage the bare necessities of my life.</p>
-
-<p><strong>Moving to recovery</strong></p>
-<p>In March of 2007, my life was radically changed by an involuntary hospitalization, where I would begin antipsychotic medication. The medication soon eliminated my delusions and paranoia, and I would never be homeless again. But I would continue to struggle with catatonia, which my first medication even made a little worse. Fortunately, after enduring 12 terrible months of failed medication trials and being identified as treatment resistant, I tried the underutilized medication clozapine and was a responder. After a few months on the medication, my catatonia was cured, and my life, in a sense, was unlocked from schizophrenia.</p>
-
-<p><strong>Moving forward</strong></p>
-<p>When I speak with families who have a loved one improving on antipsychotics, I first encourage the development of friendships to promote socialization. For people wanting to return to school, I encourage them to read widely and try to remember what they read. Finally, I encourage them to try school or work again. I do not suggest full-time work or school at the beginning. In my case, during the first semester of college following my recovery, I took one class only, genetics. But I came through with an A, which gave me the confidence to take on more classes. I graduated two years later magna cum laude.</p>
-
-<p><strong>Pacing myself for success</strong></p>
-<p>As I work successfully today, I recognize the key importance of always staying on my antipsychotic medication, never skipping a dose. Pacing myself is also important. I usually work fewer than six hours a day, but I do stay busy on weekends. I travel extensively for work, and am not as productive when I’m tired following a trip. </p>
-
-
-
-  
-
-
-<p>Unfortunately, people living with schizophrenia, like me, are often told they will never recover, and definitely never work. I empathize with these people, knowing how it felt to experience symptoms of schizophrenia and feel hopeless. But the reality today is that many people with schizophrenia will work and will make a difference as contributing citizens in our community. The important things were for me to find a treatment plan that worked best for me, to challenge myself, and never give up.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/recovery-road/202606/despite-schizophrenia-i-have-worked-for-over-a-decade" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/recovery-road/202606/despite-schizophrenia-i-have-worked-for-over-a-decade</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/recovery-road/202606/despite-schizophrenia-i-have-worked-for-over-a-decade</guid>
-            <dc:creator><![CDATA[Bethany Yeiser BS]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-06/stocksnap-man-2562325.jpg?itok=fdzOdjfc" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ways to Create a Dynamic Memory]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/richard_restak_md.png.jpg?itok=OhrRNbZK" alt="Richard Restak M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Memory</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Ways to Create a Dynamic Memory</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Imposing a framework underlies successful remembering.</h2><p style="font-size:0.9em;color:#666;">Posted June 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The "magic number 7" is a cognitive limit for items held in short-term memory.</li><li style="margin-bottom:6px;">Grouping information with familiar frameworks, like phone numbers, boosts memory capacity.</li><li style="margin-bottom:6px;">The loci method links familiar places with vivid images to aid in recalling lists.</li>
-            </ul>
-          </div>
-                    <p>In a previous post, I suggested a memory exercise based on mentally composing a two-act play and incorporating the items one wishes to memorize. </p>
-<p>Some readers objected to the additional requirement of remembering not only the items but also incorporating them into a play, a separate cognitive act not everyone is comfortable with. So here is an equally effective alternative method that does away with the need to mentally compose a new play each time you want to memorize a list of items. </p>
-
-<h2>Estimating the Upper Limit of Human Short-Term Memory</h2>
-<p>But before discussing that method, what would be your estimate of the upper limit of the number of items that can be remembered in a group of people randomly chosen?</p>
-<p>In the 1940s, psychologist <a href="https://psycnet.apa.org/record/1957-02914-001?doi=1"><strong>George Miller</strong></a> discovered a limit while designing a jamming signal capable of disrupting German radio communications. While employed in this important wartime mission, Miller measured how people judged the strength of various stimuli. How loud is it? How bright? How long did it last? The answers to all of these various stimuli turned out to be 7 recognizable states. When he tested his subject’s short-term memory for digits, it also turned out to be 7. Of course, some people did slightly worse (remembering no more than 5 digits) while others could report 9 numbers, with the rare exceptions of successfully repeating 10 digits. </p>
-
-<p>Later, while researching the topic of memory, Miller discovered that in the nineteenth century, philosopher Sir William Hamilton had reached the same conclusion by means of a more humble experiment. “If you throw a handful of marbles on the floor, you’ll find it difficult to view at once more than 6 or 7 without confusion,” Hamilton wrote.</p>
-
-<p>Study the following string of numbers and see how many after 1 minute you can repeat, either out loud or reading silently: 3,8,2,1,6,0,6,5,4,8,4,9,3,7,4,8,5,0,5,8. If you recalled 10 numbers, rank yourself among the rare exceptions referred to by Miller. </p>
-<p>The take-home from Hamilton’s and Miller’s research? The “magic number 7,” as Miller referred to it, applies to digits, words, pictures, and even complex ideas. In other words, the brain works within certain limitations, and these limitations hold over a wide range of human experiences. </p>
-
-<p>Returning to the string of numbers, here is a method for learning 10 digits on your first try. </p>
-<p>Think of the string of numbers in terms of phone numbers:</p>
-<p>382-160-6548</p>
-<p>493-748-5058</p>
-<p>By imposing a framework (telephone numbers) you are likely to exceed the performance of Miller’s “rare exceptions”. </p>
-<h2>How the Method of Loci Improves Memory</h2>
-
-<p>Returning to those readers not interested in combining memory with mentally composing a play, here is an equally effective method, especially for items that would require exceptional effort to dramatize, such as a grocery list. Pick out ten objects or places you frequently encounter every day inside or outside your home or apartment. The key requirement is <em>familiarity.</em> You have to see these places regularly for this method to work.</p>
-
-<p>The first step in this memory method is to form a <a href="https://www.sciencedirect.com/science/article/abs/pii/S000169181200145X?via%3Dihub"><strong>clear mental picture</strong></a> of each of these 10 places (referred to as <a href="https://doi.org/10.1177/0098628315573143"><strong>loci</strong></a> since Simonides’ description in 556 BC), so that you can take an imaginary walk or drive that includes all of them. It’s important that you visualize these places vividly. In order to do this, it helps to take a picture of each of them, so that you can at any time refresh your internal mental images for details if they seem to be fading.</p>
-
-<p>My mental stroll or drive starts from my home and leads to a nearby library, the local coffee shop, the local liquor store, Georgetown Medical School (which I attended), Georgetown University, Café Milano—a popular restaurant in Georgetown, Key Bridge (connecting Georgetown to Rosslyn, Virginia), the Iwo Jima Memorial, and finally Reagan International Airport. For best results, I’ve enlarged the internal images in my imagination, made them as clear as possible, and rendered them in colors rather than black and white. Periodically, I review in my mind each of the sites starting from my house to the end at the Reagan Airport, and then mentally proceed back to my house. </p>
-
-<p>Once you can do this, each of the sites will function as a place setting for the items you want to remember. Take this sample grocery list: bread, milk, eggs, coffee, olive oil, sugar, tea, cinnamon, cookies, and apple pie. At this point, I simply think of dramatic, bizarre, or merely exaggerated ways to place each of the items on 1 of the 10 sites. For instance, I think of milk coming out of the chimney of my house. The library shelves are filled with loaves of bread instead of books. In front of the coffee shop, there are small tables on which they are serving, of course, huge cups of coffee. Inside the liquor store are housed not liquor, but many, many cartons of eggs. When I get to Georgetown Medical School, I can’t get up the steps because there is olive oil gushing from the top step downward to the pavement. When I arrive at Georgetown University, the entrance is blocked by mountains of sugar, which makes it appear blanketed in snow. Outside Café Milano, everyone is sitting, eating 6-inch high pieces of apple pie. When I get to Key Bridge, the road surface is powdered with cinnamon. At the Iwo Jima Memorial, the soldiers raising the flag are wadding in teabags extending as far up as their waist. Finally, at the Reagan National Airport, the statue of Reagan is holding out a plate of cookies for the passersby. </p>
-
-
-
-  
-
-
-<p>Once you have these images committed to memory, it’s no longer necessary to remember the food items by name: Simply see them placed within the ten images.</p>
-<p>If you’re thinking that the first list will interfere with a subsequent one, it doesn’t happen. Thanks to a quirk of the human brain, first described in the 1920s by Soviet psychologist Bluma Zeigarnik, when a task is completed, it disappears from active memory. But if a task is left incomplete, it creates a prevailing cognitive tension that can interfere with establishing a subsequent memory. The lesson? Always finish your list.</p>
-
-<p>Richard M. Restak, M.D. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-changing-brain/202606/ways-to-create-a-dynamic-memory" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-changing-brain/202606/ways-to-create-a-dynamic-memory</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-changing-brain/202606/ways-to-create-a-dynamic-memory</guid>
-            <dc:creator><![CDATA[Richard Restak M.D.]]></dc:creator>
-            <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-nc-farm-bureau-mark-13727934.jpg?itok=QN6SeW2e" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-ron-lach-8487207.jpg?itok=ZMwpUiOA" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
