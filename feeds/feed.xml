@@ -4,173 +4,732 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 00:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 15:49:40 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 00:07:22 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 15:49:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[When the World Feels Too Much: Reclaiming Stability]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/zwfaelcp-removebg-preview.png.jpg?itok=HKQ6W0uC" alt="Afarin Rajaei Ph.D., LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When the World Feels Too Much: Reclaiming Stability</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">In uncertain times, stability may come from connection rather than control.</h2><p style="font-size:0.9em;color:#666;">Posted June 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[AI Reinforces Existing Stereotypes in Healthcare]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/phil_reed.png.jpg?itok=BhiU99b5" alt="Phil Reed D.Phil." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Reinforces Existing Stereotypes in Healthcare</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI learning tools undermine healthcare equality for minoritized groups.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Many people respond to uncertainty by seeking greater control, even when control is limited.</li><li style="margin-bottom:6px;">Psychological stability depends more on resilience and relationships than predictability.</li><li style="margin-bottom:6px;">Supportive relationships help regulate stress and increase emotional well-being.</li><li style="margin-bottom:6px;">Everyday routines and rituals can provide important sources of stability during uncertain times.</li>
+              <li style="margin-bottom:6px;">AI mirrors human cognitive biases, not just factual knowledge.</li><li style="margin-bottom:6px;">AI in healthcare amplifies existing gender and cultural stereotypes, worsening inequality.</li><li style="margin-bottom:6px;">Gender-coded AI designs reinforce societal stereotypes, impacting trust and care experiences.</li>
             </ul>
           </div>
-                    <p>Many people are searching for something that feels increasingly difficult to find: solid ground.</p>
-<p>This is not because life has suddenly become dangerous every moment of every day, but because uncertainty has become a constant companion. News cycles move rapidly. Technology evolves faster than many can keep up with. Political, social, and economic changes seem to arrive in waves.</p>
+                    <p>Many governments suggest that artificial intelligence (AI) will transform healthcare by improving diagnosis, treatment planning, and administrative efficiency<sup>1</sup>. However, these claims far outstrip the reality, and not just because of the well-rehearsed practical and ethical problems involved<sup>2</sup>. Just as important to consider as these practical/ethical worries, not to mention the dearth of good data to back up the somewhat grandiose claims, is that integration of AI into healthcare may reinforce inequalities in healthcare for minoritised groups—especially women. Understanding this problem is essential for ensuring effective use of AI—if, indeed, we must go down that route.</p>
 
-<p>For many people, it feels as though the ground beneath them is constantly shifting. When this happens, a natural question emerges: Where do we find stability when the world feels unstable?</p>
-<h2>The Myth of Control</h2>
-<p>When uncertainty increases, many people instinctively seek greater control. They consume more information. They make more plans. They try to anticipate every possible outcome. They search for certainty before making decisions.</p>
+<p>AI systems draw on the large datasets available to them—this is what they "learn" from. Straight away we can see a problem—women’s health issues are under-researched and under-represented in published literature, and women from marginalised groups are especially under-represented in these datasets<sup>3</sup>. This can lead to gaps in the accuracy and reliability of the datasets from which AI outputs are generated. In turn, this can affect clinical decision-making through biased AI outputs influencing diagnoses and treatment recommendations. The result of this under-representation is inequitable performance—an AI-driven healthcare system that works better for some groups than others<sup>3</sup>.</p>
 
-<p>These responses are understandable. Control often feels like safety. The challenge is that many of life's most important experiences cannot be controlled. Relationships involve uncertainty. Health involves uncertainty. Parenting involves uncertainty. Careers involve uncertainty. Even our best plans are vulnerable to unexpected change.</p>
+<h2>The Myth of AI Neutrality</h2>
+<p>Beyond this performance problem, AI is often thought of as a "neutral" tool, impartially categorising and summarising data, offering faster diagnoses, better predictions of outcomes, and more efficient services. If it does so unequally, it is assumed that this is due to problems with the data input, and not the system. However, research increasingly suggests that AI is far from neutral, but reflects the same psychological biases, stereotypes, and stigmas that shaped the humans who underlie the tool<sup>3-5</sup>. Remember, there is nothing truly creative about AI—it does what it is told, as interpreted through the programmer’s lens. When used in healthcare, existing biases impact what AI does, and have important consequences, particularly for women.</p>
 
-<p>The more we rely on certainty as the foundation of stability, the more fragile stability becomes.</p>
-<h2>Stability Is Not the Same as Predictability</h2>
-<p>Many people assume that stability comes from knowing what will happen next. But psychological stability often comes from something different. It comes from believing we can respond to what happens next.</p>
+<p>To understand why this happens, it helps to begin with psychological insights about stereotypes. Human beings rely on mental shortcuts, known as heuristics, to make sense of a complex world<sup>6</sup>. These shortcuts help people to process information quickly, and to act more quickly, but they also lead to systematic biases and stereotypes. Among the most powerful of these biases are gender stereotypes<sup>7</sup>. These stereotypes are not just quirks—irritating or malevolent—but are deeply embedded in cultures, languages, and social structures<sup>3,6</sup>.</p>
 
-<p>This distinction matters. Predictability depends on external circumstances. Resilience depends on internal and relational resources.</p>
-<p>One can live in a highly predictable environment and still feel emotionally fragile. Conversely, one can face significant uncertainty while remaining grounded and connected.</p>
+<p>As some illnesses are repeatedly associated with women, while others are overlooked for this population, it shapes not only public understanding and clinical expectations, but also affects how symptoms are interpreted and which diagnoses are considered likely<sup>3</sup>. Gender stereotypes that associate women with emotion can lead to situations where women’s symptoms are taken less seriously or misinterpreted<sup>3</sup>. This reflects a long history in medicine, where women’s pain or illnesses have often been dismissed or attributed as a psychological manifestation (it may have a trauma-based, and hence psycho-social cause, but the pain and illness are physical and real). AI systems mirroring such biases perpetuate this pattern, embedding it more deeply into healthcare practice.</p>
 
-<p>The difference is often not the situation itself but the resources available for navigating it.</p>
-<h2>Relationships as Anchors</h2>
-<p>When people experience collective uncertainty, they often focus on changing external conditions. Yet research consistently suggests that one of the strongest predictors of psychological well-being is the quality of our relationships.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<h2>Why AI Systems Reflect and Amplify Human Bias</h2>
+<p>An AI system that is based on human language and behaviour absorbs any potentially stereotyped and biased patterns. In fact, machine-learning models reflect the very same associations that are found in human cognition<sup>3,8</sup>. Obviously, this is because they are built from data produced and interpreted by people. Thus, AI systems may not be learning "facts," but rather how the recorded events have been interpreted by the humans who reported them. In healthcare, where decisions are often uncertain but have important consequences, this risks AI systems simply churning out what most people already believe, and reinforcing behaviours that have led to existing inequalities<sup>3,5</sup>—but since they are familiar in an uncertain environment, they are clung to. </p>
 
-  </div>
+<h2>Design of AI Technologies Perpetuates Gender Roles</h2>
+<p>A review<sup>4</sup> of research on gender stereotypes in AI highlights just how widespread such biased patterns are. Across technologies, such as chatbots, robots, and virtual assistants, AI is frequently designed in ways aligning with traditional gender roles. Digital assistants, for example, are often given female names and voices, positioning them as helpful, supportive, and deferential. By contrast, roles associated with authority or expertise are more likely to be represented in masculine ways. These design choices shape how users perceive and interact with the system. People tend to expect female-coded AI to be warm and emotionally intelligent, while male-coded AI is seen as more competent and authoritative<sup>4</sup>. Even when AI designers attempt to create gender-neutral systems, users often infer gender from subtle cues, such as tone of voice or the types of tasks the AI performs<sup>4</sup>. This reflects the strength of gender schemas in human cognition: Whether we like it or not, we often categorise and interpret the world in gendered ways<sup>9</sup>, and AI systems simply become part of that process.</p>
 
-<p>Human beings regulate one another. We calm each other's nervous systems. We provide perspective. We remind one another that we are not facing challenges alone.</p>
-<p>In uncertain times, relationships often become emotional anchors — not because they eliminate uncertainty, but because they help us carry it.</p>
-<h2>Small Certainties Matter</h2>
+<h2>Impact of AI-Generated Images and Stereotypes in Healthcare</h2>
+<p>These patterns are not trivial, as images have a powerful influence on our understanding—they shape expectations, guide attention, and influence memory, often beyond text<sup>10</sup>. When AI-generated images consistently present narrow, biased views of healthcare roles, they reinforce stereotypes, shaping how care is delivered, who is taken seriously, and what is considered "typical" in medicine<sup>6</sup>. AI systems that reproduce stereotypes, therefore, make patients feel misunderstood or marginalised<sup>5</sup>. This can undermine patient trust, and, when people perceive healthcare bias, they are less likely to seek help, follow advice, or engage with professionals<sup>5</sup>. </p>
 
-
-<p>When the larger world feels overwhelming, people sometimes overlook the importance of small, everyday forms of stability: a morning routine, a conversation with a trusted friend, walking the dog, preparing a familiar meal, time spent in nature. family traditions, or meaningful rituals.</p>
-<p>These moments may seem insignificant compared to the magnitude of global events. Yet they often provide the consistency our nervous systems need.</p>
-
-<p>Small certainties help create a sense of continuity when larger systems feel unpredictable.</p>
-<h2>A Different Kind of Security</h2>
-<p>Perhaps stability was never meant to come from guarantees. Perhaps it emerges from knowing who we are, what we value, and who we can lean on when life becomes difficult.</p>
-<p>The world may continue to change. Uncertainty may remain. But psychological security does not require perfect conditions. It requires enough connection, meaning, flexibility, and support to keep moving forward.</p>
+<p>A related psychological effect of relevance, when considering the impact of AI in healthcare, is stereotype threat<sup>11</sup>. When individuals become aware that they belong to a negatively-stereotyped group, they can experience anxiety and reduced confidence, which impairs communication and decision-making. This can lead to poorer healthcare interactions, delayed care, and worse outcomes<sup>12</sup>. AI systems that signal or reinforce stereotypes intensify these effects<sup>5</sup>.</p>
 
 
 
   
 
 
-<p>When the world feels too much, stability may not be something we find. It may be something we create together.</p>
+<p>Taken together, these findings point to a broad conclusion: AI is not an impartial observer of reality, but a mirror of human cognition. It reflects ways in which people categorise, simplify, and stereotype, and, because it operates on a large scale, it can amplify these patterns far beyond individual interactions. Improving AI in healthcare requires more than technical and ethical fixes. It demands an understanding of the complex psychological processes that shape both human thinking and its machine reflections.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/when-the-world-feels-too-much/202606/when-the-world-feels-too-much-reclaiming-stability" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/digital-world-real-world/202606/ai-reinforces-existing-stereotypes-in-healthcare" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/when-the-world-feels-too-much/202606/when-the-world-feels-too-much-reclaiming-stability</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/when-the-world-feels-too-much/202606/when-the-world-feels-too-much-reclaiming-stability</guid>
-            <dc:creator><![CDATA[Afarin Rajaei Ph.D., LMFT]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-olly-3764547.jpg?itok=Ye-5yxkf" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/digital-world-real-world/202606/ai-reinforces-existing-stereotypes-in-healthcare</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/digital-world-real-world/202606/ai-reinforces-existing-stereotypes-in-healthcare</guid>
+            <dc:creator><![CDATA[Phil Reed D.Phil.]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-michael-berdyugin-79377620-8704147.jpg?itok=cBu2f6-L" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Benefits of Attending Pride Events for Queer People]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/profilepic_2_-removebg-preview.jpg?itok=Qwf1svoX" alt="Silva Neves" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sexual Orientation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Benefits of Attending Pride Events for Queer People</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Pride events are not just parties, they can be meaningful events of belonging.</h2><p style="font-size:0.9em;color:#666;">Posted June 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Raising Decision-Makers in a High-Stakes World]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ashley_willcott.png.jpg?itok=B-yurtgB" alt="Ashley Willcott" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Raising Decision-Makers in a High-Stakes World</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Good kids make bad choices. What can parents do about it?</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Pride events provide a meaningful sense of community belonging.</li><li style="margin-bottom:6px;">Pride events encourage the expression of authentic sexual and gender identities, without shame.</li><li style="margin-bottom:6px;">Pride events are good for mental health as they promote acceptance, validation, and empowerment.</li>
+              <li style="margin-bottom:6px;">Good kids can make catastrophic mistakes—judgment isn't guaranteed by achievement or background.</li><li style="margin-bottom:6px;">Social media makes mistakes permanent and their impact wider than ever before.</li><li style="margin-bottom:6px;">Parenting should focus on building judgment, not preventing every mistake.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Throughout my career, I've sat in courtrooms, analyzed criminal cases, interviewed victims, worked within the juvenile justice system, and studied human behavior. I've seen heartbreaking situations involving children and young adults from every imaginable background.</p>
+<p dir="ltr">One thing I know for sure:</p>
+<p dir="ltr">The kids who end up in trouble are not always the kids people expect.</p>
+
+<p dir="ltr">In fact, many are what most people would consider "good kids."</p>
+<p dir="ltr">They come from loving homes. They have involved parents. They're athletes, honor students, leaders, and high achievers. They're the kids who seem to be doing everything right.</p>
+<p dir="ltr">And yet, I've seen those same young people find themselves facing allegations involving DUI, drugs, assault, hazing, theft, cheating scandals, sexual misconduct, sextortion, trafficking, and other serious offenses.</p>
+
+<h2>The Myth of the "Good Kid"</h2>
+<p dir="ltr">One of the biggest misconceptions parents have is believing that being a good kid automatically means making good decisions.</p>
+<p dir="ltr">It doesn't.</p>
+<p dir="ltr">Intelligence is not judgment.</p>
+<p dir="ltr">Achievement is not wisdom.</p>
+<p dir="ltr">And confidence is certainly not immunity from consequences.</p>
+<p dir="ltr">Most of the young people I've seen make catastrophic mistakes weren't bad kids. They were inexperienced. They were impulsive. They were influenced by friends. They thought they were invincible. Or they simply failed to appreciate the risks involved in a decision.</p>
+
+<h2>The World Our Kids Are Growing Up In</h2>
+<p dir="ltr">The challenges facing today's parents are very different from those previous generations encountered.</p>
+<p dir="ltr">A mistake used to happen in a moment.</p>
+<p dir="ltr">Now it can live forever.</p>
+<p dir="ltr">A poor decision that once might have been witnessed by a handful of people can now be recorded, shared, reposted, and viewed by thousands within minutes.</p>
+
+<p dir="ltr">Social media has created risks many parents never experienced growing up:</p>
+<ul>
+<li dir="ltr">Sextortion</li>
+<li dir="ltr">Digital blackmail</li>
+<li dir="ltr">Online exploitation</li>
+<li dir="ltr">Catfishing</li>
+<li dir="ltr">Reputation destruction</li>
+<li dir="ltr">Permanent digital evidence</li>
+</ul>
+<h2>The Reality of the Justice System</h2>
+<p dir="ltr">There is another truth I discuss openly, even though many parents find it uncomfortable.</p>
+
+<p dir="ltr">The justice system is made up of human beings.</p>
+<p dir="ltr">That means it isn't perfect.</p>
+<p dir="ltr">Outcomes aren't always predictable. Consequences aren't always proportional. And privilege, status, education, or family reputation do not guarantee protection.</p>
+<p dir="ltr">Parents often assume that because their child has never been in trouble before, attends a great school, or comes from a respected family, everything will work out.</p>
+
+<p dir="ltr">Sometimes it does.</p>
+<p dir="ltr">Sometimes it doesn't.</p>
+<p dir="ltr">Understanding that reality isn't about living in fear. It's about being prepared.</p>
+<h2>Raising Better Decision-Makers</h2>
+<p dir="ltr">Our goal as parents shouldn't be to raise children who never make mistakes.</p>
+<p dir="ltr">That's impossible.</p>
+<p dir="ltr">Our goal should be to raise young people who understand consequences, think critically under pressure, communicate honestly, and take responsibility when they get things wrong.</p>
+
+
+<p dir="ltr">The most important conversations often happen long before a crisis.</p>
+<p dir="ltr">Before the party.</p>
+<p dir="ltr">Before the text message.</p>
+<p dir="ltr">Before the social media post.</p>
+<p dir="ltr">Before the relationship.</p>
+<p dir="ltr">Before the accusation.</p>
+<p dir="ltr">Before the arrest.</p>
+<p dir="ltr">We cannot control every situation our children will face.</p>
+<p dir="ltr">But we can help build the judgment they carry into those situations.</p>
+
+<h2>So, What Can Parents Do?</h2>
+<p dir="ltr">Start talking to your children earlier than you think you need to.</p>
+<p dir="ltr">Create a code word they can use if they find themselves in trouble and need help without judgment.</p>
+<p dir="ltr">Listen more than you lecture.</p>
+<p dir="ltr">Know what's happening on their phones, gaming platforms, and social media accounts.</p>
+<p dir="ltr">Have honest conversations about peer pressure, relationships, alcohol, drugs, online behavior, and consequences.</p>
+
+
+
+  
+
+
+<p dir="ltr">Most importantly, understand that your child will make bad decisions at some point. Every child does. That's part of growing up.</p>
+<p dir="ltr">The key is making sure they know they can come to you when they do.</p>
+<p dir="ltr">Create a home where honesty is safer than hiding.</p>
+<p dir="ltr">Create a space where mistakes become lessons rather than secrets.</p>
+
+<p dir="ltr">Because when kids know they have a trusted place to land, they're far more likely to ask for help before a bad decision becomes a life-changing one.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/judging-or-judgmental/202606/raising-decision-makers-in-a-high-stakes-world" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/judging-or-judgmental/202606/raising-decision-makers-in-a-high-stakes-world</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/judging-or-judgmental/202606/raising-decision-makers-in-a-high-stakes-world</guid>
+            <dc:creator><![CDATA[Ashley Willcott]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/parents_and_kids_talking.jpeg.jpg?itok=z7sBr5E6" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Motivational Interviewing Supports Neurodivergent People]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/headshot_3-removebg-previewkrauss.jpg?itok=to6QoH2L" alt="David Krauss Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neurodiversity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Motivational Interviewing Supports Neurodivergent People</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A collaborative approach can empower autistic and neurodivergent individuals.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Motivational Interviewing focuses on accepting and respecting people and working towards their goals.</li><li style="margin-bottom:6px;">Motivational Interviewing approaches emphasize people’s strengths, abilities, talents, and resources.</li><li style="margin-bottom:6px;">Individualized, respectful, strength focused interventions can be a great fit for neurodivergent people.</li>
+            </ul>
+          </div>
+                    <p>I was recently reading the fourth edition of <em>Motivational Interviewing</em> by William H. Miller and Stephen Rollnick, and often found myself thinking about how this approach to helping is a great fit for neurodivergent people in general—and autistic people in particular. </p>
+<p>Miller and Rollnick define motivational interviewing, or MI, as “... a particular way of talking with people about change and growth to strengthen their own motivation and commitment."</p>
+
+<p>I am especially inspired by Miller and Rollnick’s summaries of the basic tenets of MI—what they refer to as the <em>spirit </em>of MI. I will review many of these principles, the spirit<em> </em>of MI,<em> </em>in this post. <em> </em></p>
+<h2>The Spirit of Motivational Interviewing (MI)</h2>
+<p>Miller &amp; Rollnick write that the spirit of motivational interviewing “ ... lies in ... the helper's underlying attitude of partnership, acceptance, compassion, and empowerment.” </p>
+
+<p>More specifically, the <em>spirit, </em>or<em> heart, </em>or<em> way of being </em>associated with MI includes (adapted from Miller and Rollnick):</p>
+<ul>
+<li>Acknowledging and honoring a person’s freedom of choice and self-determination (their autonomy)</li>
+<li>Helping a person work towards <em>their</em> goals and live in ways consistent with <em>their </em>values</li>
+<li>Interacting with a person as a <em>person</em>; respecting and seeing them as an individual with their own history, circumstances, relationships, values, wants and needs; not as a type or a diagnosis</li>
+<li>Helping people realize and utilize their own strengths, abilities and resources – and highlighting and spending time talking about these more than deficits or pathologies. </li>
+<li>Noticing, highlighting, asking more about, and appreciating moments of change and growth; keeping in mind that it is a privilege to witness growth and change.</li>
+<li>Adopting a humble beginner’s mind; entering an interaction with curiosity and openness; knowing that you don’t know</li>
+<li>Developing a collaborative working relationship—a partnership—within which the helper and the person being helped are both "experts" and the helper is not the only "wise" person in the conversation.</li>
+</ul>
+
+<p>Miller &amp; Rollnick emphasize that MI-informed practitioners work to avoid: </p>
+<ul>
+<li>The expert trap—assuming and communicating that the helper has the best answers to the person’s problems</li>
+<li>The fixing reflex—the natural desire of helpers to prevent harm and promote a person’s welfare by trying to correct or repair perceived problems</li>
+</ul>
+
+<h2>Another Way of Saying It</h2>
+<p>The motivational interviewing approach to helping encourages helpers to help with respect and positive regard, acceptance and non-judgment, compassion and empathy. The goal is not to persuade, fix, or correct someone—MI is not a manipulation. It is important not to fall into the expert stance or assume a position of superiority. The helper is not the only one with expertise—people are experts on themselves, their experiences, their relationships, their wants and needs. The MI approach recognizes the strengths and capabilities people bring to a helping relationship and encourages helping people use these to work towards change and growth. The MI approach identifies and highlights episodes, even moments, of change and growth. MI-oriented helpers help people work towards <em>their</em> goals and manifest <em>their</em> values.</p>
+
+<h2>MI and Neurodiversity-Autism</h2>
+<p>In their book, <em>Autism and Solution-Focused Practice</em>, Els Mattelin and Hannelore Volckaert write: "For us, it is fundamental that one regards persons with autism as people who think differently, with other ideas, values, life targets, needs, and solution strategies. Furthermore, we regard them as people with different strengths, talents, and ways of making life valuable. Different. Nothing more and nothing less." </p>
+
+<p>Mattelin and Volckaert argue that solution-focused therapy is, thus, a great fit for neurodivergent people, including people diagnosed with autism (see my post, "<a href="https://www.psychologytoday.com/us/blog/atypical-children-extraordinary-parenting/202511/how-solution-focused-therapy-can-help-autism">How Solution Focused Therapy Can Help Autism</a>"). Motivational Interviewing, which has a lot in common with solution-focused approaches, similarly fits well for neurodivergent-autistic people. It sees people as individuals, identifies and works toward their goals, recognizes strengths, intelligences, and resources, and focuses on change and growth rather than pathology.</p>
+
+
+<h2>Some Invitations</h2>
+<p>I invite you, perhaps as a neurodivergent person or perhaps as a parent-partner-family member-helper of a neurodivergent person, to ask yourself, “To what extent, if any, does this approach to change and growth, this<em> spirit </em>of MI,<em> </em>fit me and the ways I would like to be helped—or the ways I would like to help?” Perhaps think about whether or not any work you might be doing with a therapist-counselor-helper is consistent with the MI <em>spirit </em>or <em>way of being.</em> Perhaps even share this post and discuss it with your therapist-counselor-helper. </p>
+
+<p>I plan to keep the list of MI principles highlighted in this post handy, perhaps even on my desk or bulletin board, as I am working with neurodivergent people, to remind myself of these important principles and keep track of how well and often I am thinking and interacting in ways consistent with them. If you are a helper, I invite you to consider doing some version, <em>your</em> version, of this as well.</p>
+
+
+
+  
+
+
+<p><em>To find a therapist, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/atypical-children-extraordinary-parenting/202606/how-motivational-interviewing-supports" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/atypical-children-extraordinary-parenting/202606/how-motivational-interviewing-supports</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/atypical-children-extraordinary-parenting/202606/how-motivational-interviewing-supports</guid>
+            <dc:creator><![CDATA[David Krauss Ph.D.]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-mike-jones-9051663.jpg?itok=L-UqSo2l" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Experiencing Verbal and Emotional Abuse as an Adult Child]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/michelle_maidenberg.jpg?itok=cQYaoM_A" alt="Michelle P. Maidenberg Ph.D., MPH, LCSW-R, CGP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Abuse</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Experiencing Verbal and Emotional Abuse as an Adult Child</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Breaking free from criticism, shame, and self-doubt and reclaiming your voice.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Emotional abuse often continues long after childhood and can profoundly impact adult children.</li><li style="margin-bottom:6px;">Guilt, fear, obligation, and hope for parental approval often keep unhealthy patterns in place.</li><li style="margin-bottom:6px;">Healing involves recognizing the abuse, strengthening self-worth, and setting boundaries.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/istock-1406993000.jpg?itok=Gs3o--mZ" width="320" height="191" data-insert-type="image" title="9parusnikov / iStock" alt="9parusnikov / iStock"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: 9parusnikov / iStock</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/cage-_max-muselmann-unsplash.jpg?itok=DD4n9wMS" width="320" height="213" data-insert-type="image" title="Max Muselmann / Unsplash" alt="Max Muselmann / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Max Muselmann / Unsplash</div>
 </div>
 </div>
 </div>
-<p>For many queer people, Pride events are far more than parties and fun. They are opportunities to connect and participate in a diverse community that has been, and still is, marginalised. The common themes of Pride are resilience, progress and “queer joy.” While every individual makes their own meaning of Pride, attending these events can offer a wide range of personal, social, and emotional benefits that extend beyond the event itself, and into overall well-being. </p>
+<p>Interactions with a parent can instantly transport us back into the emotional world of childhood. A confident executive may suddenly feel powerless during a phone call with her mother. A successful father may find himself seeking approval from a critical parent despite decades of accomplishments.</p>
+<p>When verbal and emotional abuse occur within the parent-child relationship, the effects often extend far beyond childhood. This can be especially true when abuse is experienced from both parents. In fact, many adult children continue to experience emotional manipulation, criticism, shaming, invalidation, guilt-tripping, or controlling behaviors long after they have become independent adults. </p>
 
-<p>One of the most significant benefits of attending Pride events is the sense of belonging it can create. Many queer people feel isolated, different from others around them, or even “broken”. Even in liberal countries, oppression and discrimination against LGBTQ+ people are rife, and, unfortunately, on the increase. Pride events bring together thousands of people who share similar experiences, identities, or values. Being surrounded by others who openly celebrate their sexuality and gender identity can be a powerful reminder that we are not alone. This feeling of community often helps queer people develop greater self-acceptance. </p>
+<h2>What Is Verbal and Emotional Abuse?</h2>
+<p>Verbal and emotional abuse involve patterns of behavior that undermine a person's sense of worth, safety, identity, or autonomy. Unlike physical abuse, emotional abuse leaves no visible scars, making it particularly difficult to recognize and validate. It often leaves the recipient spiraling into self-doubt and confusion. They express it as “crazy-making,” and they feel as if they’re “going crazy” and that hardly anything they say or do is ever “good enough” for their parent. </p>
 
-<p>Pride events also bring together our heterosexual and cisgender allies, who are so important too. For example, seeing parents who march at Pride events saying “I’m proud of my gay child” can be so healing for all of us as a community, as we are well aware that some queer people still get thrown out of their childhood homes when they come out, or have parents who refuse to speak to their children ever again. Some even tell their children: “I’d rather have a dead child than a gay child.” These are major attachment injuries and deep heartbreaks. Pride events can help restore some love into the broken hearts, and go a long way towards healing. </p>
+<p>Examples may include:</p>
+<ul>
+<li>Constant criticism or judgment </li>
+<li>Name-calling or humiliation </li>
+<li>Gaslighting ("That never happened," or "You're too sensitive") </li>
+<li>Chronic invalidation of feelings </li>
+<li>Guilt-inducing statements </li>
+<li>Manipulation or emotional blackmail </li>
+<li>Silent treatment or withdrawal of affection </li>
+<li>Excessive control over decisions </li>
+<li>Conditional love based on compliance </li>
+</ul>
 
-<p>Pride also provides an environment where authenticity is encouraged. In everyday life, many queer people still feel pressure to hide aspects of themselves at work, with family members, or in social situations. Pride events create a space where queer people can express themselves freely, whether through the clothes they wear, or their conversations, creative expression, connections, laughter, or simply being publicly affectionate with intimate partner(s). The ability to exist without fear of judgment can be liberating and can reinforce a positive sense of identity.</p>
+<p>When these behaviors occur repeatedly during childhood, they can become normalized and internalized. Adult children may struggle to recognize them as abusive because they were commonplace within their family environment. </p>
+<p>To survive emotionally, many children rely on coping strategies such as avoidance, denial, repression, or suppression. Over time, these adaptations can persist into adulthood, even when they are no longer protective. Research suggests that emotional abuse is associated with long-term psychological difficulties, including anxiety, depression, diminished self-worth, emotional dysregulation, and relationship challenges (Norman et al., 2012).</p>
 
-<p>Pride events can also serve as educational experiences. Many LGBTQ+ festivals include workshops, speakers, health resources (including sexual health). These activities can help people learn more about LGBTQ+ history, current social issues, mental health, sexual health, and community services. It can help queer people connect meaningfully with our shared diverse cultures and sub-cultures, which can reinforce a sense of belonging, connectedness, and community. </p>
+<h2>Why Setting Boundaries Feels So Difficult</h2>
+<p>Children are biologically wired to seek safety, attachment, and connection with their caregivers. Even when caregivers are emotionally harmful, children often adapt by suppressing their own needs to preserve the relationship. </p>
+<p>One of the most common questions adult children ask is: "If I know this relationship is unhealthy, why can't I simply set boundaries?" The answer often lies in childhood conditioning. The nervous system may react as though survival is at stake, even when the adult logically knows otherwise.</p>
 
-<p>For younger queer people, Pride can be particularly meaningful. Seeing queer adults thriving in different careers, relationships, and relationship styles can provide positive role models that are not often affirmed in everyday life in our society. Representation matters because it can make queer people feel less isolated, and offer a vision of life that fits best with their authentic queer selves.</p>
+<h2>The Powerful Grip of Fear, Obligation, and Guilt</h2>
+<p>Many adult children describe feeling trapped between protecting themselves and maintaining family harmony. Forward and Frazier (1998) described this dynamic as FOG—Fear, Obligation, and Guilt—a pattern frequently seen in emotionally manipulative relationships. Adult children may fear upsetting a parent, feel obligated to meet the parent's expectations, and experience intense guilt when prioritizing their own well-being.</p>
 
-<p>Many different queer people have a flag that represents their identity. Pride events are an opportunity to fly the flag feeling proud, which can reinforce a sense of belonging. For some queer people, the Pride flag is meaningful, as discussed <a href="https://www.psychologytoday.com/us/blog/talking-sex-and-relationships/202310/understanding-and-celebrating-pride-flags">here</a>. </p>
-<p>Pride events also have a beneficial effect on mental health. Research has consistently shown that social support and community belonging contribute positively to psychological well-being. Pride events promote acceptance, validation, and empowerment. For some queer people, being with a large numbers of people celebrating LGBTQ+ identities can counter minority stress and societal oppression. </p>
+<p>Consider Bella, a 45-year-old mother of two, who frequently receives guilt-inducing messages from her mother whenever she declines a family request. Her mother accuses her of being selfish, ungrateful, or uncaring, often reminding Bella of sacrifices she made while raising her. As a result, Bella regularly cancels personal plans, overextends herself, and prioritizes her mother's needs above her own. Each attempt to earn her mother's approval reinforces a cycle of guilt, resentment, and self-sacrifice.</p>
+
+<h2>Grieving the Parent You Needed</h2>
+<p>One of the most difficult aspects of healing is accepting that the parent you longed for may never become the parent you needed. Many adult children continue hoping that if they are patient enough, successful enough, accommodating enough, or loving enough, they will finally receive the validation they have long desired.</p>
+
+<p>Walker (2013) describes how survivors of chronic childhood emotional neglect and abuse often remain emotionally attached to unmet developmental needs. Part of recovery involves grieving the loss of the idealized parent and acknowledging the reality of the relationship. While painful, this process allows individuals to stop seeking healing from the very person who may have contributed to their hurt and distress.</p>
 
 
-<p>Pride events provide opportunities for joy and celebration, which are sometimes overlooked when discussions of LGBTQ+ people centres on struggles, overcoming trauma, and survival. But Pride events can be a space to celebrate ourselves unapologetically and lift each other up. We can do so while enjoying music, art, and performances that speak to queer communities, and while dancing together to some popular disco “anthems," which can be important moments of happiness that strengthen community bonds, contributing to overall well-being.</p>
 
-<p>Pride events can cater to all kinds of queer communities. While some people enjoy large parades and parties, others may prefer smaller community gatherings, educational events, cultural exhibitions, or family-friendly activities. There is no one "right" way to participate at a Pride event. </p>
-<p>Ultimately, attending Pride events can foster belonging, confidence, friendship, education, visibility and mental well-being. It offers queer people an opportunity to celebrate who they are while connecting with a larger community that shares a rich and diverse history. Pride has the potential to be a meaningful experience that reinforces identity, strengthens relationships, and creates lasting memories. In a world where there is still much discrimination for LGBTQ+ people, the act of gathering together in celebration is powerful, valuable and meaningful. </p>
+  
+
+
+<h2>What Healthy Boundaries Actually Look Like</h2>
+<p>Many individuals mistakenly believe boundaries are designed to control another person's behavior. Rather, <em>boundaries define what you will and will not accept and how you will respond when those limits are crossed</em>.</p>
+<p>For example:</p>
+<p>Instead of: "You need to stop criticizing me." </p>
+
+<p>A boundary might sound like: "If the conversation becomes critical or disrespectful, I will end the call."</p>
+<p>The focus shifts from changing the other person to protecting yourself.</p>
+<p>Healthy boundaries may involve:</p>
+<ul>
+<li>Limiting the duration of interactions </li>
+<li>Declining certain conversations </li>
+<li>Refusing to engage in arguments </li>
+<li>Leaving situations that become emotionally abusive </li>
+<li>Reducing contact when necessary </li>
+<li>Communicating needs clearly and respectfully </li>
+</ul>
+
+<p>Importantly, boundaries are not punishments. <em>They are acts of self-worth and self-respect</em>.</p>
+<h2>How to Begin Healing</h2>
+<p>Healing from emotional abuse often involves more than changing behavior. It requires changing adaptations and long-held beliefs about oneself. Many adult children carry deeply embedded messages such as: "My needs don't matter," “Disagreeing is dangerous,” "I am responsible for other people's emotions," "Setting boundaries is selfish," and "I have to earn love." Recovery begins by challenging these beliefs and developing a healthier relationship with oneself.</p>
+
+<h2>Helpful Steps</h2>
+<ol>
+<li><strong>Name the behavior. </strong>Many people minimize emotional abuse because it does not involve physical harm. Identifying manipulative, controlling, or abusive behaviors can provide you with clarity and validation.</li>
+<li><strong>Strengthen self-trust. </strong>Adult children often learn to question their perceptions. Gibson (2015) emphasizes that healing often requires learning to trust one's internal experiences after years of having feelings dismissed, minimized, or invalidated. Rebuilding trust in your emotions, thoughts, and experiences is a critical part of healing. </li>
+<li><strong>Expect discomfort. </strong>Walker (2013) notes that challenging longstanding family roles often activates old fears and emotional flashbacks. Feelings of guilt, anxiety, shame, or self-doubt may emerge not because the boundary is wrong but because you are breaking patterns that once helped you survive, and whereby old conditioning is being challenged. Facilitating boundaries may also lead to projection, rejection, and alienation by a parent because you are choosing to discontinue unhealthy dynamics. This may prompt you to yearn for connection, no matter how you’re able to receive it, even if it means slipping into habitual unhelpful patterns. Note that this is a natural reaction. Move through the feelings, recalibrate, and reinstate your boundaries.</li>
+<li><strong>Seek support. </strong><a href="https://www.psychologytoday.com/us/therapists">Therapy</a>, support groups, trusted friends, and psychoeducation can help individuals process family dynamics and build healthier relational patterns.</li>
+</ol>
+
+<h2>Reclaiming Your Voice</h2>
+<p>Healing involves reclaiming the right to take up emotional space. It means recognizing that love does not require self-abandonment. It means understanding that protecting your well-being is not an act of betrayal. And it means accepting that you can love a parent while also refusing to tolerate harmful behavior. </p>
+
+<p>Research on childhood adversity suggests that healing remains possible throughout adulthood. While early emotional wounds can have enduring effects, individuals can develop healthier relationships, strengthen emotional resilience, and cultivate greater self-compassion through intentional healing work and supportive relationships (Shonkoff et al., 2012; Norman et al., 2012).</p>
+
+<p>Perhaps the most important realization is this: Setting boundaries is not about changing your parent. It is about changing your relationship with yourself. When you learn to honor your needs, trust your experiences, and establish healthy limits, you can discover something you have been seeking all along—not parental approval, but personal freedom.</p>
+
+<p>Nurture yourself with this <a href="https://youtu.be/-c2ybzS2los">Inner Child Guided Meditation</a> led by me. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/talking-sex-and-relationships/202606/the-benefits-of-attending-pride-events-for-queer-people" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/being-your-best-self/202606/experiencing-verbal-and-emotional-abuse-as-an-adult-child" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/talking-sex-and-relationships/202606/the-benefits-of-attending-pride-events-for-queer-people</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/talking-sex-and-relationships/202606/the-benefits-of-attending-pride-events-for-queer-people</guid>
-            <dc:creator><![CDATA[Silva Neves]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/istock-1406993000.jpg?itok=-rZPfG1e" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/being-your-best-self/202606/experiencing-verbal-and-emotional-abuse-as-an-adult-child</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/being-your-best-self/202606/experiencing-verbal-and-emotional-abuse-as-an-adult-child</guid>
+            <dc:creator><![CDATA[Michelle P. Maidenberg Ph.D., MPH, LCSW-R, CGP]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/cage-_max-muselmann-unsplash.jpg?itok=ltiQK1V2" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Very Retro Design]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/sally_augustin.jpg?itok=egXbhDEg" alt="Sally Augustin Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Biophilia</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Very Retro Design</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Biophilic spaces: Designing for today, tomorrow, and yesterday.</h2><p style="font-size:0.9em;color:#666;">Posted June 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p>Biophilicly designed spaces recreate (at least conceptually) the features of the sorts of places where our species thrived when it was young and first taking its current form. </p>
-<p>People in spaces crafted with an eye toward biophilic design feel good mentally and physically; their well-being is better than when they’re in places that don't incorporate biophilic design.</p>
+            <title><![CDATA[How to Read People More Clearly in Your Professional Life]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/image001__1_-removebg-preview.jpg?itok=DXU-7PZi" alt="Nancy Ancowitz" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Intuition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Read People More Clearly in Your Professional Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Intuition can help you sense trust and compatibility—when paired with logic.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Paying attention to first impressions can help you ask better questions and make wiser decisions.</li><li style="margin-bottom:6px;">Intuition works best when paired with logic rather than used as a substitute for it.</li><li style="margin-bottom:6px;">Anxiety, bias, and wishful thinking can cloud intuition because they are often emotionally charged.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/chatgpt_image_jun_17__2026__10_25_48_pm__1_.png.jpg?itok=INqdQbSX" width="320" height="240" data-insert-type="image" title="ChatGPT image" alt="ChatGPT image"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ChatGPT image</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Some people leave you energized and steady while others drain you. We often notice these reactions before we can explain why: A colleague who immediately feels trustworthy, a manager who puts you on edge, or a new connection who seems promising until they do something that irks you, even if you doubt yourself about that reaction.</p>
 
-<p>Terrapin Bright Green, a design consulting firm, has revised its often-quoted <em>Economics of Biophilia </em>(originally published in 2012) to provide insights into biophilic design. In the book, authors Ryan, Browning, and Walker analyze material related to biophilic design in offices, schools and universities, retail settings, hospitality venues, healthcare facilities, and community spaces. The authors also review the psychological, financial, and health-related implications of biophilic design. </p>
+<p dir="ltr">Intuitive impressions can help us—or mislead us—depending on how we interpret them. Throughout this series, I’ve spoken with Nil Demircubuk, Ph.D., author of <em>Down to Earth: Demystify Intuition to Upgrade Your Life,</em> about calming mental noise, resetting during stressful workdays, and using intuition in the workplace and during networking conversations. In this final conversation, we widen the lens further: how intuition shapes the way we read people, decide when to trust, and choose where to invest our energy.</p>
 
-<p>The authors share that their “publication argues in favor of biophilic design by examining scientific studies on the effects of nature-based experiences on human productivity, preferences, and attention ... The aim of this research summary is to show the economic value of offering biophilic experiences, not as a luxury but as an investment opportunity with calculable returns.” </p>
+<p dir="ltr"><strong>NA: I’ve often thought, “Something felt off” about a person or work-related relationship, but I can’t put my finger on it. What are examples of intuitive signals that may deserve attention early, before we rationalize them away?</strong></p>
+<p dir="ltr"><strong>ND:</strong> Intuitive signals are typically quick, subtle, and gentle. When we meet someone for the first time, we may have an uneasy feeling right away that tells us to stay away. Someone else may bring a sense of ease, inviting us to get to know them better. </p>
 
-<p>Here are some of the characteristics of biophilic spaces, so that you can begin to imagine how you might incorporate them into your own spaces.</p>
+<p dir="ltr">We also pick up nonverbal cues such as a certain look in the eyes, their facial expression, or body language. One of my favorite scientific studies on reading nonverbal cues was conducted by Ambady and Rosenthal at Harvard University. They showed that students could accurately assess the effectiveness of teachers they had never met just by watching very short silent video clips of them in class.</p>
+
+<p dir="ltr"><strong>NA: Intuition about people can be powerful, but so can projection, bias, anxiety, and wishful thinking. How can you tell the difference between an intuitive read and a reaction shaped by your experiences or fears?</strong></p>
+<p dir="ltr"><strong>ND: </strong>Intuition is based on our accumulated knowledge and experiences, including those we forgot about, but it shows up with no preceding chain of conscious thoughts, and it is not charged with emotions. </p>
+
+<p dir="ltr">Bias, anxiety, and wishful thinking are results of judgments, and they are emotionally charged. To check if what you picked up was intuition, you can do something that clears your mind and neutralizes your emotions, such as breathing deeply for a few moments. I call this priming for intuition. When you are relaxed, you can ask yourself whether that impression still holds up. If it does, then most likely it was your intuition. You still need to combine it with your logic and make sure that your accumulated knowledge and experiences are relevant enough to this person and this type of situation.</p>
+
+<p dir="ltr"><strong>NA: Some people are charismatic immediately, while others reveal their value more slowly over time (says the introvert!). How can intuition help us recognize true compatibility instead of being overly influenced by the other party’s confidence or status, not to mention our first impressions?</strong></p>
+<p dir="ltr"><strong>ND:</strong> You can prime by emptying your mind and neutralizing your emotions to start with a blank page and tune in again. As we talked about in our first interview, you can prime yourself by doing anything that relaxes you, such as breathing deeply as you let your thoughts go or imagining being in a relaxing place. After priming, you need to capture the first sensation, words, or ideas that your intuition brings up. This is critical since our conscious thoughts are quick to judge, write stories, and come to conclusions. When you capture your intuition, you still need to bring it to the light of your logic and ask if it makes sense about this person in this context.</p>
+
+<p dir="ltr"><strong>NA: As we close this series, what’s one misconception about intuition you most hope readers leave behind, especially in the realm of professional relationships and decisions about people?</strong></p>
+<p><strong>ND: </strong>Many people don’t realize that intuition is a natural part of our cognitive processes. It is not a vague psychic phenomenon used to predict the future or read other people’s minds. It is our brain and body tapping into accumulated knowledge and experience to generate ideas, solutions, and new perspectives. When we learn to tap into it intentionally and combine it with our logic, we can make wiser decisions, improve our relationships, and take better care of ourselves at work and at home, ultimately helping us thrive in both.</p>
+
+<h2>Conclusion</h2>
+<p dir="ltr">Intuition may not tell us everything we need to know about others, but it can provide information worth exploring. As Nil Demircubuk emphasizes throughout this series, intuition works best when paired with logic, not when it replaces it.</p>
+<p dir="ltr">Whether you're evaluating a potential collaborator, navigating a difficult workplace relationship, considering a new opportunity, or deciding where to invest your time and energy, paying attention to your initial impressions may help you ask better questions and make more informed choices.</p>
+
+
+
+  
+
+
+<p dir="ltr">For me, the goal is not to judge people quickly. It is to become more aware of the signals you are already receiving and learn how to evaluate them thoughtfully. When intuition and reason work together, they can help us build stronger relationships, make wiser decisions, and find environments where we are more likely to thrive.</p>
+
+<p dir="ltr">Read the earlier interviews in this series:</p>
 <ul>
-<li>Natural light is plentiful during the day, and warmer, dimmer light prevails at night. When natural light is just not an option or needs to be supplemented, circadian lighting is installed.</li>
-<li>Light from warmer bulbs is lower on “horizons,” in tabletop or floor lamps, and cooler light is overhead in ceiling-mounted fixtures.</li>
-<li>There is an indoor plant in each view across the space (not more because of visual clutter issues; see the next point).</li>
-<li>A moderate amount of visual “stuff” is happening in the space; it is not visually cluttered or stark (too little to see stresses us just as much as too much). The number of colors, shapes, and patterns in view factor into the amount of visual complexity present in a space, and so does the apparent order underlying the use of those colors, patterns, etc. For user comfort and well-being, the goal is a space with medium levels of visual complexity, like a residential interior designed by Frank Lloyd Wright.</li>
-<li>In temperate zones, windows can be opened to let in fresh air.</li>
-<li>Curved lines (in two dimensions) and shapes (in three dimensions) prevail.</li>
-<li>Natural materials, such as wood with visible grain, are in use. Materials that develop a patina (such as copper) or show gentle signs of wear (as leather can) are biophilic design staples.</li>
-<li>Some water is present, either in a brook seen through a window, an aquarium, or a desktop fountain. In any case, the water needs to be “friendly”—no torrential downpours reminiscent of hurricanes, for instance. A controlled fire (for example, one in a fireplace) influences what goes on in our heads just as a water feature does.</li>
-<li>Nature sounds, like those found in a meadow on a lovely spring day (such as burbling brooks, gently rustling leaves and grasses, and quietly singing songbirds), are present.</li>
-<li>Some seats feel secure (because, for example, there’s a tall plant behind them, so no one might sneak up from the rear) and have a view out over the nearby world.</li>
-<li>Curving paths flow through the space.</li>
+<li>
+<p dir="ltr"><a href="https://www.psychologytoday.com/us/blog/self-promotion-for-introverts/202511/prime-your-noisy-mind">"Prime Your Noisy Mind"</a></p>
+</li>
+<li>
+<p dir="ltr"><a href="https://www.psychologytoday.com/us/blog/self-promotion-for-introverts/202512/unlock-workday-calm-through-intuition">"Unlock Workday Calm Through Intuition"</a></p>
+</li>
+<li>
+<p dir="ltr"><a href="https://www.psychologytoday.com/us/blog/self-promotion-for-introverts/202603/how-to-network-with-intuition-and-confidence">"How to Network With Intuition and Confidence"</a></p>
+</li>
 </ul>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/people-places-and-things/202606/very-retro-design" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/self-promotion-for-introverts/202606/how-to-read-people-more-clearly-in-your-professional-life" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/people-places-and-things/202606/very-retro-design</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/people-places-and-things/202606/very-retro-design</guid>
-            <dc:creator><![CDATA[Sally Augustin Ph.D.]]></dc:creator>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-eran-design-2158190390-35215425.jpg?itok=ahlVz-Al" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/self-promotion-for-introverts/202606/how-to-read-people-more-clearly-in-your-professional-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/self-promotion-for-introverts/202606/how-to-read-people-more-clearly-in-your-professional-life</guid>
+            <dc:creator><![CDATA[Nancy Ancowitz]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/chatgpt_image_jun_17__2026__10_25_48_pm__1_.png.jpg?itok=c0mT01P3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is There a Cure for Impulsive Eating?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/kristen_carter.png.jpg?itok=pkiArt1G" alt="Kristen A. Carter MS" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Diet</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is There a Cure for Impulsive Eating?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Impulsive eating gets in the way of healthy living. Can we curb our enthusiasm?</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Controlling impulses to give in to food that tempts us can be an ongoing struggle for many.</li><li style="margin-bottom:6px;">Instant and delayed gratification have been widely investigated, including the famous marshmallow test.</li><li style="margin-bottom:6px;">What drives us to eat at any given time is complex.</li><li style="margin-bottom:6px;">Coming up with solutions for impulsive eating is also complex.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-06/impilsive_eating.jpg?itok=N48_2yb8" width="639" height="426" data-insert-type="image" title="Charnsitr | iStock" alt="Charnsitr | iStock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Charnsitr | iStock</div>
+</div>
+</div>
+</div>
+<p>We’ve all done it. Grabbed an extra piece of cake, eaten more pizza than we intended, given in to a seldom-seen treat. The siren call of temptation comes to all of us, sooner or later. Making a choice like that may morph into feeling bad about ourselves, labeling ourselves out of control or lazy. Many times, it's an isolated incident, but sometimes it can be a trend that can lead to unwanted weight gain. </p>
+
+<p>Some studies have linked weight gain, obesity, and difficulties losing weight to impulse control, although the connection is often found not to be very robust. Still the question remains: Is the tendency to make impulsive food choices part of what can make maintaining a healthy weight so elusive for some? </p>
+
+<h2>It’s a Large Problem </h2>
+<p>Weight control is a large problem. Statistics tell us that last year, about 49% of Americans were trying to lose weight. That’s a lot of frustration and a lot of people trying to curb their enthusiasm, eat responsibly, and maintain the weight they would like for themselves. </p>
+<p>Is impulse control the problem? Do we have difficulty delaying gratification?</p>
+
+<p>The now-famous marshmallow test (1989) attempted to investigate instant and delayed gratification. In the test, investigators tempted four- and five-year-olds with the reward of two marshmallows if they managed to not eat one marshmallow for a certain period of time. </p>
+<p>After following the children into adolescence, it was determined that the ones who were able to wait for two marshmallows tended to do better academically and socially, handle stress better, and generally be more attentive. The conclusion was that being able to delay gratification in the formative years influenced many areas of life later on. It would seem that fates were sealed with the consumption of a single marshmallow. </p>
+
+<p>However, since then, other studies have shown that the marshmallow test did not take social and economic differences into account. Other advantages accounted for differences with marshmallows and later on as adolescents. </p>
+<p>Other studies addressing the problem of curbing impulses have shown that it is easier to delay gratification if there is a <em>tangible reward</em> for doing so. In the marshmallow test, there was a clear tangible reward. The vale of monetary rewards for waiting are well documented. How much money is involved and how long the delay is can make a difference, but the point is that monetary rewards are just as tangible as a marshmallow. </p>
+
+<p>Then there’s real life. When faced with what appears to be a delectable food, what exactly is the reward for tamping down the impulse to eat it? The reward for delaying gratification may not be immediate, readily apparent, or tangible. </p>
+<h2>Thinking About the Future</h2>
+<p>In one study (2022), enhancing a person’s ability to project the self forward in time, called <em>episodic future thinking</em>, is linked to health benefits. Once again, though, the conclusion was that thinking about the future has a greater affect on present behavior if the imagined events are more positive and vivid, such as a marshmallow or a specific amount of money.</p>
+
+<p>An interesting previous study (2016) leveraged future thinking by showing study subjects AI generated images of a thinner self. Afterwards, those subjects ate less of the ice cream that was offered ad libitum than the control subjects did. A vivid, visual reminder of a positive future self was enough to curtail eating a highly palatable treat. </p>
+
+
+<p>Unfortunately, we cannot supply millions of people hoping to keep an eye on their weight with an AI image of themselves that is thinner every time they are faced with an impulsive food choice. Further, this is one intervention that helped to curtail one impulse at one point in time, using a specific cue. Vivid, tangible rewards would be difficult to provide for the many circumstances we face every day. </p>
+
+<h2>Looking for an Answer</h2>
+<p>Our choices around food are not just about impulses. Food is reinforcing. We need to eat. What drives us to eat is extremely complex. It is influenced by personality tendencies, genetics, stress, habits, hunger, blood sugar levels, visual cues and smell, cultural practices, and advertising. Any one of those internal or external states can drive an impulse. </p>
+
+
+
+  
+
+
+<p>To address the underlying complexities of eating and impulse control, a meta-review in 2020 focused on interventions relating to self-regulation and health behavior. The study identified many interventions that had successfully enhanced self-regulation around food. Reflecting the complexities of influences, the interventions were many and varied. </p>
+
+<p>Successful interventions included education, feedback, development of short-term and long-term goals, the use of apps for accountability and monitoring, training in mindful eating, and mindfulness meditation. </p>
+<p>Their bottom line: “…None were consistently successful in that each worked only for some health behaviors and with particular populations.”</p>
+
+<p>We are faced with the ongoing power of food to tempt us, and controlling impulses to eat can be an ongoing struggle. The reasons we may succumb to instant gratification can be complex and varied. The reward for delaying gratification may not be immediate, readily apparent, or tangible. Weight control or weight loss is an ongoing process that can take weeks, months, or years. </p>
+
+<p>But research has provided us with interventions that have been successful. We have a variety of tools to choose from that can address individual differences and the variety of situations we all encounter on a daily basis. </p>
+<p>It turns out that curtailing impulsive eating via delayed gratification is not just about marshmallows. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/health-and-human-nature/202606/is-there-a-cure-for-impulsive-eating" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/health-and-human-nature/202606/is-there-a-cure-for-impulsive-eating</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/health-and-human-nature/202606/is-there-a-cure-for-impulsive-eating</guid>
+            <dc:creator><![CDATA[Kristen A. Carter MS]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/impilsive_eating.jpg?itok=gMbYaRAe" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Psychology of Uncertainty: A Brexit Story]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-03/Realo.jpg?itok=3SdLMSXg" alt="Anu Realo PhD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personal Perspectives</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Uncertainty: A Brexit Story</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: A reflection on adaptation and uncertainty.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Expertise does not protect us from underestimating what the future holds.</li><li style="margin-bottom:6px;">Uncertainty is often more psychologically difficult than change itself.</li><li style="margin-bottom:6px;">Identity becomes especially salient in times of uncertainty and change.</li>
+            </ul>
+          </div>
+                    <p>We moved to England on January 1, 2016. I had accepted a position at the University of Warwick and was due to start in a few days’ time. I had already built a fairly successful international academic career, but I felt I had reached a plateau and that a radical change was needed to move forward. A professorship at a top university in the United Kingdom seemed the perfect next step.</p>
+
+<h2>Looking Across the North Sea</h2>
+<p>Earlier that morning, on a beautiful, bright New Year’s Day, my 12-year-old daughter and I had watched crowds of Dutch people in orange woolly hats dipping into the icy waters of the North Sea at Scheveningen beach near The Hague. It was the annual <em>Nieuwjaarsduik</em>, the local New Year tradition. We looked out across the sea toward England, feeling sad about leaving Holland, where we had stayed for the past year and a half, but also excited about our new life across the Channel. Just an hour-long flight from Amsterdam to Birmingham—things could not be too different there, right?</p>
+
+<h2>Finding Our Feet</h2>
+<p>A little over a month after we had arrived in the United Kingdom, Prime Minister David Cameron announced that the EU referendum would take place on 23 June—Midsummer Eve, a much-loved celebration of the summer solstice across Northern Europe. The Leave and Remain campaigns took off instantly, but our own life dramas and the process of settling in left me with little time and energy to pay close attention to what was happening around us. We travelled to Estonia twice that spring: first to receive the Order of the White Star, a high state honour, and then to attend my uncle’s funeral. Both occasions came as a complete shock. </p>
+
+<p>As an experienced cross-cultural psychologist, I prided myself on both my theoretical and practical knowledge of cultural differences, having previously lived in various European countries. Yet little had prepared me for our new life in the Midlands, or so it seemed. While I tried to figure out how the university operated and deal with the everyday practicalities, my daughter faced her own challenges switching from an international IB school to a local comprehensive school. Her first recollections of daily life at school were like the tales of an anthropologist about a distant tribe whose rituals were both amusing and occasionally difficult to understand.</p>
+
+<h2>The Midsummer Night</h2>
+<p>So when Midsummer Eve arrived, I was not particularly worried about the outcome of the vote. I realised that it was going to be a close call, but not once had I seriously considered that Leave might actually win. My daughter, however, was growing increasingly concerned and, as it later turned out, rightly so.</p>
+
+<p>On the evening of the referendum, she went to bed as usual but set an alarm clock so that she could monitor the vote as the results came in. She first woke me around 1 a.m., saying that things were not looking too good, as Leave was leading by a considerable margin. I told her not to worry and to go back to sleep—surely these were just votes from smaller rural constituencies, and everything would change once London's results came in.</p>
+
+<p>When she woke me again a few hours later, the votes were still being counted, and Remain was still behind. Again, I told her not to worry and go back to sleep. The tide would turn, I assured her. She finally fell asleep, but by that time, I had a sense of foreboding that was hard to shake off. I lay awake for a while and, a little before 5 a.m., I finally got up and switched on the TV in the living room of our tiny flat. It was already light outside, on one of the shortest nights of the year.</p>
+
+<h2>When Morning Came</h2>
+<p>The moment the TV came on, I knew that my daughter had been right to worry. The first thing I heard was a BBC news anchor saying in a solemn voice that the United Kingdom had voted to leave the European Union. Even though the official result had not yet been announced, the BBC had called it for Leave some 20 minutes earlier. It was indeed a close call, but not in the direction I had anticipated. The screen was then filled with Nigel Farage’s jubilant face, announcing that the sun has risen on an independent United Kingdom. And that was that.</p>
+
+<p>I stood there in total dismay and, for a few minutes, could not quite process what I had just heard. It all felt like a dream. What would we do now, I wondered? Should we stay or leave too? My husband had decided not to come with us to the United Kingdom, so we could go back home and be a proper family again rather than live thousands of miles apart.</p>
+
+
+
+  
+
+
+<h2>Living With Uncertainty</h2>
+<p>We stayed. In the messy weeks, months, and years that followed, I first still nurtured a hope that the vote would be miraculously overturned or cancelled. Until it was not, and Brexit did take place. In practical terms, nothing changed for at least several years; life just went on as before. But it was the insecurity about the future, the anticipation of potential change, and the great unknown that were occasionally hard to bear. Nobody knew what would happen to EU citizens, especially those of us who had arrived just before the referendum. But it was not easy for many of my British friends and colleagues at the university either, especially those who had voted Remain. It seemed as if anyone with family connections to an EU country, however distant, tried to obtain an EU passport not only for practical reasons but also because of what it symbolised.</p>
+
+<h2>The Orange Hat</h2>
+<p>My daughter eventually moved back to Europe after her A-levels to study political science and international relations. She may disagree with me, but I am certain that the Brexit vote and the U.S. presidential election later the same autumn, with its equally unsettling outcome, shaped her interests and played a role in her choice of subject. </p>
+
+<p>As for me—I am still in the United Kingdom, 10 years on, holding settled status under the EU Settlement Scheme. I also hold a part-time professorship in Estonia, not because of Brexit but primarily for family reasons. And I still have the orange Unox hat we were handed on New Year’s Day 10 years ago on Scheveningen beach, even though we never went for a swim. My daughter wore it for years as a keepsake and for good luck.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-quiet-joy-of-being/202606/the-psychology-of-uncertainty-a-brexit-story" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-quiet-joy-of-being/202606/the-psychology-of-uncertainty-a-brexit-story</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-quiet-joy-of-being/202606/the-psychology-of-uncertainty-a-brexit-story</guid>
+            <dc:creator><![CDATA[Anu Realo PhD]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-vlada-karpovich-7903156.jpg?itok=hOUCifQd" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weight Loss Drug That Feeds the Disorder]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/yael_hallak__1_.png.jpg?itok=jzf-QSSB" alt="Yael Hallak" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Eating Disorders</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Weight Loss Drug That Feeds the Disorder</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">For some patients, feeling in control is a symptom, not the outcome.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Up to 26 percent of people seeking obesity treatment have an eating disorder most were never screened for.</li><li style="margin-bottom:6px;">For patients with restrictive histories, appetite suppression feeds the disorder rather than treating it.</li><li style="margin-bottom:6px;">A New England Journal of Medicine article raised a formal concern; screening protocols haven't followed.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">There are two women who could be sitting across from you right now, both on semaglutide, losing weight. One of them is, for the first time in years, free. The other one is restricting again and calling it success.</p>
+<p dir="ltr">"I felt untouchable," one patient said. "Like I didn't need anything. Food was just irrelevant. And it wasn't even hard. I wasn't white-knuckling it. It just happened. For the first time, I wasn't negotiating with myself every hour. I didn't know that was possible." She lost weight, and something larger shifted with it. She wasn't just smaller but finally in control of the thing that had underwritten all the other competence. If her body was obedient, the rest of the performance could hold.</p>
+
+<p dir="ltr">But what she felt was not relief. It was mastery, delivered by prescription, over the appetite she had spent years trying to outmaneuver. The medication was not treating her relationship with food so much as accelerating where it was already headed.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/pexels-brittany-709229854-18371583.jpg?itok=q6nskdzq" width="320" height="283" data-insert-type="image" title="Brittany / Pexels" alt="Brittany / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Brittany / Pexels</div>
+</div>
+</div>
+</div>
+<h2>The Psychology of Control, and Why It Matters Here</h2>
+<p dir="ltr">Hilde Bruch, whose work on anorexia nervosa remains foundational, defined the disorder as a "struggle for control, for a sense of identity, competence, and effectiveness." For many of the women who end up on GLP-1 medications, that struggle looks nothing like failure. It looks like a career and a household held together with precision, where control over food is not compensation for what isn't working but the thing that keeps everything else working. The restriction is load-bearing.</p>
+
+<p dir="ltr">That framework has been debated and refined over the decades, and the research is clear that not all eating disorders map onto the control model in the same way. But for many women with histories of restriction, the clinical reality is recognizable: the food behaviors are doing psychological work that has nothing to do with food.</p>
+
+<p dir="ltr">Which is why a medication that makes not-eating effortless is not a neutral intervention for this population. It bypasses the psychology and removes the friction that was, until now, the only thing slowing it down. And friction, for someone in recovery from restriction, is often what treatment spent years building back in.</p>
+
+<h2>What the Medication Actually Does</h2>
+<p dir="ltr">GLP-1 medications change how the brain processes hunger and the rewarding properties of food at a neurological level—a real change in brain chemistry, not willpower. The quieting that people describe, the sense that food has stopped pulling at them, emerges from shifts in the hypothalamus and the mesolimbic reward system, the same circuitry involved in addiction, compulsion, and craving.</p>
+
+<p dir="ltr">The same neurological shift reads entirely differently depending on a person's history with food. For someone whose eating has been chaotic and compulsive, the quiet can genuinely be relief. For someone whose eating has been organized around restriction, that same quiet carries a different charge; it amplifies what was already there.</p>
+
+<p dir="ltr">For binge eating disorder, the early research is cautiously encouraging. Multiple systematic reviews have found reductions in binge eating behaviors with semaglutide and liraglutide. The effect makes neurological sense: Binge eating is significantly a reward-circuitry phenomenon, and GLP-1 medications dampen reward-driven responses to food. People who have spent years in the exhausting cycle of losing control and trying to compensate describe what the medication offers as genuinely transformative—not just less eating, but less struggle.</p>
+
+
+<p dir="ltr">For restrictive eating disorders, the same mechanism runs in the opposite direction. A 2025 case involved a woman with a childhood history of anorexia who was prescribed tirzepatide for metabolic reasons. The medication helped her blood sugar. It also appeared to reactivate dormant restrictive patterns; she began over-exercising and continued dosing in secret after her physician stopped the prescription. A similar case was documented in 2024. In both instances, clinicians noted that the GLP-1 seemed to activate a dormant eating disorder rather than treat an existing one. The appetite suppression that is clinically unremarkable in most patients became, in someone whose nervous system already knew how to use not-eating, a tool she did not need more of.</p>
+
+<h2>The Structural Problem</h2>
+<p dir="ltr">Here is the overlap nobody planned for. Most people with active or historical eating disorders are not underweight. They are in average or larger bodies, the same population GLP-1 prescriptions are aimed at. A systematic review of more than 94,000 adults seeking obesity treatment found that up to 26 percent reported moderate-to-severe binge eating. The numbers for restrictive histories are harder to capture precisely because subclinical restriction is chronic, normalized, and rarely reported. But clinicians who work in this space know the profile: the woman who has never met diagnostic criteria and has been managing her relationship with food through vigilance for most of her adult life.</p>
+
+
+
+  
+
+
+<p dir="ltr">That woman can complete a telehealth intake questionnaire, receive a prescription, and begin a medication that interacts profoundly with her psychology, without anyone asking a single question about her history with food. The intake forms used by many telehealth platforms were designed to assess metabolic eligibility, not psychological history. The drug label for semaglutide does not include a warning for restrictive eating disorders. Required screening does not exist. No structured follow-up is designed to catch what happens when appetite suppression meets a nervous system that was already organized around not-eating.</p>
+
+<h2>The Clinical Evidence</h2>
+<p dir="ltr">In April 2026, physician Amanda Banks published a piece in the <em>New England Journal of Medicine</em> raising formal concern about GLP-1 medications and eating disorders. Banks noted that the proportion of GLP-1 prescriptions written for people who were not diabetic, obese, or overweight had increased from 4.5 percent in 2018 to 17 percent in 2023. She called it "troubling" how easy it had become to obtain a weight loss prescription and argued for consensus recommendations that would protect people with existing or emerging eating disorders. A 2023 U.S. Food and Drug Administration analysis found misuse reports for semaglutide were four times higher than for other GLP-1 drugs, rates comparable to phentermine-topiramate, a stimulant combination drug with its own history of misuse in eating disorder populations.</p>
+
+<p dir="ltr">What these signals point to is a gap between what the medication does in a body with an eating disorder history and what the intake process currently asks. The prescribing culture has responded to a public health crisis in obesity. It has not yet built the infrastructure to catch a different kind of vulnerability in the same population.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/beyond-willpower/202606/the-weight-loss-drug-that-feeds-the-disorder" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/beyond-willpower/202606/the-weight-loss-drug-that-feeds-the-disorder</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beyond-willpower/202606/the-weight-loss-drug-that-feeds-the-disorder</guid>
+            <dc:creator><![CDATA[Yael Hallak]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/glp1_diet.png.jpg?itok=4JL-qQ6U" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reduce Anxiety by What You Eat]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/Hartmann.png.jpg?itok=R0aXokT-" alt="Hartmann" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Reduce Anxiety by What You Eat</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Certain foods reduce anxiety; others make it worse.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Some foods reduce anxiety, and other foods make it worse.</li><li style="margin-bottom:6px;">The Mediterranean diet is the primary diet for reducing anxiety.</li><li style="margin-bottom:6px;">Using food to reduce anxiety does not take the place of therapy or medications for an anxiety disorder.</li>
+            </ul>
+          </div>
+                    <blockquote><p>"Anxiety disorders, including panic disorder with or without agoraphobia, generalized anxiety disorder, specific phobias, and separation anxiety disorder, are the most prevalent mental disorders ..." (Bandelow, 2015). </p>
+</blockquote>
+<p>In addition, people can struggle with anxiety that does not rise to the level of a disorder. For example, some students experience test anxiety. </p>
+
+<p>Food can affect anxiety, and choosing foods carefully can be a helpful adjunctive treatment. Some foods can reduce anxiety, and other foods can make it worse. If you or someone you care about has anxiety, you can utilize the information in this post to help reduce anxiety.</p>
+<h2>Foods That Help Reduce Anxiety</h2>
+
+<p>Research has shown that a Mediterranean diet benefits people with anxiety disorders. "The Mediterranean diet is generally based on the daily intake of fruit and vegetables, whole grains, legumes, nuts, fish, white meats, and olive oil. It may also include moderate consumption of fermented dairy products, a low intake of red meat, and red/white wine during the main course" (Ventriglio, 2021).</p>
+
+<p>The Mediterranean diet<strong> </strong>has been shown to benefit children and teenagers (Camprodon-Boadas, 2025), young adults (Melguizo-Ibanez, 2023), and older adults (Allcock, 2024). Research has also demonstrated its benefits for anxious people who are obese (Menichetti, 2025).</p>
+<ul>
+<li><strong>Anti-inflammatory and antioxidant foods: </strong>Soy products, berries, nuts, seeds, tea, and especially beans (Naidoo, 2023).</li>
+<li><strong>Micronutrients:</strong><em><strong> </strong></em>Leafy greens such as kale and spinach, whole unprocessed foods, legumes, seafood, meat, dairy, and cruciferous vegetables such as broccoli, Brussels sprouts, cabbage, and cauliflower (Naidoo, 2023).</li>
+<li><strong>Omega-3 fatty acids:</strong><em><strong> </strong></em>Fish, especially salmon, and other seafood; nuts; and seeds can improve anxiety (Naidoo, 2023).</li>
+<li><strong>Fiber and fermented foods: </strong>Vegetables, legumes, nuts, and seeds add fiber; gut health is supported by fermented foods, such as kimchi, miso, sauerkraut, and yogurt (Naidoo, 2023).</li>
+<li><strong>Oils: </strong>Extra-virgin olive oil for dressings and low-heat cooking; use avocado oil for higher-heat cooking (Naidoo, 2023).</li>
+<li><strong>Spices and herbs: </strong>Turmeric (with a small amount of black pepper), saffron, paprika, oregano, rosemary, mint, parsley, and thyme (Naidoo, 2023).</li>
+<li><strong>Dark chocolate:</strong><em><strong> </strong></em>1 1/2 ounces of extra-dark natural chocolate is a healthy treat and dessert (Naidoo, 2023).</li>
+<li><strong>Water:</strong><em><strong> </strong></em>Drink plenty of water each day (Naidoo, 2023).</li>
+</ul>
+
+<h2> Foods to Limit or Avoid Completely</h2>
+<ul>
+<li><strong>Sweets and treats: </strong>Chips, cookies, sweetened breakfast cereals, and anything with lots of sugar or artificial sweeteners, especially soda. Do not drink energy drinks; their caffeine and other ingredients elevate anxiety (Naidoo, 2023).</li>
+<li><strong>Coffee: </strong>Limit coffee intake. Five or more cups per day can cause panic attacks even in people without a panic disorder (Naidoo, 2023).</li>
+<li><strong>Alcohol:</strong><em> </em>Limit alcohol use. If you do drink alcohol, red wine is preferred (Naidoo, 2023).</li>
+<li><strong>Condiments: </strong>Limit condiments with a high sugar content, such as ketchup, honey mustard, and BBQ sauce (Naidoo, 2023).</li>
+<li><strong>High glycemic index (GI) foods:</strong><em> </em>Limit foods with a high GI, such as white bread, potatoes, bagels, and pasta. When you do eat pasta, cool it after cooking because that reduces the GI value. Before eating it, you can reheat it without elevating the GI value (Naidoo, 2023). The GI refers to how quickly carbohydrates raise your blood sugar levels.</li>
+<li><strong>Red meat: </strong>Limit red meat, such as beef. Severely limit or eliminate processed or cured meat, e.g., bacon, sausage, hot dogs, and meat substitutes (Naidoo, 2023).</li>
+<li><strong>Ultra-processed foods:</strong><em> </em>Eliminate them from your diet (Lane, 2022).</li>
+</ul>
+
+<h2>Supplements</h2>
+<p>Some supplements have been shown to benefit people with anxiety. Ashwagandha supplements reduce the stress response at a dose of 300-600 mg daily and can reduce anxiety with doses up to 12,000 daily (Akhgarjand, 2022).</p>
+<p>Omega-3 fatty acid supplements showed improvement at 2 grams per day. It "did not increase adverse events" (Bafkar, 2024).</p>
+
+<p>Probiotics have been shown to reduce anxiety and depressive symptoms (Asad, 2025). Several foods contain probiotics, but they can also be obtained in capsule form. </p>
+<h2>The Bottom Line</h2>
+<p>Selecting foods and supplements can be a helpful adjunctive treatment for anxiety. Some foods are beneficial, and others are potentially harmful. Using food as a treatment is not meant to be a substitute for therapy and medications for people with an anxiety disorder. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-mind-doctor/202606/reduce-anxiety-by-what-you-eat" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-mind-doctor/202606/reduce-anxiety-by-what-you-eat</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-mind-doctor/202606/reduce-anxiety-by-what-you-eat</guid>
+            <dc:creator><![CDATA[Peter M. Hartmann, MD, DLFAPA]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-06/carlosfs05-people-5326159.jpg?itok=mFImv_qz" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Riveting Exploration of the Minds and Hearts of Horses]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Riveting Exploration of the Minds and Hearts of Horses</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Janet Jones's new book is an invaluable read about what makes equines tick.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">'A Horse's World' offers an important read about the cognitive and emotional lives of horses.</li><li style="margin-bottom:6px;">Jones provides a deep revealing window into horses' hearts and minds from the inside out.</li><li style="margin-bottom:6px;">The bond between horses and humans is the stuff of legend that no other prey and predator animals share.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/candy_sales.jpeg.jpg?itok=1PidxChW" width="320" height="240" data-insert-type="image" title="Dr. Candy Sales/With Permission" alt="Dr. Candy Sales/With Permission"></div>
+<div class="insertArea--origin subtext">Source: Dr. Candy Sales/With Permission</div>
+</div>
+</div>
+</div>
+<p>Horses are amazingly intelligent, highly emotional, sentient animals. The more I read about these fascinating beings, the more I realize how much I don't know and how much I want to learn more. When I first heard about neuroscientist Dr. Janet Jones's new <a href="https://www.amazon.com/Horses-World-Neuroscientists-Journey-Equine/dp/0316582581/ref=sr_1_1?crid=17LZI8QFISTB&amp;dib=eyJ2IjoiMSJ9.bNtb9rnPB6Lmxz_vjMbfedRl4hOiiE9qbAtYb01RX21EJQr4wUv3HHU5dAL6QlewZ5F3JEVDlmkTM1Eahpv-5SDhag8BvqPLUpCNmpV3q0ubaLopKsouTAxc2OJYOwhEVBf18ZiwO6ZtSW85QQKhFftYUgCi7aAdwSCHOPmlwWG9Q9FTGMhvZskRdTI6U8OtFNwuIYp8CRBtMoDAUkZlAeLJ2uReFvL5s36M4TzUgRU.XLswo5Ez-iFRTf9IqRbwK7UAU1eRZuQAKouzWL_d04s&amp;dib_tag=se&amp;keywords=a+horse%27s+world&amp;qid=1778030239&amp;sprefix=a+horse%27s+worl%2Caps%2C179&amp;sr=8-1">book</a> <em>A Horse's World: A Neuroscientist's Journey into the Equine Mind, </em>I couldn't wait to read it, and hardly a day goes by that I don't pick it up and flip through it. </p>
+
+<p>Packed with science, stories, heart, and love, Jones's work of art is a seminal and invaluable book about the cognitive and emotional lives of horses in which she offers a detailed exploration of these charismatic beings, whose beauty and service we have adored for millennia while ignoring their hearts and minds. All in all, Jones offers us a window into the animals themselves so we can appreciate who they are from the inside out. </p>
+
+<p><strong>Marc Bekoff: Why did you write </strong><em><strong>A Horse's World</strong></em><strong>?</strong></p>
+<p>Janet Jones: Horses have been treated as objects, not subjects, for far too long. As the first animal cognition book about horses to be written for the general public, <em>A Horse’s World</em> is an exploration of equines themselves—not of their immense service as war machines, artistic muses, topics of natural history, human entertainment, or aids to civilization. We already have centuries of written matter that dissect the horse’s use, his human purpose, and how it changed with evolution, domestication, exploration, and military power. Horses are the most charismatic of animals, yet while we adore their beauty and value their service, we still ignore their hearts and minds. We need a window into the actual animal, and we can appreciate who he is aside from what he has done for us.</p>
+
+<p><strong>MB: How does your book relate to your background and general areas of interest?</strong></p>
+<p>JJ: I'm a horse trainer, earned a Ph.D. in cognitive science from UCLA, and I worked as a college professor teaching perception, memory, language, and thought. In the early 2000s, I began to apply neuroscience to horsemanship and found that it improved horse and human safety, performance, connection, and welfare. My previous book, <em>Horse Brain, Human Brain, </em>is available in nine languages, won several awards, and topped the bestseller list for horse books from 2020 to 2026.</p>
+
+<p><strong>MB: Who do you hope to reach?</strong></p>
+<p>JJ: <em>A Horse’s World</em> is written for the general public. It assumes no prior knowledge of horses, yet offers research on equine minds that even most horse people will find surprising. Did you know, for example, that horses:</p>
+<ol>
+<li>Have long-term memories that surpass those of humans?</li>
+<li>Live in extremely complex equine societies?</li>
+<li>Are not wild, even if they have always lived in the wilderness?</li>
+<li>Have the neural machinery to detect odors as sensitively as a dog does?</li>
+<li>Have many blind spots and blurry vision?</li>
+<li>Are more sensitive to weight, pressure, and balance than humans are?</li>
+</ol>
+
+<p>Such surprises are explained through the book’s narrative, which tells the true story of one horse’s development from a young naïve colt at age 2 to a mature adult teammate at age 8. Readers get to know this horse’s personality and see how he forms a bond of trust with his trainer. When connective energy between horse and human is captured, our link produces the equivalent of pure magic, but with a scientific foundation.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-05/ahw_cover_w_grandin_jones_horsesworld_hc.jpg?itok=vQU0FjXy" width="320" height="496" data-insert-type="image" title="Little, Brown and Company/With Permission" alt="Little, Brown and Company/With Permission"></div>
+<div class="insertArea--origin subtext">Source: Little, Brown and Company/With Permission</div>
+</div>
+</div>
+</div>
+<p><strong>MB: What are some of the topics you consider, and what are some of your major messages?</strong></p>
+<p>JJ: <em>Horses as prey, not predators</em></p>
+<p>Popular animal cognition literature and most scientific research on animals focuses on predators: dogs, cats, snakes, whales, cougars, apes, bears, coyotes, owls, dolphins, octopuses, hawks, and so on. In contrast, very little attention is devoted to prey animals, whose brains differ from ours more dramatically than those of our predator classification. Horses evolved to flee from predators, yet today, through domestication and training, we can collaborate with them in feats of extreme athleticism that demand mutual communication.</p>
+
+<p><em>Brain-to-brain communication between horse and rider</em></p>
+<p>With years of daily training, horse-and-human teams can form what has been hailed as the “neurobiological miracle” of direct brain-to-brain communication. This is not a myth or metaphor—we are the only cross-species pair known to share neural activation between brains in real time. Together, we converse through imperceptible body signals that we and our mounts are sensitive enough to detect and have learned to interpret. Astonishingly, prey and predator brains can cooperate to such an extent.</p>
+
+<p>Mutual sharing between neurons improves team performance and enhances equine welfare, but entering a prey animal’s mind also allows humans to understand life more deeply, to open ourselves to new ways of communicating, to respect those who differ from us, to learn humility and achieve depth, to stretch the edges of our minds.</p>
+
+
+
+  
+
+
+<p><em>Equine expression and interpretation of emotion</em></p>
+<p>Horses can produce and interpret a greater variety of facial expressions than most other animals on the planet. Monitoring 17 facial locations that move in multiple directions at varying speeds, researchers have identified 805 expressions that horses use to convey their attitudes toward each other. That’s only a drop in the bucket, though—a rough calculation of potential combinations yields 355 trillion expressions that could appear on a horse’s face, excluding the rest of her enormous body. In addition to displaying and interpreting emotion among themselves, horses also detect human emotion. For example, they mirror human emotions like fear, avoid angry human faces, approach pleasant human faces, and match those faces with human voices that convey similar emotions.</p>
+
+<p><strong>MB: How does your work differ from others who are concerned with some of the same general topics?</strong></p>
+<p>JJ: Many books consider horses’ contributions to human life—how they aided human civilization, became the focus of our earliest art, evolved through natural history, and so on. And we have plenty of instruction manuals that explain how to train a horse for various purposes. But <em>A Horse’s World</em> is the first popular animal cognition book devoted to the animals themselves—how they think, how they communicate, what they feel, how and why they interact with humans.</p>
+
+<p><strong>MB: Are you hopeful that, as people learn more about these magnificent animals, they will come to treat them with more respect, dignity, and compassion?</strong></p>
+<p>JJ: Oh, yes! <em>A Horse’s World</em> shows my deep love for horses. Most people are fascinated by horses—even those who have never touched one and probably never will. I want them to understand who horses really are, beyond what they have done.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202605/a-riveting-exploration-of-the-minds-and-hearts-of-horses" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202605/a-riveting-exploration-of-the-minds-and-hearts-of-horses</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202605/a-riveting-exploration-of-the-minds-and-hearts-of-horses</guid>
+            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-05/candy_sales.jpeg.jpg?itok=Qmvq6tEq" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
