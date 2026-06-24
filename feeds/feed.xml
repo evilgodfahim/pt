@@ -4,189 +4,213 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 23:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 14:32:34 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 23:58:12 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 14:32:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why We’re Drawn to Things That Scare Us a Little]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-03/annie_mueller.png.jpg?itok=_Ojsmcdj" alt="Annie Mueller Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why We’re Drawn to Things That Scare Us a Little</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Why humans have an ongoing flirtation with fear and anxiety.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Will AI Increase or Decrease Conspiracy Theory Belief?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Joseph-M-Pierre.jpg?itok=GIMqk9wL" alt="Joe Pierre M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Will AI Increase or Decrease Conspiracy Theory Belief?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">New evidence shows chatbots can both weaken and entrench false beliefs.</h2><p style="font-size:0.9em;color:#666;">Posted June 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Thoughtfully approaching discomfort opens up opportunities for growth, transformation, and change.</li><li style="margin-bottom:6px;">Approaching anxiety-provoking situations builds confidence that can transfer to other parts of life.</li><li style="margin-bottom:6px;">Anxiety and fear can drop us into the present moment, which creates a sense of vitality and engagement.</li><li style="margin-bottom:6px;">What might be waiting for you on the other side of fear?</li>
+              <li style="margin-bottom:6px;">Several studies have demonstrated that AI chatbots can be trained to decrease conspiracy theory belief.</li><li style="margin-bottom:6px;">However, other research has shown that AI chatbots can increase belief in conspiracy theories.</li><li style="margin-bottom:6px;">The effects of LLMs on conspiracy beliefs matters less than the intentions of the humans who train them.</li>
             </ul>
           </div>
-                    <p>I recently found myself running across Zion National Park, completing the epic Zion Traverse in one day: a 38-mile, point-to-point route that transects the entirety of the western part of the park. </p>
-<p>Around mile 36, I had pulverized feet, a body struggling with dehydration and loss of appetite, and grappled with the question as to why I chose to do this to myself – and why I consider this type of “Type II fun” experience to be, well, enjoyable. </p>
+                    <p>These days, there’s an argument that AI chatbots are going to lead us towards a kind of healthy consensus of belief, liberating the world from our current era of belief polarization and extremity that was fueled by social media.<sup>1</sup></p>
+<p>As I’ve said before, I don’t share the optimism that AI will restore our<a href="https://www.psychologytoday.com/us/blog/psych-unseen/202603/how-ai-chatbot-use-can-cause-digital-folie-a-deux"> sense of common reality</a>. On the contrary, I’m much more concerned about the exploitation of AI as a<a href="https://www.psychologytoday.com/us/blog/psych-unseen/202602/fake-news-ai-deepfakes-and-the-pageant-of-the-unreal"> tool of propaganda</a> to manipulate public opinion on a massive scale.</p>
 
-<p>While ultrarunning may not be everyone’s cup of tea, humans have an ongoing flirtation with fear and anxiety. This might take the form of rollercoasters, horror movies, BASE jumping, Toastmasters, or going on a first date. </p>
-<p>What can be gained by willingly seeking out discomfort, and why do we do it? </p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/img_0013.JPG.jpg?itok=DC4mdbyv" width="320" height="427" data-insert-type="image" alt="I never would have dreamed of this type of adventure 10 years ago." title="Annie Mueller"></div>
-<div class="caption">I never would have dreamed of this type of adventure 10 years ago.</div>
-<div class="insertArea--origin subtext">Source: Annie Mueller</div>
-</div>
-</div>
-</div>
-<h2>The Comfort Zone Isn’t Static</h2>
-<p>When we repeatedly seek out experiences that push the limits of what feels comfortable and familiar, we may experience anxiety at first – but then a process called habituation unfolds. </p>
-<p>Habituation occurs when we become familiar with a situation, scenario, or activity, and naturally feel less anxious over time. One reason this happens is because we have built up confidence in our ability to navigate distress.</p>
+<h2><strong>AI Chatbots Can Be Trained to Moderate Conspiracy Theory Belief</strong></h2>
+<p>That said, recent research on the effects of AI on false beliefs has provided some reason to be optimistic, at least when it comes to conspiracy theories. For example, one study had participants interact with a “street epistemologist chatbot” designed to engage people on their conspiracy beliefs to understand the rationale for their beliefs, rather than trying to debate or dissuade.<sup>1</sup> More specifically, the chatbot was prompted to clarify conspiracy theory beliefs, ask how believers came to hold the belief, inquire about belief reservations and contradictory evidence, gently challenge assumptions, and then summarize the conversation. </p>
 
-<p>There is something empowering about tackling new challenges. Through repeated experience, situations that once felt overwhelming and anxiety-provoking can feel familiar or even easy. </p>
-<p>There was a point in my running career in which running 38 miles through the desert would have felt as unlikely as journeying to the moon. Over the years, I’ve moved the needle on my running abilities bit by bit, starting with dozens of road races (ranging from 5k to marathons) and eventually branching out to ultramarathons and self-supported adventures. </p>
+<p>After interacting with the chatbot, participants experienced a weakening of belief conviction. However, this effect wasn’t observed among those with the most conspiratorially minded (those in what I would call the <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202503/the-psychology-of-the-true-believer"><em>true believers</em></a> category). Furthermore, non-AI interventions that encouraged believers to reflect on the reasons for their conspiracy theory beliefs and any reservations they might have about them also dampened belief conviction. This suggests an openness to counter-evidence among “<a href="https://www.psychologytoday.com/us/blog/psych-unseen/202310/straddling-the-fence-of-pathological-belief">fence-sitters,</a>” whether or not a chatbot is involved.</p>
 
-<p>Stepping outside of the comfort zone raises the question, “what’s next?” </p>
-<h2>Struggle Makes for Good Stories (And Gives the Run Meaning)</h2>
-<p>My run through Zion was full of challenges: hot daytime temperatures, long stretches without water sources, miles upon miles of talcum-powder fine sand, and 7000 feet of climbing. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p>Another experiment trained a chatbot to interact with self-identified conspiracy believers to “very effectively persuade” the believer by presenting counter-evidence.<sup>2</sup> After interactions lasting an average of just eight minutes, belief conviction decreased by about 20 percent. Trust—in both AI and institutions of epistemic authority—was a mediating factor of this modest salutary effect, consistent with my “3M Model,” which argues that <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202502/why-do-people-believe-things-that-arent-true">mistrust, misinformation, and motivated reasoning</a> are the key underpinnings of false belief.</p>
 
-  </div>
+<p>The lead author of the study, Dr. Thomas Costello from Carnegie Mellon University, maintains an online version of his debunker, “<a href="http://debunkbot.com/">DebunkBot,</a>” for people to try. Curiously, subsequent research by his team found that the chatbot’s ability to moderate conspiracy theory belief persists whether or not participants are aware that they’re interacting with an AI (belief conviction decreases even when they think they’re interacting with a human).<sup>3</sup> As with the other study using a “street epistemology chatbot,” it doesn’t therefore appear that AI chatbots are necessary to achieve the moderating effects.</p>
 
-<p>More than that, I struggled through self-doubts, anxiety, and existential questions. </p>
-<p>Had these challenges not been present, I also would not have had the opportunity to learn, transform, and grow. It simply would have felt like a just another run. </p>
-<p>I exited the desert that night a stronger, more confident version of myself, and continued to reflect on lessons learned for days and weeks after.</p>
+<h2><strong>But Under Certain Conditions, Chatbots Can Also Increase Conspiracy Theory Belief</strong></h2>
+<p>Although these studies support the possibility that AI chatbots may soften conspiracy beliefs, new research fuels my skepticism about the issue. A study testing seven real-world chatbots (rather than those specifically trained to reduce conspiracy belief) posed a series of scripted questions from a “casually curious” persona about nine different conspiracy theories.<sup>4</sup> While most of the chatbots correctly identified them as conspiracy theories, all of the chatbots engaged in “bothsidesing,” in which false information supporting the conspiracy theory was presented alongside factual information that refuted it.</p>
 
-<h2>Discomfort Drops You Fully into the Here and Now</h2>
-<p>Everyday life is full of distractions and multitasking. We spend so much of our lives on autopilot as we juggle competing priorities, and barely stay afloat in the process. </p>
-<p>Discomfort fast tracks us to presence. At mile 36, I had no mental bandwidth to think about work on Monday, what time I needed to check in for my flight home, or the week’s grocery list. I was wholly aware of how badly my feet hurt, yes, but I was also fully present with my thoughts, emotions, and the breathtaking scenery around me. </p>
+<p>This validating effect was especially true for certain conspiracy theories, like the idea that JFK was assassinated by someone other than Lee Harvey Oswald, whereby chatbots were “happy to speculate about the involvement of the mafia, CIA, or other parties.”<sup>5</sup> It was also especially true for certain chatbots like Grok-2 Mini in “fun mode” which “rarely engaged seriously with a topic, referred to conspiracy theories as ‘a more entertaining answer’ to the questions posed, and would offer to generate images of conspiratorial scenes for users.”</p>
 
-<p>Being in the here and now is something we can access at any moment, if we try. Experiencing any degree of discomfort is a reminder of how vivid and clarifying it can feel to just be here, right now. </p>
-<h2>Who Are You When It Gets Hard?</h2>
-<p>Fear and anxiety tend to shine a spotlight on our deepest insecurities, worries, and inner struggles. Distress also illuminates the core values that may lie underneath these insecurities. </p>
+<p>Another study trained five different large language models (LLMs) to be particularly “warm,” defined by the researchers as “the degree to which their outputs lead users to infer positive intent, signalling trustworthiness, friendliness, and sociability.”<sup>6</sup> Doing so reduced the factual accuracy of chatbot-generated output, including the promotion of conspiracy theories. This finding matches the observation that sycophancy is a significant risk factor for<a href="https://www.psychologytoday.com/us/blog/psych-unseen/202507/can-ai-associated-psychosis-be-treated-or-prevented"> AI-associated false beliefs,</a> including delusions. Together with the previous study, this research suggests that chatbots risk supplying validation for conspiracy beliefs when they’re not specifically trained to do otherwise.</p>
 
-
-<p>Under pressure, we learn things about ourselves that we may not have learned otherwise – such as how strong, resilient, and capable we actually are. These lessons may not be immediately apparent, but come in the aftermath of the experience. </p>
-<h2>Confidence Is Transferable</h2>
-<p>I recently fell down a rabbit hole of watching tandem BASE jumping videos. It only took a few videos before I was completely mesmerized. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/img_8947.jpg?itok=GguDjvDY" width="320" height="240" data-insert-type="image" alt="I was beat down from running in the desert for an entire day, yet there was so much growth that came from the struggle. " title="Annie Mueller "></div>
-<div class="caption">I was beat down from running in the desert for an entire day, yet there was so much growth that came from the struggle.</div>
-<div class="insertArea--origin subtext">Source: Annie Mueller</div>
-</div>
-</div>
-</div>
-<p>In <em>every single</em> video, the person (typically a novice) goes from extreme anxiety and panic to incredible elation, within the span of just a few seconds. Once they are safely on the ground, they seem like they can take on the world. </p>
-<p>Whether it is jumping off a cliff or running across an entire National Park in a day, traveling far beyond what we ever expected from ourselves feels intoxicating. Suddenly, tasks that once felt arduous no longer seem so difficult, and it is natural to wonder, “what else have I been making harder than it needs to be?” </p>
+<h2><strong>Chatbots Are Only As Good as the Data and Training</strong></h2>
+<p>It’s safe to say that AI chatbots <em>could</em> be trained to mitigate beliefs. However, left to their own devices, “in the wild,” so to speak, they could just as easily validate and reinforce belief in conspiracy theories. Even worse, they could easily be trained to <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202409/why-do-political-leaders-promote-conspiracy-theories">deliberately propagate conspiracy theories</a> by those who stand to gain from such untruths.</p>
 
 
 
   
 
 
-<h2>Moving Forward</h2>
-<p>I finished the Zion Traverse as the sun set over the desert, hobbling the final miles on feet worn down raw from the elements. The day was not quite as planned, and yet it felt entirely worth it. When we choose discomfort thoughtfully, we also choose opportunities for growth, meaning, presence, and feelings of vitality. </p>
+<p>Indeed, in an unpublished preprint, Costello and his colleagues recently found that a jail-broken version of ChatGPT 4.0 with limited guardrails—as well as the normal version of ChatGPT 4.0—could actually convince people to believe in conspiracy theories.<sup>7</sup> They concluded that LLMs “possess potent abilities to promote both truth and falsehood.” Concerningly, however, the “bunking” chatbot that encouraged conspiratorial thinking was rated more positively than the “debunking” chatbot used in their previous research. This finding is consistent with the observation that LLM users view sycophancy as a desirable chatbot feature.</p>
 
-<p>To be clear, we do not need to seek out suffering unnecessarily, and anxiety in the most severe forms can be hindering and not helpful. If anxiety, fear, or panic is getting in the way of daily functioning or causes you severe distress, consider reaching out to a therapist or mental health professional for support. </p>
+<p>Supporting my concern of chatbots promoting conspiracy theories in the service of propaganda, other research has found that governments can influence LLMs by producing a large amount of content and exerting tight control of the media.<sup>8</sup> By “flooding the zone” with disinformation to achieve “algorithmic domination,”<sup>9</sup> propagandists can effectively train AI chatbots to regurgitate falsehoods. This “garbage in, garbage out” phenomenon (aka GIGO) is a well-known limitation of chatbots that can result in misinformation in the form of so-called “<a href="https://www.psychologytoday.com/us/blog/psych-unseen/202506/ai-hallucinations-in-medicine-and-mental-health">hallucinations</a>.”</p>
 
-<p>What's something that scares you a little… and what might be waiting for you on the other side of it?</p>
-<p><em>This post also appears on summerlandpsych.com</em>. </p>
-<p><em>To find a therapist, </em><a href="https://www.psychologytoday.com/us/therapists"><em>visit the Psychology Today Therapy Directory</em></a><em>.</em></p>
+<p>In the end, asking whether AI will increase or decrease conspiracy beliefs is the wrong question. The right question is whether the human beings who build and utilize AI algorithms will train them to do so. </p>
+<p>And no doubt, the answer is yes—humans will train AI to increase <em>and</em> decrease conspiracy theory belief, depending on their intentions. What net effect that will have on the world remains to be seen.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202606/why-were-drawn-to-things-that-scare-us-a-little" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202606/will-ai-increase-or-decrease-conspiracy-theory-belief" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202606/why-were-drawn-to-things-that-scare-us-a-little</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202606/why-were-drawn-to-things-that-scare-us-a-little</guid>
-            <dc:creator><![CDATA[Annie Mueller Ph.D.]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-meshack-emmanuel-kazanshyi-1267432081-28710728.jpg?itok=iZ8X0o9b" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/psych-unseen/202606/will-ai-increase-or-decrease-conspiracy-theory-belief</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psych-unseen/202606/will-ai-increase-or-decrease-conspiracy-theory-belief</guid>
+            <dc:creator><![CDATA[Joe Pierre M.D.]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/joshgmit-ai-generated-8262920.jpg?h=ebe9a27b&amp;itok=_W5BH9kU" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Boomer Women Are Changing the Time-Worn Aging Script]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-12/untitled_design.png.jpg?itok=giFxQ7Gr" alt="Dena Kouremetis" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Aging</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Boomer Women Are Changing the Time-Worn Aging Script</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Our mothers' social script isn't one we signed up for.</h2><p style="font-size:0.9em;color:#666;">Posted June 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Are Twins Dishonest About The Problems They Create?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/barbara_klein_edit_0.jpg?itok=Iyl6Riea" alt="Barbara Klein Ph.D., Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Understanding Twins</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Are Twins Dishonest About The Problems They Create?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Over-identification may complicate responsibility among twins.</h2><p style="font-size:0.9em;color:#666;">Posted June 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/pexels-liza-summer-6382670.jpg?itok=9SMFNlgV" width="320" height="480" data-insert-type="image" title="Pexels/Liza Summer" alt="Pexels/Liza Summer"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Pexels/Liza Summer</div>
+</div>
+</div>
+</div>
+<p>Understandably, twin closeness and identity that starts to develop at conception in the mother's womb continues differently at birth and as twins mature. Because twins can be and are separated gradually, twins develop a sense that they are two people. Twin closeness often leads to over-identification. By this, I mean they psychologically believe that they are emotionally a part of their twin. Especially in early childhood, when one twin cries, the other twin also cries. I have observed the merger of twin personalities many times. Obviously, believing they are merged is an unconscious and conscious way of thinking that creates serious identity confusion between the twin pair. Parents and other close friends and family experience over-identification that grows and develops over time; this includes pressure from the twin pair’s internal and external worlds. </p>
+
+<p>Normal twin identity confusion over “what belongs to which twin” and “who caused the present problem” are always subject to each twin's personal belief. More often than not, there is no agreement about who created the catastrophe. Almost any problem, from “who let the dog run wild in the street,” to “who ate our favorite cookies,” can be argued over and over again with amazing intensity. Over-identification creates twin fighting and confusion for those who are around. Twin confusion is hard for everyone involved. Unfortunately, it is not unusual for twins to misapprehend that they are over-identified with their twin. In addition, Twin A, who ate the cookies, wants Twin B to confess that she was the one who ate the cookies or admit she let the dog run loose, even if she is sure that her sister is or is not responsible for these unfortunate events. A clear-eyed outsider can see that their unsolvable fighting is related to identity confusion. Said differently, “Who is who?” And “What belongs to Twin A or Twin B?”</p>
+
+<p>With very strong beliefs, Mom supports Twin A, and Dad supports Twin B. Grandparents, relatives, and neighbors all have different opinions. Why is the cookie's absence or disappearance so important? It is really hard to figure out and then decide who is really guilty. For example, in high school, my twin and I would fool around and miss the school bus. To add insult to injury, we would spend our bus money on cookies at Canter's, our favorite bakery in West Hollywood. We had no money for the bus and could not get home; we had to call our mother and ask her to leave work and pick us up. Mom came and asked us to pay attention to the bus schedule. We were both fooling around, and both were guilty. I don't remember how this incident was resolved.</p>
+
+<p>Who is responsible for correcting the misunderstanding between twins when it becomes an ongoing problem? For example, “You are stealing my new friend Sherry,” Twin A complains. Twin B dramatically insists, “Sherry was my friend first.” Neither twin gives in. Even the well-known twin therapists I know and work with cannot solve this problem. Arguing over what belongs to which twin never seems to end. I chuckle about the absurdity of it, but still know that it is an important identity issue for twins. For sure, when our favorite cookies were missing, it was an international issue for my sister and me, leading to angry criticism and accusations. </p>
+
+<p>The missing cookies became even more of an issue, as it was believed but not stated (unspoken belief) that the twin thief had a character flaw that must be revealed and eliminated. Just buying more cookies would not solve the problem of the misbegotten personality and behavior of the overeating cookie thief twin.</p>
+
+<p>How do you solve the “What is going on here?” problem that permeates the lives of twins and their families? I say calmly and with fortitude that the truth will reveal itself. When a decision is made, it has to be respected and acknowledged. Blaming and criticizing usually make the problems worse.</p>
+<p>Here are some suggestions to help you figure out what is going on with the wild dog and missing cookies.</p>
+
+<p>1. Understand what started the argument.</p>
+<p>2. Ask, “Did the dog miss his walk?”</p>
+<p>3. Have there been a lot of strangers in the house that overstimulated your dog and frightened him?</p>
+<p>4. Did your dog not get fed because everyone was too busy to remember when he got lunch?</p>
+<p>5. Does your dog have a friend or neighbor up the street who always feeds him?</p>
+
+<p>These questions and answers may help you understand why your dog ran away. While both twins will argue about their perfectly right decision about what happened and why, the person in charge will have to decide what to do about these understandable problems (if they are understandable). At least you will have some reliable information to go on.</p>
+
+<p>As to the cookie theft, food snatching is so common; don't put out cookies randomly. While each twin will think they know what happened, they may be covering up their misdeed. The closeness of the twin relationship makes it easy for twins to trick their co-twin for their own benefit. Whose fault is this tricky behavior? That is a hard question to answer with certainty. For reasons of closeness related to twinship, it is very difficult to get a truthful response.</p>
+
+
+
+  
+
+
+<p>Advice to Eliminate Confusing or Dishonest Behavior</p>
+<p>1. Talk to your twin children about how twin closeness makes it easier to get your own way in a debated situation, such as who let the dog out to run up and down the street. Both twins know each other’s weak points and can undermine their twin’s explanations.</p>
+
+<p>2. Avoid solving confusing problems with your own twin. You probably need good help.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/twin-dilemmas/202606/why-are-twins-dishonest-about-the-problems-they-create" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/twin-dilemmas/202606/why-are-twins-dishonest-about-the-problems-they-create</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/twin-dilemmas/202606/why-are-twins-dishonest-about-the-problems-they-create</guid>
+            <dc:creator><![CDATA[Barbara Klein Ph.D., Ed.D.]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels1-liza-summer-6382670.jpg?itok=ctCxY1bp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neuroplasticity And the Legacy of a Scientific Mistake]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-03/ira_israel.png.jpg?itok=pSd2P1Gf" alt="Ira Israel LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neuroscience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Neuroplasticity And the Legacy of a Scientific Mistake</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A once-misguided theory still shapes what we think about brain change.</h2><p style="font-size:0.9em;color:#666;">Posted June 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Today's woman aged 60-70 refuses to treat the next few decades as a slow fade rather than one of more freedom.</li><li style="margin-bottom:6px;">The change in us is more a shift than a vibe. Few of us planned any of it. We just never got the memo.</li><li style="margin-bottom:6px;">Confidence and visibility aren't things we are willing to surrender when we turn 60.</li>
+              <li style="margin-bottom:6px;">Research from the 1960s onward demonstrates that the adult brain remodels itself continuously.</li><li style="margin-bottom:6px;">The word only works if we contrast it with the static brain Santiago Ramón y Cajal decreed 120 years ago.</li><li style="margin-bottom:6px;">Today, "neuroplasticity" is used as unverifiable self-help, losing a grip on scientific precision.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/mikail_nilov.png.jpg?itok=MebriZGR" width="320" height="378" data-insert-type="image" title="Pexels - Mikail Nilov" alt="Pexels - Mikail Nilov"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/pexels-googledeepmind-17484975.jpg?itok=ZMvOA4h-" width="320" height="201" data-insert-type="image" title="Google DeepMind / Pexels" alt="Google DeepMind / Pexels"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Pexels - Mikail Nilov</div>
+<div class="insertArea--origin subtext">Source: Google DeepMind / Pexels</div>
 </div>
 </div>
 </div>
-<p>Ask a woman in her 60s or 70s what she's not willing to do anymore, and you'll usually get an answer pretty fast. She refuses to perform. She will not shrink. And she vows to avoid treating the <a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202606/the-decade-nobody-warns-you-about-in-a-good-way">next 20-some years</a> as a slow fade rather than decades of more freedom than ever.</p>
-<p>It's akin to the moment when Dorothy stops apologizing to the Munchkins for landing in Oz and accidentally dropping a house on the Wicked Witch, and just starts walking (well, dancing) down the yellow brick road. She may not know what comes next but does it anyway. Even friends and readers admit that the social script our mothers inherited (quiet down, dress for invisibility, defer) isn't one this generation of once-mini-skirted, feminist-leaning independent chicks signed up for.</p>
+<p>Neuroplasticity is a correction masquerading as a discovery. The error that was corrected was that for most of the 19th and 20th centuries, neuroscience operated under the assumption that the adult brain was a finished product. </p>
+<p>1906 Nobel laureate Santiago Ramón y Cajal declared what became one of neurology’s central tenets: “In adult centers the nerve paths are something fixed, ended, immutable. Everything may die, nothing may be regenerated.” </p>
 
-<p>Of course, the women I talk to may not be a representative sample of all boomer women. None are sedentary retirees. Like me, many of my 70-something friends <a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202402/new-careers-past-age-60-not-an-oxymoron">still work </a>because they want to, take care of properties they rent out, or save their pennies for travel. What I notice is that the change in us is more of a shift than a vibe. I don't think any of us planned any of it. We just "Dorothy-ed" our way through it.</p>
+<p>This decree was repeated in textbooks, taught in medical schools, and practiced by neurologists for the better part of a century. Until the 1990s, clinicians treating brain damage operated under Cajal's assumption that whatever was lost was gone permanently - that the adult brain, unlike bone or muscle, could not reorganize or grow back. The brain you had at twenty-five was the brain you would die with. Period.</p>
 
-<p>First off, many of us worked while raising kids. Whether it was because we wanted a more lush lifestyle, the freedom of having our own money, or just survival, it makes little difference<a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202501/starting-a-new-career-in-your-70s%29%20and%20%28https%3A//www.psychologytoday.com/us/blog/raging-with-grace/202402/new-careers-past-age-60-not-an-oxymoron">.</a> It's less like <em>The Shawshank Redemption'</em>s references to being institutionalized, and more like a woman busting out to find her own personal Zihuatanejo. "Get busy livin' or get busy dyin'." (Any of you who read me regularly know I love movie references.)</p>
+<h2>Scientific Evidence Revealing Neuroplasticity</h2>
+<p>This, it turns out, was categorically wrong. Research from the 1960s onward demonstrates that the adult brain remodels itself continuously in response to experiences: synaptic connections strengthen or weaken based on patterns of activation, dendritic structures expand or contract, and in specific regions - the hippocampus in particular - new neurons generate throughout life. This is a genuine scientific correction of a genuine scientific error, and it matters for how clinicians approach patients suffering from strokes, addiction, depression, and many other traumas and disorders.</p>
 
-<p>Okay, we divorced more. That meant we learned to lick our wounds, take a stand, and support ourselves for long stretches or in perpetuity, changing the assumption that any part of our identity should be <a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202410/life-in-the-rearview-mirror-the-paradox-of-mate-selection">built around marriage</a>. And if we were ever to couple up once again, no doubt the next guy won't resemble the one we finally had the nerve to leave.</p>
+<p>But let’s take a look at another word that has attached itself to this discovery: “wiring” or “rewiring.” There are no wires in the brain. Neurons are not cables and the brain is not a circuit board. What actually changes are electrochemical thresholds, synaptic efficiencies, and the density of receptor proteins where the cells meet. “Rewiring” is an engineering metaphor imported into biology and “Neurons that fire together wire together” is a bumper sticker, not a scientifically accurate description. “Wires” are a metaphor that replaces complex, poorly understood electrochemical processes with reassuring visuals of a machine that can be upgraded and optimized. OK, forgive my rant on “wires” but nobody is doing science any favors by using inaccurate metaphors.</p>
 
-<p>We live longer. Everyone keeps saying aging is relative, and it is. A 65-year-old today often plans for 20-plus more years, closer to a third life trimester than an epilogue. Why? First off, <a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202504/challenging-medical-ageism-after-50">medical and cultural ageism</a> is finally getting named instead of ignored. Women will no longer be dismissed by their own doctors, and unlike our mothers, we don't treat them like gods.</p>
+<h2>How “Neuroplasticity” Became a Pop Culture Buzzword</h2>
+<p>Similarly, the word “neuroplasticity" migrated from the laboratory to the bookshelf sometime in the early 2000s and its meaning changed almost entirely. In the laboratory it named a specific set of measurable, localized synaptic mechanisms; in the self-help section and in yoga studios across the country it means putative empowerment. “I’m expanding my corpus callosum right now!” I heard one teacher claim as if she were a Broadway understudy finally getting her chance on stage.</p>
 
-<p>Saying our concerns are valid (in public) is new. My mom's generation absorbed that dismissive role quietly, the way Olympia Dukakis absorbs everyone else's chaos as a given in <em>Moonstruck</em>, until she finally tells everyone what she actually thinks. No more taking it on the chin and shutting up about it.</p>
+<p>And in therapy and coaching offices, neuroplasticity has become something more akin to a promissory note: the brain can change, therefore you can change, therefore the program, the app, the therapeutic modality, or the retreat being sold to you will produce that change. The word does the work of three marketing campaigns: that change is possible (true), that a particular intervention causes a specific change (scientifically unverifiable), and that the change produced is the change you requested (maybe, maybe not).</p>
 
-<p>We also stopped apologizing for our bodies. Confidence and visibility aren't things we are willing to surrender when we turn 60, even though <a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202407/appearance-as-we-age-its-not-everything-but-it-counts">appearance is still what gives us a leg up</a>. That's not a contradiction. Plenty of us are looking into or have reveled in the miracles of GLP-1s, Botox, and jowl treatments right alongside refusing to treat aging itself as the enemy. Caring how you look and accepting how old you are can coexist; one isn't a betrayal of the other. Why take this sacred thing we call life and <a href="https://www.psychologytoday.com/us/blog/raging-grace/202207/how-do-you-characterize-aging">reduce it to a label</a>? I honestly believe this generation is the first to shed labels out loud.</p>
+<p>Which brings us to the real problem: as it is almost universally invoked outside the laboratory, at the individual level neuroplasticity is completely unverifiable. To attribute causality from an outside phenomenon to a group of neurons in someone’s brain is not even science fiction. Whether or not my meditation practice has genuinely altered the thickness of my prefrontal cortex is impossible to determine. I would need to be inside an fMRI machine before and after the intervention, with my scans read by someone competent to distinguish neural reorganization from other changes, and all other variables would have to be held constant. And even then, establishing direct causality between say meditation and any observed change would present a methodological problem that most neuroimaging studies have not solved… sample sizes are too small, there’s practically never a control group, effect sizes are often negligible, and replication is spotty at best.</p>
 
+<p>Nobody I have ever heard utter the word “neuroplasticity” in public owns an fMRI machine. Nobody has a pre and post-intervention scan… I have truly heard better scientific arguments for leeching. </p>
+<p>OK, so the brain is dynamic and continuously changing in response to experience. That claim is accurate - to the best of our current knowledge - but doesn’t that then make the word “neuroplasticity” redundant? We do not need a special word for a dynamic brain any more than we need a special word for wet water. The word only works if we are still implicitly contrasting it with the static brain Cajal decreed - that finished, immutable, fixed-and-ended structure that turned out not to exist. </p>
 
-<p>Okay. Race, class, geography, and health status produce very different aging experiences, and most public conversation skews toward women with more resources to opt out of the old script. I also haven't seen solid research showing that refusing the old script is actually healthier than embracing it. That's a real gap, not something I'm going to paper over with a stat I haven't checked. But I can tell you that the women whose company I keep are not the shy, retiring old ladies they might have been in 1965. </p>
-
-<p>While some women find real peace in a more traditional path. everyone's life is her own. It's not about statistics, at least not yet. It's about personal preferences among those sharing my age range. Bottom line: Boomer women aren't refusing to age. We're simply rejecting a lifestyle that reflects a time when the world looked very different, when women had fewer options. We grew up with more resources than our moms did to write a new way of life. Whether you call it structural change or generational self-mythology, nobody's waiting around to make our golden years more golden anymore.</p>
-
-
-
-  
-
-
-<p><br> </p>
+<p>"Neuroplasticity" is a word based on an error that it was coined to correct. The error has been corrected but the word remains. Try walking around for a week replacing the word “earth” with “round earth” and remark if people look at you queerly.</p>
+<p>That’s how we should regard the word “neuroplasticity” - as a word that based on an error.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202606/boomer-women-are-changing-the-time-worn-aging-script" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/authenticity-101/202606/neuroplasticity-and-the-legacy-of-a-scientific-mistake" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/raging-with-grace/202606/boomer-women-are-changing-the-time-worn-aging-script</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/raging-with-grace/202606/boomer-women-are-changing-the-time-worn-aging-script</guid>
-            <dc:creator><![CDATA[Dena Kouremetis]]></dc:creator>
-            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pavel_danilyuk.png.jpg?itok=i8zRhh5q" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/authenticity-101/202606/neuroplasticity-and-the-legacy-of-a-scientific-mistake</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/authenticity-101/202606/neuroplasticity-and-the-legacy-of-a-scientific-mistake</guid>
+            <dc:creator><![CDATA[Ira Israel LMFT]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-06/pexels-googledeepmind-17484975.jpg?itok=XY3zA3mS" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Friends Matter—and Family, Too]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image1_0.jpg?itok=UdsimpRO" alt="Suzie Pileggi Pawelski, MAPP and James Pawelski, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Friends</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Friends Matter—and Family, Too</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How close relationships help protect the health and well-being of today’s youth.</h2><p style="font-size:0.9em;color:#666;">Posted June 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>Overwhelming evidence supports the idea that healthy relationships are key to our health and well-being. The late eminent social psychologist Chris Peterson summed up the entire field of positive psychology in three words: “Other People Matter.” It’s our close relationships that help us flourish. Not only do close, supportive connections feel good, but they are also good for us.</p>
+
+<p>They help buffer us from stress, support our immune system, and open our hearts and minds. Regardless of our age, we all need to feel that we have people who understand, appreciate, and accept us. It’s not the quantity of our relationships, but the quality that matters most for our well-being. </p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/adolescents.jpg?itok=wpriZRGP" width="320" height="213" data-insert-type="image" title="Pexels/Cottonbro" alt="Pexels/Cottonbro"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Pexels/Cottonbro</div>
+</div>
+</div>
+</div>
+<p>Having at least one close confidant—ideally a few—whom we can rely on no matter what is essential for our flourishing. Peterson reminded us of the importance of having<a href="https://www.psychologytoday.com/us/blog/happy-together/202503/the-power-of-strong-social-connections"> “4:00 a.m. friends”</a>—people we can call in the middle of the night for any reason whatsoever. </p>
+<p>For today’s youth, that idea is resonant. With youth mental health declining across the globe and loneliness at an all-time high, we all could use a reminder to help our youth build strong connections in real life. </p>
+
+<p>And those connections shouldn’t be solely limited to friends. While friends matter a lot, family matters, too, according to a recent 2026 study published in <em>BMJ Public Health</em>. </p>
+<p>Friends and family members both play a large role in determining how connected or lonely today’s youth feel. It’s also important to note that loneliness for adolescents is not just about a lack of friends. It is associated with specific kinds of disconnection from both peers and family, and bullying from earlier in life may continue to matter years later. </p>
+
+<p>The study used data from the UK Household Longitudinal Survey, with 2,521 participants, and captured loneliness and social connection from ages 16 to 24, as well as bullying and family conflict from ages 10 to 15. Unlike many studies that measure loneliness with a single question—such as “how lonely do you feel?”—researchers took a more nuanced approach. </p>
+
+<p>They explored how different elements of loneliness—such as feeling left out, isolated, or without companionship—were connected to specific aspects of social connection, including feeling understood by family and friends, being able to talk to them about worries, and being able to rely on them. They also examined whether earlier experiences of being bullied were associated with loneliness later on. </p>
+
+<p>For example, feeling left out was linked to feeling let down and less understood by friends. In contrast, feeling isolated was associated with feeling less understood by family and friends. Peer bullying was connected to feeling more left out and more isolated. </p>
+<p>In sum, both family and friends matter for the health and well-being of youth. The findings suggest that, contrary to what we may think, adolescents don’t simply choose their friends over family. Rather, they tend to turn to relationships that feel more supportive. </p>
+
+<p>While there is no simple solution to loneliness among today’s youth, the researchers conclude that both family and peer relationships should be considered in any efforts to address it.</p>
+<p>As parents, we can all do our part as well. While we can’t pick our children’s friends, we can encourage them to foster nourishing friendships that feed their souls. And we can do our best to be supportive family members to all the young people in our lives. By doing these two things, we can help protect adolescents against loneliness. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/happy-together/202606/friends-matter-and-family-too" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/happy-together/202606/friends-matter-and-family-too</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/happy-together/202606/friends-matter-and-family-too</guid>
+            <dc:creator><![CDATA[Suzie Pileggi Pawelski, MAPP and James Pawelski, Ph.D.]]></dc:creator>
+            <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/adolescents.jpg?itok=YamyWDMG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
