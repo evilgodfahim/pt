@@ -4,82 +4,677 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 13:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 16:32:34 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 13:22:43 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 16:32:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Strongest Sign You’re in the Right Relationship]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Strongest Sign You’re in the Right Relationship</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Relationships are mostly a matter of how you receive what you're given.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <div class="insertArea ck-widget">
+            <title><![CDATA[Fifty Years of LSD Research: From Yale Labs to Clinical Trials]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/mark_gold.png.jpg?itok=_f1T0HFV" alt="Mark Gold M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Fifty Years of LSD Research: From Yale Labs to Clinical Trials</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">New research suggests a therapeutic window for learning and neuroplasticity.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">50 years of LSD research transformed neuroscience by revealing serotonin and neuroplasticity.</li><li style="margin-bottom:6px;">A single supervised LSD dose may briefly enhance learning and brain adaptability beyond intoxication.</li><li style="margin-bottom:6px;">LSD shows promise for anxiety treatment, but careful clinical science must guide its future.</li>
+            </ul>
+          </div>
+                    <p>Could LSD treat common psychiatric disorders like generalized anxiety disorder or major depression? It sounds almost absurd considering LSD's long-standing reputation as psychiatry's “wicked witch”—a drug previously viewed as too dangerous, controversial, and politically radioactive to study. Yet that is precisely where the new data are leading. </p>
+
+<p>In June 2026, Abigail Calder and colleagues added another piece to this story, reporting in <em>Neuropsychopharmacology</em> that LSD can alter learning in healthy human volunteers. The study was not a treatment trial, but it asks whether LSD produces changes in brain function that can reopen windows of learning, adaptation, and plasticity. </p>
+
+<p>Early in my career, we viewed LSD primarily as a pharmacologic model of schizophrenia, hoping it would illuminate the biology of severe mental illness. Today’s researchers, armed with state-of-the-art neuroimaging, electrophysiology, and carefully designed clinical trials, are asking a far more ambitious question: Can the transient changes produced by LSD reveal how the adult brain learns, adapts, and perhaps even heals itself?</p>
+
+<p>My introduction to LSD research came at Yale, where I worked with the late George Aghajanian, who himself had been mentored by Daniel X. Freedman. Together, they helped move LSD from a pharmacologic model of psychosis toward a scientific tool to understand serotonin, perception, and normal brain function. Their work helped launch modern neuropsychopharmacology and shifted the field from describing bizarre behavior to investigating underlying brain mechanisms.</p>
+
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/knowing.jpg?itok=pT3xwq2Y" width="320" height="320" data-insert-type="image" title="Marius Muresan / Unsplash" alt="Marius Muresan / Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Marius Muresan / Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/george_aghajanian__m.d._yale_university.jpg?itok=g6rXwZ3o" width="258" height="386" data-insert-type="image" alt="George Aghajanian, MD" title="Yale University School of Medicine, with permission"></div>
+<div class="caption">George Aghajanian, MD</div>
+<div class="insertArea--origin subtext">Source: Yale University School of Medicine, with permission</div>
 </div>
 </div>
 </div>
-<p>There is a particular kind of loneliness that gets almost no airtime in relationship research: the loneliness of being with someone who doesn’t quite see you. Not someone cruel, not someone absent. Just someone for whom your specific texture — your ambitions, your contradictions, the version of yourself you are still working toward — doesn’t fully register. The relationship functions, but it doesn’t seem to fit.</p>
+<p>More than 50 years later, Calder and colleagues revisited a question that would have been impossible to answer during the Yale era. Healthy volunteers received either a supervised 100-µg dose of LSD or a placebo. Rather than focusing on the acute psychedelic experience, investigators asked whether measurable changes in learning and brain function persisted after intoxication had resolved. The answer appeared to be yes.</p>
 
-<p>Psychology has spent decades studying what makes relationships fail: contempt, anxious attachment, stonewalling, and so on. What’s been slower to articulate is the positive signal: not the absence of bad things, but the presence of the one thing that actually predicts whether a relationship is right for you. The research increasingly converges on something deceptively plain: <a href="https://www.psychologytoday.com/us/blog/social-instincts/202601/3-skills-you-need-to-have-a-happy-relationship">feeling known</a>.</p>
+<p>Participants exhibited improved offline motor learning—the brain's capacity to consolidate new skills after practice—and reported greater mental flexibility and lower perceived stress one week later. The importance of the study lies less in any single finding than in the question it asks. <em>Rather than asking whether LSD produces hallucinations, Calder and colleagues asked whether it temporarily creates a brain state favoring knowledge acquisition and behavioral adjustment.</em></p>
 
-<h2>Do You ‘Feel Known’ In Your Relationship?</h2>
-<p>In a <a href="https://www.sciencedirect.com/science/article/pii/S0022103123001166?via%3Dihub">2024 study</a> published in the <em>Journal of Experimental Social Psychology</em>, researchers ran seven studies examining two forms of relationship knowledge: how well you believe you know your partner, and how well you believe your partner knows you.</p>
-<p>Across all seven studies, spanning romantic couples, friendships, and family relationships, it was the second variable that drove satisfaction. Feeling known by your partner predicted relationship quality more powerfully than feeling that you knew them.</p>
-
-<p>The finding has an uncomfortable implication. People spend considerable energy trying to be attentive partners, but the subjective experience of <em>being </em>understood and having someone accurately track who you actually are does far more psychological work than we realize. As the authors explain, people feel happier in relationships where they feel supported, and for that, they must first be known.</p>
-
-<h2>How the Right Relationship Feels Physiologically</h2>
-<p>If feeling known were simply a matter of emotional satisfaction, that would still be worth taking seriously. But the physiological data make the case significantly harder to dismiss.</p>
-<p>A 20-year <a href="https://pubmed.ncbi.nlm.nih.gov/29916964/">longitudinal study</a> published in <em>Psychosomatic Medicine</em>, one of the longest of its kind, tracked over 1,200 adults across three waves of data collection, examining what the researchers called perceived partner responsiveness: the degree to which a person feels that their romantic partner genuinely understands, cares about, and validates who they are. </p>
-
-<p>Ultimately, the authors found that lower perceived partner responsiveness predicted higher daily negative affect reactivity over time, which in turn predicted all-cause mortality — the number of deaths from any cause within the study's timeframe. That is, feeling unseen by a partner, sustained over years, is associated with bona fide health risks.</p>
-
-<p>A separate <a href="https://doi.org/10.1037/pspi0000384">2022 study</a>, published in the <em>Journal of Personality and Social Psychology</em>, found that higher perceived partner responsiveness consistently fostered more positive appraisals of relational sacrifices: the compromises, relocations, and concessions that accumulate in any long-term partnership. </p>
+<p>The adult brain is a constantly evolving organ, remodeling itself in response to experience. During the hours and days after administration of LSD, the subjects’ neural circuits continued strengthening some connections while weakening others in a process known as consolidation. This remarkable capacity for neuroplasticity enables the acquisition of new skills, the modification of behavior, the recovery from injury, and the adaptation throughout life. LSD appears to transiently reduce the rigidity of normal brain networks, allowing communication between regions that ordinarily remain independent. </p>
 
 
-<p>People who felt genuinely known by their partners reported lower costs, greater satisfaction, and less regret even when they were giving something up. They were also more willing to sacrifice in the first place. Feeling understood, it turns out, changes how the <a href="https://www.psychologytoday.com/us/blog/social-instincts/202605/3-signs-of-deep-commitment-to-a-relationship">ledger of a relationship</a> is scored.</p>
-<h2>Does Your Relationship Have a ‘Michelangelo Dynamic’?</h2>
+<p>Rather than simply disrupting brain activity, these transient changes may create a brief window during which learning and behavioral change become easier.</p>
+<p>Whether this interpretation ultimately proves correct is unknown. Fifty years ago, investigators asked whether LSD resembled psychosis. Today, they are asking whether LSD can illuminate the brain's remarkable capacity for neuroplasticity. This shift helps explain why psychiatrists have become interested in LSD once again—not simply as a psychedelic drug but as a possible therapeutic tool.</p>
 
-<p>The question that follows naturally is: What does it look like, in practice, when a partner truly knows you? Research on what psychologists call the “Michelangelo effect” offers one of the more precise answers available. The term borrows from the sculptor’s description of his own method: the figure already exists inside the marble; the task is to reveal it. </p>
+<p>Recent clinical trials of pharmaceutical LSD (MM120), which I <a href="https://www.psychologytoday.com/us/blog/addiction-outlook/202510/move-over-xanax-new-research-on-lsd-offers-hope-for-anxiety">discussed previously,</a> have produced encouraging results in treating generalized anxiety disorder. These and other recent clinical findings offer one possible biological explanation for those findings. These findings shifted the conversation from whether LSD has therapeutic potential to <em>how </em>it might work.</p>
 
 
 
   
 
 
-<p>A three-generation lifespan <a href="https://doi.org/10.1177/0265407518766698">study</a> found that intimate partners operate on something similar. Over time, through how they perceive and behave toward each other, partners either draw out or suppress the person their partner is reaching toward becoming. The mechanism works through two channels: </p>
-<ol>
-<li><strong>Perceptual affirmation</strong> is when a partner sees you not as you currently are, but as you are capable of being, and treats your aspirational self as the operative one rather than the exception. </li>
-<li><strong>Behavioral affirmation</strong> follows: the partner’s actions consistently pull that version of you forward. The questions they ask, the opportunities they notice on your behalf, the small ways they hold the space for your growth rather than requiring your stasis.</li>
-</ol>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-07/six_decades_of_lsd_research.png.jpg?itok=ut6rotxL" width="639" height="426" data-insert-type="image" alt="Six Decades of LSD Research" title="Mark Gold, MD, with permission"></div>
+<div class="caption">Six Decades of LSD Research</div>
+<div class="insertArea--origin subtext">Source: Mark Gold, MD, with permission</div>
+</div>
+</div>
+</div>
+<h2>Why Psychiatrists Are Paying Attention to LSD Again</h2>
+<p>Clinical trials suggest a single supervised dose of LSD may produce durable improvement in patients with generalized anxiety disorder, while early studies in major depression are also encouraging. These data remain preliminary but raise an interesting possibility: a temporary period of enhanced neuroplasticity may make entrenched patterns of thinking and behavior more amenable to change. Whether psychotherapy is important for maximizing that opportunity—or whether the biological state itself provides much of the benefit—remains an important unanswered question.</p>
 
-<p>The lifespan study found that Michelangelo processes (partner affirmation driving movement toward the ideal self) held across the full adult lifespan from 18 to 90, with broadly consistent effects on well-being and relationship satisfaction at every age. This is not a dynamic unique to infatuation or early-stage novelty. It operates, or fails to, across decades.</p>
+<p>Among contemporary psychedelic therapies, LSD has developed one of the strongest emerging evidence bases for the treatment of generalized anxiety disorder (GAD). This represents a remarkable reversal from the drug's reputation over the past half-century: the same compound once viewed a dangerous hallucinogen is now being evaluated in late-stage clinical trials for one of psychiatry's most common disorders.</p>
 
-<p>The practical question that follows is both uncomfortable and clarifying: Does your partner hold a picture of who you are becoming, or only of who you have been?</p>
-<h2>Does Your Relationship Pass the ‘Self-Expansion Test’?</h2>
-<p>The three phenomena described above — feeling known, physiological attunement, and the Michelangelo dynamic — share a common problem: they are difficult to assess from the inside. </p>
+<p>The evidence for major depressive disorder is less mature but equally intriguing. Early clinical studies suggest that a single therapeutic dose may produce rapid antidepressant effects that last for weeks in some patients. </p>
+<p>Importantly, the Calder study does not demonstrate that LSD treats anxiety or depression. Instead, it provides something arguably just as valuable: a biological system to understand why and how psychedelic-assisted treatments might work.</p>
 
-<p>This is where <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.60.2.241">Arthur Aron’s self-expansion model</a> becomes useful, not as a separate idea, but as a surface-level readout of whether the deeper phenomenon is actually present. The model proposes that people have a fundamental drive to grow — to expand their knowledge, perspectives and sense of self — and that the right relationship is one of the primary vehicles through which that expansion happens. </p>
+<p>The question is no longer whether LSD produces profound psychological experiences. It is whether the temporary biological state it creates may itself promote recovery.</p>
+<p>The answer is still uncertain. Psychotherapy may ultimately be indispensable for maximizing and sustaining benefit in some patients. Also, carefully selected patients may improve with far less intensive psychological intervention than previously believed. Determining which patients benefit most—and under what therapeutic set and setting—has become one of the central questions facing psychedelic psychiatry.</p>
 
-<p>A <a href="https://pubmed.ncbi.nlm.nih.gov/30265020/">multi-study paper</a> published in the <em>Journal of Personality and Social Psychology</em> found that couples who engaged in self-expanding activities reported significantly higher sexual desire, greater relationship satisfaction, and a higher likelihood of satisfying sexual connection. These effects held across daily diary data, longitudinal tracking, and experimental methods.</p>
+<p>Other important scientific questions remain unanswered. Psychedelic trials remain uniquely vulnerable to functional unblinding because participants usually recognize when they have received the active drug, potentially influencing subjective outcomes. Long-term safety also requires continued study, especially with repeated exposure. Although there is currently no convincing evidence that one or two supervised therapeutic LSD sessions produce clinically significant cardiovascular injury, recent observational evidence has raised concern that repeated LSD exposure—including chronic microdosing—may be associated with serotonin 5-HT2B receptor-mediated valvular heart disease resembling the fenfluramine-associated valvulopathy recognized decades ago. While these findings require prospective confirmation and should not be interpreted as establishing causation, they reinforce the importance of long-term cardiovascular surveillance as psychedelic therapies move into clinical practice. </p>
 
-<p>The self-expansion question, then, is not really about novelty or adventure. It’s a proxy for something more fundamental: Is this person enlarging your world, or simply containing it? </p>
-<p>A relationship can be stable, low-conflict, deeply comfortable, and still privately stagnant. That stagnation is rarely a coincidence. It tends to reflect the absence of the thing this entire body of research keeps pointing back to: a partner who sees you fully enough that being with them pulls you forward.</p>
+<p>The <a href="https://www.rand.org/pubs/research_reports/RRA4334-1.html">2026 Rand report</a> estimated that approximately 3 million U.S. adults used illicit LSD during the previous year. These individuals are fundamentally different from participants enrolled in modern clinical trials, who undergo extensive psychiatric and medical screening and receive pharmaceutical-grade LSD in carefully controlled doses under continuous medical supervision. Outside research settings, users often self-administer LSD of uncertain identity, purity, potency, and cumulative exposure, frequently without medical oversight. The emerging evidence linking repeated LSD exposure to fenfluramine-like valvular heart disease is particularly relevant to chronic recreational use and microdosing, where cumulative dosing far exceeds that used in therapeutic protocols. Recreational use also continues to result in emergency department visits, psychiatric hospitalizations, accidental injuries, and exposure to counterfeit products sold as LSD. Consequently, the growing interest in psychedelic-assisted therapy should not be interpreted as evidence that unsupervised recreational use or self-directed microdosing is safe.</p>
 
-<p><em>A version of this post also appears on Forbes.</em></p>
+<h2>Conclusion</h2>
+<p>More than 50 years ago, investigators at Yale used LSD to understand serotonin. Today, researchers use it to study neuroplasticity. Whether LSD ultimately becomes an accepted psychiatric treatment is still uncertain. LSD’s greatest contribution may not be the psychedelic experience it produces, but instead the insights into <em>how</em> the human brain learns, adapts, and changes throughout life.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202607/the-strongest-sign-youre-in-the-right-relationship" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/addiction-outlook/202607/fifty-years-of-lsd-research-from-yale-labs-to-clinical-trials" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/social-instincts/202607/the-strongest-sign-youre-in-the-right-relationship</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202607/the-strongest-sign-youre-in-the-right-relationship</guid>
-            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/addiction-outlook/202607/fifty-years-of-lsd-research-from-yale-labs-to-clinical-trials</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/addiction-outlook/202607/fifty-years-of-lsd-research-from-yale-labs-to-clinical-trials</guid>
+            <dc:creator><![CDATA[Mark S. Gold M.D.]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/marius-muresan-cefanm8x8ae-unsplash.jpg?itok=8Be9gzG7" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/matt-flores-f-umzlxutdm-unsplash.jpg?itok=X0pK7eTF" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diabetes and the Gut-Brain Axis]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/anderson_scott-profile_0.png.jpg?itok=mPYu-dGy" alt="Scott C. Anderson" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Microbiome</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Diabetes and the Gut-Brain Axis</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">There is an exploitable connection between diabetes and the gut microbiome.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A poorly balanced set of gut microbes can lead to dysbiosis and a leaky gut.</li><li style="margin-bottom:6px;">Over time, this can lead to chronic systemic inflammation, which requires a lot of energy.</li><li style="margin-bottom:6px;">Insulin resistance develops, diverting sugar from body tissues to fuel the hyperactive immune system.</li><li style="margin-bottom:6px;">That resistance, over time, leads to metabolic disease and type 2 diabetes.</li>
+            </ul>
+          </div>
+                    <blockquote><p>“Diabetes is caused by melancholy.” —Thomas Willis</p>
+</blockquote>
+<p>When we think about diabetes, the first organ to come to mind is not the gut but the pancreas. But a <a href="https://doi.org/10.1016/j.diabres.2026.113383">new review</a> finds that the gut plays a major role in diabetes, a deadly disease that affects one-tenth of the population and rising.</p>
+<p>To add insult to injury, diabetics are three times more likely to be depressed than the rest of the population, which is already pretty depressed. Perhaps the more interesting statistic is the converse: Depressed people are 60 percent more likely to develop diabetes. </p>
+
+<p>Type 1 diabetes comes from a lack of insulin-producing cells and is typically treated with injections of insulin. But it accounts for less than 10 percent of diabetes. The vast majority of diabetes is type 2, and that’s where the gut comes in.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/diabetes_marilyna_small.jpg?itok=cNrf08g1" width="320" height="256" data-insert-type="image" title="Marilyna / iStock" alt="Marilyna / iStock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Marilyna / iStock</div>
+</div>
+</div>
+</div>
+<h2>The Role of Diet and the Gut Microbiome in Diabetes</h2>
+<p>Because diabetics have trouble controlling blood sugar, what they eat makes a big difference. So, on one level, it’s obvious that the gut contributes to diabetes. But there is another important factor: the microbes that live there. The gut microbiome, in fact, may really be how diabetes starts—and how it ends. </p>
+
+<p>The typical American eats a lot of carbs, which our intestine breaks down into sugars that are quickly absorbed, fueling our tissues. In response to sugar, the pancreas produces insulin, a molecule that acts like a doorman to escort sugar into the hungry cells of our body. </p>
+<p>Our microbes, however, need fiber. Sadly, food manufacturers have spent the last several decades removing fiber from our diets in order to give us delicious white breads, cakes, and cookies. That effort parallels the rise in obesity and diabetes, which is unlikely to be a coincidence.</p>
+
+<p>The lack of fiber is killing our gut microbes and can lead to a disrupted state called dysbiosis. Over time, dysbiosis can lead to a leaky gut that allows toxins to seep into the surrounding tissues and blood vessels. </p>
+<p>This prompts the immune system to create millions of new immune cells, each one craving sugar. The body obliges by making muscle cells resistant to insulin, freeing up extra sugar for the inflammatory fight. For an acute infection, this is a wonderful system, and as soon as the immune system triumphs, muscle cells become sensitive to insulin again. </p>
+
+<p>But if the gut dysbiosis continues, the inflammation becomes chronic, and so does the insulin resistance. Diabetes starts to set in. </p>
+<p>To show how important a healthy gut microbiome is to insulin sensitivity, a <a href="https://doi.org/10.1053/j.gastro.2012.06.031">2013 Dutch study</a> transferred feces from healthy lean people into people with metabolic syndrome. Six weeks later, the recipients had doubled their insulin sensitivity. </p>
+
+<p>There are other factors involved. Genetics, mitochondrial stress, sleep disruption, stress, exercise, and body fat all play a role. But a dysbiotic microbiome can fan the inflammation and tip the scales from metabolic syndrome into full-blown type 2 diabetes. </p>
+<h2>Diet and Lifestyle Changes for Diabetes Prevention and Recovery</h2>
+
+<p>You can’t control your genes, and stress seems ubiquitous, but you have control of your diet and exercise regimen. The proper diet is something like Mediterranean with plenty of fiber and ferments to please your microbes. It’s a delicious way to recover.</p>
+<p>It’s likely that at least two-thirds of diabetics could recover with diet and exercise, although only about one-third currently do. Success is tied to how much weight is lost. <a href="https://doi.org/10.1016/S0140-6736(17)33102-1">A stunning 86 percent</a> of those who lost 15 percent of their weight were able to achieve full remission. After the fat drains out of the liver and pancreas, these organs tend to reboot, and functionality returns.</p>
+
+<p>Fiber steadies blood sugar levels as well as feeds beneficial bacteria. That gives fiber a double punch in the fight against diabetes. If you can squeeze 25 grams of fiber into your diet each day, you’ll see a remarkable improvement in your general health. </p>
+<p>Stock up on grains and vegetables, which are full of fiber. Fruits, especially berries, are also fiber-rich, but if you’re especially sensitive to sugar, you might want to monitor your consumption. Beans, lentils, and peas are fantastic sources of fiber as well. As a bonus, via the gut-brain axis, this diet can also improve your mood. </p>
+
+<p>If you aren’t used to fiber, start slowly, and talk to your doctor first if you have gut flare-ups. Fair notice: When you eat fiber, you grow beneficial bacteria that may produce gas. That can lead to flatulence, but bear with it; it gets better as you go. Farts are humorous; diabetes is not.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/mood-by-microbe/202607/diabetes-and-the-gut-brain-axis" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/mood-by-microbe/202607/diabetes-and-the-gut-brain-axis</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mood-by-microbe/202607/diabetes-and-the-gut-brain-axis</guid>
+            <dc:creator><![CDATA[Scott C. Anderson]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/diabetes_marilyna_small.jpg?itok=BinvfH1U" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Work Like a Dog]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/tracystraussheadshotpt-removebg-preview_1_.png.jpg?itok=3DxHLUbY" alt="Tracy Strauss" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Work Like a Dog</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How we can go from setback to success.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Personal growth isn't linear.</li><li style="margin-bottom:6px;">When past issues resurface, we can turn setbacks into opportunities for growth.</li><li style="margin-bottom:6px;">Staying the course leads to success.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/741427711_10163094703720906_8581349331493453249_n.jpg?itok=7QOOuYGO" width="320" height="427" data-insert-type="image" title="Tracy Strauss" alt="Tracy Strauss"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Tracy Strauss</div>
+</div>
+</div>
+</div>
+<p>We often think that the journey to reaching a goal—getting in shape, making new friends, advancing in a career, or healing from trauma—is linear. When we’re in personal hell, we might envision climbing up a ladder to better days. But if you’ve ever lived through difficult times, you know the climb isn’t straight up.</p>
+
+<h2>The Spiral Staircase</h2>
+<p>If you’ve ever been in therapy, you might’ve heard about the “spiral staircase” as a metaphor for personal growth. With the spiral staircase, we may find ourselves facing a past problem, habit, or negative belief that we thought we "put to bed," or perhaps it's one that we’ve struggled to overcome for years. Climbing the spiral staircase, we're not circling the same level—we're advancing upward. </p>
+
+<p>In 2020, I adopted Beau, a rescue dog with severe separation anxiety. I didn’t know he had an anxiety disorder, and neither did the rescue that found him as a stray puppy in Mississippi. A first-time dog owner, I didn't know the difference between <a href="https://malenademartini.com/understanding-and-addressing-dog-separation-anxiety/">clinical separation anxiety</a> and normal puppy adjustment issues and figured that with a little bit of time the problem would resolve. What I'd learn over the next 10 months was that Beau had a serious clinical anxiety disorder, one that needed expensive medication and behavioral training. A behaviorist trainer explained that recovery would take not weeks, but months. </p>
+
+<p>It took four years.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/740400556_10163094703665906_8530420221024085701_n.jpg?itok=nExyFFvy" width="320" height="427" data-insert-type="image" title="Tracy Strauss" alt="Tracy Strauss"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Tracy Strauss</div>
+</div>
+</div>
+</div>
+<h2>From crisis to growth opportunity</h2>
+<p>Many people don't know that dogs can have separation anxiety, or how affecting—debilitating—it can be. With clinical separation anxiety, some dogs are so panicked they resort to jumping out of windows or destroying doors to get to their guardians. I once saw a photo of a ravaged doorframe streaked with so much blood from a dog self-injuring while attempting to break through the barrier that the home’s entrance looked like a crime scene. </p>
+
+<p>Separation anxiety can be debilitating for not only the dog but for the human. For a long time, I felt like Beau's prisoner. Whenever I'd try to leave, even to check the mail, he'd rush to the door with his barking orders, hyperventilating, peeing and pooping, and injuring himself. </p>
+<p>In the process, I began to develop anxiety about even attempting to leave home. Because I couldn't go out to socialize, I stopped dating and I lost friends I'd had for years. (In reality, my crisis showed me who my true friends were.) You might wonder why I didn’t just return Beau to the rescue. Many times, when I wasn’t sure how much longer I could withstand being housebound, I thought about re-homing him, but he was my family. His anxiety disorder aside, he was a loving, loyal, sweet, and intelligent dog, and I couldn't bear the idea of losing him.</p>
+
+<h2>Stay Dogged</h2>
+<p>Doggedly, I worked to free Beau, and myself, of anxiety, in daily training. The four years it took to desensitize Beau to his fear were not linear in progress: at first, he couldn’t tolerate two seconds. After a couple of years, he was able to stay home for 45 minutes, but not consistently. Something would happen that triggered him: a noise that scared him, or, more dramatically, getting attacked at his daycare so severely he needed emergency surgery to repair the damage. When we lost daycare, Beau’s progress unraveled and we had to start all over again. It was another year before he rebounded. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/741365866_10163094703645906_9125958815953859454_n.jpg?itok=6h6Lib9c" width="320" height="427" data-insert-type="image" title="Tracy Strauss" alt="Tracy Strauss"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Tracy Strauss</div>
+</div>
+</div>
+</div>
+<p>A month ago, we moved from the place where he was able to stay home for a few hours solo. I knew there would be a period of adjustment, but I didn’t anticipate how hard it would be for me, mentally, to go through it. We began with a one-minute absence. Over the course of a week, we moved to ten minutes, then twenty, twenty-five, and after two weeks, a half hour. I still couldn’t leave him home long enough to do anything basic, except for a jog around the new neighborhood. My mood began to plummet. I felt isolated, lonely, and trapped. After the first three days, I wasn't sure how I ever withstood the situation for three years. But as the days progressed, I kept reminding myself about how quickly he was adjusting compared to our first time around. Just yesterday, he made it to one hour solo, a time that once took him over three years to be able to tolerate consistently.</p>
+
+
+<p>There’ve been moments when I’ve been anxious about a crash, an unraveling back to zero minutes, zero seconds—ground zero. But what I’ve seen instead is his learned behavior, which I can observe via a pet camera feed on my phone: in his new surroundings, he’s rediscovering the routine we spent years establishing; despite the unfamiliar place, he’s recalling in his mind and in his body what to do to feel secure after I leave, where to lie down, where to nap, where to go when he has a wave of worry, and to trust the bedrock of our relationship: I always return.</p>
+
+<p>In the process, I’ve realized I need to recall the spiral staircase: We may be revisiting an old problem, but we are at a higher level than before. Doggedly, we continue to climb. </p>
+<p>The next time you find yourself back in the trenches, remind yourself that you've already been through the worst. You know what to do. Stay <a href="https://www.psychologytoday.com/us/blog/how-to-be-dogged-in-a-doggone-world">dogged</a>.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/how-to-be-dogged-in-a-doggone-world/202607/work-like-a-dog" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/how-to-be-dogged-in-a-doggone-world/202607/work-like-a-dog</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/how-to-be-dogged-in-a-doggone-world/202607/work-like-a-dog</guid>
+            <dc:creator><![CDATA[Tracy Strauss]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/741427711_10163094703720906_8581349331493453249_n.jpg?itok=T9LAuupP" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Psychological Cost of Constant Self-Improvement]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/CSW_2817-Edit-Edit-2-removebg-preview.jpg?itok=c_AiFAuB" alt="Carolyn Karoll LCSW-C, CEDS-S" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Esteem</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychological Cost of Constant Self-Improvement</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When becoming better gets in the way of living.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Growth turns harmful when it becomes a condition for finally feeling good enough.</li><li style="margin-bottom:6px;">Chasing constant improvement often shrinks life instead of expanding it.</li><li style="margin-bottom:6px;">Growth can look like setting a boundary or resting, not just achieving more.</li>
+            </ul>
+          </div>
+                    <p>We live in a culture that celebrates self-improvement. There is always another goal to reach, another skill to learn, another habit to build, another way to optimize ourselves. Do more. Be more. Achieve more. Become your "best self." There's nothing wrong with wanting to grow. The problem begins when growth stops being something we pursue and becomes something we believe we need before we're allowed to feel good enough.</p>
+
+<p>As a psychotherapist, I often meet people who believe they're one promotion, degree, relationship, or diet away from finally feeling enough. Psychology refers to this as contingent self-worth: the belief that our value depends on meeting certain standards or achieving certain outcomes.</p>
+<p>The problem is that achievement is an unstable foundation for building an identity upon. Goals are reached, circumstances change, expectations rise, and attention quickly shifts to what's next. When self-worth depends on achievement, it never feels fully secure because there's always another standard to meet.</p>
+
+<h2>When Growth Makes Life Smaller </h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/luis-villasmil-mlvbmbxfwi4-unsplash.jpg?itok=HSOzIUc-" width="320" height="400" data-insert-type="image" title="Luis Villasmil / Unsplash" alt="Luis Villasmil / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Luis Villasmil / Unsplash</div>
+</div>
+</div>
+</div>
+<p>This mindset often shows up in subtle ways. Someone can't enjoy dinner because she's in her head, calculating calories and already trying to figure out how she'll make up for it tomorrow. Another spends an entire vacation worrying about missed workouts instead of being present with the people they love.</p>
+
+<p>In both cases, life is happening, but attention is somewhere else. The mind stays focused on fixing, improving, evaluating, or preparing for what's next. The present becomes something to get through instead of something to experience.</p>
+<p>Joy becomes conditional. Rest feels undeserved. Relationships compete with productivity. Success offers only brief relief before the next target appears. Experiences begin to feel like rewards that have to be earned rather than parts of life we're already allowed to enjoy.</p>
+
+<p>That's why people postpone wearing the swimsuit, applying for the job, asking someone out, taking the vacation, or joining the family photo. They aren't simply waiting for better circumstances. They're waiting to become someone they believe deserves those moments. </p>
+<p>Life doesn't wait. While we're preparing to feel confident enough, successful enough, attractive enough, or accomplished enough, today's moments quietly come and go, and there is no such thing as a redo. </p>
+
+<h2>What Is Your Growth in the Service of? </h2>
+<p>I'm not against personal growth. Helping people grow is the foundation of my work. But I think there's an important question we don't ask often enough: What is your growth in the service of? </p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/thought-catalog-uk78i6vk3sc-unsplash.jpg?itok=XUrWWsmP" width="320" height="213" data-insert-type="image" title="Thought Catalog / Unsplash" alt="Thought Catalog / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Thought Catalog / Unsplash</div>
+</div>
+</div>
+</div>
+<p>There's nothing wrong with having goals. Learning, improving, building a career, strengthening relationships, and taking care of your health can all enrich your life. Problems arise, however, when achievement becomes the measure of your worth. </p>
+<p>Growth rooted in self-respect looks different. Goals still matter, but they no longer determine whether you're enough. They become expressions of your values rather than proof of your value.</p>
+
+<p>Ironically, letting go of the need to earn your worth often makes growth more sustainable. Setbacks become information instead of personal failures. Success becomes something to appreciate rather than something to cling to. You can pursue meaningful goals while keeping connected to the people you love and the life unfolding around you.</p>
+
+
+<p>Perhaps becoming your "best self" isn't about constantly becoming more. Perhaps it's about becoming less dependent on achievement to tell you who you are.</p>
+<p>Growth is one of life's greatest gifts. But its purpose isn't to make you worthy of living a meaningful life. It's to help you build a life that feels meaningful while remembering that your worth was never something you had to earn in the first place.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202607/the-psychological-cost-of-constant-self-improvement" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202607/the-psychological-cost-of-constant-self-improvement</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202607/the-psychological-cost-of-constant-self-improvement</guid>
+            <dc:creator><![CDATA[Carolyn Karoll LCSW-C, CEDS-C]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/luis-villasmil-mlvbmbxfwi4-unsplash.jpg?itok=Xp9SdW4i" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Provider Paradox: Why Men Feel Judged by Standards They Don't Believe In]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-04/nathan_astle.png.jpg?itok=S2Ud8JTr" alt="Nathan Astle CFT-I" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Behavioral Finance</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Provider Paradox: Why Men Feel Judged by Standards They Don't Believe In</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Do the financial expectations many men carry match the realities of modern life?</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Most men define success through purpose, relationships, and mental health—not income alone.</li><li style="margin-bottom:6px;">Traditional provider expectations persist, even as many men embrace broader definitions of success.</li><li style="margin-bottom:6px;">Financial stress often impacts more than money, shaping men's identity, confidence, and self-worth.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">When we discuss men's mental health, we usually talk about emotional vulnerability, loneliness, or the reluctance to seek help—all important topics. Still, there is another issue that often goes unnoticed but has a big impact on how many men feel about themselves every day: financial pressure.</p>
+<p dir="ltr">As a financial therapist, I work with many men who are worried about debt, rising expenses, or just keeping up with bills. On the surface, these talks are about money. But often, there is something much deeper going on.</p>
+
+<p dir="ltr">Many men quietly ask themselves questions like: Am I doing enough? Am I providing enough? Am I the person my family needs me to be?</p>
+<h2>The Expectations Men Inherited</h2>
+<p dir="ltr">In recognition of Men’s Mental Health Awareness Month, I worked with Beyond Finance on <a href="https://www.beyondfinance.com/newsroom/more-than-half-of-men-say-financial-struggles-make-them-feel-like-theyre-failing-at-being-a-man/">a survey</a> that revealed how common these feelings are. More than three-quarters of men (77 percent) said they were taught growing up that a man's main job is to provide for his family. Eighty-two percent think society still expects men to be the main or higher earner at home. Nearly seven in ten say it is harder to fill that role today than it was for their parents.</p>
+
+<p dir="ltr">At the same time, financial stress is hitting men hard. Forty-two percent say they are not making ends meet or are just barely getting by. Sixty-five percent say that money worries hurt their mood or mental health.</p>
+<p dir="ltr">These numbers are important, but one finding cuts deeper than the rest. When asked what success meant to them, men did not select wealth, status, or income first. Instead, they said success is about good mental health, strong relationships, purpose, family, and work-life balance. Traditional signals of success like high income, owning a home, or education were much less important.</p>
+
+<h2>The Disconnect Between Success and Self-Worth</h2>
+<p dir="ltr">Many men also said they were comfortable with partners earning more, sharing caregiving duties, and having more flexible family roles than past generations might have accepted. Yet, they still feel pressure from those old expectations. This gap can cause serious emotional stress.</p>
+
+<p dir="ltr">Many men feel stuck between two realities. They truly value relationships, health, purpose, and family, but at the same time, they still feel judged about their financial situation by society, by others, and often by themselves. This leads to a constant feeling of tension. Men might know in their minds that their worth is not just about their paycheck, but they can still feel "not good enough" when traditional money goals are out of reach.</p>
+
+<p dir="ltr">This pattern showed up again and again in the survey. More than half of men said money problems made them feel like they were not living up to "being a man." Many said they kept their money worries to themselves because they felt they should have everything under control. Others talked about feeling isolated, doubting themselves, and feeling like they were carrying the weight of money problems on their own.</p>
+
+<p dir="ltr">Today's economic realities make things even harder. Housing costs are up. Everyday expenses take up a larger part of Americans' income. Economic uncertainty is always there. Many goals that seemed possible for past generations now take much more time, money, and stability to reach.</p>
+<p dir="ltr">When expectations stay the same but society evolves, people often blame themselves for things that are shaped by bigger forces. This can be especially hard for men who tie their sense of self to how well they do financially.</p>
+
+<h2>Redefining What It Means to Provide</h2>
+<p dir="ltr">One of the most important things I tell my clients is that their financial situation and their personal worth are not the same. Financial setbacks can happen to anyone: losing a job, medical bills, divorce, tough economic times, and sudden emergencies can affect people from all walks of life. These things may hurt your finances, but they do not define your character, value, or success.</p>
+
+<p dir="ltr">The men I work with who make the most progress are usually those who start seeing themselves in a broader way. They stop judging their worth by their income and begin to see the value they bring as partners, fathers, mentors, friends, caregivers, and community members. That shift isn't as rare as it might seem—and the survey reflects it. Most men said they value mental health, relationships, purpose, and family more than traditional status symbols. The challenge is not creating a new definition of success. The challenge is believing in it.</p>
+
+
+
+  
+
+
+<p dir="ltr">The more important question isn't whether men are struggling—the data is clear on that. Instead, we should ask if the expectations many men carry still match the realities of modern life, and if it is time to let ourselves define success in ways that are healthier, more realistic, and more meaningful.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-debt/202607/provider-paradox-why-men-feel-judged-by-standards-they-dont" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-psychology-of-debt/202607/provider-paradox-why-men-feel-judged-by-standards-they-dont</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-psychology-of-debt/202607/provider-paradox-why-men-feel-judged-by-standards-they-dont</guid>
+            <dc:creator><![CDATA[Nathan Astle CFT-I]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-edmond-dantes-8069139__2_.jpg?itok=jltQpGTU" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[GLP-1 Agonists for Seniors With Addiction]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/jasleen_salwan.png.jpg?itok=IYLlLnuR" alt="Jasleen Salwan M.D., M.P.H., F.A.S.A.M." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Addiction</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">GLP-1 Agonists for Seniors With Addiction</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The role of the primary care provider in GLP-1 prescribing for seniors with addiction.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Medicare expanded coverage of GLP-1 agonist medications for weight loss and other indications.</li><li style="margin-bottom:6px;">While not specifically approved for this purpose, GLP-1 agonists show promise for addiction.</li><li style="margin-bottom:6px;">Special considerations include risks of loss of bone density or muscle mass, as well as pancreatitis.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/elena-leya-yqqjhawsm_4-unsplash.jpg?itok=CTAyJqEK" width="320" height="213" data-insert-type="image" title="Elena Leya / Unsplash" alt="Elena Leya / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Elena Leya / Unsplash</div>
+</div>
+</div>
+</div>
+<p>On July 1, 2026, Medicare launched the GLP-1 Bridge Program for Foundayo (orforglipron), Wegovy (semaglutide), and Zepbound (tirzepatide). For the next 18 months, the program flattens the price of these medications, which are commonly prescribed in primary care settings for weight loss, from an upward range of more than $1000 per month to just $50 per month. To be eligible, beneficiaries must have a body mass index (BMI) of at least 35, or 27-30 if they have another qualifying medical condition like diabetes or a history of heart attack or stroke. <a href="https://www.kff.org/medicare/nearly-four-million-medicare-beneficiaries-met-the-eligibility-criteria-in-2023-for-the-medicare-glp-1-bridge/">Nearly 4 million people</a> are expected to meet criteria. </p>
+
+<p>Absent from the list of qualifying conditions is addiction. But evidence for the use of GLP-1 agonist medications to treat substance use disorders is growing. Primary care providers should take note of the benefits as well as risks particular to patients 65 and older.</p>
+<h2>GLP-1 agonists, addiction, and seniors</h2>
+
+<p>The receptors for GLP-1 agonist medications are found in the brain as well as the gastrointestinal tract. In addition to promoting feelings of satiety in the gut, they also quiet food noise, or intrusive thoughts of food. This latter effect is mediated by <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12770913/">modulation of dopamine reward pathways</a> in the brain. That same mechanism seems to allow the medications to attenuate cravings for alcohol and other drugs. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/miles-smith-5otxzu2hhlq-unsplash.jpg?itok=Ry_SiOaU" width="320" height="480" data-insert-type="image" title="Mile Smith / Unsplash" alt="Mile Smith / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Mile Smith / Unsplash</div>
+</div>
+</div>
+</div>
+<p>Adults 65 and older are using substances at <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11781904/">alarming rates</a>, with <a href="https://news.asu.edu/20260623-health-and-medicine-why-addiction-older-adults-growing-and-hard-detect">alcohol use disorder</a>, <a href="https://www.nyu.edu/about/news-publications/news/2025/june/cannabis-use-older-adults.html?challenge=d06e90d7-4d8f-4b88-9d8c-10b73beb60f1">cannabis use disorder</a>, and <a href="https://pubmed.ncbi.nlm.nih.gov/40416299/">opioid use disorder</a> on the rise in this population. Meanwhile, smoking, which is on the downslope for the general population, is <a href="https://www.rstreet.org/research/addressing-the-stagnation-of-smoking-cessation-in-older-adults-behavioral-barriers-harm-reduction-and-policy-reform/">stagnating in seniors</a>. </p>
+<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12941116/">Loneliness</a>, the <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7174977/">COVID-19 pandemic</a>, <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2833976">chronic pain</a>, and <a href="https://www.nytimes.com/2024/03/30/health/seniors-alcohol-consumption.html?eafs_enabled=false">generational attitudes toward substance use</a> have all been cited as risk factors for substance use among older adults. </p>
+
+<h2>Seniors may be more vulnerable to adverse effects of GLP-1s </h2>
+<p>As all primary care providers know, body composition changes with aging. Total body water decreases, as do muscle mass and bone density. GLP-1 agonists can suppress thirst as well as appetite, and the drive to hydrate tends to diminish in the elderly even without these medications on board. GLP-1s can thus set the stage for dehydration and acute kidney injury. Many of the studies on GLP-1 agonists excluded elderly patients with impaired kidney function. Seniors should be counseled on the importance of hydration before starting these medications. </p>
+
+<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13272609/">Loss of muscle alongside fat</a> has been commonly observed with GLP-1 agonists. Dietary counseling for seniors should emphasize maintaining a daily protein intake of 1.2-1.6 grams of protein per kilogram of body weight. Tailored resistance exercise is also recommended. Primary care providers should ensure patients are up to date on their bone density (DEXA) scans and treat osteoporosis or osteopenia with a high estimated fracture risk (FRAX score). Review recommendations for calcium, vitamin D, and weight-bearing exercise. Also consider titrating the dose of the GLP-1 more slowly than with younger patients, as <a href="https://www.reuters.com/legal/litigation/who-qualifies-medicares-new-50-weight-loss-drug-program-what-are-concerns-2026-07-01/">rapid weight loss may pose a greater risk</a>. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/akram-huseyn-fkc9ewrnlgy-unsplash.jpg?itok=qQQsX49Y" width="320" height="480" data-insert-type="image" title="Akram Huseyn / Unsplash" alt="Akram Huseyn / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Akram Huseyn / Unsplash</div>
+</div>
+</div>
+</div>
+<p>Cholesterol also tends to increase with aging, as metabolism slows. Primary care providers routinely perform lipid screenings and should pay special attention to triglyceride levels, especially when anticipating starting a GLP-1 agonist for a patient with alcohol use disorder. While the GLP-1 may decrease the patient's desire to drink, this class of medications also carries a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11818918/">warning for pancreatitis</a>. Significantly <a href="https://www.ncbi.nlm.nih.gov/books/NBK279082/">elevated triglyceride levels</a>, too, increase pancreatitis risk. Consider checking pancreatic enzymes before starting a GLP-1 in a patient with high triglycerides, and monitor lipid panels closely while prescribing appropriate cholesterol-lowering medications. </p>
+
+
+<h2>Weighing additional considerations </h2>
+<p>It is important to note that GLP-1 agonists are not approved by the U.S. Food and Drug Administration (FDA) for addiction treatment. Numerous on-label options exist, such as naltrexone for alcohol use disorder, buprenorphine products for opioid use disorder, and varenicline for smoking cessation. </p>
+
+<p>At the same time, minimizing polypharmacy is a priority in the elderly population. If an older patient meets criteria for a GLP-1 agent based on their BMI, heart disease history, diabetes, or another condition, plus they are experiencing addiction, the primary care provider may wisely choose to prescribe the GLP-1 rather than two separate drugs. </p>
+
+
+
+  
+
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/ina-ramos-og6jtcsxqay-unsplash.jpg?itok=5h_PPd7y" width="320" height="427" data-insert-type="image" title="Ina Ramos / Unsplash" alt="Ina Ramos / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Ina Ramos / Unsplash</div>
+</div>
+</div>
+</div>
+<p>Moreover, cannabis use disorder lacks an FDA-approved pharmacotherapy. While gabapentin has off-label evidence, it poses risks of sedation and falls in seniors. A GLP-1 agonist may be the safer option. </p>
+<p>As with any medication that treats a chronic condition associated with aging, older people may both be more likely to meet criteria for GLP-1 agonists and more susceptible to their potential adverse effects. Primary care providers, who know their patients’ history and collect regular screening and diagnostic studies, play a vital role in weighing the risks and benefits of these medications. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/no-quick-fix/202607/glp-1-agonists-for-seniors-with-addiction" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/no-quick-fix/202607/glp-1-agonists-for-seniors-with-addiction</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/no-quick-fix/202607/glp-1-agonists-for-seniors-with-addiction</guid>
+            <dc:creator><![CDATA[Jasleen Salwan M.D., M.P.H., F.A.S.A.M.]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/danie-franco-cezypkdceqc-unsplash.jpg?itok=gZac4oIB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[In the Shadow of Schizophrenia]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/ninas.png.jpg?itok=i7jlE3-t" alt="Nina Stachenfeld Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">In the Shadow of Schizophrenia</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Growing up with a parent suffering from untreated schizophrenia.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Some 40 percent of people with mental illness in the U.S. do not receive treatment.</li><li style="margin-bottom:6px;">Consistent care, as in assisted living, can stabilize patients.</li><li style="margin-bottom:6px;">Families of untreated mentally ill individuals often suffer unseen, long-lasting effects.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">About 25 years ago, out of the blue, a woman called me at work and asked if I was related to a woman with my mother’s name. The woman in question was, in fact, my mother. I had not talked to her in quite some time. She had been arrested for harassing a woman in the town she was living in. She was in the hospital, and they had been unable to find any family. </p>
+
+<p dir="ltr">I am the daughter of a paranoid schizophrenic. My mother also has high anxiety and obsessive-compulsive disorder. We hear a lot about mental illness and how to help people with mental illness—and we should. We hear less about the toll this takes on their families. </p>
+<p dir="ltr">Studies show that children of schizophrenics are more likely to suffer from schizophrenia, depression, and anxiety. Living with a parent with schizophrenia is classified as an adverse childhood experience, defined as a negative experience with lasting effects into adulthood. A mother’s paranoid or aggressive behavior can trigger a child to look for safety, only to find that the person who is supposed to comfort them is the very person causing their fears. Once that child has grown, they are likely to see the world as unsafe, have difficulty regulating emotions and with trusting others, and be at <a href="https://doi.org/10.1016/j.sbspro.2015.09.007">high risk for depression and anxiety</a>. </p>
+
+<p dir="ltr">Mental illness also takes a gigantic toll on our global society. According to the World Health Organization, over <a href="https://www.who.int/news-room/fact-sheets/detail/suicide">720,000</a> people die by suicide each year, making it a leading cause of death among 15- to 29-year-olds. They may see their deaths as an end, but it causes lasting harm to their family and friends. Global disease burden estimates put mental illness as a leading cause of disability globally, on par with cardiovascular disease, the disease with the greatest global mortality rate. </p>
+
+<p dir="ltr">Yet according to the National Institute of Mental Health, roughly <a href="https://www.nimh.nih.gov/health/statistics/mental-illness">40 percent</a> of people who need treatment in the U.S. do not receive it. Many sufferers resist seeking help because of societal stigma, fear of losing their jobs, and discrimination. There is also a large group of people with mental illness who refuse treatment because they <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8639019/pdf/bjp-43-06-590.pdf">do not believe they need it</a>. This is where my mother lands.</p>
+
+<p dir="ltr">My mother did not think there was anything different about how she perceived the world or the motives of people around her. When I was younger, she would blame people in her life for doing evil things with the intent of destroying relationships. She refused to speak to me for speaking to members of my family that she thought were doing her harm. </p>
+
+<p dir="ltr">During these silences, she would call occasionally to ask if I was still speaking to “those people.” When I said yes, she would hang up. There were other times in our relationship when she would call me to yell at me. These yelling calls were often before work, so I would have to go through an episode with her before even starting my day. When she decided to stop speaking to me as well, I guess I should have been relieved, but I wasn’t. I never even perceived this as trauma or an adverse childhood experience.</p>
+
+<p dir="ltr">We can help pay attention to the families of mentally ill persons; we can stop this cycle. Through treatment, I have finally begun to understand that much of my own anxiety comes from these experiences with my mother—that I'm both a health care researcher and a health care statistic. This is not a blame game. In fact, this understanding has helped me and lowered my anxiety.</p>
+
+
+<p dir="ltr">I love my mother so much. But taking care of her, whether she is or is not speaking to me, has taken a toll on me; it’s hard to understand or explain. When I was in my 20s and 30s, I was bullied by her into changing or questioning my relationships with others close to me. I missed my uncle’s wedding. I lied to her about visiting my father. During this same period, she didn’t go to her own father’s funeral and made me feel guilty for attending. Whenever the phone rang, I feared it would be her, ready to yell at me. As a child, I was embarrassed by her behavior compared with other mothers. Now, I see people out to lunch with their mothers and wonder what that would be like. </p>
+
+<p dir="ltr">When my mother was arrested and hospitalized, she was finally diagnosed with paranoid schizophrenia and given medicine to help. She was off her meds by the time she appeared in court, and she chose to represent herself. Fortunately, her case was assigned to a compassionate judge and district attorney. They agreed on a sentence of one year's probation if she agreed to take medication. My brother used this opportunity to get her into an assisted living facility. My family is lucky that my brother worked so hard to earn money to support her living there. </p>
+
+
+
+  
+
+
+<p dir="ltr">My mother is now 92 and remains in assisted living and on medication, which has made her more stable. Her OCD, anxiety, and depression remain, I think. As she has aged, her cognitive function has declined as well, due to her <a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2825154">schizophrenia, the medications, or both</a>. I miss the part of her that was creative and fun. The drugs took that from us. However, the other side of that coin was unsustainable. </p>
+
+<p dir="ltr">So much of this could have been helped if my mother had accepted treatment. Although her disease presented itself to those who knew her, she could not see it. She still does not. She doesn’t really understand the medicine she takes and what it does; if she did, she would stop taking it. </p>
+<p dir="ltr">A few months ago, I saw last year’s Best Picture Oscar winner, which features a teen daughter of a single, drug-addled father. The main action of the film spans only a few days, but as I watched it, I reflected on my entire life, and I never had a moment of relief from worrying about my mother. It continues to be one battle after another.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/you-are-not-alone/202606/in-the-shadow-of-schizophrenia" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/you-are-not-alone/202606/in-the-shadow-of-schizophrenia</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/you-are-not-alone/202606/in-the-shadow-of-schizophrenia</guid>
+            <dc:creator><![CDATA[Nina Stachenfeld Ph.D.]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/moosephotospexels-37994_0.jpg?itok=0nn1YGMB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Philosophy of Mind Cannot Explain Artificial Intelligence]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-03/ira_israel.png.jpg?itok=pSd2P1Gf" alt="Ira Israel LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Philosophy of Mind Cannot Explain Artificial Intelligence</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Psychology and psychoanalysis are needed to understand large language models.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The discipline of philosophy of mind has become indispensable to artificial intelligence discussions.</li><li style="margin-bottom:6px;">Human consciousness is embodied, affective, unstable, and historically mediated.</li><li style="margin-bottom:6px;">Understanding consciousness will require phenomenological and contemplative methods alongside conceptual ones.</li>
+            </ul>
+          </div>
+                    <blockquote><p>"…the truth of Spirit is a bone.” –Georg Wilhelm Friedrich Hegel, <em>The Phenomenology of Spirit</em></p>
+</blockquote>
+<p>Benjamin Wallace’s<em> New York Times</em> article, “<a href="https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html?%20smid=nytcore-ios-share">The Revenge of the Philosophy Majors,</a>” demonstrates that the discipline of philosophy of mind has become indispensable to artificial intelligence (AI), but it also betrays how the Western understanding of consciousness is like a fish that cannot see the water in which it swims. The article profiles philosophers now working at Anthropic, DeepMind, and affiliated nonprofits, presenting their rise as evidence that the technology industry has begun to take consciousness, ethics, and the nature of mind more seriously. But that conclusion is too quick. What the article unintentionally exposes is a deeper misguidedness. It tries to demonstrate AI’s “consciousness” by asking Claude to debate who is the best Beatle when a better question would be asking, "How is the universe operating so that Paul McCartney woke up one day with the entire melody of 'Yesterday' floating in his head?"</p>
+
+<p>Amanda Askell is perhaps the clearest avatar of this moment. Her work at Anthropic, especially around Claude’s “character” and constitutional alignment, is plainly serious and influential. Yet her prominence also highlights the limitations of the current framework. If the project is genuinely to understand consciousness, moral life, and the structure of human thought, then Western philosophy alone is an inadequate guide. The problem is that the discourse has been too narrowly organized around a set of assumptions that pass themselves off as neutral when they are anything but.</p>
+
+<h2>Philosophy of Mind</h2>
+<p>Like Amanda, I studied philosophy of mind in graduate school, but it was only years later in another graduate program studying Buddhism with Alan Wallace and then through years as a clinical psychotherapist treating patients that I came to believe that Western philosophy may be asking the wrong questions. Philosophy of mind tends to ask what consciousness “is” in abstraction, as though one might define it with the sort of precision one brings to problems of logic. But the consciousness that created Mahler’s 2nd symphony and Rothko’s totems is not awaiting a scientific formulation or calculation. It is a lived field of experience: embodied, affective, unstable, historically mediated, resistant to the very language used to describe it and… <a href="https://www.psychologytoday.com/us/blog/authenticity-101/202605/10-truths-psychology-will-learn-from-artificial-intelligence">profoundly and irreducibly irrational and non-linear</a>. Aside from supposed AI “hallucinations,” large language models (LLMs) do not possess these all-too-human talents.</p>
+
+<p>NYU philosophy professor David Chalmers formulated the “hard problem” of consciousness as the question, "How do the physical processes of the brain relate to the subjective experiences of the mind?" But this framing can also function as an intellectual cul-de-sac. To say that consciousness is “what it feels like” to have an experience is to point toward the phenomenon, but not to explain it. It names the gap without crossing it. At times, philosophy of mind seems content to refine that gesture indefinitely, mistaking tautologies for progress. Maybe, actually, it’s an unprofitable question?</p>
+
+<p>This becomes apparent when the framework is imported into discussions of LLMs. The language of AI “thinking” is already misleading. When Claude or Perplexity displays “Thinking…,” what is presented is not thought in any robust human sense but a poor metaphor for sequential computation. LLMs are astonishingly sophisticated pattern-generating systems, but they remain systems that calculate token probabilities and produce ordered outputs. Human thinking may not be sequential in that way. It is suffused with bodily sensations, moods, memories, repressions, fantasies, attachments, anticipations, desires, and conflicts. Humans do not simply proceed from one unit to the next. We hesitate, circle back, displace, condense, sublimate, and contradict. <em>We contain multitudes</em>. Our inner lives are shaped as much by what we cannot integrate as by what we can. </p>
+
+<h2>Adding Psychology and Psychoanalysis to the AI Discourse</h2>
+<p>Which is precisely why psychology and psychoanalysis must be added to the discourse. Psychology studies not only cognition, but affect, attachment (to primary caregivers), mental and emotional development, defense, and the lived organization of experience. It asks not merely what mind is, but how it is formed, distorted, and transformed over time. Psychoanalysis, especially Lacanian, adds something even more radical: The subject is split and not transparent to itself. For French psychiatrist Jacques Lacan, the unconscious is structured by desire and lack, and thought is inseparable from the cultural symbolic processes that exceed conscious intention. This is not a decorative theoretical flourish; it is a profound challenge to any account of mind that treats thinking as a clean, logical operation that can understand itself. <em>Consciousness is complicated, complex, and messy.</em></p>
+
+<p>Buddhism also offers more indispensable insights. Where philosophy of mind often seeks a stable and generalizable definition of consciousness, Buddhist traditions have long emphasized impermanence, attachment (as in mental clinging, not attachment theory as stated above), and a doctrine of no-self. Consciousness is something to be observed, disciplined, and transformed through direct experience. Understanding consciousness will require phenomenological and contemplative methods alongside conceptual ones.</p>
+
+<p>Shamanistic traditions offer an account of individual consciousness as porous, relational, and traversable, rather than sealed inside an individual mind. Panpsychism, which Chalmers himself has explored, similarly challenges the assumption that consciousness is merely an emergent property of individual brains. It raises the possibility that consciousness may be a more basic feature of the universe than current materialist explanations offer. Likewise, ideas of collective consciousness invite the question of whether human subjectivity is always already social, symbolic, and distributed across structures larger than an isolated ego. These frameworks widen the horizon of inquiry and expose the provincialism of assuming that only what is scientifically measurable is worthy of inclusion.</p>
+
+<p>Indeed, it is possible to invert the prevailing paradigm entirely. Rather than asking only how an isolated brain produces consciousness, one might also ask whether human beings are not merely sources of consciousness but conduits or channels of something larger, which might explain how Paul McCartney “received” songs such as “Yesterday.”</p>
+
+
+
+  
+
+
+<p>The deeper problem is that both the <em>New York Times</em> article and much of philosophy of mind remain confined within a recognizably scientific paradigm that is often unable to perceive its own assumptions and biases. The dominant frame treats individuality, mechanism, and present measurability as default conditions of inquiry. These are not neutral starting points but biased historical commitments. They determine in advance what kinds of answers will count. As a result, possibilities that do not fit the current scientific vocabulary are often excluded not because they have been definitively refuted but because they are methodologically inconvenient. We are prone to embracing bad theories rather than uncertainty.</p>
+
+<p>The central issue, then, is not whether AI can mimic human thought; certainly it can imitate the effects of consciousness. But what about the subconscious and our clearly human and irrational desires and creative propensities? The deeper question is whether the institutions now hiring philosophers have enough humility to recognize what they still do not understand: the subconscious, irrational, embodied, and symbolically mediated dimensions of human life. Benjamin Wallace’s <em>NY Times</em> article is fascinating because it exposes a culture eager to purchase philosophical vocabulary while remaining uncertain about consciousness itself. If the inquiry is to advance, it will require a broader frame—one that includes psychology, psychoanalysis, Buddhism, and other speculative paradigms such as shamanism, panpsychism, and collective consciousness. Otherwise, the discourse will remain highly credentialed yet strikingly thin. So is philosophy of mind asking the right questions, or should it include psychology and psychoanalysis?</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/authenticity-101/202607/philosophy-of-mind-cannot-explain-artificial-intelligence" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/authenticity-101/202607/philosophy-of-mind-cannot-explain-artificial-intelligence</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/authenticity-101/202607/philosophy-of-mind-cannot-explain-artificial-intelligence</guid>
+            <dc:creator><![CDATA[Ira Israel LMFT]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-cottonbro-5473960.jpg?itok=vBJG-n95" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keys to Helping Adolescent Girls Thrive in the Digital Age]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/schiraldi.png.jpg?itok=sToXDl2b" alt="Glenn R. Schiraldi Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adverse Childhood Experiences</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Keys to Helping Adolescent Girls Thrive in the Digital Age</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">These advanced strategies help adolescent girls become secure and resilient.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Today’s digital culture poses unique challenges to the mental health of adolescent girls.</li><li style="margin-bottom:6px;">Prepared caregivers can help adolescent girls develop into balanced, confident adults.</li><li style="margin-bottom:6px;">Ask self-discovery questions to help adolescent girls be confident in who they truly are.</li>
+            </ul>
+          </div>
+                    <p><em>This post is part of a series on adverse childhood experiences. Read the other parts </em><a href="https://www.psychologytoday.com/us/blog/hidden-wounds"><em>here.</em></a></p>
+<p>From their vast experience in counseling and studying adolescent girls in recent decades, bestselling authors Mary Pipher and daughter Sara Gilliam (2019) offer sage counsel for parenting adolescent girls in today’s complex, often toxic digital culture.</p>
+
+<p><strong>1. Teach girls to cope with hard times. </strong>Parents can:</p>
+<ul>
+<li>Remind them that their worth does not equal their weight, appearance, or social status. There’s more to their story—their personality, intelligence, kindness, character, talents, interests, efforts to make the world a better place—things that were known and appreciated in smaller communities of yesteryear. Security in their worth allows them to shrug off rejection and other hard times. </li>
+<li>Instill the optimistic idea that they can work to achieve a bright future. Some families expect their teens to work or volunteer over the summer for 20 hours per week to build responsibility and confidence.</li>
+<li>Encourage them to talk in person to trusted friends or adults, rather than turning to social media or aloneness to deal with difficult emotions</li>
+<li>Model and teach self-calming practices, such as yoga, mindfulness, or prayer.</li>
+<li>Encourage journaling when girls are troubled or tempted to harm themselves.</li>
+<li>Encourage adolescent girls to wait for at least 30 minutes before responding to hurt feelings on social media, knowing that their responses can be passed around.</li>
+</ul>
+
+<p><strong>2. Encourage daughters to be comfortable with their feelings. </strong>All feelings are OK. They can be accepted, respected, and constructively managed. All hunger, for example, is not hunger for food. Rather than coping with fears through eating (binging, purging, dieting), teens can be helped to get in touch with their feelings and learn different ways to cope with them—such as journaling, talking about them with trusted individuals, or exercising. </p>
+
+<p><strong>3. Help them gain perspective</strong>. Hanging out time with adolescents provides opportunities for parents to teach perspective:</p>
+<ul>
+<li>We can find joy in our bodies if we accept imperfections and focus on what is good about them.</li>
+<li>We can focus on being fit and healthy, rather than thin like the models or cheerleaders girls are tempted to compare themselves to.</li>
+<li>School is just school. Grades don’t define you. Try your best and accept the outcome.</li>
+<li>It’s unrealistic for anyone to expect to be liked by everyone.</li>
+<li>Emotional ups and downs are normal. Down times are not permanent.</li>
+</ul>
+
+<p><strong>4. Ask self-discovery questions to help adolescent girls be confident in who they truly are. </strong>The authors suggest questions such as these:</p>
+<ul>
+<li>How do you feel about that? What do you think? </li>
+<li>What did you learn from that experience? </li>
+<li>What are your long-term goals? What strengths might help you reach these goals? What could be a small step to move you in the right direction? </li>
+<li>How would you describe yourself to yourself? </li>
+<li>What kind of leisure/work do you like?</li>
+<li>When do you feel most yourself?</li>
+<li>What will you be proud of when looking back on your life as an older person?</li>
+<li>What kind of a relationship do you want?</li>
+<li>All feelings are OK. What can you learn from your pain?</li>
+<li>That was a kind thing to do. How did you feel about that?</li>
+</ul>
+
+<p><strong>5. Help them understand wholesome sexuality. </strong>Parents can:</p>
+<ul>
+<li>Teach adolescent girls that sex is about love in a committed relationship, not pleasing young men who don’t have their best interests at heart. One father reminds his daughters that they’re beautiful outside and in, so they’ll have the security to resist unhealthy dating pressures. </li>
+<li>Teach that one’s first sexual experience sets the pattern for later experiences. They’ll want it to be gentle, where both are respected, and where they can talk about their future. Most of a relationship is not sexual, but is about friendship, working together, talking, laughing, solving problems, having mutual friends, and enjoying outings. Wholesome sex occurs when there is mutual trust and assurance that you are valued for the person you are, not your body.</li>
+<li>Assure them they don’t have to risk being hurt before they’re ready for sex. Wise girls often avoid sex in high school in favor of waiting until they’re more emotionally mature. </li>
+<li>Discuss how difficult it is to draw the line. It is OK to say no, and wise to avoid situations where they might get hurt. (“How would you say no and be ready to confidently and clearly explain why?”)</li>
+</ul>
+
+<p>The authors assert that girls today like parents to protect them. Parents might encourage daughters to invite a prospective date over for dinner. If junior high girls ask if they can date, parents might respond, “We want you to have friends of both sexes. Invite friends over anytime for games or movies with our family. Tell boys you’re not allowed to date yet.” </p>
+
+
+<p>Talk to girls about what they’re seeing online. Watch it with them. Have honest discussions about the negative effects of pornography and precocious sexual activity. Also watch wholesome websites together.</p>
+<p>The authors also encourage parents to push lawmakers to outlaw degrading and brutal images of pornography.</p>
+
+<h2><strong>Conclusion</strong></h2>
+<p>Today’s digital culture heightens the developmental complexities faced by adolescent girls who are trying to figure out who they are and their place in the world. Prepared parents increase the chances that adolescent girls will develop into secure and resilient adults.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/hidden-wounds/202606/keys-to-helping-adolescent-girls-thrive-in-the-digital-age" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/hidden-wounds/202606/keys-to-helping-adolescent-girls-thrive-in-the-digital-age</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/hidden-wounds/202606/keys-to-helping-adolescent-girls-thrive-in-the-digital-age</guid>
+            <dc:creator><![CDATA[Glenn R. Schiraldi Ph.D.]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/ridofranz.jpg?itok=GEsIoNGm" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beheading the Hydra: Getting Beyond Symptoms to Their Source]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/new-photo-.jpg?itok=-Vc-lmod" alt="Stephen A. Diamond Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Beheading the Hydra: Getting Beyond Symptoms to Their Source</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When symptom-focused psychotherapy isn't enough.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Most popular psychotherapies today tend to be symptom-focused.</li><li style="margin-bottom:6px;">Psychiatric symptoms are potentially meaningful and significant.</li><li style="margin-bottom:6px;">Simply suppressing a symptom does not necessarily solve the problem.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/330px-hercules_and_the_hydra_of_lerna_lacma_65.37.9.jpg?itok=XVBoZI2n" width="320" height="204" data-insert-type="image" alt="Hercules and the Hydra of Lerna" title="Nicolo Van Aelst (Flanders, 1527-1612), Antonio Tempesta (Italy, Florence, 1555-1630), Los Angeles County Museum of Art / Wikimedia Commons, public domain"></div>
+<div class="caption">Hercules and the Hydra of Lerna</div>
+<div class="insertArea--origin subtext">Source: Nicolo Van Aelst (Flanders, 1527-1612), Antonio Tempesta (Italy, Florence, 1555-1630), Los Angeles County Museum of Art / Wikimedia Commons, public domain</div>
+</div>
+</div>
+</div>
+<p><em>This post is Part 1 of a series.</em></p>
+<p>Psychiatric symptoms are just that—<em>symptoms</em>—or expressions of some underlying psychological, emotional, spiritual, philosophical, or sometimes physiological or neurological condition, conflict, imbalance, mistaken attitude, or distorted core belief. Most popular psychotherapies today tend to be symptom-focused, meaning they take the symptom, such as anxiety, depression, mania, or substance abuse, at face value and try to suppress or eliminate it. This can sometimes feel like a futile effort. </p>
+
+<h2>Hercules and the Hydra</h2>
+<p>In Greek mythology, the Hydra was a hideous serpent-like creature with nine venomous heads, one of which was immortal. The legendary hero Hercules was tasked by the gods as punishment to perform 12 labors, one of which was to slay the dreaded Hydra. Cleverly luring it from its lair, each time Hercules lopped off one of the Hydra's heads, two immediately grew back in its place. Preventing their return required an even more invasive intervention. With the assistance of his nephew, he cauterized the decapitation wounds with fire, which prevented the poisonous heads from regenerating. But, even then, Hercules was not able to completely kill the Hydra, resorting in the end to burying its immortal head under a boulder. </p>
+
+<h2>Symptom Substitution</h2>
+<p>In psychotherapy, this myth can be related to a controversial phenomenon known as “symptom substitution”: the idea that merely treating and suppressing one of the patient’s presenting signs or symptoms can cause it to reappear in a different form or lead to others suddenly taking its place. Indeed, attempting to eliminate, stifle, or cut off certain symptoms psychologically or pharmacologically can, in some cases, cause even more complex and potentially dangerous symptoms such as psychosis, depression, or mania. These are the potential perils of taking a strictly symptom-focused approach, as do most psychotherapies today. But is so-called symptom substitution a real thing? </p>
+
+<p>The fundamental difference between those psychotherapies today that dismiss or recognize the phenomenon of symptom substitution is the acceptance or rejection of the traditional psychoanalytic concept of the "unconscious." Practitioners of typically short-term, symptom-focused therapies, such as cognitive-behavioral therapy, solution-focused therapy, trauma-focused therapy, eye movement desensitization and reprocessing, hypnosis, and behavioral therapy, cite various scientific studies conducted over the decades that, for them, debunked the psychoanalytic concept of symptom substitution once and for all, presumably proving that symptom substitution simply does not occur clinically and that there is no scientific evidence confirming the existence of this phenomenon. (See, for instance, Kazdin, 1982; Tryon, 2008.) </p>
+
+<p>Critics of this controversial theory argue that the patient's presenting psychiatric symptom is the problem itself and does not necessarily stem from or represent some deep-seated unconscious conflict. So, they contend, there is no problem with targeting and eliminating specific symptoms such as panic attacks, manic or depressive episodes, obsessive or compulsive behaviors, or substance abuse directly during therapy. But this conclusion is based on an extremely dogmatic, rigid, and literal interpretation of what symptom substitution really is and what actually causes it. Symptom substitution isn't something that <em>always, inevitably, and automatically </em>occurs in every case, and, when it does, it may not necessarily manifest as we expect. While I am unaware of any legitimate research studies that have unequivocally disproven this possibility, at the same time, there is not, to my knowledge, any study that strongly supports the existence of symptom substitution. But in either case, this could be due to the difficulties and complexities of quantitatively or qualitatively researching this controversial phenomenon. (This might make a good dissertation topic for you psychology graduate students out there.) </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/evil-deeds/202607/beheading-the-hydra-getting-beyond-symptoms-to-their-source" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/evil-deeds/202607/beheading-the-hydra-getting-beyond-symptoms-to-their-source</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/evil-deeds/202607/beheading-the-hydra-getting-beyond-symptoms-to-their-source</guid>
+            <dc:creator><![CDATA[Stephen A. Diamond Ph.D.]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/330px-hercules_and_the_hydra_of_lerna_lacma_65.37.9.jpg?itok=rQd5B7ln" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What a Sports Psychiatrist Actually Does]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/brook_choulet.png.jpg?itok=hqjdUUNo" alt="Brook Choulet M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sport and Competition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What a Sports Psychiatrist Actually Does</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How a sports psychiatrist differs from a sport psychologist.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A sports psychiatrist is a medical doctor who can diagnose conditions and prescribe; a psychologist cannot.</li><li style="margin-bottom:6px;">Psychologists build mental skills and focus; psychiatrists treat disorders like depression and ADHD.</li><li style="margin-bottom:6px;">Nearly a third of elite athletes report anxiety or depression symptoms.</li>
+            </ul>
+          </div>
+                    <p>When an athlete begins to structure with their on-court or on-field performance, the common instinct is to contact a mindset coach or mental skills trainer. However, what many athletes, families, and even front offices don't realize is that some of what looks like a "focus problem" or "confidence issue" is really a treatable clinical condition. Oftentimes, it required a board-certified sports psychiatrist to assess and treat the athlete. Sports psychiatry is often confused with sport psychology. While the two are complementary, they are not interchangeable, and understanding the difference can determine whether an athlete gets the right level of care.</p>
+
+<h2>The Core Difference: Training and Scope</h2>
+<p>A sports psychiatrist is a medical doctor (MD or DO) who has completed medical school and a residence program in psychiatry. Then, they have developed additional expertise in the demands of athletic performance and medication side effects as it pertains to athletes. A sports psychiatrist can diagnose clinical mental health disorders, manage complex conditions, and prescribe and monitor medication. A sport psychologist, on the other hand, is not a physician and cannot prescribe medications.</p>
+
+<p>Sport psychologists are essential for providing well-rounded care to athletes. They tend to focus on performance and mental skills training, along with cognitive and behavioral change, helping athletes with motivation, focus, confidence, stress management, and emotional regulation. They often incorporate mindfulness training and relaxation techniques in their work. Sports psychiatry differs in that it combines the diagnosis, treatment, and prevention of mental, emotional, and behavioral disorders with an understanding of sports medicine, so that any medical intervention accounts for how it affects the athlete both in competition and in daily life.</p>
+
+<p>In essence, a sport psychologist provides psychotherapy and mental skills training. A sports psychiatrist diagnoses and treats the clinical conditions: depression, anxiety disorders, ADHD, substance use, eating disorders, and brain injury that can impact both performance and well-being.</p>
+<h2>Why the Medical Layer Matters for Athletes</h2>
+
+<p>Mental health conditions are common among elite competitors. A meta-analysis cited in the International Olympic Committee's work found that approximately a third of current elite athletes reported symptoms of anxiety or depression. The prescribing question is where a sports psychiatrist's expertise is essential. A general psychiatrist who's not familiar with sports might select a medication that causes sedation or affects motor coordination, which can potentially cause harm to an athlete's safety and performance. A physician well-versed in working with athletes understands the risks, benefits, and potential side effects of medication and how it impacts sport. Sports psychiatrists also understand the specifics of anti-doping regulations. </p>
+
+<h2>They Often Work as a Team</h2>
+<p>In today's high-performance environments, a sports psychiatrist works as a part of an integrated group of clinicians, often coordinating with team physicians, athletic trainers, physical therapists, and sport psychologists. Some athletes begin working with a sport psychologist and then are referred to a sports psychiatrist when concerns require consideration of medication. Other athletes engage a sports psychiatrist from the beginning, especially when symptoms are concerning for a mental health diagnosis.</p>
+
+<h2>The Bottom Line</h2>
+<p>Choosing between seeing a sport psychologist and a sports psychiatrist isn't about which is "better" but rather it's about matching the level of care to the need. If the goal is improving focus and managing competitive pressures, a sport psychologist is often the right starting point. If the concern involves a diagnosable clinical condition, complex symptoms, or the possibility of medication, an athlete needs the medical training only a sports psychiatrist provides. For high-performers, who cannot afford to have their performance falter, getting that distinction right is part of protecting both the person and the performance.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/sports-and-performance-psychiatry/202607/what-a-sports-psychiatrist-actually-does" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/sports-and-performance-psychiatry/202607/what-a-sports-psychiatrist-actually-does</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sports-and-performance-psychiatry/202607/what-a-sports-psychiatrist-actually-does</guid>
+            <dc:creator><![CDATA[Brook Choulet M.D.]]></dc:creator>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/laclippers-88.jpg?itok=ejv4vzYU" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
