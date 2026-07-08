@@ -4,475 +4,93 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 23:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 02:45:03 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 23:02:44 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 02:45:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Being Looked at Is Not the Same as Being Seen]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-11-20_at_7.56.10_am.jpg?itok=DaG7VW_N" alt="Tara Well Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Help</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Being Looked at Is Not the Same as Being Seen</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Visibility can bring attention, but recognition is what helps us feel known.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[What Shapes the Content of Charles Bonnet Hallucinations?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/JPR_AMWASW-removebg-preview.jpg?itok=Cblm2bHd" alt="Jeffry Ricker Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Charles Bonnet Syndrome</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Shapes the Content of Charles Bonnet Hallucinations?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How predictive processing may help to explain visual hallucinations in CBS.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Being looked at is not the same as being truly seen or known by others.</li><li style="margin-bottom:6px;">Visibility and attention do not satisfy the deeper need for genuine recognition.</li><li style="margin-bottom:6px;">Self-recognition requires shifting from self-critique to acknowledging feelings and needs.</li>
+              <li style="margin-bottom:6px;">Deafferentation theory proposes that loss of sensory input plays a role in Charles Bonnet hallucinations.</li><li style="margin-bottom:6px;">Predictive processing suggests that learned expectations influence the form taken by hallucinations.</li><li style="margin-bottom:6px;">Learned expectations may sculpt bursts of neural activity into persistent hallucinations.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/shutterstock_710764495.jpg?itok=pz7kokLg" width="320" height="320" data-insert-type="image" title="oes / Shutterstock" alt="oes / Shutterstock"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: oes / Shutterstock</div>
-</div>
-</div>
-</div>
-<p>We live in a time when it is easier than ever to be looked at.</p>
-<p>We can post a photo, appear on video, update a profile, check our reflection, track our image, and watch ourselves through the imagined eyes of others. Much of modern life now involves being visible: on social media, in meetings, on dating apps, in professional spaces, and even in the quiet moments when we catch sight of ourselves in a mirror or phone camera.</p>
+                    <p>People whose sight loss is the result of damage to incoming sensory pathways to the brain may develop the visual hallucinations of <em>Charles Bonnet Syndrome</em> (CBS). The primary feature of CBS is complex visual hallucinations: fully formed animate or inanimate objects that are unrelated to serious psychiatric disorders (Altieri &amp; Battaglini, 2026; Pang, 2016). In fact, people with CBS typically show full or partial “insight into the unreality of their hallucinations.” </p>
 
-<p>And yet many people still feel profoundly unseen.</p>
-<p>That is one of the paradoxes of contemporary life. A person can be praised, followed, admired, evaluated, photographed, desired, or constantly available and still feel unknown.</p>
-<p>The reason is simple: being looked at is not the same as being seen.</p>
-<h2>Attention Is Not Recognition</h2>
+<p>For about two years after the onset of my blindness, I hallucinated people, bicycles, pillows, and plants. The hallucinations that intrigued me most were those that occurred repeatedly when I performed certain activities. For instance, when I was learning to use a white cane, I sometimes found myself in the middle of a crowd of hallucinated white-cane learners. And for a time, I hallucinated a keyboard in front of me whenever I used my laptop. </p>
 
-<p>Being looked at means someone notices the surface. They may notice your appearance, role, performance, productivity, usefulness, or the impression you create.</p>
-<p>Being seen means something deeper has been recognized. Someone registers your effort, feeling, intention, vulnerability, complexity, or inner life. They do not simply notice that you are there. They perceive something of who you are.</p>
+<p>Why did I repeatedly have those particular hallucinations? And why do I no longer have them? In this post, I will discuss current thinking in vision science to explore possible answers to those questions. </p>
+<h2>How the Visual System Works</h2>
+<p>Visual perception in sighted people begins when light activates sensory receptors in the eyes. The activated receptors produce neural signals that are transmitted to visual areas in the cerebral cortex—the large outer layer of the brain (Mars et al., 2025). </p>
 
-<p>This distinction matters because human beings do not only need attention. We need accurate reflection. We need the experience of being met by another mind.</p>
-<p>A child who performs well at school may receive praise and still feel unseen if no one notices how anxious she is. A parent may be constantly needed by others and still feel invisible as a person. A leader may be respected for competence while no one recognizes the emotional labor it takes to hold everything together. A person may receive compliments on looking good while privately longing for someone to ask how they are really doing.</p>
-
-<p>In each case, the person is visible. But visibility alone does not satisfy the deeper need to feel known.</p>
-<h2>The Pressure to Manage Visibility</h2>
-<p>Many parts of everyday life now encourage us to manage how we appear. We curate images, edit words, rehearse introductions, monitor our facial expressions on video, and imagine how others might interpret us.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>This is not vanity. It is social awareness. Human beings are deeply responsive to how we are perceived because belonging has always mattered. Being seen accurately can help us feel safe, connected, and real. Being mis-seen, judged, dismissed, or reduced to a role can leave us feeling ashamed, defensive, lonely, or strangely absent from our own lives.</p>
-
-<p>The problem is that modern visibility can easily become self-monitoring.</p>
-<p>We may begin to ask, almost automatically:</p>
-<p>How do I look? <br>How am I coming across?<br>Do I seem competent?<br>Do I look tired?<br>Do I appear attractive, successful, confident, relevant, agreeable, calm?<br>Am I being too much?<br>Am I not enough?</p>
-<p>These questions are often attempts to manage the anxiety of being evaluated. But when they become constant, they can pull attention away from lived experience and toward performance.</p>
-
-
-<p>We become watchers of ourselves.</p>
-<h2>When Attention Does Not Become Connection</h2>
-<p>Social media has intensified this tension. It allows us to be seen by many people at once, but often in fragments: a photograph, a caption, a reaction, a number, a role, a mood, a performance.</p>
-<p>A post can bring attention without connection. A person may receive hundreds of likes and still feel strangely empty afterward. The response may confirm that the image was noticed, but not necessarily that the person was understood.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>This can happen offline too. Some people are highly visible in their families, workplaces, or communities because they perform a needed function. They are the competent one, the attractive one, the responsible one, the funny one, the successful one, the caretaker, the problem-solver.</p>
-<p>But being valued for a function is not the same as being known as a person.</p>
-
-
-
-  
-
-
-<p>Over time, people can become attached to the very roles that make them feel unseen. The role brings approval, but it also hides them. They may wonder, “Would people still recognize me if I stopped performing this version of myself?”</p>
-<p>That question points to a deeper need: to be accepted without having to keep proving one’s value.</p>
-
-<h2>Beauty, Aging, and the Fear of Being Mis-seen</h2>
-<p>The difference between being looked at and being seen is especially important in beauty culture.</p>
-<p>Appearance is one of the most immediate ways people are perceived. The face and body enter the room before a person has explained themselves. This can make beauty feel powerful, pleasurable, creative, and expressive. It can also make appearance feel like a site of pressure and vulnerability.</p>
-
-<p>Many people are not simply trying to look better. They are trying to feel safer being seen.</p>
-<p>They may worry about looking tired, old, unwell, unprofessional, invisible, undesirable, or unlike themselves. These concerns are not only about appearance. They are often about how appearance changes the way others respond.</p>
-
-<p>This is why simple reassurances such as “looks don’t matter” often miss the point. Appearance matters because social perception matters. We live in bodies that are interpreted by others. The goal is not to pretend that visibility has no emotional weight. The goal is to become more aware of how much of our self-worth has been placed in the imagined gaze of others.</p>
-
-<h2>Seeing Ourselves More Clearly</h2>
-<p>There is also an internal version of this distinction.</p>
-<p>We can look at ourselves without really seeing ourselves.</p>
-<p>We may look in the mirror and immediately evaluate: older, tired, wrong, not enough. We may review our performance after a conversation and focus only on what sounded awkward. We may check an image and see only what needs to be fixed.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>This is looking at the self through a narrow evaluative lens.</p>
-<p>In my work on mirrors, self-perception, and emotional awareness, I have become increasingly interested in the difference between looking and seeing. Looking at ourselves often invites evaluation: What is wrong? What should be fixed? How do I appear? Seeing ourselves requires a different kind of attention — one that includes feeling, context, effort, and humanity.</p>
-
-<p>Instead of asking, “What is wrong with me?” we might ask:</p>
-<p>What am I feeling right now?<br>What am I needing?<br>What story am I telling about how others see me?<br>Is that story accurate?<br>Where do I feel most like myself?<br>Where do I feel I have to perform?</p>
-<p>These questions can help shift attention from self-criticism to self-recognition.</p>
-
-<h2>A Question Worth Asking</h2>
-<p>Most of us move through different spaces in which we are seen in different ways. In some places, we feel known. In others, we feel judged, reduced, overlooked, or misread.</p>
-<p>It can be useful to ask:</p>
-<p>Where in my life am I being looked at but not really seen?</p>
-<p>And where do I feel recognized without having to perform?</p>
-
-<p>The answer may reveal something important about your relationships, work, online life, habits of self-presentation, and relationship with yourself.</p>
-<p>We cannot control how everyone sees us. But we can become more discerning about the kinds of seeing we seek, the roles we keep performing, and the people with whom we feel most fully human.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-17">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1557343104304-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1557343104304-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_In-Content4_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>Being looked at may give us attention.</p>
-<p>Being seen gives us something deeper: the sense that we are known, reflected, and real.</p>
-<p>Copyright 2026 Tara Well, PhD</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-clarity/202607/being-looked-at-is-not-the-same-as-being-seen" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-clarity/202607/being-looked-at-is-not-the-same-as-being-seen</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-clarity/202607/being-looked-at-is-not-the-same-as-being-seen</guid>
-            <dc:creator><![CDATA[Tara Well Ph.D.]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/shutterstock_710764495.jpg?itok=9hqp7T-r" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[For Gen X Relationships, It’s the Model, Not the Marriage]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/_h6a7336-removebg-preview-2.png.jpg?itok=AtgduDQt" alt="Kate Engler, LMFT, CST" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">For Gen X Relationships, It’s the Model, Not the Marriage</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What’s really behind Gen X’s relationship struggles?</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Gen X inherited a relationship model built for a world that no longer existed—no one updated the rule book.</li><li style="margin-bottom:6px;">The struggle is structural not personal. Nearly identical patterns show up across couples who have never met.</li><li style="margin-bottom:6px;">The "do it all, have it all" expectations for Gen X left women burned out and the men isolated.</li><li style="margin-bottom:6px;">There is no single "correct" path forward. It just needs to be intentional and workable for the couple.</li>
-            </ul>
-          </div>
-                    <p>As the “middle child” of generations, it's not a huge surprise that Gen X has relationship challenges. Gen Xers’ formative years were rife with sweeping political, social, cultural, and financial changes. They were raised in the 1970s and '80s, a time of dramatic shifts in gender equity (e.g., greater access to higher education, the Pill, and sexual harassment protections), and watched their parents suffer through multiple economic crises. In addition, their mothers entered the full-time workforce at unprecedented rates, and their fathers faced a new reality: They could no longer reliably be the sole breadwinner.</p>
-
-<p>Gen X’s parents divorced at the highest rates the country has ever seen; even if they didn’t, the fear that they might was ever present. An increasing prevalence of only one parent in the house at any time and a dearth of childcare ensured the “latchkey” approach stayed the norm throughout their childhood. Some say Gen X is the least supervised generation to date, and for most members of this generation, finding their way through the world was a highly independent endeavor. </p>
-
-<p>As adults, they entered a work culture that was resistant to changing its “total commitment” model of employment, which heavily depended on having an at-home partner to handle all domestic duties. At the same time, the professional world was adapting to rapid technological advances. The internet and smartphones made work possible anywhere and gave bosses 24/7 access to employees. Rather than making work more efficient (as was promised), tech exacerbated the expectation of nonstop engagement as the price for career advancement or, often, keeping a job. </p>
-
-<p>Together, this collection of sociocultural forces shaped this generation’s ideological development. At the same time, unbeknownst to Gen Xers, they also made the relationship template Gen X grew up with outdated and unworkable for their future lives.</p>
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/istock-1127672164.jpg?itok=f_VxZ7wt" width="320" height="214" data-insert-type="image" title="Tick-Tock/iStock" alt="Tick-Tock/iStock"></div>
-<div class="insertArea--origin subtext">Source: Tick-Tock/iStock</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/human_visual_pathway.png.jpg?itok=9Ty5O3k0" width="320" height="243" data-insert-type="image" alt="A diagram of the human visual pathway." title="Miquel Perello Nieto / Wikimedia Commons"></div>
+<div class="caption">A diagram of the human visual pathway.</div>
+<div class="insertArea--origin subtext">Source: Miquel Perello Nieto / Wikimedia Commons</div>
 </div>
 </div>
 </div>
-<h2>Old Relationship Paths Are Gone, but Where Are the New Ones?</h2>
-<p>Gen X became unwitting pioneers of uncharted relationship territory. The expansion of women’s rights and gender roles led to a generational expectation that marriage should be egalitarian—a partnership of equals where earning, household labor, and childrearing are shared. However, they found themselves living in a world where they were expected to give more than generations before them in every area of life—work, relationships, and family—while the support systems around them offered less. With virtually zero models of what a truly egalitarian marriage looks like in practice, Gen Xers found they were ill-equipped for the pressures it created.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p>The brain’s visual system is organized hierarchically (Powers et al., 2016). The “early visual cortex” (i.e., the first areas receiving sensory input from the eyes) specialize in processing basic features of incoming sensory signals. The “later visual cortex” (i.e., visual areas in upper levels of the hierarchy) specialize in processing increasingly abstract and complex features of sensory input. For example, Dominic Ffytche and colleagues (1998) showed that the content of CBS hallucinations corresponded to the perceptual features typically processed by the higher-level cortical areas active during the hallucinations. For example, when someone hallucinated a face, an area specialized to perceive faces was active. </p>
 
-  </div>
+<p>But no visual area is ever solely responsible for constructing a particular “visual percept” (a conscious visual perception). The visual system operates as a highly integrated network. Information flows in both directions, with many “back-and-forth” interactions occurring between visual areas at different levels of the hierarchy (Powers et al., 2016). </p>
 
-<p>Gen Xers are now fully in midlife. It’s no surprise that for many, life consistently feels stressful and chaotic, given that they are smack in the middle of the caregiving “sandwich” (caring for children and aging parents at the same time) and financial strain, making retirement nowhere in sight.</p>
-<p>Gen Xers didn’t just absorb a set of cultural messages growing up—they carried these messages into their relationships without ever being told the messages themselves were the problem.</p>
-
-<h2>It’s Not You, It’s the Culture</h2>
-<p>One of the first things that prompted me to begin researching Gen X couples was an uncanny similarity in the way the Gen X couples, who had never met, described their experiences—even down to the language they used. While none of them were 100 percent interchangeable, the Venn diagram of their stories had significant overlap. I realized that if they were experiencing so many of the same things, then no individual person or couple could be the sole source of the problem.</p>
-
-<p>Gen X relationships, and the people in them, aren’t—and never were—broken, but the model they inherited was. Our culture and society set them up to struggle. They were raised on the notion that the world was theirs for the taking. Gen X men just needed to earn money and step up their parenting game, while Gen X women needed to “do it all” so they could “have it all.” None of them were supposed to need anyone or anything, and no one taught them how to be full, equal partners. The result was burned-out women and lonely men, and relationships in desperate need of creative redesign.</p>
-
-
-<p>Knowing this can help Gen Xers move away from self-blame and partner blame and stay connected to the bigger picture.</p>
-<p>In midlife, with everything that Gen X is currently up against, dealing with relationship issues—especially those that are longstanding and/or for which there seems to be no solution—can feel like a slog that most simply don’t have time or energy for. While I deeply empathize with that, I can’t ignore what I know to be true as a therapist: The quality of one’s relationships will be the biggest predictor of their overall well-being in the remainder of their life.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>This means it’s necessary to address relationship issues, but for Gen X, it’s critical that it be done in a way that suits their specific needs. This means dismantling the relationship blueprint they were given and forging their own paths ahead. This could mean:</p>
+<p>The two-way flow of information serves as the basis for two interdependent perceptual processes: </p>
 <ul>
-<li>Getting divorced</li>
-<li>Staying together</li>
-<li>Opening up the marriage</li>
-<li>Focusing on yourself</li>
-<li>Something else altogether</li>
+<li>Bottom-up processing analyzes the incoming sensory information into its component perceptual features. </li>
+<li>Top-down processing refers to the use of prior knowledge to reduce ambiguity in incoming sensory signals. </li>
 </ul>
 
+<p>This view of perception assumes that the processing of sensory input involves interpretation, not reproduction, of what the eyes are looking at. </p>
+<p>For example, after hearing about a person’s encounter with a poisonous desert snake, you might become sensitized to this possibility when walking along a desert trail. You may even briefly misinterpret a fallen tree branch as a snake. </p>
 
+<p>An approach known as “predictive processing” may help to explain this experience (Clark, 2024; Peelen et al., 2024). Your brain may have used past experiences to predict the sensory input that would occur if an object was a snake. Your brain then would evaluate the degree of mismatch between the predicted sensory evidence and the actual sensory evidence. If the mismatch was minimal, your visual system might see a snake. A second look might lead you to revise your prediction, so that you now saw the tree branch. </p>
 
-  
-
-
-<p>There is no better or worse path for a Gen X couple to follow. What’s most important is that it is intentional and designed specifically to serve the people in the relationship, and not the expectations of the culture around them. The good news for Gen X is that their rebellious spirit makes them uniquely positioned to lead the charge on revising old relationship scripts for themselves and those who come after.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/gen-xo/202607/for-gen-x-relationships-its-the-model-not-the-marriage" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/gen-xo/202607/for-gen-x-relationships-its-the-model-not-the-marriage</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/gen-xo/202607/for-gen-x-relationships-its-the-model-not-the-marriage</guid>
-            <dc:creator><![CDATA[Kate Engler LMFT, CST]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/istock-1127672164.jpg?h=96527494&amp;itok=_f2FvrHA" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Grit Without Passion is Just Suffering]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/forrest-talley.jpg?itok=lcXOWPec" alt="Forrest Talley Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Grit</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Grit Without Passion is Just Suffering</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Grit isn't just about enduring hardship. Here's why passion matters just as much as perseverance.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">In research, grit has been found to be predictive of success in a variety of domains.</li><li style="margin-bottom:6px;">But grit is more than blind persistence, even as it's often understood that way.</li><li style="margin-bottom:6px;">Passion is an essential part of the grit equation.</li><li style="margin-bottom:6px;">Self-reflection exercises can help you identify the goals that you're truly passionate about.</li>
-            </ul>
-          </div>
-                    <p>I once worked with a young creative woman (let’s call her Jenny) who dreamt of being an author. She reasoned that romance novels were very popular and if she focused on that genre, she could become an established name.</p>
-<p>Never mind that she did not like romance novels. She thought most of them were filled with clichés, predictable, and boring. But in her mind, romance was a path to getting noticed as an author. </p>
-
-<p>So Jenny made a plan. She would write 1,000 words a day. She did that for two years—and hated every minute of it. Eventually, she became resentful of the grind and disparaging of herself.</p>
-<p>I asked her what sort of writing she did enjoy. "I’m a science nerd” she responded, suddenly smiling. “I like writing about science, you know, untangling complicated ideas so they become clear. It’s like trying to fit together like some weird puzzle."</p>
-
-<p>With this in mind, I asked her to do an experiment. She was a self-professed "science nerd" so I thought this would appeal to her. “Spend 30 minutes a day writing about some science topic that you find of special interest. Do that for three months and let’s see what happens.”</p>
-<p>Jenny looked skeptical but agreed to give it a try.</p>
-
-<p>During our weekly meetings that followed, she talked animatedly about her progress. Ideas for new articles were "gushering up," she excitedly told me, and three months later she published her first article in a popular science magazine.</p>
-<h2>Grit Gone Wrong: Common Misconceptions About Grit</h2>
-<p>It’s widely believed that the road to success requires you to just “keep grinding.” In popular culture, this is often referred to as having "grit," a concept brought into popular awareness by Angela Duckworth’s research (Duckworth et al, 2007).</p>
-
-<p>Yet despite its popularity, this idea is not 100% accurate. ‘Grinding through’ the tough slog shows remarkable strength, but it does not necessarily lead to success.</p>
-<p>More importantly, it is not an accurate way to understand grit.</p>
-<p>Duckworth's findings indicated that people are more likely to succeed when they possess two qualities: They remain deeply interested in a goal, and they continue to persevere despite setbacks and hardships met along the way. Grit is the combination of these two qualities, not just one of them.</p>
-
-<p>Unfortunately, over time, as the idea of grit has gained popularity, Duckworth’s nuanced view has been lost, and persistence has become what many people think of most when discussing grit. The equally important quality of sustained interest, or what researchers call "passion," is often forgotten.</p>
-<h2>Why Passion Matters for Success </h2>
-
-<p>This has practical implications. Without passion, exercising grit can feel like a burden, a soul-sucking, laborious drudgery. What’s worse, it often doesn't improve the chances of success.</p>
-<p>But when passion is combined with persistence, significant progress toward one’s goals is frequently seen. Researchers, for example, examined over 400 employees at a tech company and compared the performance ratings of workers who had completed questionnaires measuring their persistence and passion (Jachimowicz and colleagues, 2018).</p>
-
-<p>They found that supervisors gave the highest performance ratings to employees who (unknown to the supervisors) scored highly on perseverance and passion measures they had completed privately.</p>
-<p>Similarly, students had higher grades when they rated themselves higher on scales that measure a combination of persistence and passion for their studies. </p>
-
-<p>The point is that tenacity, while important, is not sufficient. A robust interest, or passion, is required to increase one’s chances of success. Passion, caring deeply about what you are working on, is the fuel that keeps you focused when facing setbacks and challenges.</p>
-<p>Passion leads you to become <em>immersed</em> in the effort rather than simply going through the motions. Without that sense of immersion, concentration suffers, and consequently progress becomes more difficult.</p>
+<p>Predictive-processing theory views conscious visual perceptions as the brain’s best guess about what the eyes are looking at. </p>
+<h2>Predictive Processing and CBS Hallucinations </h2>
+<p>CBS hallucinations may be explained by combining two theories: predictive-processing theory and “deafferentation theory” (Altieri &amp; Battaglini, 2026; Marschall et al., 2020). </p>
 
 
 
   
 
 
-<h2>How to Identify and Align With Your True Goals </h2>
-<p>The first question to ask yourself is whether the goal you have is really and truly yours—not the goal that your parents desire you to take aim at, nor the one your spouse would choose for you, or the one that looks impressive to others but is of little personal interest.</p>
+<p>“Deafferentation” refers to the loss of sensory input to perceptual areas in the brain. CBS hallucinations have long been attributed to deafferentation (Burke, 2002; Painter et al., 2018). </p>
+<p>Some have hypothesized that deafferentation hallucinations are due to changes in the relative influence of bottom-up and top-down processing (Marschall et al., 2020). It may be that the visual system compensates for the loss of sensory input by becoming more easily activated. The changes required for lowering the threshold for activation may create instability in the network. For instance, it may result in the early visual cortex becoming “hyperexcitable,” perhaps even generating its own activity without external sensory input. This spontaneous activity may produce hallucinations. </p>
 
-<p>The goals that are personally meaningful, that are attached to passion, often provoke a sense of grief when you imagine not being able to pursue them. So your response tells you what is at stake, and for that reason, it is a good indicator whether you have a passionate interest in some type of work or goal.</p>
-
-<p>Let’s look again at Jenny. She didn't initially fail because she lacked discipline. She failed because she was taking aim at the wrong target. Romance novels were of no interest to her, but science made her heart beat faster.</p>
-<p>When Jenny’s goal finally did align with her interests, persistence stopped being a burden and became almost an obsession (recall her comment about new ideas "gushering up"). She rediscovered her passion and that made all the difference.</p>
-
-<p>Some who read this might think to themselves, “But I have no interests that I am passionate about.”</p>
-<p>Research shows that while some people discover their passion, others can intentionally cultivate a passion for a subject or type of work (Hulleman and colleagues, 2010).</p>
-<p>This can be done by consciously connecting work to your deepest values, while progressively building greater competency in the skills needed to reach your goals.</p>
-
-<p>An example of this is the high school teacher assigned to teach an art class but with no innate interest in the subject. Over time, however, he begins to see how some teens become more confident after learning to express themselves through painting, photography, and sculpting.</p>
-<p>The teacher, with a deep desire to help troubled teens build confidence, experiments with different approaches to teaching art to further motivate his students.</p>
-
-<p>Over time, the teens respond well, many of them becoming animated by the process and very enthusiastic.</p>
-<p>In turn, the teacher begins to feel a deep passion for art. It grew out of the values that drove his desire to help struggling teens.</p>
-<h2>How We Think About Grit Matters</h2>
-<p>Grit is not white-knuckled tenacity. </p>
-
-<p>It is persistence married to purpose — tenacity aimed at something you actually care about. That distinction matters more than it sounds like it should. Persistence alone is just stubbornness, and it often flames out because there's nothing underneath it to refuel the tank. </p>
-<p>Passion is the elixir that propels continued effort when you are bone tired and sleep-deprived. It's the difference between pushing yourself through a task and being pulled through it by an attractive force.</p>
-
-<p>So if you're plowing through a dry stretch, feeling more burned out than geared up, the fix isn't "try harder." Instead, try asking yourself an honest question: do I actually care about this?</p>
-<p>If not, that's the problem to solve — not your willpower.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/relationship-emporium/202607/why-grit-without-passion-is-just-suffering" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/relationship-emporium/202607/why-grit-without-passion-is-just-suffering</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/relationship-emporium/202607/why-grit-without-passion-is-just-suffering</guid>
-            <dc:creator><![CDATA[Forrest Talley Ph.D.]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/jonny-gios-kgl7rw_-ypy-unsplash.jpg?itok=c3MLsB9z" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Picky Eating Is Actually Anxiety]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/ldato.png.jpg?itok=hdk_rnbE" alt="Lara Dato M.S." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Picky Eating Is Actually Anxiety</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A feeding therapist's guide to adventurous eating.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">What looks like picky eating may be anxiety triggered by unpredictable food sensations.</li><li style="margin-bottom:6px;">Pressure at mealtimes increases anxiety and makes children even more resistant to new foods.</li><li style="margin-bottom:6px;">Celebrate touching or smelling new foods—progress isn’t just about eating a bite.</li>
-            </ul>
-          </div>
-                    <p>Many parents come to see me with the same concern: <em>“My child is just so picky.”</em></p>
-<p>They describe a short list of “safe foods,” lengthy mealtimes, negotiations or fights at the dinner table, or a child who refuses to even touch unfamiliar foods. Often, these parents feel frustrated or worried. They’ve tried rewards, pleading, and behavioral corrections, and yet nothing seems to change.</p>
-
-<p>What looks like stubborn picky eating is often something deeper: anxiety.</p>
-<p>Understanding the role anxiety plays in mealtimes can change the way we approach children’s eating challenges, and it can transform mealtimes from a battleground into a place where kids feel safe enough to learn and explore.</p>
-<h2>The Hidden Anxiety Behind Food Refusal</h2>
-
-<p>Eating is one of the most complex skills that children learn. It requires effective sensory processing, motor skills, appetite regulation, and the coordination of more than 50 different muscles. For some children, certain foods cause very real discomfort or fear. And their choice of foods that they are willing to eat may be one of the few areas in their life that they feel like they have genuine control over.</p>
-
-<p>A child who refuses broccoli might not be rejecting the <em>idea</em> of broccoli. Instead, they may feel overwhelmed by its smell, worried about the texture, or unsure of how it will feel in their mouth. For a child with sensory sensitivity or anxiety, that uncertainty can feel overwhelming.</p>
-<p>Imagine closing your eyes and being asked to eat something when you are not sure what it is, or how it will taste or feel in your mouth. Many anxious eaters experience unfamiliar foods as unpredictable, and that unpredictability fuels anxiety.</p>
-
-<p>In response, children rely on safe foods: items that they know will taste and feel exactly the same every time. Crackers, plain pasta, and chicken nuggets often become staples because they are consistent and reliable. A goldfish cracker will always taste, feel, and smell the same. Children often drift towards more heavily processed foods because every aspect of them is highly predictable, whereas fresh fruits or vegetables have high amounts of variability. For example, one blueberry may be sweet and squishy, while another is sour and firm.</p>
-
-<p>From the outside, this looks like pickiness. On the inside, however, it is something more.</p>
-<h2>Why Pressure Backfires</h2>
-<p>Parents naturally want their children to eat a variety of foods. When kids refuse meals, adults may respond with verbal pressure like “just take one bite,” “you can’t leave the table until you try it,” or “if you don’t eat this, you won’t get dessert.” Unfortunately, pressure tends to increase anxiety rather than reduce it.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/adobestock_423075338_edited.jpeg.jpg?itok=YVQITKuC" width="320" height="222" data-insert-type="image" alt="A photograph of a keyboard and mouse in front of a dormant monitor." title="Ramon Lopez / Adobe Stock"></div>
+<div class="caption">A photograph of a keyboard and mouse in front of a dormant monitor.</div>
+<div class="insertArea--origin subtext">Source: Ramon Lopez / Adobe Stock</div>
 </div>
-
-  </div>
-
-<p>When children feel forced to interact with foods that already feel threatening, their nervous system can shift into a flight, fight, or freeze response. In that state, curiosity and learning shut down. Instead of becoming more willing to try new foods, many children become more resistant.</p>
-<p>Over time, meals can become emotionally charged. Both children and parents anticipate contentiousness at the table and brace themselves for another struggle. Mealtimes become associated with anxiety and stress on both sides. This can become a self-fulfilling loop, because these intense feelings can decrease appetite as well.</p>
-
-
-<h2>Shifting the Narrative</h2>
-<p>In feeding therapy, our goal is not simply to make children eat more foods. The goal is to improve their relationship with food and their confidence in trying new things. The first step is often to help them feel safe around food again.</p>
-<p>We sometimes start far away from eating. Children may begin by exploring new foods, touching them, smelling them, cooking them, or playing food games. These steps may seem small at first, but they allow kids to learn and to explore food without pressure. As they feel more comfortable, they often end up expanding their exploration of those foods naturally.</p>
-
-<p>A child who once refused to have carrots on their plate may first touch them through play. Later, they might feel comfortable licking one or taking a small bite. Progress often happens in stages, and each stage builds confidence.</p>
-<p>Just as important, parents learn strategies that support a low-pressure environment at home. This might include serving one preferred food alongside new foods, creating opportunities for positive interaction, and allowing children to decide whether or not to taste something.</p>
-
-
-
-  
-
-
-<h2>Helping Anxious Eaters at Home</h2>
-<p>Parents can support picky eaters by focusing less on how much their child eats and more on creating a positive mealtime experience.</p>
-<ul>
-<li><strong>Keep mealtimes predictable:</strong> Regular meal and snack times help children feel secure and help schedule eating opportunities to coincide with their hunger/fullness cycle.</li>
-<li><strong>Create opportunities without pressure:</strong> Present new foods without requiring a certain number of bites or offering rewards.</li>
-<li><strong>Celebrate interaction, not consumption:</strong> Touching, smelling, or licking a food is progress, even if they do not yet take a bite.</li>
-<li><strong>Model calm behavior: </strong>Children notice adults’ reactions at the table. It's even OK to share when you do not like a food, and to model what you do to try to enjoy it more. (For example: "This recipe tastes too bland to me. I'm going to try adding some seasoning to my serving to see if I enjoy it more!")</li>
-<li><strong>Respect appetite cues:</strong> Trust that children know when they are full rather than encourage them to clear their plate.</li>
-</ul>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
 </div>
+</div>
+<p>But deafferentation alone cannot explain the content of visual hallucinations (Altieri &amp; Battaglini, 2026). How can hyperexcitable visual areas explain why I repeatedly experienced the same keyboard hallucination each time I used my laptop? Why did I not hallucinate a piano, a cash register, or a furry kitten? It may be that the instability following deafferentation created conditions that facilitated hallucinations. </p>
 
-  </div>
+<p>Predictive processing theory may help to explain the form taken by deafferentation-induced activity (Altieri &amp; Battaglini, 2026).</p>
+<h2>Predictive Processing and Hyperexcitability </h2>
+<p>Typing is a well-learned activity. Preparing to type may have created a context that led my brain to expect that a keyboard was in front of me. From this expectation and my many sighted experiences with typing, my brain could have predicted the sensory evidence (i.e., the tactile, auditory, visual, and proprioceptive signals) that should accompany typing behavior.</p>
 
-<p>When the emotional intensity around food decreases, many children become more open to trying new things.</p>
-<h2>Rethinking “Picky Eating”</h2>
-<p>True picky eating is common in early childhood, but persistent food refusal is often more complex than simple preference. Anxiety, sensory sensitivity, and past negative experiences with food can all shape a child’s eating patterns.</p>
+<p>My brain then may have evaluated the degree of mismatch between the predicted and the actual sensory evidence. If the mismatch was minimal, my brain would have inferred that a keyboard was in front of me. This inference, coupled with the action of turning my face towards the location of the keyboard, may have influenced the visual network to shape internally generated sensory signals into a hallucinated keyboard. </p>
 
-<p>Children are not trying to be difficult. Most are doing their best to manage feelings that are hard to explain. When we respond with patience, structure, and support instead of pressure, we create the conditions that help them expand their comfort zone.</p>
-<p>And sometimes, the most powerful step toward raising adventurous eaters is helping them feel safe enough to be curious about food again.</p>
+<p>This proposed explanation echoes the claim by Albert Powers and colleagues that “we perceive what would need to be present in order for our sensations to make sense.” </p>
+<p>My CBS hallucinations eventually disappeared, as they do for most people. The brain exhibits neural “plasticity”—it is able to reorganize itself, thereby adjusting to disruptions of its structural and functional organization. In many cases, this reorganization would reduce the instability that may have made hallucinations possible. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/raising-healthy-humans/202606/when-picky-eating-is-actually-anxiety" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/blindness-visible/202607/what-shapes-the-content-of-charles-bonnet-hallucinations" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/raising-healthy-humans/202606/when-picky-eating-is-actually-anxiety</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/raising-healthy-humans/202606/when-picky-eating-is-actually-anxiety</guid>
-            <dc:creator><![CDATA[Lara Dato M.S.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/blindness-visible/202607/what-shapes-the-content-of-charles-bonnet-hallucinations</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/blindness-visible/202607/what-shapes-the-content-of-charles-bonnet-hallucinations</guid>
+            <dc:creator><![CDATA[Jeffry Ricker Ph.D.]]></dc:creator>
             <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-mikhail-nilov-8119991.jpg?itok=C0aqsBkQ" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/human_visual_pathway.png.jpg?itok=v6X2_sYr" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
