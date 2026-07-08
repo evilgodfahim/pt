@@ -4,93 +4,365 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 02:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 14:09:49 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 02:45:03 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 14:09:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What Shapes the Content of Charles Bonnet Hallucinations?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/JPR_AMWASW-removebg-preview.jpg?itok=Cblm2bHd" alt="Jeffry Ricker Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Charles Bonnet Syndrome</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Shapes the Content of Charles Bonnet Hallucinations?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How predictive processing may help to explain visual hallucinations in CBS.</h2><p style="font-size:0.9em;color:#666;">Posted July 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Science of Saying “We Don’t Know”]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/Facciani.png.jpg?itok=LvnPKn0F" alt="Facciani" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trust</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Science of Saying “We Don’t Know”</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why admitting uncertainty often builds trust, while hiding it can backfire.</h2><p style="font-size:0.9em;color:#666;">Posted July 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Deafferentation theory proposes that loss of sensory input plays a role in Charles Bonnet hallucinations.</li><li style="margin-bottom:6px;">Predictive processing suggests that learned expectations influence the form taken by hallucinations.</li><li style="margin-bottom:6px;">Learned expectations may sculpt bursts of neural activity into persistent hallucinations.</li>
+              <li style="margin-bottom:6px;">Research shows that transparent communication about scientific uncertainty can increase trust than reduce it.</li><li style="margin-bottom:6px;">Using specific ranges to explain uncertainty preserves trust better than vague hedging or unclear language.</li><li style="margin-bottom:6px;">Manufacturing doubt about settled science can damage institutional trust.</li>
             </ul>
           </div>
-                    <p>People whose sight loss is the result of damage to incoming sensory pathways to the brain may develop the visual hallucinations of <em>Charles Bonnet Syndrome</em> (CBS). The primary feature of CBS is complex visual hallucinations: fully formed animate or inanimate objects that are unrelated to serious psychiatric disorders (Altieri &amp; Battaglini, 2026; Pang, 2016). In fact, people with CBS typically show full or partial “insight into the unreality of their hallucinations.” </p>
+                    <p>Scientists are often told that admitting uncertainty is a mistake. In a world where confident misinformation spreads quickly, it can feel like the safest strategy is to sound certain, simplify the message, and avoid highlighting what we don’t yet know.</p>
+<p>But that instinct may be backwards.</p>
+<p>A 2026 <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.70233">literature review</a> found that transparency about scientific uncertainty generally builds trust rather than eroding it. Downplaying or concealing uncertainty tends to foster distrust, especially over the long term. The fear that admitting uncertainty backfires is mostly unsupported.</p>
 
-<p>For about two years after the onset of my blindness, I hallucinated people, bicycles, pillows, and plants. The hallucinations that intrigued me most were those that occurred repeatedly when I performed certain activities. For instance, when I was learning to use a white cane, I sometimes found myself in the middle of a crowd of hallucinated white-cane learners. And for a time, I hallucinated a keyboard in front of me whenever I used my laptop. </p>
+<p>That doesn’t mean uncertainty communication is simple or risk-free. It means the risks are different than many people assume, and they depend heavily on how you do it. Let’s dive into some specifics:</p>
+<h2>How you express uncertainty matters</h2>
+<p>First off, not all uncertainty language lands the same way, and the words you use to describe uncertainty can make a big difference.</p>
 
-<p>Why did I repeatedly have those particular hallucinations? And why do I no longer have them? In this post, I will discuss current thinking in vision science to explore possible answers to those questions. </p>
-<h2>How the Visual System Works</h2>
-<p>Visual perception in sighted people begins when light activates sensory receptors in the eyes. The activated receptors produce neural signals that are transmitted to visual areas in the cerebral cortex—the large outer layer of the brain (Mars et al., 2025). </p>
+<p>A <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.70233">series of studies</a> investigated how different types of uncertainty language affect trust. The clearest finding to me was that numeric ranges (”between 1,413,000 and 1,555,000”) communicate uncertainty while barely reducing trust. Vague verbal hedges (”it could be somewhat higher or lower”) register as uncertainty too, but they cost more trust. And weak words like “estimated” often don’t even register as uncertainty to most people at all.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/human_visual_pathway.png.jpg?itok=9Ty5O3k0" width="320" height="243" data-insert-type="image" alt="A diagram of the human visual pathway." title="Miquel Perello Nieto / Wikimedia Commons"></div>
-<div class="caption">A diagram of the human visual pathway.</div>
-<div class="insertArea--origin subtext">Source: Miquel Perello Nieto / Wikimedia Commons</div>
+<p>Concrete numbers frame uncertainty as a property of measurement, something precise and scientific. Vague words read as evasiveness, something closer to hedging your bets.</p>
+<p>Practical takeaway: if you have a range, give the range. Don’t round it off into a mushy qualifier or vague hedging.</p>
+<h2>Disclose early—it protects trust later</h2>
+
+<p>Here’s a useful finding for anyone communicating science, but especially if they do science that can be rather fast-moving. <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.70233">This study</a> examined how communicating uncertainty about vaccines affected trust. The researchers found that when evidence is later reversed, trust drops less if uncertainty was flagged up front. Simply stating “this may change” is enough to buffer the loss.</p>
+
+<p>Disclosing uncertainty early makes future updates feel like science working as intended, not science failing.</p>
+<p>This is the opposite of how a lot of institutions communicate during a crisis. The instinct is to sound sure of things right away, because certainty feels reassuring in the moment. But that certainty is like a loan against future trust, and the interest rate is high.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
-</div>
-</div>
-<p>The brain’s visual system is organized hierarchically (Powers et al., 2016). The “early visual cortex” (i.e., the first areas receiving sensory input from the eyes) specialize in processing basic features of incoming sensory signals. The “later visual cortex” (i.e., visual areas in upper levels of the hierarchy) specialize in processing increasingly abstract and complex features of sensory input. For example, Dominic Ffytche and colleagues (1998) showed that the content of CBS hallucinations corresponded to the perceptual features typically processed by the higher-level cortical areas active during the hallucinations. For example, when someone hallucinated a face, an area specialized to perceive faces was active. </p>
 
-<p>But no visual area is ever solely responsible for constructing a particular “visual percept” (a conscious visual perception). The visual system operates as a highly integrated network. Information flows in both directions, with many “back-and-forth” interactions occurring between visual areas at different levels of the hierarchy (Powers et al., 2016). </p>
+  </div>
 
-<p>The two-way flow of information serves as the basis for two interdependent perceptual processes: </p>
-<ul>
-<li>Bottom-up processing analyzes the incoming sensory information into its component perceptual features. </li>
-<li>Top-down processing refers to the use of prior knowledge to reduce ambiguity in incoming sensory signals. </li>
-</ul>
+<h2>An audience's prior beliefs shape the effect</h2>
+<p>Uncertainty communication doesn’t hit everyone the same way, as prior beliefs do matter. A <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.70233">2025 study</a> found that when evidence matches what someone already believes, adding uncertainty slightly lowers trust. However, when evidence contradicts people’s prior beliefs, communicating uncertainty actually increases trust. The researchers focused on vaccination and climate change because these issues have well-defined groups of believers and skeptics, making it easier to see how prior beliefs shaped people’s responses.</p>
 
-<p>This view of perception assumes that the processing of sensory input involves interpretation, not reproduction, of what the eyes are looking at. </p>
-<p>For example, after hearing about a person’s encounter with a poisonous desert snake, you might become sensitized to this possibility when walking along a desert trail. You may even briefly misinterpret a fallen tree branch as a snake. </p>
+<p>What I found most interesting was the overall pattern. Even on highly polarized issues, there was a kind of balancing effect. Communicating uncertainty caused trust to converge across the belief spectrum.</p>
+<p>In other words, honest uncertainty doesn’t just preserve trust on average. With polarized topics, it can actually narrow the gap between people who started out skeptical and those who started out convinced.</p>
 
-<p>An approach known as “predictive processing” may help to explain this experience (Clark, 2024; Peelen et al., 2024). Your brain may have used past experiences to predict the sensory input that would occur if an object was a snake. Your brain then would evaluate the degree of mismatch between the predicted sensory evidence and the actual sensory evidence. If the mismatch was minimal, your visual system might see a snake. A second look might lead you to revise your prediction, so that you now saw the tree branch. </p>
-
-<p>Predictive-processing theory views conscious visual perceptions as the brain’s best guess about what the eyes are looking at. </p>
-<h2>Predictive Processing and CBS Hallucinations </h2>
-<p>CBS hallucinations may be explained by combining two theories: predictive-processing theory and “deafferentation theory” (Altieri &amp; Battaglini, 2026; Marschall et al., 2020). </p>
+<h2>Communicate the process, not just the doubt</h2>
+<p>It’s not enough to simply acknowledge uncertainty. <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.70233">Research shows</a> that public health communication is more trustworthy when uncertainty is explained with compassion, its causes are made clear, it is presented as a normal part of science, and people are told when to expect updates.</p>
 
 
 
   
 
 
-<p>“Deafferentation” refers to the loss of sensory input to perceptual areas in the brain. CBS hallucinations have long been attributed to deafferentation (Burke, 2002; Painter et al., 2018). </p>
-<p>Some have hypothesized that deafferentation hallucinations are due to changes in the relative influence of bottom-up and top-down processing (Marschall et al., 2020). It may be that the visual system compensates for the loss of sensory input by becoming more easily activated. The changes required for lowering the threshold for activation may create instability in the network. For instance, it may result in the early visual cortex becoming “hyperexcitable,” perhaps even generating its own activity without external sensory input. This spontaneous activity may produce hallucinations. </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/adobestock_423075338_edited.jpeg.jpg?itok=YVQITKuC" width="320" height="222" data-insert-type="image" alt="A photograph of a keyboard and mouse in front of a dormant monitor." title="Ramon Lopez / Adobe Stock"></div>
-<div class="caption">A photograph of a keyboard and mouse in front of a dormant monitor.</div>
-<div class="insertArea--origin subtext">Source: Ramon Lopez / Adobe Stock</div>
+<p>But there’s a ceiling on what any single message can do. This study also found that prior trust in institutions was the strongest predictor of how a public health message landed. No single message undoes years of eroded trust.</p>
+<p>This is an important caveat, and I’ll share a few more at the end of this post. Good communication technique matters, but it’s operating within limits set by history. A perfectly worded message from a distrusted source will still struggle.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
 </div>
+
+  </div>
+
+<h2>Genuine vs. manufactured uncertainty</h2>
+<p>So far, these communication strategies have focused on how to build trust, but this study found how you can quickly undermine it. Uncertainty language applied to settled science can manufacture doubt and damage trust, rather than build it.</p>
+<p>The 2025 CDC vaccine-autism webpage revision provided us with a real-world case study that could be evaluated. The new CDC under RFK Jr. changed language from “there is no link” between vaccine and autism to “studies have not ruled out the possibility.” <a href="https://onlinelibrary.wiley.com/doi/10.1111/risa.70233">This study,</a> recently published in <em>Science,</em> tested how people felt about that change in communication, and found that it raised perceived vaccine risk, lowered vaccination intentions, reduced CDC trust, and increased science-denial reasoning (across the political spectrum).</p>
+
+<p>Notably, the damage was institution-specific. It hit trust in the CDC, not a blanket loss of trust in scientists generally.</p>
+<p>While disclosing genuine uncertainty can build trust, manufacturing doubt about settled science does the opposite. The damage doesn’t stay contained to the specific claim as it can bleed into trust in the institution itself.</p>
+
+<h2>The structural caveats</h2>
+<p>Of course, none of this works in a vacuum, and it’s worth being honest about the limits of simply improving our communication.</p>
+<p>Better communication is helpful, but not sufficient. No single message undoes years of eroded trust or a hostile information environment. Science communicators need real support, but right now we ask researchers and clinicians to address falsehoods with no training, no time, and little institutional backing.</p>
+
+<p>The incentives also run the wrong way. Algorithms reward certainty and outrage. Careful, hedged, accurate communication is at a systemic disadvantage before it even reaches an audience.</p>
+<p>And AI and disinformation can’t be ignored. Generative AI produces confident falsehoods at scale, and it exploits the same identity dynamics that make uncertainty hard to communicate in the first place.</p>
+
+<p>The fix has to be systemic, not just individual. We need to support the messengers of science and also change the structures.</p>
+<h2>The bottom line</h2>
+<p>Transparency about genuine uncertainty, communicated thoughtfully and with attention to audience, can build trust.</p>
+<p>For specific tips: Use concrete numbers/ranges when appropriate over vague hedges. Disclose early. Explain why the uncertainty exists. Normalize it as part of how science works. Consider who is delivering the message and what the audience already believes.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
 </div>
-</div>
-<p>But deafferentation alone cannot explain the content of visual hallucinations (Altieri &amp; Battaglini, 2026). How can hyperexcitable visual areas explain why I repeatedly experienced the same keyboard hallucination each time I used my laptop? Why did I not hallucinate a piano, a cash register, or a furry kitten? It may be that the instability following deafferentation created conditions that facilitated hallucinations. </p>
 
-<p>Predictive processing theory may help to explain the form taken by deafferentation-induced activity (Altieri &amp; Battaglini, 2026).</p>
-<h2>Predictive Processing and Hyperexcitability </h2>
-<p>Typing is a well-learned activity. Preparing to type may have created a context that led my brain to expect that a keyboard was in front of me. From this expectation and my many sighted experiences with typing, my brain could have predicted the sensory evidence (i.e., the tactile, auditory, visual, and proprioceptive signals) that should accompany typing behavior.</p>
+  </div>
 
-<p>My brain then may have evaluated the degree of mismatch between the predicted and the actual sensory evidence. If the mismatch was minimal, my brain would have inferred that a keyboard was in front of me. This inference, coupled with the action of turning my face towards the location of the keyboard, may have influenced the visual network to shape internally generated sensory signals into a hallucinated keyboard. </p>
-
-<p>This proposed explanation echoes the claim by Albert Powers and colleagues that “we perceive what would need to be present in order for our sensations to make sense.” </p>
-<p>My CBS hallucinations eventually disappeared, as they do for most people. The brain exhibits neural “plasticity”—it is able to reorganize itself, thereby adjusting to disruptions of its structural and functional organization. In many cases, this reorganization would reduce the instability that may have made hallucinations possible. </p>
+<p>Feel free to disclose what you don’t know. Just don’t manufacture doubt about what you do.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/blindness-visible/202607/what-shapes-the-content-of-charles-bonnet-hallucinations" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/misguided/202607/the-science-of-saying-we-dont-know" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/blindness-visible/202607/what-shapes-the-content-of-charles-bonnet-hallucinations</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/blindness-visible/202607/what-shapes-the-content-of-charles-bonnet-hallucinations</guid>
-            <dc:creator><![CDATA[Jeffry Ricker Ph.D.]]></dc:creator>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/human_visual_pathway.png.jpg?itok=v6X2_sYr" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/misguided/202607/the-science-of-saying-we-dont-know</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/misguided/202607/the-science-of-saying-we-dont-know</guid>
+            <dc:creator><![CDATA[Matthew Facciani, Ph.D.]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-mizunokozuki-12911952.jpg?itok=txL0S_SL" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breaking the Cycle of Anxiety and Lost Pleasure]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/nan_wise.jpg?itok=ac_kYz_5" alt="Nan J. Wise Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anhedonia</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Breaking the Cycle of Anxiety and Lost Pleasure</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Using the power of healthy hedonism to cultivate your lust for life</h2><p style="font-size:0.9em;color:#666;">Posted July 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Chronic, unremitting anxiety depletes the brain-body until depression takes root and reinforces anhedonia.</li><li style="margin-bottom:6px;">Anhedonia isn't just low mood; it's a dysregulated system involving dopamine, serotonin, and cortisol.</li><li style="margin-bottom:6px;">Buddhist psychology's hungry ghost describes endless seeking that never delivers real pleasurable release.</li><li style="margin-bottom:6px;">Awareness lets us use the top brain to regulate emotion and retrain habits toward healthy hedonism.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/yellow_sun_logo.png.jpg?itok=wEd7Vyqf" width="320" height="319" data-insert-type="image" alt="Here comes the sun" title="Nan Wise / The Wellness Collective 2026"></div>
+<div class="caption">Here comes the sun</div>
+<div class="insertArea--origin subtext">Source: Nan Wise / The Wellness Collective 2026</div>
+</div>
+</div>
+</div>
+<p>In a recent post, “<a href="https://www.psychologytoday.com/us/blog/why-good-sex-matters/202605/reclaiming-joy-with-positive-affect-treatment">Reclaiming Joy With Positive Affect Treatment”</a> (PAT), I wrote about how lost pleasure isn’t just a symptom of anxiety or depression—it’s a distinct problem we now have a powerful, targeted therapy to treat.</p>
+<p>Long before <a href="https://beckinstitute.org/blog/research-highlight-positive-affect-treatment-outperforms-standard-therapy-for-depression-anxiety-and-anhedonia/">PAT</a> had a name, I was writing about this same brain-body cycle in my book. The excerpt below from my book, <em>Why Good Sex Matters </em>(Houghton Mifflin Harcourt, 2020), traces how anxiety and anhedonia feed into each other. It can manifest either as a depressive flatness in which there is little or no motivation or, alternatively, as a cycle of endless seeking without satisfaction that can drive compulsive behaviors leading to addiction. Either way, anxiety-fueled anhedonia is a painful state that robs us of presence and joy in everyday life.</p>
+
+<h2>Anxiety-Fueled Anhedonia and Finding Pleasure Again</h2>
+<p>Indeed, when it comes to anxiety, there is definitely too much of a good thing. Persistent, unremitting anxiety will deplete your resources, both physical and emotional, until depression takes root and triggers or reinforces even more anhedonia. It’s a vicious cycle of emotional dysregulation: the inability to have pleasure drains us of enthusiasm for life; anxiety and depression rob us of the appetite and enthusiasm to pursue pleasure; and these negative emotions keep feeding off one another.</p>
+
+<p>Clinically speaking, <a href="https://www.psychologytoday.com/us/blog/why-good-sex-matters/202405/anxious-depressed-stressed">anhedonia</a> is the inability to feel a satisfactory amount of pleasure in many, if not most, aspects of what would ordinarily be pleasurable in our lives, leaving people with a nebulous sense that something is just not right. In other words, neither our brain nor our body can experience the gratification of pleasurable sensations. Others may be able to feel some pleasurable sensation, but that feeling never registers sufficiently to provide satisfaction.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Regardless of its manifestation, anhedonia points to a dysfunctional neural system that affects both the brain and the body. Indeed, I consider this vital, inseparable connection to be better captured as one’s “brain-body” because they are so closely integrated. When we untangle the neural web, parse out the blocks or triggers that cause the dysfunctional reactions (or lack of reactions), we gain insight into how the disruption of our pleasure system affects all dimensions of our lives from the enjoyment of food to the enjoyment of physical activities, engagement in work and other intellectual or creative pursuits, and the sense of wholeness that comes from real intimacy in our relationships.</p>
+
+<p>Think of anhedonia as a giant, numbing cloud pressing down from above, smothering your brain-body system so that it can’t gather enough psychic energy to respond to sensual stimuli. You stay in emotional and physical lockdown, constrained and incapable of letting go into the pleasurable release of joy, camaraderie, excitement, curiosity, and adventure.</p>
+
+<p>At a neurobiological level, people suffering from anhedonia and anxiety have lost the ability to regulate. Their biochemical systems no longer respond to natural modulators such as exercise, rewarding social interactions, sex, rest, meditation, or other endorphin boosters that used to reset their biochemistry. So, when the natural remedies don’t work, more people who want to feel good, less anxious, and more motivated in their daily lives turn to antidepressants and/or anti-anxiety medicines, which cannot address the related psychological and social issues. Though helpful at alleviating symptoms, the use of antidepressants surely masks the complexity of the pleasure problem.</p>
+
+<p>Obviously, some medicines are necessary and lifesaving; they can mobilize the brain and help us climb out of a state of shutdown. But just taking the medicine will not provide a complete solution to constant anxiety or anhedonia. We need to keep in mind that, like pleasure, anhedonia is not just an emotional or mental construct; there’s an underlying biological impact (a bit of a “chicken and the egg”). Essentially, people suffering from mild or extreme anhedonia have dysregulated chemical systems—including dysregulated dopamine and/or serotonin, dysfunction in opioid receptors, and high cortisol (if they are also experiencing anxiety).</p>
+
+
+<p>Some people are particularly vulnerable to maladaptive stress responses, including those who are genetically prone to addiction. Born with highly reactive brain chemistry, they are especially sensitive to stress, and once they discover that substances dull the pain of stress, their seeking system interferes with their reward system. Unable to experience the natural “high” of positive feelings from a release of dopamine triggered by the experiences of everyday living, they come to rely on shortcuts: drugs or other addictive habits, which do not truly satisfy.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>They get caught in a loop of endless seeking, which often leads to escalating compulsive behaviors. Chinese Buddhists have described this situation as “chasing the <a href="https://www.psychologytoday.com/us/blog/finding-true-refuge/201709/de-conditioning-the-hungry-ghosts">hungry ghost</a>,” where tortured souls are stuck in a hell-like existence, driven by extreme emotion, unable to digest the nourishment (i.e., pleasurable release from pain) that they relentlessly seek.</p>
+
+
+
+  
+
+
+<p>In this way, addictive behaviors only drive yet more anhedonia and even more compulsive behavior, reinforcing a cycle of misery. These people are in a constant seeking state—looking for an elusive, constantly higher pleasure “hit,” which is no longer under their conscious control.</p>
+<p>One of the reasons it’s so difficult to “get out of” the anhedonia cycle is due to this complex interplay between the brain and the body. But as we’ll see, once aware, we can mobilize our top brain’s capacities to consciously regulate the emotions that live in our brain’s so-called basement, and then reteach our midlevel (mezzanine brain) new associations, behaviors, and habits. As a result, we will feel newly empowered.</p>
+
+<p>Ultimately, when we get our emotional system in check, we can lean on our top brain to help us reframe situations. Change can even be as simple as telling ourselves, “Go and meet your friends for coffee; that will make you feel better.” This type of top-down command is one of the key ways to restore our pleasure system and get us on our way to healthy hedonism and elevate the importance of pleasure, sexual and otherwise.</p>
+
+<h2>In Conclusion</h2>
+<p>Pleasure is not a luxury, but a necessity for a well-balanced life. <a href="https://www.psychologytoday.com/us/blog/why-good-sex-matters/202512/how-to-reboot-your-pleasure-brain">Healthy hedonism</a> practices mobilize the top brain to regulate the basement and retrain the mezzanine’s habits, one small act of savoring at a time. If this resonated, you can read more in “<a href="https://www.psychologytoday.com/us/blog/why-good-sex-matters/202605/reclaiming-joy-with-positive-affect-treatment">Reclaiming Joy With Positive Affect Treatment</a>” and <a href="https://www.psychologytoday.com/us/blog/why-good-sex-matters/202603/when-even-a-neuroscientist-feels-overwhelmed">click here</a> to learn more about the three-level brain-mind.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/why-good-sex-matters/202607/breaking-the-cycle-of-anxiety-and-lost-pleasure" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/why-good-sex-matters/202607/breaking-the-cycle-of-anxiety-and-lost-pleasure</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/why-good-sex-matters/202607/breaking-the-cycle-of-anxiety-and-lost-pleasure</guid>
+            <dc:creator><![CDATA[Nan J. Wise Ph.D.]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/yellow_sun_logo.png.jpg?itok=JgitsoiZ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Cravings Feel Powerful: The Neuroscience of Habit Loops]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/Nicole.png.jpg?itok=LGiRhsLB" alt="Nicole Avena Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Habit Formation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Cravings Feel Powerful: The Neuroscience of Habit Loops</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How your brain turns repeated behaviors into automatic habits</h2><p style="font-size:0.9em;color:#666;">Posted July 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">When a behavior leads to something rewarding, the brain takes note and begins building a habit around it.</li><li style="margin-bottom:6px;">When a behavior is repeatedly rewarded, the brain links the trigger and response.</li><li style="margin-bottom:6px;">Cravings feel powerful because the brain learns to anticipate rewards before we're aware of it.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/yamu_jay-ai-generated-9104188_1920.jpg?itok=3FTKM_SK" width="320" height="213" data-insert-type="image" title="Yamu_Jay / Pixabay" alt="Yamu_Jay / Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Yamu_Jay / Pixabay</div>
+</div>
+</div>
+</div>
+<p>Have you ever found yourself reaching for a snack, checking your phone for notifications, or pouring a cup of coffee without really thinking about it? Many of our everyday behaviors feel automatic because over time, our brain learns to perform them with very little conscious effort.</p>
+<p>Our brains are constantly looking for ways to make our lives easier. When a behavior leads to something rewarding, the brain takes note and begins building a habit around it. Dopamine plays an important role in this process. While most people remember dopamine as being the “feel-good” neurotransmitter, it makes an impact in other ways as well. It helps motivate us to seek out rewards and makes us more likely to repeat behaviors that have been rewarding in the past.</p>
+
+<p>This is where habit loops come into play. Habits do not form overnight. Often, they begin with a trigger, which may be stress, boredom, or even walking into the kitchen. If a certain behavior consistently provides a reward, the brain will begin linking the trigger and the response together. As this pattern continues, the connection becomes stronger, which makes the behavior feel almost automatic.</p>
+
+<p>As we continue to repeat habits, they require less and less conscious effort. This can help explain why breaking old habits and creating new ones is often easier said than done. It is not necessarily a lack of willpower that makes kicking old habits so hard. Instead, it is the brain relying on routines and behaviors that have become second nature.</p>
+
+<p>One reason why cravings can feel so powerful is that the brain learns to anticipate a reward, sometimes before we’re thinking about it. For example, seeing a favorite snack in the grocery store or walking past a coffee shop can trigger memories of past rewards. More often than not, the brain may already be expecting the reward, which can make the craving feel stronger.</p>
+
+<p>Adding stress to the picture can make the situation more challenging. During moments of high stress or overwhelm, many of us naturally lean on familiar habits, even unhealthy ones. This can help explain why many people find themselves stress-eating, doom-scrolling, or falling back into old patterns during difficult times. In these situations, we are often seeking something that feels comfortable and predictable.</p>
+
+<p>Our environment also plays a significant role in shaping habits. We are surrounded by a variety of triggers every day. Social media ads, phone notifications, or even the smell of a favorite food can result in intense cravings before we realize it. In these instances, hunger is not necessarily driving our urge to eat; rather, the brain is responding to familiar cues.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Although old habits are hard to break and new ones can be challenging to adopt, habits are not permanent. Due to our brain’s neuroplasticity, it has the ability to form new neural pathways throughout our lives. Instead of trying to completely eliminate a habit, choosing to replace it with a new, healthier behavior in response to the same trigger can be highly effective. For example, rather than reaching for a snack of cookies or chips after a stressful day, someone may choose to go on a short walk, practice deep breathing, or enjoy a healthier snack alternative. With time and repetition, the new habit can eventually start to feel just as natural and automatic as the previous one did.</p>
+
+<p>Understanding the neuroscience behind cravings allows us to view them differently. Instead of viewing them as a lack of willpower, we can recognize them as patterns that our brain has learned over time. By recognizing what triggers our cravings and practicing healthier responses, we can gradually reshape our habits, reduce unwanted cravings, and create a meaningful change in our nutrition habits. The goal is not to fight your brain, but to build habits that support the way it’s designed to learn and adapt.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/food-junkie/202607/why-cravings-feel-powerful-the-neuroscience-of-habit-loops" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/food-junkie/202607/why-cravings-feel-powerful-the-neuroscience-of-habit-loops</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/food-junkie/202607/why-cravings-feel-powerful-the-neuroscience-of-habit-loops</guid>
+            <dc:creator><![CDATA[Nicole Avena Ph.D.]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/yamu_jay-ai-generated-9104188_1920.jpg?h=eac45d10&amp;itok=CxNebTJ-" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feeling Hollow In Everyday Life]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/pat-oconnor.jpg?itok=lsSN8pSy" alt="Peg O'Connor Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Feeling Hollow In Everyday Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Feeling empty makes it much harder to care for anything or feel any joy.</h2><p style="font-size:0.9em;color:#666;">Posted July 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Loneliness and disquiet hollow people out, making it harder to find meaning and value.</li><li style="margin-bottom:6px;">People struggling with addiction often experience this emptiness.</li><li style="margin-bottom:6px;">The emptiness or hollowness may hold important lessons for us.</li>
+            </ul>
+          </div>
+                    <p>Many of us in the United States report feeling empty or hollow. <a href="https://mhstats.org/national/">Sometimes couched as loneliness, dissatisfaction, disconnection, depression, disquiet, or weariness</a>, it seems as if more people are struggling with a lack of meaning and purpose in their lives. They may be doing all the same things in their lives, but it feels more like just going through the motions.</p>
+
+<p>Many might find it hard to generate genuine care about others and even their own selves. It takes too much focus and effort, or so it seems. We just can’t summon the energy to care enough to do anything that might change things.</p>
+<p>Our thoughts and feelings echo in that hollowness. These echoes may make us feel even more lonely.</p>
+
+<p>Many who have struggled with addiction know this condition well. In the throes of our addictions, we may have felt hollowed out by our use. Some of us felt hollow even before we began to use. Our use may have felt like a short reprieve from that hollow feeling.</p>
+<p>Others of us may have felt full and substantial at some point in our lives but our use gradually drained us. We may have felt like we were husks of our former selves.</p>
+
+<p>The hollowness and emptiness can feel like a dull ache or a sharp pang. We may bounce like a pinball between those two types of pain. We know something is missing but we haven’t been able to fill ourselves in healthy and sustainable ways. Many of the things we tried may have left us feeling even more hollowed out.</p>
+
+<h2>Four steps to filling the hollowness</h2>
+<p>How can we begin to fill ourselves in good ways? </p>
+<p>The first step is accepting that it won’t happen quickly. The hollowness may have developed over time, becoming very familiar to us. We may start to believe that it has always been this way or will always be this way. Countering those beliefs and filling what has been emptied will take time.</p>
+
+<p>The second step is to think about what we <em>need</em> as opposed to what we <em>want</em>. Active in our addictions, we often confuse the two. Some of us excel at turning wants into needs and then feel frustrated or aggrieved when they are not realized.</p>
+<p>We might do well to heed Epictetus (50-138 CE), who counseled us that wealth consists not in having great possessions but having few wants. Moreover, true happiness is wanting what you already have. </p>
+
+<p>A third step is to cultivate an attitude of willingness to try something new. We become so locked into views about what we like or think possible that we quickly write off anything that is new and different. Trying new things expands our inner and outer worlds, filling them with new meanings and values. Bigger and well-filled spaces don’t echo as much.</p>
+
+
+<p>A fourth step is to befriend that hollowness, strange as that may sound. There are thoughts, feelings, and sensations floating around in what feels like emptiness. If we pay attention to them, we may learn a lot about ourselves. We may be able to identify our reasons for why and the times when we started to feel this way. We may begin to understand what alleviates some of that hollowness or when we are particularly susceptible to it. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Self-knowledge is crucial to recover from the hollowness and even more important, begin to fill ourselves with experiences, commitments, meaning, and values that help us to flourish.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/philosophy-stirred-not-shaken/202607/feeling-hollow-in-everyday-life" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/philosophy-stirred-not-shaken/202607/feeling-hollow-in-everyday-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/philosophy-stirred-not-shaken/202607/feeling-hollow-in-everyday-life</guid>
+            <dc:creator><![CDATA[Peg O'Connor Ph.D.]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-pixabay-207129.jpg?itok=LApkN9yl" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
