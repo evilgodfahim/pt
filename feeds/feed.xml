@@ -4,47 +4,989 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 04:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 15:31:22 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 04:54:25 GMT</pubDate>
+        <pubDate>Thu, 09 Jul 2026 15:31:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Psychological Costs of Experiencing Homelessness]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/wendy_smith__1_.png.jpg?itok=S4FCzOWC" alt="Wendy B Smith Ph.D. LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Stress</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Psychological Costs of Experiencing Homelessness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Homelessness is not only physical. The emotional impact is devastating too.</h2><p style="font-size:0.9em;color:#666;">Posted July 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Loneliness Programs Are Built for No One]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/_1_-_Hans_-_HeadshotPro-removebg-preview.jpg?itok=Kbi5-30y" alt="Hans Rocha IJzerman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Loneliness Programs Are Built for No One</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Built for an average that doesn't exist, one-size loneliness fixes miss most.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Three quarters of a million people experienced homelessness on a single night in 2025.</li><li style="margin-bottom:6px;">Homelessness can disrupt the sense of autonomy and the sense of self.</li><li style="margin-bottom:6px;">People experiencing homelessness are exposed to discrimination and stigmatization.</li><li style="margin-bottom:6px;">Homelessness is a chronic stressor that is harmful to health and well-being</li>
+              <li style="margin-bottom:6px;">The "average" employees well-being programs target don't exist.</li><li style="margin-bottom:6px;">Social connection spans distinct domains, so people with the same score can be lonely for opposite reasons.</li><li style="margin-bottom:6px;">In a simulation, matching responses to people's patterns beat one-size and random approaches—at the same cost.</li><li style="margin-bottom:6px;">The fix isn't more effort from employees; it's an adjustable system that diagnoses before it prescribes.</li>
             </ul>
           </div>
-                    <p>On a single night in 2025, at least 745,652 people experienced homelessness in the United States. While this represents a decrease of 3.3% from the prior year, it is nevertheless a staggering number. Chronic homelessness increased by 2% nationally, to an estimated 155,750 (U. S. Department of Housing and Urban Development, 2026).</p>
+                    <p dir="ltr">In the 1950s, <a href="https://apps.dtic.mil/sti/tr/pdf/AD0010203.pdf">the U.S. Air Force</a> had a problem it could not explain. Too many planes were crashing on landing, and not because of the planes. Suspecting the cockpit—designed decades earlier around the dimensions of the "average pilot"—the Air Force measured 4,063 pilots on 10 physical dimensions and asked a simple question: How many fell within the average range on all 10? The answer was zero. The cockpit built for the average fit no one. The eventual fix was <a href="https://www.amazon.fr/End-Average-Succeed-Values-Sameness/dp/0062358367">not to calculate a better average</a>; it was to make the seat, the pedals, and the straps adjustable.</p>
 
-<p>Individuals and families fall into homelessness for many reasons: inability to pay their mortgage or rent due to unemployment, serious illness or death of a family member, loss of income for other reasons, or chronic poverty. Having a place to call home is critical to the basic needs for shelter, stability, safety, and having an address for work, school, and services. The broader effects of homelessness are wide-ranging, for the individual and for society, and the psychological impact of experiencing homelessness is profound at any age.</p>
+<p dir="ltr">Most workplace well-being and loneliness programs are that original cockpit. They are built for an average employee—moderately stressed, moderately engaged, probably hybrid—who does not exist.</p>
+<h2>The Real Costs and Prevalence of Loneliness at Work </h2>
+<p dir="ltr">This would matter less if connection were a soft perk. It isn't. Loneliness is linked to roughly a 26 percent<a href="https://doi.org/10.1177/1745691614568352"> higher risk of early death</a>; the broader body of social-connection research puts the <a href="https://doi.org/10.1371/journal.pmed.1000316">mortality effect </a>on par with smoking 1-10 cigarettes per day, drawn from data on more than 300,000 people. And it is common at work: in a<a href="https://www.ahtd.org/files/state-of-the-global-workplace-2024-key-insights.pdf"> 2024 Gallup survey,</a> one in five employees said they had felt lonely the previous day; among fully remote workers, it was one in four. And most of them are doing their jobs and sitting in your engagement data with perfectly respectable scores. The biggest lever in your workforce has no sensor.</p>
 
-<p>When people are displaced from what was their home, the nature of the places they next occupy (a car, the street, an encampment, a shelter) causes them to be separated from society to a great or even an absolute degree. The nature of their contact with others and their ability to determine their own movement can change dramatically. They may be forced to occupy spaces over which they have limited control, disrupting not only their autonomy, but also their sense of self (Mayock, 2023).</p>
+<h2>Why One-Size-Fits-All Interventions Fall Short</h2>
+<p dir="ltr">Part of why we miss them is that we treat loneliness as a single quantity to be raised or lowered. But social connection is not one thing. In yet unpublished work (preprint of preregistration available <a href="https://osf.io/preprints/psyarxiv/6ueyd">here</a>), when our team reviewed how it is actually measured, it split into dozens of distinct domains: how many relationships you have and how often you interact; how close, reciprocal, or conflict-ridden they feel; whether they offer comfort, practical help, or simple recognition; whether you feel appreciated, safe enough to be honest, genuinely heard, or like you belong anywhere at all. Loneliness is what it feels like when one of those threads goes slack—and the slack thread is different from one person to the next. Two employees can post an identical score on a standard screen and be caught in completely different knots: one held in place by insomnia and exhaustion, another by quiet social withdrawal. Hand them the same intervention and, at best, you have helped one of them.</p>
 
-<p>Trauma has been found to be central in the histories of many young people who become homeless. In conditions of homelessness, help to address trauma is rarely available, and past trauma can act as a powerful force in the present—not to mention trauma associated with losing or lacking a home. Flashbacks, hypervigilance, self-harm, and drug or alcohol use are often the manifestations of trauma that can shape or perpetuate young people’s experiences of homelessness (Parr, 2024).</p>
+<p dir="ltr">That intuition is testable—though not inside a real organization, since you cannot ethically assign hundreds of people to the wrong help just to see what happens. So we ran it as a simulation. We modeled loneliness not as a single feeling but as a network of interacting components, where a knock to self-worth can deepen a sense of rejection, which in turn makes solitude harder to break. As part of <a href="https://osf.io/preprints/psyarxiv/ezh2k_v1">this manuscript</a>, we built three loneliness profiles and ran 2,400 simulated interventions across four strategies: doing nothing; a generic approach that always treated the one symptom most people associate with loneliness; a random approach; and an adaptive one that, for each person, targeted the two components most active and most connected within their particular network.</p>
 
-<p>In a wide-ranging systematic review of 205 studies of how people experiencing homelessness have been stigmatized and discriminated against (Canham et al, 2024), the results showed the myriad ways in which stigma and discrimination can have further psychologically hurtful or damaging consequences on the sense of self. People surveyed felt unwelcome in public spaces or restricted in where they could go. They felt as if they were treated as a homogeneous group who all used substances or had a mental illness. </p>
+<p dir="ltr">The crucial detail is what we held constant. Every strategy used the same treatment strength. The only thing that changed was which problem we aimed at, and in whom. That alone produced a clear, reliable advantage: Adaptive targeting beat the generic and random strategies by margins social scientists would call moderate (Cohen's d of 0.45 and 0.39), and beat doing nothing by more still (d = 0.66). In plainer terms, simply aiming the same treatments more precisely produced effects roughly 30 to 230 percent larger than what typical loneliness programs achieve. The more components we could address per person, the wider the gap between smart targeting and guesswork grew.</p>
 
-<p>Discrimination and stigmatization can be intersectional, with one's age or membership in a racial or sexual minority adding to the stereotypical negative perceptions from others, and compounding the psychological weight of experiencing homelessness.</p>
-<p>Homelessness is a chronic stressor that's with you day and night. When already traumatized individuals fall into homelessness, the impact is even greater. The disruptions to the stress response system can lead to hyper-arousal and mistrust of even those trying to help. </p>
+<h2>The Cockpit Lesson for Organizations: Personalization Over Averaging </h2>
+<p dir="ltr">A simulation is a proof of concept or a promise, and we built in deliberate simplifications. But the logic mirrors the cockpit exactly. The Air Force got nothing from chasing a better average pilot and everything from an adjustable seat. Here, too, the largest untapped gains come not from a better or costlier program, but from fit.</p>
 
-<p>It is critical to recognize that home is not just a physical space, though that is essential. A central aspect of home is a sense of safety. If we’re lucky enough to feel safe at home, it can serve as a refuge. It can provide comfort just by thinking about it, knowing it’s there. If home is a stressful or unsafe place—such as an abusive home or a shelter or the street—we can’t find that restful physical and mental space that we need.</p>
+<p dir="ltr">For organizations, that flips the usual script. The dominant model—pick one initiative, roll it out to everyone, count the sign-ups—is the fixed cockpit, the very strategy the simulation beat. When it underperforms, blame tends to slide toward the workforce: they didn't engage, they didn't try. But an engagement survey that flags a "disconnected" team almost never tells you what that disconnection is made of, which is precisely the information a one-size program discards. Personalization, in this light, is not about asking lonely people to work harder on themselves. It is the opposite: It puts the burden on the system to diagnose what each person's disconnection actually is before it prescribes anything.</p>
 
 
-<p>Most of our days are spent in public spaces, for which we construct and present a public self, changing it subtly or greatly depending on the context. We all need a space that allows us to let down defenses and feel that our true selves can emerge and be accepted and safe. Without physical safety, psychological safety is not possible—and both are necessary for health and well-being.</p>
+<p dir="ltr">There is a fair practical question lurking here—whether better fit is worth the effort and cost—and we have begun building tools to estimate it, including a workplace ROI calculator. But that is a story for another post. The deeper point is the one the cockpit taught 70 years ago: The average employee doesn't exist; every actual person in your organization does. Until our programs are built for them rather than for a statistical ghost, we will keep buying cures that, on average, help almost no one. The first move isn't a new program. It's a better question—not<em> How do we get people to connect more, </em>but<em> Whose loneliness is this, and what is it made of?</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202607/psychological-costs-of-experiencing-homelessness" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/body-meet-mind/202606/why-loneliness-programs-are-built-for-no-one" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202607/psychological-costs-of-experiencing-homelessness</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202607/psychological-costs-of-experiencing-homelessness</guid>
-            <dc:creator><![CDATA[Wendy B Smith Ph.D. LCSW]]></dc:creator>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-mart-production-8078537.jpg?itok=qSB3pqha" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/body-meet-mind/202606/why-loneliness-programs-are-built-for-no-one</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/body-meet-mind/202606/why-loneliness-programs-are-built-for-no-one</guid>
+            <dc:creator><![CDATA[Hans Rocha IJzerman Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/shutterstock_2255119051.jpg?itok=JTPYDp4b" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Lies Beneath the Symptoms]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Garrison.png.jpg?itok=5oJsUkdb" alt="Garrison" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mental Health Stigma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Lies Beneath the Symptoms</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why primary care physicians are already practicing mental healthcare.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Primary care physicians now practice at the intersection of medicine and mental health.</li><li style="margin-bottom:6px;">Integrated health education trains clinicians on the social, emotional, or behavioral factors driving illness.</li><li style="margin-bottom:6px;">Integrated care allow clinicians to treat not simply the disease, but the person living with it.</li><li style="margin-bottom:6px;">Understanding a patient's psychology often leads to a better understanding of their physiology.</li>
+            </ul>
+          </div>
+                    <p>Mrs. Johnson came to see her primary care physician because her blood pressure was elevated again.</p>
+<p>It was the third medication adjustment in less than a year. Her laboratory results were reassuring. She understood the importance of taking her medication, reducing sodium, and exercising regularly. On paper, everything seemed straightforward.</p>
+
+<p>Before ending the visit, her physician asked one more question.</p>
+<p><em>"How have things been at home?"</em></p>
+<p>She paused. Then she began to cry.</p>
+<p>Her husband had recently been diagnosed with dementia. She had become his full-time caregiver. She wasn't sleeping. She rarely had time to prepare healthy meals. Exercise had disappeared from her routine. She felt isolated, exhausted, and overwhelmed.</p>
+
+<p>Her hypertension wasn't simply a cardiovascular problem. It was also the physiological expression of chronic psychological stress.</p>
+<p>Stories like this unfold every day in primary care offices across the country.</p>
+<p>Primary care physicians have quietly become the front door to mental healthcare.</p>
+<p>Most primary care physicians were trained to diagnose disease, manage chronic illness, prescribe medications, and coordinate medical care. They were not trained to provide psychotherapy or manage complex mental health disorders. Yet every day, they find themselves caring for patients whose physical health is profoundly influenced by their emotional well-being.</p>
+
+<p>Whether they intended to or not, primary care physicians now practice at the intersection of medicine and mental health.</p>
+<p>Consider a typical day in primary care, which often looks like a combination of a patient who presents with poorly controlled diabetes, another who struggles with chronic pain, a third who complains of persistent fatigue despite a normal medical workup, and others who report headaches, insomnia, or gastrointestinal discomfort that has resisted every diagnostic test.</p>
+
+<p>Beneath many of the symptoms physicians treat every day lies another layer: stress, grief, anxiety, depression, loneliness, caregiver burden, trauma, and the daily challenges of sustaining healthy behavior.</p>
+<p>Depression can undermine a person's ability to manage diabetes. Chronic stress contributes to hypertension and cardiovascular disease. Anxiety frequently presents through physical symptoms before patients recognize or feel comfortable discussing the emotional distress beneath them. Social isolation influences sleep, immune function, recovery from illness, and even mortality.</p>
+
+<p>The complaint presented doesn’t always tell the whole story.</p>
+<p>Primary care is often the place where physical symptoms become the language of psychological distress.</p>
+<p>This is perhaps the first lesson every primary care physician should recognize. Psychological distress rarely arrives neatly labeled. It often lies in a layer beneath the physical symptoms that bring patients into the examination room.</p>
+
+<p>Patients rarely schedule appointments with their primary care physicians, stating <em>"I think I'm depressed and this is impacting my sleep,"</em> or <em>"I'd like to discuss my anxiety and how it’s impacting my digestion."</em> Instead, they describe fatigue, pain, dizziness, insomnia, gastrointestinal problems, or worsening chronic diseases. They speak the language of physical symptoms because that is what they believe is expected when visiting the doctor, and those are tangible, familiar, and often easier to discuss than emotional suffering.</p>
+
+<p>Recognizing this pattern is not about turning primary care physicians into psychologists. It is about recognizing that understanding a patient's psychology often leads to a better understanding of their physiology. Looking beneath the symptoms frequently brings clinicians closer to the factors driving illness which saves them from promoting an intervention aimed solely at a physical manifestation.</p>
+
+<p>One of the greatest strengths of primary care medicine is the continuity of relationships. Primary care physicians often know their patients over years or even decades. They witness life transitions, family changes, chronic illnesses, losses, and recoveries. That continuity creates the perfect opportunity for conversations about emotional well-being that might never occur in an acute/urgent healthcare setting.</p>
+
+
+
+  
+
+
+<p>For many, a visit to the primary care physician becomes the first place where they feel safe to acknowledge emotional distress. They may never schedule an appointment specifically to discuss depression or anxiety, but they may mention feeling exhausted during a diabetes follow-up, describe worsening sleep during an annual physical, or admit to feeling overwhelmed while discussing blood pressure management. The familiarity and trust established through an ongoing relationship often lower the barriers that prevent people from seeking mental health support elsewhere.</p>
+
+<p>However, recognizing psychological distress is only the beginning. Helping patients successfully connect with appropriate care is an entirely different challenge. A referral may identify the next step, but it does not guarantee that the patient will take it. Access to mental healthcare is rarely limited by recognition alone. More often, it is limited by the complexity of navigating the healthcare system after the need has been identified. Long wait times, insurance limitations, transportation challenges, competing responsibilities, stigma, and the emotional burden of seeking help can all become obstacles between identifying a concern and receiving treatment.</p>
+
+<p>This is where integrated care offers a meaningful advantage. Rather than viewing a referral as the endpoint of responsibility, integrated care seeks to shorten the distance between recognition and treatment. Whether through behavioral health professionals embedded within primary care practices, warm handoffs to mental health providers, collaborative care teams, or coordinated follow-up, the goal is not simply to identify psychological concerns. The goal is to ensure that patients receive the care they need.</p>
+
+<p>Primary care physicians do not need to become mental health specialists.</p>
+<p>They can leverage their already established relationship to become psychological sentinels.</p>
+<p>Psychological sentinels are clinicians who recognize when emotional, behavioral, or social factors are influencing health. They initiate meaningful conversations, assess immediate needs, and connect patients with timely, coordinated support before psychological distress evolves into more significant illness.</p>
+
+<p>Neither medicine nor psychology is sufficient on its own for dealing with chronic and persistent illnesses. Together they allow clinicians to treat not simply the disease, but the person living with it.</p>
+<p>This is the basis of integrated health. Psychologists bring expertise in motivation, behavior change, resilience, communication, coping, and the social and emotional factors that shape health. Physicians bring expertise in diagnosis, medical management, and disease treatment. Together, they address not only disease but the person living with it.</p>
+
+<p>Questions such as, <em>"How have you been coping?"</em> or <em>"What has life been like since your symptoms began?"</em> may reveal information that no laboratory test or imaging study can provide. More importantly, they communicate something every patient hopes to experience: <em>I want to understand you, not just your symptoms.</em></p>
+
+<p>Primary care, now and in the future, cannot be defined solely by earlier diagnoses, better medications, or more sophisticated technology. It should also be defined by the physicians’ willingness to recognize that every symptom has a story; every diagnosis exists within the context of a person's life, and every treatment plan succeeds or fails through human behavior.</p>
+
+<p>Every patient who walks into a primary care office brings more than a diagnosis. They bring a story, a family, a history, relationships, and life experiences that shape their health in ways laboratory tests cannot measure.</p>
+<p>Primary care physicians already understand much of this intuitively. The next evolution of healthcare is ensuring that our education, healthcare systems, and care models fully support that reality. This is the basis of integrated health education.</p>
+
+<p>Mental health has never been separated from healthcare.</p>
+<p>It has been quietly sitting in the waiting room all along.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/collaborative-care/202607/what-lies-beneath-the-symptoms" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/collaborative-care/202607/what-lies-beneath-the-symptoms</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/collaborative-care/202607/what-lies-beneath-the-symptoms</guid>
+            <dc:creator><![CDATA[Lance Garrison, Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/screenshot_2026-07-08_at_6.40.03_pm.png.jpg?itok=ZbeeXuW3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Parenting Requires Regulating Ourselves First]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/abigail_lott_43-removebg-preview.jpg?itok=4GnpETtg" alt="Abigail Powers Lott Ph.D., ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Parenting Requires Regulating Ourselves First</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Trauma symptoms and the postpartum maternal brain.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Parenting often requires regulating our own emotions to effectively respond to our children.</li><li style="margin-bottom:6px;">Postpartum PTSD symptoms may affect brain regions involved in emotion regulation and caregiving.</li><li style="margin-bottom:6px;">Trauma symptoms can make early parenting harder, but support and treatment can help.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/nataliia-vladimirova-1ug9oflcfw4-unsplash.jpg?itok=rTdtQZBC" width="320" height="480" data-insert-type="image" title="Natalia Vladimirova / Unsplash" alt="Natalia Vladimirova / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Natalia Vladimirova / Unsplash</div>
+</div>
+</div>
+</div>
+<p>My daughter headed off for a week at sleepaway camp for the first time this week. I was excited for her and knew she would do great. She is brave and confident in a way I love and admire. Still, the goodbye hit me harder than I expected. In that moment, I was leaving my baby girl. Where had the time gone? I managed not to cry and kept my cool as she headed off to her swimming test without even looking back. As a parent, I knew that was exactly what I was supposed to do. My job was not to make my emotions the center of her experience. My job was to regulate myself enough to give her the freedom to have her own experience—to feel excited, nervous, proud, homesick, or whatever else came up for her. </p>
+
+<p>And yet, it felt like just yesterday that she was a baby in my arms.</p>
+<p>That moment at camp is just one version of a task parents face over and over: feeling our own emotions deeply while also needing to regulate them enough to make room for our children’s emotions and needs. This is not an easy task, and we don’t get to wait until our children are walking and talking to face it. This kind of emotion regulation begins much earlier, and we know it is especially relevant in early postpartum, when babies first begin learning their own regulation by tuning into their parent’s responses. Managing one’s own emotions is helpful for being able to offer warm, flexible, and attuned responses as a parent. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/ana-tablas-ob0xblwcamw-unsplash.jpg?itok=gSJV0iyO" width="320" height="239" data-insert-type="image" title="Hollie Santos / Unsplash" alt="Hollie Santos / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Hollie Santos / Unsplash</div>
+</div>
+</div>
+</div>
+<p>In this time, new mothers are learning their babies’ cues, responding to varied needs, and at the same time recovering physically and sleeping very little. For many mothers, this is a period of love and early connection with baby, but it is also a period of vulnerability, especially for women struggling with mental health symptoms. While more awareness has emerged for depression and anxiety in the postpartum period, this is also a time of high vulnerability for posttraumatic stress symptoms, yet we know very little about the impacts of trauma symptoms in this time.</p>
+
+<h2>How Trauma Symptoms Affect the Maternal Brain</h2>
+<p>Our team at the Grady Trauma Project at Emory University has been working to better understand how posttraumatic stress symptoms may affect the maternal brain during this early postpartum period with the goal of identifying what kinds of supports may be most helpful and when. In a recent study led by Rebecca Lipschutz, trauma-exposed mothers came into the lab when their babies were 6-12 weeks old.(1) First, we observed mothers and babies during a caregiving interaction. Later, trained coders rated maternal sensitivity, representing how well mothers noticed and responded flexibly and warmly to their infants’ cues. A week or two later, mothers completed a functional magnetic resonance imaging scan (fMRI). During the scan, they listened to recordings of their own babies crying as well as control sounds. This allowed us to examine which parts of their brain were activated in response to their own infant’s distress. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/jessica-hearn-gd-wfcmztk4-unsplash.jpg?itok=giWmROmT" width="320" height="213" data-insert-type="image" title="Jessica Hearn / Unsplash" alt="Jessica Hearn / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Jessica Hearn / Unsplash</div>
+</div>
+</div>
+</div>
+<p>We found that higher maternal sensitivity in the context of caregiving was related to greater activation in the insula, a brain region involved in noticing important emotional and bodily signals. In parenting, this may help mothers tune in to what their baby is communicating. Mothers with high levels of posttraumatic stress symptoms, however, showed more blunted activation in this region, along with other key regions, including the amygdala and the ventromedial prefrontal cortex. The amygdala helps detect threat and emotional salience, while the ventromedial prefrontal cortex helps regulate emotional responses and calm the body’s threat system. So, moms with high symptoms were showing reduced engagement in these emotion salience and regulation regions. </p>
+
+<p>This does not mean mothers with posttraumatic stress symptoms cannot be sensitive, loving, responsive mothers. Many are extraordinarily attuned to their children. But it does mean that trauma symptoms can sometimes make the work of parenting harder, especially during a period already marked by stress, sleep deprivation, physical discomfort, and hormonal changes, all factors that can make emotion regulation even harder. </p>
+
+<p>These findings also point toward hope. The postpartum period is a time of vulnerability, but it is also a time of remarkable capacity for change. If we can identify mothers who are struggling and connect them with effective support, we may be able to improve maternal well-being and support healthier parent-child relationships, which also helps children long-term. </p>
+
+
+<h2>Why Screening for PTSD and Trauma-Related Distress in New Mothers Matters</h2>
+<p>Evidence-based treatments that directly target posttraumatic stress disorder (PTSD), like trauma-focused cognitive-behavioral therapy, may be one important pathway. Treatments that strengthen emotion regulation, reduce physiological arousal, and help mothers respond to distress without becoming overwhelmed, such as mindfulness and emotion regulation skills-based interventions, may also be useful. But before any of that can happen, we have to identify who needs support. That is why screening for PTSD and trauma-related distress in the perinatal period matters. We routinely ask new mothers about depression, and that is essential. But for many women, trauma-related symptoms, such as intrusive memories of past trauma, avoidance, hypervigilance, or emotional numbing, may be a central part of their postpartum experience. When we fail to ask about trauma, we miss opportunities to help.</p>
+
+<p>Watching my daughter walk away toward camp reminded me that parenting so often requires regulating ourselves first. That is true in big transitions, like saying goodbye at camp, but it is also true in the earliest days of motherhood, when a mother is learning to read her infant’s cues, respond to distress, and stay regulated enough to soothe. For many women, this work unfolds while they are also carrying trauma symptoms, stress, exhaustion, and physical recovery. Supporting mothers during this critical period is not optional. It is foundational to maternal mental health, to infant development, and to the well-being of families and communities. </p>
+
+
+
+  
+
+
+<p><em>If you are a mother in postpartum and feeling overwhelmed, you are not alone. Resources are available. Check out </em><a href="https://postpartum.net/"><em>Postpartum Support International</em></a><em>, and if you need immediate support, you can call or text the 988 lifeline. To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/science-therapy-and-whole-body-health/202607/why-parenting-requires-regulating-ourselves-first" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/science-therapy-and-whole-body-health/202607/why-parenting-requires-regulating-ourselves-first</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-therapy-and-whole-body-health/202607/why-parenting-requires-regulating-ourselves-first</guid>
+            <dc:creator><![CDATA[Abigail Powers Lott Ph.D., ABPP]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/hu-chen-tcbtgnwrfnm-unsplash.jpg?itok=QnaI6POp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Immigrant Children Can Feel Pressured to Preserve the Family Culture]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Dr._Su_yeong_kim_profile_headshot-removebg-preview.jpg?itok=072FtQxW" alt="Su Yeong Kim Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cross-Cultural Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Immigrant Children Can Feel Pressured to Preserve the Family Culture</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When families see cultural preservation as a shared responsibility, everyone benefits.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Children often become cultural carriers through everyday family life and traditions.</li><li style="margin-bottom:6px;">Cultural pride can become pressure when children feel preservation depends on them.</li><li style="margin-bottom:6px;">Shared family responsibility supports healthier identity development and belonging.</li><li style="margin-bottom:6px;">Culture thrives when it evolves across generations instead of resting on one child.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">In many immigrant families, language, traditions, values, and family stories carry culture forward with care. Culture lives in the meals prepared at home, the holidays celebrated together, and the customs that connect one generation to the next. </p>
+<p dir="ltr">But this inheritance can, over time, turn heavier. A child who hesitates before answering a grandparent in a fading language may already carry more than they realize. Without anyone asking them to do so, they may come to feel responsible for keeping their family's culture alive into the next generation.</p>
+
+<p dir="ltr">This responsibility often develops gradually. Children recognize the sacrifices their parents made to build a new life. They notice the growing distance between their home culture and the surrounding society and come to understand that some traditions may fade without continued practice. While maintaining cultural connections can strengthen identity and family relationships, some children come to believe that preserving those connections depends on them alone.</p>
+
+<p dir="ltr">This experience matters because cultural preservation can become both a source of pride and a source of pressure. </p>
+<h2>How Children Become Cultural Carriers</h2>
+<p dir="ltr">Children often become "cultural carriers" through everyday family life. No one sits them down or assigns formal expectations—instead, parents may encourage them to speak a heritage language at home, participate in cultural celebrations, learn traditional customs, or stay connected with relatives who live far away. These experiences help children understand their family's history and take pride in their cultural identity.</p>
+
+<p dir="ltr">For immigrant families, these traditions often take on added meaning. Living in a new country can make families more intentional about preserving the customs, values, and language that connect them to their roots. Children may recognize that their experiences differ from their parents’ and grandparents’, placing them at the intersection of two cultural worlds.</p>
+
+<p dir="ltr">Over time, many children begin to see themselves as more than participants in these traditions. They become the family member who remembers holiday rituals, teaches younger siblings cultural practices, or helps keep the heritage language alive at home. These roles often emerge naturally and can strengthen their sense of belonging within the family.</p>
+
+<p dir="ltr">In time, cultural preservation may begin to feel less like a shared family practice and more like a personal duty. What begins as inheritance can gradually become something children feel they must carry forward alone.</p>
+<h2>Why Some Children Feel More Responsible Than Others</h2>
+<p dir="ltr">Some children naturally become cultural ambassadors within their families and communities. They may feel comfortable explaining family traditions to friends, participating in cultural events, or helping younger siblings understand their heritage. Others become the primary heritage-language speakers within the family, especially if they spend more time with grandparents or relatives less proficient in the dominant language.</p>
+
+<p dir="ltr">Birth order can also shape these experiences. Older siblings may feel responsible for modeling cultural values or helping younger family members stay connected to traditions. Conscientious children, or those highly attuned to family expectations, may internalize cultural responsibility more deeply than their siblings.</p>
+
+<p dir="ltr">Family dynamics further influence these roles. Some families openly stress the importance of preserving traditions, while others convey these values more subtly through everyday interactions. However expressed, children often absorb them because they care about their family relationships.</p>
+<p dir="ltr">Becoming a cultural carrier is not inherently a problem. Many children find meaning and confidence in maintaining connections to their heritage. The trouble starts when children believe the work falls on them alone, when in truth, it belongs to the whole family and community.</p>
+
+<h2>When Cultural Preservation Becomes Pressure</h2>
+<p dir="ltr">Cultural connection can become stressful when children begin to feel solely responsible for keeping it alive. Even children who value their heritage deeply can grow anxious about whether they are doing enough to preserve it.</p>
+<p dir="ltr">Some children carry a secret guilt when they lose proficiency in a heritage language, drift away from traditions, or embrace aspects of another culture. Others worry that they are disappointing their family when they can no longer fully take part in once-familiar customs. These concerns often go unspoken, yet they shape how children see themselves and their culture.</p>
+
+
+
+  
+
+
+<p dir="ltr">Many immigrant-origin children grow up balancing the expectations of home with the realities of school, friendships, and the broader society. As they adapt to new environments, some cultural practices naturally change. The fear of disappointing family, or of being blamed for letting the culture slip away, can linger beneath the surface for years. What begins as connection can gradually feel like obligation, leaving children caught between honoring their heritage and simply growing up.</p>
+
+<h2>The Impact on Identity Development</h2>
+<p dir="ltr">Adolescence is a period of identity exploration, when young people begin to understand who they are and who they hope to become. For children growing up in immigrant families, this process often includes learning how to integrate multiple cultural influences into a coherent sense of self.</p>
+
+<p dir="ltr">When cultural preservation becomes central to self-worth, identity development grows more complicated. A child might want to try a new interest or express themselves differently. But they hesitate, worrying it might look like they are turning their back on where they came from. They may question whether adapting to their surrounding environment makes them less connected to their heritage.</p>
+
+<p dir="ltr">Research consistently shows that children benefit from bicultural identities, valuing both heritage culture and the broader society they live in. When these identities feel compatible rather than competing, they support psychological well-being and a stronger sense of belonging.</p>
+<p dir="ltr">Children who feel solely responsible for preserving culture experience tension between authenticity and obligation. They feel they must choose between personal growth and cultural loyalty. This pressure can complicate identity development, when identity needs room to evolve alongside changing experience.</p>
+
+<h2>Supporting Culture Without Creating Burden</h2>
+<p dir="ltr">Cultural continuity is strongest when children feel invited to participate. Families can share cultural traditions across generations instead of resting them on one child’s shoulders.</p>
+<p dir="ltr">Parents can help by explaining the meaning behind traditions, sharing family stories, and giving children room to take part. When children understand why certain customs matter, they develop genuine appreciation rather than a sense of obligation.</p>
+
+<p dir="ltr">Culture also evolves naturally. Families adapt traditions, languages shift across generations, and children develop identities shaped by both their heritage and the society in which they live. These changes do not signal cultural loss. Instead, they show how culture continues to grow in new contexts.</p>
+
+<p dir="ltr">Letting children engage with culture in their own way supports both connection and healthy development. Families can emphasize shared values, relationships, and belonging, rather than measuring commitment by flawless language proficiency or strict adherence to every tradition. </p>
+<p dir="ltr">When cultural preservation becomes a collective family effort, children stay connected to their heritage with pride.</p>
+
+<h2>Conclusion</h2>
+<p dir="ltr">Culture is not preserved by one child alone. It continues through families, communities, and generations sharing stories, traditions, values, and language over time. Children play an important role in this process, but they should not feel that the future of their heritage depends entirely on them.</p>
+
+<p dir="ltr">When families approach cultural continuity as a shared and evolving process, children stay connected to their roots while remaining free to define themselves. In doing so, cultural preservation becomes less about carrying a burden and more about participating in a living tradition that grows alongside each new generation.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/empowering-children-of-immigrants/202607/why-immigrant-children-can-feel-pressured-to-preserve" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/empowering-children-of-immigrants/202607/why-immigrant-children-can-feel-pressured-to-preserve</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/empowering-children-of-immigrants/202607/why-immigrant-children-can-feel-pressured-to-preserve</guid>
+            <dc:creator><![CDATA[Su Yeong Kim Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/tamara-govedarovic-uvdd76lnywa-unsplash.jpg?itok=bN94GsEj" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cultural Evolution of Calorie Recommendations]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/pt_profile_pic_troscianko_oct_2017.jpg?itok=vertU7Wg" alt="Emily T. Troscianko" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Memes</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Cultural Evolution of Calorie Recommendations</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How the 2,000 kcal/day meme was born and grew up.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The meme is Earth’s second replicator, evolving, as the gene does, via replication, variation, and selection.</li><li style="margin-bottom:6px;">The idea that we should eat 2,000 calories a day dates to 1993 and has proven a remarkably successful meme.</li><li style="margin-bottom:6px;">The 2k meme has spread via cultural niche construction and human behaviour, identity, and cognitive bias.</li>
+            </ul>
+          </div>
+                    <p><em>This post is Part 3 of a series. Part 1 can be found </em><a href="https://www.psychologytoday.com/us/blog/a-hunger-artist/202605/the-problem-with-eating-and-moving-by-numbers"><em>here</em></a><em>, and Part 2 can be found </em><a href="https://www.psychologytoday.com/us/blog/a-hunger-artist/202606/the-numbers-that-try-to-tell-us-how-to-eat-and-move"><em>here</em></a><em>.</em></p>
+<p>Ideas and habits spread amongst humans for many reasons, many of which have little to do with whether they are good for us or not. In this series, we’re looking at how numerical the Western world has made eating and exercise. A touch of cultural evolution theory may help us think about how and why this trend might have spread other than “because it’s a good thing.” </p>
+
+<p>Everyone knows about one of the replicators this planet is home to: the gene. A simple “evolutionary algorithm” acts on genetic material via the mind-bending power of its three-step process: replication, variation, and selection. The brilliance of Darwin’s realization was that when these three steps occur, design <em>must</em> arise—with no need for a designer. Philosopher Dan Dennett (1995) called this “the single best idea anyone ever had.”</p>
+
+<p>Not so many people know about the second replicator alive and kicking on this planet: the meme. It’s funny how the idea of internet memes took the technical term and kept the idea of information spreading like a virus but lost the link to how the spreading happens: via the evolutionary algorithm. The term was coined at the end of Richard Dawkins’ (1976) <em>The Selfish Gene </em>to designate a unit of cultural transmission subject to the same evolutionary process as the gene:</p>
+
+<p>Examples of memes are tunes, ideas, catch-phrases, clothes fashions, and ways of making pots or of building arches. Just as genes propagate themselves in the gene pool by leaping from body to body via sperm or eggs, so memes propagate themselves in the meme pool by leaping from brain to brain, via a process which, in the broad sense, can be called <em>imitation</em>.</p>
+
+<p>Memetics is the study of this second replicator. In the realm of ideas and habits, we humans like to imagine that we are the designers, making usually good decisions for usually good reasons. But if we take the meme’s-eye view, we look not like clever designers with foresight and purpose, but instead like the lumbering hosts on which innumerable circulating memes are trying to find a home before getting themselves passed on again. Like any replicator, memes will get themselves copied when they can, regardless of the benefits or harms to either the genes or the organisms. </p>
+
+<p>Let’s take one of the memes introduced in <a href="https://www.psychologytoday.com/us/blog/a-hunger-artist/202606/the-numbers-that-try-to-tell-us-how-to-eat-and-move">part 2</a>: the idea that 2,000 calories is a good amount to aim to eat every day. As I outlined, this notion has gained traction via a messy mixture of (1) dietary self-report of questionable accuracy plus (2) rounding down to ensure that postmenopausal women wouldn’t be encouraged to eat more—and, crucially, to make it simple and memorable. </p>
+
+<p>In 1993, when the decision about the daily calorie standard was being made, U.S. Department of Agriculture (USDA) dietary intake surveys of the time had generated a value of 2,350 as the average daily calorie consumption reported. Even this higher value was probably lower than true average needs (<a href="https://doi.org/10.3945/ajcn.113.065631">Redman et al., 2013</a>). But the U.S. Food and Drug Administration (FDA) rejected the idea of using 2,350 as the daily recommended allowance. They also rejected the idea of trusting the public with a range (1,600 to 2,200 for women, 2,000 to 3,000 for men—again, for women already lower than available data suggested). Instead, they opted for a number that was and remains “much lower than either measurements or estimates of the total energy needs of all but the smallest and most sedentary people” (Nestle &amp; Nesheim, 2012). </p>
+
+<p>The rationale for the choice was explicitly memetic: The people at the FDA decided (as Nestle and Nesheim put it) that 2,000 was “easier to use” than 2,350 and therefore “a better tool for nutrition education.” The 2k meme won out, and it has done a good job of winning out ever since—even though, as I’ll argue later in this series, it has done so much harm. </p>
+
+<h2>4 Contributors to the Success of the 200-Calorie Meme</h2>
+<p>The 2k meme has probably achieved memetic success by routes other than numerical simplicity. Here are four likely contributors:</p>
+<ol>
+<li><strong>Environment:</strong> The 2,000-calorie meme has altered its cultural environment in a way that makes it more likely to be copied. As soon as the FDA decided on 2,000, they knew that they would need to encourage people to use the number by putting calorie and other nutritional information everywhere, which meant working out in enormous detail everything from standard serving sizes to font sizes in a nearly 900-page <em>Federal Register</em> notice about labelling regulations, plus a long guide to reading the nutritional facts panel. They went so far as to specify, for example, that on food packaging, “Calories must be in a type size no smaller than 8 point.” All of this apparatus, already labyrinthine in 1993, has mushroomed to unimagined scope by 2026, from commercial food testing labs generating macro- and micronutrient evaluations to smartphone algorithms combining basal metabolic rate (BMR) estimates and heart-rate measurements into energy expenditure graphs. The existence of a 2k target claiming global applicability encourages the proliferation of these technologies of quantification.</li>
+<li><strong>Behaviour:</strong> In turn, the tech shapes our habits, encouraging us to eat less or giving us licence to “indulge.” As Sue Blackmore’s book <em>The Meme Machine</em> (1999) explores, the meme is protected by the behaviours that it induces in us. The 2k meme uses our behaviours (turning the packet over, choosing the option that has the fewest calories, buying the watch with the most accurate readings, skipping lunch before a dinner out…) to copy itself: to create more iterations of itself in the world and increase the likelihood that more will be created in the future. And as I’ll explore later, many of these behaviours tend in the direction of disordered eating.</li>
+<li><strong>Identity:</strong> All these everyday behaviours get reinforced by, and in turn reinforce, identity-related belief systems about being the kind of person who does this—who doesn’t overeat, who takes care of their body, who cares about their health. The primary guide for eating and movement behaviours has shifted from instincts to numbers—and we can now reframe this power shift as one from humans’ experience to memes’ replicator power. Counter-movements have arisen—<em>intuitive eating </em>emphasises attunement to hunger/satiety signals, for example—but they’re not mainstream. Human experiences and thus identities are, en masse, far more profoundly driven by the memes than even 20 years ago, let alone 200. </li>
+<li><strong>Cognitive bias:</strong> In some ways, we’re wired to be defenceless. For human minds, for example, precision is easily confused with accuracy: in “precision bias,” a more specific number is assumed to be more correct. So if your watch or your phone spits out a number at you—let’s say, 2689—and says that’s how much energy you used today, you’re inclined to infer that the number reflects reality in a reliable way. Maybe that’s also why the FDA rejected the idea of a range: It sounds like there’s less conviction behind it. This is a paradoxical flipside of the choice of 2k for memorability: We like (remember) round numbers for our rules, but we like (trust) un-round numbers for our measuring. Remembering that, <em>precision</em> aside, <em>inaccuracy</em> is at the heart of both may be one way to help reduce the unhelpful kinds of power they can have over us.</li>
+</ol>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/a-hunger-artist/202607/the-cultural-evolution-of-calorie-recommendations" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/a-hunger-artist/202607/the-cultural-evolution-of-calorie-recommendations</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-hunger-artist/202607/the-cultural-evolution-of-calorie-recommendations</guid>
+            <dc:creator><![CDATA[Emily T. Troscianko]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/nutritionlabel_jaidan899_wikimedia.png.jpg?itok=IfxHiWez" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Surprising Mental Health Effects of GLP-1 Weight Loss Drugs]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/Hartmann.png.jpg?itok=R0aXokT-" alt="Hartmann" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Surprising Mental Health Effects of GLP-1 Weight Loss Drugs</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">GLP-1 medications may be used to treat select psychiatric disorders.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">GLP-1 drugs are showing promise as part of a treatment plan for some mental health disorders.</li><li style="margin-bottom:6px;">There is more research data about GLP-1 use for depression and substance use disorders than other disorders.</li><li style="margin-bottom:6px;">GLP-1 drugs should not be used for eating disorders except when part of a research trial.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/stocksnap-people-2585648_1920.jpg?itok=Dp2KLEhr" width="320" height="480" data-insert-type="image" alt="Young woman eating junk food." title="StockSnap / Pixabay"></div>
+<div class="caption">Young woman eating junk food.</div>
+<div class="insertArea--origin subtext">Source: StockSnap / Pixabay</div>
+</div>
+</div>
+</div>
+<p>GLP-1 medications are effective for the treatment of overweight, obesity, and type 2 diabetes. Emerging evidence has suggested that the GLP-1 medications may also be useful for the treatment of some psychiatric disorders. </p>
+<p>People with diabetes and/or obesity "have an elevated risk of developing depression, anxiety, and suicide" (Taipale, 2026). There is good evidence that GLP-1 drugs can improve these co-morbid conditions in some patients.</p>
+
+<p>GLP-1 is a hormone secreted from the intestinal tract triggered by eating food. It stimulates insulin release from the pancreas, slows stomach emptying, and makes people feel full. </p>
+<p>GLP-1 is also produced in the brain and affects nerve function, "energy balance, appetite regulation, and brain rewards from food and drug intake" (Angarita, 2021). It also decreases inflammation and oxidative stress, which are implicated in the development of depression and anxiety (Gunturu, 2024). </p>
+
+<h2>Depression</h2>
+<p>Several studies "show improvement in depression symptoms following treatment with GLP-1" (Gunturu, 2024). For example, one study showed a significant reduction in depression scores in subjects taking GLP-1 compared to subjects taking a placebo (Chen, 2024).</p>
+<p>In addition to improvements in depressive symptoms, GLP-1 has "been shown to have neuroprotective...properties" (Cooper, 2023).</p>
+
+<p>In contrast, one research trial using GLP-1 drugs on obese research subjects did not show a benefit from GLP-1 in the prevention of depression, anxiety, and suicidal behavior (Kornelius, 20240). However, this study did not address whether the depressive subjects improved on these medications.</p>
+<p>When GLP-1 drugs were first released, the FDA did surveillance for possible negative side effects. There was early evidence suggesting that suicidal ideation and behavior were more common among people taking these drugs. However, new data convinced the FDA that GLP-1 does <strong>not</strong> increase the risk of suicidal ideation or behavior (Drug Safety Communication, 2026). </p>
+
+<p>An example of research supporting the FDA's new position is a study showing GLP-1 is "not associated with an increased risk of psychiatric adverse events or worsening depression symptoms" (Pierret, 2025).</p>
+<h2>Substance Use Disorders</h2>
+<p>Evidence supports the use of GLP-1 medications for "treating alcohol and other substance use disorders" (Farokhnia, 2026). This is not surprising because GLP-1 medications "inhibit dopamine release in the brain's reward center" (Laurindo, 2022).</p>
+
+<p>Alcohol use disorder treatment by GLP-1 medication is the best studied of the chemical addictions. In one study, "low dose semaglutide reduced the amount of alcohol consumed, fewer drinks per day, and decreased weekly craving" (Hendershot, 2025).</p>
+<p>In another study, a GLP-1 drug "significantly reduced heavy drinking days and total alcohol intake in a subset of obese patients" (Klausen, 2022). In this study, only obese research subjects had a reduction in alcohol use.</p>
+
+<p>Overall, it appears that overweight, obese, and/or diabetic research subjects have better results than normal-weight subjects when using a GLP-1 medication to treat a substance use disorder (Marquez-Meneses, 2025).</p>
+<p>In addition to alcohol use disorder, other substances have also been studied, "such as psychostimulants, opioids, and nicotine" (Bruns, 2024). Nicotine addiction from smoking and vaping is an ongoing public health challenge. Stopping smoking can be challenging. "One major barrier to long-term smoking abstinence is body weight gain during withdrawal" (Herman, 2024).</p>
+
+
+<p>Studies have shown that GLP-1 reduces the voluntary use of nicotine and prevents withdrawal-induced overeating and weight gain (Herman, 2024). Also, evidence suggests that "GLP-1 improves cognitive deficits, as well as depressive- and anxiety-like behaviors, which contribute to smoking relapse during withdrawal" (Herman, 2024).</p>
+
+<h2>Eating Disorders</h2>
+<p>Binge eating disorder (BED) is the most common specific eating disorder (Himmerich, 2024). "BED is frequently associated with attention-deficit hyperactivity disorder, depression, bipolar disorder, anxiety disorders, alcohol and nicotine use disorder, and obesity" (Himmerich, 2024). </p>
+<p>Although the role of GLP-1 medication in the treatment of BED is not established, research has shown that these medications reduce "binge eating in individuals with obesity or overweight" (Himmerich, 2024). Also, research suggests that there may be neuropsychiatric effects from GLP-1 use that provide risk reduction for binge eating disorder (Choudhury, 2026).</p>
+
+
+
+  
+
+
+<p>Unfortunately, some individuals use GLP-1 medications "to maintain their eating disorders (e.g., anorexia nervosa, bulimia nervosa, and binge eating disorder) through rapid dietary restriction and weight loss" (Peiper, 2026). This is an unsafe practice and should not be done.</p>
+<h2>Weight Gain from Antidepressants and Antipsychotics</h2>
+
+<p>Weight gain is a well-known side effect of many of these medications. Some people stop taking their medication because of weight gain.</p>
+<p>There are recommendations for pharmacologic treatment of weight gain from these medications. For example, one recommendation is to add "metformin or GLP-1" drugs to manage weight gain from these drugs (Solmi, 2024; Mouawad, 2025).</p>
+
+<p>In one study, GLP-1 was given for 30 weeks to patients with schizophrenia who had prediabetes and obesity. The results showed that the treatment "was safe, lowered blood glucose and weight" (average loss of 20.3 pounds), "and improved physical quality of life without worsening mental health" (Ganeshalingam, 2025).</p>
+
+<h2>Anxiety Disorders</h2>
+<p>There is less human research on the use of GLP-1 medications to help manage anxiety. Good studies of animals given GLP-1 have shown "consistent reduction in anxiety-like behavior and improved biological markers related to stress resilience, while clinical cohorts (i.e., human studies) demonstrated mixed but suggestive evidence of reduced anxiety incidence and lower suicidal ideation risk" (Yi, 2026).</p>
+
+<h2>The Bottom Line</h2>
+<p>GLP-1 medications are evolving as a potential treatment for several mental health disorders. Depression and substance use disorders have more data than others. More extensive studies are needed before a definitive recommendation can be made for when and how to use GLP-1 medications and what dose is optimal for this purpose.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-mind-doctor/202607/surprising-mental-health-effects-of-glp-1-weight-loss-drugs" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-mind-doctor/202607/surprising-mental-health-effects-of-glp-1-weight-loss-drugs</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-mind-doctor/202607/surprising-mental-health-effects-of-glp-1-weight-loss-drugs</guid>
+            <dc:creator><![CDATA[Peter M. Hartmann, MD, DLFAPA]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/stocksnap-people-2585648_1920.jpg?itok=oKdSXSc_" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Human Collaboration Has a Vital Negativity That AI Does Not]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/deepak_sirdeshmukh.png.jpg?itok=HBR0CwbD" alt="Deepak Sirdeshmukh M.S., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Human Collaboration Has a Vital Negativity That AI Does Not</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Relationships exert influence through negative nonverbal cues. AI does not, yet.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Strong relationships exert influence in an unusual way, through negative nonverbal cues and muttered asides.</li><li style="margin-bottom:6px;">Relational collaborators signal, suggest, and sometimes deliberately move our behavior through discomfort.</li><li style="margin-bottom:6px;">The signals that shape us in human collaboration are absent while working with an AI model alone.</li>
+            </ul>
+          </div>
+                    <p>Working relationships are not productive simply because colleagues share sustained positive feedback. Strong relationships exert influence in an unusual way, through negative nonverbal cues, dismissive gestures, and muttered asides. That is the real stuff of work that ultimately helps create something of value.</p>
+
+<h2>How Subtle Reactions Shape Decision-Making in Teams</h2>
+<p>The people we work with and trust do not simply tell us what to do; they shape our choices through reactions we absorb: a colleague's slight hesitation, a mentor's shift in tone, the meaningful shrug. We often revise our thinking, our decisions, and our actions in response to these signals, which carry meaning as vivid as the spoken message. Research on nonverbal behavior bears this out. Ambady and Rosenthal found that brief samples of a person's expressive behavior—the face, the posture, the tone—carry enough information for observers to make accurate judgments about that person, often more reliably than words do.</p>
+
+<p>Relational collaborators signal, suggest, and sometimes deliberately move our behavior through discomfort. A graphic designer I am working with can show unhappiness with a choice I have made, and that reaction leads me to reconsider and often to change the decision. Part of this is due to the designer's professional skill, but a great part of it is relational. The disapproval carries weight because it comes from a person whose judgment I have come to trust and whose regard I would rather keep than lose.</p>
+
+<p>The same holds when working with a software developer, a writer, or a key advisor. The dynamic runs in reverse as well. I might show unhappiness, consciously or not, and the other person reads it, weighs where it is coming from, mulls it over, and adjusts. A collaborator's displeasure moves us more than the same collaborator's praise, given the higher weight that negative signals typically carry.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/twins_bg_light.jpg?itok=DEQQYwgT" width="320" height="240" data-insert-type="image" alt="Nonverbal Cues And Relational Collaborations" title="Deepak Sirdeshmukh"></div>
+<div class="caption">Nonverbal Cues And Relational Collaborations</div>
+<div class="insertArea--origin subtext">Source: Deepak Sirdeshmukh</div>
+</div>
+</div>
+</div>
+<p>Behavioral science supports the dynamics I am describing. When I change a decision to relieve a collaborator's expressed displeasure, that is negative reinforcement, an operant process in which a behavior that removes an unpleasant state is strengthened. Mowrer's two-factor theory suggests that anticipatory behavior requires both classical and operant processes working together. Classical conditioning first associates the unease with a cue, and operant conditioning then rewards the action that relieves the unease. What gets reinforced is not the removal of the displeasure itself, which may never arrive, but the relief from anticipating it.</p>
+
+<p>Bandura's social cognitive theory points to similar outcomes but stemming from expectations formed in advance. For Bandura, we do not simply absorb consequences; we form expectations about what an action will produce, and we act on those expectations before any consequence materializes. We also learn by watching a person we regard, modeling their judgment rather than waiting to be rewarded or corrected. When I anticipate a developer’s reaction and adjust before suggesting an update to a project, I am acting on an expectancy built from a relationship, not responding to a stimulus in front of me.</p>
+
+<h2>The Absence of Relational Dynamics in Collaboration With AI Models</h2>
+<p>These complex dynamics, often carried in nonverbal negative signals, are the part that has gone missing when I work with a large language model. The models have added efficiency and creativity to a variety of tasks in ways I had not anticipated. That said, no matter how much I invite the model to push back, in the end it supports the choice I have already made, or it has no real stake in the choice at all. The signals that shape me in human collaboration, often delivered as asides and often persisting long after a decision or discussion, are absent. There is no displeasure to relieve, no regard to keep, no relationship in which my choice carries any weight for the other party.</p>
+
+<p>Some aspects might get captured as multimodal artificial intelligence becomes commonplace: systems that pair language with video, expressive on-screen avatars, physical robots. A pause, a change in tone, a shift in what is visible on a screen could all be simulated to show something like displeasure.</p>
+
+<p>What cannot be manufactured is the relational core of the exchange, the fact that the other person's regard is real and that I stand to keep it or lose it. Baumeister and Leary argued that the need to belong, to form and keep interpersonal attachments, is a fundamental human motivation, and that the prospect of losing an attachment moves us on its own. This is why a collaborator's regard has force. It is not merely information about my choices; it is a bond I would rather not damage.</p>
+
+
+
+  
+
+
+<p>That is one reason I keep a trusted person involved in any work I do with a model rather than work with the model alone. The pushback, the frown over a Zoom call, the shrug emoji in a text—all of these exert powerful influence on collaborations and the outcomes they reach. It may be another reason working with people continues to matter, even as the tools grow more capable and more human-like.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/patient-trust-matters/202607/human-collaboration-has-a-vital-negativity-that-ai-does-not" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/patient-trust-matters/202607/human-collaboration-has-a-vital-negativity-that-ai-does-not</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/patient-trust-matters/202607/human-collaboration-has-a-vital-negativity-that-ai-does-not</guid>
+            <dc:creator><![CDATA[Deepak Sirdeshmukh M.S., Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/twins_bg_light.jpg?itok=AqRPVzE_" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Got Relationship Stress? Take the Ocean View]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/beth_kurland.jpg?itok=ASq2a89b" alt="Beth Kurland Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Stress</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Got Relationship Stress? Take the Ocean View</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Five steps for gaining perspective when stress gets the better of you.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">When in the grips of stress, we lose our ability for seeing a big picture and get stuck in "small self-view."</li><li style="margin-bottom:6px;">When we get stuck in small self-view during relationship conflict, we lose capacity for perspective taking.</li><li style="margin-bottom:6px;">Learning how to take the "Ocean View" allows for more flexible and expansive thinking and for connection.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/openclipart-vectors-argument-2022605_1920.png.jpg?itok=ylNvbDZi" width="320" height="487" data-insert-type="image" title="Openclipart-Vectors / Pixabay" alt="Openclipart-Vectors / Pixabay"></div>
+<div class="insertArea--origin subtext">Source: Openclipart-Vectors / Pixabay</div>
+</div>
+</div>
+</div>
+<p>Several months ago I watched captivated as the Artemis II capsule catapulted through the Earth’s atmosphere at 25,000 miles per hour, was enveloped by temperatures of 10,000 degrees Celsius, and splashed down into the Pacific Ocean, bringing its four astronauts safely home after traveling farther from Earth than any human has done. Nothing like a little space travel to put things into perspective.</p>
+
+<p>On my morning walk the next day, I was greeted by both the rising sun and the crescent moon, and I thought about the magnificent photos of the moon and Earth taken from outer space on this latest space excursion. I am, after all, just a speck in a cosmic universe.</p>
+<p>That shift of perspective is so counter to what I, and most of us humans, experience much of the time. This is especially so when in the grips of stress. It is what I call the “small self-view.” Opposite to seeing the big picture and putting things in a wider frame, we see things from the perspective of me, myself, and I. This can be especially unhelpful and present obstacles when it comes to relationships. When caught in the small self-view in the midst of stress or interpersonal conflict, this narrow focus and tunnel vision can limit our thinking and behavioral repertoire in ways that can often make it hard to see the other’s perspective. </p>
+
+<p>In the grips of stress (when our nervous system perceives “threat” of some kind), it makes sense that our body mobilizes into this survival state. If I’m running from a tiger, I don’t have the luxury of taking in the surroundings, the periphery, the expansive sky, or the flowers growing in the far-off field. My body, flooded with stress chemicals, wants to do one thing, and that is to survive by fighting or escaping. Those Stone Age ancestors who stopped to ponder a bigger picture or notice the flowers likely didn’t live long enough to pass their genes on to us.</p>
+
+<h2>How to Know if You’re in Small Self-View</h2>
+<p>Some signs of small self-view include body constriction, tightening, tense muscles, shallow breathing, narrow focus of attention, feeling defensive in an interaction (like you need to protect yourself), tunnel vision, and inability to see a bigger picture.</p>
+<p>This is not “bad.” Sometimes this state can be necessary and adaptive (especially if there is a true threat of some kind). But much of the time we can benefit from a more expansive vantage point.</p>
+
+<h2>Enter the "Ocean View"</h2>
+<p>Imagine looking out at the ocean. From the perspective of the wave, it may think of itself as a single, isolated wave; but you, the onlooker, can see that that wave is connected to and part of the vast ocean. The wave is just a small part of something much more expansive and interconnected. </p>
+
+<p>When we can take the Ocean View, this offers us a great deal more cognitive and behavioral flexibility (we can see things from the widest perspective and make choices that may not otherwise feel accessible when locked in a narrow mindset).</p>
+<p>The Ocean View, which I write about in my book <a href="https://www.amazon.com/You-Dont-Have-Change-Everything/dp/0757325025/ref"><em>You Don’t Have to Change to Change Everything</em></a>, is not just a shift in perspective but, importantly, a shift in physiology. When our nervous system is in a state of greater regulation and balance, the sympathetic branch of our nervous system works in harmony with the parasympathetic branch (mediated by the ventral branch of our vagus nerve). There is a natural shift in perspective when this occurs. <a href="https://wwnorton.com/books/9780393712377">From a nervous system grounded in safety</a>, our stress response dials down, and we have access to a bigger picture. The world looks different. There is more possibility for connection and seeing other points of view.</p>
+
+<p>Think about being really angry at someone and believing it’s your way or the highway. Then, when you cool down, you realize there are other ways of looking at the situation and maybe things aren’t as all-or-nothing as you thought.</p>
+<h2>Stepping Out of Small Self-View Into the Ocean View</h2>
+<p><strong>1. Think about some typical moments when you get caught in small self-view.</strong> Perhaps it’s when yelling at your teenager to do something you’ve asked them to do 10 times already, or in an argument with your partner, or at work when that particular coworker pushes your buttons, or when you just have way too much to do and are running around in a state of frenzy.</p>
+
+
+<p><strong>2. Notice what small self-view </strong><em><strong>feels </strong></em><strong>like.</strong> Bring awareness to your body. Do you feel tight, constricted, tense? Is your breathing shallow? What thoughts are going through your mind? Are those thoughts exaggerated, extreme, distorted, or self-focused? What emotions are present? Can you just name what is there (anger, frustration, anxiety, irritation, or something else) without judgment? Noticing and naming in this way can <a href="https://pubmed.ncbi.nlm.nih.gov/17576282/">help dial down our inner alarm system</a>.</p>
+
+<p><strong>3. Take a minute to do something to help calm and regulate your nervous system.</strong> See what it might need. If you are very tense and agitated, sometimes lightly shaking the body can help (e.g., lightly bouncing on your heels as you gently shake your legs, arms, hands, and shoulders to release tension). </p>
+
+
+
+  
+
+
+<p>For many people, regulating one’s breathing is a very effective way to activate the vagus nerve and parasympathetic branch of the nervous system. In particular, gentle inhalations through your nose and long, slow exhalations (try exhaling through your mouth) can be helpful. </p>
+<p>Other forms of nervous system regulation might include pausing to bring awareness to your five senses and naming five objects you see, four things you can hear, and three things you can touch, two things you can smell, and one thing you can taste. Or, you might go to a nearby window and shift your visual field so you are <a href="https://www.scientificamerican.com/article/vision-and-breathing-may-be-the-secrets-to-surviving-2020/">gazing out at the horizon</a> or the farthest things that you can see. These can have a calming effect on your nervous system. </p>
+
+<p>As another strategy to try, directing visual attention to<a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10648"> green elements in nature</a> (such as looking at a tree) has been shown to reduce anxiety and increase well-being. </p>
+<p><strong>4. Once you notice a shift in your nervous system</strong> and begin to feel more settled, grounded, aware, calmer, etc., <strong>imagine taking a helicopter view of the situation</strong> you are in. From this vantage point, what can you notice that you might not have noticed before? </p>
+
+<p>Using the examples from question one above, perhaps you notice that your teenager is sad and moody because things aren’t going well for them socially, and their shutting you out is a byproduct of their nervous system shutting down to protect themselves. Or you see that your partner may not have done this thing to <em>intentionally </em>upset you, or you wonder if your coworker might be dealing with some personal challenge outside of work that is causing a lot of inner suffering for them. If you have been running around in a frenzy and are on a short fuse, maybe you can see more clearly from this helicopter view what the biggest priorities are and what you might be able to let go for today.</p>
+
+<p><strong>5. </strong>Consider how you want to move forward into the next moments of your day. <strong>Ask yourself what you could choose that would align with who you want to be and what values are important to you.</strong> Taking a <a href="//pubmed.ncbi.nlm.nih.gov/16262767/">values-based perspective</a> helps to further activate parts of the brain that turn down stress and lower cortisol levels in the body. In the example of the parent and teenager, focusing on being a parent who fosters and models healthy communication might just help shift the way you approach your teen to create a more win-win situation, both short-term and long-term.</p>
+
+<p>As human beings who experience stress, we commonly fall into small self-view time and again. Learning to take an Ocean View not only helps expand our perspective; it may also enrich our relationships and help us feel more connected and interconnected to the people around us and to this vast planet on which we live. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-well-being-toolkit/202607/got-relationship-stress-take-the-ocean-view" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-well-being-toolkit/202607/got-relationship-stress-take-the-ocean-view</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-well-being-toolkit/202607/got-relationship-stress-take-the-ocean-view</guid>
+            <dc:creator><![CDATA[Beth Kurland Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/openclipart-vectors-argument-2022605_1920.png.jpg?itok=71U0c1Mm" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Respond When an Adult Child Says "You Ruined My Life"]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image0_1_-removebg-preview.png.jpg?itok=9LsLSHnF" alt="Jeffrey Bernstein Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Respond When an Adult Child Says "You Ruined My Life"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What to say to an angry adult child and why it works.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">What you say to an angry adult child in the first 60 seconds matters most.</li><li style="margin-bottom:6px;">For parents, over-apologizing and defending themselves will backfire.</li><li style="margin-bottom:6px;">Three scripts can help parents validate pain without owning blame.</li>
+            </ul>
+          </div>
+                    <p>You tell yourself this time with your adult child is going to be a time of connection and positivity—and then, wham!—those painful words arrive without much warning. The parents I see for coaching recount Sunday dinner meltdowns, heated phone calls, or incendiary texts. For sure, I have heard stories of drama and pain during holiday gatherings and even weddings. </p>
+
+<p>The words "You ruined my life," or similarly hurtful phrases, can rip your heart out as a parent. Based on my sessions with many struggling adult children, they are feeling a lot of pain and overwhelming emotions when they say those words. In the moment, parents tend to freeze up and default to one of two failing responses: They either collapse into an apology (I often hear from parents accused of "weaponizing" their tears) or they harden their defense. But neither of these responses meaningfully lowers the overall tension or lessens the fighting. </p>
+
+<h2>What to Say That Actually Works and Why</h2>
+<p>After a few decades of coaching families laden with emotional reactivity, I have found that what parents say in the first 60 seconds often matters more than anything they say afterward. Here are three responses that actually open the door to calmer, constructive conversations rather than impulsively slamming one shut.</p>
+
+<p><em>"You Sound Really Hurt and in a Lot of Pain. Tell Me More."</em></p>
+<p>Contrary to what many parents may believe (and I can see how it can feel counterintuitive), when you first acknowledge your adult child's pain—and that does mean you agree with their total perception—it can help both of you regulate your emotions. This type of response conveys that you can feel their hurt without needing to fix or refute it immediately. Many adult children aren't testing your guilt; they are testing whether you can stay present. </p>
+
+<p><em>"I Hear That You Are Really Angry With Me"</em></p>
+<p>The more you realize that anger is a surface emotion—with deeper ones such as frustration, shame, anxiety, and sadness lurking beneath—the easier it is not to be as rattled by it. Along these lines, anger at this often reflects a fear of disconnection. The more you can calmly acknowledge and hold a space for their anger, without apologizing, the more opportunity it creates to show that your relationship can hold hard feelings without breaking. Then you can calmly model constructive dialogue by saying something like, "Would you agree that if we can get to a place to talk about this calmly and constructively, it'll help us both get to a better place?"</p>
+
+<p><em>"I Love You, and I'm Not Going to Accept Blame for Your Whole Life"</em></p>
+<p>As I describe in my new book, <em>You Ruined My Life—Now You Owe Me</em>, the topic of over-the-top, misplaced blame frequently comes up when I work with parents and adult children. When adult children cast blame for their struggles on their parents, it converts (within the parents' mind) into incessant guilt. This blame-guilt cycle does not bode well for constructive dialogue and problem-solving. The statement, "I love you, and I'm not going to accept blame for your whole life," is the heart of what I call moving from fixer to coach. The fixer says, "Let me make this right for you." Yet when you say something like, "I believe you can work through this, and I am still here," you shift into a more effective coach/mentor mindset.</p>
+
+<h2>The Takeaway </h2>
+<p>The above soundbites are not meant to serve as a rigid script but as tools for adopting a mindset that is calmer and firmer, yet non-controlling. These phrases are meant to help you stay calm, connected, and constructive rather than reactive, defensive, or shutting down. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202607/how-to-respond-when-an-adult-child-says-you-ruined-my-life" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202607/how-to-respond-when-an-adult-child-says-you-ruined-my-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202607/how-to-respond-when-an-adult-child-says-you-ruined-my-life</guid>
+            <dc:creator><![CDATA[Jeffrey Bernstein Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/distant_adult_daughter_pexels-cottonbro-5493800.jpg?itok=ro3IbOTv" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Asterisk Version of Family]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/IMG_3472_Copy_Copy_Copy_Copy-removebg-preview.jpg?itok=K8cNzEFs" alt="Fenella Das Gupta Ph.D., MFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Family Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Asterisk Version of Family</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The hidden struggles and emotional complexities of sperm and egg double donation.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Double donation challenges our deepest assumptions about family and genetics.</li><li style="margin-bottom:6px;">Couples face questions, double binds, and uncertainty that few people understand.</li><li style="margin-bottom:6px;">Belonging grows through lived experience, not shared DNA.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-07/shutterstock_771111835.jpg?itok=m-WAOoHG" width="639" height="472" data-insert-type="image" title="Giovanni Cancemi/Shutterstock" alt="Giovanni Cancemi/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Giovanni Cancemi/Shutterstock</div>
+</div>
+</div>
+</div>
+<p>A double donation of sperm and eggs; a baby carried by the intended mother and raised by the intended parents, but genetically not related to either of them.</p>
+<p>You've probably met a family built through double donation, but would you know?</p>
+<p>More of these families exist now than at any point in history.</p>
+<p>We don't even know how many double-donor families there are. But we do know this: in the UK, one of the few countries that keeps track, double-donor cycles have increased dramatically since 1991 (Human Fertilisation and Embryology Authority [HFEA], 2021). The US doesn't track these families at all (Centers for Disease Control and Prevention [CDC], 2024). And in lots of countries, creating embryos this way is not even legal (International Federation of Fertility Societies [IFFS], 2021).</p>
+
+<p>Double donation challenges one of our deepest assumptions about what makes a family a family: genetics. It stretches us enough to come to terms with egg or sperm donation alone, so the loss of both is harder. More confronting, as they don't fit into the stories we traditionally tell ourselves about families.</p>
+
+<h2>The Asterisk Version</h2>
+<p>Our society only counts what it has a conceptual category for. You've seen it in the school family tree project. In the term 'real' as in real mother, or real father. Our culture treats genes as the gold standard of belonging. Everything else? A workaround.</p>
+<p><em>"I tried to explain it to my great aunt, who told me it's very unnatural. Well, I suppose... I mean, yes, I feel so embarrassed." —Rachaeli and Simon*</em></p>
+
+<p>Double-donor families disrupt the genetic model of family so completely that culturally, we have still to develop a space for them. Society places an asterisk beside these families as if they are somehow so completely different from the rest of us that they don't fit in. The asterisk version is true or real, but with an exception. Surely we can do better.</p>
+
+<h2>No Language for This</h2>
+<p>We rarely talk about the multitude of complexities these families face.</p>
+<p><em>"Friends and family look at us like, is there even a point?</em></p>
+<p><em>Jake's dealing with his own shame about his sperm count. He says at least I get to carry the baby, and that legitimizes it. He has no genes and no pregnancy. He struggles with his role. He feels like he won't see me or himself in a child, and so it's just his presence. Is that enough?</em></p>
+
+<p><em>On his dark days, he says, 'Will I just be a cash cow to the child?' He knows that's not true.</em></p>
+<p><em>This is our only chance. Do we not take it because of all the stuff that comes with it?" —Roni and Jake*</em></p>
+<p>*Details changed for privacy.</p>
+<h2>The Questions</h2>
+<p>In single donation, one parent acts as the genetic bridge between the child and family. In double donation, that bridge disappears and the couple has to build 'belonging' without it.</p>
+
+<p>Here's some of what Roni and Jake were grappling with:</p>
+<p>If we're genetically unrelated, will we still feel like the parents?</p>
+<p>Will we feel sad when we look at our child and see neither of us?</p>
+<p>Will carrying the baby make Roni feel more like a parent than Jake?</p>
+<p>What makes Jake the father when he has neither genes nor anything to outwardly show?</p>
+
+
+<h2>The Bind</h2>
+<p>Double donation creates numerous double binds.</p>
+<p>Tell people what you are going through, and you invite opinions. Keep it private, and you reinforce shame (Slade et al., 2007).</p>
+<p>Acknowledge that one parent carries the baby while the other has neither genes nor pregnancy, and you risk widening the gap. Ignore it, and one parent may feel isolated.</p>
+
+<p>Look for yourself in your child, and you won't find either parent. Tell yourself that genetics do not matter, and you deny your losses.</p>
+<p>Move forward, and you carry uncertainty about what this family will feel like. Walk away, and you may give up your only chance to become parents.</p>
+<h2>The Binds Are Real</h2>
+<p>There are two forces operating in these binds: societal pressure and internal psychological conflict, with the former impinging on the latter.</p>
+
+
+
+  
+
+
+<p>Society's investment in genetics is really about the existential fear of continuity ending. And, of course, the intended parents have also drunk the Kool-Aid. They, too, grew up believing that genes mean continuation, that we live on through our children. So when that ends, society's discomfort meets their own. The judgment comes from outside but finds its landing spot internally. Instead of questioning what society taught them about genes, they begin questioning themselves. Shame reverberates.</p>
+
+<p>It is worth noting that we do this in many areas of life, from academic success to career, marriage, and parenthood. We absorb society’s definition of what success should look like, then blame ourselves when our lives don’t fit it.</p>
+<p>Don't drink the Kool-Aid. Or at least spit some of it out.</p>
+<h2>Living Without Answers</h2>
+
+<p>Answers would be great, but how can you fully know the answers to these questions without living the experience?</p>
+<p>What Roni and Jake wanted when they came to me was to be rid of the fear and have a concrete plan. But underneath was a much deeper question: How can we move forward with this level of fear? Does the fear signal that we can't do this? And how do we cope with so much uncertainty?</p>
+
+<p>That became the real focus of our work. We explored coping styles, what they had drawn on in the past to get through difficult situations, and the inner resources they already possessed. It wasn't just what they thought, but how they responded to those thoughts.</p>
+<p>The real shift came when they accepted that they didn't have all the answers, but recognized they still wanted this child.</p>
+
+<p>Keeping why they wanted this child at the center became important. Maintaining a laser-like focus on that helped balance the fear and guide their thoughts and actions.</p>
+<p>In practice, when the fear got overwhelming they circled back to their central question: do we still want this child? The answer was always yes. So the fear didn't have to leave, it just didn't have to drive the bus.</p>
+
+<p>Roni and Jake now have a child conceived through double donation, and the joy outweighs the complicated, and sometimes crazy, questions they receive from others.</p>
+<h2>What Is Actually True</h2>
+<p>I know you know that genes do not decide who gets up at 3 a.m. time and again, for 18 years and beyond. So, I won't preach to the choir. And the research says the same. Families formed through third-party reproduction did not interfere with positive parent-child relationships (Golombok et al., 2023).</p>
+
+<p>One thing I have noticed in the parent-child relationship is a kind of sixth sense that develops between parent and child. Perhaps it comes from noticing subtle shifts in tone, expression, or body language (Feldman, 2007). Parents know things about their children that others simply don't. This happens regardless of genetic connection. They are the hallmarks of true connection and intimacy. They quietly say: I see you and I know you.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202607/the-asterisk-version-of-family" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202607/the-asterisk-version-of-family</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202607/the-asterisk-version-of-family</guid>
+            <dc:creator><![CDATA[S. Fenella Das Gupta Ph.D., MFT]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/shutterstock_771111835.jpg?itok=eh8NjOAe" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 Habits to Build Lasting Happiness Into Your Life]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Happiness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Habits to Build Lasting Happiness Into Your Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Social fitness, time affluence, and nature are key for a happy life.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/happiness_habits.jpg?itok=nD8vci20" width="320" height="320" data-insert-type="image" title="Vitaly Gariev / Unsplash" alt="Vitaly Gariev / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Vitaly Gariev / Unsplash</div>
+</div>
+</div>
+</div>
+<p>Most people think of happiness as a feeling: something that arrives when conditions are right and fades when they’re not. But the last decade of psychological science tells a different story. <a href="https://www.psychologytoday.com/us/blog/social-instincts%20%22XYZ%22">Happiness isn’t primarily a mood state</a>. It’s an output that emerges from the way your life is structured, the choices you make consistently and the environment you inhabit.</p>
+
+<p>Below are five <a href="https://www.psychologytoday.com/us/blog/social-instincts/202511/2-habit-changes-that-could-make-you-happier">science-backed habits</a> that researchers now believe are among the most powerful contributors to lasting well-being, not the fleeting kind, but the kind that compounds over time.</p>
+<h2>Habit 1: Invest in Your Relationships Like Your Life Depends on It (Because It Does)</h2>
+<p>The <a href="https://www.lifespanresearch.org/harvard-study/history/">Harvard Study of Adult Development</a>, one of the longest-running studies on adult life ever conducted, has tracked participants for over 80 years. Its conclusion, published and elaborated upon repeatedly in recent years, is striking: relationship quality predicts happiness, physical health, cognitive resilience and longevity — outperforming wealth, career success and even IQ as predictors of a good life.</p>
+
+<p>Researchers now speak of social fitness as a core health behavior, comparable to exercise or sleep in that it requires regular, deliberate investment to maintain. A renowned <a href="https://pubmed.ncbi.nlm.nih.gov/25910392/">2015 meta-analysis</a> found that social isolation carries health risks comparable to smoking 15 cigarettes a day. <a href="https://doi.org/10.1177/1745691615570616">Recent biological research</a> has linked loneliness to systemic inflammation and disease pathways. </p>
+
+<p>We are not just emotionally dependent on connection; we are physiologically wired for it. This is why you need to treat relationship maintenance as non-negotiable. Whether you schedule it or simply show up. The returns, research suggests, are irreplaceable.</p>
+<h2>Habit 2: Protect Your Time More Fiercely Than Your Money</h2>
+
+<p>One of the most important insights from behavioral science in recent years is that this feeling of “time poverty” is one of the most corrosive forces acting on well-being.</p>
+<p>Researcher Ashley Whillans of Harvard Business School has <a href="https://pubmed.ncbi.nlm.nih.gov/28739889/">extensively documented</a> this phenomenon. In her research, people who report feeling chronically time-poor (overwhelmed, rushed, without control over their daily hours) consistently score lower on measures of life satisfaction, positive affect, and mental health. </p>
+
+<p>Conversely, using money to buy back time (outsourcing chores, paying for convenience, simplifying obligations, among others) is associated with greater well-being than spending the same money on material goods. Further research confirms this. A key <a href="https://www.pnas.org/doi/10.1073/pnas.1706541114">2017 study</a> published in <em>PNAS</em> found that people who prioritized buying time over buying things reported significantly higher life satisfaction, yet relatively few people actually made this trade-off, suggesting a systematic miscalculation in how we allocate resources.</p>
+
+<p>Before your next major financial or career decision, ask not just “what does this pay?” but “what does this cost me in time and autonomy?” Time affluence, or the felt sense that you have enough time and can direct how you spend it, is a well-being resource that money cannot directly buy but can sometimes purchase back.</p>
+
+<h2>Habit 3: Seek Experiences That Challenge (and Not Just Comfort) You</h2>
+<p>The standard model of a good life emphasizes happiness and meaning. But groundbreaking <a href="https://pubmed.ncbi.nlm.nih.gov/34383524/">2022 research</a> published in <em>Psychological Review </em>introduced a third dimension that changes the picture considerably: psychological richness.</p>
+<p>A psychologically rich life is not necessarily easy or pleasant. It is characterized by novelty, complexity, growth, and perspective-changing experiences. Experiences like travel, creative challenges, difficult learning and voluntary discomfort don’t always maximize immediate comfort, but they produce a life that, in retrospect, feels deep, varied and worth having lived.</p>
+
+<p>In cross-cultural research spanning multiple countries, the researchers found that a meaningful portion of people, when asked what kind of life they’d want to have lived, chose the psychologically rich life over the happy or meaningful one, suggesting it represents a genuinely distinct human aspiration. People who perpetually optimize for comfort often find, years later, that their memories are thin and interchangeable. People who accept challenge, difficulty, and novelty accumulate a richer interior archive.</p>
+
+
+
+  
+
+
+<p>To exercise this habit, build in one experience per month that stretches you. It could be something unfamiliar, demanding, or perspective-altering. The short-term discomfort is often the price of a life that feels, when looking back, richly lived.</p>
+<h2>Habit 4: Spend on Others, Not Just on Yourself</h2>
+<p>In a <a href="http://doi.org/10.1111/sjop.12948">2023 systematic review</a>, examining data across dozens of studies and multiple cultures, researchers concluded that spending on others reliably produces positive effects on subjective well-being. The effect held across income levels, cultures, and types of giving, whether direct donation, buying something for a friend, or volunteering time.</p>
+
+<p>The authors argue that human psychology evolved in a context of deep interdependence. Contributing to others activates reward systems, reinforces social bonds and generates a sense of agency and significance that passive consumption cannot replicate. In short, we are not wired to be merely recipients. We are wired to give.</p>
+
+<p>Take this as a sign to<strong> </strong>build some form of regular giving into your life: financial, temporal, or relational. Even small acts of prosocial behavior, practiced consistently, accumulate into a meaningful uplift in well-being.</p>
+<h2>Habit 5: Spend 120 Minutes a Week in Nature (No Exceptions)</h2>
+<p>In a landmark <a href="https://www.nature.com/articles/s41598-019-44097-3">2019 study</a> published in <em>Scientific Reports,</em> researchers analyzed data from nearly 20,000 people and found that those who spent at least 120 minutes per week in natural environments reported significantly better health and psychological well-being than those who spent no time in nature. </p>
+
+<p>Crucially, the effect emerged at the 120-minute threshold: less time showed weaker results, and the hours could be accumulated across the week in smaller doses rather than requiring a single long outing.</p>
+<p>The mechanisms appear to involve reduced physiological stress responses, decreased rumination, and restoration of directed attention that daily cognitive demands deplete. Increasingly, researchers view exposure to nature not as recreation but as a basic input into human functioning. This means that exposure to nature is something our nervous system appears to require in ways that urban environments don’t provide.</p>
+
+<p>What makes this finding especially important is its accessibility. Unlike most well-being interventions, regular time in nature is largely free, requires no expertise, and works across cultures and demographic groups.</p>
+<p>The final habit is to treat 120 minutes of nature per week as a non-negotiable health behavior, equivalent to sleep or exercise. Break it into 20-minute daily walks if needed. The threshold is clear. The benefits are real.</p>
+
+<p><em>A version of this post also appears on Forbes.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202607/5-habits-to-build-lasting-happiness-into-your-life" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/social-instincts/202607/5-habits-to-build-lasting-happiness-into-your-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202607/5-habits-to-build-lasting-happiness-into-your-life</guid>
+            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/happiness_habits.jpg?itok=gzV5Py1X" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Struggling With Sunday Scaries After a Big Weekend?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-03/annie_mueller.png.jpg?itok=_Ojsmcdj" alt="Annie Mueller Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotions</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Struggling With Sunday Scaries After a Big Weekend?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">You had a weekend of adventure, and now you're dreading Monday.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The Sunday Scaries are feelings of dread, anxiety, and sadness regarding the transition back to life routines.</li><li style="margin-bottom:6px;">What we do to cope with the Sunday Scaries may help in the moment but make the anxiety worse over time.</li><li style="margin-bottom:6px;">It can help to separate feelings from facts, tackle small goals, limit screen time, and plan excitement.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/pexels-mart-production-8869303.jpg?itok=KEMyqGXJ" width="320" height="213" data-insert-type="image" alt="Sunday Scaries, albeit unpleasant, don't need to ruin the weekend. " title="MART PRODUCTION / Pexels"></div>
+<div class="caption">Sunday Scaries, albeit unpleasant, don't need to ruin the weekend.</div>
+<div class="insertArea--origin subtext">Source: MART PRODUCTION / Pexels</div>
+</div>
+</div>
+</div>
+<p>You know the drill: </p>
+<p>Friday takes forever to arrive. Once it does, it is met with a rush of excitement and relief. You head out of town, and the weekend passes in a blur of adventure. Suddenly, you find yourself bumping up to the weekend’s end.</p>
+<p><em>You wake up on Sunday with a knot in your stomach. </em></p>
+<p><em>Your thoughts spiral around to the pile of work waiting for you in the morning.</em></p>
+
+<p><em>You look around at heaps of laundry, gear to unpack, and an empty fridge, and immediately feel overwhelmed.</em></p>
+<p><em>You wonder why you can't just feel happy and relaxed after an exciting weekend away. </em></p>
+<h2>What Are the Sunday Scaries?</h2>
+<p>The Sunday Scaries are the feelings of pervasive dread, anticipatory anxiety, and sadness surrounding the end of the weekend and the transition back to life routines. For many, the Sunday Scaries marks the end of the most enjoyable, freeing part of the week and the return to “real life.” </p>
+
+<p>Sunday Scaries can especially rear their ugly head after a weekend away, as there may be minimal transition time before heading back to work. </p>
+<h2>Coping With Sunday Scaries</h2>
+<p>Here’s the thing: It’s not the Sunday Scaries themselves that derail the end of your weekend. How you <em>respond</em> to them dictates what happens next.</p>
+
+<p><em>Do you try to avoid the knot in your stomach by scrolling for an hour before getting out of bed?</em></p>
+<p><em>Do you avoid unpacking because it just feels so aversive?</em></p>
+<p><em>Do you stay up way past your bedtime watching Netflix to put off reality a little longer? </em></p>
+<p>These coping strategies can work well in the moment—and are sometimes necessary to make it through stressful times. The key is to understand how these coping methods are working for you in the short run as well as the long run. </p>
+
+<p><em>Does the dread actually go away, or does it just get worse? </em></p>
+<p>The good news is that there’s a different way to approach Sunday evenings.</p>
+<h2>Separate Feelings From Facts</h2>
+<p>Emotions are a messy, complex, and beautiful part of being human. They give us information, prepare us for action, and point to what matters. Emotions give life meaning and distinguish us from robots. </p>
+
+<p>And also: Emotions are not facts, even if they feel that way.</p>
+<p>Anxiety has a tricky way of convincing us that the worst-case scenario <em>will</em> happen: that things will be terrible, that we won’t be able to cope, and that everything is about to fall apart. </p>
+<p>Anxiety can be a very real and intense emotion, without being an accurate predictor of what will actually happen. </p>
+
+<p>“This week is going to be a disaster” is an emotion-driven thought. </p>
+<p>“I have six hours of meetings tomorrow” is a fact. </p>
+<p>Try this: The next time the Sunday Scaries hit, write a list of feelings and thoughts, and a list of facts about the week ahead (i.e., what’s actually on your schedule). Writing can feel cathartic and gives you a fresh perspective on what’s driving the dread and anxiety. </p>
+
+<p>More often than not, the facts are a lot less scary than the feelings made them seem, even if they are unpleasant (<em>Who likes six hours of meetings?</em>). </p>
+<h2>Make Re-entry 5 Percent Easier</h2>
+<p>I know how it goes at the end of a full weekend: There are no groceries, the laundry is overflowing, the house is a mess, and you are in desperate need of some vegetables. It feels totally overwhelming to think about jumping back into a work week when you could really use another two days just to catch up on life. </p>
+
+<p>Making an action plan can help, and you don’t need to overhaul your life to get there. Choose one or two small action steps that will make life even 5 percent easier in the week ahead. Get as specific as possible:</p>
+<ul>
+<li>Set a timer for 20 minutes and start unpacking.</li>
+<li>Schedule a grocery pick-up for after work Monday.</li>
+<li>Set aside one evening this week to catch up on life admin. </li>
+</ul>
+
+
+
+  
+
+
+<p>You probably won’t ever feel totally caught up on the to-do list—that’s a fact of life. And yet, action is the antidote to overthinking. </p>
+<h2>Put the Phone Down</h2>
+<p>I can comfortably run a mile in about nine minutes. It amazes me how long those nine minutes can feel; sometimes, it feels like a whole hour has passed (in a good way!). It feels like a total system reboot. I feel energized, alive, and back in my physical body. </p>
+
+<p>At the same time, nine minutes of screen time zips by in mere seconds. Time distorts in opposite directions depending on where our attention goes.</p>
+<p>Sunday Scaries <em>thrive </em>on screen time. Doomscrolling when you already feel anxious is like throwing gasoline on the fire of feeling bad.</p>
+<p>Break the cycle of dread and screen time by taking an intentional break. Turn your phone on silent for an hour or log out of social media altogether. </p>
+
+<h2>Plan Excitement</h2>
+<p>I’ve been harping on the importance of being present, but the truth is that sometimes we <em>need</em> to look to the future to cope. When we have something on the schedule that is fun and exciting, we not only get pleasure from the activity itself—we also get pleasure from <em>anticipating</em> the activity. </p>
+
+<p>Life can’t be all work with no play. Yes, it feels nice to have meals prepped and laundry done, but we also need to counterbalance labor with enjoyment.</p>
+<p>Combat the Sunday Scaries by making sure you have at least one activity that you feel genuine excitement about in the next week. It does not need to be anything complicated or expensive; it just needs to be something you enjoy. </p>
+
+<p>Examples:</p>
+<ul>
+<li>Go on a midweek trail run with a friend. </li>
+<li>Catch a sunset at the beach.</li>
+<li>Take dinner outside and plan a picnic somewhere you haven’t been.</li>
+<li>FaceTime your best friend.</li>
+</ul>
+<h2>Pay Attention to What the Sunday Scaries Are Telling You</h2>
+<p>Everyone inevitably experiences some degree of Sunday Scaries. If given the choice between responsibilities or no responsibilities, most of us would choose the latter in many instances. </p>
+
+<p>If your Sunday Scaries feel more like a deafening roar rather than a quiet whisper, it might be time to take a step back and explore what it might be pointing to:</p>
+<ul>
+<li>A job that no longer feels tolerable</li>
+<li>A deep need for more time alone</li>
+<li>A domestic load that feels completely unbalanced</li>
+<li>More time at home and less time on the road</li>
+</ul>
+
+<p>Whatever it might be, take some time to examine what the feelings might be telling you. You may not be able to make changes right now, but acknowledging them and creating space to explore is an excellent starting point. </p>
+<p><em>A version of this post also appears at summerlandpsych.com</em>.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202607/struggling-with-sunday-scaries-after-a-big-weekend" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202607/struggling-with-sunday-scaries-after-a-big-weekend</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202607/struggling-with-sunday-scaries-after-a-big-weekend</guid>
+            <dc:creator><![CDATA[Annie Mueller Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-mart-production-8869303.jpg?itok=uCshjg8l" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Birthday, AI—and Happy Birthday to You Too, Psychology]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/max_louwerse.jpg?itok=lWMmYq1s" alt="Max Louwerse Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Happy Birthday, AI—and Happy Birthday to You Too, Psychology</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The 70th birthday of AI is also the birthday of cognitive science and psychology.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">In the summer of 1956, “artificial intelligence” was coined.</li><li style="margin-bottom:6px;">During that same summer, the conception of cognitive science took place.</li><li style="margin-bottom:6px;">Historically, terminologically, and conceptually, psychology and AI are married.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/screenshot_2026-07-09_101324.jpg?itok=3JiVgtdB" width="320" height="181" data-insert-type="image" title="Max Louwerse" alt="Max Louwerse"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Max Louwerse</div>
+</div>
+</div>
+</div>
+<p>June 18, 1956 was a memorable day. It was the day the term “artificial intelligence” was coined at the start of the Dartmouth Summer Research Project on Artificial Intelligence at Dartmouth College in Hanover, New Hampshire. That workshop lasted from that day in June until August 17. The workshop was ambitiously aimed so that “every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.”</p>
+
+<p>Textbooks on artificial intelligence highlight the Dartmouth workshop as the start of artificial intelligence, but whether it actually started 70 years ago, or earlier with the Turing test in 1950, or with Ada Lovelace’s algorithms in 1840, is a matter of debate. In any case, textbooks highlight the impact artificial intelligence has had on computer science since the 1950s. This is no surprise; many of the attendees of the Dartmouth workshop were computer scientists interested in building thinking machines. What often gets forgotten is that many of the attendees (e.g., Marvin Minsky and Nathaniel Rochester) had a strong interest in psychology or had a position in psychology (e.g., Alan Newell and Herb Simon), or were psychologists invited for the workshop but unable to attend (e.g., George Miller and Duncan Luce).</p>
+
+<p>What often gets forgotten as well is the fact that on September 11, 1956, a workshop similar to the Dartmouth event took place at MIT, aimed at gathering information-theory researchers to discuss their work on coding, communication, signal detection, computation, and language. Nathaniel Rochester presented on Hebbian cell assemblies, George Miller on memory limits, and Alan Newell and Herb Simon on their problem solver. Some attendees were also present at the Dartmouth workshop, or at least were invited to it. George Miller later recalled the workshop as the “moment of conception” of cognitive science, the interdisciplinary field that brings together psychology, AI, linguistics, and philosophy, among other fields related to cognition.</p>
+
+<p>That MIT workshop also marked the start of what was later called “the cognitive revolution”, the shift in psychology away from B.F. Skinner’s behaviorism and back toward studying mind, cognition, and internal mental processes. Rather than solely emphasizing observable behavior, stimuli, responses, and reinforcements as an explanation for human psychology, the focus among psychologists started to shift to representations, rules, information processing, mental models, attention, memory, and computation. Whereas the Dartmouth workshop used computation to build intelligence, the MIT workshop used computation to explain cognition. And both workshops demonstrated the importance of interdisciplinary research when it comes to cognition and computation.</p>
+
+<p>Historically, psychology and AI had been engaged but they got married in 1956. Even though one could argue that the mathematics behind artificial neural networks—now called deep learning, the very backbone of artificial intelligence—could have evolved without psychology, historically it is difficult to imagine the rise and impact of deep learning and artificial neural networks without the work of psychologists such as Donald Hebb, Frank Rosenblatt, David Rumelhart and Jay McClelland.</p>
+
+<p>The relationship between psychology and AI is not merely historical. It is also terminological. Try to come up with a term in artificial intelligence that does not find its roots in psychology. It's very difficult. From concepts of intelligence and neural networks, consciousness and performance, to the process of learning—reinforcement learning or deep learning, training and recall—AI is heavily indebted to psychology for its terminology. Perhaps no wonder, if its goal is for a machine to be made that simulates human learning and intelligence.</p>
+
+<p>But conceptually, too, AI is married to psychology. Sure, computers are not human brains, so at the implementational level they look very different. However, at the information-processing level, it is worthwhile to look at the similarities and differences between the two, to understand one with the knowledge of the other. And no matter how much we sometimes would like to think that AI has moved in a direction very much detached from psychology, soon we realize their marriage bond. Take robotics. Even though in many cases a robot does not at all need to look like a human to be very efficient in its task, we would like to build robots that look like us—robots that have legs and a little face with lights that look like eyes. Even though a robot with a shovel might be much better at robot football, a robot with legs appeals more to us.</p>
+
+<p>Or take the large language models we are so familiar with. We finally established a machine to simulate human intelligence—the goal of the Dartmouth workshop—through language and communication, and we are impressed by the fact that its intelligent answers are so humanlike. Or we <em>complain</em> that it behaves so humanlike, when it hallucinates information, gives wrong facts, and confuses basic logic, just like real humans do.</p>
+
+<p>While we celebrate the 70th birthday of artificial intelligence, we can also celebrate the 70th birthday of the cognitive revolution and cognitive science. And we ought to celebrate the 70th birthday of the psychology of AI. Happy birthday, AI, and happy birthday to you, psychology.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202607/happy-birthday-ai-and-happy-birthday-to-you-too-psychology" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202607/happy-birthday-ai-and-happy-birthday-to-you-too-psychology</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202607/happy-birthday-ai-and-happy-birthday-to-you-too-psychology</guid>
+            <dc:creator><![CDATA[Max Louwerse Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/cake.jpg?itok=Mx7j62Iy" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Smart People Still Fall for Misinformation]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/bctr_web_color_clear_bg_0.jpg?itok=OQGTdzGI" alt="The Bronfenbrenner Center for Translational Research" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Smart People Still Fall for Misinformation</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A large international study suggests ways to combat misinformation.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A landmark study tested how people in 16 countries across six continents fall for and resist misinformation.</li><li style="margin-bottom:6px;">People who think more analytically are better at identifying misinformation, regardless of culture.</li><li style="margin-bottom:6px;">Reminders to think about whether something is true before sharing it reduced the spread of misinformation.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/adobestock_242330786.jpeg.jpg?itok=4H4lhtlX" width="320" height="160" data-insert-type="image" title=" Yeti Studio/Adobe Stock" alt=" Yeti Studio/Adobe Stock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Yeti Studio/Adobe Stock</div>
+</div>
+</div>
+</div>
+<p>Misinformation spreads across the globe, but most of the evidence on why people believe false claims — and what helps them to identify misinformation — comes from studies conducted in the U.S. and a handful of other Western countries. </p>
+<p><a href="https://www.nature.com/articles/s41562-023-01641-6">A recent study</a> published in Nature Behavior set out to fix that problem. Cornell psychology researchers David Rand and Gordon Pennycook, with 11 colleagues across the globe, ran the same experiment with nearly 35,000 people across 16 countries on six continents. They set out to examine the reasons people believe misinformation — and which tools work best to counter misinformation. The study was named the Behavioral Science &amp; Policy Association's 2026 publication of the year.</p>
+
+<p>Conducted in 2021, the study focused on misinformation about COVID-19. The pandemic offered a unique opportunity because it is one of the only topics for which the same true and false claims circulated throughout the world. This allowed the research team to make a cross-cultural comparison using a shared set of facts and falsehoods.</p>
+
+<p>Participants were divided into groups with different approaches to statements about COVID-19. Researchers asked them to rate the accuracy of the headlines or indicate if they would share them. Participants who were randomized to the sharing outcome had to either evaluate the accuracy of a non-COVID-related statement or read simple digital literacy tips before deciding whether to share the statement.</p>
+
+<p>Researchers found large variations across countries in how likely participants were to believe false statements about COVID-19. For example, people in India were twice as likely to believe a false claim than people in the United Kingdom.</p>
+<p>Overall, people from individualistic countries – with core values of self-reliance and individual autonomy – were better at discerning true statements from falsehoods. But in each country, researchers identified one trait that predicted people’s ability to separate true facts from misinformation: a tendency toward analytical thinking rather than following a gut feeling.</p>
+
+<p>“Pretty much everywhere we looked, people who were better critical thinkers and who cared more about accuracy were less likely to believe the false claims,” Rand said. </p>
+<p>People who valued democratic norms also tended to be better at spotting misinformation. In addition, those who said they would definitely not get vaccinated against COVID-19 were 52.9% more likely to believe misinformation compared to participants who said they would get vaccinated.</p>
+
+<h2>What about sharing misinformation?</h2>
+<p>Although the vast majority of participants said they valued accuracy, those values didn’t play out in their actions during the study. Across the globe, 79% of participants said it was very or extremely important to share only accurate news. But by the end the study, researchers found that 77% of participants had shared misinformation as part of the experiment.</p>
+
+<p>The disconnect likely comes from people’s attention to detail, Rand explained. “A lot of it is people just not paying attention to accuracy,” he said. “In a social media environment, there’s so much to focus on around the social aspects of sharing — how many likes will I get?, who else shared this? — and we have limited cognitive bandwidth. People often simply forget to even think about whether claims are true before they share them.”</p>
+
+<p>The researchers found that reminding participants to pay attention to accuracy — such as asking, “Where did this come from?” and “Is this actually true?” — and sharing simple digital literacy tips helped to prevent them from sharing false information</p>
+<p>The take-home message: Misinformation is a global problem, but evidence shows that teaching people to think more analytically is the best way to combat it across cultures. Brief reminders to pay attention to accuracy represent an effective way to prevent people from sharing misinformation.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/evidence-based-living/202607/why-smart-people-still-fall-for-misinformation" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/evidence-based-living/202607/why-smart-people-still-fall-for-misinformation</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/evidence-based-living/202607/why-smart-people-still-fall-for-misinformation</guid>
+            <dc:creator><![CDATA[The Bronfenbrenner Center for Translational Research]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/adobestock_242330786.jpeg.jpg?itok=Iy4Bu3SL" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Psychology of Smiling Through an Insult]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/img_0395-removebg-preview.jpg?itok=HKs9BbZa" alt="Jasmine Mohsen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Smiling Through an Insult</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The difference between emotional intelligence, people-pleasing, and self-protection.</h2><p style="font-size:0.9em;color:#666;">Posted July 9, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Not every smile after criticism comes from confidence.</li><li style="margin-bottom:6px;">Social rejection activates many of the same brain regions as physical pain.</li><li style="margin-bottom:6px;">Kindness can reflect emotional intelligence, or fear of conflict.</li>
+            </ul>
+          </div>
+                    <p><em>"You're too sensitive."</em></p>
+<p><em>"You're impossible to deal with."</em></p>
+<p>Imagine someone saying those words to you. What would you do?</p>
+<p>Most of us assume insults trigger anger. We picture ourselves defending our reputation or walking away frustrated. Yet many people respond quite differently: They smile. They laugh. Some even agree with the criticism. At first glance, this can seem like emotional maturity—a sign of confidence and self-control. But psychology suggests the same response can have very different meanings. Sometimes it reflects genuine emotional security. Other times, it may be an attempt to preserve harmony or avoid conflict.</p>
+
+<p>Part of the answer lies in how our brains process social threats. Research by Eisenberger, Lieberman, and Williams (2003) found that social rejection activates some of the same brain regions involved in physical pain. This helps explain why a careless remark from a colleague can linger for days or why criticism from a stranger online can unexpectedly affect our mood. Our need to belong is shaped by an evolutionary history in which social acceptance was closely linked to survival (Baumeister &amp; Leary, 1995).</p>
+
+<p>Imagine two colleagues hearing the same comment: <em>"You're too sensitive."</em> One immediately becomes defensive while the other smiles and replies, "I've heard that before." The second person appears calmer, but their smile alone tells us very little. It may reflect confidence, or simply an instinct to keep the interaction from escalating.</p>
+
+<p>Most people know about the fight-or-flight response, but psychologists also describe a third possible response: appeasement (Gilbert, 2005). Rather than confronting or avoiding a threat, people may reduce tension through humour, reassurance, or agreement. A partner says, <em>"You're so stubborn,"</em> and the response is, "Maybe a little," with the goal of maintaining harmony.</p>
+
+<p>Of course, not every warm response reflects conflict avoidance. It can also signal emotional intelligence. People with higher emotional intelligence tend to regulate their emotions more effectively and respond with curiosity rather than defensiveness (Mayer et al., 2008). Imagine a manager replying to criticism with, "Can you tell me more about your concerns?" Rather than feeling threatened, they treat the feedback as information. Similarly, research on secure self-esteem suggests that people with a stable sense of self are less likely to experience criticism as a threat to their identity (Kernis, 2003).</p>
+
+<p>Yet the same outward warmth can originate from a very different psychological history. Imagine a child growing up in a household where disagreement consistently led to criticism, emotional withdrawal, or conflict. Over time, that child may learn that maintaining peace is safer than expressing disagreement. As an adult, they may automatically smile when criticised, apologise when they have done nothing wrong, or agree with comments they do not actually believe. A partner says, <em>"You're overreacting,"</em> and the immediate response is, "You're probably right." They don't say this because they actually agree, but because disagreement feels emotionally dangerous to them. Their kindness is a learned survival strategy.</p>
+
+<p>This distinction helps explain why people-pleasing is often mistaken for emotional maturity. On the surface, both involve politeness, warmth, and avoiding unnecessary conflict. Yet psychologically, they differ in one crucial respect: Healthy warmth preserves self-respect while maintaining relationships. People-pleasing often sacrifices self-respect in order to preserve relationships. Although the behaviour may appear similar from the outside, the internal emotional experience is profoundly different. Research has linked chronic people-pleasing with lower self-esteem, emotional exhaustion, and difficulties establishing healthy interpersonal boundaries (Rosenberg, 2003).</p>
+
+<p>Interestingly, one of the healthiest responses to a minor insult may be humour. Imagine someone saying, <em>"You're always late."</em> Rather than becoming defensive, you smile and reply, "I prefer to think of myself as unpredictably punctual." The emotional atmosphere changes immediately. Humour interrupts the cycle of defensiveness while also communicating that your self-worth has not been significantly threatened. Martin (2007) found that adaptive humour styles are consistently associated with greater psychological well-being, resilience, and healthier interpersonal relationships. When used appropriately, humour reflects confidence rather than submission.</p>
+
+<p>Of course, a warm response is not always the most appropriate one. There are times when repeated criticism or disrespect calls for something more. A colleague who consistently dismisses your ideas, or a partner who repeatedly resorts to personal insults, may not interpret your kindness as strength. Instead, they may simply assume their behaviour is acceptable. In these situations, calm assertiveness can communicate self-respect without escalating the conflict. Simple responses such as "I don't appreciate that comment" or "Please don't speak to me that way" create boundaries while maintaining dignity (Alberti &amp; Emmons, 2017).</p>
+
+
+
+  
+
+
+<p>Perhaps, then, the more interesting question is not whether you smile when someone criticises you, but what that smile means. Does it reflect genuine emotional security because the comment simply doesn't threaten your sense of self? Or does it emerge because conflict feels uncomfortable, or even unsafe? The outward behaviour may look identical, yet the psychology behind it can be remarkably different. Sometimes a smile reflects confidence. Sometimes it reflects adaptation. And sometimes it is a little of both. Understanding the difference may tell us less about the person who delivered the insult and far more about ourselves.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202606/the-psychology-of-smiling-through-an-insult" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202606/the-psychology-of-smiling-through-an-insult</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-architecture-of-desire/202606/the-psychology-of-smiling-through-an-insult</guid>
+            <dc:creator><![CDATA[Jasmine Mohsen Ph.D.]]></dc:creator>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-enginakyurt-7853658.jpg?itok=phRXJvvo" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
