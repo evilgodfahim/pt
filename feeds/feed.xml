@@ -4,349 +4,153 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 17:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 19:12:01 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jul 2026 17:17:10 GMT</pubDate>
+        <pubDate>Thu, 16 Jul 2026 19:12:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Murals Matter More Than We Might Think]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/chatterjee_final_0.jpg?itok=VlcAHfSu" alt="Anjan Chatterjee MD, FAAN" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Beauty</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Murals Matter More Than We Might Think</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How public art changes the experience of urban neighborhoods.</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why We Defend the People Who Con Us]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/Lipton.png.jpg?itok=eqvHR-T4" alt="Mark Lipton Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Deception</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why We Defend the People Who Con Us</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Even intelligent, skeptical people end up defending their own deceivers.</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Murals increased perceived experiences of beauty, calm, and inspiration more than unadorned walls.</li><li style="margin-bottom:6px;">Viewing public art also positively changed how people judged surrounding neighborhood quality.</li><li style="margin-bottom:6px;">Public art may be a low-cost way to promote urban well-being.</li>
+              <li style="margin-bottom:6px;">The strength of a con is how long belief survives after the facts turn against it.</li><li style="margin-bottom:6px;">Intelligence is no shield. What protects you is which authorities you've chosen to trust.</li><li style="margin-bottom:6px;">Once a belief becomes part of your identity, giving it up feels like betraying yourself.</li><li style="margin-bottom:6px;">Ask where one of your own beliefs still runs on faith after the evidence stopped supporting it.</li>
+            </ul>
+          </div>
+                    <p>A good con artist does not just take your money. He gets you to defend him for taking it.</p>
+<p>When Elizabeth Holmes was exposed, many who had believed in Theranos did not turn on her. They blamed the press, the regulators, or the skeptics who would not wait. Holmes was convicted of fraud and sent to prison, yet she still speaks as though the technology could have worked if the world had believed a little longer. The most effective deceivers do not simply fool their marks. They turn them into believers.</p>
+
+<p>There is a way to measure a con, and it has nothing to do with the size of the theft. It is how long belief endures contact with reality. Weak cons collapse the moment the facts arrive. Strong ones keep their believers long after the verdict, sometimes for life. The interesting question is what prolongs that survival and why it should worry any of us.</p>
+
+<h2>The profile of a susceptible mark</h2>
+<p>Start at the weak end. When Bernie Madoff confessed to the largest Ponzi scheme in history, worth roughly $65 billion on paper, the belief died on the spot. A Ponzi is a clean binary: The money is there, or it is not, and it was not. Nothing was left to believe in. Yet notice who his marks were. Banks, charities, and sophisticated financiers who prided themselves on due diligence. Not amateurs. Fraud researcher Tamar Frankel found that many marks share one combination. They distrust established institutions and readily believe an alternative source that flatters what they already want to be true. It is less about intelligence than about which authorities a person has chosen to trust.</p>
+
+<p>The people most confident in their critical thinking are often the easiest to take. The con validates their skepticism, then hands them a private truth. Social psychologist Roland Imhoff calls this the need for uniqueness, the hunger to hold knowledge that sets a person apart. The pitch writes itself. You are too smart for the official story. Only you and I see what is really going on. It is flattery dressed as revelation.</p>
+
+<h2>The rhetorical toolkit</h2>
+<p>The skilled grifter is not improvising. Robert Cialdini's research on influence catalogs the moves. Borrow authority: Wrap yourself in credentials and a cause. Manufacture consensus: When enough respectable people vouch for you, doubt feels like heresy. Then defend the story at any cost. Lance Armstrong built a halo from a cancer-survival story, a foundation, and a sea of yellow wristbands, and for years, that halo made the doping charges sound like an attack on a hero. He denied everything and sued those telling the truth. Even after his 2013 confession, many fans stayed loyal. Cognitive linguist George Lakoff has shown how framing triggers a moral reflex before reason engages. Each of these moves buys the con more time before belief has to meet reality.</p>
+
+<h2>Why belief hardens</h2>
+<p>The longer you have believed, the longer the belief endures. Part of this is the sunk-cost fallacy: refusing to abandon a bad investment because so much has already been invested. The other part is identity. When Sam Bankman-Fried was convicted of stealing billions from FTX customers, his defenders sent letters praising his altruism, as if the persona answered the charge. When Trevor Milton was convicted of faking a Nikola truck video, rolling a dead prototype downhill to make it look like it was driving, many retail investors kept defending him even as he insisted he had done nothing wrong. Adam Neumann torched tens of billions at WeWork and was then handed the largest check his marquee backer had ever written for his next idea. Political psychologist Lilliana Mason describes how, once an identity fuses with a belief, facts stop being shared reality and become tribal property. Giving up the belief starts to feel like giving up part of yourself. That is what keeps it alive.</p>
+
+<h2>The manufactured rescue</h2>
+<p>The strongest version turns belief into dependency. My research on toxic leadership found a pattern that echoes the psychoanalyst Wilfred Bion. Anxious people form dependency groups around a troubled leader, certain he will save them from a threat he largely created. The self-help world runs on it. Keith Raniere sold NXIVM as personal growth and executive coaching and built a following so dependent that, after his conviction for racketeering and sex trafficking and a 120-year sentence, some members still stood outside the courthouse defending him. Here, belief resists all evidence because the evidence now feels like an attack on the rescuer. This is the con that endures longest, because leaving means indicting your own past.</p>
+
+<h2>Why it is so hard to walk back</h2>
+<p>Some ground is more fertile than others. Arlie Hochschild's research shows how stories of lost status prepare people to accept anyone who names a culprit. Jonathan Haidt's moral foundations theory explains why the same con is tuned differently for different audiences, with some moved by loyalty and authority and others by care and fairness. Once someone is in, confrontation backfires. Brendan Nyhan has found that attacking a cherished belief tends to reinforce it, while affirming the person's values first and then introducing the fact works better. Robert Putnam's work on social capital suggests why the isolated are the most exposed: They have fewer real ties and more of their reality arrives by algorithm.</p>
+
+<h2>The mark is us</h2>
+<p>Daniel Kahneman spent a career showing that the biases behind all of this are built into every human mind. The Theranos board included former cabinet secretaries and decorated generals. The mark is not a separate kind of person.</p>
+<p>Here is the question. Each of us has kept faith in something past the point where the facts turned: a stock, a boss, a company, or a person we needed to be right about. The strength of a con is measured by how long belief survives contact with reality. So, ask it plainly: Where is one of my beliefs still running on faith after the evidence stopped supporting it? The person most certain they could never be conned is usually the one who has already stopped checking.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/transformative-leadership/202607/why-we-defend-the-people-who-con-us-0" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/transformative-leadership/202607/why-we-defend-the-people-who-con-us-0</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/transformative-leadership/202607/why-we-defend-the-people-who-con-us-0</guid>
+            <dc:creator><![CDATA[Mark Lipton Ph.D.]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/chatgpt_image_jul_16__2026__12_38_45_pm.png.jpg?itok=SGnbVllp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Narcissism and Romantic Relationships: Breaking the Spell]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/new-photo-.jpg?itok=-Vc-lmod" alt="Stephen A. Diamond Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Narcissism</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Narcissism and Romantic Relationships: Breaking the Spell</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Can we choose to overcome our prickly barriers to intimacy?</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Neurotic narcissism hinders and undermines intimacy.</li><li style="margin-bottom:6px;">Neurosis can seem like being bewitched, cursed, or under the influence of a powerful spell.</li><li style="margin-bottom:6px;">The challenge of psychotherapy is to help the patient break the spell.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/colorful_legacy_willis_nomo_humphrey___keir_johnston_steve_weinik_copy.jpg?itok=cfLyD2eJ" width="320" height="213" data-insert-type="image" alt="Colorful Legacy by Willis Nomo Humphrey &amp;amp; Keir Johnston / Philadelphia Mural Arts Program" title="Steve Weinik / Public Art Archive"></div>
-<div class="caption">Colorful Legacy by Willis Nomo Humphrey &amp; Keir Johnston / Philadelphia Mural Arts Program</div>
-<div class="insertArea--origin subtext">Source: Steve Weinik / Public Art Archive</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/330px-sleeping_beauty_by_harbour.jpg?itok=cevhN7zt" width="320" height="259" data-insert-type="image" alt="Sleeping Beauty" title="From &quot;My Book of Favourite Fairy Tales,&quot; Illustrated by Jennie Harbour/Wikimedia/Public Domain"></div>
+<div class="caption">Sleeping Beauty</div>
+<div class="insertArea--origin subtext">Source: From "My Book of Favourite Fairy Tales," Illustrated by Jennie Harbour/Wikimedia/Public Domain</div>
 </div>
 </div>
 </div>
-<p><em>Co-authored with Vicente Estrada-Gonzalez</em></p>
-<p>City dwellers often adapt to profoundly unnatural aspects of their environment. Traffic noise, air pollution, concrete surfaces, and crowded streets become the backdrop of everyday life. We habituate to them so thoroughly that we often don’t notice how unpleasant and potentially harmful they are.</p>
+<p><em>This post is part 2 in a series. </em><a href="https://www.psychologytoday.com/us/blog/evil-deeds/202602/on-narcissism-and-romantic-relationships"><em>Click here for part one.</em></a></p>
+<p>Narcissism can be thought of as either healthy or pathological. In healthy or "normal" narcissism, writes Jungian analyst Mario Jacoby (1991), we have "realistic ambitions and an adequate sense of self-esteem. . . . We are all in continual need for recognition, of having our existence and our worth acknowledged by others." But in neurotic or <em>pathological </em>narcissism, these needs and qualities are amplified and distorted as the tragic consequence of having not been met by others in the past. </p>
 
-<p>Do we have to tolerate these urban assaults on our well-being? Moving to the countryside is one option—though unrealistic for many people. Alternatively, accessible clean transportation, thoughtful urban planning, and policies that reduce pollution and noise offer systemic ameliorations. While desirable and effective, these changes require considerable time and investment. Maybe one part of the solution to these urban maladies starts with something ordinary: the walls we walk past every day. </p>
+<h2>The Story of Little Briar Rose (Sleeping Beauty)</h2>
+<p>Another myth depicting the bitter, vengeful, negative quality of neurotic narcissism is the Grimm's fairy tale "Little Briar Rose," better known to some as "Sleeping Beauty." In that story, Briar Rose is placed under an evil spell by a narcissistically offended and furious witch who declares that at the age of 15, the girl will fall into a century-long sleep from which no one will be able to awaken her. When, on her 15th birthday, the princess accidentally pricks her finger with a sewing needle as the witch predicted, the terrible prophecy is fulfilled, and she succumbs to a coma-like slumber. All life and vitality around her is also curtailed, except that around her castle, a thick hedge of stiletto-like thorns grows, swallowing the entire structure and rendering it totally inaccessible.</p>
 
-<h2>Art in Everyday Life</h2>
-<p>Art is often thought of as something nice to have, but ultimately nonessential. People can seek art in their free time, display it in their homes, or encounter it in museums and galleries. These activities require intention, leisure time, and disposable income, contributing to the perception that art engagement is a luxury with unclear practical value. </p>
+<p>As the legend of this bewitched sleeping beauty spreads across the land, suitors from far and wide make valiant efforts to penetrate the thorny briar protecting the princess, only to be fatally impaled upon it. The grotesque image of these luckless suitors skewered on deadly thorns and suffering an agonizing fate bespeaks the poignant experience of every man or woman who has tried in vain to get closer to a narcissistically prickly person. Such Briar Rose-types (both female and male) are still so unconsciously enraged and bitter about prior rejections, disappointments, and narcissistic injuries that they are simply not psychologically prepared or ready for any real relatedness or true emotional intimacy, despite what they may consciously believe or say. Sex, of course, may be another matter entirely. But sexuality is not necessarily intimacy.</p>
 
-<p>Public art, by contrast, is woven into daily life. Experiencing it does not require admission costs, specialized knowledge, or permission to engage with it. Although some public artworks spark controversy—think of Banksy's politically charged murals—cities increasingly commission and embrace public art. Murals, sculptures, and installations can interrupt the monotony of urban spaces and offer pockets of beauty, reflection, emotional engagement, and shared cultural meaning. Does public art also impact people’s perceptions of neighborhoods?</p>
+<p>Prickly defense mechanisms serve to protect the insecure, vulnerable, emotionally wounded individual, in much the same way literal thorns protect a rose’s delicate petals or the succulent bitter-sweetness of the blackberry. We may successfully fend off (i.e., offend) or reject those persons by whom we fear someday potentially being hurt emotionally. But, in so doing, we imprison ourselves within protective thorny castles of our own creation, condemning ourselves to lives of alienation, isolation, and painful loneliness. These metaphorical thorns consist of defensive symptoms or signs such as hostility, animosity, negativity, cynicism, mockery, judgmentalism, contempt, hypersensitivity, sarcasm, distrust, etc. It is a lonely, self-imposed life sentence of solitary confinement that, for some, feels like an unbreakable curse, spell, or uncanny run of bad luck in their love life. But is it truly some external kind of bewitchment or voodoo at work here, or might the problem be emanating from within the person themselves? Could he or she be unwittingly or unconsciously sabotaging any potentialities for real relationship for fear of being hurt, rejected, or abandoned again? Neurosis is, in effect, like some powerful evil spell or curse cast by someone or something in the person's past and continuing to negatively influence the present and future. Unconsciousness of this neurosis, its causes, and its negative effects, can be likened to the princess's protracted state of profound sleep. For psychotherapy, the challenge resides in how to help the bedeviled patient break this insidious spell and free themselves from its evil power. </p>
 
-<h2>The Mural Arts Program in Philadelphia</h2>
-<p>Philadelphia offers an exceptional setting to consider this question. Its Mural Arts Program began in 1984 as part of the city’s Anti-Graffiti Network. Visionary Jane Golden worked with graffiti artists, redirecting their skills toward mural projects. What started as an anti-graffiti initiative evolved into a large community-based public-art program associated with beautification, civic participation, and neighborhood revitalization. Philadelphia now has more than 4,000 murals embedded in every sector of the city, earning its recognition as a global mural capital.</p>
+<p>This key question of psychological “readiness” is as central to the story of Briar Rose as it is to the thorny romantic relations between people. It takes real courage to create intimate relationships, since we all have our share of protective prickliness through which to navigate. Like much in life, it’s all about timing. We can see both the terrific courage and impeccable timing required to overcome these barriers to intimacy in the happy—well, fairy-tale ending—of the story: A brave, valiant, and persistent young prince, undaunted by the grisly lot of her numerous, now dead would-be suitors, decides, against all wise counsel to the contrary, to seek the hand of the sleeping princess as his bride. Ready to courageously risk life and limb, surmounting the perilous spiny hedge, the hero instead suddenly finds magnificent flowers in its place, which, magically parting for him, provide easy access to the castle—and the beautiful sleeping princess. As fate or luck would have it, for both the hero and princess, the 100-year spell ends at precisely the moment he arrives on the scene. As with so many other things in life, timing is everything. When the gallant hero gently kisses the waiting lips of the still somnolent princess, she is at long last ready to waken and return to life. And to love. Intimacy and love, in the deepest sense of permitting another person access into the self-constructed and well-defended fortress surrounding one's heart, always involve a choice, a fundamental, fateful decision to fully live, to love, to risk, to feel, and to care deeply about another.</p>
 
-<p>Individual murals can strengthen local identity, present overlooked histories, and bring communities together. Our recent research suggests that public art may also alter people’s immediate emotional experiences and their feelings about the surrounding city.</p>
-<h2>Our Study</h2>
-<p>We recently published a study comparing people's responses to locations with and without murals in two parts of Philadelphia: Center City and West Philadelphia. These neighborhoods differ in socioeconomic conditions, urban development, environmental quality, and access to cultural amenities (Estrada Gonzalez et al., 2026).</p>
 
-<p>To measure how murals make people feel, we measured responses to buildings with and without murals using an aesthetic impact taxonomy that we developed (Christensen, Cardillo, Chatterjee, 2023). Murals elicited feelings of pleasure, calm, compassion, interest, inspiration, and understanding. These aesthetic benefits accrued in both neighborhoods, although they were more robust in the lower-socioeconomic-status neighborhood of West Philadelphia.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/evil-deeds/202607/narcissism-and-romantic-relationships-breaking-the-spell" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/evil-deeds/202607/narcissism-and-romantic-relationships-breaking-the-spell</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/evil-deeds/202607/narcissism-and-romantic-relationships-breaking-the-spell</guid>
+            <dc:creator><![CDATA[Stephen A. Diamond Ph.D.]]></dc:creator>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/330px-sleeping_beauty_by_harbour.jpg?itok=-xh-3gyd" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What the World Cup Reveals About People Who Belong to More Than One Place]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/sarahrasmi.jpg?itok=beO4A3AS" alt="Sarah Rasmi Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Identity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What the World Cup Reveals About People Who Belong to More Than One Place</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A wider Arab identity can offer belonging to those who feel like outsiders closer to home.</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Ethnocultural identity conflict describes the sense of belonging fully to neither culture.</li><li style="margin-bottom:6px;">In Arab Canadian families, perceived cultural gaps were linked to greater identity conflict.</li><li style="margin-bottom:6px;">Social identity theory suggests our identities nest inside one another like circles.</li>
+            </ul>
+          </div>
+                    <p>Every four years, the World Cup asks us all a question that has nothing to do with football. "Which team do you support?" is a straightforward question to someone with a single and clear ethnocultural identity. However, many people can plausibly claim three or four teams.</p>
+<p>I am one of them. I am Egyptian and Canadian, born in Switzerland, having lived in the United States, Saudi Arabia, and Australia (as well as other nonqualifying countries). Despite this, I have always been a clear and consistent supporter of Egypt.</p>
 
-<p>We also assessed perceptions of the neighborhood before and after participants viewed the murals. We focused on five dimensions relevant to urban quality of life: safety, interestingness, cleanliness, noise, and the apparent friendliness of residents.</p>
-<p>The effects weren't the same in both locations. After visiting the murals, participants thought the less affluent area of West Philadelphia was safer and more interesting. They perceived the commercial district of Center City as having less trash and litter and being less noisy. </p>
+<p>I know I'm not alone. Many people living in the Gulf—or as immigrants in other sociocultural contexts—have this experience. The tournament simply makes visible something that is true all year round.</p>
+<h2>What we do not say out loud</h2>
+<p>I studied Arab families who migrated to Canada for more than a decade. I was particularly interested in what happens across generations when parents and children adapt to the settlement culture at different rates or in different ways. One of the things we looked at in our work is the concept of <em>ethnocultural identity conflict </em>(Ward, Stuart, &amp; Kus, 2011). </p>
 
-<p>This pattern is revealing. Safety concerns and limited interesting cultural offerings may be especially conspicuous negative assumptions of less affluent urban areas; these were the dimensions that improved in West Philadelphia. Noise and litter may be more salient negative features of densely urbanized areas; these were the aspects of Center City that were assessed more positively after engaging with public art. </p>
+<p>The scale we used asks people how strongly they agree with a series of statements, including "I sometimes do not know where I belong" and "I am an outsider in both my own ethnic group and the wider society."</p>
+<p>One of the things I find interesting about these statements is that they contradict the deeply held belief that being a "global citizen" or "cultural nomad" is a purely positive experience, and gloss over some of the intrapersonal challenges that may come with it.</p>
+
+<p>In our work with Arab Canadian emerging adults, we found that the bigger the perceived gap between how Arab a young person felt and how Arab they believed their parents to be, the higher their ethnocultural identity conflict (Rasmi, Chuang, &amp; Hennig, 2015). Our research could not point to which comes first, but I suspect that they co-occur. Perceiving a larger gap can create confusion about who you are, and confusion about who you are can make you perceive a greater gap.</p>
+
+<p>Perceived acculturation gaps were also associated with more intergenerational conflict. Resolving these conflicts—both interpersonal and intrapersonal—is not easy. You certainly do not resolve it through a football match, but you might catch a glimpse of what resolution could feel like when you cheer along with the crowd.</p>
+
+<h2>The easiest group you will ever join</h2>
+<p>A national team might be the easiest group any of us will ever be let into. Nobody vets you, asks how long you have lived there, questions your Arabic, or makes you explain why you don't look prototypically Egyptian. These questions are not only difficult to answer, but our answers are often challenged or dismissed, making the entire exchange rather uncomfortable. People don't pepper you with the same questions at the stadium. That's worth more than a trophy to me, as someone who has always been not-quite-Egyptian in Canada and not-quite-Canadian in Egypt.</p>
+
+<h2>Belonging works in circles</h2>
+<p>Something happened this tournament that I have been thinking about for weeks. When an Arab team went deep, it stopped being about one country at all. Egyptians watched Morocco with the same knot in their stomachs they had felt for Egypt, and when Morocco went out too, many were left wondering who to support at all.</p>
+
+<p>Social identity theory offers an explanation. We do not hold a single identity—we hold many, and they nest inside one another (Tajfel &amp; Turner, 1979). Your country sits close in, but around it is something wider, built out of a shared language and a shared history and a sense of "us" that is bigger than any one flag.</p>
+
+<p>This is the part that tends to get missed from the outside. Arab identity is not a slogan, and it is not nostalgia. It is simply the lived experience of finding that when one of us is out there in front of the whole world, all of us feel a little bit represented. That circle is wide enough to hold the Egyptian in Toronto, the Moroccan in Paris, and the Lebanese in Dearborn. <br><br>A wider circle can carry unexpected mercy for someone who struggles to feel entirely at home in a smaller one. You may have no idea whether you are "properly" Egyptian or "properly" Canadian. But for 90 minutes, you are one of us, and nobody is asking you to prove it.</p>
 
 
 
   
 
 
-<p>Public art seemed to mitigate problems that were most prominent within each environment. Murals change not only what people see but also how they experience a place.</p>
-<h2>Bridging the Gap</h2>
-<p>Our research showed that perceptions of urban spaces are enhanced by public art. These findings are an invitation for governments, policymakers, and community organizations to invest more in public art programs like Philadelphia’s.</p>
+<h2>Belonging is a choice you keep making</h2>
+<p>People tend to assume that the hard part of having many homes is being unable to choose between them.</p>
+<p>In my experience, and in the accounts of the people I have interviewed over the years, it is the other way around: The choosing is rarely the problem. The fitting in is. Most people feel the different sides of themselves but have no container that holds all of it.</p>
 
-<p>Recent evidence adds to these findings. In Berlin, Germany, researchers studied a publicly accessible neighborhood exhibition that pedestrians could view from the sidewalk. After engaging with it, participants felt more connected to the neighborhood, experienced less negative mood, and reported greater overall well-being (Kühnapfel et al., 2025). They also felt more connected to the neighborhood when the art was experienced as meaningful and understandable. In a large, diverse database of artwork that we created, we found that viewers were more engaged by images of Philadelphia murals than other forms of art, including examples of distinguished European and North American fine art (Estrada Gonzalez et al., 2025).</p>
-
-<p>A mural does more than cover a blank wall. It directs attention, enhances positive feelings, communicates that a place is cared for, and helps people see neighborhoods more positively. Public art will not eliminate traffic, pollution, inequality, or urban neglect. It is not a substitute for environmental regulation, social investment, or responsible city planning. Yet, it is a relatively low-cost, accessible intervention that can be a valuable adjunct to larger-scale approaches to improving urban quality of life.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/brain-behavior-and-beauty/202607/murals-matter-more-than-we-might-think" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/brain-behavior-and-beauty/202607/murals-matter-more-than-we-might-think</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/brain-behavior-and-beauty/202607/murals-matter-more-than-we-might-think</guid>
-            <dc:creator><![CDATA[Anjan Chatterjee MD, FAAN]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/colorful_legacy_willis_nomo_humphrey___keir_johnston_steve_weinik_copy.jpg?itok=xciBTjQ0" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Nobody Wants to Talk About in AI Disruption, and a Silver Lining]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/camille_preston.png.jpg?itok=jtxECShz" alt="Camille Preston Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Nobody Wants to Talk About in AI Disruption, and a Silver Lining</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI disruption mirrors forced-rotation culture, making us do what good mentors always advised.</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Fear is real, but paralysis is a choice, leaders either wait to be rescued or take the driver's seat.</li><li style="margin-bottom:6px;">This isn't just a cognitive problem; real growth requires integrating mind, body, spirit, and emotion.</li><li style="margin-bottom:6px;">The real work is inward: Name what you're afraid of, then start managing your own trajectory with discipline.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">Early in my career, I worked with a company that had an unusual internal culture: Employees were expected to move into a new role every 18 to 24 months. Change, and its associated uncertainty, became the new normal. Moving to a new seat in the same company inspired a growth mindset. </p>
-<p dir="ltr">People hated it at first. It felt unstable: The ground kept shifting under them. Over time, I watched people who leaned into it build sharper skills, wider networks, and stronger internal brands than people at companies with no such expectation. They learned new tech stacks before they were forced to. They stayed current proactively because it was the only way to stay employed. They negotiated better compensation. The policy was uncomfortable and brilliant.</p>
-
-<p dir="ltr">Watching how business leaders are responding to artificial intelligence (AI), that culture might be a model worth revisiting. AI disruption is not inherently positive, and organizations should be accountable for how it is implemented. And we have the opportunity to individually strengthen our agency, adaptability, and relationships so that we both understand our own value and can self-advocate.</p>
-
-<h2>Fear is real. The paralysis doesn't have to be.</h2>
-<p dir="ltr">I hear it in almost every coaching conversation these days. Leaders who are competent, accomplished, and genuinely good at their jobs feel frozen by a low hum of dread about what AI means for their relevance. Will this replace me? Am I already behind? Should I have learned this six months ago?</p>
-
-<p dir="ltr">The half-life of expertise is shrinking fast, and there is no manual. Fear of being displaced is real. And, underneath the fear, I keep noticing something we're not naming enough: AI acceleration is functioning almost exactly like that rotation policy. It is forcing us to do the things we already knew we should be doing and, if we're honest, had not prioritized.</p>
-
-<p dir="ltr">Update your skills. Build relationships outside your own silo. Get sharp about your own value instead of assuming your title will speak for you. Stay current instead of coasting on what you learned a decade ago. None of this is new. It's the same advice good mentors have given for years. AI is just the first thing with enough force to make us actually act on it.</p>
-
-<h2>Two ways to meet that pressure</h2>
-<p dir="ltr">I see leaders responding to this moment in one of two ways.</p>
-<p dir="ltr">Some collapse under the pressure. They wait to see what happens to them, hoping the disruption lands somewhere else, on someone else's job, in someone else's industry. Whether you call that patience or burying your head in the sand, it is not a strategy.</p>
-
-<p dir="ltr">Others engage differently. They put themselves back in the driver's seat. They start managing their own trajectory the way that a rotation-culture company forced its employees to manage theirs: proactively, with ownership, with discipline. Their own development becomes something they're actively steering rather than something happening to them.</p>
-
-<p dir="ltr">That second group isn't less afraid. They've just decided fear doesn't get to be the one making decisions.</p>
-<h2>Why this requires more than your brain</h2>
-<p dir="ltr">From a psychological standpoint, most AI-and-leadership conversations are incomplete. Reducing AI disruption to a cognitive problem—solved by learning a new tool or taking a prompt-engineering course—doesn't just minimize the opportunity. It sets us up for self-sabotage.</p>
-
-<p dir="ltr">Real growth under pressure is rarely about acquiring new information. According to Robert Kegan's work on adult development, it is about how we make meaning for ourselves. Meaning-making is holistic, embodied, and not purely cognitive.</p>
-<p dir="ltr">Whether you're paying attention to it or not, your nervous system is working overtime under this kind of sustained uncertainty.</p>
-
-
-
-  
-
-
-<p dir="ltr">Trying to think your way through these moments using only the analytical, logical, "Let's be objective about this" part of yourself, you're leaving most of your actual capacity on the table.</p>
-<p dir="ltr">Business mastery right now requires integration of self: mind, body, spirit, and emotion, working together rather than cognition laboring alone. "Take a course" is a far easier solution than listening inward. Then, noticing that your body has been in fight-or-flight since your last three all-hands meetings. It means having enough emotional literacy to name what you're actually afraid of, rather than numbing it with busyness. It means reconnecting, whatever that looks like for you, to a sense of meaning bigger than your job title.</p>
-
-<p dir="ltr">That's hard, vulnerable, and the whole game.</p>
-<h2>One thing to try</h2>
-<p dir="ltr">Rather than a five-step plan, start with an honest inventory. Ask yourself: Where in my life am I still operating by the old rules that no longer apply? Where am I waiting to be rescued, promoted, or picked? What do I want to build myself, instead?</p>
-
-<p dir="ltr">Pick one. Start managing it the way you'd manage a career inside that 18- to 24-month rotation culture: with curiosity, with discipline, and without waiting for permission.</p>
-<h2>The part I actually believe</h2>
-<p dir="ltr">This moment is hard. I'm watching real disruption, real job loss, and real grief for people who did everything "right" but still got caught in the shift. That pain is legitimate, and I don't want to minimize it with a tidy reframe.</p>
-
-<p dir="ltr">And leaders who are deciding to own it instead of endure it are sharper and healthier. They're more integrated, in the fullest sense of that word, than they were three years ago. AI didn't ask their permission to disrupt their industry. It is, whether we like it or not, pushing a lot of us toward becoming the people we already knew we should be.</p>
-
-<p dir="ltr">The driver's seat is still open. We have to participate (and lead) in our rescue. </p>
+<p>Supporting Egypt was never really about football for me. I suspect the same might be true for many of you. It is a way of saying that this is mine and I am keeping it, whether we win or lose.</p>
+<p>If I could offer one thing to parents raising children across borders, it would be this. Belonging is not something children passively receive, and it will not arrive just because they were born somewhere or hold a particular passport. A settled sense of who we are tends to come through exploring and then choosing for ourselves, rather than inheriting what we were handed (Marcia, 1966). Much of the time our children will have to choose it, and then choose it again, and the choosing is what makes it theirs.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/mental-health-in-the-workplace/202607/what-nobody-wants-to-talk-about-in-ai-disruption-and-a" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/bridging-the-gulf/202607/what-the-world-cup-reveals-about-people-who-belong-to-more-than-one" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/mental-health-in-the-workplace/202607/what-nobody-wants-to-talk-about-in-ai-disruption-and-a</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mental-health-in-the-workplace/202607/what-nobody-wants-to-talk-about-in-ai-disruption-and-a</guid>
-            <dc:creator><![CDATA[Mental Health in the Workplace]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/bridging-the-gulf/202607/what-the-world-cup-reveals-about-people-who-belong-to-more-than-one</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/bridging-the-gulf/202607/what-the-world-cup-reveals-about-people-who-belong-to-more-than-one</guid>
+            <dc:creator><![CDATA[Sarah Rasmi Ph.D.]]></dc:creator>
             <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/781e29c7-3529-45a0-b229-d112b7b6b91d.jpg?itok=v6TiHrXT" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why People With Visible Disability Still Have to “Come Out”]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/kathleen-bogart-headshot-cropped.jpg?itok=acZkr-aw" alt="Kathleen R. Bogart Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Boundaries</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why People With Visible Disability Still Have to “Come Out”</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">It’s harder to set boundaries when a disability is so obvious.</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Research reveals people with observable disabilities face a complex "mental calculus" of disclosure.</li><li style="margin-bottom:6px;">Just because a disability is visible, its cause, consequences, and access needs may not be.</li><li style="margin-bottom:6px;">Whether people feel they have control over their disclosure decisions is key to well-being.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/pexels-shvetsa-3732850.jpg?itok=kWiqItDr" width="320" height="480" data-insert-type="image" alt="Anna Shvets / Pexels" title="Anna Shvets / Pexels"></div>
-<div class="insertArea--origin subtext">Source: Anna Shvets / Pexels</div>
-</div>
-</div>
-</div>
-<p>Do people with visible disabilities face disclosure decisions? People often assume that if a person’s disability is visible or observable—like an amputated limb or a facial difference—they don’t have to "disclose" it because it is already obvious. Disclosure was thought to be a hurdle reserved for those with invisible disabilities, like chronic pain or mental health conditions. However, our <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fsah0000701">new research</a> reveals that people with observable disabilities do face disclosure decisions, precisely because their differences are noticeable. Indeed, the information others expect from them is similar to what is expected when those with invisible disabilities disclose.</p>
-
-<p>In this study, we interviewed 25 people with various observable disabilities—conditions like mobility disability, blindness, limb amputation, deafness, and speech disorders. We found that the context and the nature of the disability influenced the need for disclosure and affected motivations behind it. This interplay impacted how much control individuals felt over their disclosure and the level of detail they provided, ultimately relating to their well-being.</p>
-
-<h2>The Myth of the "Obvious"</h2>
-<p>When someone has a visible disability, they are often denied what scholars call "civil inattention"—the polite disregard we usually give strangers in public. Instead, they are met with stares, intrusive questions, and assumptions. This forces them into a continuous "mental calculus”—as one of our participants called it—deciding how much of their private medical history they owe to a curious barista or a potential employer.</p>
-
-<p>While a disability might be observable, the cause, consequences, and specific needs associated with it are not. People with observable disabilities are perennially asked: "What happened to you?" This question indicates that people are trying to make causal attributions—they want to know what caused the disability to determine if the disabled person is "at fault" or if they themselves are at risk of a similar fate. </p>
-
-<p>Disclosure almost never entails simply naming the condition. People with observable and nonobservable disabilities alike are expected to provide more information. Consider an example of someone disclosing an invisible disability (“I have mental illness”)—a condition more traditionally understood to involve disclosure—compared with someone disclosing a visible disability (“I am a wheelchair user”). Regardless of the disability type, people want to know the same things, including medical information (“What’s your diagnosis?”), responsibility (“Have you tried exercise?”), prognosis (“Are you getting better?”), and access needs (“Do you need to take leave?”). The unique part of observable disability disclosure is that others have already noticed it, which may heighten the expectation to have these questions answered.</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-07/artboard_1_3x-100.jpg?itok=aYUSWsTy" width="639" height="359" data-insert-type="image" alt="Infographic showing that whether a person's disability is observable or not, they are expected to disclose the same info: medical information, responsibility, prognosis, and access needs. " title="Kathleen Bogart"></div>
-<div class="caption">Infographic showing that whether a person's disability is observable or not, they are expected to disclose the same info: medical information, responsibility, prognosis, and access needs.</div>
-<div class="insertArea--origin subtext">Source: Kathleen Bogart</div>
-</div>
-</div>
-</div>
-<p>Consider one participant who used a leg brace and cane due to cancer. People assumed his leg brace was due to a temporary injury and frequently asked, "What did you do?" This placed him in a position where he was expected to disclose deeply private and potentially traumatic information, and if he explained it, it “craters the mood.”</p>
-
-<p>Emphasizing the importance of examining this topic, this participant said, “Nobody prepared me, ‘Hey, so here's the thing about self-disclosures.’ But seeing that people are looking at it [in the current study], I'm like, Oh, yeah, that's absolutely a thing…This is a real issue, and it's pervasive.”</p>
-<h2>Context Matters</h2>
-
-<p>Access needs were a primary driver for disclosure. In a world not built for everyone, disabled individuals are often forced to reveal their private medical status simply to do their jobs or attend a meeting.</p>
-<p>The setting of an interaction significantly changes this dynamic. For example, a person with a mobility disability might not need to disclose anything on a Zoom call because the environment is naturally accessible. But if they are invited to an in-person meeting, they may have to disclose their disability just to ensure there is a ramp or an elevator. </p>
-
-<p>Even disabilities that are often thought of as highly observable can be rendered invisible by the situation. One participant, who was a wheelchair user, provided a striking example of the influence of situation on observability and disclosure. While she was being treated in a hospital for a condition unrelated to her disability, her wheelchair wasn't in the room. Her doctor’s questions revealed she didn't know she was a wheelchair user despite having access to her medical information. Our participant had to tell her doctor: “I can't stand up and walk to the scale like you want me to.” This story illustrates the power of the situation in affecting whether a disability is visible and the potentially serious consequences of assuming that disabilities are always observable. </p>
-
-
-
-  
-
-
-<h2>Dimensions of Disability</h2>
-<p>Disability observability exists on a spectrum. Some disabilities, like facial differences or wheelchair use, are almost always visible. Others, such as chronic health conditions or attention-deficit/hyperactivity disorder (ADHD), often aren't. <a href="https://www.psychologytoday.com/us/blog/disability-is-diversity/202410/8-dimensions-of-disability">Factors surrounding the disability</a>—like whether symptoms are flaring—affect whether others can observe it. </p>
-
-<p>Not all observable disabilities are treated equally. People with "prototypical" disabilities—those commonly represented in our society or media, like blindness or wheelchair use—often find that their needs are better understood by the public.</p>
-<p>However, those with "non-prototypical" or rare disabilities—such as speech disorders, facial differences, or multiple complex conditions—face a different challenge. These individuals often feel higher pressure to disclose, having to explain their diagnosis and symptoms in great detail to ensure their needs are met. </p>
-
-<h2>The Power of Choice: Autonomous vs. Compelled Disclosure</h2>
-<p>At the core of this experience is Self-Determination Theory, which suggests that people have three basic psychological needs: autonomy (feeling in control), competence (feeling capable), and relatedness (feeling connected to others).</p>
-<p>When a disabled person chooses to share their story on their own terms, we call this <em>autonomous disclosure</em>. People disclosed for various reasons: requesting accommodations, building understanding, or connecting with others. Examples included a professor mentioning their limb difference on the first day of class to remind students that everyone faces obstacles and a writer blogging about their disability to control the narrative. Autonomous disclosure is linked to those basic psychological needs and is associated with higher self-esteem, a sense of competence, and feelings of belonging.</p>
-
-<p>Participants also exercised their autonomy by choosing not to disclose in certain situations, like when it didn’t feel safe, to maintain privacy, or to signal inappropriate behavior from others. </p>
-<p>In contrast, <em>compelled disclosure</em> occurs when someone feels they have no choice but to explain themselves. This happens when people ask prying questions, or—most frequently—when a person must explain their disability just to get access to a building or service. Feeling forced to disclose is often linked to distress, shame, and internalized ableism.</p>
-
-<h2>Taking Back Control</h2>
-<p>Participants highlighted the importance of autonomy in disclosure decisions. They recommended developing decision-making aids like pro-con lists and decision trees about disclosure. Having a prepared response to common questions can help people feel more in control of their privacy boundaries.</p>
-
-<p>While individual strategies are helpful, structural change is the ultimate way to support self-determination. Universal design—environments and policies that are proactively accessible to everyone promote autonomy. When a building is truly accessible, a person doesn't have to "come out" as disabled just to enter the front door. </p>
-
-<p>Furthermore, society needs to respect privacy boundaries. Just because a disability is visible does not mean the person's medical history is public property. As one participant said, “It’s harder to set those boundaries when it’s so obvious, because when people can observe something, a lot of people feel like then it’s kind of their right to find out more about it. And that’s not really the case. I’m still a person, and I deserve privacy.”</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/disability-is-diversity/202607/why-people-with-visible-disability-still-have-to-come-out" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/disability-is-diversity/202607/why-people-with-visible-disability-still-have-to-come-out</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/disability-is-diversity/202607/why-people-with-visible-disability-still-have-to-come-out</guid>
-            <dc:creator><![CDATA[Kathleen Bogart Ph.D.]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-shvetsa-3732862.jpg?itok=Whqw_pma" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Goal Gives Values a Body]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/authors/steven_hayes.jpg?itok=HwFV3hM7" alt="Steven C. Hayes Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sport and Competition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Goal Gives Values a Body</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to be a world-class fan.</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Sport is about competing hard within agreed rules and respect.</li><li style="margin-bottom:6px;">What matters is not the goal itself, but how pursuing it shapes who you become.</li><li style="margin-bottom:6px;">Feel anger, fear, and the will to win, but let your values and rules guide your actual choices.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/pexels-javier-gallegos-241846842-12313588.jpg?itok=W6i-W1ws" width="320" height="240" data-insert-type="image" title="Javier Gallegos/Pexels" alt="Javier Gallegos/Pexels"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Javier Gallegos/Pexels</div>
-</div>
-</div>
-</div>
-<p>In December 2000, West Ham United was playing Everton in a Premier League soccer match when one of those small moments happened that still has the power to teach.</p>
-<p>With the score tied 1-1 and just seconds left for West Ham to score, Everton goalkeeper Paul Gerrard charged well out of his penalty box to clear an incoming ball. He took a wrong step, his knee buckled, and he collapsed to the turf in intense pain, unable to move. The ball, still alive, bounced to a West Ham player who lofted the ball to their gifted but unpredictable forward, Paolo Di Canio. </p>
-
-<p>An open goal in front of him for a sure win, Paolo caught the ball with his hands and pointed to his fallen opponent. He stopped the game, forcing a tie. </p>
-<p>The crowd rose to applaud him, and FIFA gave him its Fair Play Award. But I doubt that the award is why this story is still being written about a quarter-century later. It has lasted because in that instant, everyone could see a deeper agreement that sits unnoticed beneath the games we play.</p>
-
-<p>Yes, we are here to compete. Yes, we want to win. </p>
-<p>But not like that.</p>
-<p>That is the thing about sport at its best. It is metaphor for war—but it’s not war. It seeks domination, but it’s not domination. It is not hatred wearing a scarf. Sport is an agreement to struggle beautifully toward an end that lives inside shared rules and cooperation.</p>
-
-<p>The World Cup is the perfect time to notice how very human that is. </p>
-<p>The whole planet is now leaning toward a soccer ball. My wife and son call out from the couch with every near goal, even though you can hardly call them soccer fans. Hearts pound. Nations sing. A penalty shot hits the post, and millions of bodies jerk at once across the globe. </p>
-
-<h2>The Difference Between Values and Goals in Play and Sport </h2>
-<p>I have spent much of my scientific life arguing that values are more important than goals. I still believe that. A goal is something you can achieve, check off, win, lose, reach, or fail to reach. A value is a quality of action. It is how you want to be while you are doing what you are doing.</p>
-
-<p>But there is an important wrinkle here, especially in play, sport, fun, and recreation.</p>
-<p>Often a goal gives values a body. That idea is in an acceptance and commitment therapy (ACT) aphorism: <em>Outcome becomes the process for the process to be the outcome. </em></p>
-<p>That’s not psychobabble. Read it again.</p>
-<p>Think of a young child playing tag. She points to a tree and shouts, “I can touch that tree before you touch me!” Is the tree important? Well, yes and no. There is nothing sacred about the bark. No one is handing out a trophy. No university will examine her tree-touching record.</p>
-
-<p>But the goal creates the game. It gives shape to the running, daring, dodging, squealing, and trying. That child will give every ounce of effort she has before she and the other children fall laughing into the green grass. The value is not hidden behind the goal. The value is the fun of pursuing it.</p>
-<p>That is why sport can be so beautiful as a metaphor for life itself.</p>
-
-<p>A white line, a clock, a whistle, a rule about what offside means, a net stretched across a frame: These are all arbitrary. And that’s the very point: They do not matter until human beings choose to matter about them. <em>Then</em> a ball crossing a line can carry beauty, courage, discipline, loyalty, teamwork, grief, effort, and grace along with it. And most of all? The fun of play. </p>
-
-<p>It’s not just sports. Have you ever noticed we speak of <em>playing</em> music or putting on a <em>play</em> in the theater? “Play” reminds us that in some contexts we already know how to pick an outcome and pursue it cooperatively without believing the outcome is the deepest point. It is not. The game is the point. The goal and the rules merely allow it to occur.</p>
-
-
-
-  
-
-
-<h2>What the Psychological Flexibility Model Reveals About Play</h2>
-<p>The psychological flexibility model inside ACT gives us a way to understand both the beauty and the danger.</p>
-<p>Psychological flexibility means learning to be more open, aware, and actively engaged in what matters. It does not mean you do not care. It does not mean you float above the game like a calm little cloud of spiritual superiority. Please. If you are a fan, be a fan. Wear the colors. Sing the song. Yell at the screen. Let your heart rate rise. Care enough that losing hurts.</p>
-
-<p>The question is not whether you care. The question is <em>how</em> you care. Do you do it in a way that makes you larger or smaller? Does your love of your team open you to connection, joy, loyalty, humor, and shared humanity? Or does it shrink you into contempt, tribal hatred, and the need to humiliate someone else?</p>
-
-<p>That is where the World Cup becomes more than entertainment. It becomes practice.</p>
-<p>For players, psychological flexibility is visible when they carry pressure and still allow their bodies and the many thousands of hours of playing their bodies intuitively contain, to do what can be done within the rules. </p>
-
-<p>A great athlete is not someone without fear, anger, doubt, or the desire to win. A great athlete is someone who can feel all of that and still make the pass to the open teammate without thinking more than a microsecond if it is within the rules and moves toward an arbitrary goal. Win or lose, a player like that knows what everyone will correctly say later: “it’s just a game.” </p>
-
-<p>For fans, the same principle applies—from the stands, the pub, the living room, and the group chat.</p>
-<p>When your team scores, can you celebrate without turning the other side into garbage? When the referee misses a call, can you protest without surrendering your dignity? When your team loses, can you grieve without needing someone to hate? When the opponent plays beautifully, can you let yourself see it?</p>
-
-<p>That last one is harder than it sounds.</p>
-<p>The human mind is a loyalty machine because we are the social primates. Once we say “us,” the mind quickly builds a “them.” That is not all bad. Belonging matters. Shared identity can lift us up. A stadium full of people singing together can remind us that we were never meant to be isolated little problem-solving machines locked inside our skulls.</p>
-
-<p>But belonging turns dangerous when it fuses with contempt.</p>
-<p>You can love your side without despising the other. In fact, if you love the game, you have to love the existence of the opponent. Without them, your team has no stage on which to be brave, or courageous, or persistent!</p>
-<p>That is what Di Canio’s gesture revealed. He was not refusing competition. He was protecting it. He saw that the contest only has meaning inside a larger human agreement. The crowd is not just a noise machine. The game is a shared world, and everyone on the field helps create it.</p>
-
-<p>Even the person trying to beat you.</p>
-<p>Cheer in a way that leaves you proud of yourself afterward. Argue in a way that does not require an apology. Celebrate in a way that makes room for the other side’s sadness. Lose in a way that keeps your heart open.</p>
-<p>The scoreboard matters—because <em>we</em> matter about it. Without the tree, the child’s running has no shape.</p>
-
-<p>But the tree was never the whole point.</p>
-<p>The point was the joy of running to get there.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/get-out-of-your-mind/202607/the-goal-gives-values-a-body" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/get-out-of-your-mind/202607/the-goal-gives-values-a-body</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/get-out-of-your-mind/202607/the-goal-gives-values-a-body</guid>
-            <dc:creator><![CDATA[Steven C. Hayes Ph.D.]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-javier-gallegos-241846842-12313588.jpg?itok=MbRJAJVW" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Grieve a Changing Planet]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-02/Phil_Lane_Headshot-removebg-preview.jpg?itok=9C0kPFbx" alt="Phil Lane MSW, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Climate Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Grieve a Changing Planet</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A grief framework can help us cope with climate anxiety.</h2><p style="font-size:0.9em;color:#666;">Posted July 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">"Eco-grief" related to climate and environmental change is becoming a more common experience.</li><li style="margin-bottom:6px;">This unprecedented type of grief presents unique challenges and complexities.</li><li style="margin-bottom:6px;">Psychological understanding must evolve along with environmental and societal changes.</li>
-            </ul>
-          </div>
-                    <p>As I write this post, smoke obscures what would otherwise be a sunny day here in central New Jersey. An air quality alert marking today’s atmospheric conditions “unhealthy” is in place as smoke from Canadian wildfires blows south and east into many areas of the United States. According to the Canadian Climate Institute, “accelerating climate change, largely from the burning of fossil fuels makes wildfires bigger, hotter, and more destructive” (Canadian Climate Institute, 2026). Today’s conditions are merely one example of how the planet is changing. As these noticeable changes occur, many of us find ourselves feeling helpless and unnerved as we try to acclimate to an environment that feels increasingly different than it once did. </p>
-
-<p>Psychologically, there is always discomfort attached to not feeling in control and to living in a state of uncertainty, and the data related to climate anxiety support this reality. In the United States, the proportion of individuals worried about climate change increased from 51 percent in 2010 to 64 percent in 2023; in the United Kingdom, search queries around “climate anxiety” surged 27-fold in the first 10 months of 2023 compared to the same period in 2017 (Kühner et al., 2025).</p>
-
-<h2>The Concept of Eco-Grief</h2>
-<p>Climate anxiety is real and prevalent, and if you are a therapist, the topic has likely entered your office, accompanied by a sense of anxiety, hopelessness, and resignation.</p>
-<p>It might sound strange, but a grieving process can help us cope with this type of worry and despair. Grief, as we now understand it, is not relegated to physical deaths; rather, it can be experienced during times of transition, and in relation to letting go of the way things used to be or the way we wish they had been. Think of it in terms of fireflies: When I was a child in the 1980s, the summer night sky was often illuminated by fireflies, providing an idyllic summer landscape. These days, I swear I see far fewer fireflies and, many nights, none at all. Recent data from the Xerces Society for Invertebrate Conservation shows that due to a variety of threats including habitat loss, light pollution, pesticide use, and climate change, many firefly species are now at risk of extinction (Fallon, 2025). When I truly inspect my feelings about this change to the night sky, I can absolutely frame it as a grieving process: What was once there no longer is, and that feels painful, makes me angry, inspires me to take action, and pushes me to find ways to accept a new reality.</p>
-
-<p>All of this is almost perfectly in line with “traditional” grieving process we go through when a loved one dies. We might, in a nonlinear fashion, be in pain, be angry, want to do something, and consider ways to move forward in a different reality. Recently, the phrase “eco-grief” has entered the psychological parlance, and it is, indeed, an apt way to name the grief that can be attached to the complex process of coping with significant and often irreversible changes in our environment. According to Ashlee Cunsolo, director of the Labrador Institute, and Neville Ellis, research fellow at the University of Western Australia, people “experience climate grief when they notice or anticipate the loss of species, ecosystems and meaningful landscapes due to acute or chronic environmental change” (Cunsolo &amp; Ellis, 2018). Clinical social worker Andrew Bryant adds, “Grief is a normal human reaction to loss or anticipated loss…The loss of stability or a predictable future—or anticipating exposure to other people's loss—is naturally going to trigger grief” (Allen, 2021). An acknowledgment and acceptance of “eco-grief” as a real and prevalent manifestation of the grieving process can help us to normalize this experience.</p>
-
-<h2>Unique Challenges of Eco-Grief</h2>
-<p>It is important to note, however, that this type of grief, having no real precedent, presents some unique challenges and differences from more widely understood types of grief. First, because loss associated with environmental changes is a relatively new concept, it lacks the same types of cultural supports and practices that are in place for more traditional manifestations of grief. So continued exploration of and discussion about this topic is vital to broadening our understanding of climate grief. Second, it is necessary to recognize that certain populations are more susceptible to facing “eco-grief,” particularly indigenous communities and people who make their living off the land. A recent study found that people like climate scientists and members of indigenous communities may be more likely to experience climate grief because they have more intimate knowledge of the ways climate change is already altering the environment (Chu &amp; Yang, 2019). All this to say that as we acknowledge climate grief as a novel phenomenon, we must continue to learn about its intricacies.</p>
-
-<p>As a therapist who works often with grieving individuals, I can tell you that grief must be witnessed; if it is left ignored or faced in isolation, it becomes that much harder to cope with in a healthy way. Our understanding of human psychology is constantly evolving and often evolves along with environmental, cultural, or societal changes (for example, read some of the psychological works of the midcentury and you will see how fears of nuclear annihilation informed psychology at that time). Understanding this relatively new type of grief can strengthen our larger understanding of human nature and allow us to support those who are experiencing feelings of grief and loss related to our changing planet. </p>
-
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/am-i-dying/202607/how-to-grieve-a-changing-planet" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/am-i-dying/202607/how-to-grieve-a-changing-planet</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/am-i-dying/202607/how-to-grieve-a-changing-planet</guid>
-            <dc:creator><![CDATA[Phil Lane MSW, LCSW]]></dc:creator>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/matt-palmer-k5kmnzhv1pg-unsplash.jpg?itok=WfiLaduE" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-eslames1-31160100.jpg?itok=kpA9fyBa" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
