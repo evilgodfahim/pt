@@ -4,119 +4,338 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 17:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 19:05:15 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 17:03:43 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 19:05:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Problem With Forced Apologies]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/bronfman_sagarin.png.jpg?itok=n0olKWh_" alt="Bronfman Sagarin" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Problem With Forced Apologies</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Coercing children to say "sorry" provides little benefit.</h2><p style="font-size:0.9em;color:#666;">Posted July 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Serotonin Syndrome: What You Need to Know]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/head-and-shoulders_photo-removebg-preview_1_.png.jpg?itok=AVYgrfAi" alt="Marcela Gottschald" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">SSRIs</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Serotonin Syndrome: What You Need to Know</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Symptoms of serotonin toxicity range from mild to life-threatening.</h2><p style="font-size:0.9em;color:#666;">Posted July 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Forced apologies teach insincerity, not genuine regret or behavior change.</li><li style="margin-bottom:6px;">Victims are often required to accept apologies, ignoring their needs or feelings.</li><li style="margin-bottom:6px;">Compelled apologies may allow harmful behavior to cycle without real consequences.</li>
+              <li style="margin-bottom:6px;">Serotonin syndrome is rare, but it can become a medical emergency if not recognized promptly.</li><li style="margin-bottom:6px;">Serotonin syndrome usually occurs after overdoses, dose increases, or using multiple serotonergic substances.</li><li style="margin-bottom:6px;">For most people taking antidepressants as prescribed, serotonin syndrome remains an uncommon complication.</li>
             </ul>
           </div>
-                    <p dir="ltr">A personal story encapsulates many of the issues I (EB) have with forced apologies. </p>
-<p dir="ltr">When my daughter was in fourth grade, she encountered a challenging peer. It first came to my attention when another parent, who had observed the activities of the after-school program at her own child’s pickup, told me that my daughter was being “bullied.” The child who was reportedly bullying her was in fifth grade and struggling. Interestingly, neither the program's staff nor my daughter alerted me to this problem. </p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/olga-delawrence-b9cayhnfmho-unsplash.jpg?itok=x_jE_8sA" width="320" height="213" data-insert-type="image" title="Olga DeLawrence / Unsplash" alt="Olga DeLawrence / Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Olga DeLawrence / Unsplash</div>
+</div>
+</div>
+</div>
+<p dir="ltr">"I've just started an antidepressant and read about serotonin syndrome. How worried should I be?"</p>
+<p dir="ltr">It's a reasonable concern, especially given how much conflicting information about antidepressants circulates online. </p>
+<p dir="ltr">Serotonin syndrome, also known as serotonin toxicity, is a rare but potentially life-threatening condition. It is usually caused by combining medications that increase serotonin activity in the central nervous system or, less commonly, by a substantial increase in the dose of a serotonergic medication.</p>
 
-<p dir="ltr">Once it was on my radar, I was able to attain a lot of information from the after-school program. I found out that this boy was drawing cartoons in which he killed my daughter and her best friend. One day, he chased her around the gym, screaming, “I’m going to give you pain,” which the school team at first interpreted as them “playing.” When he caught her, he was physically aggressive. </p>
+<p dir="ltr">Serotonin is a neurotransmitter naturally produced by the body that plays an essential role in several physiological functions, including mood regulation. For that reason, medications that affect serotonin signaling are widely prescribed to treat a range of psychiatric conditions, either alone or in combination with other drugs.</p>
 
-<p dir="ltr">Possibly because I was now hypervigilant to this peer, the after-school staff imposed a penalty. He had to go home and write an apology for his behavior. This seems like a typical response from adults in this type of situation: Require an apology. I was with my daughter when she opened the apology note from him at home the next day.</p>
+<p dir="ltr">Given how commonly these medications are prescribed, questions like the one that opens this post are understandable. The challenge is separating real risks from common misconceptions.</p>
+<h2 dir="ltr">Causes of serotonin syndrome</h2>
+<p dir="ltr">Since this is a health problem induced by medication use, the cause is directly related to how these drugs affect serotonin activity in the body.</p>
 
-<p>Why do I dislike forced apologies as a strategy? </p>
-<ol>
-<li dir="ltr">Requiring one to say they are sorry when they aren’t teaches falseness. Adults sometimes do not even attempt to ascertain whether the person is sorry before demanding that they apologize. </li>
-<li dir="ltr">Sometimes the apology is the consequence, and hence the sole response. Other consequences, and possibly solutions, can be avoided through saying “sorry”—even when delivered with the clear message that the person does not feel regret for their behavior.</li>
-<li dir="ltr">Forced apologies don’t take into account what the person who has been wronged wants. Even worse, often the person who has been wronged is cajoled into accepting an apology, regardless of how they feel about the incident. They are encouraged to respond as if the apology is genuine and to forgive the other person. Wronged people should be involved in discussing a preferred resolution, rather than being made to accept an apology or to feel guilty if they reject it.</li>
-<li dir="ltr">The apology compels the wronged person to interact with the aggressor again, even when the most sensible solution would be avoidance. I have directly witnessed many children in preschool being hit by peers. Sometimes the children are placed into contact again while the aggressor is asked to touch with “gentle hands,” as an enactment of a forced apology. Maybe the child who has been hit doesn’t want to be touched again—gentle or not. And, how many times does the gentle hands intervention provide another opportunity to hit? </li>
-<li dir="ltr">Perhaps my biggest concern is that forced apologies become part of a loop where a person engages in a negative behavior, says they’re sorry, the transgression is absolved, and the person is then free, with a clean slate, to engage in the negative behavior again.</li>
-<li dir="ltr">Unlike forced apologies, a genuine, unsolicited apology can be a good thing, especially when it comes spontaneously from the transgressor with an appropriately matching affect—and, most importantly, a commitment to a plan for changed behavior. A reparative action can be part of a sincere apology. A considered repair can be very powerful.</li>
-</ol>
+<p dir="ltr">Selective serotonin reuptake inhibitors (SSRIs), such as sertraline, escitalopram, and fluoxetine, are perhaps the group most commonly associated with serotonin syndrome, whether because of dose increases, drug interactions, accidental misuse, or intentional overdose.</p>
+<p dir="ltr">Although SSRIs are the medications most frequently involved simply because they are so widely prescribed, the most severe cases are more commonly associated with MAOIs, such as phenelzine and tranylcypromine, particularly when combined with other serotonergic drugs.</p>
 
-<p dir="ltr">In my professional life as a psychologist, I avoid asking kids to make apologies unless they feel regret and are willing to change their behavior. My action plan with child patients is often to build self-awareness about behavior, identify when behavior ought to change, and develop plans in order to work towards more effective and ethical ways to interact with other people. Forced apologies generally don’t feel good to the receiver of them. Interestingly, if not sincere, they usually don’t feel good for the apologizer, either. Where’s the benefit?</p>
+<p dir="ltr">Other substances, including some prescription medications, over-the-counter products, herbal supplements, and recreational drugs, may also trigger the condition. Regardless of the specific agent involved, the underlying mechanism is the same: excessive serotonin activity within the nervous system.</p>
+<h2 dir="ltr">Why does serotonin syndrome occur?</h2>
 
-<p dir="ltr">So what happened with the forced apology my daughter received? She just shrugged it off, saying he was made to write it, didn’t mean it, and that he would be back at it again the next day, which indeed he was. </p>
+<p dir="ltr">Serotonin is involved in much more than mood regulation. It also influences attention, behavior, and thermoregulation.</p>
+<p dir="ltr">When serotonin activity becomes excessively high, several types of serotonin receptors are overstimulated simultaneously, which is why the problem can affect multiple organ systems and produce a wide range of symptoms.</p>
 
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/aligning-for-growth/202607/the-problem-with-forced-apologies" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/aligning-for-growth/202607/the-problem-with-forced-apologies</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/aligning-for-growth/202607/the-problem-with-forced-apologies</guid>
-            <dc:creator><![CDATA[Elisa T. Bronfman, Ph.D., and Johanna D. Sagarin, Ph.D.]]></dc:creator>
-            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-kseniachernaya-8535671.jpg?itok=FFdQ8Qs3" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[You’re Not Being Lazy, You’re Being Smart]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/susan_krauss_whitbourne.png.jpg?itok=LcxtEHRt" alt="Susan Krauss Whitbourne PhD, ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">You’re Not Being Lazy, You’re Being Smart</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to know when to give up, or not even try in the first place.</h2><p style="font-size:0.9em;color:#666;">Posted July 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">New research suggests that knowing when to apply effort and when to relax can be adaptive.</li><li style="margin-bottom:6px;">Effort feels worthwhile when the expected reward or information gain outweighs the costs.</li><li style="margin-bottom:6px;">The brain continuously calculates eight types of effort costs, both objective and subjective.</li>
-            </ul>
-          </div>
-                    <p>The idea that you need to keep busy permeates much of today’s culture. Tasking, and especially multitasking, seems to be the sign of being smart. By contrast, sitting idly by while others are engaged in seemingly useful work can make you look like there’s something wrong with you. But is it possible that something is wrong with those other people?</p>
-
-<h2>A Cost-Benefit Analysis of Effort</h2>
-<p>In a 2026 paper led by psychologist Nathalie André and colleagues at the University of Poitiers, the question of how to decide whether to exert effort gets a fresh look from the field of computational neuroscience. In general, people (and animals) behave according to the “principle of least effort,” meaning that all else being equal, they tend to seek the easiest way to gain a reward or avoid punishment. </p>
-
-<p>However, all effort is not the same. There are times, they note, when effort becomes an acceptable cost. If the effort produces “proportionate outcomes,” then it could be worth investing in. The brain helps us make this decision. It “weighs the costs and benefits of exerting effort in order to allocate resources efficiently and maintain allostasis,” or the optimal use of the body’s systems. People will seek challenging tasks, such as competing in extreme sports, through this allostatic principle because they regard the effort as worth the cost.</p>
-
-<p>Here’s how the brain does this. “Active inference theory” says that organisms try to figure out whether it’s worth the effort to expend their energy in terms of information gain. If you believe an effort will give you valuable knowledge, you’ll exert yourself, but if you get nothing out of it, then you won’t.</p>
-
-<p>People want to, in this model, avoid wasting effort. Think of it this way: You are willing to spend money on a product or service you think is worth it. You don’t completely wish to avoid spending money, you just don’t want to waste it. In the same way, you’ll exert yourself if you think that the benefit is worth the cost.</p>
-
-<h2>The Eight Costs of Effort</h2>
-<p>This new perspective on effort shows that people don’t just coast along, putting out the least amount of energy needed to get what they want. Effort itself isn’t aversive; only effort that doesn’t produce a desired outcome is.</p>
-<p>Building on prior work by Harvard psychologist Roy Baumeister, one of the co-authors of the study, the research team broke effort down into its eight main costs, which are as follows:</p>
-
-<ol>
-<li><strong>Metabolic: </strong>bodily energy expended</li>
-<li><strong>Cognitive control: </strong>how much thought is needed</li>
-<li><strong>Time:</strong> estimated time to complete the task</li>
-<li><strong>Time pressure: </strong>how difficult the task is</li>
-<li><strong>Physical and mental fatigue: </strong>whether the task will be depleting</li>
-<li><strong>Pain:</strong> whether it will hurt</li>
-<li><strong>Frustration: </strong>opportunity cost of tackling the task</li>
-<li><strong>Risks and threats: </strong>anxiety caused by the task</li>
-</ol>
+<p dir="ltr">Serotonin also acts outside the brain. Because it plays an important role in regulating gastrointestinal motility, diarrhea is one of the most common symptoms.</p>
+<h2 dir="ltr">Symptoms of serotonin syndrome</h2>
+<p dir="ltr">Serotonin syndrome is traditionally described as a triad involving mental status changes, autonomic hyperactivity, and neuromuscular abnormalities. Symptoms usually develop within hours of starting a serotonergic medication, increasing its dose, or combining two or more serotonergic drugs.</p>
 
 
-<p>Each of these costs can have objective and subjective features. You can measure such aspects of cost as time and bodily energy, but the subjective aspects rely only on your perception. Nevertheless, the brain conducts its cost estimates on a continuous basis, providing you with information about whether you should give up or keep trying.</p>
+<p dir="ltr">The dramatic presentations often seen on medical TV shows can happen, but they are the exception rather than the rule.</p>
+<p dir="ltr">In clinical practice, the condition is better understood as a spectrum. Cases range from mild and self-limited to life-threatening. This variability also makes mild cases more difficult to recognize.</p>
 
-<p>Take the example of exercise, a favorite topic within Baumeister’s ego depletion theory. This theory explains the paradoxical ways in which people who run marathons immediately go out for a beer afterwards. You’ve done something good for your body, and that uses up all your “ego” resources. Now it’s time to let loose.</p>
+<p dir="ltr">Mental and behavioral symptoms:</p>
+<ul>
+<li dir="ltr">Agitation</li>
+<li dir="ltr">Excitement</li>
+<li dir="ltr">Restlessness</li>
+<li dir="ltr">Confusion</li>
+<li dir="ltr">Delirium</li>
+</ul>
+<p dir="ltr">Autonomic symptoms:</p>
+<ul>
+<li dir="ltr">Dilated pupils</li>
+<li dir="ltr">Sweating</li>
+<li dir="ltr">Increased heart rate</li>
+<li dir="ltr">Increased respiratory rate</li>
+<li dir="ltr">Diarrhea</li>
+</ul>
+<p dir="ltr">Neuromuscular symptoms:</p>
+<ul>
+<li dir="ltr">Tremor</li>
+<li dir="ltr">Hyperreflexia</li>
+<li dir="ltr">Clonus (rhythmic, involuntary muscle spasms)</li>
+<li dir="ltr">Muscle rigidity in more serious presentations </li>
+</ul>
 
 
 
   
 
 
-<p>However, the cost of exercise could be seen as low effort if it’s something you truly enjoy. Indeed, exercise brings about a host of positive emotional states as long as it matches the intensity that you can maintain (before pain sets in). </p>
-<p>All of this leads to the conclusion that effort in and of itself is not aversive. As long as your brain goes through the calculus of deciding that the costs outweigh the benefits, you’ll be willing to put yourself through whatever actions are needed to get to your goal. It doesn’t matter whether you’re an Olympic athlete or a crossword puzzle fanatic—you’ll do what you need to do to get those rewards.</p>
+<h2 dir="ltr">How common is serotonin syndrome?</h2>
+<p dir="ltr">For people taking an antidepressant exactly as prescribed, serotonin syndrome remains an uncommon complication. Most reported cases occur after drug interactions, overdoses, or inappropriate medication combinations. </p>
+<p dir="ltr">At the same time, mild cases are probably underdiagnosed. Their symptoms may be mistaken for medication side effects or attributed to other medical conditions.</p>
 
-<h2>A New View of Laziness</h2>
-<p>Returning to the opening question of whether being idle is inherently a bad sign, you can see that tasking or multitasking is the right move when the rewards outweigh the costs. But if there’s no point, either from an objective or subjective perspective, you might as well conserve your energy until something worthwhile comes along. Returning to the money metaphor, you’ll put it in the bank if there’s nothing you want at the moment, so you’ll have some to spend when you do.</p>
+<p dir="ltr">Part of the challenge is that there is no single diagnostic test for it. Diagnosis relies on clinical assessment, taking into account the patient's symptoms, medication history, and the use of other substances.</p>
+<h2 dir="ltr">Managing your risk of serotonin syndrome</h2>
+<p dir="ltr">Although the overall risk is low, serotonin syndrome deserves attention because early recognition can prevent serious complications. Fortunately, when serotonergic medications are used as prescribed, the overall risk of developing it is low.</p>
 
-<p>Some of this may seem obvious to you, but what is particularly impressive about the André et al. article is that they were able to apply their analysis to findings from a wealth of previous studies of infants and children. These studies show that even early in life, we don’t regard effort as aversive. In one of these, 6-year-old children smiled more after completing a difficult task than an easy one. They also gave off larger smiles when a task was new than when it was repeated (involving less effort). As the author team concludes: “These findings elegantly demonstrate that pleasure tracks information gain rather than effort per se.” Going further, the authors argue that play involving effort is a basic ingredient of healthy relationships.</p>
+<p dir="ltr">One of the best ways to reduce both the likelihood and severity of the condition is to make sure every healthcare professional involved in your care knows about all the medications you are taking, including over-the-counter products, herbal supplements, and recreational substances when relevant.</p>
+<p dir="ltr">It is also helpful to keep track of any new symptoms that appear after starting a medication or changing its dose. This information can be valuable when determining whether symptoms represent expected side effects, serotonin syndrome, or another medical condition.</p>
 
-<p>Laziness, or the avoidance of effort, isn’t inherently bad or (based on the principle of least effort) good. It all depends on the cost-benefit analysis people perform when given a choice. It’s the optimal exertion of energy that is “highly adaptive.” Taking this too far could be a problem, of course. If you never exert yourself, then this could spell adaptive difficulties. </p>
+<h2 dir="ltr">Serotonin syndrome treatment</h2>
+<p dir="ltr">Treatment depends on the severity of the symptoms.</p>
+<p dir="ltr">For mild cases, discontinuing the offending medication is often enough. However, this should always be done under medical supervision, as abruptly stopping some antidepressants can cause additional problems.</p>
+<p dir="ltr">When symptoms are more serious, hospital care may be necessary for close monitoring of vital signs and supportive treatment.</p>
 
-<p><strong>To sum up,</strong> knowing when to be lazy and when to go all out can be an effective way to use your resources. Managing effort is an important way to ensure that, like money in the bank, it will be available for pursuing what you find most fulfilling.</p>
+<p dir="ltr">In severe cases, admission to an intensive care unit is often required. Treatment may include serotonin antagonists, medications to control heart rate and blood pressure, intravenous fluids, sedation, and measures to reduce dangerously high body temperature.</p>
+<h2 dir="ltr">Conditions with similar symptoms<strong> </strong></h2>
+<p dir="ltr">Several medical conditions can resemble serotonin syndrome, which partly explains why diagnosis may be challenging. In most cases, the patient's history, the timing of symptom onset, and the physical examination help distinguish one condition from another.</p>
+
+<ul>
+<li dir="ltr">Anticholinergic toxicity can also cause agitation, delirium, and tremor. However, dry mouth, reduced bowel movements, and urinary retention are much more characteristic. Reflexes and muscle tone also usually remain normal.</li>
+<li dir="ltr">Malignant hyperthermia is triggered by certain anesthetic agents during or shortly after surgery. The timing of symptom onset, together with the surgical setting, usually makes the diagnosis more straightforward.</li>
+<li dir="ltr">Neuroleptic malignant syndrome is associated with antipsychotic medications, particularly first-generation agents. Unlike serotonin syndrome, it usually develops over days to weeks rather than within hours after medication changes.</li>
+<li dir="ltr">Antidepressant discontinuation syndrome may share some symptoms with serotonin syndrome, but it occurs after reducing or stopping an antidepressant rather than after increasing serotonin activity.</li>
+</ul>
+
+<p dir="ltr">Withdrawal from other psychoactive substances, as well as infections or inflammatory conditions affecting the central nervous system, may also present with similar symptoms and should be considered during the diagnostic evaluation. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202607/youre-not-being-lazy-youre-being-smart" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/dose-and-meaning/202607/serotonin-syndrome-what-you-need-to-know" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202607/youre-not-being-lazy-youre-being-smart</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202607/youre-not-being-lazy-youre-being-smart</guid>
-            <dc:creator><![CDATA[Susan Krauss Whitbourne PhD, ABPP]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/dose-and-meaning/202607/serotonin-syndrome-what-you-need-to-know</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/dose-and-meaning/202607/serotonin-syndrome-what-you-need-to-know</guid>
+            <dc:creator><![CDATA[Marcela Gottschald]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/effort_pexels-ardit-mbrati-216809103-16966341.jpg?itok=sZ6FCxwX" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/olga-delawrence-b9cayhnfmho-unsplash.jpg?itok=Aam27YXY" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Leaders Can Learn to Trust Themselves]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/ina__1_.png.jpg?itok=4YuAMMbZ" alt="Ina Gjikondi Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Leaders Can Learn to Trust Themselves</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">True agency emerges by listening to the body’s direct knowledge.</h2><p style="font-size:0.9em;color:#666;">Posted July 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Chronic decision fatigue arises from a lack of time, rather than from losing trust in one's inner knowing.</li><li style="margin-bottom:6px;">A person can come to a choice not only through analysis, but directly — as an embodied, sensory knowing.</li><li style="margin-bottom:6px;">By studying moments when they knew without doubt, a person builds a baseline for knowing.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/what__4_.png.jpg?itok=k3_WdPOl" width="320" height="180" data-insert-type="image" title="AI (ChatGPT) and the author" alt="AI (ChatGPT) and the author"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: AI (ChatGPT) and the author</div>
+</div>
+</div>
+</div>
+<p>"I don't know how to make decisions anymore. I don't trust myself." </p>
+<p>She said it before she had fully sat down, and then reached straight for the remedy: time-management skills, a way to prioritize, something to cut through the fatigue of choosing. </p>
+<p>"How can I know how to trust myself?" she asked. "I am stuck in decision fatigue. I need a matrix with criteria to evaluate my options on this project."</p>
+
+<p>I asked her if I could ask a question; she agreed to try answering it with her eyes closed. "Can you remember a moment when you knew exactly what to do?"</p>
+<p>She was quiet. Then: "This morning, when I picked my aubergines in my garden. I know exactly when they are ready. And I like to pick them with my eyes closed."</p>
+
+<p>With your eyes closed, I said, how do you know?</p>
+<p>"When I touch them, they're plump—the pores in the skin feel a little warmer, juicier, not as hard as when they're not fully ripe. And there's a scent coming through them; they smell different. When I open my eyes, I can see the most shimmering purple color, and my whole mouth remembers my grandmother's cooking, still warm in that earthen dish, the mud dish, we called it—the one she made everything in." </p>
+
+<p>And then she adds, "My grandmother taught me about the garden and all the vegetables and the fruit, and the flowers. It was our little game."</p>
+<p>Her eyes were still closed, and a few tears came through. It was a beautiful remembering.</p>
+<p>So I offered: "That decision you're weighing—the one about the project that you are stuck in—can we try it on this way?" </p>
+
+<p>She nodded. </p>
+<p>"You're in the garden. You approach the project. Now reach out and touch it. What do you feel?"</p>
+<p>"Not a ready aubergine. It's a little slimy, even—like the droplets that come out when you cut something too early. And the earth around it is dry. It looks like it needs water." </p>
+<p>She opened her eyes. "This project needs more time. It needs a little more attention, a little more water. Not yet." And then, wide-open joy: "I can't believe this. I do know. I had forgotten this."</p>
+
+<h2>How We Come to Know</h2>
+<p>She asked how to manage decisions and reduce fatigue, but chronic decision fatigue is rarely about time or too many options. It stems from losing the ability to make choices directly. </p>
+<p>There are two ways of knowing: one that analyzes from the outside, and one that knows directly and embodies experience. Mezirow (1991) called it a disorienting dilemma: The moment the familiar, analytical way of making sense stops working, and something in us goes still with doubt. The way back is not around the thing again. It is in and through the senses, through the body.</p>
+
+<p>We have inherited a narrow story about knowing: that it happens in the "head," in language, in reasons we can defend out loud. We know the world through the body long before we reason about it. Perception, Merleau-Ponty (2012) insisted, is not an operation the mind performs upon experience; it is something the flesh already lives. To know is first to be in contact.</p>
+
+<p>My study of ecocentrism in coach education kept surfacing exactly these more-than-cognitive ways of knowing—sensory, intuitive, embodied—and naming the body, centered in the heart, as the true site where knowing happens (Gjikondi, 2025). This is not the opposite of knowledge. It is its oldest root, known directly through our primal senses.</p>
+
+<h2>Why the Aubergine Knows First</h2>
+<p>My central research finding was this: The recognition of non-human agency strengthens human agency (Gjikondi, 2025). When we let the plant, the soil, the season be genuine partners in our knowing—teachers rather than objects—something is returned to us. And the non-human is not always a plant, or an animal; it can be a living memory in your earthly body.</p>
+
+
+
+  
+
+
+<p>The aubergine is not a metaphor my client reached for. It is a place where her knowing has never once failed her—a body of competence built in relationship, handed down across a kitchen table. She simply knew, because her body had been trained by years of loving attention.</p>
+<p>So when I asked her to reach out and touch the project, I was borrowing a channel she already trusted completely and letting the decision travel down it. The slime, the dry earth, the not yet—that was her own accurate knowing, speaking in the only language it never doubts. And that is the language of her body, and aubergine is what her knowing feels like.</p>
+
+<h2>Building a Baseline for Knowing</h2>
+<p>You can build embodied knowing deliberately.</p>
+<ul>
+<li><strong>Find your aubergine</strong>. Name one domain where your body knows without hesitation.</li>
+<li><strong>Study its signature</strong>. What does "ripe" feel like in you—the scent, the give, the warmth, the settledness? And what does "not yet" feel like—the slime, the dry earth, the slight pulling-back?</li>
+<li><strong>Try the decision on</strong>. Close your eyes, hold the decision in your hands, and let your body report: ripe, or not yet?</li>
+<li><strong>Return and calibrate</strong>. Do this often enough, and you build a library of your own knowing. It lives in your hands, and in your throat, and behind your ears, and in your hair.</li>
+</ul>
+
+<h2>A Leader Who Trusts Her Knowing</h2>
+<p>We do not think our way back to knowing. We remember it. Agency is not something a leader reaches for out in the world; it is something she recovers by going into the body that has been slowly, accurately knowing all along, often since childhood, perhaps in a garden.</p>
+<p>"I do know. I had forgotten this." Every leader I sit with is closer to that sentence than she believes. And a leader who trusts her own knowing gives everyone around her permission to trust theirs—which may be the most important decision she ever makes, and the one her body already knew how to make.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-inner-life-of-the-leader/202607/how-leaders-can-learn-to-trust-themselves" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-inner-life-of-the-leader/202607/how-leaders-can-learn-to-trust-themselves</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-inner-life-of-the-leader/202607/how-leaders-can-learn-to-trust-themselves</guid>
+            <dc:creator><![CDATA[Ina Gjikondi Ed.D.]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/what__4_.png.jpg?itok=HOw3qXug" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dyscalculia: The Solution Is a Numbers Game]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/coral_ps_hoh.png.jpg?itok=KdcMuZEQ" alt="Coral PS Hoh" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Academic Problems and Skills</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Dyscalculia: The Solution Is a Numbers Game</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Learning math depends the efficiency of five brain systems.</h2><p style="font-size:0.9em;color:#666;">Posted July 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Math difficulty, or dyscalculia, is more than just "being poor at math" and often co-occurs with dyslexia.</li><li style="margin-bottom:6px;">Math development depends on five functional brain systems, including the linguistic.</li><li style="margin-bottom:6px;">Addressing dyscalculia should begin with the linguistic system, which technology can now correct.</li>
+            </ul>
+          </div>
+                    <p>Many people think that they are poor at math. But that is different from a real problem with quantification that affects an estimated 7 percent of the population (Haberstroh &amp; Schulte-Korne, 2019). Although we may not be one of them, math difficulty affects us all: It exacts a high cost societally, in terms of educational investment and lost productivity. </p>
+
+<h2>"Not Good at Math"—When Is It More Than That?</h2>
+<p>Alex is 10 but still can't add up to 10 correctly, even when counting with his fingers. Sam has spent every summer with tutors trying to help her retain math facts. They never stick. Except for this quantitative problem, Alex loves fixing all sorts of mechanical gadgets and would make a good engineer someday. Sam designs models in 3D and wants to grow up to be an architect. But engineering and architecture need a strong math foundation.</p>
+
+<p>When the will and effort are there, and yet the child still struggles with math more than is typical, parents have to probe deeper. Can it be dyscalculia?</p>
+<h2>What Is Dyscalculia? </h2>
+<p>Dyscalculia, also known as a math learning disability, is a neurologically based impairment. The brain of a person with dyscalculia operates in non-typical ways when doing math. </p>
+
+<p>Math involves many concepts, symbols, procedures, and applications. Thus, math ability is highly complex, and any part may not be functioning typically or efficiently in the brain. By extension, dyscalculia is not a unitary condition but varies from person to person. Neither is it a sign of low intelligence, laziness, or poor instruction, given its prevalence. </p>
+
+<h2>Signs of Dyscalculia Across Age Groups</h2>
+<p>Math ability occurs along a continuum. At one end, mathematically talented children show strong tendencies to quantify everything around them, even early in life. For example, they wonder how much water a football stadium can hold when they are there to watch a game. At the other end, a 5th grader with a math disability may still not know the answer to 5 x 2.</p>
+
+<p>Mathematical knowledge is cumulative. Arithmetic operations (addition, subtraction, multiplication, and division) form the foundation for algebra, geometry, and calculus. Thus, missing some part of the foundation affects the learning of the higher levels. </p>
+<p>The age groups below are expected to be able to do the following: </p>
+
+<p><strong>Preschool Through Kindergarten</strong></p>
+<ul>
+<li>Count forward from 1 to 10 automatically</li>
+<li>Write and name each of the 10 numerals (0 to 9)</li>
+<li>Pick out the bag with the largest number of lollipops from a group of bags holding 1-10 of them each</li>
+</ul>
+<p><strong>Elementary School—by 3rd Grade</strong></p>
+<ul>
+<li>Know up to the five times table</li>
+<li>Add and subtract numbers with multiple digits</li>
+<li>Basic understanding of fractions</li>
+</ul>
+
+
+<p><strong>Late Primary—by 5th Grade</strong></p>
+<ul>
+<li>Know up to the 10 times table</li>
+<li>Multiply and divide with multiple-digit numbers</li>
+<li>Solve basic part-whole concept problems involving time, money, and fractions</li>
+</ul>
+<p><strong>Daily Life—Adults</strong></p>
+<ul>
+<li>Copying dates, phone numbers, and ID numbers</li>
+<li>Estimating the total for a restaurant bill</li>
+<li>Keeping track of time and appointments</li>
+</ul>
+
+<h2>When Systems Break Down</h2>
+<p>Math development involves five functional brain systems: sensory-motor, linguistic, cognitive, psycho-social, and executive function [Berninger &amp; Wolf, 2015]</p>
+<ol>
+<li><strong>Sensory-motor</strong>. Sensory-motor integration is important for developing calculation skills. Finger counting, tactile sensations in sequencing tasks, and even grapho-motor skills in digit writing all contribute to early math development.</li>
+<li><strong>Linguistic</strong>. Oral discussion and written expression assist understanding of math concepts. Mathematical knowledge is expressed in a way that is specific to this domain. Students have to learn how to "decode" mathematical language used in math textbooks and in their teachers' classroom instruction. Also, real-world applications of math often involve word problems.</li>
+<li><strong>Cognitive</strong>. Cognitive processes include different kinds of thinking and memory. Math problem-solving calls upon many kinds of thinking. Math concepts and procedures, for example, have to be stored in memory and retrieved for problem solving. This involves long-term and short-term memory. Working memory is the mental space within which active manipulation of information occurs to derive an output, in this case, the math answer.</li>
+<li><strong>Psycho-social</strong>. Mathematical ability is sensitive to one's sense of competence in this subject and the teacher-pupil relationship. Math anxiety is real and has been documented in research (Conlon et al., 2021).</li>
+<li><strong>Executive function</strong>. Attention and executive function are factors in math problem-solving. Executive function is related to the management of one's own mental processes, as in focusing on a task at hand to complete it while suppressing the impulse to get distracted.</li>
+</ol>
+
+
+
+  
+
+
+<p>In short, mathematical ability depends on the efficient operation of these interconnected brain systems. Given the complexity of these systems, any part may run inefficiently, impeding math learning and problem-solving. </p>
+<h2>New Technologies, New Solutions</h2>
+<p>Even typically developing children can fall behind in math for various reasons. This may be due to instructional gaps or other environmental factors that can be addressed. Such cases typically respond well to structured remediation. </p>
+
+<p>But dyscalculia, as a specific learning disability, is a condition that does not resolve itself even with more practice. Dyscalculia still lacks a universally accepted definition that can be operationalized so we can determine the source(s) of difficulty for each person and correct it at its root.</p>
+<p>This approach has been used for another neurological condition that often co-occurs with dyscalculia—dyslexia. The <a href="https://www.psychologytoday.com/us/blog/unlocking-language/202511/ai-beat-reading-interventions-in-clinical-trial">technology</a> is already available to trace the linguistic difficulties underlying dyslexia to its source to resolve the disorder (May &amp; Van Horne, 2025). Given the linguistic solution, the logical approach is to first determine whether the source of the math difficulty is also language-based before investigating the other four functional systems. </p>
+
+<p>Perhaps new technologies will also allow us to solve dyscalculia by tackling the other functional systems in the same way. Technology is needed because of the large volume of data and computations for this systems approach.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/unlocking-language/202607/dyscalculia-the-solution-is-a-numbers-game" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/unlocking-language/202607/dyscalculia-the-solution-is-a-numbers-game</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unlocking-language/202607/dyscalculia-the-solution-is-a-numbers-game</guid>
+            <dc:creator><![CDATA[Coral PS Hoh Ph.D.]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-keira-burton-6623833.jpg?itok=qP_ggO6-" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 Reasons Every Couple Needs a Prenuptial Agreement]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-03/ira_israel.png.jpg?itok=pSd2P1Gf" alt="Ira Israel LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Marriage</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">10 Reasons Every Couple Needs a Prenuptial Agreement</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Marriage for life was a fantastic idea in the 13th century.</h2><p style="font-size:0.9em;color:#666;">Posted July 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Marriage is already a legal contract—prenups just let the couple write the fine print themselves.</li><li style="margin-bottom:6px;">A prenup doesn't predict an ending; it simply ensures that it's settled by two people who loved each other.</li><li style="margin-bottom:6px;">Renewable marriage contracts might inspire people to behave better.</li>
+            </ul>
+          </div>
+                    <p>There's an old joke: “What’s a surefire way to win money in Las Vegas? <em>Invest in the casinos.</em>”</p>
+<p>I’ve never heard of a couple exchanging vows before their family, friends, and loved ones say, “This is probably not going to end well.” On that sacred day at the courthouse, every couple believes their love is the exception— different, unique—the one that is immune to statistics and the eventual argument about who gets to keep the $3,295 espresso machine. I have spent enough years as a therapist listening to spurned and jilted husbands and wives to know that, in the words of Yuval Harari, “It’s all story.” There’s no objective truth, there’s no <em>there there</em>, it’s just “He said… she said…” (or “He said… he said…” or “She said… she said…” or “They said…”—you get the point).</p>
+
+<h2>Why a Prenup Makes Sense for Every Couple</h2>
+<p>A prenuptial agreement isn't a sign of doubt or pessimism or weakness; it's the only mature adult decision for people who aren’t psychic with 100 percent batting average. I’ve literally heard of husbands and wives just getting up one morning and leaving unexpectedly, out of nowhere, for no apparent reason.</p>
+
+<p>So here are 10 reasons every couple, irrespective of income sizes, ego sizes, relationship histories, or certainty of undying love, should have a prenuptial agreement:</p>
+<ol>
+<li>Marriage is a legal agreement. Underneath the vows, the flowers, and the first dance is a binding contract that reallocates property, debt, and support obligations, whether or not you ever read the fine print. Pretending otherwise doesn't make it less true; it just means someone else—usually several attorneys and a judge—will decide the terms for you later.</li>
+<li>A significant percentage of marriages end in divorce. I don’t think the old “50 percent” myth from the swinging 1980s is still floating around dinner parties, but the CDC currently estimates the figure is closer to 41 percent for first marriages, with worse odds for second and third attempts at this lifelong commitment.</li>
+<li>Once a marriage deteriorates, people try to price the betrayal they feel in dollars (and child custody time). Litigation becomes the lingua franca of resentment. Signed while everyone still likes each other, a prenup takes much of that emotional terrorism off the table.</li>
+<li>It’s probably the only honest conversation about money you'll have before a decade of shared history raises the emotional stakes of every disagreement to <em>code red</em>. A prenup forces two people to negotiate fairness plainly, which will tell you more about the relationship than most idealistic wedding vows do.</li>
+<li>It protects whatever either of you builds during the marriage. Without an agreement, your business, your medical practice, your artwork and music—all of it—can become bargaining chips in a divorce, irrespective of who actually built whatever was built.</li>
+<li>Prenups shield inheritances and family assets. Money that your parents designated for you shouldn't end up as a document on a courtroom table; a prenup can keep your grandparents out of the proceedings.</li>
+<li>Prenups replace possible years of exorbitant legal fees with a few afternoons or weeks of paperwork. Attorney fees for contested divorces routinely run into six figures—and when forensic accountants and legal teams get involved, I’ve seen attorney fees go into seven figures. This is money that could have gone toward vacations, education, investments, and retirement.</li>
+<li>Prenups protect the lower-earning spouse, too. A well-drafted prenup isn't a one-way shield for the wealthier partner; it can set minimum provisions and support terms that guarantee the less-monied spouse isn't left with nothing after years of shared life.</li>
+<li>In California, marriages past 10 years leave courts with indefinite jurisdiction over spousal support. It’s not a lifetime sentence, but it can be an open door, nonetheless. A prenup defines the terms in advance, instead of leaving them up to a judge years later.</li>
+<li>Travis and Taylor have one! If a woman with a $2 billion empire decided the smartest pre-wedding move was a prenup drafted by her father, and that Travis agreed to it, that should tell you something about where actual financial and emotional intelligence lands on this issue, irrespective of what your uncle or religious fanatics tell you.</li>
+</ol>
+
+<p>Call me jaded, but in my <a href="https://iraisrael.com/esalen-workshops/">Esalen workshops</a> I would jest that “Marriage for life was a fantastic idea in the 13th century when the average lifespan was 28. But now that the average person gets married at 30 and lives until 79, committing yourself to one person for 49 years may not be the smartest thing human beings have ever done.” </p>
+
+<p>In the future—and in some places, people are already exploring this possibility—marriage contracts will be time-limited and renewable. It will be more akin to leasing than owning. And since one party (the woman) is no longer considered to be chattel, renewable marriage contracts would make this institution feel less like an escape room. <em>It might even inspire people to behave better.</em></p>
+
+<p>Psychologically, when two people vow, “Till death do us part,” and one or both parties break that vow, it often lands as betrayal or abandonment. Prenups sequester the usually accompanying resentment from the ensuing paperwork at a time when heightened emotions could cloud reason. A prenup doesn't predict an ending; it simply ensures that if one ever comes, it's settled by two people who once loved each other very much, instead of by attorneys who never… well, let’s just say that attorneys are probably more concerned with their own families than they are with yours. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/authenticity-101/202607/10-reasons-every-couple-needs-a-prenuptial-agreement" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/authenticity-101/202607/10-reasons-every-couple-needs-a-prenuptial-agreement</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/authenticity-101/202607/10-reasons-every-couple-needs-a-prenuptial-agreement</guid>
+            <dc:creator><![CDATA[Ira Israel LMFT]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-jonathan-nenemann-13434430.jpg?itok=v9wD7tKo" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
