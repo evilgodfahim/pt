@@ -4,105 +4,51 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 15:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 18:04:40 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 15:51:36 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 18:04:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Psychology of Minimalism]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/clay_drinko_photo_by_max_flatow-cropped.jpg?itok=fJF7ss0V" alt="Clay Drinko, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Environment</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Minimalism</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The mental benefits of having only what you need.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Do Large Language Models Think Like Us?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-08/head_shot-removebg-preview.jpg?itok=jpKj9kPW" alt="Tamim Mobayed MA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do Large Language Models Think Like Us?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">LLMs produce content that seems human, yet the underlying dynamics differ.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Minimalism helps people feel more in control of their lives and clearer headed.</li><li style="margin-bottom:6px;">Minimalism also saves time. The less possessions you have, the less time spent organizing them.</li><li style="margin-bottom:6px;">If you want to be more minimalist, make decluttering and donating belongings a regular habit.</li>
+              <li style="margin-bottom:6px;">While LLMs appear to reason, their "thought" processes fundamentally differ from ours.</li><li style="margin-bottom:6px;">Human reasoning is a kaleidoscope of processes, integrating memory, context, culture, and more.</li><li style="margin-bottom:6px;">While LLMs can be improved, the underlying dynamics will always be different, according to some.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2025-12/inside-weather-Uxqlfigh6oE-unsplash.jpg?itok=ppuyc7SD" width="320" height="480" data-insert-type="image" title="Photo by Inside Weather on Unsplash" alt="Photo by Inside Weather on Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/david-matos-xtligpytpck-unsplash.jpg?itok=CGmrdLdm" width="320" height="213" data-insert-type="image" title="David Matos / Unsplash" alt="David Matos / Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Photo by Inside Weather on Unsplash</div>
+<div class="insertArea--origin subtext">Source: David Matos / Unsplash</div>
 </div>
 </div>
 </div>
-<p dir="ltr">Now that I have a five and a nine-year-old, I feel like my role has shifted to Organizer of All the Things. My children have acquired a quantity of toys and clothes that feels overwhelming and relentless. </p>
-<p dir="ltr">When it was just me, I lived in a studio apartment. It was about 300 square feet of minimalist simplicity. I had the exact right amount of clothes and books. I could imagine in my mind’s eye all my possessions because everything had its place. Even though it was a tiny apartment, there was room to breathe because of the lack of clutter. </p>
+<p>A team of psychologists, computer scientists, and physicists from Italy, Slovenia, and South Korea <a href="https://arxiv.org/abs/2512.19466">has proposed seven “fault lines”</a> between human and artificial intelligence (AI). The researchers question the extent to which AI is yielding intelligence, at least in the same form as human intelligence. The authors note the critical shift that occurred between statistical natural language processing (NLP), where AI retrieves and ranks existing information, with the (human) user then able to judge between them, and generative AI, which instead presents one fluent, “authoritative-seeming” answer. In short, while large language models (LLMs) produce content that seems cognitively informed and deliberated, the processes underlying how that content is produced are fundamentally different from human cognition.</p>
 
-<p dir="ltr">Now, I’m constantly battling other people’s possessions. They’re kids, so they tend toward maximalism. More is more is more. Sometimes it seems that none of us even know where these belongings came from. They seem to reproduce on their own accord, and no organizational system seems to keep them tidy. </p>
+<p>One of the fundamental divergences between human and artificial intelligence highlighted by the authors relates to how they use language. AI does not understand language the way a human mind processes it and derives meaning; AI instead recognizes statistical patterns, garnered from human-produced text: “[LLMs] do not track truth conditions or causal structure; they track patterns of co-occurrence, association, and continuation in text.” The authors argue that by supplementing this ability with a number of additional mechanisms such as retrieval-augmented generation, they make LLM outputs look more reliable and more convincing without becoming more knowledgeable. </p>
 
-<p dir="ltr">Inevitably, they pile up in a way that makes me snap. I tear through their rooms with big black garbage bags, asking the girls which things we can donate. They comply because they know more stuff is on the way. There are birthdays and holidays. There are aunts and grandmas soon to visit, bearing gifts, of course. </p>
-
-<h2>The Psychological Benefits of Minimalism</h2>
-<p dir="ltr">Minimalism has its mental benefits. In one interview-based <a href="https://www.researchgate.net/profile/Kasey-Lloyd/publication/339296539_Towards_a_Theory_of_Minimalism_and_Wellbeing/links/66381f5808aa54017ae005d2/Towards-a-Theory-of-Minimalism-and-Wellbeing.pdf">study</a>, participants reported that they’d arrived at their minimalist lifestyles due to autonomy or competence. The burden that clutter brought prompted many people to choose another path, one where they could better align their lives, free from overwhelming amounts of possessions. Less belongings also helped some people feel more competent, like they had more control over their lives. </p>
-
-<p dir="ltr">Owning too many things means managing too many things. The more belongings one has, the more time must be spent organizing and thinking about those things. </p>
-<p dir="ltr">I’m not the only one who feels better when all their things have a place. Participants of the study also reported feeling clear-headed when inhabiting a minimalist environment. </p>
-
+<p>Examining the differences between human and artificial intelligence, the authors propose seven epistemic fault lines that highlight these differences. These correspond to seven sequential stages of human judgement:</p>
 <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
+<div class="image-article_inline_full">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2025-12/bench-accounting-nvzvOPQW0gc-unsplash.jpg?itok=wVYXGWxm" width="320" height="213" data-insert-type="image" title="Photo by Bench Accounting on Unsplash" alt="Photo by Bench Accounting on Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-07/table_for_pt.png.jpg?itok=_z8OWm9J" width="468" height="237" data-insert-type="image" title="Based on Quattrociocchi et al. (2025)" alt="Based on Quattrociocchi et al. (2025)"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Photo by Bench Accounting on Unsplash</div>
+<div class="insertArea--origin subtext">Source: Based on Quattrociocchi et al. (2025)</div>
 </div>
 </div>
 </div>
-<h2>How to Be More Minimalist</h2>
-<p dir="ltr">To feel freer, more competent, and mentally free, there are a few things you can try. My favorite minimalist move is to constantly be decluttering. Instead of trying to figure out where everything should go, I always declutter as I clean. It’s easier to get rid of something than create a new organizational system for it to fit in your home. </p>
-
-<p dir="ltr">Use every cleaning opportunity as a chance to rid your life of unnecessary possessions. </p>
-<p dir="ltr">Another trick is to have as many blank surfaces as you can. Stop filling every shelf, and see how you feel when there’s more room to breathe. </p>
-<p dir="ltr">Finally, remove some of your storage. The more shelves and drawers and bins you have, the more you’ll fill them with stuff. Don’t fall into the trap of thinking that your organizational system is going to save you from your clutter. Less storage means fewer belongings. </p>
-
-<p dir="ltr">None of this gets at the root cause of why we over-consume in the first place, but thinking about how good you’ll feel when your space is more minimalist might be just the thing you need to simplify your life. </p>
-<p dir="ltr">In the meantime, I’ll be roaming my house like a maniac, searching for excess, desperately trying to cut through the clutter and live more simply and freely. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/play-your-way-sane/202512/the-psychology-of-minimalism" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/play-your-way-sane/202512/the-psychology-of-minimalism</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/play-your-way-sane/202512/the-psychology-of-minimalism</guid>
-            <dc:creator><![CDATA[Clay Drinko, Ph.D.]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2025-12/bench-accounting-nvzvOPQW0gc-unsplash.jpg?itok=3u8J647Q" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Intelligent People Fall for Bad Arguments]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/neel_burton_0.jpg?itok=Y8BMExeE" alt="Neel Burton M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Persuasion</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Intelligent People Fall for Bad Arguments</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What the Sophists, Plato, and Aristotle can teach us about persuasion and truth.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Intelligence alone cannot protect us from bad arguments.</li><li style="margin-bottom:6px;">The Sophists, Plato, and Aristotle transformed the study of persuasion and truth.</li><li style="margin-bottom:6px;">We embrace bad arguments because they satisfy psychological needs, not logical ones.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/a_sophist_addresses_a_crowd_in_ancient_athens.png.jpg?itok=TYgrZGgu" width="320" height="227" data-insert-type="image" alt="The Sophists taught people how to win arguments. Plato and Aristotle asked whether they were also true." title="Neel Burton"></div>
-<div class="caption">The Sophists taught people how to win arguments. Plato and Aristotle asked whether they were also true.</div>
-<div class="insertArea--origin subtext">Source: Neel Burton</div>
-</div>
-</div>
-</div>
-<p>History is full of brilliant people who believed ridiculous things. Isaac Newton devoted years to searching for the philosopher’s stone. Thomas Edison promoted radioactive products as health remedies. Steve Jobs believed that his vegan diet made regular bathing unnecessary.</p>
-<p>The problem isn’t that intelligent people cannot think. It’s that they’re human.</p>
-
-<p>We like to imagine that reason is an impartial judge, carefully weighing evidence before arriving at a verdict. More often, it behaves like a defence lawyer, marshalling arguments for conclusions we reached for entirely different reasons.</p>
-<p>Our hopes, fears, loyalties, ambitions, and prejudices all shape the way we reason. We are naturally drawn to arguments that flatter our opinions, excuse our behaviour, or confirm our suspicions. And the more intelligent we are, the more ingenious our rationalizations can become. </p>
-
-<p>The ancient Greeks understood this all too well.</p>
-<h2>Persuasion Versus Truth</h2>
-<p>In democratic Athens, success increasingly depended on persuasion. Citizens defended themselves in the law courts, debated policy in the Assembly, and competed for influence with words rather than swords. A new class of professional teachers, known as the Sophists, arose to teach this art of argument.</p>
-
-<p>Their lessons were practical rather than philosophical. They taught their students—often young, wealthy aristocrats—how to sway an audience, defend either side of a case, and even make the weaker argument appear the stronger.</p>
-<p>For Plato, this represented a profound problem. His beloved teacher, Socrates, had been condemned to death by a jury persuaded more by rhetoric than by reason. If eloquence—or simple pandering—could triumph over truth, what hope was there for philosophy?</p>
-
-<p>Plato’s pupil Aristotle responded by laying the foundations of logic and identifying the many ways in which arguments can go wrong. If rhetoric explains how people are persuaded, logic lays out when they ought to be.</p>
-<p>Yet beneath this history lies an uncomfortable lesson.</p>
-<p>Bad arguments rarely persuade us because they are logically compelling. They persuade us because they satisfy some psychological need.</p>
+<ul>
+<li><strong>The grounding fault:</strong> The authors argue that humans arrive at judgments based on layers of information that are often not accessible to LLMs, such as facial expressions, tone of voice, and social cues. Accordingly, LLMs often underdetect expressions that are sarcastic or ironic, or other human-specific expressions. Despite that, LLMs appear to be getting better at detecting these, though that is related to more effective pretraining and conditioning rather than understanding. </li>
+<li><strong>The parsing fault:</strong> Once humans receive sensory and social information, they begin processing it through simultaneous consideration of meaning and potential responses, while also integrating cultural and social knowledge into determining what is most relevant. LLMs instead tokenize textual information and focus on statistical relationships between tokenized text.</li>
+<li><strong>The experience fault:</strong> Humans and LLMs draw from prior knowledge but in a fundamentally different way. Relying on both physics and psychology, humans draw from episodic memory to recall details that allow us to address new situations. In terms of physics, we can determine (to varying degrees) object permanence, solidity, gravity, and causal forces, while also integrating categories, scripts, and social norms through socialization and culturalization, but also through past experience. LLMs instead rely on statistical patterns or linguistic co-occurrences. Crucially, they do not have episodic or autobiographical memory and have neither intuitive physics nor psychology. </li>
+<li><strong>The motivation fault:</strong> Humans tend to be driven by emotion, motivation, and goals, whereas LLMs are driven by optimization rooted in mechanistic processes. Reinforcement learning with human feedback can adjust the equation for LLMs, but it does not imbue them with the same emotional and goal orientation as humans. </li>
+<li><strong>The causality fault:</strong> Based on these previous processes, humans then reason, by which they infer, integrate, consider counterfactuals, and form causal explanations that can be cognizant of long-term plans. LLMs instead integrate textual context that is devoid of (human) reasoning, relying especially on correlations.</li>
+<li><strong>The metacognitive fault:</strong> Further refining their reasoning, humans evaluate metacognitively, as they consider uncertainties, detect errors, estimate confidence, and consider withholding judgment. This can include integration of social-epistemic norms, taking into account social context and potential reputational costs. According to the authors, LLMs lack metacognition entirely, and this is one of the factors that contributes to hallucinations.</li>
+<li><strong>The value fault:</strong> Human reasoning is thus a kaleidoscope of processes that can integrate personal values, cultural norms, reputational concerns, and goals, while being mindful of consequences for relationships and self-identity. LLMs produce probabilistic, text-based judgments driven by the statistical structure of training data.</li>
+</ul>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
     
@@ -122,276 +68,39 @@
 
   </div>
 
-<p>An ad hominem attack invites us to judge the speaker rather than the argument. A straw man offers an easier opponent to defeat. An appeal to popularity reassures us that millions of other people cannot be wrong. A false dilemma offers clarity where reality is usually more complicated. Circular reasoning allows us to begin with the conclusion we wanted all along.</p>
-
-<p>Each exploits a different human weakness. Together, they encourage us to condemn our opponents, sidestep the real issue, follow the crowd, crave certainty, and believe what we wanted to believe all along.</p>
-<h2>Why We Fall for Bad Arguments</h2>
-<p>Plato feared that rhetoric had become detached from truth, while Aristotle sought to distinguish valid reasoning from mere persuasion. But neither believed that bad arguments prevailed simply because people lacked intelligence. They prevailed because they appealed to pride, fear, tribal loyalties, wishful thinking, and our deep desire to be right.</p>
-
-<p>That is why exposing a fallacy so seldom changes anyone’s mind. We do not cling to bad arguments because we are in need of illumination. We cling to them because they satisfy needs that logic alone serves to undermine.</p>
-<p>The Sophists discovered that winning an argument is not the same as finding the truth. Plato and Aristotle devoted much of their philosophy to closing the gap between the two. More than two thousand years later, that remains one of our most important tasks—and one at which we keep on backsliding.</p>
-
-<p>History is still full of brilliant people who believe ridiculous things—not because they cannot think, but because they are human.</p>
-<p><em>A version of this post also appears on the author's website.</em></p>
+<p>The authors’ term—<em>epistemia</em>—describes the phenomenon whereby linguistic plausibility takes precedence over epistemic evaluation. This divergence is consequential, especially as humans increasingly turn to AI for answers to complex problems, as well as intimate psychological problems. The similarity between LLM outputs and human writing is one of the reasons why humans have grown comfortable "talking to" LLMs. Yet, what is going on under the hood is profoundly different. Even as LLMs become more fluent and less prone to obvious errors, this does not, according to this study, mean they are reasoning in the way that humans do.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/ataraxia/202607/why-intelligent-people-fall-for-bad-arguments" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202607/do-large-language-models-think-like-us" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/ataraxia/202607/why-intelligent-people-fall-for-bad-arguments</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/ataraxia/202607/why-intelligent-people-fall-for-bad-arguments</guid>
-            <dc:creator><![CDATA[Neel Burton M.A., M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202607/do-large-language-models-think-like-us</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202607/do-large-language-models-think-like-us</guid>
+            <dc:creator><![CDATA[Tamim Mobayed MA]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/a_sophist_addresses_a_crowd_in_ancient_athens.png.jpg?itok=OW42QTqn" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/anthony-tran-3b6rfjqkbem-unsplash.jpg?itok=p3hyoXcb" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[When Criticism Turns Into Justification]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/matt-grawitch_1.jpg?itok=XyCWuAg0" alt="Matt Grawitch Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Schadenfreude</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Criticism Turns Into Justification</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why we start defending harm once we think the target deserves it.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Myth of Testosterone Persists]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Azadeh-Aalai.jpg?itok=mqTGdXp9" alt="Azadeh Aalai Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Testosterone</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Myth of Testosterone Persists</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">This is what happens when pseudo-science dictates public policy.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">We often shift from judging actions to judging whether the target “deserves” them.</li><li style="margin-bottom:6px;">When a target feels deserving, harmful responses start to feel more acceptable.</li><li style="margin-bottom:6px;">What looks like hypocrisy often reflects which values are active in the moment.</li>
+              <li style="margin-bottom:6px;">The history of studying testosterone is riddled with controversy and misinformation.</li><li style="margin-bottom:6px;">Testosterone secretions do not occur in social isolation or a vacuum.</li><li style="margin-bottom:6px;">Public policy should be driven by scientific data, not trends or posturing.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/picture1_3.png.jpg?itok=xKg4kvd5" width="320" height="320" data-insert-type="image" title="Image AI-generated with ChatGPT 5.3 / OpenAI" alt="Image AI-generated with ChatGPT 5.3 / OpenAI"></div>
-<div class="insertArea--origin subtext">Source: Image AI-generated with ChatGPT 5.3 / OpenAI</div>
-</div>
-</div>
-</div>
-<p>It doesn’t always stop at criticism.</p>
-<p>Someone says something online—offensive, careless, sometimes just poorly worded—and the response escalates quickly. At first, it looks like what you’d expect: disagreement, pushback, maybe some ridicule. But in some cases, it becomes quite extreme.</p>
-<p>People start trying to figure out who the person is. Where they work. How to contact them. Personal details get surfaced and shared. What began as criticism starts to look more like targeting.</p>
+                    <p>When I introduce my students to the concept of testosterone during our unit on the brain and biology, I generally preface the discussion with some qualifier regarding how referring to this chemical released in our bloodstream as a <em>sex</em> hormone is somewhat misleading. Known as the primary sex hormone in males, misinformation about testosterone has existed for as long as it has been known, going back almost 150 years (Freeman et al., 2001).</p>
 
-<p>And when it crosses that line, the reaction often isn’t <em>This went too far.</em> It’s something closer to: <em>Well… they kind of had it coming.</em></p>
-<p>That shift is easy to miss, but it matters because once that reaction takes hold, people aren’t really asking whether the response itself is acceptable. They’re asking whether the target deserves it. And those are completely different issues.</p>
+<p>Namely, despite being strongly associated with masculinity, technically, both sexes secrete this chemical via their respective sex glands. Additionally, while secretion of testosterone is associated with both sex drive and aggression for men in particular, this is a very simplistic notion of the purpose of this hormone. In fact, testosterone is a critical hormone for the overall health and well-being in males, assisting in such far-reaching functions as immune function, energy levels, and mood regulation. It serves critical functions in women as well, such as contributing to bone density and cognitive functioning, among others.</p>
 
-<h2>When “Is This OK?” Becomes “Do They Deserve It?”</h2>
-<p>At some level, most people recognize that posting someone’s personal information, contacting their employer, or coordinating harassment crosses a line. Those actions don’t suddenly become justifiable or ethical just because the person on the receiving end said something offensive. But they aren't always viewed through the same lens. </p>
+<h2>The Problem With Reducing Body Functions to a Single Hormone</h2>
+<p>Unfortunately, outside of a holistic approach in understanding the body and its chemical processes, cherry-picking a particular secretion or chemical and assigning it exclusivity regarding specific functions is misleading. Our bodies work as an integrative whole, and the larger endocrine system that secretes hormones is connected to other critical communication systems in our body, such as the nervous system. Testosterone secretions are just one of many chemical secretions that are essential to the overall functionality and health of all sexes. Moreover, it isn't secreted in a vacuum but in tandem with other processes happening in our bodies.</p>
 
-<p>Instead, how those actions are viewed starts to hinge on the target. If the person is seen as deserving—because of what they said, what they represent, or what people assume about them—then the response starts to feel more defensible. Not necessarily good, but acceptable. Maybe even justified.</p>
-<p>That pattern shows up in more systematic ways as well. In a series of studies conducted by <a href="https://psycnet.apa.org/record/2027-12644-001?errorCode=invalidToken">Giovanno et al. (2026)</a>, participants were presented with scenarios involving organizations that held some form of authority. In some cases, those organizations were described as corrupt; in others, they weren’t. The researchers were interested in whether people would view illegal attacks against those organizations as legitimate.</p>
+<p>The fundamental disconnect is in taking a chemical process in the body and attempting to assign it to a specific notion of what it means to be a “man”—a concept rooted in social, cultural, and psychological meaning. Many years ago, I wrote a book on the psychology of aggression, dedicating a section specifically to testosterone—which has been linked historically to explanations for aggression (Aalai, 2012). In the past, theories regarding why males in particular were prone to crime tried to link the proclivity to elevated levels of testosterone for those individuals who had some kind of hormonal irregularity—such as an additional Y chromosome, which led to higher-than-regular levels of testosterone in some males’ systems. Of course, such theories were spectacular failures with no scientific merit—again, because aggression, and its relationship to criminality in particular, is a psychological, social, and cultural phenomenon that cannot be reduced down to one specific hormonal secretion or biological process.</p>
 
-<p>What they found was fairly consistent. When participants were given information suggesting the organization was corrupt, they reported more <em>schadenfreude</em>—some degree of satisfaction at the idea of harm coming to that organization—and were more likely to judge illegal attacks against it as legitimate.</p>
-
-<p>But the relationship wasn’t direct or automatic. The effect of perceived corruption operated in part through participants’ emotional response. In other words, it wasn’t just that people thought the organization was bad—it was that the organization’s misfortune started to feel warranted, which made the attacks themselves easier to justify.</p>
-
-<p>None of that is especially surprising on its own. Feeling some degree of satisfaction when something bad happens to a disliked target doesn’t automatically flip a moral switch. But it does seem to change what starts to feel defensible.</p>
-<p>The key is that the target has to be disliked to begin with. Without that, the emotional response doesn’t really get off the ground. But once it’s there, it does something subtle. It makes the misfortune feel earned. And once that happens, the evaluation of the response starts to change.</p>
-
-<p>The question shifts. Instead of asking, “Is this kind of response acceptable?” people start asking something closer to, “Given who this is and what they did, isn’t this at least understandable?” That’s a much easier question to answer in the affirmative.</p>
-<p>From there, reasoning tends to follow. People can point to fairness, accountability, consequences—whatever helps make the reaction feel coherent. The justification doesn’t have to be especially strong. It just has to be <em>good enough</em> to support the conclusion that already feels right.</p>
-
-<h2>This Isn’t Just About Extreme Cases</h2>
-<p>The results of the study don’t just relate to extreme cases like doxxing. The same basic pattern shows up in more ordinary situations.</p>
-<p>Someone you don’t like gets publicly criticized. A colleague you’ve had issues with gets called out in a meeting. A public figure you disagree with says something clumsy and ends up facing consequences that seem out of proportion to what they actually did. The scale is different, but the underlying process isn’t. The reaction often depends less on the nature of what happened and more on who it happened to.</p>
-
-
-
-  
-
-
-<p>And that’s where things start to get a tiny bit messy.</p>
-<p>Because once the target determines the judgment, consistency becomes hard to maintain. The same action can be condemned in one case and defended in another. But it’s not because the action itself changed; it’s because the person on the receiving end did.</p>
-
-<h2>Why It Feels Consistent—Even When It Isn’t</h2>
-<p>From the outside, that reaction looks like hypocrisy. But from the inside, it rarely feels that way.<sup>1</sup></p>
-<p>Different targets activate different values. What feels like fairness in one case can feel like overreach in another. What seems excessive when directed at someone you agree with can feel appropriate when directed at someone you don’t. The reasoning that follows tends to stay aligned with whichever values are most active in that moment.</p>
-
-<p>That’s part of why pointing out inconsistency usually doesn’t do much. If the judgment already feels principled, being told it’s contradictory doesn’t really move the needle. It just feels like the other person isn’t seeing the situation the right way.</p>
-<p>It also helps explain why more evidence doesn’t necessarily resolve these disagreements. Evidence doesn’t determine which values are in play. It gets interpreted through them. Two people can look at the same situation and come away with very different conclusions about what was justified—because they’re evaluating it against different standards that aren't consistently applied. </p>
-
-<p>Part of what makes this difficult to catch is that it doesn’t feel like a compromise in the moment. It feels like making a reasonable distinction. <em>Of course</em>, this case is different. <em>Of course</em>, this person is different. <em>Of course</em>, the response makes sense here.</p>
-<p>But that’s exactly how the shift happens. The move from criticism to justification doesn’t usually involve a clear decision point. It happens gradually, as the focus moves away from the action and toward the target. Once the target is seen as deserving, the rest tends to follow.</p>
-
-<p>Which means the real issue isn’t just whether people are willing to justify harmful or even illegal behavior. It’s how often that justification is already in motion before the reasoning even begins—simply because they feel the target deserves it.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202607/when-criticism-turns-into-justification" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202607/when-criticism-turns-into-justification</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202607/when-criticism-turns-into-justification</guid>
-            <dc:creator><![CDATA[Matt Grawitch Ph.D.]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/picture1_3.png.jpg?itok=jJUapamM" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Change Makes You Doubt Yourself]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Michelle-Mcquaid_0.jpg?itok=kqRvBYok" alt="Michelle McQuaid Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Talk</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Change Makes You Doubt Yourself</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why we turn on ourselves under pressure, and what it costs.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">When change shakes our confidence, we turn on ourselves, and self-criticism drains us faster than the change.</li><li style="margin-bottom:6px;">A wiser and kinder inner voice helps us think clearly, adapt, and take the next small step through change.</li><li style="margin-bottom:6px;">Asking for help is how we learn together through change, rather than struggling alone.</li>
-            </ul>
-          </div>
-                    <p>When you're struggling with workplace changes, who do you blame?</p>
-<p>The shifting market conditions requiring another pivot? The out-of-touch executives sitting around a boardroom table? The tired team members who no longer seem to care? Or yourself?</p>
-<p>Our research, in different countries and at different times, keeps finding that when our confidence in change wobbles, the first person we point the finger of blame at is ... ourselves.</p>
-
-<p>We tie ourselves in knots of self-doubt, let our inner critic get way too loud, and become ashamed to ask for help. Then, we work harder, faster, and longer hours, hoping to figure it out. And when that doesn't work, we start avoiding the changes or complaining about them loudly to others.</p>
-<p>“When we're navigating changes—whether we chose them or not—we often expect perfection of ourselves, but that's not reality,” explained Kristin Neff, one of the world's leading researchers on self-compassion <a href="https://www.michellemcquaid.com/making-leadership-work-podcast-series7/">when we interviewed her recently on a podcast</a>. “We all bump up against our limitations, fall short of our ideals, and make mistakes. That is the human condition. It is how we learn and grow.”</p>
-
-<h2>“I'm the Reason This Isn't Working”</h2>
-<p>The first thing changes tend to shake is our trust in ourselves. When we're pushed outside our comfort zone, self-judgment tends to show up fast and point out: if I were better at this, it wouldn't be this hard.</p>
-<p>“When we feel threatened, our nervous system is designed to activate our fight, flight, freeze, fawn or flop stress responses,” explained Neff. “And when we turn that fear inward, because we think we've made a mistake or we feel overwhelmed, we start fighting ourselves.”</p>
-
-<p>While being self-critical may feel like we're holding ourselves accountable, <a href="https://self-compassion.org/wp-content/uploads/2016/12/Self-Criticism.pdf">researchers have found</a> that negative self-talk shifts our brain into a state of self-punishment that leaves us stuck in a cycle of rumination and procrastination. For example, in <a href="https://selfdeterminationtheory.org/SDT/documents/2007_PowersKoestnerZuroff_JSCP.pdf">studies following hundreds of people</a> chasing all kinds of goals, from losing weight to lifting their performance, the more they criticized themselves, the slower their progress and the less likely they were to reach them.</p>
-
-<p>Instead, dialing down our self-judgment and dialing up our self-kindness to activate our brain's caregiving and self-awareness systems makes it easier to believe we are capable and worthy. Think of your self-kind voice as a wise and supportive mentor, friend, or family member who's encouraging you to see things in a clearer and more balanced way as you figure out what's working well and where you're struggling with the changes.</p>
-
-<p><em>Try this for yourself:</em> When you're struggling with a change, ask: “What are my feelings telling me about this change? What would someone who believes in me and cares for me say to me right now?”</p>
-<p><em>Try this for others:</em> Share examples with others about how you talk to yourself when you're struggling through change. When you name your limitations and mistakes without the self-flagellation, it shows everyone else it's safe to be a learner, too.</p>
-
-<h2>“I Need More Control”</h2>
-<p>The second thing changes disrupt is our confidence to learn and adapt. As uncertainty increases, we start to grip harder, trying to control what we can: over-planning, redoing other people's work, and refusing to let go until it's right.</p>
-<p>“When we're stressed or uncertain, we can over-identify with our thoughts and emotions and become so fused with the problem we can't think outside the box,” explained Neff.</p>
-
-
-<p>When our perspective is lost, we can't do the one thing change requires: sense, learn, and adapt as it unfolds. <a href="https://self-compassion.org/wp-content/uploads/2019/09/Germer2019.pdf">Researchers have found</a> that mindfulness, the simple act of noticing what's happening without being swept away by it, calms the stress response and helps us respond to what's in front of us rather than react on autopilot.</p>
-
-<p><em>Try this for yourself: </em>Mindfully create some space between yourself and the problem by naming what's happening: “I feel uncertain. This is stressful. Some of this is beyond my control.” Then ask yourself: “What is the next best small step I can own?”</p>
-<p><em>Try this for others: </em>Check in regularly as change unfolds and keep asking: What is this change teaching us about our strengths and struggles? How do we want to adapt our approach?</p>
-
-
-
-  
-
-
-<h2>“I Don't Need Your Help”</h2>
-<p>The third thing changes erode is our courage to ask for help. As the struggle drags on, we convince ourselves we should be able to handle it alone, so we go quiet, hide how hard it is, and try to press on by ourselves.</p>
-<p>“When we feel like we can't hack it the way everyone else seemingly can, we feel isolated, like there's something wrong with us,” explained Neff. “Back in the day, being cast out by the group was a threat to our survival, so needing help can still register as something to fear.”</p>
-
-<p>Needing help is simply the shared experience of being wired for imperfection so we can learn, grow, and evolve. And each request, whether answered or not, builds trust with others by saying “I value what you know.” <a href="https://self-compassion.org/wp-content/uploads/2023/01/Neff-2023.pdf">Researchers have found </a>that when we treat our struggle as part of our common humanity, our threat response settles, and asking for help starts to feel like learning together instead of failing alone.</p>
-
-<p><em>Try this for yourself: </em>Acknowledge what you're finding difficult. Share why this change matters to you with someone who may be able to help. Then ask clearly and cleanly (no manipulation, passive-aggression, or need to control) for exactly what you need and when.</p>
-<p><em>Try this for others: </em>Make it easier to ask by holding “Help Huddles” where people can share what they are struggling with around the change and name one act of support that would make this easier.</p>
-
-<h2>When You Catch Yourself Turning Inward</h2>
-<p>So next time a change knocks you sideways, and you feel that finger of blame swing back toward yourself, notice it. The exhaustion and overwhelm you're carrying are worth listening to. It's often a sign that the way you're treating yourself has become the hardest part of the change. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/from-functioning-to-flourishing/202607/when-change-makes-you-doubt-yourself" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/from-functioning-to-flourishing/202607/when-change-makes-you-doubt-yourself</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/from-functioning-to-flourishing/202607/when-change-makes-you-doubt-yourself</guid>
-            <dc:creator><![CDATA[Michelle McQuaid Ph.D.]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/istock-171586353.jpg?itok=-uLWZYFA" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Sad Irony of Our Hybrid Empowerment]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/IMG_1313-removebg-preview.jpg?itok=ObbAdNW8" alt="Cornelia C. Walther Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Sad Irony of Our Hybrid Empowerment</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Four steps to avoid giving more than you gain from AI.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI is increasingly part of how we formulate questions, interpret evidence, and decide what deserves attention.</li><li style="margin-bottom:6px;">Our skills erode because AI is always available and independent practice feels inefficient.</li><li style="margin-bottom:6px;">When the system fails, control returns to the person whose readiness has been weakened by its success.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/2026-07_institutional_agency_decay.png.jpg?itok=PtGp7hdO" width="320" height="213" data-insert-type="image" alt="Agency decay is not an irreversible verdict, yet. It resembles a limb kept in a cast: The capacity remains, yet strength and coordination diminish through disuse." title="Walther, AI-generated with ChatGPT, 2026"></div>
-<div class="caption">Agency decay is not an irreversible verdict, yet. It resembles a limb kept in a cast: The capacity remains, yet strength and coordination diminish through disuse.</div>
-<div class="insertArea--origin subtext">Source: Walther, AI-generated with ChatGPT, 2026</div>
-</div>
-</div>
-</div>
-<p>We are taking part in a global social experiment, largely <a href="https://news.un.org/en/story/2026/07/1167965">without signing up</a>. Every day, drivers request directions for routes they once knew. Writers open a chat window before facing a blank page. Hospitals, courts, and employers lean further on model-generated scores. Each choice appears minor. Together, they alter where knowledge resides, who exercises judgment, and what happens when the system fails. Tools may empower us to do more, faster at lower cost. But what are the costs?</p>
-
-<p>The consequences of generative artificial intelligence (AI) go far beyond the convenience once offered by elevators or calculators. AI has entered the thought process itself. It is increasingly woven into the chain through which we formulate questions, interpret evidence, and decide what deserves attention. But AI-powered empowerment is an oxymoron. When individuals and institutions continuously transfer creation, judgment, execution, and information to a system, they gradually lose the ability to create, grasp, and master the processes that the tool was only meant to make better. Ergo, the tool is empowered at the expense of those who deploy it.</p>
-
-<h2>Agency decay—the luring danger of compounding comfort</h2>
-<p>Agency decay is not an irreversible verdict, yet. It resembles a limb kept in a cast: the capacity remains, yet strength and coordination diminish through disuse. Skills rarely disappear in one dramatic moment. They erode because the tool is always available, the shortcut is rewarded, and independent practice begins to feel inefficient.</p>
-
-<p>The pattern predates generative AI. In <a href="https://doi.org/10.1016/0005-1098(83)90046-8">“Ironies of Automation,”</a> psychologist Lisanne Bainbridge showed already in 1983 that as automated systems become more reliable, human operators get less practice handling the situations for which they are still held responsible. When the system fails, control returns to the person whose readiness has been weakened by its success.</p>
-
-<p>Memory research found a related effect. A study <a href="https://www.science.org/doi/10.1126/science.1207745">published</a> in 2011 showed that when people expect information to remain available online, they remember where to retrieve it more readily than the information itself. GPS research likewise found that heavier lifetime reliance on navigation systems was associated with <a href="https://www.nature.com/articles/s41598-020-62877-0">weaker spatial-memory performance</a>. We did not suddenly become less intelligent; we adapted to the environment and stopped retaining what the environment promised to supply, to only remember the shortcuts to access that supply.</p>
-
-<p>Early findings on generative AI deserve caution, yet they point in the same direction. A 2025 <a href="https://www.media.mit.edu/publications/your-brain-on-chatgpt/">MIT Media Lab preprint</a> reported weaker neural connectivity among participants writing essays with an AI assistant than among those working without one. Microsoft researchers surveying 319 <a href="https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/">knowledge workers</a> found that greater confidence in generative AI was associated with less critical-thinking effort, while greater confidence in one’s own ability was associated with more. The constructive goal is <a href="https://knowledge.wharton.upenn.edu/article/why-hybrid-intelligence-is-the-future-of-human-ai-collaboration/">hybrid intelligence</a>: artificial assets extending natural intelligence, rather than gradually replacing its exercise. </p>
-
-<h2>The reverse power paradox</h2>
-<p>AI appears to give us more information. In practice, the flow can reverse. The system receives our prompts, documents, corrections, preferences, operating rules, and process histories. It accumulates context while the user may retain less of the reasoning that produced the result. The machine becomes more informed about the work as the human becomes less able to reconstruct, challenge, or perform it independently.</p>
-
-<p>At the organizational level, this becomes collective agency decay. Companies are not only buying software; many are embedding external AI systems into research, customer service, coding, recruitment, logistics, and strategic analysis. They transfer proprietary data and operational knowledge into tools that increasingly mediate how work is done. Over time, part of the organization’s practical intelligence migrates beyond its boundary.</p>
-
-<p>The dependency is technical, commercial, and cognitive. Data may be difficult to move. Processes are redesigned around a provider’s models and interfaces. Staff stop practicing the underlying work. Switching supplier then means more than replacing a license: It can require extracting data, rebuilding workflows, retraining people, and recovering capabilities that have atrophied. Organisation for Economic Co-operation and Development (OECD) work on <a href="https://one.oecd.org/document/DSTI/CDEP/DGP%282022%2912/FINAL/en/pdf">data portability</a> links poor interoperability to higher switching costs and lock-in, while the National Institute of Standards and Technology (NIST) <a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf">generative-AI risk profile</a> explicitly advises organizations to identify overreliance on third-party data and systems, maintain fallbacks, and scrutinize vendor arrangements.</p>
-
-
-
-  
-
-
-<h2>When oversight becomes theatre</h2>
-<p>“Human oversight” is often presented as the safeguard. Yet there is a big “but”—oversight is only meaningful when the overseer understands the task, the system’s limits, and the evidence needed to contest its output. A person who cannot reproduce the reasoning, recognize a plausible error, or act without the tool is not supervising it. They are authorizing it.</p>
-
-<p>This takes the aforementioned irony of sophisticated automation to an institutional scale. As systems grow more capable, organizations may retain a human approval step while removing the knowledge, time, and authority that make approval substantive. The <a href="https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng">European Union AI Act</a> reflects the underlying requirement by linking oversight to competent, trained, and authorized human beings. A signature at the end of an opaque process cannot substitute for informed judgment. Ultimately, the human decision-maker must remain accountable.</p>
-
-<p><a href="https://www.cs.princeton.edu/~arvindn/talks/icml-2026-annotated-slides/">AI-mediated peer review</a> offers a vivid example. Automating parts of evaluation may relieve an overloaded academic system. Yet handing over the judgment that determines which ideas a field rewards also shifts intellectual steering toward patterns favored by the model... The same distinction applies in business: Delegating a first draft is different from delegating the decision about what should be built at all, whom it should affect, and which risks are acceptable.</p>
-
-<p>The following is a simple four-step process to be and remain proactive players in a hybrid landscape: </p>
-<h2>The A-Frame takeaway</h2>
-<p><strong>Awareness: </strong>Notice which abilities, data, and decisions are moving from yourself, your team, and your institution into AI systems.</p>
-<p><strong>Appreciation: </strong>Value AI’s speed and reach, alongside human capacity—starting with your own—to critically question, contextualize, and imagine from scratch.</p>
-
-<p><strong>Acceptance: </strong>Friction is part of competence. Most relevant tasks must be learned and practiced <em>before</em> they can be delegated safely.</p>
-<p><strong>Accountability: </strong>Before using AI, ask not only, “Can it do this?” Ask: “Could we understand, defend, and continue this work without it—and why do we need AI in this context at all?”</p>
-
-<p>We can still do something to preserve our place in the hybrid driver’s seat. But for how much longer?</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202607/the-sad-irony-of-our-hybrid-empowerment" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202607/the-sad-irony-of-our-hybrid-empowerment</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202607/the-sad-irony-of-our-hybrid-empowerment</guid>
-            <dc:creator><![CDATA[Cornelia C. Walther Ph.D.]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/2026-07_institutional_agency_decay.png.jpg?itok=wYCP3lFf" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finding Your Way to Stronger Connections]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-03/shannon_sauer-zavala__1_.png.jpg?itok=y24iHfRV" alt="Shannon Sauer-Zavala Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Finding Your Way to Stronger Connections</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Navigating contradictory advice for more satisfying relationships.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Relationship advice often seems contradictory because different goals require different strategies.</li><li style="margin-bottom:6px;">Applying the same relationship strategy across the board can lead to conflict.</li><li style="margin-bottom:6px;">The Relationship Compass helps you choose actions that align with your interpersonal goals.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">If you've ever searched for relationship advice online, you've probably noticed that much of it is contradictory.</p>
-<p dir="ltr">One expert tells you to be more vulnerable. Another reminds you to protect your boundaries. Some encourage forgiveness after conflict, while others warn against tolerating behavior that hurts you. You're told to ask for what you need but also not to expect anyone to meet your needs. </p>
-
-<p dir="ltr">Which of these recommendations are correct? The frustrating answer is it depends.</p>
-<p dir="ltr">Most of the common relationship advice is perfectly sound—in certain contexts. For example, one of my clients came to a session one day and proudly announced that she was "working on her boundaries." She excitedly told me how she'd said no when a friend was pressuring her to join an expensive girls' trip she couldn't really afford. Great boundary.</p>
-
-<p dir="ltr">Then she told me she'd done the same thing when the man she'd recently started dating texted that afternoon to see if she wanted to grab dinner, explaining, "I can't reward last-minute plans." I knew she really liked this guy and wanted to get closer, so I asked her, “Do you actually mind that he texted the same day, or did you say no because you've decided that's what healthy people do?"</p>
-
-<p dir="ltr">That's when I realized we often treat relationship advice as though it's universally applicable. In reality, the best strategy depends on the direction you're trying to go in any given relationship.</p>
-<h2 dir="ltr">The Four Directions</h2>
-<p dir="ltr">This realization became the idea behind the “The Relationship Compass,” a framework my colleagues and I developed as part of a new treatment for borderline personality disorder (BPD). Although it was designed for people who struggle with intense emotions and unstable relationships, I've found it to be helpful for almost anyone. </p>
-
-<p dir="ltr">Rather than telling you exactly what to do, the Relationship Compass helps you identify the direction you want a relationship to move before deciding how to act. It has four primary directions, each representing a different interpersonal goal:</p>
-<ol>
-<li>
-<p dir="ltr"><strong>Need something.</strong> Sometimes the healthiest direction is asking for something you need, whether that's practical help or more emotional support. </p>
-</li>
-<li>
-<p dir="ltr"><strong>Set a limit. </strong>Sometimes the relationship can only remain healthy if you establish a boundary. A limit isn't about punishing someone else or closing yourself off. It's about protecting your own well-being and living in accordance with your values.</p>
-</li>
-<li>
-<p dir="ltr"><strong>Want the relationship. </strong>At other times, the relationship itself is the priority. You may want to strengthen a friendship, deepen intimacy with a partner, reconnect with a family member, or build trust with someone new. This direction asks, "What behaviors are likely to move us closer?"</p>
-</li>
-<li>
-<p dir="ltr"><strong>End the relationship.</strong> Finally, there are situations in which the healthiest path is creating permanent distance. It may be the action most consistent with your safety, well-being, or long-term values.</p>
-</li>
-</ol>
+<h2>The Dynamic Relationship Between Hormones and the Environment</h2>
+<p>Moreover, many of the ideas regarding linking hormonal levels to behavior fail to take into account the recursive or reciprocal relationship between our bodies and the environment—we do not secrete hormones or engage in bodily processes in isolation. Our bodies respond to what we are exposed to in the environment—be it diet, sunshine, stress, amount of sleep, etc. In other words, hormonal secretions reflect a complex and intricate relationship between bodily processes, environmental exposures, and other factors—such as where we are in the developmental lifespan—which are constantly changing.</p>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
     
@@ -411,26 +120,89 @@
 
   </div>
 
-<p dir="ltr">The Relationship Compass isn't limited to the four cardinal directions. Just as a real compass points northeast or southwest, relationships often require us to move in more than one direction at once. You might both want the relationship and need to set a limit, for instance. </p>
-<p dir="ltr">Once you've identified the direction, choosing your next step becomes much easier.</p>
+<p>It appears that our political leaders have once again popularized the defunct notion of tying levels of testosterone to manliness, or other arbitrary markers of vitality or performance. Last week, the Defense Secretary announced that both male and female members of our military will be assessed and screened regarding their levels of testosterone. The purported purpose? To assure “optimal performance” and “long-term health of warfighters” (as reported by Mitchell, 2026). A fundamental lack of understanding in how our endocrine system works has once again led to reductionistic notions of how to derive meaning from the processes our bodies perform. </p>
 
-<h2 dir="ltr">When You Need Something</h2>
-<p dir="ltr">One of the most common mistakes people make is assuming that if someone loves them, they should automatically know what they need. When that doesn't happen, it's easy to become resentful or to communicate indirectly through hints, sarcasm, or even withdrawing. Others overcorrect in the opposite direction, demanding what they need so intensely that the conversation becomes about the delivery rather than the request itself. Both strategies usually leave people feeling misunderstood.</p>
+<p>Egged on by mis- and disinformation in our increasingly fractured media ecosystem—overrun by influencers and other non-expert figures who have been platformed on social media—it appears military personnel may be the next targets of the pseudoscientific ethos that has come to define our current political moment. While it remains to be seen how documenting testosterone levels of military members will impact perceptions of performance or other professional opportunities, given the extent to which women and other minorities have already been purged from the ranks, it isn’t outside the realm of possibility to consider that those determined to have “low T” may be demoted or receive professional backlash. </p>
+
+<p>This most recent announcement is troubling for many reasons. In addition to being scientifically misinformed, this edict coming out from the Defense Department perhaps best serves as a cautionary tale regarding how public policy can go off the rails when scientific scrutiny is tossed aside in favor of trends and performative posturing.</p>
+
+<p><em>Copyright Azadeh Aalai 2026</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-first-impression/202607/the-myth-of-testosterone-persists" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-first-impression/202607/the-myth-of-testosterone-persists</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-first-impression/202607/the-myth-of-testosterone-persists</guid>
+            <dc:creator><![CDATA[Azadeh Aalai Ph.D.]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/gdj-muscular-3791379_1920.jpg?itok=2fcqyLqd" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[No, You Don’t Need an ADHD Eval—But You Might Want One]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/Professional_Picture-removebg-preview.jpg?itok=epz8uQBS" alt="Mara Whiteside Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">No, You Don’t Need an ADHD Eval—But You Might Want One</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The real value of psychological evaluation for ADHD is differential diagnosis.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">There’s no single gold-standard test for ADHD.</li><li style="margin-bottom:6px;">Comorbidity is common with ADHD and complicates the diagnostic process.</li><li style="margin-bottom:6px;">Comprehensive evaluation isn’t always necessary for ADHD, but it’s especially valuable for certain groups.</li>
+            </ul>
+          </div>
+                    <p>Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder marked by a constellation of inattentive and/or hyperactive/impulsive symptoms. The disorder is presented as a checklist of symptoms that must be present from the developmental period (before age 12 years) and evident across more than one setting (American Psychiatric Association, 2022). The global prevalence for adults with ADHD is 3 percent (Ayano, Tsegay, et al., 2023) and 8 percent for children and adolescents (Ayano, Demelash, et al., 2023). </p>
+
+<p>ADHD is often suspected when a person is having difficulties with managing their attention or impulses. ADHD is also the subject of many social media posts, often with misleading content (Yeung et al., 2022). Accurate diagnosis of ADHD helps individuals find the treatment they need, but what type of provider should someone reach out to for ADHD assessment?</p>
+
+<h2>Assessment Practices</h2>
+<p>The <em>Diagnostic and Statistical Manual of Mental Disorders</em> (<em>DSM</em>) does not specify a specific test or method of assessing for ADHD. For children, the most accessible healthcare provider is their primary care provider. Pediatricians are usually the first providers a parent consults with when they have a concern about their child. When a child is struggling behaviorally or academically, a pediatrician may suspect ADHD. </p>
+
+<p>The American Academy of Pediatrics (AAP) has established guidelines for pediatricians regarding the evaluation and diagnosis of ADHD (Wolraich et al., 2019). Pediatricians look for symptoms consistent with the <em>DSM</em>; gather information from parents, teachers, and relevant sources; screen for comorbid conditions; and assist with management of the disorder (Wolraich et al., 2019). Many pediatricians use surveys, such as the NICHQ Vanderbilt ADHD Assessment Scale, to gather data from multiple sources. </p>
+
+<p>The AAP recognizes the challenges in implementing guidelines. Many pediatricians have a limited amount of time they can spend per patient. Gathering additional records from school or therapy providers requires a care management system. An added complication in diagnosis is that symptoms of ADHD overlap with symptoms of other conditions, like anxiety, trauma, and autism.</p>
+
+<p>Since ADHD is not a disorder that requires specific assessment practices, there are different professional opinions on the role of psychology in ADHD assessment. Some argue that pursuing a psychological or neuropsychological evaluation for ADHD diagnosis introduces <a href="https://www.youtube.com/watch?v=nVCDflvwkE8">unnecessary friction</a> in the process. Others point out data supporting a neurocognitive profile common in ADHD and related to executive dysfunction (Pievsky &amp; McGrath, 2018; Wright, 2021). At the end of the day, there is not a gold-standard test or process used to diagnose ADHD.</p>
+
+<p>The value of a psychological evaluation lies in the examination of differential diagnoses and comorbid conditions of ADHD. For younger patients, a comprehensive evaluation can assist with advocating for educational accommodations or modifications. </p>
+<h2>Differential Diagnoses</h2>
+<p>Misdiagnosis delays appropriate treatment. It can be confusing to families and patients, and it can erode trust in medical providers. Attention problems are symptoms of many psychiatric conditions, such as anxiety and depression. Children with cognitive or learning problems may look inattentive in a classroom setting. Concentration is very difficult for people with trauma disorders. Impulsivity is seen in behavioral conditions like intermittent explosive disorder and oppositional defiant disorder (ODD). People with medical complications may have changes in their attention functioning consistent with neurocognitive disorder rather than ADHD.</p>
 
 
-<p dir="ltr">A more effective approach is to ask assertively. A conversation to ask for what you need should start with setting the stage by describing the situation objectively, followed by sharing the emotion you’re experiencing. Then, you make a direct request, explaining how it will help you in the current situation. Asking clearly doesn't guarantee you'll get what you want, but it gives the other person the best opportunity to respond.</p>
+<p>Oftentimes ADHD and autism get misdiagnosed. There is a significant amount of overlap between these two conditions, including social deficits and restricted/repetitive behaviors (Martinez et al., 2024). Careful, comprehensive evaluation can examine the symptoms and help with determining differential or comorbid conditions. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<h2 dir="ltr">When You Need to Set a Limit</h2>
-<p dir="ltr">Boundary advice is everywhere these days, but it's often presented as though saying "no" is always the healthiest response. In reality, healthy boundaries are balanced. Saying yes to everything can leave you exhausted and resentful, while saying no to everything makes it difficult to build relationships based on trust and mutual support.</p>
+  </div>
+
+<h2>Comorbidity</h2>
+<p>Because ADHD is a neurodevelopmental disorder, it can frequently co-occur with other neurodevelopmental disorders (American Psychiatric Association, 2022). Neurodevelopmental disorders include intellectual developmental disorder, autism spectrum disorder, developmental language disorder, developmental coordination disorder, specific learning disorder, and other conditions that are present from the developmental period. If you have one of these conditions, you are more likely to have another. Some have stronger relationships than others; ADHD and tics are comorbid, for example, with more than half of children with tics also meeting criteria for ADHD (CDC, 2026). </p>
 
 
 
   
 
 
-<p dir="ltr">Rather than simply refusing a request, explain what's making the situation difficult for you, acknowledge the other person's perspective, and offer an alternative when appropriate. A well-set limit protects both your well-being and the relationship itself.</p>
-<h2 dir="ltr">When You Want the Relationship</h2>
-<p dir="ltr">If your goal is building connections, many of the behaviors that feel safest can actually move you in the opposite direction from what you want. People who fear rejection often stay quiet or avoid sharing personal information so they don’t get hurt. These behaviors reduce anxiety in the short term, but they also make genuine closeness harder to achieve.</p>
+<p>The most common comorbid conditions include ODD, autism spectrum disorder, personality disorders, and substance use disorders. ODD in particular has a particularly strong relationship with ADHD; approximately half of the people with combined type ADHD also have ODD (American Psychiatric Association, 2022). Psychiatric conditions like anxiety and depression can also co-occur with ADHD. For young children, it is crucial to assess for comorbid learning disorders. </p>
+
+<p>Some comorbid conditions have similar features to ADHD. Patients with autism have difficulty with joint attention, which can result in poor attention to social interactions or shared activities. Attention can be disrupted in anxiety and depression, and these conditions can include symptoms of psychomotor agitation that look like fidgeting. Treating ADHD instead of autism, anxiety, or depression can lead to frustration and prolonged symptoms. </p>
+
+<p>Psychologists and neuropsychologists are trained to assess for a wide range of conditions that may be comorbid with ADHD. Without appropriate assessment of comorbid conditions, treatment can stall. </p>
+<h2>Benefits of Psychological Assessment</h2>
+<p>Not only does psychological and neuropsychological assessment help with differential diagnosis and identification of comorbidities, but it also helps with identifying a person’s strengths and weaknesses.</p>
+
+<p>The evaluation process should be rooted in differential assessment. Assessment of intelligence helps define core cognitive ability. Language assessment identifies comorbid developmental language disorder (and, in some cases, difficulties in receptive language due to lapses in attention). Memory assessment can help patients understand the nature of their forgetfulness and help other clinicians identify the difference between a memory and an attention deficit. Academic assessment, particularly in children and adolescents, helps with diagnosing learning problems and understanding how attention and impulsivity relate to academic performance. </p>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
   
     
@@ -450,164 +222,450 @@
 
   </div>
 
-<p dir="ltr">Building relationships usually requires tolerating some uncertainty. Showing curiosity by asking questions, expressing appreciation, making eye contact, sharing your thoughts and feelings, and creating opportunities to spend time together all communicate interest in ways that strengthen connection over time. These actions may feel vulnerable, but vulnerability is often the price for intimacy.</p>
+<p>ADHD has long been conceptualized as a disorder of executive functioning (Pievsky &amp; McGrath, 2018). Russell Barkley proposed response inhibition as the central executive deficit (Barkley, 1997). Assessment of executive functioning is a key piece of psychological evaluation of ADHD, and psychologists will use a mixture of direct and indirect assessments. Psychologists can help patients understand their executive functioning, including providing recommendations for accommodation or modification. </p>
 
-<h2 dir="ltr">When It's Time to End the Relationship</h2>
-<p dir="ltr">Boilerplate advice often tells us to leave at the first sign of conflict, or, conversely, to fight for every relationship no matter the cost. Neither extreme is particularly helpful. Some relationships deserve repair, while others repeatedly undermine your safety, dignity, or values.</p>
-
-<p dir="ltr">When you're considering ending a relationship, try to make the decision from a place of reflection rather than emotional urgency. One exercise we use in BPD Compass is listing the pros and cons of both staying and leaving. Slowing down in this way helps ensure that your decision reflects your long-term values instead of how you’re feeling in the moment.</p>
-
-<h2 dir="ltr">The Best Relationship Advice Depends on Where You're Going</h2>
-<p dir="ltr">The Relationship Compass has changed the way I think about interpersonal problems because it reminds me that there isn't one universally "correct" relationship skill. The same behavior—being vulnerable, setting a boundary, asking for support, or walking away—can be exactly what’s needed in one situation, but backfire in another.</p>
-
-<p dir="ltr">Before deciding what to say or do, pause and ask yourself a simpler question: Where do I want this relationship to go? Once your destination is clear, the next step often becomes much easier to identify.</p>
+<h2>The Bottom Line</h2>
+<p>Initial diagnosis of ADHD through primary care is a great way to get access to services and treatment quickly. For those with few complications or other issues, additional evaluation is not necessary. Patients who are younger benefit from comprehensive evaluation for possible comorbidities that can also be impacting educational progress. Patients with any level of symptomology of psychiatric disorders, like depression or anxiety, need a comprehensive evaluation to determine if the impulsivity and attention identified as ADHD are truly ADHD or a pattern of symptoms better explained by a different disorder. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/self-made/202607/finding-your-way-to-stronger-connections" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/read-like-a-psychologist/202607/no-you-dont-need-and-adhd-eval-but-you-might-want-one" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/self-made/202607/finding-your-way-to-stronger-connections</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/self-made/202607/finding-your-way-to-stronger-connections</guid>
-            <dc:creator><![CDATA[Shannon Sauer-Zavala Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/read-like-a-psychologist/202607/no-you-dont-need-and-adhd-eval-but-you-might-want-one</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/read-like-a-psychologist/202607/no-you-dont-need-and-adhd-eval-but-you-might-want-one</guid>
+            <dc:creator><![CDATA[Mara Whiteside Ph.D.]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/priscilla-du-preez-_exjk18doue-unsplash.jpg?itok=6uThQDG9" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-gustavo-fring-7447264.jpg?itok=tNjy5XEK" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Psychedelic Window Always Closes]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-12/AdiJaffe-6009-removebg-preview.jpg?itok=8Xp9Ba8B" alt="Adi Jaffe Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychedelics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychedelic Window Always Closes</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">You think the psychedelic experience is the breakthrough. It’s only the beginning.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A psychedelic experience opens a window of mental flexibility. When it closes, the insight rarely survives.</li><li style="margin-bottom:6px;">Research suggests the real change isn't the experience but what gets encoded while the brain is flexible.</li><li style="margin-bottom:6px;">Drawing a durable picture of what you experienced, before the window shuts, is what makes it durable.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">Danny emerged from a guided psilocybin session lit up in a way he’d never been in years of therapy. He'd spent his whole life believing that if he ever stopped performing, he'd disappear, that his worth was his output. For five hours, that belief simply let go of him. He saw his kids' faces. He understood, in his body, that he was already enough. He wept. He called it the most important day of his life.</p>
+            <title><![CDATA[Is It Self-Care or Self-Surveillance?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-11-20_at_7.56.10_am.jpg?itok=DaG7VW_N" alt="Tara Well Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Body Image</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is It Self-Care or Self-Surveillance?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A routine can soothe us—or turn us into watchers of ourselves.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/shutterstock_666338215.jpg?itok=GOf5r2SZ" width="320" height="214" data-insert-type="image" title="Zephyr_p / Shutterstock" alt="Zephyr_p / Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Zephyr_p / Shutterstock</div>
+</div>
+</div>
+</div>
+<p>Self-care has become one of the defining ideas of modern life. We are encouraged to protect our sleep, care for our skin, strengthen our bodies, regulate our nervous systems, meditate, hydrate, and track our habits. Much of this is genuinely helpful. A morning walk can clear the mind. Exercise can improve mood. A skincare routine can be soothing. </p>
 
-<p dir="ltr">He thought he’d figured out the answer to his life’s problems, but I knew better… I’d seen this over a hundred times before. If he didn't do the work, he'd be back to where he started within a few weeks.</p>
-<p dir="ltr"><em>(Danny is a composite drawn from numerous people I've worked with.)</em></p>
-<p dir="ltr">If you've done psychedelic work or sat with someone who has, you know this story. The mountaintop, and then the slow, baffling slide back down. And here's the part almost everyone misses: That slide is not a failure of willpower, or proof the experience was fake. It's biology doing exactly what biology does.</p>
+<p>But practices that begin as care can gradually become another way of scrutinizing ourselves. A fitness tracker becomes a daily judgment. A mirror becomes a place to search for flaws. A wellness routine becomes another list of things we are failing to do correctly. How can we tell when that shift has occurred?</p>
 
-<p dir="ltr">We've all felt a version of it. The retreat that changed everything, but didn't stick. The podcast insight is so clear you couldn't imagine forgetting, but somehow forgot by Friday.</p>
-<h2 dir="ltr">The window is real. So is the wall it's cut into.</h2>
-<p dir="ltr">Here's a metaphor I use with every client who does this work.</p>
-<p dir="ltr">Most of your life, you've been living in a room. The walls are the beliefs you built long ago to keep yourself safe—I have to earn love; I can't be seen struggling; if I stop, I'm nothing. You didn't choose the room. You inherited it, or built it as a kid with the materials you had, and then you forgot it was built at all. You just called it "reality."</p>
+<h2>Notice How You Feel Afterward</h2>
+<p>The same behavior can be caring or critical, depending on the attention we bring to it. Looking in the mirror might help you pause and reconnect with yourself. Or it might send you searching for everything that looks tired, old, uneven, or somehow wrong. Exercise can make you feel strong and alive. It can also become punishment for not looking the way you think you should. A beauty routine may be pleasurable and expressive—or reinforce the belief that your face is a problem to solve before you deserve to be seen. One useful test is how you feel afterward. Do you feel calmer, stronger, or more present? Or do you leave feeling inadequate and newly aware of everything that needs improvement?</p>
 
-<p dir="ltr">A psychedelic experience opens a window in that room.</p>
-<p dir="ltr">Suddenly, there's light from a direction you've never seen. You look out, and there's a whole world your walls had been blocking. You can see the ocean, palm trees blowing in the wind. A whole set of worldviews and feelings you’ve never known before. It's genuinely new information, and it's really yours.</p>
+<h2>When the Body Becomes a Set of Numbers</h2>
+<p>Psychologists have long studied what happens when people learn to see themselves from an observer’s perspective. Objectification theory describes how girls and women may internalize an outside view of their bodies, leading them to monitor how they appear rather than experience how they feel.</p>
 
-<p dir="ltr">You feel incredible. You’re sure you’ve seen the light.</p>
-<p dir="ltr">But then the window closes. It always does. It's supposed to. And when it closes, if all you did was stand there admiring the view, you're right back in the same room, armed with a bittersweet memory of what you’d seen through that window.</p>
-<p dir="ltr">The work, the entire work, is about what you do while the window is open. If you want it to last, you have to draw a picture of what you see out there, so that when the wall goes opaque again, you're not left with a fading feeling. You're left with a representation you can hold, study, and build from.</p>
+<p>Today, that monitoring extends far beyond the mirror. We can measure our steps, sleep, heart rate, calories, stress, weight, recovery, and productivity. These tools can provide useful information and support healthier habits. But they can also turn the body into something we constantly score and correct. Instead of asking, “Do I feel rested?” we check our sleep data. A low score can make us distrust a perfectly good night’s sleep. A missed exercise goal can feel like failure, even if our body needed rest. The technology itself is not the problem. What matters is whether the information helps you understand yourself or makes you anxious about how you are managing yourself. </p>
 
-<h2 dir="ltr">What the window actually is</h2>
-<p dir="ltr">This isn't mysticism. It maps onto some of the most interesting neuroscience of the last decade.</p>
-<p dir="ltr">Your brain runs on prediction. High-level beliefs sit at the top and filter everything below them. Most of what you "perceive" is really your own expectations confirming themselves. Neuroscientists Robin Carhart-Harris and Karl Friston proposed that psychedelics work by relaxing the grip of those top-down beliefs. Their model, REBUS (RElaxed Beliefs Under pSychedelics), suggests psychedelics briefly let bottom-up experience flood through less filtered. That's the window opening: the walls, for a few hours, stop filtering your view.</p>
+<h2>Living for an Imagined Audience</h2>
+<p>We now see ourselves on video calls, examine photographs before posting them, and imagine how we appear entering a room or speaking in a meeting. It's not vanity. We are deeply social, and how others respond to us affects whether we feel accepted and understood. But living with an imagined audience can pull us outside ourselves. “What am I feeling?” becomes “How am I coming across?” “What do I need?” becomes “How do I look?”</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p dir="ltr">And the glass is more than a metaphor. In animals, a single dose of psilocybin produced rapid, lasting growth of new connections between neurons in the frontal cortex within 24 hours, and it was still present a month later. Other research found that several psychedelics reopen a "critical period," a state of heightened learning the brain normally reserves for childhood, and that the window stays open roughly as long as the experience itself lasts.</p>
+  </div>
 
-<p dir="ltr">Think about what that means. The experience doesn't hand you a new self. It hands you a window of unusual flexibility. A few hours when the old wiring is genuinely revisable. What gets built in that window is up to you.</p>
-<h2 dir="ltr">Why insight alone evaporates</h2>
-<p dir="ltr">Why do clients slide back? Because they treat the insight as the finish line. They see the view and assume seeing is enough.</p>
+<p>This pressure is particularly strong around beauty. Grooming and beauty practices can be creative, pleasurable, and closely tied to identity. Yet they can also become a form of constant correction, with every visible sign of aging treated as a problem requiring intervention. Research suggests that social media can intensify body-image concerns by encouraging us to compare our appearance with other people’s. Over time, those comparisons can shape the standards we use to judge our own bodies.</p>
 
-<p dir="ltr">But a brain that has briefly relaxed its old beliefs will, without new input, revert back. Those old beliefs are well-worn, efficient, and familiar. Seeing outside the window doesn't rewrite the room. Only encoding something new while the window is open does.</p>
-<p dir="ltr">Here's the most hopeful finding of all, and notice it involves no drug at all. When old memories, including old fears, are reactivated, a brief window opens in which the memory is chemically "unlocked." If we feed in new, non-threatening information, the fearful memory can be replaced. When done right, the fear doesn’t return, not the next day and not a year later. That window is called reconsolidation. </p>
+
+<p>Often, the real goal is not simply to look better. It's to feel safer being seen. That desire deserves our compassion and understanding. Appearance has a profound effect on how people respond to us. The question is whether our routines help us inhabit our bodies more comfortably—or make us believe we must fix ourselves before entering the world.</p>
+
+<h2>Care Is Also an Attitude</h2>
+<p>Self-care is not only what we do, but how we relate to ourselves while doing it. Research has linked self-compassion with a more positive body image and lower levels of disordered eating. Self-compassion does not require pretending that we love everything about ourselves. It means responding to our perceived flaws with less criticism and more understanding. A workout motivated by care can build strength. The same workout driven by shame can feel like a punishment for not meeting unrealistic standards. From the outside, the two may look identical.</p>
 
 
 
   
 
 
-<p dir="ltr">That is the scientific heart of the metaphor. Drawing the picture is the edit. When you actively externalize what you saw—in words, in writing, in a new habit—you're not just journaling a nice memory. You're wiring in new information while it's still soft. </p>
-<p dir="ltr">You're making a picture of what you saw through the window.</p>
+<p>If you are unsure what a routine is doing for you, consider a few questions:</p>
+<ul>
+<li>Do I feel better afterward, or more dissatisfied with myself?</li>
+<li>Is this helping me live my life, or making my life smaller?</li>
+<li>Am I responding to a real need or to an imagined audience?</li>
+<li>Would I still want to do this if nobody could see the result?</li>
+</ul>
 
-<h2 dir="ltr">What to do while the window is open</h2>
-<p dir="ltr">This is what I take clients through and what I do myself. It's the picture that makes the experience pay off:</p>
-<ol>
-<li dir="ltr"><strong>Name the room before you go looking for the window.</strong> Before any experience, get specific about the beliefs you battle with. You can't redraw a wall you can't see. Write them down in a few sentences.</li>
-<li dir="ltr"><strong>Draw the picture in the moment, then again within 48 hours. </strong>During and right after, capture what you saw in concrete language. Not "I felt love," but "I know I am enough, even when I produce nothing [write the evidence, as you feel it in your mind and body]." Return to it deliberately within two days, while the wiring is still pliable. Say it out loud. Edit your notes, focusing on the new belief. The goal isn't to remember the trip. It's to install the correction.</li>
-<li dir="ltr"><strong>Give the picture a body. </strong>Insight that stays in your head fades with the window. Insight that becomes a behavior gets encoded by repetition. Commit to one different choice you make this week that only makes sense if the new belief is true. That’s the practice that outlasts any single window. For Danny, it was writing down what he’s grateful for as he closed his laptop for the evening. Small. Concrete. A window, re-drawn.</li>
-</ol>
+<p>Genuine self-care does not require abandoning fitness, beauty, technology, or personal goals. It simply asks us to notice the relationship we are creating with ourselves. Are your routines helping you feel more at home in your body—or training you to keep watch for what needs fixing?</p>
+<p>Copyright 2026, Tara Well, PhD</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<h2 dir="ltr">Remember this</h2>
-<p dir="ltr">The window is a gift, but it's on loan. It opens, it shows you a world your walls were hiding, and then it closes, every time, by design. What you keep isn't the view. It's the picture you drew while you could still see.</p>
-<p dir="ltr">So the next time the glass goes clear, don't just stand there. Pick up the pen or a crayon. Draw fast, draw honestly, and draw something you can live inside after the light is gone.</p>
-
-<p dir="ltr">What would you draw if the window opened tomorrow?</p>
-<p dir="ltr">For more on the hidden drivers behind the patterns we can't seem to outrun, see my book <a href="https://www.hachettebookgroup.com/titles/adi-jaffe-phd/unhooked/9780306833465/"><em>Unhooked</em></a><em>.</em></p>
+  </div>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/all-about-addiction/202607/the-psychedelic-window-always-closes" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-clarity/202607/is-it-self-care-or-self-surveillance" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/all-about-addiction/202607/the-psychedelic-window-always-closes</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/all-about-addiction/202607/the-psychedelic-window-always-closes</guid>
-            <dc:creator><![CDATA[Adi Jaffe Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-clarity/202607/is-it-self-care-or-self-surveillance</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-clarity/202607/is-it-self-care-or-self-surveillance</guid>
+            <dc:creator><![CDATA[Tara Well Ph.D.]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/man_starting_out_windwon_-_painting.png.jpg?itok=3eqA39q4" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/shutterstock_666338215.jpg?itok=F7ApRVK2" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[How Trauma-Related Schemas Shape Your Life]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/dan-roberts-white-bg.png.jpg?itok=tvE0RZc4" alt="Dan Roberts MBACP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Trauma-Related Schemas Shape Your Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Childhood trauma creates painful schemas in your brain, but they can be healed.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Is the Story You Tell Yourself Making You Anxious?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is the Story You Tell Yourself Making You Anxious?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How children’s literature can help kids (and adults) work through worry.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p dir="ltr">Life is not only composed of what happens to us, but is also made up of the stories we tell ourselves about our experiences. Some narratives extract meaning and purpose from life’s most challenging situations, while others lead us to ruminate on the unfortunate, unfair, or unpredictable aspects of life’s events.</p>
+
+<p dir="ltr">By changing our inner narrative to a more balanced, realistic, and empowered point of view, we can become mentally and emotionally resilient. Cognitive behavioral therapy and narrative therapy are approaches that embrace this process of examining the stories we tell ourselves with the goal of restructuring the narrative into a story that supports our growth and well-being. </p>
+
+<p dir="ltr">Telling ourselves an overly negative story often fuels anxiety and depression; however our inner story does not need to go from entirely negative to entirely positive, nor pessimistic to optimistic. In narrative therapy the aim is to avoid being “single-storied,” and instead embrace the richness and complexity of life, leaving room for a wide range of emotions, meanings, and interpretations of our experiences. </p>
+
+<p dir="ltr">Reading books, like <a href="https://shop.scholastic.com/parent-ecommerce/books/just-for-today-9781546181323.html">Charlotte Agell’s <em>Just for Today</em></a>, can help children, and their grown-ups, to consider healthier narratives. More than anything, reading books can remind us that our story doesn’t end here—the blank pages ahead offer hope of a satisfying plot twist, an important revelation, and ultimately a happy ending.</p>
+
+<p dir="ltr">Children’s book author and educator Charlotte Agell shares her take on surviving worry spirals and celebrates the life-changing power of reading.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/charlotte_agell_headshot.jpeg.jpg?itok=ajHput8v" width="320" height="427" data-insert-type="image" alt="Reading books, like Charlotte Agell’s Just for Today, can help children, and their grown-ups, to consider healthier narratives." title="Scholastic/Used with permission"></div>
+<div class="caption">Reading books, like Charlotte Agell’s Just for Today, can help children, and their grown-ups, to consider healthier narratives.</div>
+<div class="insertArea--origin subtext">Source: Scholastic/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em><strong>Q: </strong></em><strong>Share a bit about your background and what inspired you to write </strong><em><strong>Just for Today</strong></em><strong>. </strong></p>
+<p dir="ltr"><em><strong>Charlotte Agell:</strong></em> I’m a lifelong public schoolteacher and mom, and soon-to-be grandmother. Life is full of love and drama. <em>Just for Today</em> grew out of Elba and Norris’s first adventure, in their debut book, <em>Maybe Tomorrow? </em>They just kept talking to each other, as friends do, and talking to me, telling their stories. </p>
+
+<p dir="ltr">Both <em>Maybe Tomorrow?</em> and <em>Just for Today</em> grew out of things family members said to me. When my daughter was going through a tough time, she said: “Don’t try to fix it, just listen.” I used the character of Norris in <em>Maybe Tomorrow?</em> to teach myself more about that. He’s such a good listener. (It’s funny how characters can be wiser than their creators!) </p>
+
+<p dir="ltr">This new book, <em>Just for Today</em> is about getting caught in a worry spiral and how friends can help each other through that. My mother, who’s very wise, has this saying for when something is so hard it’s almost impossible to imagine anything different. She says, “This is not the end of the story.” I drew on that to explore how the stories we tell ourselves affect our moods and our thinking. </p>
+
+
+<p dir="ltr">Elba and Norris, like all true friends, hold each other’s stories gently but also prod each other toward growth and calm. This time, Elba can help Norris. I think both books are essentially about the life raft that is deep friendship.</p>
+<p dir="ltr"><em><strong>Q: </strong></em><strong>How do the stories we tell ourselves contribute to anxiety? How do the characters in the book decide to try a different story to help with their worries? </strong></p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content ad--content-loaded" data-google-query-id="CI2CwODr4ZUDFSlNCAQdtIMg2g">
+    
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" name="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="7"></iframe></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>Life seems sometimes like a journey of narration. I am from Sweden, but as a child I lived in both Canada and Hong Kong as well, before coming to the U.S. and finding my forever home, Maine. There were a lot of changes, including going to five different schools on three continents between fifth and seventh grade. It was bewildering. I wondered, as one often does, who I was. </p>
+
+
+
+  
+
+
+<p dir="ltr">I have always been a big reader, someone who has taken solace and inspiration in literature. I have also always been a storyteller. Over the years. I have navigated by story myself. In low moments, I try to reframe my own story. The stories we tell ourselves can sink us or they can help us swim. The right story can make a heart brave. And stories are meant to be shared. That’s what Elba and Norris do, in their own bumbling way, even as the plot thickens and twists and turns. </p>
+
+<p dir="ltr"><em><strong>Q: </strong></em><strong>When the friends get swept away with worry, what helps them find their way back to each other? </strong></p>
+<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>Elba, who specializes in worrying, is able to remember what Norris has said: Sometimes, worry is telling yourself the wrong story. Just for today, try telling yourself a different story.” So, she focuses on the moment, not the shipwreck. She notices the butterflies and berries and her own strength. She finds a way to sing about it. Norris, way upriver, has uncharacteristically crumpled. We all <em>do</em> worry, after all. He needs his friend and she shows up for him. And they are both able to go on into the day. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/just_for_today.jpg?itok=ydty2djr" width="320" height="430" data-insert-type="image" title="Scholastic/Used with permission" alt="Scholastic/Used with permission"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Scholastic/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em><strong>Q: </strong></em><strong>What important lessons about anxiety can young children learn from your book? </strong></p>
+<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>I hope that they can learn that worrying is something we all do. When we get carried away by it, it really helps to reach out to someone. Anxiety, of course, is different from worry. I hope that this book, like <em>Maybe Tomorrow?</em> (with its emphasis on grief and loss), can be something like a doorway, an invitation to talk about things. Sometimes, when we read something that resonates, we realize that we do not have to go into hard feelings alone. Children are full of feelings. I hope <em>Just for Today </em>can be a starter kit for exploring worry, one of the harder feelings, with love and reassurance and some humor, too. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content ad--content-loaded" data-google-query-id="CIuCwODr4ZUDFSlNCAQdtIMg2g">
+    
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_in-content_0" name="google_ads_iframe_/1032688/300x250_in-content_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="5"></iframe></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr"><em><strong>Q:</strong></em><strong> What do you hope young readers take away from spending time with</strong><em><strong> Just for Today</strong></em><strong>?</strong></p>
+<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>Over the years, my students and my life have taught me a great deal about friendship. At the core, this book is about reaching out, about daring to be yourself with a friend, whether you are happy or sad. Both of these books focus on social-emotional learning, with the characters often taking an opposite perspective on things. I hope that this will invite deep conversation and maybe some hugs and laughter, too.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/well-read/202607/is-the-story-you-tell-yourself-making-you-anxious" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/well-read/202607/is-the-story-you-tell-yourself-making-you-anxious</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202607/is-the-story-you-tell-yourself-making-you-anxious</guid>
+            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/shutterstock_2467746509.jpg?itok=CY2mBVz1" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Secret Superpower of Humor in Parenting]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/steve-sultanoff.png.jpg?itok=lyNGa6mk" alt="Steven Sultanoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Humor</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Secret Superpower of Humor in Parenting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Laughter helps shape childhood memories and strengthen family bonds.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>“One, two, cha, cha, cha… One, two, cha, cha, cha.” My father chanted this as he rhythmically pressed and released the accelerator, causing our massive family sedan to lurch forward and back. My father—a serious physicist who rarely acted silly—was completely out of character, "dancing the cha-cha" while my buddies laughed in the back seat. That playful memory remains etched in what I call my <em>humor happenings</em>—the collection of joyful moments that continue to shape how I see the world.</p>
+
+<p><strong>The Power of Humor in Parenting</strong></p>
+<p>Children may not remember every lesson we teach them, but they often remember how we made them feel. One of the simplest ways to create lasting positive memories is through humor.</p>
+<p>We've all heard the claim that children laugh hundreds of times a day while adults laugh only a fraction as often. While the exact numbers are uncertain, one truth is clear: children laugh far more than adults. Somewhere between childhood and adulthood, many of us suppress our natural lightheartedness and playfulness. That matters because humor is much more than entertainment. Shared humor strengthens relationships, helps children cope with life's challenges, and creates a family atmosphere where everyone feels safer, closer, and more connected.</p>
+
+<p>Humor is one of parenting's most powerful—and most overlooked—tools. It does far more than make <a href="https://pubmed.ncbi.nlm.nih.gov/12509169/">children laugh</a>; it helps shape how they think, feel, relate to others, and ultimately how they navigate life. Over more than four decades of clinical practice, teaching, and research, I have found that healthy humor consistently strengthens children physically, emotionally, cognitively, and socially.</p>
+
+<p><strong>Four Ways Humor Helps Children Thrive</strong></p>
+<p>Healthy humor benefits children in four important ways.</p>
+<ul>
+<li>Laughter, the physical experience of humor, promotes physical and physiological well-being. It reduces stress, encourages relaxation, and can lessen the perception of pain. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2686629/">Children's hospitals increasingly use humor</a> because it helps reduce anxiety, improve cooperation, and make children feel more comfortable with medical providers. A child who laughs is often calmer, more cooperative, and better able to manage stressful experiences.</li>
+<li>Mirth, the emotional experience of humor, builds resilience. It helps children feel uplifted and delighted while regulating emotions by reducing anxiety and frustration. Children who can laugh through life's smaller setbacks are better prepared for larger ones.</li>
+<li>Wit, the cognitive experience of humor, encourages flexible thinking by teaching children that there is more than one way to view a situation. Understanding riddles, wordplay, and jokes develops language, creativity, perspective-taking, and problem-solving.</li>
+<li>Relational fusion, the social bonding experience of humor, builds relationships. Laughing together creates trust, strengthens emotional bonds, increases empathy, and eases tension. Shared laughter becomes an emotional anchor that children often remember long after they have forgotten specific conversations.</li>
+</ul>
+
+<p><strong>Why Humor Strengthens Families</strong></p>
+<p>Parents naturally focus on teaching responsibility, respect, and good decision-making. Yet children also need experiences that communicate a simple message: Home is our haven. We enjoy being together. Humor helps create that environment.</p>
+<p>A playful comment during a stressful morning, a funny voice at bedtime, or laughing together over a kitchen mishap can instantly change the emotional climate without minimizing the situation. Rather than avoiding serious issues, humor, as a social lubricant, helps families navigate conflict without allowing stress to overwhelm the relationship. Children who feel emotionally connected are generally more willing to cooperate, communicate openly, and recover from conflict.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Parenting is demanding, and humor offers perspective and emotional relief. It reminds us that while raising children is serious work, it is also filled with opportunities for joy.</p>
+<p><strong>Five Ways to Bring More Humor into Everyday Parenting</strong></p>
+<ul>
+<li>Parents do not need to become comedians. Small moments of playfulness—like my father's impromptu "cha-cha-cha"—can have a lifelong impact.</li>
+<li>Model humor. Children learn by watching us. Parents who laugh, smile, and play naturally encourage children to develop healthy senses of humor.</li>
+<li>Create a playful environment. Read funny books, tell riddles, invent silly songs, watch age-appropriate comedies, and encourage imaginative play. These experiences help children associate family life with warmth and enjoyment.</li>
+<li>Celebrate your child's humor. Even predictable jokes deserve appreciation. Encouragement builds confidence, creativity, and communication.</li>
+<li>Use humor to reduce tension. A playful comment or exaggerated expression can interrupt escalating emotions and make difficult conversations easier.</li>
+</ul>
+
+<p>Teach empathic humor. Humor should leave everyone feeling respected, included, and emotionally safe. Unlike sarcasm or ridicule, empathic humor strengthens relationships rather than weakening them. Help children recognize the difference between humor that connects people and humor that hurts.</p>
+<p><strong>The Lasting Gift of Humor</strong></p>
+
+<p>Years from now, your children may not remember every rule you enforced or every lecture you delivered. They are far more likely to remember laughing with you after the pancakes burned, sharing riddles on long car rides, or turning an ordinary day into something joyful.</p>
+<p>Those moments may seem ordinary at the time, but they become part of a child's own <em>humor happenings</em>—the joyful memories that quietly shape how they think, feel, and connect with others for the rest of their lives. Humor teaches resilience. It encourages flexible thinking. It strengthens relationships. Most importantly, it reminds children they are loved, accepted, and safe. When lightheartedness becomes woven into family life, everyone benefits. Children grow more confident, emotionally resilient, and socially connected. Parents gain perspective and enjoyment. The relationship between them grows stronger with every shared smile.</p>
+
+<p>Years from now, your children may not remember every rule you made—but they will likely remember your own version of the "cha-cha-cha."</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/where-the-wry-things-are/202607/the-secret-superpower-of-humor-in-parenting" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/where-the-wry-things-are/202607/the-secret-superpower-of-humor-in-parenting</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/where-the-wry-things-are/202607/the-secret-superpower-of-humor-in-parenting</guid>
+            <dc:creator><![CDATA[Steven Sultanoff Ph.D.]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/cat1jongcreativeshutterstock_2587236345.jpeg.jpg?itok=eMkAS6pW" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 Things About Panic Attacks I Wish I Had Learned Earlier]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-02/Phil_Lane_Headshot-removebg-preview.jpg?itok=9C0kPFbx" alt="Phil Lane MSW, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Things About Panic Attacks I Wish I Had Learned Earlier</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">I recovered from panic attacks. Here are 5 things I wish I'd learned sooner.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Childhood trauma creates painful mental schemas, which shape your thoughts, feelings, and behaviour.</li><li style="margin-bottom:6px;">These schemas can be healed with trauma-informed approaches like schema therapy.</li><li style="margin-bottom:6px;">As schemas loosen their grip, your thoughts become more helpful and you feel calmer, happier, and stronger.</li>
+              <li style="margin-bottom:6px;">Learning about how and why panic happens can help us to gain control over it.</li><li style="margin-bottom:6px;">Believing in our own safety is breakthrough lesson in coping with panic.</li><li style="margin-bottom:6px;">Research shows that certain therapeutic interventions can help reduce symptoms of anxiety.</li>
+            </ul>
+          </div>
+                    <p>I am 20 years removed from my first panic attack. Panic still arises at times, though it is now much more manageable, and I understand it far better than I did two decades ago. As I reflect on my journey with panic, I can identify five specific concepts that I wish I had learned back when my panic attacks were debilitating and frightening. As a therapist who now treats panic, I consider these five vital points in learning to cope with panic attacks. </p>
+
+<h2>5. Panic Attacks Are Not Uncommon</h2>
+<p>When you are struggling with panic, it can feel extremely isolating, particularly as you notice others around you who are seemingly going through their lives without the constant fear and uncertainty that panic brings. But the reality is that panic attacks are far more common than you might think. According to the Cleveland Clinic, up to 11 percent of Americans experience a panic attack each year, and up to 35 percent will experience a panic attack at least once in their life. My clinical work certainly supports the idea that panic is a common experience: I have seen countless clients who present to therapy reporting struggling with panic. Commonality and shared experience can help to reduce feelings of isolation and alienation that are so often felt when going through panic. Had I known this earlier, I might have placed less shame on myself for struggling.</p>
+
+<h2>4. Getting Help Can Help</h2>
+<p>None of us is immune from the unhelpful belief that we should handle our problems on our own and not burden others, but this line of thinking is particularly unhelpful when coping with panic attacks. Like many young men in their 20s, I initially resisted the idea of getting help for my panic, viewing it as a personal failing to need to outsource what I could do myself—if only I could be stronger and “toughen up.” In retrospect, I recognize that starting therapy was immeasurably helpful to my recovery, and research shows that certain therapeutic interventions, including, but not limited to, cognitive behavioral therapy and panic control treatment, can result in “notable reductions in symptoms of anxiety” (Hansen et al., 2026). It is ongoing work to challenge the narrative of the silent struggle, but it is important that we continue to destigmatize panic.</p>
+
+<h2>3. Panic Attacks Are Not Medical Emergencies</h2>
+<p>I cannot count the number of times I went to the emergency room for what turned out to be a panic attack—but had felt like a heart attack. This is not uncommon among people who experience panic, and the reason is simple, yet something I did not understand at the time: Panic attacks produce “somatic mimics,” physical responses that mimic more serious medical conditions—for example, chest tightness that mimics a heart attack or headaches that mimic an aneurysm. Had I understood this at the time, I might have saved myself a lot of unnecessary trips to the hospital. Panic attacks are uncomfortable, unpleasant, frightening, and sometimes debilitating, but they are not actual medical emergencies, and understanding this can go a long way toward feeling less threatened by them. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>2. Small Daily Habits Can Have Big Impacts</h2>
+<p>This may sound overly simplistic, but I have learned how much daily habits can impact panic attacks. Little, seemingly unimportant things like staying hydrated or moderating caffeine intake have a marked effect on panic. Studies show that worsened sleep quality, increased time spent online, and poor diet can directly affect anxiety and panic (Pedrini et al., 2024). To this day, if I overindulge in coffee, I am likely to experience a jolt of anxiety and panic that I would not have had I been more mindful of my caffeine intake. The lessons of coping with panic attacks are not always big breakthroughs—sometimes they are small and simple, yet no less important.</p>
+
+<h2>1. I Was Safe</h2>
+<p>The first therapist I saw when I was in the throes of panic explained the concept of “fight or flight” and presented panic to me in terms of it being a “primitive response” wherein my mind and body were responding as though I were in immediate danger. This was an absolute breakthrough for me: If I could recognize and even (gulp) accept that I was actually safe despite my body’s uncomfortable somatic mimics, I might be able to feel less at the mercy of panic. Over time, I began to believe in my own safety more and more, and it changed everything. As I felt safer, I was able to step back into a life no longer dictated and restricted by panic. “You are safe” is a big part of the message when I treat clients in my own practice. I wish I had known it earlier. But I am now given the great privilege and responsibility to help others rediscover their sense of safety and learn to live without the constant specter of panic, just as I have. </p>
+
+<p><em>To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/am-i-dying/202607/5-things-about-panic-attacks-i-wish-i-had-learned-earlier" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/am-i-dying/202607/5-things-about-panic-attacks-i-wish-i-had-learned-earlier</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/am-i-dying/202607/5-things-about-panic-attacks-i-wish-i-had-learned-earlier</guid>
+            <dc:creator><![CDATA[Phil Lane MSW, LCSW]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/beth-stevenson-ntffqt8jbi0-unsplash.jpg?itok=-ogD3ekO" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[1 Habit That Kills Motivation for Most Adults]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">1 Habit That Kills Motivation for Most Adults</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Seeking external validation can block internal motivation almost entirely.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Chronic external validation seeking flies under the radar because it masquerades as conscientiousness.</li><li style="margin-bottom:6px;">When approval becomes the fuel, the internal reward system gradually recalibrates.</li><li style="margin-bottom:6px;">When people are helped to identify and act on their own values and preferences, motivation tends to return.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/image_-_sad_child_3.jpg?itok=bbikjBH7" width="320" height="213" data-insert-type="image" title="Renaud Confavreux/Unsplash" alt="Renaud Confavreux/Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/motivation.jpg?itok=JAV_DOIz" width="320" height="320" data-insert-type="image" title="Nataliya Vaitkevich / Pexels" alt="Nataliya Vaitkevich / Pexels"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Renaud Confavreux/Unsplash</div>
+<div class="insertArea--origin subtext">Source: Nataliya Vaitkevich / Pexels</div>
 </div>
 </div>
 </div>
-<p><em>This is the first post in a series.</em></p>
-<p>We now know that childhood trauma is far more widespread than mental health professionals previously understood. And traumatic experiences are on a spectrum, from milder to more severe. While the focus had been on profoundly traumatic experiences such as physical or sexual abuse, many experts now argue that apparently milder experiences, such as being bullied or growing up in a high-conflict home, can also be traumatic for kids. These traumatic experiences are mediated by a child’s temperament and their core emotional needs.</p>
+<p>Motivation rarely disappears after a single bad experience. What erodes it, consistently, is a habit of small surrenders. These are moments where a person defers to the room, waits for a signal, or edits themselves before anyone asks. Repeated often enough, this pattern stops feeling like social awareness and starts feeling like the only way one can function.</p>
 
-<p>If these developmental needs were not met for you on a consistent basis, you might have developed one or more painful mental schemas.<sup>1</sup> In this first of two posts, we will examine two of these schemas. It is a good idea to read the description of each schema and then make some notes about whether it resonates with you or not. If you would like to check which of the schemas you have, take the Young Schema Questionnaire (YSQ), which is available on Dr. Young’s website.<sup>2</sup></p>
+<p>The psychological term for what’s happening underneath is externalized regulation, and understanding it explains not just why motivation fades, but why it so often fades in people who are, by any external measure, doing fine.</p>
+<h2>The Habit of Chronic External Validation-Seeking</h2>
+<p>The concept comes from self-determination theory, one of the most well-replicated frameworks in motivational psychology. A <a href="https://doi.org/10.1016/j.cedpsych.2020.101860">2020 review</a> published in <em>Contemporary Educational Psychology,</em> by the theory's originators, synthesizes decades of research showing that lasting motivation requires three conditions: </p>
 
-<h2>Abandonment/Instability</h2>
-<p>This schema often develops when you’re a small child. You may have lost a caregiver when you were little—perhaps you were adopted and given up by your birth parents. Or one of your parents might have died, which would have been extremely painful and potentially life-changing. But often, people with this schema didn’t physically lose anyone, so it’s helpful to look at part two of the schema: Instability. This means instability of attachment; estimates suggest that around 50 percent of the population has an insecure attachment style.</p>
+<ol>
+<li>A sense of competence</li>
+<li>A sense of relatedness</li>
+<li>A sense of autonomy or the felt experience that your actions are genuinely your own</li>
+</ol>
+<p>Chronic external validation-seeking gradually dismantles that third condition. The habit looks harmless, even socially virtuous, in its early forms. You check with your partner before committing to a project. You scan the room before voicing an opinion. You post something and wait, a little tensely, to see how it lands. These moments aren’t inherently problematic. They become a motivation-killer when they calcify into a reflex that says, “I don't act until I know someone approves.”</p>
 
-<p>Perhaps your mother had postnatal depression, so she struggled to connect with you (through no fault of her own). For a tiny baby, this can feel agonizing because every time your mum was shut down and withdrawn, averting her gaze or just being unresponsive, you would have felt abandoned. To a small baby, who is not capable of thought or understanding and just feels intense bodily sensations and overwhelming emotions, this feeling of abandonment would have been unbearable, so the schema would start to take hold.</p>
+<h2>Why This Habit Hides in a Blindspot</h2>
+<p>Part of what makes this habit so effective at flying under the radar is that it masquerades as conscientiousness. The person who always runs decisions by others appears thoughtful. The person who holds back an opinion until they’ve gauged the group reads as measured. And in many contexts, including workplaces, families and even certain cultures, these behaviors are actively rewarded.</p>
 
-<p>As an adult, this schema can be especially tricky in your relationships because it can make you deeply insecure. You may be plagued by jealousy, obsessively checking your partner’s phone for signs they are cheating. You could also go the other way, refusing to commit for fear of being left, so engaging in a string of safe-but-meaningless flings.</p>
+<p>But there is a difference between consultative decision-making and approval-dependent motivation. In the first, you gather input and then decide, with the locus of commitment sitting inside you. In the second, the decision itself waits to be made by someone else’s reaction, and so does your energy. </p>
+<p>A <a href="https://journals.sagepub.com/doi/10.1177/20413866211006173">2021 meta-analysis</a> published in <em>Organizational Psychology Review</em>, drawing on 124 workplace samples, draws a consistent distinction between identified regulation (doing something because it genuinely aligns with your own values) and introjected regulation (doing something to avoid guilt, shame, or the discomfort of disappointing someone). </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>Let’s examine this schema through Shazia’s story. Her family moved to the UK from Pakistan before she was born. Shazia remembers an idyllic childhood in her large, loving family until her beloved mother died suddenly when she was eight. "It was like my world turned upside-down. I was so happy as a child and my mum was everything to me," she recalled with a shaky voice. She was raised by her grandmother, who could not fill the void left by her mother’s passing. "I used to cry myself to sleep every night," she said. "I missed Mum so much, it was agony."</p>
+  </div>
 
-<p>Despite the family’s best efforts, she never got over the loss of her mother, which led to periods of deep, grief-stricken depression in adolescence. At the same time, Shazia started dating girls, which was a different kind of turmoil. "Dad was very traditional and strict," she told me. "He would never have accepted me as gay—I would have been thrown out. And being with someone was horrible. When I liked a girl I got crazy-jealous and picked fights all the time. I was a nightmare."</p>
+<p>The latter can produce short bursts of action, but it cannot sustain the kind of intrinsic engagement that feels like real motivation.</p>
+<h2>How This Habit Hurts the Brain’s Reward System</h2>
+<p>When approval becomes the fuel, the internal reward system gradually recalibrates. A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/">2017 peer-reviewed review</a> published in <em>Frontiers in Human Neuroscience</em> found that the brain’s dopamine pathways, which evolved to register effort and progress as intrinsically rewarding, can gradually reorient toward external contingencies over time. In other words, the subtle satisfaction of doing something well stops registering as rewarding, and the brain starts holding out for the response.</p>
+
+<p>This is a learned response that many people develop for sensible reasons like anxious attachment histories, high-pressure environments and workplaces, or families that withheld approval as a form of control. Understanding this can shift the frame: The solution isn’t to care less about people or to become indifferent to feedback. It’s to rebuild the internal signal that existed before the habit of looking outward took hold.</p>
 
 
-<p>Shazia was so insecure and volatile that her girlfriends got fed up and left, strengthening her Abandonment schema and her belief that everyone would leave in the end. When she came for therapy, we first had to link her romantic behaviour to the tragic loss of her mother, then gradually heal her Abandonment schema. We also helped her realize that love and trust with a partner were possible, which eventually allowed her to start dating again. After a few false starts, much to her surprise and delight, Shazia found a secure, stable relationship for the first time in her life.</p>
+<h2>How to Break the Habit and Reclaim Motivation</h2>
+<p>Research on autonomy-supportive environments, including schools, workplaces, and therapy, offers a consistent finding: When people are helped to identify and act on their own values and preferences, rather than being managed through incentives and evaluations, motivation tends to return on its own. It doesn’t have to be manufactured. It surfaces when approval is no longer the entry fee for action.</p>
 
-<h2>Mistrust/Abuse</h2>
-<p>If you experienced any kind of abuse as a child—physical, sexual, or emotional—you are likely to have this schema. It forms through repeated experiences of being hurt, betrayed, manipulated, or let down. Like the previous schema, this one might start early and so be particularly intense. Both schemas can be preverbal, developing before your infant brain developed the power of language, so when they get triggered now, you may feel intense emotions like fear or rage, without any thoughts to explain them, making these feelings confusing and scary. You might also experience dissociation, feeling spaced out or detached.</p>
+<p>One practical entry point is what some psychologists call values clarification, which is a structured process of identifying not what you think you should want but what has historically generated a <a href="https://www.psychologytoday.com/us/blog/social-instincts/202606/2-habits-that-make-productivity-feel-easier">sense of genuine engagement </a>for you. </p>
+<p>A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738767/">2015 randomized controlled trial</a> published in <em>Implementation Science</em> found that a structured values clarification exercise promoted more autonomous, internalized motivation in workers compared to a control condition. It also increased the likelihood that they would follow through on their intentions. Not performance, not praise, but the work itself. When people reconnect with even one area where they act from genuine preference rather than expected approval, it can begin to reawaken the broader motivational system.</p>
 
 
 
   
 
 
-<p>This schema will be triggered in relationships, which might feel deeply unsafe. You may be on your guard, feel you cannot be vulnerable, and think that other people are unpredictable or even dangerous. You may expect people to hurt, betray, or use you. And when someone does something nice, you may assume there is an ulterior motive and expect people to take advantage of you. In my consulting room, I see many clients with this schema and explain to them that the key is to move from <em>universal</em> mistrust to <em>selective</em> mistrust. Instead of thinking, "People are out to get me, I can’t trust anyone," it’s much more helpful (and accurate) to think, "Some people are not to be trusted, that’s true—people do lie. But many people are kind and decent, so I will judge people on their behaviour, not assume they are guilty until proven innocent."</p>
+<p>The other move is deceptively simple: Take <a href="https://www.psychologytoday.com/us/blog/social-instincts/202512/3-keystone-habits-thatll-change-your-life-for-the-better">small actions that nobody validates</a>. Finish something and tell no one. Make a low-stakes decision without consulting anyone and notice that the world does not end. The point of this simple exercise is recalibration, so that your internal compass that might have fallen into disuse can start functioning properly again.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<p>These clients can also be mistrustful of me and therapists/authority figures in general. So I help them learn to trust me, little by little, then expand that trust to people they know. If this is true of you, learning to trust those people who behave in consistently trustworthy ways will help you develop more satisfying, fulfilling relationships. Otherwise, life might feel bereft of love, richness, and meaning because for social mammals like humans, connected, mutually supportive relationships are the cornerstone of a happy life.</p>
+  </div>
 
-<p><em>This post has been adapted from </em><a href="https://www.quarto.com/books/9781836009320/heal-your-trauma"><em>my new book</em></a><em>, </em>Heal Your Trauma: How to Overcome a Painful Childhood to Become Happy and Whole Again.</p>
+<p><em>A version of this post also appears on Forbes.com.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-calm-self/202607/how-trauma-related-schemas-shape-your-life" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202607/1-habit-that-kills-motivation-for-most-adults" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-calm-self/202607/how-trauma-related-schemas-shape-your-life</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-calm-self/202607/how-trauma-related-schemas-shape-your-life</guid>
-            <dc:creator><![CDATA[Dan Roberts MBACP]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/social-instincts/202607/1-habit-that-kills-motivation-for-most-adults</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202607/1-habit-that-kills-motivation-for-most-adults</guid>
+            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/image_-_sad_child_3.jpg?itok=nTJeby3P" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-n-voitkevich-6837648.jpg?itok=6-3SpYRP" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
