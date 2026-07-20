@@ -4,50 +4,188 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 18:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 20:21:40 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 18:04:40 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 20:21:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Do Large Language Models Think Like Us?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-08/head_shot-removebg-preview.jpg?itok=jpKj9kPW" alt="Tamim Mobayed MA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do Large Language Models Think Like Us?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">LLMs produce content that seems human, yet the underlying dynamics differ.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Stop Trying to Be Liked at Work]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/andy_lopata.png.jpg?itok=mQdN1zl1" alt="Andy Lopata" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Stop Trying to Be Liked at Work</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why chasing approval can quietly undermine your credibility.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">While LLMs appear to reason, their "thought" processes fundamentally differ from ours.</li><li style="margin-bottom:6px;">Human reasoning is a kaleidoscope of processes, integrating memory, context, culture, and more.</li><li style="margin-bottom:6px;">While LLMs can be improved, the underlying dynamics will always be different, according to some.</li>
+              <li style="margin-bottom:6px;">Seeking approval can weaken a leader's credibility when difficult decisions need to be made.</li><li style="margin-bottom:6px;">Being likeable is not the same as being liked. And the distinction matters.</li><li style="margin-bottom:6px;">Trust and respect are built through fairness, consistency and honest conversations, not popularity.</li><li style="margin-bottom:6px;">Strong working relationships don't require friendship, but they do require humanity.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/david-matos-xtligpytpck-unsplash.jpg?itok=CGmrdLdm" width="320" height="213" data-insert-type="image" title="David Matos / Unsplash" alt="David Matos / Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/like_v_likeable.png.jpg?itok=xs-sQWxg" width="320" height="180" data-insert-type="image" title="Andy Lopata / AI-Generated image" alt="Andy Lopata / AI-Generated image"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: David Matos / Unsplash</div>
+<div class="insertArea--origin subtext">Source: Andy Lopata / AI-Generated image</div>
 </div>
 </div>
 </div>
-<p>A team of psychologists, computer scientists, and physicists from Italy, Slovenia, and South Korea <a href="https://arxiv.org/abs/2512.19466">has proposed seven “fault lines”</a> between human and artificial intelligence (AI). The researchers question the extent to which AI is yielding intelligence, at least in the same form as human intelligence. The authors note the critical shift that occurred between statistical natural language processing (NLP), where AI retrieves and ranks existing information, with the (human) user then able to judge between them, and generative AI, which instead presents one fluent, “authoritative-seeming” answer. In short, while large language models (LLMs) produce content that seems cognitively informed and deliberated, the processes underlying how that content is produced are fundamentally different from human cognition.</p>
+<p>Most of us want our colleagues to like us. After all, we spend more of our time in the company of the people with whom we work than with anybody else, including family. </p>
+<p>The relationships we build at work can shape our day-to-day experience and are a major factor in how happy we are in our jobs. A 2024 Catalyst survey found that the higher the quality of working relationships, the more likely employees were to report high job satisfaction and engagement. Retention increases and burnout levels drop. </p>
 
-<p>One of the fundamental divergences between human and artificial intelligence highlighted by the authors relates to how they use language. AI does not understand language the way a human mind processes it and derives meaning; AI instead recognizes statistical patterns, garnered from human-produced text: “[LLMs] do not track truth conditions or causal structure; they track patterns of co-occurrence, association, and continuation in text.” The authors argue that by supplementing this ability with a number of additional mechanisms such as retrieval-augmented generation, they make LLM outputs look more reliable and more convincing without becoming more knowledgeable. </p>
+<p>We want to feel accepted and included, creating a strong pull to be part of the crowd and to be positively received. This desire for connection and acceptance is normal and, in many ways, positive. </p>
+<p>For leaders, however, this instinct can undermine the very credibility they need to lead effectively.</p>
+<h2>The Problem With Trying to Be Liked</h2>
 
-<p>Examining the differences between human and artificial intelligence, the authors propose seven epistemic fault lines that highlight these differences. These correspond to seven sequential stages of human judgement:</p>
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
+<p>I started my first managerial role in my early twenties. Two of my team members were only a few years younger than me, in their late teens. I felt I had more in common with them than with my much older peers. Naturally, I acted more like their friend than their manager.</p>
+<p>Although they reported to me, they also worked closely with other managers, who weren’t impressed with their performance and made their views very clear to me. </p>
+
+<p>My friendships became an issue. I found myself softening colleagues’ criticisms because I didn’t want to come down too hard on people with whom I had become friends. But even the softer criticisms I shared landed badly with people who trusted me, seeming like a betrayal. </p>
+<p>In the end, I disappointed both groups and learned a valuable lesson. </p>
+
+<p>Perhaps it’s more natural for young people at the beginning of their careers to lean towards making friends at work, but the desire to be liked can be a challenge at all levels. When we want to be liked, we tend to over-accommodate and avoid difficult conversations. People-pleasers do not necessarily make great leaders; you need to challenge and provoke people to bring out the best in them and help them discover their own potential. </p>
+
+<h2>The Difference Between Being Liked and Being Likeable</h2>
+<p>Rather than seeking to be liked, leaders should focus on being likeable, according to Jenni Field, author of <a href="https://redefiningcomms.com/books/nobody-believes-you/"><em>Nobody Believes You</em></a>. Being likeable is less about popularity and more about how we show up with others — being approachable, respectful, easy to work with, and able to fit within a group without needing to be at its centre. </p>
+
+<p>Field explained, “If I need to be liked, I’m focusing too much on the human need to belong and feel part of something.” She argues that being likeable is a more sustainable goal, especially at work, because it allows us to build good relationships without conflating them with friendship or universal approval. </p>
+
+<p>“I think leaders and managers can get stuck wanting to be liked and not wanting to upset anyone. That becomes such a governing practice that it affects your ability to make difficult decisions and hard calls.”</p>
+<p>When leaders try too hard to be liked, it can adversely affect their credibility within an organisation, precisely for these reasons. When we need to make tough choices, likeability can ensure they are more readily accepted. </p>
+
+<p>Field sees likeability as part of credibility, rather than separate from it. As she explains, “If you are not likeable, if I don’t even want to be around you, then I’m not going to follow or believe in you.” Being likeable makes people more likely to listen to our arguments and take them seriously, rather than automatically challenging them. </p>
+
+
+
+  
+
+
+<p>Credibility relies on the respect we gain for making the right choices, not always the popular ones. People rarely follow leaders because they're popular; they follow those they trust to make good decisions.</p>
+<h2>Becoming a More Likeable Leader</h2>
+<p>Field suggests some simple, practical steps leaders can take to help them increase their likeability and, in turn, their credibility. </p>
+
+<p><em>Seek Working Relationships, Not Friendships</em></p>
+<p>At work, you don’t need to be everybody’s friend. But you do want people to feel that you are “nice to be around”. Make sure you have clear boundaries so that people understand that being friendly does not mean you are their personal friend.</p>
+<p><em>Be Self-Aware</em></p>
+<p>Understand how you come across to others and the impact your engagement style has on them. This might mean adjusting the pace at which you speak, your tone of voice, your tendency to overwhelm, or simply checking that instructions have been taken on board. It also means being willing to adapt if your message isn’t resonating. </p>
+
+<p><em>Invest in Small Moments</em></p>
+<p>Don’t try too hard to find rapport or build warmth. A cup of tea with a team member, whether through small talk or a simple check-in away from the transactional question of whether someone is doing their job effectively, can all help create connection. </p>
+<p><em>Build Trust Before Challenging </em></p>
+
+<p>If you are fair in most of your interactions with team members, you earn the right to challenge them constructively later. Don’t make every interaction a pushback; give praise and support first. </p>
+<p><em>Bring in Other Perspectives to Reduce Bias</em></p>
+<p>Having 360-degree reviews and perspectives from other leaders and colleagues can mitigate any perceived personal element in disagreements or challenges. </p>
+
+<p>For leaders who are not naturally comfortable around others, this can be reassuring. Field’s message is not that everyone must become outwardly warm or socially fluent; rather, it is that likeability can be expressed in different ways. Being “nice to be around” might mean a calm presence, a quick cup of tea, a smile, or a small effort to connect, rather than forced sociability.</p>
+
+<p>You don’t need everyone at work to like you. You just need to be someone they can work alongside comfortably and trust to do the right thing.</p>
+<p>Leadership isn't about being everyone's friend. It's about becoming someone people trust, respect, and want to follow. Even when they don't always agree with you.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/connected-leadership/202607/stop-trying-to-be-liked-at-work" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/connected-leadership/202607/stop-trying-to-be-liked-at-work</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/connected-leadership/202607/stop-trying-to-be-liked-at-work</guid>
+            <dc:creator><![CDATA[Andy Lopata]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/like_v_likeable.png.jpg?itok=Ssp2bWTl" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[If You Cannot Beat Obesity, at Least Lower Its Complications]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-08/hamid_zand__2_.png.jpg?itok=wlcjBw0p" alt="Hamid Zand Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Aging</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">If You Cannot Beat Obesity, at Least Lower Its Complications</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Even without weight loss, you can slow down the damage of obesity.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Most complications related to obesity may be due to accelerated aging.</li><li style="margin-bottom:6px;">Weight loss is the best way to prevent obesity and age-related health issues.</li><li style="margin-bottom:6px;">However, without weight loss, we can also delay obesity-related aging complications.</li>
+            </ul>
+          </div>
+                    <p>Obesity is not just about the number on the scale. It quietly messes with your daily life. You buy clothes, and they do not fit right. Socially, people treat you differently, even if they do not say it. You start avoiding gatherings because you do not want to be judged. Over time, your confidence fades. You feel less capable, less visible. But here is the real kicker: While society judges your appearance, your body is paying a much heavier price. Diabetes, heart disease, memory problems, even cancer — they all become more likely. So, it is not just about looking good. It is about staying alive and feeling like yourself again.</p>
+
+<p>What ultimately causes obesity to kill us is comorbidity with other illnesses. Most of these health consequences are common to diseases that accompany us as we age, yet they occur before obese people reach old age. In other words, obesity accelerates the rate of aging and the onset of age-related diseases.</p>
+
+<h2>Why does obesity speed aging?</h2>
+<p>Obesity promotes aging across multiple tissues and organs [1]. Based on new findings, aging begins with changes in the form and function of cells. This cellular aging, called senescence, was first described by Hayflick and Moorhead in the 1960s. They found that normal cells have a finite lifespan. After this time, they do not die but lose their ability to function and divide. Additionally, they release certain harmful chemical compounds, most of which are inflammatory molecules. These chemicals act as an "eat me" signal, attracting immune cells to eliminate them.</p>
+
+<p>However, if these aged cells accumulate for any reason, these compounds can transfer their aged characteristics to neighboring healthy cells. Due to this ability, these cells are called "zombie cells." Zombie cells can also transmit aging to immune cells. There is a Persian proverb that says, "<em>To prevent everything from spoiling, salt can be added, but woe to the day when the salt itself spoils</em>." When the immune system ages, either due to chronological aging or through the transfer of aged cells, it is unable to remove these aged cells.</p>
+
+<p>When we gain excessive weight due to overeating, the division of fat cells cannot keep up with the amount of synthesized fat that needs to be stored. So, they have to swell to create new capacity for storage of new fats. Swollen cells get stressed, and due to disruption of normal cell components and functions, they produce oxidative molecules that finally change them into aged cells. Immune cells are attracted to fat depots to eliminate these new zombie cells, but persistent overeating and excessive fat production overwhelm the immune system's battle, and ultimately the zombie cells win. This defeated army cannot remove zombie cells in other tissues, and the accumulation of aged cells accelerates the aging process throughout the body. Most struggles resulting from obesity come from complications associated with premature aging. Obesity speeds up nervous system, cardiovascular, pancreas, kidney, and immune system aging. Prolonged obesity even makes your appearance look more aged due to skin aging [2].</p>
+
+<h2>What should we do if we are obese?</h2>
+<p>The most reasonable approach is straightforward: weight loss through proper diets and more physical activity, but always under a nutritionist's supervision. This is the smartest way to reduce the aging effects and other complications that come with obesity. The key is to take it slow and turn it into a lifestyle, not a temporary fix. But here's the problem: People are always in a hurry. They want to lose weight before a party or a wedding. So, they go on crash diets, drop the pounds, and then gain everything back right after the event. That rebound weight gain is the real nightmare.</p>
+
+<p>Lately, GLP-1 agonist drugs are being heavily advertised for weight loss. Personally, I avoid these new medications. They might have unknown side effects in the long run. Bariatric surgery is also an option for severe cases, but only under a specialist's care. However, even with surgery or medication, the risk of regaining weight is always there. None of these are magic solutions. At the end of the day, it all comes back to consistency, patience, and changing how we live, not just what we eat for a month.</p>
+
+
+<h2>If you cannot lose weight, at least follow these tips to prevent obesity-related aging</h2>
+<p>If you are struggling with weight loss and have been unable to reach your ideal weight, falling into a cycle of weight loss and regain, the very least you can do is avoid behaviors that worsen obesity-related aging and comorbidities.</p>
+
+<p><strong>1. Exercise regularly.</strong> Include both cardio and resistance training. Regular exercise reduces obesity and aging-related complications, slows cellular senescence, and boosts your immune system. Do not feel embarrassed about your body at the gym. You can be overweight but still have fewer complications. And do not get too hung up on weight loss through exercise — working out is beneficial even without losing a single pound [3].</p>
+
+
+
+  
+
+
+<p><strong>2. Avoid processed foods and fast food.</strong> These are packed with empty calories, harmful oils, and chemical additives that trigger inflammation. They speed up aging and make obesity-related diseases worse.</p>
+<p><strong>3. Take care of your gut microbiome. </strong>Eat plenty of vegetables and prebiotic-rich foods like almonds, bananas, whole grain wheat, corn, rye, and barley. These help good bacteria thrive, improve diet outcomes, and protect against obesity-related complications [4].</p>
+
+<p><strong>4. Reduce stress and anxiety.</strong> Modern life is full of chronic stress. Social media makes us feel like we're always falling behind, always missing out. We constantly want to matter. And obesity itself is a constant source of stress — what they call "food noise," that endless worry about calories and weight. Studies show stress speeds up cellular aging and pushes obesity toward dangerous complications. Managing stress and getting regular sleep can slow down these harmful processes at the cellular level [5].</p>
+
+<p>Overall, obesity speeds up aging at the cellular and systemic level, and most of its complications come from this process. Losing weight and following some basic tips can help us manage these issues better.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-behavioral-microbiome/202607/if-you-cannot-beat-obesity-at-least-lower-its-complications" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-behavioral-microbiome/202607/if-you-cannot-beat-obesity-at-least-lower-its-complications</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-behavioral-microbiome/202607/if-you-cannot-beat-obesity-at-least-lower-its-complications</guid>
+            <dc:creator><![CDATA[Hamid Zand Ph.D.]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-mart-production-7329534.jpg?itok=tG5-4uyq" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Long-Term Side Effects of Antipsychotics]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/head-and-shoulders_photo-removebg-preview_1_.png.jpg?itok=AVYgrfAi" alt="Marcela Gottschald" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychopharmacology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Long-Term Side Effects of Antipsychotics</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why long-term monitoring matters as much as the initial prescription.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Long-term antipsychotic use may lead to metabolic, hormonal, and movement disorders.</li><li style="margin-bottom:6px;">Tardive dyskinesia and other movement disorders can be difficult to treat and, in some cases, irreversible.</li><li style="margin-bottom:6px;">Despite these risks, antipsychotic treatment is linked to lower overall mortality.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-07/table_for_pt.png.jpg?itok=_z8OWm9J" width="468" height="237" data-insert-type="image" title="Based on Quattrociocchi et al. (2025)" alt="Based on Quattrociocchi et al. (2025)"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/tiago-bandeira-mmv4nu3uby8-unsplash.jpg?itok=UFtO3myR" width="320" height="213" data-insert-type="image" title="Tiago Bandeira / Unsplash" alt="Tiago Bandeira / Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Based on Quattrociocchi et al. (2025)</div>
+<div class="insertArea--origin subtext">Source: Tiago Bandeira / Unsplash</div>
 </div>
 </div>
 </div>
+<p dir="ltr">When people talk about side effects, they usually mean the ones that show up shortly after starting a medication, such as dizziness, drowsiness, or tremors. The long-term effects, which may emerge only after years of treatment, are often overlooked or not discussed.</p>
+<p dir="ltr">When it comes to antipsychotics, these effects are well documented in the literature and include dyslipidemia, movement disorders, hormonal imbalances, and neurological changes.</p>
+
+<p dir="ltr">These are important issues that, over the course of treatment, often go undiscussed, either because they take so long to develop or out of concern about frightening the patient and reducing treatment adherence. But they shouldn't just be discussed. They should also be monitored during follow-up visits, whether through laboratory tests (in the case of dyslipidemia and hormonal dysfunction) or clinical assessments.</p>
+
+<p dir="ltr">This conversation matters both for supporting patient autonomy whenever possible and for helping families understand potential risks and prevent future complications.</p>
+<h2 dir="ltr">Types of Antipsychotics</h2>
+<p dir="ltr">Not all antipsychotics are alike. Older, first-generation or "typical" antipsychotics tend to cause more intense side effects. Second-generation drugs, known as "atypical," have a different profile of risks and benefits and are generally better tolerated by many patients.</p>
+
+<p dir="ltr">Second-generation medications have been prescribed with increasing frequency, now accounting for more than 90% of antipsychotic use in many countries around the world. The main barrier to their use is cost.</p>
+<h2 dir="ltr">Long-Term Effects</h2>
+<p dir="ltr">Beyond the more immediate effects, like drowsiness, tremors, and increased appetite, antipsychotics can cause effects that only appear years after treatment begins.</p>
+
+<p dir="ltr"><strong>Metabolic effects</strong>, specifically metabolic syndrome, are characterized by:</p>
 <ul>
-<li><strong>The grounding fault:</strong> The authors argue that humans arrive at judgments based on layers of information that are often not accessible to LLMs, such as facial expressions, tone of voice, and social cues. Accordingly, LLMs often underdetect expressions that are sarcastic or ironic, or other human-specific expressions. Despite that, LLMs appear to be getting better at detecting these, though that is related to more effective pretraining and conditioning rather than understanding. </li>
-<li><strong>The parsing fault:</strong> Once humans receive sensory and social information, they begin processing it through simultaneous consideration of meaning and potential responses, while also integrating cultural and social knowledge into determining what is most relevant. LLMs instead tokenize textual information and focus on statistical relationships between tokenized text.</li>
-<li><strong>The experience fault:</strong> Humans and LLMs draw from prior knowledge but in a fundamentally different way. Relying on both physics and psychology, humans draw from episodic memory to recall details that allow us to address new situations. In terms of physics, we can determine (to varying degrees) object permanence, solidity, gravity, and causal forces, while also integrating categories, scripts, and social norms through socialization and culturalization, but also through past experience. LLMs instead rely on statistical patterns or linguistic co-occurrences. Crucially, they do not have episodic or autobiographical memory and have neither intuitive physics nor psychology. </li>
-<li><strong>The motivation fault:</strong> Humans tend to be driven by emotion, motivation, and goals, whereas LLMs are driven by optimization rooted in mechanistic processes. Reinforcement learning with human feedback can adjust the equation for LLMs, but it does not imbue them with the same emotional and goal orientation as humans. </li>
-<li><strong>The causality fault:</strong> Based on these previous processes, humans then reason, by which they infer, integrate, consider counterfactuals, and form causal explanations that can be cognizant of long-term plans. LLMs instead integrate textual context that is devoid of (human) reasoning, relying especially on correlations.</li>
-<li><strong>The metacognitive fault:</strong> Further refining their reasoning, humans evaluate metacognitively, as they consider uncertainties, detect errors, estimate confidence, and consider withholding judgment. This can include integration of social-epistemic norms, taking into account social context and potential reputational costs. According to the authors, LLMs lack metacognition entirely, and this is one of the factors that contributes to hallucinations.</li>
-<li><strong>The value fault:</strong> Human reasoning is thus a kaleidoscope of processes that can integrate personal values, cultural norms, reputational concerns, and goals, while being mindful of consequences for relationships and self-identity. LLMs produce probabilistic, text-based judgments driven by the statistical structure of training data.</li>
+<li dir="ltr">Weight gain</li>
+<li dir="ltr">Elevated blood sugar levels</li>
+<li dir="ltr">Elevated cholesterol</li>
+</ul>
+<p dir="ltr">Together, these raise cardiovascular risk.</p>
+<p dir="ltr"><strong>Hormonal effects </strong>include:</p>
+<ul>
+<li dir="ltr">Elevated prolactin levels, which can lead to gynecomastia in men</li>
+<li dir="ltr">Sexual dysfunction and reduced libido, caused by disruption of testosterone and estrogen levels</li>
+<li dir="ltr">Menstrual irregularities, also linked to changes in estrogen levels</li>
 </ul>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
@@ -68,141 +206,18 @@
 
   </div>
 
-<p>The authors’ term—<em>epistemia</em>—describes the phenomenon whereby linguistic plausibility takes precedence over epistemic evaluation. This divergence is consequential, especially as humans increasingly turn to AI for answers to complex problems, as well as intimate psychological problems. The similarity between LLM outputs and human writing is one of the reasons why humans have grown comfortable "talking to" LLMs. Yet, what is going on under the hood is profoundly different. Even as LLMs become more fluent and less prone to obvious errors, this does not, according to this study, mean they are reasoning in the way that humans do.</p>
+<p dir="ltr"><strong>Movement disorders</strong>, typically present in both acute and chronic (tardive) forms. The acute presentation, which typically appears early in treatment, is relatively common and treatable. But these disorders can also emerge after years of treatment, often progressively and in ways that are difficult to manage.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202607/do-large-language-models-think-like-us" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202607/do-large-language-models-think-like-us</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/emotional-behavior-behavioral-emotions/202607/do-large-language-models-think-like-us</guid>
-            <dc:creator><![CDATA[Tamim Mobayed MA]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/anthony-tran-3b6rfjqkbem-unsplash.jpg?itok=p3hyoXcb" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Myth of Testosterone Persists]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Azadeh-Aalai.jpg?itok=mqTGdXp9" alt="Azadeh Aalai Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Testosterone</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Myth of Testosterone Persists</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">This is what happens when pseudo-science dictates public policy.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The history of studying testosterone is riddled with controversy and misinformation.</li><li style="margin-bottom:6px;">Testosterone secretions do not occur in social isolation or a vacuum.</li><li style="margin-bottom:6px;">Public policy should be driven by scientific data, not trends or posturing.</li>
-            </ul>
-          </div>
-                    <p>When I introduce my students to the concept of testosterone during our unit on the brain and biology, I generally preface the discussion with some qualifier regarding how referring to this chemical released in our bloodstream as a <em>sex</em> hormone is somewhat misleading. Known as the primary sex hormone in males, misinformation about testosterone has existed for as long as it has been known, going back almost 150 years (Freeman et al., 2001).</p>
-
-<p>Namely, despite being strongly associated with masculinity, technically, both sexes secrete this chemical via their respective sex glands. Additionally, while secretion of testosterone is associated with both sex drive and aggression for men in particular, this is a very simplistic notion of the purpose of this hormone. In fact, testosterone is a critical hormone for the overall health and well-being in males, assisting in such far-reaching functions as immune function, energy levels, and mood regulation. It serves critical functions in women as well, such as contributing to bone density and cognitive functioning, among others.</p>
-
-<h2>The Problem With Reducing Body Functions to a Single Hormone</h2>
-<p>Unfortunately, outside of a holistic approach in understanding the body and its chemical processes, cherry-picking a particular secretion or chemical and assigning it exclusivity regarding specific functions is misleading. Our bodies work as an integrative whole, and the larger endocrine system that secretes hormones is connected to other critical communication systems in our body, such as the nervous system. Testosterone secretions are just one of many chemical secretions that are essential to the overall functionality and health of all sexes. Moreover, it isn't secreted in a vacuum but in tandem with other processes happening in our bodies.</p>
-
-<p>The fundamental disconnect is in taking a chemical process in the body and attempting to assign it to a specific notion of what it means to be a “man”—a concept rooted in social, cultural, and psychological meaning. Many years ago, I wrote a book on the psychology of aggression, dedicating a section specifically to testosterone—which has been linked historically to explanations for aggression (Aalai, 2012). In the past, theories regarding why males in particular were prone to crime tried to link the proclivity to elevated levels of testosterone for those individuals who had some kind of hormonal irregularity—such as an additional Y chromosome, which led to higher-than-regular levels of testosterone in some males’ systems. Of course, such theories were spectacular failures with no scientific merit—again, because aggression, and its relationship to criminality in particular, is a psychological, social, and cultural phenomenon that cannot be reduced down to one specific hormonal secretion or biological process.</p>
-
-<h2>The Dynamic Relationship Between Hormones and the Environment</h2>
-<p>Moreover, many of the ideas regarding linking hormonal levels to behavior fail to take into account the recursive or reciprocal relationship between our bodies and the environment—we do not secrete hormones or engage in bodily processes in isolation. Our bodies respond to what we are exposed to in the environment—be it diet, sunshine, stress, amount of sleep, etc. In other words, hormonal secretions reflect a complex and intricate relationship between bodily processes, environmental exposures, and other factors—such as where we are in the developmental lifespan—which are constantly changing.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>It appears that our political leaders have once again popularized the defunct notion of tying levels of testosterone to manliness, or other arbitrary markers of vitality or performance. Last week, the Defense Secretary announced that both male and female members of our military will be assessed and screened regarding their levels of testosterone. The purported purpose? To assure “optimal performance” and “long-term health of warfighters” (as reported by Mitchell, 2026). A fundamental lack of understanding in how our endocrine system works has once again led to reductionistic notions of how to derive meaning from the processes our bodies perform. </p>
-
-<p>Egged on by mis- and disinformation in our increasingly fractured media ecosystem—overrun by influencers and other non-expert figures who have been platformed on social media—it appears military personnel may be the next targets of the pseudoscientific ethos that has come to define our current political moment. While it remains to be seen how documenting testosterone levels of military members will impact perceptions of performance or other professional opportunities, given the extent to which women and other minorities have already been purged from the ranks, it isn’t outside the realm of possibility to consider that those determined to have “low T” may be demoted or receive professional backlash. </p>
-
-<p>This most recent announcement is troubling for many reasons. In addition to being scientifically misinformed, this edict coming out from the Defense Department perhaps best serves as a cautionary tale regarding how public policy can go off the rails when scientific scrutiny is tossed aside in favor of trends and performative posturing.</p>
-
-<p><em>Copyright Azadeh Aalai 2026</em></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-first-impression/202607/the-myth-of-testosterone-persists" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-first-impression/202607/the-myth-of-testosterone-persists</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-first-impression/202607/the-myth-of-testosterone-persists</guid>
-            <dc:creator><![CDATA[Azadeh Aalai Ph.D.]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/gdj-muscular-3791379_1920.jpg?itok=2fcqyLqd" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[No, You Don’t Need an ADHD Eval—But You Might Want One]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/Professional_Picture-removebg-preview.jpg?itok=epz8uQBS" alt="Mara Whiteside Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">No, You Don’t Need an ADHD Eval—But You Might Want One</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The real value of psychological evaluation for ADHD is differential diagnosis.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">There’s no single gold-standard test for ADHD.</li><li style="margin-bottom:6px;">Comorbidity is common with ADHD and complicates the diagnostic process.</li><li style="margin-bottom:6px;">Comprehensive evaluation isn’t always necessary for ADHD, but it’s especially valuable for certain groups.</li>
-            </ul>
-          </div>
-                    <p>Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder marked by a constellation of inattentive and/or hyperactive/impulsive symptoms. The disorder is presented as a checklist of symptoms that must be present from the developmental period (before age 12 years) and evident across more than one setting (American Psychiatric Association, 2022). The global prevalence for adults with ADHD is 3 percent (Ayano, Tsegay, et al., 2023) and 8 percent for children and adolescents (Ayano, Demelash, et al., 2023). </p>
-
-<p>ADHD is often suspected when a person is having difficulties with managing their attention or impulses. ADHD is also the subject of many social media posts, often with misleading content (Yeung et al., 2022). Accurate diagnosis of ADHD helps individuals find the treatment they need, but what type of provider should someone reach out to for ADHD assessment?</p>
-
-<h2>Assessment Practices</h2>
-<p>The <em>Diagnostic and Statistical Manual of Mental Disorders</em> (<em>DSM</em>) does not specify a specific test or method of assessing for ADHD. For children, the most accessible healthcare provider is their primary care provider. Pediatricians are usually the first providers a parent consults with when they have a concern about their child. When a child is struggling behaviorally or academically, a pediatrician may suspect ADHD. </p>
-
-<p>The American Academy of Pediatrics (AAP) has established guidelines for pediatricians regarding the evaluation and diagnosis of ADHD (Wolraich et al., 2019). Pediatricians look for symptoms consistent with the <em>DSM</em>; gather information from parents, teachers, and relevant sources; screen for comorbid conditions; and assist with management of the disorder (Wolraich et al., 2019). Many pediatricians use surveys, such as the NICHQ Vanderbilt ADHD Assessment Scale, to gather data from multiple sources. </p>
-
-<p>The AAP recognizes the challenges in implementing guidelines. Many pediatricians have a limited amount of time they can spend per patient. Gathering additional records from school or therapy providers requires a care management system. An added complication in diagnosis is that symptoms of ADHD overlap with symptoms of other conditions, like anxiety, trauma, and autism.</p>
-
-<p>Since ADHD is not a disorder that requires specific assessment practices, there are different professional opinions on the role of psychology in ADHD assessment. Some argue that pursuing a psychological or neuropsychological evaluation for ADHD diagnosis introduces <a href="https://www.youtube.com/watch?v=nVCDflvwkE8">unnecessary friction</a> in the process. Others point out data supporting a neurocognitive profile common in ADHD and related to executive dysfunction (Pievsky &amp; McGrath, 2018; Wright, 2021). At the end of the day, there is not a gold-standard test or process used to diagnose ADHD.</p>
-
-<p>The value of a psychological evaluation lies in the examination of differential diagnoses and comorbid conditions of ADHD. For younger patients, a comprehensive evaluation can assist with advocating for educational accommodations or modifications. </p>
-<h2>Differential Diagnoses</h2>
-<p>Misdiagnosis delays appropriate treatment. It can be confusing to families and patients, and it can erode trust in medical providers. Attention problems are symptoms of many psychiatric conditions, such as anxiety and depression. Children with cognitive or learning problems may look inattentive in a classroom setting. Concentration is very difficult for people with trauma disorders. Impulsivity is seen in behavioral conditions like intermittent explosive disorder and oppositional defiant disorder (ODD). People with medical complications may have changes in their attention functioning consistent with neurocognitive disorder rather than ADHD.</p>
+<ul>
+<li dir="ltr">Tardive dyskinesia, a movement disorder marked by involuntary movements that usually involve the tongue, face, mouth, and jaw. In some cases, the condition is irreversible even after the medication is discontinued.</li>
+<li dir="ltr">Chronic akathisia, a state of restlessness and an intense need to keep moving. The acute version is more common and tends to improve over time or with changes in pharmacotherapy, while the chronic version can be harder to treat.</li>
+<li dir="ltr">Tardive dystonia, characterized by twisting, repetitive postures resulting from transient or intermittent spasms of antagonistic muscle groups.</li>
+</ul>
 
 
-<p>Oftentimes ADHD and autism get misdiagnosed. There is a significant amount of overlap between these two conditions, including social deficits and restricted/repetitive behaviors (Martinez et al., 2024). Careful, comprehensive evaluation can examine the symptoms and help with determining differential or comorbid conditions. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<h2>Comorbidity</h2>
-<p>Because ADHD is a neurodevelopmental disorder, it can frequently co-occur with other neurodevelopmental disorders (American Psychiatric Association, 2022). Neurodevelopmental disorders include intellectual developmental disorder, autism spectrum disorder, developmental language disorder, developmental coordination disorder, specific learning disorder, and other conditions that are present from the developmental period. If you have one of these conditions, you are more likely to have another. Some have stronger relationships than others; ADHD and tics are comorbid, for example, with more than half of children with tics also meeting criteria for ADHD (CDC, 2026). </p>
-
-
-
-  
-
-
-<p>The most common comorbid conditions include ODD, autism spectrum disorder, personality disorders, and substance use disorders. ODD in particular has a particularly strong relationship with ADHD; approximately half of the people with combined type ADHD also have ODD (American Psychiatric Association, 2022). Psychiatric conditions like anxiety and depression can also co-occur with ADHD. For young children, it is crucial to assess for comorbid learning disorders. </p>
-
-<p>Some comorbid conditions have similar features to ADHD. Patients with autism have difficulty with joint attention, which can result in poor attention to social interactions or shared activities. Attention can be disrupted in anxiety and depression, and these conditions can include symptoms of psychomotor agitation that look like fidgeting. Treating ADHD instead of autism, anxiety, or depression can lead to frustration and prolonged symptoms. </p>
-
-<p>Psychologists and neuropsychologists are trained to assess for a wide range of conditions that may be comorbid with ADHD. Without appropriate assessment of comorbid conditions, treatment can stall. </p>
-<h2>Benefits of Psychological Assessment</h2>
-<p>Not only does psychological and neuropsychological assessment help with differential diagnosis and identification of comorbidities, but it also helps with identifying a person’s strengths and weaknesses.</p>
-
-<p>The evaluation process should be rooted in differential assessment. Assessment of intelligence helps define core cognitive ability. Language assessment identifies comorbid developmental language disorder (and, in some cases, difficulties in receptive language due to lapses in attention). Memory assessment can help patients understand the nature of their forgetfulness and help other clinicians identify the difference between a memory and an attention deficit. Academic assessment, particularly in children and adolescents, helps with diagnosing learning problems and understanding how attention and impulsivity relate to academic performance. </p>
+<h2 dir="ltr">Mortality: What Effect Do Antipsychotics Have?</h2>
+<p dir="ltr">People with schizophrenia have a life expectancy that is, on average, 15 to 20 years shorter than that of the general population. This mortality gap has been observed across diverse populations.</p>
+<p dir="ltr">However, when comparing treated and untreated groups of patients, overall mortality is higher among untreated patients than among those who receive antipsychotic treatment.</p>
 <div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
   
     
@@ -222,450 +237,251 @@
 
   </div>
 
-<p>ADHD has long been conceptualized as a disorder of executive functioning (Pievsky &amp; McGrath, 2018). Russell Barkley proposed response inhibition as the central executive deficit (Barkley, 1997). Assessment of executive functioning is a key piece of psychological evaluation of ADHD, and psychologists will use a mixture of direct and indirect assessments. Psychologists can help patients understand their executive functioning, including providing recommendations for accommodation or modification. </p>
+<p dir="ltr">Cardiovascular disorders, especially acute myocardial infarction and coronary artery disease, are leading causes of sudden death in schizophrenia. This may be explained in part by the metabolic effects of antipsychotic medications.</p>
+<p dir="ltr">In addition, suicide rates are higher among people with schizophrenia than in the general population, including those receiving treatment.</p>
 
-<h2>The Bottom Line</h2>
-<p>Initial diagnosis of ADHD through primary care is a great way to get access to services and treatment quickly. For those with few complications or other issues, additional evaluation is not necessary. Patients who are younger benefit from comprehensive evaluation for possible comorbidities that can also be impacting educational progress. Patients with any level of symptomology of psychiatric disorders, like depression or anxiety, need a comprehensive evaluation to determine if the impulsivity and attention identified as ADHD are truly ADHD or a pattern of symptoms better explained by a different disorder. </p>
+
+
+  
+
+
+<h2 dir="ltr">Addressing Side Effects Without Causing Alarm</h2>
+<p dir="ltr">Given the existence of both chronic, late-emerging effects and acute ones, how we talk to patients and families about these possibilities matters even more. The line between informing and frightening is a thin one.</p>
+<p dir="ltr">Still, it is essential that patients understand the potential effects so they can recognize early warning signs. When this isn't possible, the family should be informed instead.</p>
+
+<p dir="ltr">One thing worth keeping in mind is that when someone experiences an unpleasant effect without understanding what it is, they may abandon treatment altogether, something that's common with psychotropic medications.</p>
+<p dir="ltr">How can this be communicated without frightening the patient? Ideally, by using terms the patient and family can understand, emphasizing the importance of treatment, and keeping an open line of communication with the care team so that management can be as effective as possible.</p>
+
+<p dir="ltr">It is also important not to overwhelm the conversation with risks all at once. Treatment is a long process, with periodic visits, so information can be shared gradually as treatment progresses.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/read-like-a-psychologist/202607/no-you-dont-need-and-adhd-eval-but-you-might-want-one" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/dose-and-meaning/202607/long-term-side-effects-of-antipsychotics" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/read-like-a-psychologist/202607/no-you-dont-need-and-adhd-eval-but-you-might-want-one</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/read-like-a-psychologist/202607/no-you-dont-need-and-adhd-eval-but-you-might-want-one</guid>
-            <dc:creator><![CDATA[Mara Whiteside Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/dose-and-meaning/202607/long-term-side-effects-of-antipsychotics</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/dose-and-meaning/202607/long-term-side-effects-of-antipsychotics</guid>
+            <dc:creator><![CDATA[Marcela Gottschald]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-gustavo-fring-7447264.jpg?itok=tNjy5XEK" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/tiago-bandeira-mmv4nu3uby8-unsplash.jpg?itok=YccvTM-K" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Is It Self-Care or Self-Surveillance?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-11-20_at_7.56.10_am.jpg?itok=DaG7VW_N" alt="Tara Well Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Body Image</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is It Self-Care or Self-Surveillance?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A routine can soothe us—or turn us into watchers of ourselves.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/shutterstock_666338215.jpg?itok=GOf5r2SZ" width="320" height="214" data-insert-type="image" title="Zephyr_p / Shutterstock" alt="Zephyr_p / Shutterstock"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Zephyr_p / Shutterstock</div>
-</div>
-</div>
-</div>
-<p>Self-care has become one of the defining ideas of modern life. We are encouraged to protect our sleep, care for our skin, strengthen our bodies, regulate our nervous systems, meditate, hydrate, and track our habits. Much of this is genuinely helpful. A morning walk can clear the mind. Exercise can improve mood. A skincare routine can be soothing. </p>
-
-<p>But practices that begin as care can gradually become another way of scrutinizing ourselves. A fitness tracker becomes a daily judgment. A mirror becomes a place to search for flaws. A wellness routine becomes another list of things we are failing to do correctly. How can we tell when that shift has occurred?</p>
-
-<h2>Notice How You Feel Afterward</h2>
-<p>The same behavior can be caring or critical, depending on the attention we bring to it. Looking in the mirror might help you pause and reconnect with yourself. Or it might send you searching for everything that looks tired, old, uneven, or somehow wrong. Exercise can make you feel strong and alive. It can also become punishment for not looking the way you think you should. A beauty routine may be pleasurable and expressive—or reinforce the belief that your face is a problem to solve before you deserve to be seen. One useful test is how you feel afterward. Do you feel calmer, stronger, or more present? Or do you leave feeling inadequate and newly aware of everything that needs improvement?</p>
-
-<h2>When the Body Becomes a Set of Numbers</h2>
-<p>Psychologists have long studied what happens when people learn to see themselves from an observer’s perspective. Objectification theory describes how girls and women may internalize an outside view of their bodies, leading them to monitor how they appear rather than experience how they feel.</p>
-
-<p>Today, that monitoring extends far beyond the mirror. We can measure our steps, sleep, heart rate, calories, stress, weight, recovery, and productivity. These tools can provide useful information and support healthier habits. But they can also turn the body into something we constantly score and correct. Instead of asking, “Do I feel rested?” we check our sleep data. A low score can make us distrust a perfectly good night’s sleep. A missed exercise goal can feel like failure, even if our body needed rest. The technology itself is not the problem. What matters is whether the information helps you understand yourself or makes you anxious about how you are managing yourself. </p>
-
-<h2>Living for an Imagined Audience</h2>
-<p>We now see ourselves on video calls, examine photographs before posting them, and imagine how we appear entering a room or speaking in a meeting. It's not vanity. We are deeply social, and how others respond to us affects whether we feel accepted and understood. But living with an imagined audience can pull us outside ourselves. “What am I feeling?” becomes “How am I coming across?” “What do I need?” becomes “How do I look?”</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>This pressure is particularly strong around beauty. Grooming and beauty practices can be creative, pleasurable, and closely tied to identity. Yet they can also become a form of constant correction, with every visible sign of aging treated as a problem requiring intervention. Research suggests that social media can intensify body-image concerns by encouraging us to compare our appearance with other people’s. Over time, those comparisons can shape the standards we use to judge our own bodies.</p>
-
-
-<p>Often, the real goal is not simply to look better. It's to feel safer being seen. That desire deserves our compassion and understanding. Appearance has a profound effect on how people respond to us. The question is whether our routines help us inhabit our bodies more comfortably—or make us believe we must fix ourselves before entering the world.</p>
-
-<h2>Care Is Also an Attitude</h2>
-<p>Self-care is not only what we do, but how we relate to ourselves while doing it. Research has linked self-compassion with a more positive body image and lower levels of disordered eating. Self-compassion does not require pretending that we love everything about ourselves. It means responding to our perceived flaws with less criticism and more understanding. A workout motivated by care can build strength. The same workout driven by shame can feel like a punishment for not meeting unrealistic standards. From the outside, the two may look identical.</p>
-
-
-
-  
-
-
-<p>If you are unsure what a routine is doing for you, consider a few questions:</p>
-<ul>
-<li>Do I feel better afterward, or more dissatisfied with myself?</li>
-<li>Is this helping me live my life, or making my life smaller?</li>
-<li>Am I responding to a real need or to an imagined audience?</li>
-<li>Would I still want to do this if nobody could see the result?</li>
-</ul>
-
-<p>Genuine self-care does not require abandoning fitness, beauty, technology, or personal goals. It simply asks us to notice the relationship we are creating with ourselves. Are your routines helping you feel more at home in your body—or training you to keep watch for what needs fixing?</p>
-<p>Copyright 2026, Tara Well, PhD</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-clarity/202607/is-it-self-care-or-self-surveillance" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-clarity/202607/is-it-self-care-or-self-surveillance</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-clarity/202607/is-it-self-care-or-self-surveillance</guid>
-            <dc:creator><![CDATA[Tara Well Ph.D.]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/shutterstock_666338215.jpg?itok=F7ApRVK2" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is the Story You Tell Yourself Making You Anxious?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is the Story You Tell Yourself Making You Anxious?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How children’s literature can help kids (and adults) work through worry.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p dir="ltr">Life is not only composed of what happens to us, but is also made up of the stories we tell ourselves about our experiences. Some narratives extract meaning and purpose from life’s most challenging situations, while others lead us to ruminate on the unfortunate, unfair, or unpredictable aspects of life’s events.</p>
-
-<p dir="ltr">By changing our inner narrative to a more balanced, realistic, and empowered point of view, we can become mentally and emotionally resilient. Cognitive behavioral therapy and narrative therapy are approaches that embrace this process of examining the stories we tell ourselves with the goal of restructuring the narrative into a story that supports our growth and well-being. </p>
-
-<p dir="ltr">Telling ourselves an overly negative story often fuels anxiety and depression; however our inner story does not need to go from entirely negative to entirely positive, nor pessimistic to optimistic. In narrative therapy the aim is to avoid being “single-storied,” and instead embrace the richness and complexity of life, leaving room for a wide range of emotions, meanings, and interpretations of our experiences. </p>
-
-<p dir="ltr">Reading books, like <a href="https://shop.scholastic.com/parent-ecommerce/books/just-for-today-9781546181323.html">Charlotte Agell’s <em>Just for Today</em></a>, can help children, and their grown-ups, to consider healthier narratives. More than anything, reading books can remind us that our story doesn’t end here—the blank pages ahead offer hope of a satisfying plot twist, an important revelation, and ultimately a happy ending.</p>
-
-<p dir="ltr">Children’s book author and educator Charlotte Agell shares her take on surviving worry spirals and celebrates the life-changing power of reading.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/charlotte_agell_headshot.jpeg.jpg?itok=ajHput8v" width="320" height="427" data-insert-type="image" alt="Reading books, like Charlotte Agell’s Just for Today, can help children, and their grown-ups, to consider healthier narratives." title="Scholastic/Used with permission"></div>
-<div class="caption">Reading books, like Charlotte Agell’s Just for Today, can help children, and their grown-ups, to consider healthier narratives.</div>
-<div class="insertArea--origin subtext">Source: Scholastic/Used with permission</div>
-</div>
-</div>
-</div>
-<p dir="ltr"><em><strong>Q: </strong></em><strong>Share a bit about your background and what inspired you to write </strong><em><strong>Just for Today</strong></em><strong>. </strong></p>
-<p dir="ltr"><em><strong>Charlotte Agell:</strong></em> I’m a lifelong public schoolteacher and mom, and soon-to-be grandmother. Life is full of love and drama. <em>Just for Today</em> grew out of Elba and Norris’s first adventure, in their debut book, <em>Maybe Tomorrow? </em>They just kept talking to each other, as friends do, and talking to me, telling their stories. </p>
-
-<p dir="ltr">Both <em>Maybe Tomorrow?</em> and <em>Just for Today</em> grew out of things family members said to me. When my daughter was going through a tough time, she said: “Don’t try to fix it, just listen.” I used the character of Norris in <em>Maybe Tomorrow?</em> to teach myself more about that. He’s such a good listener. (It’s funny how characters can be wiser than their creators!) </p>
-
-<p dir="ltr">This new book, <em>Just for Today</em> is about getting caught in a worry spiral and how friends can help each other through that. My mother, who’s very wise, has this saying for when something is so hard it’s almost impossible to imagine anything different. She says, “This is not the end of the story.” I drew on that to explore how the stories we tell ourselves affect our moods and our thinking. </p>
-
-
-<p dir="ltr">Elba and Norris, like all true friends, hold each other’s stories gently but also prod each other toward growth and calm. This time, Elba can help Norris. I think both books are essentially about the life raft that is deep friendship.</p>
-<p dir="ltr"><em><strong>Q: </strong></em><strong>How do the stories we tell ourselves contribute to anxiety? How do the characters in the book decide to try a different story to help with their worries? </strong></p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content ad--content-loaded" data-google-query-id="CI2CwODr4ZUDFSlNCAQdtIMg2g">
-    
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" name="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="7"></iframe></div></div>
-</div>
-
-  </div>
-
-<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>Life seems sometimes like a journey of narration. I am from Sweden, but as a child I lived in both Canada and Hong Kong as well, before coming to the U.S. and finding my forever home, Maine. There were a lot of changes, including going to five different schools on three continents between fifth and seventh grade. It was bewildering. I wondered, as one often does, who I was. </p>
-
-
-
-  
-
-
-<p dir="ltr">I have always been a big reader, someone who has taken solace and inspiration in literature. I have also always been a storyteller. Over the years. I have navigated by story myself. In low moments, I try to reframe my own story. The stories we tell ourselves can sink us or they can help us swim. The right story can make a heart brave. And stories are meant to be shared. That’s what Elba and Norris do, in their own bumbling way, even as the plot thickens and twists and turns. </p>
-
-<p dir="ltr"><em><strong>Q: </strong></em><strong>When the friends get swept away with worry, what helps them find their way back to each other? </strong></p>
-<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>Elba, who specializes in worrying, is able to remember what Norris has said: Sometimes, worry is telling yourself the wrong story. Just for today, try telling yourself a different story.” So, she focuses on the moment, not the shipwreck. She notices the butterflies and berries and her own strength. She finds a way to sing about it. Norris, way upriver, has uncharacteristically crumpled. We all <em>do</em> worry, after all. He needs his friend and she shows up for him. And they are both able to go on into the day. </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/just_for_today.jpg?itok=ydty2djr" width="320" height="430" data-insert-type="image" title="Scholastic/Used with permission" alt="Scholastic/Used with permission"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Scholastic/Used with permission</div>
-</div>
-</div>
-</div>
-<p dir="ltr"><em><strong>Q: </strong></em><strong>What important lessons about anxiety can young children learn from your book? </strong></p>
-<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>I hope that they can learn that worrying is something we all do. When we get carried away by it, it really helps to reach out to someone. Anxiety, of course, is different from worry. I hope that this book, like <em>Maybe Tomorrow?</em> (with its emphasis on grief and loss), can be something like a doorway, an invitation to talk about things. Sometimes, when we read something that resonates, we realize that we do not have to go into hard feelings alone. Children are full of feelings. I hope <em>Just for Today </em>can be a starter kit for exploring worry, one of the harder feelings, with love and reassurance and some humor, too. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content ad--content-loaded" data-google-query-id="CIuCwODr4ZUDFSlNCAQdtIMg2g">
-    
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_in-content_0" name="google_ads_iframe_/1032688/300x250_in-content_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="5"></iframe></div></div>
-</div>
-
-  </div>
-
-<p dir="ltr"><em><strong>Q:</strong></em><strong> What do you hope young readers take away from spending time with</strong><em><strong> Just for Today</strong></em><strong>?</strong></p>
-<p dir="ltr"><em><strong>Charlotte Agell: </strong></em>Over the years, my students and my life have taught me a great deal about friendship. At the core, this book is about reaching out, about daring to be yourself with a friend, whether you are happy or sad. Both of these books focus on social-emotional learning, with the characters often taking an opposite perspective on things. I hope that this will invite deep conversation and maybe some hugs and laughter, too.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/well-read/202607/is-the-story-you-tell-yourself-making-you-anxious" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/well-read/202607/is-the-story-you-tell-yourself-making-you-anxious</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202607/is-the-story-you-tell-yourself-making-you-anxious</guid>
-            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/shutterstock_2467746509.jpg?itok=CY2mBVz1" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Secret Superpower of Humor in Parenting]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/steve-sultanoff.png.jpg?itok=lyNGa6mk" alt="Steven Sultanoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Humor</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Secret Superpower of Humor in Parenting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Laughter helps shape childhood memories and strengthen family bonds.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p>“One, two, cha, cha, cha… One, two, cha, cha, cha.” My father chanted this as he rhythmically pressed and released the accelerator, causing our massive family sedan to lurch forward and back. My father—a serious physicist who rarely acted silly—was completely out of character, "dancing the cha-cha" while my buddies laughed in the back seat. That playful memory remains etched in what I call my <em>humor happenings</em>—the collection of joyful moments that continue to shape how I see the world.</p>
-
-<p><strong>The Power of Humor in Parenting</strong></p>
-<p>Children may not remember every lesson we teach them, but they often remember how we made them feel. One of the simplest ways to create lasting positive memories is through humor.</p>
-<p>We've all heard the claim that children laugh hundreds of times a day while adults laugh only a fraction as often. While the exact numbers are uncertain, one truth is clear: children laugh far more than adults. Somewhere between childhood and adulthood, many of us suppress our natural lightheartedness and playfulness. That matters because humor is much more than entertainment. Shared humor strengthens relationships, helps children cope with life's challenges, and creates a family atmosphere where everyone feels safer, closer, and more connected.</p>
-
-<p>Humor is one of parenting's most powerful—and most overlooked—tools. It does far more than make <a href="https://pubmed.ncbi.nlm.nih.gov/12509169/">children laugh</a>; it helps shape how they think, feel, relate to others, and ultimately how they navigate life. Over more than four decades of clinical practice, teaching, and research, I have found that healthy humor consistently strengthens children physically, emotionally, cognitively, and socially.</p>
-
-<p><strong>Four Ways Humor Helps Children Thrive</strong></p>
-<p>Healthy humor benefits children in four important ways.</p>
-<ul>
-<li>Laughter, the physical experience of humor, promotes physical and physiological well-being. It reduces stress, encourages relaxation, and can lessen the perception of pain. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2686629/">Children's hospitals increasingly use humor</a> because it helps reduce anxiety, improve cooperation, and make children feel more comfortable with medical providers. A child who laughs is often calmer, more cooperative, and better able to manage stressful experiences.</li>
-<li>Mirth, the emotional experience of humor, builds resilience. It helps children feel uplifted and delighted while regulating emotions by reducing anxiety and frustration. Children who can laugh through life's smaller setbacks are better prepared for larger ones.</li>
-<li>Wit, the cognitive experience of humor, encourages flexible thinking by teaching children that there is more than one way to view a situation. Understanding riddles, wordplay, and jokes develops language, creativity, perspective-taking, and problem-solving.</li>
-<li>Relational fusion, the social bonding experience of humor, builds relationships. Laughing together creates trust, strengthens emotional bonds, increases empathy, and eases tension. Shared laughter becomes an emotional anchor that children often remember long after they have forgotten specific conversations.</li>
-</ul>
-
-<p><strong>Why Humor Strengthens Families</strong></p>
-<p>Parents naturally focus on teaching responsibility, respect, and good decision-making. Yet children also need experiences that communicate a simple message: Home is our haven. We enjoy being together. Humor helps create that environment.</p>
-<p>A playful comment during a stressful morning, a funny voice at bedtime, or laughing together over a kitchen mishap can instantly change the emotional climate without minimizing the situation. Rather than avoiding serious issues, humor, as a social lubricant, helps families navigate conflict without allowing stress to overwhelm the relationship. Children who feel emotionally connected are generally more willing to cooperate, communicate openly, and recover from conflict.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>Parenting is demanding, and humor offers perspective and emotional relief. It reminds us that while raising children is serious work, it is also filled with opportunities for joy.</p>
-<p><strong>Five Ways to Bring More Humor into Everyday Parenting</strong></p>
-<ul>
-<li>Parents do not need to become comedians. Small moments of playfulness—like my father's impromptu "cha-cha-cha"—can have a lifelong impact.</li>
-<li>Model humor. Children learn by watching us. Parents who laugh, smile, and play naturally encourage children to develop healthy senses of humor.</li>
-<li>Create a playful environment. Read funny books, tell riddles, invent silly songs, watch age-appropriate comedies, and encourage imaginative play. These experiences help children associate family life with warmth and enjoyment.</li>
-<li>Celebrate your child's humor. Even predictable jokes deserve appreciation. Encouragement builds confidence, creativity, and communication.</li>
-<li>Use humor to reduce tension. A playful comment or exaggerated expression can interrupt escalating emotions and make difficult conversations easier.</li>
-</ul>
-
-<p>Teach empathic humor. Humor should leave everyone feeling respected, included, and emotionally safe. Unlike sarcasm or ridicule, empathic humor strengthens relationships rather than weakening them. Help children recognize the difference between humor that connects people and humor that hurts.</p>
-<p><strong>The Lasting Gift of Humor</strong></p>
-
-<p>Years from now, your children may not remember every rule you enforced or every lecture you delivered. They are far more likely to remember laughing with you after the pancakes burned, sharing riddles on long car rides, or turning an ordinary day into something joyful.</p>
-<p>Those moments may seem ordinary at the time, but they become part of a child's own <em>humor happenings</em>—the joyful memories that quietly shape how they think, feel, and connect with others for the rest of their lives. Humor teaches resilience. It encourages flexible thinking. It strengthens relationships. Most importantly, it reminds children they are loved, accepted, and safe. When lightheartedness becomes woven into family life, everyone benefits. Children grow more confident, emotionally resilient, and socially connected. Parents gain perspective and enjoyment. The relationship between them grows stronger with every shared smile.</p>
-
-<p>Years from now, your children may not remember every rule you made—but they will likely remember your own version of the "cha-cha-cha."</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/where-the-wry-things-are/202607/the-secret-superpower-of-humor-in-parenting" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/where-the-wry-things-are/202607/the-secret-superpower-of-humor-in-parenting</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/where-the-wry-things-are/202607/the-secret-superpower-of-humor-in-parenting</guid>
-            <dc:creator><![CDATA[Steven Sultanoff Ph.D.]]></dc:creator>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/cat1jongcreativeshutterstock_2587236345.jpeg.jpg?itok=eMkAS6pW" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 Things About Panic Attacks I Wish I Had Learned Earlier]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-02/Phil_Lane_Headshot-removebg-preview.jpg?itok=9C0kPFbx" alt="Phil Lane MSW, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Things About Panic Attacks I Wish I Had Learned Earlier</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">I recovered from panic attacks. Here are 5 things I wish I'd learned sooner.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[A Neuroscience Perspective on the Concept of Self in IFS]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-09/martha_sweezy__1_.png.jpg?itok=oUv3EMll" alt="Martha Sweezy Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neuroscience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Neuroscience Perspective on the Concept of Self in IFS</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A balanced brain supports a curious, compassionate mind.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Learning about how and why panic happens can help us to gain control over it.</li><li style="margin-bottom:6px;">Believing in our own safety is breakthrough lesson in coping with panic.</li><li style="margin-bottom:6px;">Research shows that certain therapeutic interventions can help reduce symptoms of anxiety.</li>
+              <li style="margin-bottom:6px;">IFS aims to develop secure inner attachments between a resource called Self and parts, or subpersonalities.</li><li style="margin-bottom:6px;">Self displays curiosity, calm, clarity, connectedness, confidence, courage, creativity, and compassion.</li><li style="margin-bottom:6px;">Neuroscience tells us that a balanced brain supports those same qualities.</li>
             </ul>
           </div>
-                    <p>I am 20 years removed from my first panic attack. Panic still arises at times, though it is now much more manageable, and I understand it far better than I did two decades ago. As I reflect on my journey with panic, I can identify five specific concepts that I wish I had learned back when my panic attacks were debilitating and frightening. As a therapist who now treats panic, I consider these five vital points in learning to cope with panic attacks. </p>
+                    <p><em>Co-authored with Sarah Bergenfield</em></p>
+<p>Do you ever suddenly become calmer, more curious, and more compassionate, not because your problems disappeared but because something shifted inside? From the perspective of Internal Family Systems (IFS), you're experiencing a distinct state of consciousness called Self. IFS is all about engaging this kind of consciousness in the context of the idea that the mind is plural: We all have parts (as in, one part of me wants to go for a walk, but another wants to take a nap). </p>
 
-<h2>5. Panic Attacks Are Not Uncommon</h2>
-<p>When you are struggling with panic, it can feel extremely isolating, particularly as you notice others around you who are seemingly going through their lives without the constant fear and uncertainty that panic brings. But the reality is that panic attacks are far more common than you might think. According to the Cleveland Clinic, up to 11 percent of Americans experience a panic attack each year, and up to 35 percent will experience a panic attack at least once in their life. My clinical work certainly supports the idea that panic is a common experience: I have seen countless clients who present to therapy reporting struggling with panic. Commonality and shared experience can help to reduce feelings of isolation and alienation that are so often felt when going through panic. Had I known this earlier, I might have placed less shame on myself for struggling.</p>
+<p>If you wonder what parts are, we can’t tell you. We can only describe the experience. They are individuals, each with their own developmental age, experiences, and perspective. They live in a community and share the ultimate goals of survival and safety. Self, on the other hand, is not a part. It’s more like a compass for the inner community of parts. Most people grasp Self best experientially, but sometimes we need words to introduce and explain the concept. When this need arises, IFS practitioners tend to reach for metaphors that hail from physics and spiritual traditions. While these serve well for some people, they’re too abstract for others. </p>
 
-<h2>4. Getting Help Can Help</h2>
-<p>None of us is immune from the unhelpful belief that we should handle our problems on our own and not burden others, but this line of thinking is particularly unhelpful when coping with panic attacks. Like many young men in their 20s, I initially resisted the idea of getting help for my panic, viewing it as a personal failing to need to outsource what I could do myself—if only I could be stronger and “toughen up.” In retrospect, I recognize that starting therapy was immeasurably helpful to my recovery, and research shows that certain therapeutic interventions, including, but not limited to, cognitive behavioral therapy and panic control treatment, can result in “notable reductions in symptoms of anxiety” (Hansen et al., 2026). It is ongoing work to challenge the narrative of the silent struggle, but it is important that we continue to destigmatize panic.</p>
+<p>So, here's another option. Neuroscience tells us that the brain builds a predictive model of the world beginning in childhood and then experiences what it predicts, registering prediction errors throughout life to update its model. In the process, it must decide which errors deserve conscious attention (signal) and which do not (noise). Most prediction errors, as it turns out, are inconsequential and can safely receive an automatic, unconscious update (the mug on the counter has moved since I was in the kitchen this morning). But sometimes a mismatch is worth conscious notice (wait a minute – I thought I was alone in the house) and it leads to feeling uncertain. </p>
 
-<h2>3. Panic Attacks Are Not Medical Emergencies</h2>
-<p>I cannot count the number of times I went to the emergency room for what turned out to be a panic attack—but had felt like a heart attack. This is not uncommon among people who experience panic, and the reason is simple, yet something I did not understand at the time: Panic attacks produce “somatic mimics,” physical responses that mimic more serious medical conditions—for example, chest tightness that mimics a heart attack or headaches that mimic an aneurysm. Had I understood this at the time, I might have saved myself a lot of unnecessary trips to the hospital. Panic attacks are uncomfortable, unpleasant, frightening, and sometimes debilitating, but they are not actual medical emergencies, and understanding this can go a long way toward feeling less threatened by them. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+<p>Uncertainty can arise from experiences along a continuum from the simple inconvenience (I can’t find my keys. Why did I walk into this room? When will Joe text me?) to the very big deal (I got fired, my spouse is leaving me, I’ve been diagnosed with cancer, my father just died of a heart attack). While events along this continuum are likely to have widely varying impacts, they share one critical effect: They create uncertainty. </p>
+
+<p>The brain prefers certainty. Since we expend less energy and function better when the world makes sense, the brain is always striving to predict with accuracy. At the same time, prediction errors propel learning. We need uncertainty, but just enough. Too much overwhelms; enough enlivens. The trick is to balance surprise and predictability. Take travel, for example. When we travel, we’re looking for rousing doses of surprise. If that’s what happens, we return feeling refreshed, and we see new angles to routine environments.</p>
+
+<p>Contrast this with irresolvable uncertainty. Faced with unpredictability that cannot be reduced through learning or action, protective parts work to make things predictable again by constructing coherent explanations about other people, ourselves, and the world. These stories may or may not be accurate, but in the moment they reduce uncertainty and make experience feel more manageable. By the time the limitations of these invented stories become apparent, they are often deeply held, hard-to-shake predictions that color our beliefs and expectations in subtle or extreme ways. Every solution has benefits and costs. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/loaivat-brain-8789957_1920.jpg?itok=EEJ_ESEf" width="320" height="320" data-insert-type="image" title="loaivat/Pixabay" alt="loaivat/Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: loaivat/Pixabay</div>
 </div>
+</div>
+</div>
+<p>IFS conducts internal inquiries, which usually start with curiosity about the protectors who are trying to ward off uncertainty and make the world more predictable by controlling other parts and other people. To approach them respectfully, without judgment, we need the brain to be flexible and capable of holding multiple perspectives without being defensive. IFS calls this state of mind Self. In the language of predictive processing, we propose that Self emerges when the brain reaches a state of balanced precision, a computational sweet spot in which neither prior expectations nor real-time sensory information are given excessive importance. In this state, the brain can hold expectations lightly, see prediction errors as opportunities for learning, and update its world model efficiently. Isn’t that what we want?</p>
 
-  </div>
+<p>Here are the core qualities that show up in the brain on Self. IFS calls them the<em> </em>8 Cs: </p>
+<p><strong>Curiosity</strong>: When we are curious, prediction errors function as useful information. In the language of IFS, they are a <em>trailhead</em>.</p>
+<p><strong>Clarity</strong>: The balanced brain discerns noteworthy signals from unimportant background noise.</p>
 
-<h2>2. Small Daily Habits Can Have Big Impacts</h2>
-<p>This may sound overly simplistic, but I have learned how much daily habits can impact panic attacks. Little, seemingly unimportant things like staying hydrated or moderating caffeine intake have a marked effect on panic. Studies show that worsened sleep quality, increased time spent online, and poor diet can directly affect anxiety and panic (Pedrini et al., 2024). To this day, if I overindulge in coffee, I am likely to experience a jolt of anxiety and panic that I would not have had I been more mindful of my caffeine intake. The lessons of coping with panic attacks are not always big breakthroughs—sometimes they are small and simple, yet no less important.</p>
+<p><strong>Confidence</strong>: Confidence doesn't come from certainty. It comes from trusting that mistakes and failures will improve our model of the world.</p>
+<p><strong>Creativity</strong>: Creativity requires uncertainty. Flexible brains generate possibilities instead of defending certainty.</p>
+<p><strong>Connectedness</strong>: The balanced brain can take in multiple perspectives at once and appreciate the kernel of truth or importance in each.</p>
 
-<h2>1. I Was Safe</h2>
-<p>The first therapist I saw when I was in the throes of panic explained the concept of “fight or flight” and presented panic to me in terms of it being a “primitive response” wherein my mind and body were responding as though I were in immediate danger. This was an absolute breakthrough for me: If I could recognize and even (gulp) accept that I was actually safe despite my body’s uncomfortable somatic mimics, I might be able to feel less at the mercy of panic. Over time, I began to believe in my own safety more and more, and it changed everything. As I felt safer, I was able to step back into a life no longer dictated and restricted by panic. “You are safe” is a big part of the message when I treat clients in my own practice. I wish I had known it earlier. But I am now given the great privilege and responsibility to help others rediscover their sense of safety and learn to live without the constant specter of panic, just as I have. </p>
 
-<p><em>To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
 
+  
+
+
+<p><strong>Calm</strong>: A nervous system that is free of overly-precise threat predictions can engage alertly, like a skilled athlete. </p>
+<p><strong>Courage</strong>: Parts who are connected with Self have the courage to abide uncertainty and update even deeply held predictions. </p>
+<p><strong>Compassion</strong>: In a state of balance, we are able to be compassionate. We are curious about parts, feeling <em>for</em> them with a stance of caring, concern, and the willingness to act on their behalf. Self asks: What uncertainty is this part trying to resolve?</p>
+
+<p>We’re not suggesting that predictive processing can fully explain the nature of Self or that neuroscience can replace the inquiry of IFS into subjective experience. Rather, it offers a plausible account of the computational conditions under which Self emerges. When the brain is in a state of balanced precision, neither clinging to existing beliefs nor overwhelmed by new information, it is flexible, open to learning, and ready for whatever comes. IFS calls this experience Self-energy. Understanding Self in this way bridges first-person experience and neuroscience, making a profound idea more accessible without diminishing its mystery. Some experiences remain difficult to capture in words. Self may be one of them. But if neuroscience helps more people recognize and trust this state within, let’s bring it to the conversation.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/am-i-dying/202607/5-things-about-panic-attacks-i-wish-i-had-learned-earlier" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/internal-family-systems-therapy-for-shame-and-guilt/202607/a-neuroscience-perspective-on-the" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/am-i-dying/202607/5-things-about-panic-attacks-i-wish-i-had-learned-earlier</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/am-i-dying/202607/5-things-about-panic-attacks-i-wish-i-had-learned-earlier</guid>
-            <dc:creator><![CDATA[Phil Lane MSW, LCSW]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/internal-family-systems-therapy-for-shame-and-guilt/202607/a-neuroscience-perspective-on-the</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/internal-family-systems-therapy-for-shame-and-guilt/202607/a-neuroscience-perspective-on-the</guid>
+            <dc:creator><![CDATA[Martha Sweezy Ph.D.]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/beth-stevenson-ntffqt8jbi0-unsplash.jpg?itok=-ogD3ekO" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/loaivat-brain-8789957_1920.jpg?itok=NRPcL9by" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[1 Habit That Kills Motivation for Most Adults]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">1 Habit That Kills Motivation for Most Adults</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Seeking external validation can block internal motivation almost entirely.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Trying to "Be Good" With Food Can Backfire]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/untitled_8.jpg?itok=FXBUHj_l" alt="Gia Marson, Ed.D., and Danielle Keenan-Miller, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Appetite</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Trying to "Be Good" With Food Can Backfire</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Losing control with food may be the result of attempting to follow rules.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Chronic external validation seeking flies under the radar because it masquerades as conscientiousness.</li><li style="margin-bottom:6px;">When approval becomes the fuel, the internal reward system gradually recalibrates.</li><li style="margin-bottom:6px;">When people are helped to identify and act on their own values and preferences, motivation tends to return.</li>
+              <li style="margin-bottom:6px;">Restrictive eating is a trap.</li><li style="margin-bottom:6px;">Research suggests the effort to restrict is linked to loss-of-control eating.</li><li style="margin-bottom:6px;">Labeling your eating as "good" or "bad" turns it into a moral test you can pass or fail.</li><li style="margin-bottom:6px;">Consistent, flexible eating creates a pathway to nourishing your body and healing your mind.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/motivation.jpg?itok=JAV_DOIz" width="320" height="320" data-insert-type="image" title="Nataliya Vaitkevich / Pexels" alt="Nataliya Vaitkevich / Pexels"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/spencer-davis-vjsj-hgoeg0-unsplash.jpg?itok=5dbjW8G4" width="320" height="213" data-insert-type="image" title="Spencer Davis / Unsplash" alt="Spencer Davis / Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Nataliya Vaitkevich / Pexels</div>
+<div class="insertArea--origin subtext">Source: Spencer Davis / Unsplash</div>
 </div>
 </div>
 </div>
-<p>Motivation rarely disappears after a single bad experience. What erodes it, consistently, is a habit of small surrenders. These are moments where a person defers to the room, waits for a signal, or edits themselves before anyone asks. Repeated often enough, this pattern stops feeling like social awareness and starts feeling like the only way one can function.</p>
+<p>This post was written by Gia Marson, EdD</p>
+<p>Have you ever promised yourself you'd "be good" with food this week, only to find yourself eating in a way that felt out of control? If so, you are not weak, and you are not alone. That pattern isn't a personal failing. It's often the predictable result of the rules you adopted.</p>
 
-<p>The psychological term for what’s happening underneath is externalized regulation, and understanding it explains not just why motivation fades, but why it so often fades in people who are, by any external measure, doing fine.</p>
-<h2>The Habit of Chronic External Validation-Seeking</h2>
-<p>The concept comes from self-determination theory, one of the most well-replicated frameworks in motivational psychology. A <a href="https://doi.org/10.1016/j.cedpsych.2020.101860">2020 review</a> published in <em>Contemporary Educational Psychology,</em> by the theory's originators, synthesizes decades of research showing that lasting motivation requires three conditions: </p>
+<h2>When food becomes a moral test</h2>
+<p>We tend to talk about food in the language of morality. Some foods are referred to as "clean," "safe," or "good"; others are "junk," "cheat," or "bad." Eating the first kind can make us feel virtuous; eating the second, guilty. A recent qualitative study of restrictive eating found that people often build a sense of moral identity around dietary discipline, experiencing strict eating as a demonstration of virtue and self-control. And when we apply moral messaging to conversations about eating, even a minor step away from what we're told is ideal can negatively affect our self-talk and how we see ourselves. In other words, following rigid dietary rules becomes conflated with being a good person.</p>
 
-<ol>
-<li>A sense of competence</li>
-<li>A sense of relatedness</li>
-<li>A sense of autonomy or the felt experience that your actions are genuinely your own</li>
-</ol>
-<p>Chronic external validation-seeking gradually dismantles that third condition. The habit looks harmless, even socially virtuous, in its early forms. You check with your partner before committing to a project. You scan the room before voicing an opinion. You post something and wait, a little tensely, to see how it lands. These moments aren’t inherently problematic. They become a motivation-killer when they calcify into a reflex that says, “I don't act until I know someone approves.”</p>
+<h2>Restriction, rebranded as wellness</h2>
+<p>This message is everywhere, and social media adds fuel to it. In 2025, researchers analyzed roughly 100,000 Instagram posts about food and eating and found that content representing restrictive diets and approaches to eating were pervasive. A 2024 study of online wellness images and content found that they normalize food restriction as natural and admirable, worsening how people feel about their bodies:</p>
 
-<h2>Why This Habit Hides in a Blindspot</h2>
-<p>Part of what makes this habit so effective at flying under the radar is that it masquerades as conscientiousness. The person who always runs decisions by others appears thoughtful. The person who holds back an opinion until they’ve gauged the group reads as measured. And in many contexts, including workplaces, families and even certain cultures, these behaviors are actively rewarded.</p>
+<blockquote><p>"…while in the past these tendencies were found among public figures or those associated with political, artistic, or beauty fields, today it is common and considerably more concerning, as personal value is increasingly associated with the ability to meet certain beauty standards, even at younger ages." — Zaharia &amp; Gonța, 2024</p>
+</blockquote>
 
-<p>But there is a difference between consultative decision-making and approval-dependent motivation. In the first, you gather input and then decide, with the locus of commitment sitting inside you. In the second, the decision itself waits to be made by someone else’s reaction, and so does your energy. </p>
-<p>A <a href="https://journals.sagepub.com/doi/10.1177/20413866211006173">2021 meta-analysis</a> published in <em>Organizational Psychology Review</em>, drawing on 124 workplace samples, draws a consistent distinction between identified regulation (doing something because it genuinely aligns with your own values) and introjected regulation (doing something to avoid guilt, shame, or the discomfort of disappointing someone). </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/yumu-swjpqqkufwa-unsplash.jpg?itok=ggz2Gkrz" width="320" height="480" data-insert-type="image" title="Photo by Yumu (愚木混株) on Unsplash " alt="Photo by Yumu (愚木混株) on Unsplash "></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Photo by Yumu (愚木混株) on Unsplash</div>
 </div>
-
-  </div>
-
-<p>The latter can produce short bursts of action, but it cannot sustain the kind of intrinsic engagement that feels like real motivation.</p>
-<h2>How This Habit Hurts the Brain’s Reward System</h2>
-<p>When approval becomes the fuel, the internal reward system gradually recalibrates. A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/">2017 peer-reviewed review</a> published in <em>Frontiers in Human Neuroscience</em> found that the brain’s dopamine pathways, which evolved to register effort and progress as intrinsically rewarding, can gradually reorient toward external contingencies over time. In other words, the subtle satisfaction of doing something well stops registering as rewarding, and the brain starts holding out for the response.</p>
-
-<p>This is a learned response that many people develop for sensible reasons like anxious attachment histories, high-pressure environments and workplaces, or families that withheld approval as a form of control. Understanding this can shift the frame: The solution isn’t to care less about people or to become indifferent to feedback. It’s to rebuild the internal signal that existed before the habit of looking outward took hold.</p>
-
-
-<h2>How to Break the Habit and Reclaim Motivation</h2>
-<p>Research on autonomy-supportive environments, including schools, workplaces, and therapy, offers a consistent finding: When people are helped to identify and act on their own values and preferences, rather than being managed through incentives and evaluations, motivation tends to return on its own. It doesn’t have to be manufactured. It surfaces when approval is no longer the entry fee for action.</p>
-
-<p>One practical entry point is what some psychologists call values clarification, which is a structured process of identifying not what you think you should want but what has historically generated a <a href="https://www.psychologytoday.com/us/blog/social-instincts/202606/2-habits-that-make-productivity-feel-easier">sense of genuine engagement </a>for you. </p>
-<p>A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738767/">2015 randomized controlled trial</a> published in <em>Implementation Science</em> found that a structured values clarification exercise promoted more autonomous, internalized motivation in workers compared to a control condition. It also increased the likelihood that they would follow through on their intentions. Not performance, not praise, but the work itself. When people reconnect with even one area where they act from genuine preference rather than expected approval, it can begin to reawaken the broader motivational system.</p>
-
-
-
-  
-
-
-<p>The other move is deceptively simple: Take <a href="https://www.psychologytoday.com/us/blog/social-instincts/202512/3-keystone-habits-thatll-change-your-life-for-the-better">small actions that nobody validates</a>. Finish something and tell no one. Make a low-stakes decision without consulting anyone and notice that the world does not end. The point of this simple exercise is recalibration, so that your internal compass that might have fallen into disuse can start functioning properly again.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
 </div>
+</div>
+<h2>This may be surprising: The effort is the risk</h2>
+<p>When researchers followed adolescents in real time, tracking their eating throughout the day, they found something counterintuitive: It was the attempt to restrict, not whether the person actually ate less, that was associated with later loss-of-control eating. Trying to limit consumption was itself the risk. The mental effort of monitoring, resisting, and forbidding seemed to set up the very loss of control it was supposed to prevent.</p>
 
-  </div>
+<p>Why would attempting to restrict make things worse? Because rigid, rule-bound eating works against your biology and your psychology at the same time. Trying not to eat enough sets off an internal alarm because your body wants enough food to meet your energy needs and activity level. Therefore, your body begins to urge you to eat more as a way to maintain or return to homeostasis. Furthermore, planning to eat less leads to a preoccupation with food that may interfere with your natural hunger and fullness cues and with your ability to concentrate in other parts of your life. The bottom line: <em>trying to undereat is unnatural. </em></p>
 
-<p><em>A version of this post also appears on Forbes.com.</em></p>
+<h2>What helps? Fewer rules and less moral judgment</h2>
+<p>The goal is to make eating a little boring again, in the best possible sense: predictable, adequate, satisfying, and flexible. That means eating regularly enough that you're not running on empty, including foods you genuinely enjoy, and not using eating as evidence for or against your worth. When food stops being an all-or-nothing test of your goodness, it can simply be a way to nourish yourself.</p>
+
+
+<p>If this pattern of restricting your eating and then losing control is familiar to you, recognizing and accepting it is a starting point for change. However, if your relationship with food feels distressing or hard to manage on your own, please consider reaching out to a qualified professional. Support helps. </p>
+
+<p><strong>To find a therapist, </strong><a href="https://www.psychologytoday.com/us/therapists"><strong>visit the Psychology Today Therapy Directory</strong></a><strong>.</strong></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202607/1-habit-that-kills-motivation-for-most-adults" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-binge-eating-prevention-plan/202607/why-trying-to-be-good-with-food-can-backfire" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/social-instincts/202607/1-habit-that-kills-motivation-for-most-adults</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202607/1-habit-that-kills-motivation-for-most-adults</guid>
-            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-binge-eating-prevention-plan/202607/why-trying-to-be-good-with-food-can-backfire</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-binge-eating-prevention-plan/202607/why-trying-to-be-good-with-food-can-backfire</guid>
+            <dc:creator><![CDATA[Gia Marson, Ed.D., and Danielle Keenan-Miller, Ph.D.]]></dc:creator>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-n-voitkevich-6837648.jpg?itok=6-3SpYRP" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/spencer-davis-vjsj-hgoeg0-unsplash.jpg?itok=THnMR_6a" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Is Black Matrescence?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-02/Brianna_Baker_Professional_Headshot-removebg-preview.jpg?itok=hp39LpBy" alt="Brianna A. Baker M.Phil." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Race and Ethnicity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Is Black Matrescence?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The transition to Black motherhood finally has a name.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Black matrescence names the racialized psychological transition into motherhood.</li><li style="margin-bottom:6px;">Racism shapes the conditions of pregnancy and motherhood, not just the stress layered on top.</li><li style="margin-bottom:6px;">Black mothers often carry racial vigilance and deep joy through the same transition.</li><li style="margin-bottom:6px;">Structural support, not individual coping alone, determines how well mothers recover.</li>
+            </ul>
+          </div>
+                    <p>When a baby arrives, the world leans toward the child, asking whether she is sleeping, feeding, growing on schedule. Much less often does anyone ask what is happening inside the woman who just became a mother, even though her transformation is just as real and just as demanding of our attention.</p>
+<p>Motherhood is not a role simply added onto an unchanged life. It can quietly reorganize how a woman understands her body, her relationships, her ambitions, and the core of who she believes herself to be. Psychologists call this developmental process matrescence, a term that mirrors adolescence in the way it describes a profound shift in identity. A woman may recognize her own face in the mirror while feeling, underneath, like someone entirely new.</p>
+
+<p>What often goes unspoken is that matrescence does not move through every woman's life the same way. For Black women, the transition into motherhood, or Black matrescence, unfolds inside a deeply racialized social world, shaped by medical racism, reproductive vulnerability, cultural expectations of strength, and the weight of raising a Black child in a society that has never fully guaranteed that child's safety. </p>
+
+<h2>The mother is developing, too</h2>
+<p>So much of how we talk about motherhood centers on what a woman must do for the baby and for her family. Matrescence asks a different question, one that gets asked far too rarely: Who is she becoming underneath all of that doing? Her body may stop feeling entirely familiar. Her friendships shift. Her career may feel newly urgent or suddenly complicated to hold alongside everything else. She may quietly grieve the freedom and spontaneity that once defined her days.</p>
+
+<p>These feelings are hard to speak aloud because our culture narrates motherhood almost exclusively through gratitude. However, the truth is often much messier, and many mothers fear that honesty will be mistaken for regret. A mother can feel fiercely attached to her child while still missing the person she used to be — grateful and overwhelmed, all in the same afternoon.</p>
+
+<h2>Matrescence does not exist outside of race</h2>
+<p>A Black woman may walk into pregnancy already carrying the awareness that her pain could be dismissed, her concerns minimized, her knowledge of her own body questioned by the very people meant to care for her. She may monitor how forcefully she advocates for herself, worried that naming her fear will make her seem unstable while naming her anger will make her seem difficult. The transition can ask her to become patient and advocate, mother and protector, all while trusting systems that have not always earned it.</p>
+
+<h2>Motherhood can change the way race feels</h2>
+<p>A woman becoming a mother is no longer only thinking about how racism touches her own body and safety. She begins imagining how the world will perceive her child, when he will first be stereotyped or disciplined more harshly than his peers. This is one of the defining features of Black matrescence: a mother is not only adapting to caring for a child, but she is also learning to mother inside a society where protection can never be fully promised. That reality can deepen love and cultural connection. It can also produce vigilance, fear, and grief that deserve to be honored rather than hidden.</p>
+
+<h2>Joy and community are part of this story too</h2>
+<p>None of this means Black matrescence is only weight and worry. Alongside the vigilance runs something equally real: a deep well of joy, connection, and cultural inheritance that shapes this transition just as powerfully as racism does.</p>
+<p>Black mothers often step into motherhood surrounded by a wide circle of care that many other cultures have lost touch with. Grandmothers, aunties, church mothers, sister-friends, and neighbors show up with meals, wisdom, and hands ready to hold a baby so a new mother can sleep. Mothering, in many Black communities, has never been meant to happen alone, and that collective care can soften even the hardest parts of the transition.</p>
+
+<p>There is also a particular joy in watching a child grow into their own Black identity; in braiding hair with a technique passed down through generations, in choosing a name that carries ancestry, in teaching a toddler to clap along to music that has been sung in the family for decades. These moments carry pride, continuity, and a sense of belonging that can anchor a mother even as she navigates fear for her child's safety.</p>
+
+<p>Black matrescence holds both of these truths without asking one to cancel out the other. A mother can feel the weight of raising a Black child in an unsafe world and also feel profound delight in who that child is becoming, surrounded by people who love them fiercely. The joy is not a distraction from the hard parts. It is part of what makes the transition survivable, and part of what makes it beautiful.</p>
+
+
+
+  
+
+
+<h2>The expectation to be strong</h2>
+<p>Black women are so often praised for resilience, and strength runs through Black cultural identity as a thread of survival, faith, and collective care. But strength can harden into an expectation that leaves little room for softness when a woman needs it most. A Black mother may be praised for how well she seems to be handling everything while she is privately unraveling behind closed doors. Family, workplaces, and even close friends may offer her less support because she looks like she doesn't need it. That pressure can make it painfully hard to say the truest things: that she is scared, that she needs help, that she loves her baby and is struggling all at once. Black matrescence has to leave room for those words.</p>
+
+<h2>Not every difficult emotion is a disorder</h2>
+<p>The emotional shifts of matrescence can look like symptoms of distress, and naming this transition can help a woman stop interpreting every hard feeling as personal failure. At the same time, this concept should never wave away symptoms that are genuinely serious. Postpartum depression, anxiety, and psychosis all require careful care, and Black women already face real barriers to receiving it. We need to hold two truths at once: not every painful part of becoming a mother is a disorder, and not every severe symptom is simply a normal adjustment.</p>
+
+<h2>Black matrescence is personal and structural</h2>
+<p>Mothers are told to rest, set boundaries, and practice mindfulness. These strategies can offer comfort, but they cannot correct the structural conditions surrounding motherhood. A mother cannot meditate her way into paid leave, or breathe deeply enough to dissolve medical racism or housing instability. Her distress cannot always be understood as something happening only inside her own mind. Sometimes her anxiety is a reasonable response to a genuinely unsafe system.</p>
+
+<h2>Why naming Black matrescence matters</h2>
+<p>Language shapes what we allow ourselves to notice. Naming Black matrescence lets clinicians ask not only whether a mother is depressed, but how motherhood has reshaped her identity, her racial awareness, and her sense of safety. It asks families and communities to support the mother as a person who is still becoming, not only as the one everyone else depends on. Black matrescence also gives a name to the deeply racialized and nuanced process of becoming a mother. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/black-mindscapes/202607/what-is-black-matrescence" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/black-mindscapes/202607/what-is-black-matrescence</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/black-mindscapes/202607/what-is-black-matrescence</guid>
+            <dc:creator><![CDATA[Brianna A. Baker PhD]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/blogcube-woman-6785370_0.jpg?itok=QQ_XXyUM" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Power of Walking Around the Block]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/Headshot_Sedley_-removebg-preview.jpg?itok=Osjd4m3Z" alt="Ben Sedley" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Power of Walking Around the Block</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The first steps post-trauma are literal steps.</h2><p style="font-size:0.9em;color:#666;">Posted July 20, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p><em>This post is part 1 of a series.</em></p>
+<p>This week, like most weeks this year, disasters have happened around the world that have irrevocably changed people’s lives: Earthquakes in Peru and Venezuela, Flooding in Laos, Wildfires in Canada and the US and many many more events that barely made the news.</p>
+<p>In April, my suburb in Wellington, New Zealand was hit by the heaviest rainfall for the area on record. The amount of rain that normally falls in half a month in April, came crashing down in one hour. At 3.30am, we were woken by the intense noise of rain on the roof and pipes gurgling. A few minutes later we saw some rain coming through the gap under our front door, but by the time we ran to get towels we realized it was too late. The water could not be stopped. We woke the children and told them to sit on the couch, but soon the couch was floating. By 4am, we were waist-deep in water throughout the house. We climbed into our attic and waited for the fire department to come and help us evacuate across the river that was flowing where our street had been. We spent the next week throwing out everything in our house that was below waist height, including the carpet and insulation behind the walls, along with all our furniture, whiteware, shoes, toys and books. The worst part was telling our children that our cat had drowned under the house. In the past few months we have had to find a home to rent, borrow furniture and deal with insurance and tradespeople. All of this while we still have our regular busy lives, jobs, school, activities.</p>
+
+<p>I’m a psychologist who works with trauma, stress and life changes. One of the many things that has been frequently running through my brain (in between worrying about whether my kids are ok and then trying to remember details for insurance claims or make rebuilding decisions) is to ask myself whether I can say that I’ve been genuinely following the advice I would give to clients I work with. Every day I talk to people who have been through awful life experiences and they look at me like I’m the expert with all the right advice. More specifically, I’ve been reflecting on whether the principles of Acceptance and Commitment Therapy, which are the ideas I have based my books <em>Holding the Heavy Stuff </em>and<em> Stuff that Sucks</em> on, help me in trauma.</p>
+
+<p>Spoiler alert: Yes, they have. But also, it wasn’t easy. Knowing what helps doesn’t always make it easy to do.</p>
+<p>Five days after the flood, the day after we had finished loading up a sixth giant dumpster bin with our belongings, I lay in bed. Well, I say ‘bed’, but it was a sofa bed in the home of our very kind friends who had us stay for that first week. I was done. I felt I had to avoid my kids because I was supposed to be putting on a brave face for them and I just wanted to sob (but annoyingly my body wouldn’t even let me do that yet). I couldn’t imagine how we could begin to rebuild and live with the anxiety of waiting for another one-in-a-hundred year storm (they seem to happen every few weeks these days).</p>
+
+<p>My wife suggested that we go for a short walk. I didn’t want to leave the bed. I just wanted to lie there, feeling sorry for myself, ruminating over how hard everything was. But I also knew that taking a walk around the block would be the exact advice I would give to a client who had been through similar challenges. I reluctantly got out of bed and threw some clothes on and we went for a 15-minute walk.</p>
+
+<p>It really was only 15 minutes but it was all I needed to catch my breath and to take a break from my doom-spiraling brain. It was all I needed to notice that in this moment, we have a place to stay, we all got out, and we were going to figure it out one step at a time.</p>
+<p>So why does a brief walk help? It didn’t fix my house, nor give me any solutions. But it woke my senses up – seeing, hearing, feeling where I am right now. Right now is the only time we can do anything, whereas when we are down, our minds want to problem-solve things that have already happened or how to deal with possible futures. Feeling the sun on my face also helped my body notice that the rain had stopped and the storm had passed. Walking with my wife allowed us to connect to what really matters: how we best support our kids and ourselves today. Bumping into a friend on the walk allowed me to receive a much-needed hug and some caring.</p>
+
+<p>In my next few posts, I will talk about how I used each of the ACT processes to help me manage losing our house and our cat — and having to rethink everything I thought I knew about where our life was heading. But please remember, the starting point after a trauma is the small things – hugs, walks around the block, feeling the sunshine, catching your breath. Without these small steps, there’s no opportunity for the bigger steps that come next.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/holding-the-heavy-stuff/202607/the-power-of-walking-around-the-block" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/holding-the-heavy-stuff/202607/the-power-of-walking-around-the-block</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/holding-the-heavy-stuff/202607/the-power-of-walking-around-the-block</guid>
+            <dc:creator><![CDATA[Ben Sedley]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/img_2778_0.jpg?itok=kFXLRlnx" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
