@@ -4,360 +4,1042 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 14:55:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 18:19:20 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 14:55:50 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 18:19:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Suicides We're Not Counting]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/rockett.png.jpg?itok=fhBvdWoC" alt="Rockett" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Suicide</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Suicides We're Not Counting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">America's suicide rate is rising. The real number of suicides may be much higher than the official one.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Can AI Read the Room?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Michael-Hogan.jpg?itok=u8MWIk_g" alt="Michael Hogan Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can AI Read the Room?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Silent pauses and the embodied side of collective intelligence.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">U.S. suicide rose 37.5% from 2000 to 2024, but drug-poisoning deaths rose 3.5-fold.</li><li style="margin-bottom:6px;">Many overdose deaths that are truly suicides are recorded as "accidents" — perhaps up to 30%.</li><li style="margin-bottom:6px;">A behavior-based measure and a death-certificate checkbox could reveal the hidden toll.</li>
+              <li style="margin-bottom:6px;">Social sensitivity, not just individual ability, is a key predictor of collective intelligence.</li><li style="margin-bottom:6px;">AI-driven analytics can now code non-verbal behaviour like silence at millisecond-level precision.</li><li style="margin-bottom:6px;">The challenge ahead is not teaching AI to notice behaviour, but to interpret it in context.</li>
             </ul>
           </div>
-                    <p>When someone dies of a drug overdose, a medical examiner or coroner faces a judgment call that shapes both a family’s grief and a nation’s statistics: Was it an accident, or did the person mean to die? It sounds like a question with a clear answer. In practice, it is among the hardest determinations in all of medicine and public health — and I have come to believe we are getting it wrong more often than we used to.</p>
+                    <p><em>Co-authored by Ceolla Dillon O’Rourke, Aoife Ní Chíobháin, and Michael Hogan. </em></p>
+<p>In education, collaborative learning is valued as a way to build the key collective intelligence skills that societies depend on: coordinating, communicating, sharing knowledge, <a href="https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/can-ai-help-us-learn-to-like-each-other">perspective taking, and solving problems together</a>. However, collaborative learning is not just about putting students in a group and asking them to complete a task. A group also has to manage the process of thinking together: taking turns, noticing confusion, regulating frustration, repairing misunderstandings, and deciding when to speak and when to wait. These social and embodied processes matter because collective intelligence (CI) depends not only on individual ability, but also on how well group members notice and respond to one another. <a href="https://doi.org/10.1126/science.1193147">Woolley et al. (2010)</a> found that groups have higher CI when members show greater social sensitivity and share conversational turns more evenly. Successful collaboration depends partly on reading the room.</p>
 
-<p>I have spent much of my career as an injury epidemiologist studying how we count deaths, and I’ve reached an unsettling conclusion: American suicide accounting has <strong>deteriorated</strong> over the past 25 years, even as suicide itself has climbed.</p>
-<p>Consider the numbers. Between 2000 and 2024, the national suicide rate rose 37.5%. Over the same stretch, the drug-poisoning death rate rose three and a half times. Yet the rate of deaths officially recorded as drug-poisoning suicides barely moved — drifting between 1.3 and 1.8 per 100,000 people, even as pills and fentanyl grew far more lethal and far more available. That gap should give us pause. By our best estimate, up to 30% of overdose deaths may in fact be suicides that were never recorded as such.</p>
+<p>Researchers are increasingly using AI and multimodal learning analytics to make these subtle processes visible <a href="https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.12917">(Järvelä et al., 2020)</a>. Systems can detect speech patterns, pauses, facial expressions, and possible moments of difficulty. But noticing that something has happened is not the same as understanding what it means. A quiet moment might reflect confusion, frustration, individual concentration, or shared reflection. If social sensitivity matters for collective intelligence, can AI recognise the context behind these subtle signals, or can it only identify the pattern?</p>
 
-<p>The problem is part human, part structural. Suicide has always been stigmatized — shadowed by religious condemnation, legal prohibition, and insurance clauses that punish grieving families. Relatives may resist the label; investigators, sensitive to that pain and short on time, may reach for a gentler one. And the people who make these calls — medical examiners and coroners — have been overwhelmed, first by the opioid epidemic and then by COVID-19, which buried them under what one colleague described as the “piling of bodies.”</p>
+<h2>When the room goes quiet</h2>
+<p><a href="https://doi.org/10.1145/3636555.3636874">Dang et al. (2024)</a> explored this question by focusing on something that is easy to overlook in groupwork: the moments when nobody speaks. Their study involved 30 Finnish secondary students working in ten triads on a face-to-face design task. Each student had a laptop, and together the group developed a food product on a shared Google document, working out ingredients and nutritional targets such as calories, protein, and fat. Halfway through, the researchers introduced a cognitive challenge: a customer’s voice message about a product allergy, which forced the groups to revisit their design. Three further messages followed at three-minute intervals, escalating from impatience to urgency to annoyance. The groups had to continue with their design work while also managing increasing emotional pressure. </p>
 
-<p>To classify a death as suicide, an investigator generally needs evidence of intent: a note, a psychiatric history, a record of prior attempts — some sign the person wanted to die. A gunshot wound or a hanging is forensically overt. A drug overdose is quiet and ambiguous. When corroborating evidence is missing, as it so often is, the default becomes “accident.”</p>
-
-<p>We cannot prevent what we cannot see. And the deaths we miss are not missed at random.</p>
-<p>We have known how to do better for a long time. In mid-20th-century Los Angeles County, a wave of barbiturate deaths defied easy classification. A team from the Los Angeles Suicide Prevention Center — the psychologists Edwin Shneidman and Norman Farberow, the psychiatrist Robert Litman, and the chief county coroner, Theodore (Ted) Curphey — pioneered what Shneidman called the “psychological autopsy”: a careful reconstruction of a person’s final weeks through records and interviews with those who knew them. It worked, uncovering hidden suicidality in cases that had looked equivocal. Then, largely because of cost and inertia, the practice faded. That cost looks trivial beside a recent estimate that suicide drains American society of roughly half a trillion dollars a year.</p>
-
-<p>Why does the miscounting matter so much? Because the deaths we overlook are not missed at random. The undercounting falls more heavily on some groups than others. Using a broader, behavior-based measure my colleagues and I call <strong>self-injury mortality,</strong> we found that from 2008 to 2017 such deaths rose 109% among Black Americans, against 55% among white Americans — and faster among women than men. Official suicide statistics hide those divergences. If we can’t see who is dying, we can’t design prevention that reaches them.</p>
-
-<p>So, what would help? A shift in how we think about these deaths. Rather than staking everything on inferring what a person intended in their final moments — often unknowable — we can pay attention to how they lived in the weeks before: the patterned, repetitive self-harm of escalating substance use. Self-injury mortality gathers registered suicides together with the great majority of overdose deaths that reflect that behavior, whatever we can affirm about intent. A concrete first step would be adding a <strong>self-injury checkbox</strong> to the U.S. death certificate — one that cuts across suicide, “accident,” and undetermined — so this hidden toll finally becomes visible to the people who plan prevention and treatment.</p>
-
-
-<p>The stakes are only rising. With economic turbulence, cuts to the social safety net, and the early signs of an opioid crisis reaching Europe, this is no moment to look away from the deaths we aren’t counting. The first task of prevention is honest arithmetic. We owe the people we’ve lost — and the ones we still might save — an accurate count.</p>
-
-<p><em>If you or someone you love is contemplating suicide, seek help immediately. For help 24/7 dial 988 for the 988 Suicide &amp; Crisis Lifeline, or reach out to the Crisis Text Line by texting TALK to 741741. To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/hidden-suicides-and-fatal-overdoses/202607/the-suicides-were-not-counting" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/hidden-suicides-and-fatal-overdoses/202607/the-suicides-were-not-counting</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/hidden-suicides-and-fatal-overdoses/202607/the-suicides-were-not-counting</guid>
-            <dc:creator><![CDATA[Ian Rockett, Ph.D.]]></dc:creator>
-            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-charithk-8588905.jpg?itok=lcTEUecs" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Moments of Awe Unlock Creative Thinking]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/anthony_fredericks.jpg?itok=re2IR4DV" alt="Anthony D. Fredericks Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Awe</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Moments of Awe Unlock Creative Thinking</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Awe makes creativity happen in multiple ways.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Awe has been proven to stimulate creative endeavors.</li><li style="margin-bottom:6px;">Awe is not just about big events, but lots of small ones, too.</li><li style="margin-bottom:6px;">When we include awe as an everyday experience, our creative spirit soars.</li>
-            </ul>
-          </div>
-                    <p>The Greater Good Science Center at the University of California, Berkeley, defines awe as “that goose-bumpy sensation that we get in the presence of something profound: something greater, more powerful, or more eternal than ourselves. It arises when we encounter things that challenge our sense of what’s normal or possible.”</p>
-
-<p>In my research for a recent book, I had the opportunity to touch the bark of a tree more than 5,000 years old, to kayak through a congress of resplendent bald cypresses, to watch a magnificent dance of leaves in an old-growth forest, and to observe a blood-red sunrise over a grove of aspens. Each was awesome; each was an experience that engaged my senses, stimulated my creative instincts, and propelled my fingers across a computer keyboard faster than I thought possible. My imagination was truly energized! Let’s examine that connection.</p>
-
-<h2>What the Research on Awe Says</h2>
-<p>A research review reveals several studies that have either examined the relationship between awe and creativity or identified mechanisms (such as curiosity and cognitive flexibility) that underscore this unique relationship. Here are three examples:</p>
-<p>In the most recent study (2026), researchers conducted complementary studies using surveys, experimental awe videos, and creativity assessments. What they discovered was that individuals demonstrated significantly higher levels of creativity after an “awesome” event. So, too, did awe increase their cognitive flexibility as well as creative self-efficacy. The researchers noted that these two variables helped participants form sequential pathways that explained why an awesome event boosts individual creativity.</p>
-
-<p>An earlier study (2023) looked at 257 adults to examine creative changes over a four-month period. The researchers discovered that awe doesn’t just make people feel inspired; it changes the way they think by increasing mental flexibility and confidence in generating novel ideas. One of the key takeaways was that awe seems to cultivate creativity indirectly by stimulating curiosity—a motivational engine underlying creative exploration.</p>
-
-<p>Subsequently, a 2025 study examined how awe enhances the mental conditions that support creative thinking. Participants assigned to an awe-intervention group reported greater awe, lower stress, and improved psychological well-being when compared to those in a control group. The researchers concluded that reduced stress and greater cognitive openness create conditions that facilitate creative insight and flexible problem-solving.</p>
-
-<h2>Research Overview</h2>
-<p>Additional research supports the interconnections between experiences of awe and improved creative thinking. These include the following: </p>
-<p>1. Awe has a tendency to expand our mental horizons, moving beyond familiar patterns while creating new ones.</p>
-<p>2. Awe increases our openness to new experiences; as such, we ask more questions and explore more possibilities.</p>
-
-<p>3. Awe stimulates and encourages curiosity; it helps us look at things with new eyes.</p>
-<p>4. Awe promotes cognitive flexibility; we begin to see multiple possibilities rather than single answers. So too, do we generate novel associations and connect seemingly unrelated ideas.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/bulb_-_1.jpg?itok=5YJYh-El" width="320" height="283" data-insert-type="image" title="dopefreak_creations/Pixabay" alt="dopefreak_creations/Pixabay"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: dopefreak_creations/Pixabay</div>
+<p>Video and audio captured the group interactions in detail. AI-enabled tools then automatically segmented and transcribed the students’ spoken turns, which the researchers checked and refined. This made it possible to add silent pauses at millisecond-level timestamps and analyse them alongside the speech. Each spoken turn was also coded according to what the group was doing, such as defining the problem, educating one another, monitoring progress, agreeing on a next step, or regulating emotion. The researchers then used lag sequential analysis, a method for testing which coded events followed one another more often than chance, to examine how silence fitted into the discussion.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
-</div>
-</div>
-<h2>Putting Research Into Practice</h2>
-<p>It is clear that awe broadens our attention, increases cognitive flexibility, and stimulates our inherent curiosity—all necessary for creativity to happen. To that end, here are a few activities for your consideration:</p>
-<p><strong>1. Awe Walk: </strong>Leave your phone at home and walk through your neighborhood for 30 minutes. Look up (instead of down), intentionally noticing things often taken for granted: the unique shape of a cloud, the singular pattern of a tree’s bark, the dulcet song of a bird, the commanding architecture of a building, or a splash of light upon a car window. Keep asking yourself, “What have I never noticed before?”</p>
 
-<p><strong>2. Expand Your Reading:</strong> Regularly select some nonfiction reading material about a topic you know little about. This may include topics such as Irish lighthouses, Egyptian archeology, the physics of water, how trees communicate, or nocturnal mammals (for example). Keep asking, “What can I learn here that I didn’t know previously?” Marvel at the discoveries.</p>
+  </div>
 
-<p><strong>3. Awe Journal:</strong> Maintain a notebook into which you record awesome events. Try to pen an experience regularly—one that makes you say “Wow!” or “Amazing!” These may include a beautiful piece of music, a rediscovered photograph, someone’s unexpected question, the playfulness of a child, or an unusual gift. For each entry, record how the event expanded your thinking.</p>
+<h2>Not all silence is the same</h2>
+<p>The analysis identified three deliberation tactics. In <strong>elaborated deliberation</strong>, groups engaged in extended back-and-forth reasoning. Silent pauses made up about 18% of interactions and tended to be brief, often appearing while students were educating one another. The authors suggest that these pauses may reflect introspection or cognitive effort, although the data cannot show exactly what students were thinking. In <strong>coordinated deliberation</strong>, silence was more frequent and often linked different stages of the task, such as generating an idea, checking progress, and agreeing what to do next. Here, silence appeared to function as a kind of junction between forms of group activity. </p>
+
+<p>In <strong>solitary deliberation</strong>, silence became the dominant feature, accounting for about 36% of interactions. Groups showed fewer back-and-forth exchanges, and pauses were more frequent and longer than in the other tactics. The authors suggest that this could reflect individual reflection or internal cognitive processing, but it could also indicate a more fragmented or reserved group dynamic. The cluster also contained two moments coded as negative socioemotional interaction, moments of discouragement or low motivation rather than direct task discussion, and each was followed by silence. Whether that silence reflected emotional withdrawal, private reflection, or an effort to regain control of the task remains open to interpretation.</p>
+
+<p>AI-driven analysis is what makes these findings promising: hand-coding silence across thousands of turns would be almost impossible, yet AI-driven analytics annotated these pauses at millisecond precision and aligned them with the talk — a level of fine-grained tracing that opens up questions researchers could not previously ask. But the findings are also preliminary. The study involved only 30 students, ten groups, and one task completed in a controlled laboratory setting. The emotional pressure was also deliberately introduced through scripted customer messages, so the students’ responses may not reflect tensions that develop naturally in a classroom or other real-world collective intelligence design scenarios. More importantly, the analysis identified patterns around silence without directly revealing students’ thoughts or feelings. AI made the pauses visible, but human interpretation was still needed to decide what those pauses might mean.</p>
+
+<h2>When should a teacher step in?</h2>
+<p>In education, understanding a silence is only half the problem. The harder question is whether a teacher should step in, and when. <a href="https://doi.org/10.1111/bjet.13518">Cohn et al. (2025)</a> asked an experienced teacher to interpret a multimodal dashboard of two pairs of high-school students completing a collaborative programming task. The dashboard combined video, speech, screen activity, emotional cues, and participation patterns, so pauses could be read in context. The researchers distinguished a <em>difficulty threshold</em>, when students first appeared to struggle, from an <em>intervention point</em>, when support might actually help. In one scenario, pauses in discussion accompanied conceptual misunderstandings and ineffective debugging. In another, the students were still testing ideas and working meaningfully towards a solution. The teacher intervened in one case and waited in the other. The same outward signal—a pause—can call for different responses, which is why supporting collaborative learning takes such subtle, contextual understanding and skill. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Can AI know when to wait?</h2>
+<p>Lag sequential analysis can show what tends to happen before and after a silent pause, but it is still looking back across recorded patterns. It cannot yet determine, in real time, what silence means or what should happen next. An AI system might detect repeated silences and interpret them as a sign that a group is stuck, but it could just as easily interrupt students during productive collective reflection. Making worthwhile predictions would require the system to consider much more than the pause itself: who had been speaking, what the group was doing beforehand, how long the task had been running, whether the emotional tone had changed, and whether progress was still being made. The difficult part is not teaching AI to notice a pause. It is preventing the system from treating every pause as the same kind of problem.</p>
 
 
 
   
 
 
-<p><strong>4. For the First Time:</strong> Each day, select a common object and pretend you are seeing it for the first time. For example: a fallen leaf, a spoon, your fingers, a button, a weed in your garden, or a neighbor’s house. Ask yourself, “What is something new here that I haven’t noticed before?” Seeing the familiar differently will supercharge your creativity.</p>
-
-<p><strong>5. Celebration Awe:</strong> Some of the most delightful examples of awe are when we recognize the kindness, outreach, and generosity of others. The best question we can ask ourselves is, “Who inspired me today?” The response might be a teenager assisting an elderly person with her groceries, a police officer rescuing a brood of baby ducks from a storm drain, or a neighbor facing a medical hardship with uncommon courage.</p>
-
-<p><strong>6. Unanswered Questions:</strong> Get in the habit of asking and recording questions with no easy answers. A few examples may include, “Why are some birds flightless?”, “Why do children invent imaginary friends?”, “How did early fish (<em>Tiktaalik</em>) crawl up on land?”, or “How do we know the universe is expanding?” Don’t answer the questions, just continue to collect them. This regularly stimulates your curiosity while expanding your cognitive flexibility.</p>
-
-<p><strong>7. Travel Awe:</strong> Make it a regular practice to experience something that truly amazes and delights—both near and far. For example, examine a geological wonder (e.g., Arches National Park), journey to a local cathedral, roam a botanical garden, visit a planetarium, or discover an urban art museum. These are opportunities for your mind to experience “newness” and celebrate a vast array of original discoveries.</p>
-
-<p>Devotion to the incorporation of awesome activities into your daily life will widen your attention, quiet your inner critic, and remind you that there is a marvelous array of new discoveries that supersede everyday routines. And in that noticing, you will begin to create. Guaranteed. </p>
+<p>In the short term, dashboards like the one explored by Cohn et al. could help teachers notice groups that may need attention while leaving interpretation and intervention with the teacher. The longer-term challenge is whether AI can develop the social sensitivity that collective intelligence depends on: recognising both when a carefully chosen question or <a href="https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/can-ai-help-us-learn-to-like-each-other">alternative perspective</a> might move a discussion forward and when a group needs space to think for itself. The most socially sensitive AI may not be the one that always knows what to say, but the one that also knows when to stay quiet.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/creative-insights/202607/how-moments-of-awe-unlock-creative-thinking" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/can-ai-read-the-room" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/creative-insights/202607/how-moments-of-awe-unlock-creative-thinking</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creative-insights/202607/how-moments-of-awe-unlock-creative-thinking</guid>
-            <dc:creator><![CDATA[Anthony D. Fredericks Ed.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/can-ai-read-the-room</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/can-ai-read-the-room</guid>
+            <dc:creator><![CDATA[Michael Hogan Ph.D.]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/arches_-_1.jpg?h=c4e4c933&amp;itok=lMAbgMDT" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/geralt_dashboard_pixabay.jpg?itok=dzKPGnn5" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Does Your College Student Have ADHD?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-04/AKZ_0068-Edit-removebg-preview.jpg?itok=hBWA7YzL" alt="Deborah J. Cohan Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Does Your College Student Have ADHD?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">13 ways to best support your child in preparation for college.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Negative Effects of Using the Term “The Mentally Ill”]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/david_susman_2019-removebg-preview.jpg?itok=9xCiWPmj" alt="David Susman, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mental Health Stigma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Negative Effects of Using the Term “The Mentally Ill”</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Reducing mental health stigma through person-first language.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">College offers new opportunities and challenges for students with ADHD.</li><li style="margin-bottom:6px;">Parents can help by making sure their child is aware of key campus resources and organizational tools.</li><li style="margin-bottom:6px;">Knowing in advance where to find a good doctor and get medication if they need it is also valuable.</li>
+              <li style="margin-bottom:6px;">Everyday language choices can shape public attitudes toward people with mental health challenges.</li><li style="margin-bottom:6px;">Terms like "the mentally ill" can increase stigma.</li><li style="margin-bottom:6px;">Person-first language could lead to more respectful and understanding attitudes about mental health issues.</li>
             </ul>
           </div>
-                    <p>The majority of parents of college-bound students are understandably concerned about what the transition will be like for both their children and themselves. Perhaps you’re a parent reading this, and you have high hopes for your child to go off to college and have a successful journey, both academically and socially. But if you’re a parent of a child with ADHD, you may have other concerns and worries. This article addresses how to deal with those. </p>
+                    <p>The concept of “person-first language” in reference to mental health concerns literally puts the person first and then their condition. In other words, you would say “people with mental illness” instead of “the mentally ill.”</p>
+<p>Person-first language has been encouraged by many advocacy groups and organizations since the 1990s. The argument goes that person-first language is more respectful and conveys more dignity to the person. Also, it puts the primary focus on the person and doesn’t equate the person with their illness.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/brooke-cagle-g1kr4ozfoac-unsplash.jpg?itok=yFwIcKAT" width="320" height="213" data-insert-type="image" title="Brooke Cagle/ Unsplash" alt="Brooke Cagle/ Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Brooke Cagle/ Unsplash</div>
-</div>
-</div>
-</div>
-<p>As a college professor for over 30 years, I have witnessed the proliferation of this diagnosis among my students. Sometimes it is a formal diagnosis by a physician, and other times students have self-diagnosed, knowing that they have some learning differences. In my <a href="https://www.amazon.com/dp/1684818524">new book</a>, I address over a hundred issues to help the full range of students, and here I will specifically focus on how to best support your student with ADHD.</p>
+<p>Given my long-standing interest in this topic, I found it very interesting to read about innovative research that claims to be the first study to scientifically test the effects of using person-first versus non-person-first language.</p>
+<p>The study was simple but ingenious. Three groups of participants were used: 1) undergraduate college students; 2) adult community residents; and 3) professional counselors and counselors in training. Each of these three groups was split in half. One half of each group completed a survey about attitudes towards “people with mental illnesses.” The other half of each group completed the same exact survey except it used the phrase “the mentally ill” instead.</p>
 
-<h2>1. Understand what the college experience actually is.</h2>
-<p>It’s important to remember and to convey to your child that above all, college is a process for figuring out how to learn, how to think, and how to manage life. That means that this is an ongoing process that can’t be fully figured out and determined before college as much as we might want to do that.</p>
+<p>The results were quite interesting. The college students and the counselors who had “the mentally ill” survey language had significantly higher ratings on a subscale of items reflecting <em>authoritarianism</em>. They were more likely to endorse items reflecting sentiments such as people with mental illness need more control and discipline, they need to be hospitalized or kept locked up, we need to protect the public from them, and they are outcasts of society.</p>
 
-<p>Parents are often hoping for quick fixes, especially for the summer between high school graduation and the beginning of college. And while it’s a good time to do certain preparatory things to feel ready, it’s the experience of being in college that will help students figure out some of the things that work best for them.</p>
+<p>The college students and counselors who had “the mentally ill” language on the survey also had significantly higher ratings on a subscale of items measuring <em>social restrictiveness</em>. These items included things like keeping people with mental illness isolated from the community, not having them live next door, having them excluded from public office, and denying their individual rights.</p>
 
-<h2>2. Procrastination is common in college, and it’s certainly very common among students with ADHD.</h2>
-<p>However, research shows that procrastination is often because of a fear of failure as well as a fear of success, yet the good news is that procrastination generally lessens as we get older. </p>
-<h2>3. The single, most important thing that students can do is to invest in a calendar system that can work for and with them.</h2>
+<p>Adult community residents showed different results when they were given “the mentally ill” version of the survey. They gave significantly lower ratings on a subscale of items reflecting <em>benevolence</em>. In other words, they were more likely to agree with items such as not spending more tax money on mental health services, not providing the best possible care to people with mental illness, not feeling like people with mental illness deserve sympathy, and not having a more tolerant attitude toward them.</p>
 
-<p>And by invest, I really mean psychologically. There are plenty of online tools for this, though experience tells me that the act of writing it down is essential. Just as research shows that taking handwritten notes during a lecture is most effective, it is also the case that paper calendars and lists can ensure that nothing is out of sight and out of mind.</p>
-
-<p>The act of writing something down can make it more indelible in our memory. People with ADHD often function better when they can see something and be reminded of it. </p>
-<h2>4. It’s really important to go through each syllabus thoroughly.</h2>
-<p> See what each professor is expecting in the class, and enter due dates into a calendar as well as dates by which certain projects need to be started. This can be done in a fun way with colored markers to signify different courses.</p>
-
-
-<h2>5. Students often benefit from also making a master list of everything that they need to do with due dates (soonest to farthest out), so that they can see this in both list and calendar form.</h2>
-<p>Project management works best when things are broken up into smaller, manageable chunks with goals and dates. </p>
-
-<h2>6. Students with ADHD benefit from having classes scheduled every day or almost every day.</h2>
-<p>This means there is a constant touchstone, and there aren’t fully open days with seemingly aimless time. For most people, knowing that they have the entire day can feel both wonderful and freeing but also overwhelming once in it. Students might find that they actually get more done in the hour or two between things than they do when they have five wide-open hours in front of them.</p>
-
-
-
+<p>Finally, the adult community residents with “the mentally ill” language also had significantly lower ratings on the subscale called <em>community mental health ideology</em>. Their responses were indicative of not providing neighborhood or local community services to people with mental illness, seeing people with mental illness as a risk to community residents, being fearful of them in the neighborhood, and not including them as part of the community.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
   
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
+  </div>
 
-<h2>7. Know your campus resources.</h2>
-<p>Students can benefit from campus centers that provide more information, tools, and resources for dealing with these issues, as well as ways to connect with others who have dealt with these issues. This includes offices like the academic success center, tutoring center, and counseling center, many of which host workshops on time management, stress reduction, study habits, effective reading, etc. </p>
+<p>These findings are quite concerning. As the authors concluded in their discussion, “no one [was] immune” from the negative effects of the non-person-first language in the survey. All three groups (students, adult community residents, and counselors) showed less tolerance in their attitudes toward people with mental illness when the phrase “the mentally ill” was used in the survey. The authors go on to discuss how language about mental illness matters in a variety of contexts, including college textbooks, in the media, and in resources for health care professionals.</p>
 
-<h2>8. Students benefit from a well-designed schedule, but one that also has some room for the spontaneity that helps them be who they are.</h2>
-<p>Things like regular exercise, nutritious meals, time in nature, reduced screen time, and good sleep support all of this.</p>
-<h2>9. It’s important to help support students in ways that don’t let the diagnosis define them.</h2>
+<p>This study is quite illuminating and thought-provoking, but it would be beneficial to do further research to explore this issue in more depth. How do other terms and phrases related to people with mental illnesses impact our thoughts, attitudes, and behaviors toward them? These are important questions to answer.</p>
 
-<p>In recent years, students have become so open about mental health issues that they are also talking about this in a way that enables them to take it on as their main identity. </p>
-<h2>10. The reality is that we live in a society that has an oversaturation of information and so many different things pulling on our attention and energy.</h2>
-
-<p>All of that generates a lot of outside noise and internal noise. Grounding practices that help to center the body and mind can be useful for people with ADHD or for anyone really, including yoga and meditation.</p>
-<h2>11. Students are often well served by being open with their professors about any issues they have.</h2>
-
-<p>There are many professors who themselves struggle with ADHD, anxiety, depression, etc., and they may even feel comfortable sharing what does and doesn’t work for them.</p>
-<h2>12. Have an open conversation about the extent to which your student plans to make use of the Office for Students with Disabilities.</h2>
-<p>Be sure to have all documentation that will be required if accommodations are going to be utilized. Consider role-playing situations for how best to self-advocate. </p>
-
-<h2>13. If your student is treated with medication, be sure to locate a psychiatrist, therapist, and pharmacy near campus.</h2>
+<p>In the meantime, each of us can take steps to use person-first language in our everyday conversations to convey respect and affirmation to those who continue to struggle with mental health challenges. </p>
+<p><em>A version of this post also appears at davidsusman.com. Copyright 2026.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/social-lights/202607/does-your-college-student-have-adhd" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-recovery-coach/202607/negative-effects-of-using-the-term-the-mentally-ill" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/social-lights/202607/does-your-college-student-have-adhd</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-lights/202607/does-your-college-student-have-adhd</guid>
-            <dc:creator><![CDATA[Deborah J. Cohan Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-recovery-coach/202607/negative-effects-of-using-the-term-the-mentally-ill</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-recovery-coach/202607/negative-effects-of-using-the-term-the-mentally-ill</guid>
+            <dc:creator><![CDATA[David Susman, Ph.D.]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/brooke-cagle-g1kr4ozfoac-unsplash.jpg?h=efc96e6e&amp;itok=3fo2YTV1" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-chinarianphotographer-9859390.jpg?h=8fd70c9a&amp;itok=QWkcWFaf" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[A Celebration of Our Close Kinship with Other Primates]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Environment</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Celebration of Our Close Kinship with Other Primates</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Lennette Newell's new book is a science-based photographic gem.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How AI Chatbots Can Amplify Hypomania]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/john-t-removebg-preview_af_.jpg?itok=Wq-48Ee5" alt="John Torous MD, MBI" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How AI Chatbots Can Amplify Hypomania</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When AI removes the friction other people provide, expansive ideas can spiral.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The first of its kind, it offers rare all-access insights into these uniquely mesmerizing animals.</li><li style="margin-bottom:6px;">The intrigue of observing each species brings deep understanding of commonalities that lead to coexistence.</li><li style="margin-bottom:6px;">The book seeks to inspire empathy and responsibility for primates through visual storytelling.</li>
+              <li style="margin-bottom:6px;">Chatbots rarely trigger hypomania or psychosis but often intensify an episode already underway.</li><li style="margin-bottom:6px;">In hypomania or psychosis, a chatbot can feel less like an "other" and more like your own thoughts.</li><li style="margin-bottom:6px;">By affirming ideas without human friction, chatbots can weaken reality testing and longer chats fare worse.</li>
+            </ul>
+          </div>
+                    <p><em><strong>Co-authored by Jill Noorily</strong></em><strong>, </strong><em><strong>Mason Granof</strong></em><strong>, and </strong><em><strong>Kathryn Ledley </strong></em><strong>at the Division of Digital Psychiatry at BIDMC.</strong></p>
+<p><em>This post is part 4 of a series.</em></p>
+<p><em>A patient with Bipolar II disorder presents for follow-up after a recent hypomanic episode. During the episode, he began using an AI chatbot each night after his partner went to bed, initially as a place to brain dump the ideas racing through his head before trying to sleep. As the conversations grew longer, sleep was pushed aside.</em></p>
+
+<p><em>The chatbot helped organize scattered thoughts into increasingly coherent ideas, eventually transforming a business concept into plans for a book, complete with chapter outlines and marketing strategies. As his confidence grew, he became convinced the project would be a major success and began asking friends and family for money to pursue it. When they expressed hesitation, he grew frustrated and returned to the chatbot, which continued refining, expanding, and validating the idea. </em></p>
+
+<p>The chatbot did not cause his hypomania, but it changed how the episode unfolded, building scaffolding and accelerating ideas that otherwise might have remained fleeting.</p>
+<p>During our Learning Collaborative with the Society of Digital Psychiatry, we heard several versions of this story. Clinicians discussed patients using chatbots to extend obsessive rabbit holes, reinforce rumination, or keep expansive thinking going for hours. <a href="https://www.psychologytoday.com/us/blog/digital-mental-health/202607/why-just-a-tool-ai-can-still-feed-ocd-compulsions">In our last article</a> in this series, we argued that treating AI as “just a tool” can create risks that are just as harmful as risks created by anthropomorphic AI. Our final collaborative session sparked a conversation about situations in which a chatbot functions as an extension of someone’s own thinking.</p>
+
+<p>Psychiatrists Alexandre Hudon and Emmanuel Stip described this idea in a paper on “the collapse of alterity,” a dynamic they describe in psychosis that may extend to hypomania. In the paper, they argue that during certain psychiatric states, the chatbot may stop feeling like an independent “other” and instead feel like a continuation of your own cognition, which presents more nuanced risks [1]. The same framing can apply to “AI psychosis,” and a chatbot may trigger a new psychotic episode, but is much more likely to exacerbate the trajectory of a current illness [2].</p>
+
+<p>This type of maladaptive use may interrupt reality testing by affirming a line of thinking without the grounding another human being would provide. It can potentially accelerate thoughts in the hyperconnective state characteristic of certain presentations of mania, hypomania, and psychosis. Chatbots may also be more willing to engage with ideas that others would find difficult to understand, making this technology particularly attractive to someone experiencing altered cognition. Over time, particularly during hypomania or obsessive thinking, the chatbot can become the primary place someone goes to test ideas. The more that happens, the less those ideas encounter the friction that other people naturally provide.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Tips for the patient: </h2>
+<ul>
+<li><strong>Get a second (artificial and human) opinion: </strong>If one model seems convinced your idea is brilliant, check it with another model, though remember both may be inclined to agree with you. There is some early evidence that newer AI models may be less likely to engage in these types of discussion, so newer models may be safer [3].</li>
+<li><strong>Watch for functional changes:</strong> Pay attention to whether AI conversations are replacing sleep, pulling you away from friends or family, or becoming the first place you turn with every new idea. While we are still learning much about AI harm, it is clear that longer conversations are associated with worse outcomes.</li>
+<li><strong>Try turning off AI history: </strong>To make a model a bit less personalized, restart or turn off memory. With too much history about you, AI models may begin to make statements that feel correct even when they are wrong.</li>
+<li><strong>See how easily AI makes connections:</strong> Ask a chatbot to connect two completely unrelated ideas. You’ll quickly discover that generating convincing connections is exactly what these models are designed to do. We learned much about how Pluto and pineapples are related in drafting this piece (“both are famous victims of misclassification”)….</li>
+</ul>
+
+<h2>What’s next</h2>
+<p>This is the last article in our series about the collaborative that was led by the Division of Digital Psychiatry and the Society of Digital Psychiatry, which created a free, interactive training at <a href="http://ai-digital-literacy.net"><strong>ai-digital-literacy.net</strong></a>. The course expands on the topics discussed throughout this series, including AI literacy, recognizing concerning patterns of use, documenting AI-related factors in clinical care, and practical strategies for responding when patients disclose AI use. As technology evolves, so will the training.</p>
+
+<p>We see the next steps as expanding these conversations with different hospitals, mental health centers, clinical groups, and training centers. If you’re interested in using these learning materials or collaborating with us, please reach out.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/digital-mental-health/202607/how-ai-chatbots-can-amplify-hypomania" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/digital-mental-health/202607/how-ai-chatbots-can-amplify-hypomania</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/digital-mental-health/202607/how-ai-chatbots-can-amplify-hypomania</guid>
+            <dc:creator><![CDATA[John Torous MD, MBI]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/geralt-euro-447209_640.jpg?h=eed80e8e&amp;itok=tpC40Plz" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Industry and D.C. Are Racing Ahead on Psychedelics. They Should Let Science Lead.]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jeffreylieberman_1.jpg?itok=az--j7OZ" alt="Jeffrey Lieberman M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychedelics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Industry and D.C. Are Racing Ahead on Psychedelics. They Should Let Science Lead.</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Urgency in psychedelics research must not replace caution.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">President Trump's order and Eli Lilly's investment signal interest in psychedelics, not scientific validation.</li><li style="margin-bottom:6px;">Long-term durability of psychedelics, safety for patients, and therapy protocols remain understudied.</li><li style="margin-bottom:6px;">Acceleration should cut red tape, not lower evidence standards.</li><li style="margin-bottom:6px;">It is yet unclear if benefits come from psychedelics themselves, therapy, the setting, or some combination.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/screenshot_2026-07-23_at_1.22.29_pm.png.jpg?itok=70m4EfUk" width="320" height="401" data-insert-type="image" alt="Critically endangered Western lowland gorilla." title="Lennette Newell"></div>
-<div class="caption">Critically endangered Western lowland gorilla.</div>
-<div class="insertArea--origin subtext">Source: Lennette Newell</div>
-</div>
-</div>
-</div>
-<p>While there are a good number of photographic books about a wide variety of non-human primates, renowned photographer Lennette Newell's new <a href="https://www.amazon.com/Primates-Kinship-Creatures-Lennette-Newell/dp/1943876983/ref=sr_1_1?crid=2YRZVYB2CAGV2&amp;dib=eyJ2IjoiMSJ9.WYyfxOGyyM1vOy127Xx9Z862pyda30ZUSas8ioUia5I.TGZ60SludoIj-eqXp4LEgS03Ro72r4Z3p2sF6LmPz_0&amp;dib_tag=se&amp;keywords=primates%2Ba%2Bkinship%2Bwith%2Ball%2Bcreatures&amp;qid=1784822357&amp;sprefix=primates%2Ba%2Bkinship%2Bwith%2Ball%2Bcreature%2Caps%2C207&amp;sr=8-1">book</a> <em>Primates: A Kinship with All Creatures</em> stands out by offering unique, science-based insights into this group of fascinating, diverse mammals. Here's what she had to say about this highly unique collection of photographs and facts.</p>
-
-<p><strong>Marc Bekoff: Why did you publish </strong><em><strong>Primates: A Kinship with All Creature</strong></em><strong>s?</strong></p>
-<p><strong>Lennette Newell: </strong>I did not set out to do a primate book. I started photographing some primates that were confiscated after being brought into the U.S. on the black market. My work as a commercial photographer (in the niche market of pet advertising) gave me contacts across the entire animal network. I was able to photograph these primates, and from there my interest only grew. I began photographing every available situation, whether in a studio set at a facility or at a location; it became a fascination I wanted to share with a broader audience. My world has become clearer through these experiences, and they have brought to light just how important each and every species is to our own survival. </p>
-
-<p><strong>MB: How does your book relate to your background and general areas of interest?</strong></p>
-<p><strong>LN:</strong> My life started on a ranch in the high plains where my father was a large-animal veterinarian. I was surrounded by animals from birth; they were part of our larger family. The animals were my teachers, my companions, providing knowledge and comfort, and I zigged and zagged with their body language completely; their flow of emotions entertained me, saddened me, and became my world. All animals share a common language, while each species has its own hierarchy. Our commonalities are truly the same. We all show affection and love, grieve, express stress, and, if necessary, threaten in order to save ourselves and our family. I have always loved all creatures, and my curiosity only grows with age for a glimpse into other creatures’ souls less known to me. The intrigue of observing each species brings more questions and a deeper understanding that our commonalities lead to healthy coexistence. </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/primates_a_kinship_cover.jpg?itok=D9lqpLf7" width="320" height="403" data-insert-type="image" title="G Editions/with permission." alt="G Editions/with permission."></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/jarmoluk-laboratory-2815641.jpg?itok=eKkavyY6" width="320" height="213" data-insert-type="image" title="jarmoluk / Pixabay" alt="jarmoluk / Pixabay"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: G Editions/with permission.</div>
+<div class="insertArea--origin subtext">Source: jarmoluk / Pixabay</div>
 </div>
 </div>
 </div>
-<p><strong>MB: Who do you hope to reach?</strong></p>
-<p><strong>LN:</strong> Everyone, young kids who look at photos, curious humans, animal lovers, suspicious folks who are unsure why I call them our relatives, nature and sustainability advocates, corporate executives, and all primate specialists, psychologists, and passionate souls whose love for all creatures will help save them. Kinship is nature.</p>
+<p dir="ltr"><em>"You shall know the truth, and the truth shall make you mad."</em> —Aldous Huxley</p>
+<p dir="ltr">In the span of three months, psychedelic medicine crossed two important thresholds.</p>
+<p dir="ltr">In April, President Donald Trump signed an executive order making it federal policy to <a href="https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health">accelerate psychedelic research</a> and “appropriate drug approvals” for serious mental illness. Then, in July, <a href="https://www.cnbc.com/2026/07/16/eli-lilly-to-buy-psychedelics-maker-ataibeckley-2point8-billion.html">Eli Lilly agreed to acquire AtaiBeckley</a>, a biotechnology company developing psychedelic and psychedelic-derived treatments. </p>
 
-<p><strong>MB: What are some of the topics you consider and what are some of your major messages? </strong></p>
-<p><strong>LN:</strong> I am a compassionate photographer, presenting images of these primates who came before us millions of years ago as creatures equal to us and valued as any <em>Homo sapiens</em> would be. There is no question I am connected to them and find inspiration in each species, expanding my own knowledge of myself.</p>
+<p dir="ltr">These developments are understandably being read as validation of the field. But they validate two things more clearly than they validate the medicines themselves: that the federal government wants development to move faster, and that a major pharmaceutical company believes the commercial opportunity is substantial.</p>
 
-<p>The images presented in the book are black-and-white; it is a love story to my viewers. Hold the portraits close to your heart with no distractions. Examine the whole of every image and its details; close the book after a session and come back to admire and ponder what you believe transpired in this moment. Consider our kinship. Contemplate our responsibility to those creatures who have come before us. Celebrate the natural world we live in.</p>
+<p dir="ltr">Neither political commitment nor market valuation is a scientific verdict.</p>
+<p dir="ltr">That distinction matters because psychedelic therapies may indeed become important treatments. Patients with treatment-resistant depression, post-traumatic stress disorder, substance-use disorders, and other disabling illnesses urgently need better options. The current evidence contains credible signals of benefit, and those signals justify serious investment and accelerated research.</p>
 
-<p>All primates live in fragile ecosystems with many under pressure from climate change, habitat loss, and an imbalance due to disease and other factors. Primates had a larger territory to live in decades ago, which allowed younger primates to breed with other troops, keeping their DNA strong. Now the neighboring troop, which also lives close to their troop, is the only choice due to habitat loss. As their territory becomes smaller, many elements of their ecosystem are disappearing, degrading the quality of life for many primate species.</p>
+<p dir="ltr">But urgency is not the same as haste. The American Psychiatric Association, while welcoming federal support for research, responded to the executive order by emphasizing that <a href="https://www.psychiatry.org/news-room/news-releases/apa-responds-to-executive-order-on-psychedelics">the scientific evidence remains inadequate</a> to endorse psychedelic treatments for psychiatric disorders outside approved investigational studies. It called for trained clinicians, controlled settings, and the same scientific and ethical standards applied to other promising medicines. </p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/lennettenewell_proboscis.jpg?itok=eNprQo23" width="320" height="373" data-insert-type="image" alt="Endangered proboscis monkey." title="Lennette Newell."></div>
-<div class="caption">Endangered proboscis monkey.</div>
-<div class="insertArea--origin subtext">Source: Lennette Newell.</div>
+<p dir="ltr">The central problem is not that psychedelic drugs have been proved ineffective or unacceptably dangerous. It is that their effects are unusually difficult to evaluate—and unusually difficult to separate from the circumstances in which they are administered.</p>
+<p dir="ltr">Consider blinding, one of the foundations of a reliable clinical trial. In an ordinary drug study, neither patients nor investigators are supposed to know who received the active medication and who received the placebo. But a person who undergoes an intense alteration in perception, emotion, or sense of self-will often knows that an active psychedelic has been administered. The therapist may know, too.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
-</div>
-</div>
-<p>Every habitat, whether natural or in an accredited sanctuary, zoo, or conservation center, is important for the survival of primate species. If you live in California, you can visit the Gibbon Conservation Center where I photographed the gibbons for the book. You can also explore the New England Primate Conservancy for more detailed knowledge about these animals.</p>
 
-<p>Animals should not be viewed as products but as part of our valued natural world. Some primates are understandably hunted for food. Our view of the natural world needs to change. How does this happen? I share my most compassionate visuals in hopes people will connect; on a larger scale, organizations such as the world-renowned Jane Goodall Institute are at the forefront of showing why we need to work for peaceful coexistence rather than exploitation. </p>
+  </div>
+
+<p dir="ltr">A study may therefore be double-blind on paper while being functionally unblinded in practice. FDA reviewers identified this problem explicitly during their assessment of MDMA for PTSD, observing that the drug’s acute effects made blinding nearly impossible and created a risk of expectancy bias. </p>
+<p dir="ltr">Then there is the question of what the treatment actually is.</p>
+
+<p dir="ltr">Many psychedelic protocols combine a drug with preparatory meetings, hours of monitored administration, psychological support, and post-session “integration.” These elements may be essential to safety and perhaps to efficacy. But they also make it difficult to determine whether improvement results from the molecule, the psychological intervention, the therapeutic relationship, expectancy, the carefully constructed environment—or some interaction among them.</p>
+
+<p dir="ltr">This is not an academic distinction. Regulators, clinicians, and insurers need to know what they are approving, delivering, and paying for. Is it a drug? A drug-plus-psychotherapy package? A specialized clinical service? Could the same results be reproduced by ordinary treatment centers, or do they depend on unusually committed investigators and carefully selected participants?</p>
+
+<p dir="ltr">The FDA’s review of MDMA-assisted treatment offers a cautionary case. Published Phase 3 trials had reported clinically meaningful improvements in PTSD. Yet the FDA subsequently concluded that the application <a href="https://www.nbcnews.com/health/health-news/fda-rejects-psychedelic-mdma-assisted-therapy-ptsd-rcna165531">did not provide substantial evidence of effectiveness</a> or establish adequate safety for approval in its submitted form. It recommended another randomized trial with blinded long-term follow-up. </p>
 
 
 
   
 
 
-<p>My journey to Borneo included the Borneo Nature Lodge. They work closely with Tomoko Kanamori of Japan’s Orangutan Research Center. They have a first-generation forest, one of the few remaining; it is incredibly beautiful. The guides were able to spot the orangutans due to the researchers on the ground. This cohesive arrangement ensures revenue to the government from tourists, protects the primates, and supports Japan’s Orangutan Research Center’s work. </p>
+<p dir="ltr">That decision did not prove that MDMA cannot work. It showed that positive symptom scores do not settle every question that matters.</p>
+<p dir="ltr">Durability is especially important. Depression, PTSD, and addiction are generally chronic or recurrent disorders. An improvement lasting several weeks may be valuable, but it does not by itself tell clinicians when patients should be retreated, which patients are likely to relapse, what maintenance care they will require, or whether repeated exposure changes the benefit-risk balance. Long-term studies must assess functioning, hospitalization, suicidality, substance use, employment, relationships, and quality of life—not merely changes on a symptom scale.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<p><strong>MB: How does your book differ from others that are concerned with some of the same general topics?</strong></p>
-<p><strong>LN:</strong> I approached this as a photographer; therefore, my book is a visual story with intimate, personal black-and-white photographs. The time I spent with each primate was one of respect and shared interconnection. Our understanding of each other was naturally instinctive for both of us. I use the word instinctive quite a bit. I feel my movements, my thoughts, the thoughts of the primates, and their movements become one, as if we have known each other for a while; nothing to think about; our language coincides. This natural cohesion brings forth the photographs I present in this book for further evaluation, open to each viewer’s wonder and creativity.</p>
+  </div>
 
-<p><strong>MB: Are you hopeful that as people learn more about these amazing beings they will treat them with more respect, compassion, and dignity?</strong></p>
-<p><strong>LN:</strong> Yes, to quote Jane Goodall, “Only if we understand will we care.”</p>
-<p>This book required years of photography, and I loved each minute. This understanding and these experiences deepened my respect for Mother Nature. Simply magnificent, to this day I am overwhelmed with this gift that only requires respect and careful thought to live within this abundance, carefully using our sense of selves that weaves a natural web to our shared ecosystems. </p>
+<p dir="ltr">Safety also cannot be inferred solely from the relatively low rate of catastrophic events in small, highly screened trials. Research participants are commonly selected to exclude people with psychosis vulnerability, bipolar-spectrum illness, unstable substance use, significant cardiovascular risk, or complicated medication regimens. Yet many of the patients who seek these treatments after approval—or outside the medical system—will have exactly those characteristics.</p>
+
+<p dir="ltr">Medication discontinuation adds another layer of risk. Patients may be asked to taper antidepressants or other psychiatric drugs before receiving a psychedelic. That taper is not an administrative detail. It can produce withdrawal symptoms, relapse, suicidality, or destabilization and should be studied and monitored as an active clinical intervention.</p>
+
+<p dir="ltr">The word “psychedelic” itself can obscure more than it clarifies. Psilocybin, 5-MeO-DMT, MDMA, ketamine, and ibogaine differ in receptor pharmacology, subjective effects, duration, cardiovascular risk, abuse liability, therapeutic rationale, and required medical infrastructure. Ibogaine’s arrhythmia risk, for example, creates fundamentally different monitoring requirements from those associated with psilocybin. Policy that treats all of these compounds as one therapeutic movement risks flattening clinically consequential differences.</p>
+
+<p dir="ltr">President Trump’s order does not, in its text, direct the FDA to approve a particular drug or discard statutory approval requirements. It establishes priority and seeks faster consideration of rescheduling after successful Phase 3 development. It also specifies that timely approvals remain for drugs meeting the standards of the Federal Food, Drug, and Cosmetic Act. </p>
+
+<p dir="ltr">That qualification should govern implementation. Acceleration should mean removing needless administrative delays; it should not mean lowering the evidentiary threshold because the illness is serious, the political leadership is enthusiastic, or investors have already assigned a multibillion-dollar value to the field.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">Lilly’s involvement could bring substantial benefits. Large pharmaceutical companies have resources for manufacturing, multicenter trials, regulatory science, and pharmacovigilance that smaller biotechnology firms often lack. But the deal also illustrates how financial expectations can become attached to regulatory milestones. </p>
+
+<p dir="ltr">Before widespread approval, pivotal trials should formally measure whether participants, clinicians, and raters correctly guessed treatment assignment. Psychological-support models should be defined, monitored for fidelity, and subjected to independent oversight. Longer follow-up should establish relapse rates, retreatment needs, and functional outcomes. Adverse-event systems should capture not only experiences labeled unpleasant but also apparently “positive” effects relevant to impairment or abuse potential. Therapist credentialing, boundaries regarding touch, session recording, grievance procedures, site accreditation, and emergency protocols should be treated as core patient protections rather than optional professional customs.</p>
+
+<p dir="ltr">Caution is not an argument for prohibition. Nor is it indifference to patients who are suffering. It is the discipline required to prevent enthusiasm from outrunning knowledge—and to ensure that genuinely effective treatments survive the consequences of premature commercialization.</p>
+<p dir="ltr">Patients deserve urgency. They also deserve evidence strong enough to bear the weight now being placed upon it.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202607/a-celebration-of-our-close-kinship-with-other-primates" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/shrink-speak/202607/industry-and-dc-are-racing-ahead-on-psychedelics-they-should-let-science" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202607/a-celebration-of-our-close-kinship-with-other-primates</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202607/a-celebration-of-our-close-kinship-with-other-primates</guid>
-            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/shrink-speak/202607/industry-and-dc-are-racing-ahead-on-psychedelics-they-should-let-science</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/shrink-speak/202607/industry-and-dc-are-racing-ahead-on-psychedelics-they-should-let-science</guid>
+            <dc:creator><![CDATA[Jeffrey Lieberman M.D.]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/lennettenewell_proboscis.jpg?itok=Pt80yTyx" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/jarmoluk-laboratory-2815641.jpg?itok=Mdy6sQGq" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Difference Between Needs and Wants]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-06/Lumanlan.jpg?itok=u-qf3M5y" alt="Lumanlan" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Difference Between Needs and Wants</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What parents call needs are usually strategies, and naming the real need helps.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Almost in Love, and AI's Limits of "Close Enough"]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Almost in Love, and AI's Limits of "Close Enough"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A case for the things that can't be approximated.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A need is what you require to thrive. A want is the specific form you're hoping that need arrives in.</li><li style="margin-bottom:6px;">Most parent frustrations — from messy houses to partner conflicts — point to needs for ease, rest, or support.</li><li style="margin-bottom:6px;">When both people's needs are visible, conflicts stop being about who wins and start being about what works.</li>
+              <li style="margin-bottom:6px;">Why "close enough" fails in the one place it can't.</li><li style="margin-bottom:6px;">What a philosopher's thought experiment about the color red has to do with a banana split.</li><li style="margin-bottom:6px;">Two words that might be doing more damage than "artificial intelligence."</li>
             </ul>
           </div>
-                    <p dir="ltr">I remember saying to my daughter when she was about two: "You WANT to play, but I NEED to cook dinner."</p>
-<p dir="ltr">It felt true in the moment. The cooking was urgent and playing was optional — something that could happen once the chores were done. One was a need, one was a want, and I got to decide which was which.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/uschi68-ki-10127900.png.jpg?itok=Hayoz27r" width="320" height="249" data-insert-type="image" title="Image by Uschi from Pixabay." alt="Image by Uschi from Pixabay."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Image by Uschi from Pixabay.</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Think about it. A photograph of a fire will warn you not to touch the stove. But it won't burn your hand. For that job, close enough is not just adequate, it's the whole point. Nobody wants the real fire for a warning label.</p>
+<p dir="ltr">Yet, most of what we ask AI to describe lives in that same category. It's a simple summary or the directions to a new restaurant. Close enough gets you there, and there was never a reason to demand more.</p>
 
-<p dir="ltr">Then I learned that the way I was thinking about it was making things harder.</p>
-<h2 dir="ltr">What Are Needs?</h2>
-<p dir="ltr">In <a href="https://yourparentingmojo.com/captivate-podcast/nvc/">Nonviolent Communication</a> (NVC), needs are what every person — adult or child — requires to feel grounded, connected, and at ease. And what we tend to call our "needs" as parents — getting dinner cooked, having the house under control, getting everyone out the door — are often wants, or strategies: one specific way we're hoping a real need will get met.</p>
+<p dir="ltr">But it's my contention that this phrase has begun represent something it really shouldn't.</p>
+<p dir="ltr">AI can generate a description of a banana split so vivid you can almost taste it. The ice cream against the hot fudge covered with whipped cream waits for us as digits that are transformed into dollops. Each sensory detail arranged in the right order, learned from ten thousand other descriptions of ten thousand other banana splits. It reads close enough to convince you it knows. </p>
 
-<p dir="ltr">Meanwhile, what we tend to dismiss as our children's "wants" — play, physical closeness, having a say, being taken seriously — are needs too.</p>
-<p dir="ltr">In NVC, a need is <a href="https://www.cnvc.org/about/purpose-of-nvc">something people require in order to thrive</a>, including physical needs like food and water, and intangible ones like respect, meaning, and connection. </p>
+<p dir="ltr">The key word here is almost, not taste—because AI doesn't know. It has never been cold. Nothing in the processing chain that produced those sentences ever put a spoon in its mouth.</p>
+<p dir="ltr">But here's the part that really interests me. The failure isn't that the description falls a little short of the taste or that the way a photocopy falls a little short of the original. That would put both on the same line, one just further along than the other. And it would suggest that more effort, more parameters, more training data might close the distance eventually. It won't. There's no line running between a description of cold and the feeling of cold. One is not a fainter or reduced version of the other. </p>
 
-<p dir="ltr">The needs list organizes these into eight categories:</p>
-<ul>
-<li dir="ltr"><strong>Connection:</strong> acceptance, belonging, love, empathy, trust, being understood</li>
-<li dir="ltr"><strong>Peace:</strong> calm, ease, order, harmony, respect</li>
-<li dir="ltr"><strong>Honesty:</strong> authenticity, integrity, presence</li>
-<li dir="ltr"><strong>Meaning:</strong> growth, creativity, learning, purpose, competence</li>
-<li dir="ltr"><strong>Safety:</strong> consistency, physical and emotional security</li>
-<li dir="ltr"><strong>Autonomy:</strong> choice, freedom, independence, space</li>
-<li dir="ltr"><strong>Relaxation/Leisure:</strong> play, fun, rest, joy, mental space</li>
-<li dir="ltr"><strong>Physical Well-Being:</strong> food, water, sleep, exercise, self-care</li>
-</ul>
+<p dir="ltr">The name for this is the Knowledge Argument. Many people know it as <a href="https://philosophersmag.com/frank-jackson-latter-day-physicalist/">Mary's Room</a>, after a thought experiment Frank Jackson proposed in 1982. A scientist named Mary, raised in a black-and-white room, has read everything there is to read about color. Every wavelength, every photon. Then she walks outside and sees red for the first time. Did she learn something new?</p>
 
-<p dir="ltr">Note that this list is not exhaustive — it’s intended to be an approachable starting point for overwhelmed parents.</p>
-<p dir="ltr">Evidence indicates that needs of <a href="https://link.springer.com/article/10.1007/s11031-014-9450-1">autonomy, competence, and connectedness</a> are somewhat universal, although individuals have variations in how strongly they show up.</p>
-<p dir="ltr">Kids with strong sensory needs might not be able to do anything before their need for comfort is met. Many autistic kids feel much more settled when their needs for order and consistency are met. Most parents I work with have strong needs for rest, ease, and collaboration. ‘</p>
+<p dir="ltr">The easy or maybe comfortable answer, the one that lets machines and minds sit on the <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202602/were-measuring-ai-on-the-wrong-ruler">same line</a>, is no. She just gained the ability to recognize red when it's in front of her. Same knowledge, just repackaged.</p>
+<p dir="ltr">I don't buy it, and the banana split is why. Mary at least had a body that had felt something before she opened that door and her leap from fact to experience had a runway. A machine describing taste has none.</p>
 
-<p dir="ltr">Different people, different needs — but we all have them in some form.</p>
-<h2 dir="ltr">What Is the Difference Between Needs and Wants?</h2>
-<p dir="ltr">A want isn't the opposite of a need. A want is one specific way you picture a need getting met.</p>
-<p dir="ltr">The need might be rest, mental space, or ease. The want is the particular form you're hoping that need arrives in. "I need you to stop jumping on the couch" is one strategy to meet a need for mental space. But it's not the only one. I could move to another room. I could put on headphones. I could look at what my child needs — movement, attention — and address that instead.</p>
-
-<p dir="ltr">One parent described it to me this way: "The idea that I could change my behavior to meet my need was revelatory."</p>
-<p dir="ltr">When you're locked onto one specific strategy, you and the other person are working against each other. When you can name the underlying need, more paths open up.</p>
-<h2 dir="ltr">What Parents Call "Needs" Are Usually Strategies</h2>
+<p dir="ltr">That's the same gap an AI-written condolence note falls into, and a love letter too. We call it close enough, as if measuring how near the description landed. But there's nothing here to measure. The phrase isn't naming a small shortfall, but for an absence.</p>
+<p dir="ltr">The two most unsettling words in AI right now might not be artificial or intelligence. They might be close enough. Almost in love isn't close to love at all. It's a lifetime away.</p>
 
 
-<p dir="ltr">"I need the house to be under control." "I need you to unload the dishwasher." "I need bedtime to stop taking so long." These sound like needs. And they are, but not the ones you think.</p>
-<p dir="ltr">Getting the house under control is one strategy to meet a need for ease, safety, or competence. Having a partner unload the dishwasher is one strategy to meet a <a href="https://pubmed.ncbi.nlm.nih.gov/30611023/">need for support</a> or shared responsibility. When we mistake the strategy for the need, we get stuck. There's only one solution available, and it requires someone else to change.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202607/almost-in-love-and-ais-limits-of-close-enough" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202607/almost-in-love-and-ais-limits-of-close-enough</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202607/almost-in-love-and-ais-limits-of-close-enough</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/uschi68-ki-10127900.png.jpg?itok=GEk0MTPB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Perseverance in Life]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Greg-Obrien.jpg?itok=UpuwT0GJ" alt="Greg O'Brien" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Positive Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Perseverance in Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Moving forward in the face of crushing obstacles</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Perseverance often means steady faithfulness, not dramatic acts of courage.</li><li style="margin-bottom:6px;">Forward motion—no matter how slow—is vital when facing crushing obstacles.</li><li style="margin-bottom:6px;">Studies show perseverance and optimism can help reduce anxiety, depression, and panic.</li>
+            </ul>
+          </div>
+                    <blockquote><p><em>“If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do, you have to keep moving forward.” </em>— Martin Luther King, 1960</p>
+</blockquote>
+<p>I’ve been crawling a lot of late.</p>
+<p>I’m not alone in this. Life, at times, offers all of us a haversack of trials—crushing burdens in the moment and beyond.</p>
 
-<p dir="ltr">I once picked a fight with my husband because he didn't unload the dishwasher. It wasn't really about the dishwasher. I had needs for support and partnership that I didn't know how to articulate. When I eventually named those — not the strategy, but the actual need — there were suddenly other ways he could have helped me meet them. </p>
+<p>And we think of giving up.</p>
+<p>I’m not saying my challenges are any tougher than others, but just sayin’: in my case, fighting off advancing and bruising Alzheimer’s, cancer, black hole depression, and the death of a son in 2022. No parent should ever have to bury a child.</p>
+<p>Some days, the urge just to give up is overwhelming, as the body feels frozen in the moment and the demons are snapping. But I’m trying not to take the bait, and think often of others struggling.</p>
+
+<p>I’m encouraged by Albert Einstein, who said: “You never fail until you stop trying.”</p>
+<p>As an aging jock, 76 now, I don’t want to stop trying. So, I’m fighting forward, but can’t say it’s easy in any way.</p>
+<p>We all find discernment in many ways. I was raised Irish Catholic, both mother and father with deep Irish roots (47 of 48 branches of our family tree from Erie). I’m now a bit more evangelical, though I haven’t forgotten my roots.</p>
+
+<p>I’m not preaching, just trying to connect; we all come from different places. </p>
+<p>I so respect that…</p>
+<p>I recently saw the blockbuster summer movie <em>The Odyssey</em>—Director Chris Nolan’s account of the ancient epic about the hero Odysseus trying to return home to his wife and son after serving in the Trojan War and the interminable string of hurdles in his path. Bloodied but unbowed, as William Henley writes in his epic poem “Invictus,” Odysseus never gave up, and through remarkable perseverance, he finally makes it home.</p>
+
+<p>Doug Scalise, my pastor on Outer Cape Cod, emphasized the drive of Odysseus in his Sunday sermon to underscore the faith needed to persevere in life. “There’s something deeply admirable about refusing to quit,” Scalise said. “Sometimes we imagine perseverance as dramatic acts of courage. Occasionally it is. More often it looks like quiet faithfulness over a lifetime.”</p>
+
+<p>Added Scalise, “Have you ever had a week where every day brings another problem, another disappointment, another phone call telling you something you didn’t want to hear?” In a reference to the New Testament Book of Hebrews, he says: “Faith in everything requires perseverance.” </p>
+<p>As a wholly imperfect person, I’m trying to find my way out of a valley of depression without wavering. Scalise once reinforced to me that one can’t helicopter out of such a serpentine valley; you have to walk it out.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>We often find perseverance in different ways, though forward motion is forward motion. </p>
+<p>Experts say perseverance is the confluence of passion and lasting stamina and is more critical in life than talent or intelligence.</p>
+<p>The American Psychological Association notes: “People who don’t give up on their goals (or who get better over time at not giving up on their goals) and who have a positive outlook <a href="https://www.apa.org/news/press/releases/2019/05/goals-perseverance">appear to have less anxiety and depression</a> and fewer panic attacks, according to a study of thousands of Americans over the course of 18 years.”</p>
+
+
+<p>The study, published by the American Psychological Association in the <em>Journal of Abnormal Psychology</em>, <em>says</em>: “<a href="https://www.psychologytoday.com/us/blog/the-athletes-way/201905/perseverance-cultivates-purposefulness-and-boosts-resilience">Perseverance cultivates a sense of purposefulness</a> that can create resilience against, or decrease, current levels of major depressive disorder, generalized anxiety disorder and panic disorder.”</p>
+
+<p>Lead author of the study, Nur Hani Zainal, M.S., from Pennsylvania State University, notes: “Looking on the bright side of unfortunate events has the same effect because people feel that life is meaningful, understandable and manageable…Our findings suggest that people can improve their mental health by raising or maintaining high levels of tenacity, resilience and optimism.”</p>
 
 
 
   
 
 
-<h2 dir="ltr">The Same Reframe Works for Children</h2>
-<p dir="ltr">What parents dismiss as children's "wants" works the same way — in reverse.</p>
-<p dir="ltr">"They just want attention." "They want to control everything." "They just want to play." These sound like complaints about a child who wants too much. But in almost every case, the want is a need expressing itself the only way a child knows how.</p>
-
-<p dir="ltr">A child who stalls at bedtime is longing for connection — a sense that they matter to you. A child who refuses to brush their teeth is longing for autonomy — to have some say over things that are important to them.</p>
-<p dir="ltr">Children don't yet have the language or self-awareness to name what they need. A parent who is longing for rest can say "I need a break" and arrange for one. A two-year-old who is longing for connection can't say "I'm needing more closeness with you right now." What they can do is follow you from room to room until you pay attention to them.</p>
-
-<h2 dir="ltr">Final Thoughts</h2>
-<p dir="ltr">When a conflict is framed around a specific strategy, there's usually one solution in mind, and it requires someone else to change. When you can name the underlying need, more solutions appear.</p>
-<p dir="ltr">In the next post, we'll look at seven things parents commonly call needs, and what's really underneath each one.</p>
+<p>No one said it would be easy…Something to be said for baby steps.</p>
+<p>As Rev. King once observed, “You don’t have to see the whole staircase, just take the first step.”</p>
+<p>Had Odysseus not persevered, had he given up, symbolically he’d still be in the Trojan Horse.</p>
+<p>Not a good place for any of us.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/parenting-beyond-power/202607/the-difference-between-needs-and-wants" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/on-pluto/202607/perseverance-in-life" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/parenting-beyond-power/202607/the-difference-between-needs-and-wants</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/parenting-beyond-power/202607/the-difference-between-needs-and-wants</guid>
-            <dc:creator><![CDATA[Jen Lumanlan M.S., M.Ed.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/on-pluto/202607/perseverance-in-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/on-pluto/202607/perseverance-in-life</guid>
+            <dc:creator><![CDATA[Greg O'Brien]]></dc:creator>
             <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-vanessa-loring-5082376.jpg?itok=Hn-8qDoX" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-nappy-1058958.jpg?h=a5efbc30&amp;itok=BtkWxOPY" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When True Information Teaches the Wrong Lesson]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/Caplan.png.jpg?itok=u_bYmTde" alt="Caplan" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bias</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When True Information Teaches the Wrong Lesson</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How diagnoses, statistics, and headlines can mislead without becoming false</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Useful information misleads when it is asked to answer the wrong kind of question.</li><li style="margin-bottom:6px;">A diagnosis can guide care while narrowing what others notice about the person.</li><li style="margin-bottom:6px;">Population evidence offers probabilities, not a finished account of one individual.</li><li style="margin-bottom:6px;">Scientific skepticism protects the boundaries of a claim rather than dismissing expertise.</li>
+            </ul>
+          </div>
+                    <p>I first read the story of Norman Cousins in college, and for decades, I remembered it with remarkable confidence.</p>
+<p>Cousins had terminal cancer. He left the hospital, watched comedy films, and somehow laughed himself into remission.</p>
+<p>It was a terrific story. Clean, hopeful, and easy to repeat. It may even have contributed to my decision to become a physician. It was also quite different from the story Cousins himself told.</p>
+
+<p>He had suffered from a severe, disabling illness that physicians believed might be irreversible, but not terminal cancer. His recovery occurred alongside medical care, large doses of vitamin C, changes in his surroundings, sleep, and comedy films that he believed gave him periods of pain relief. Cousins later acknowledged that one case carried little scientific weight. He had hesitated to tell it because he did not want to create false hope.</p>
+
+<p>My memory had quietly rewritten it anyway.</p>
+<p>The qualifications disappeared. So did the competing explanations. Laughter moved from one part of a complicated recovery to its apparent cause. What remained was the version most worth retelling: a dying man had laughed himself well.</p>
+<h2>When the summary takes over</h2>
+
+<p>Human beings need summaries. Reality arrives with too much detail to reconsider from the beginning each time we make a decision.</p>
+<p>A year of medical care becomes a paragraph in the chart. Thousands of observations become an average. A scientific paper becomes a headline. A person’s complicated experience becomes a diagnosis.</p>
+
+<p>Usually, this helps. The trouble begins when we forget how much was removed. Apparently evolution neglected to give memory a footnoting system.</p>
+<p>Philosophers call one version of this mistake a category error. “What color is the number seven?” cannot be answered because it asks one kind of thing to provide another kind of answer.</p>
+
+<p>The real-world versions are harder to notice because they begin with useful information. A diagnosis describes part of a patient. A clinical trial tells us what happened among the people studied. A genetic association may affect the probability of disease.</p>
+<p>None of these facts has to be wrong in order to become misleading. We only have to give one of them more authority than it can carry.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>The diagnosis that changes what people see</h2>
+<p>Medicine cannot function without categories. Diagnoses guide testing and treatment. For patients who have spent years without an explanation, a diagnosis can bring relief and direction.</p>
+<p>Patients do not arrive pre-categorized. They arrive with winding histories, conflicting responsibilities, financial limits, medication sensitivities, prior treatment injuries, and bodies that rarely resemble the clean examples used for teaching.</p>
+
+<p>I have watched labels gradually take over a clinical story. A diagnosis first explains a cluster of symptoms. Later, it is used to explain why the patient is upset, why treatment failed, and what will probably happen next. Once the label seems to explain everything, fewer people keep looking.</p>
+<p>The effect is especially visible with words such as “noncompliant,” “behavioral,” or “drug seeking.” Each may refer to a legitimate concern. Once the label enters the chart, though, cost, side effects, fear, transportation, prior trauma, and the burden of the treatment plan may receive less attention.</p>
+
+<p>A patient who arrived in 4K becomes a lower-resolution version in the chart.</p>
+<p>Sometimes the important question is not whether the diagnosis is correct. It is what the diagnosis has caused everyone to stop noticing.</p>
+<h2>What happens when research travels</h2>
+<p>A clinical trial may show that a treatment helped a proportion of patients under specified conditions. That information matters. Without population evidence, medicine drifts toward habit, anecdote, and personal confidence.</p>
+
+
+
+  
+
+
+<p>The patient usually has a different question: Will it help me?</p>
+<p>The study offers a starting point, not a personal forecast. The person in the room may differ from the study population in age, medication use, prior treatment history, physiology, or several other ways. Clinical judgment is the work of deciding how much those differences matter.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>As research moves beyond the paper, its boundaries tend to fall away. An association becomes a cause because it takes fewer words and sounds more decisive. A result in animals becomes a possible treatment for people. A group average becomes advice for everyone.</p>
+<p>The headline may remain close enough to the paper to withstand a factual objection. The understanding it leaves behind can still exceed the research.</p>
+
+<p>Cannabis makes this unusually visible. A regulator, a researcher, a worried family, and a patient may all be discussing the same substance while asking different questions. Each frame contains useful information. The clinical matter becomes distorted when one frame is allowed to settle the whole discussion.</p>
+
+<h2>Where the claim stops</h2>
+<p>Scientific uncertainty makes some people uneasy. If research cannot provide a guarantee, they begin to suspect that expertise has little to offer and that every explanation deserves equal consideration.</p>
+<p>Good skepticism asks more of us. It asks what was measured, in whom, against what comparison, and over how much time. It asks who was excluded and whether a result about a group has quietly become a conclusion about one person.</p>
+
+<p>Careful scientific language often sounds qualified because the qualifications carry meaning. “In this population,” “under these conditions,” and “during the study period” tell us where the claim stops.</p>
+<p>For years, I carried an appealing version of Norman Cousins’s recovery. It had a dying man, an unlikely intervention, and an ending that seemed to prove something reassuring about the mind’s influence over the body.</p>
+
+<p>The account he published was less tidy. There was serious illness, medical care, several simultaneous interventions, pain relief, recovery, and genuine uncertainty about how those pieces fit together.</p>
+<p>I find the corrected version more useful now. It preserves the experience without asking it to become proof. It also reminds me that the easiest version to remember is often the one that discarded the most.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>The next time a diagnosis, statistic, or headline seems to explain everything, what might come back into view if you asked what had been left out?</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/beyond-the-white-coat/202607/when-true-information-teaches-the-wrong-lesson" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/beyond-the-white-coat/202607/when-true-information-teaches-the-wrong-lesson</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beyond-the-white-coat/202607/when-true-information-teaches-the-wrong-lesson</guid>
+            <dc:creator><![CDATA[Benjamin Caplan, M.D.]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/psychology_today_thinker.png.jpg?itok=CdYKYIKE" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Minority Mental Health Month Means for Young Children]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-06/Dr_Terri_McFadden.png.jpg?itok=Q_c3mo1K" alt="McFadden" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Minority Mental Health Month Means for Young Children</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why the first five years shape lifelong emotional well-being and resilience.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Mental health equity begins long before kindergarten, in the first years of life.</li><li style="margin-bottom:6px;">Safe, stable, nurturing relationships build the foundation for lifelong mental health.</li><li style="margin-bottom:6px;">Shared reading strengthens emotional bonds, not just language and literacy skills.</li><li style="margin-bottom:6px;">Reducing disparities means supporting families, not expecting them to do more alone.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/shutterstock_2435890349.jpg?itok=cP6qlR4h" width="320" height="213" data-insert-type="image" title="Prostock-studio/Shutterstock" alt="Prostock-studio/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Prostock-studio/Shutterstock</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Each July, <a href="https://mhanational.org/bipoc-mental-health/bipoc-mental-health-month/">National Minority Mental Health Awareness Month</a> invites important conversations about access, stigma, treatment, and the inequities that shape mental health outcomes across communities. But too often, those conversations focus on older children, teens, or adults. We picture mental health as something that becomes relevant once a child can describe feeling anxious, withdrawn, overwhelmed, or sad. In reality, the roots of mental health disparities begin much earlier.</p>
+
+<p dir="ltr">If we’re serious about children’s mental health equity, we have to start before kindergarten, with the earliest relationships, environments, and daily experiences that shape how young children learn to feel safe, connected, and understood. Mental health in the first five years doesn’t look like a child talking through their feelings. It’s whether a baby has a responsive caregiver who notices their cues or a toddler is soothed when they are distressed. Most notably, mental health in the early years is built through consistent routines, language-rich interactions, and moments of connection with the adults who love them. We often refer to these as safe, stable, nurturing relationships. They provide the foundation for healthy brain development, strong mental health, and lifelong physical, emotional, and social well-being.</p>
+
+<p dir="ltr">Unfortunately, for many children, those early building blocks of healthy development are shaped by systems and stressors that are far from equal.</p>
+<p dir="ltr">We know that children in marginalized communities are more likely to experience poverty, housing instability, food insecurity, exposure to racism and discrimination, and barriers to health care. We also know that caregiver stress has a profound impact on young children. When parents are stretched thin by economic pressure, unsafe neighborhoods, lack of paid leave, limited access to their own physical and mental health care, or the daily toll of systemic inequities, that stress does not stay neatly contained in adult life. It spills into the emotional climate young children are growing up in.</p>
+
+<p dir="ltr">This doesn’t mean families are failing their children. Families bring tremendous strengths, deep commitment, and an unwavering desire to give their children the best possible start. At the same time, they are raising children within systems and circumstances that can place enormous strain on healthy development, especially during the earliest years.</p>
+
+<p dir="ltr">The first five years are a period of extraordinary brain growth. A child’s brain is building the architecture for emotional regulation, stress response, language, learning, and relationships, and those skills do not develop in isolation.</p>
+<p dir="ltr">Long before a child can even describe feeling anxious, overwhelmed, or withdrawn, they are learning whether the world feels safe, whether their needs will be met, and whether they can count on the adults around them for comfort and connection. It’s also why early relationships and shared reading belong in the mental health conversation.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">Reading together is often framed as an academic activity, something that builds vocabulary, school readiness, and literacy skills. It absolutely does all of those things. But shared reading also supports mental health in ways that deserve far more attention.</p>
+<p dir="ltr">When a caregiver and child curl up with a book together, they’re doing something deeply regulating. They’re slowing down. They’re making eye contact. They’re sharing physical closeness, language, and attention. For a young child, that kind of back-and-forth connection builds attachment and emotional security. Books can help children recognize facial expressions, understand routines, name feelings, and see that other people experience worry, frustration, joy, sadness, and pride too. For caregivers, reading can create a predictable ritual of connection even in the middle of a stressful day. Reading a book with a child may give the adult the small break in their day that allows them to slow down and remember how meaningful even brief moments of connection are for their relationship.</p>
+
+<p dir="ltr">In other words, shared reading isn’t just good for literacy. It’s good for relationships that are the foundation of mental health.</p>
+<p dir="ltr">That matters even more when we think about equity. Not every family has the same access to books, safe play spaces, high-quality early learning opportunities, pediatric guidance, or culturally responsive mental health support. Not every parent has the time or bandwidth to create calm routines after working multiple jobs, navigating transportation challenges, or carrying the emotional weight of discrimination and financial stress. If we want to reduce mental health disparities, we cannot put the burden entirely on families to “do more.” We have to make it easier for families to access the tools and support that help children thrive.</p>
+
+
+<p dir="ltr">That includes programs like Reach Out and Read, which ensure families have books in the home and clinicians talk with parents not just about milestones and behavior, but about connection, routines, stress, and the simple power of reading together. It includes supporting programs that meet families where they are and honor their culture, language, and lived experience rather than assuming a one-size-fits-all model of child development. And it includes investing in policies that reduce the pressures that make it harder for caregivers to be emotionally available in the first place.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p dir="ltr">Culturally responsive support is especially important. Families are more likely to engage with services and guidance when they feel seen, respected, and understood. We must recognize the strengths families already bring to their children, including deep love and respect, storytelling traditions, multilingual households, intergenerational caregiving, community-based support systems, and a strong desire for their children to grow up to be healthy, capable, and compassionate adults. We must also acknowledge that conversations about mental health may look different across cultures, and that support should be built with those differences in mind, not in spite of them.</p>
+
+
+
+  
+
+
+<p dir="ltr">Too often, we wait until children are struggling in school, acting out in a classroom, or showing signs of anxiety and depression before we ask what support they need. By then, we are often trying to intervene after years of accumulated stress. National Minority Mental Health Awareness Month should push us to think much earlier than that. It should remind us that mental health equity begins in infancy, in the day-to-day conditions of a child’s life, in communities that value all children and families regardless of race, ethnicity, or ability, and with the support they need to build strong, nurturing relationships from the start.</p>
+
+<p dir="ltr">When we talk about children’s mental health equity, we have to start where children do: in relationships, in early childhood, and long before they ever have the words to tell us they are struggling.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/reading-just-what-the-doctor-ordered/202607/what-minority-mental-health-month-means-for-young" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/reading-just-what-the-doctor-ordered/202607/what-minority-mental-health-month-means-for-young</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/reading-just-what-the-doctor-ordered/202607/what-minority-mental-health-month-means-for-young</guid>
+            <dc:creator><![CDATA[Terri D. McFadden,  MD, FAAP]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/shutterstock_2435890349.jpg?itok=PPUWOgRB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The World Is on Fire: Why Recycling Bottles Won’t Save It]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/christine_with_blue_background-removebg-preview_1.jpg?itok=Lgt_JdJJ" alt="Christine Louise Hohlbaum" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Environment</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The World Is on Fire: Why Recycling Bottles Won’t Save It</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The planet's future depends less on us and more on bold political action.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Climate guilt distracts us from the systemic changes that matter most.</li><li style="margin-bottom:6px;">Individual actions can indeed help, but political action changes the entire system.</li><li style="margin-bottom:6px;">Greenwashing protects the corporate status quo, not the planet.</li><li style="margin-bottom:6px;">Our love for the planet is the strongest fuel for lasting climate action.</li>
+            </ul>
+          </div>
+                    <p>The world is on fire. Literally. From Arthur’s Seat in Edinburgh, Scotland, to the Canadian wildfires impacting North America, the planet is in a deep crisis. Record temperatures in Europe have led to tens of thousands of heat-related deaths. Add the geopolitical tensions across the planet, and the news gives us good reason to be anxious and uncertain. </p>
+
+<p>In his 2024 release <em>Terrible Beauty</em>, Auden Schendler outlines our complicity in the climate crisis. At the same time, he places even more responsibility on the corporations that sell us toxic products in the first place. As a long-time climate activist, Schendler claims not only that the environmental movement is failing, but that it is reinforcing the ineffective, entrenched systems that we need to reorganize to make the difference. </p>
+
+<p>Drawing on 25 years of experience in corporate sustainability leadership at <a href="https://aspen.com/articles/terrible-beauty/">Aspen One</a>, Schendler shows that voluntary emissions reductions, individual carbon footprints, and corporate greenwashing serve as dangerous distractions to the real issues lying underneath: We have built in measures such as minor efficiency upgrades like replacing conventional lightbulbs with LED ones and Environmental, Social, and Governance (ESG). These surface-level metrics perpetuate the fossil-fuel status quo instead of having a real impact on the actual problem.</p>
+
+<p>The book serves as part memoir, part polemic, and part practical roadmap. The author interweaves technical climate strategies with personal vignettes about parenthood, community, and outdoor adventures. He emphasizes that average citizens are not hypocrites for operating within a fossil-fuel economy; the blame belongs to broken, co-opted systems. Those bottles we “recycle” end up in the dump. It is a systemic problem greenwashed away by pretty, yet meaningless statistics.</p>
+
+<p>To achieve climate stability, Schendler advocates shifting away from incremental corporate tick-the-box finger exercises. Instead, he urges corporations and individuals to deploy their real power toward systemic overhaul, political mobilization, and grassroots activism. Ultimately, the book delivers a blend of raw candor and cautious optimism. It urges us to leverage our profound love for the world’s fragile beauty to fight for radical, institutional transformation before it is too late.</p>
+
+<p>Does it seem impossible? Greta Thunberg started a movement as a single person. In the wise words of Margaret Mead, “Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has.”</p>
+<p>Even a small group can create a seismic systemic shift. Schendler offers a variety of actionable steps we can all take to ensure our planet’s and our own survival.</p>
+
+<h2>Embrace Political Activism</h2>
+<ul>
+<li><strong>Lobby for policy changes</strong>: Channel energy away from individual footprints and fight directly for systemic reforms, such as <a href="https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/">advocating for a carbon tax</a>. </li>
+<li><strong>Engage with elected officials</strong>: Constantly call, write to, and bird-dog local and national policymakers to force a shift in how society powers its infrastructure. </li>
+<li><strong>Support grassroots movements</strong>: Join collective, organized actions that build the political will needed to pass aggressive climate legislation. </li>
+</ul>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Leverage Your Professional Sphere of Influence</h2>
+<ul>
+<li><strong>Push your employer to go big</strong>: If you work for a company, do not quit; instead, pressure leadership to stop obsessing over “operational greening” (such as changing lightbulbs). </li>
+<li><strong>Demand political alignment</strong>: Force your employer to deploy its real power by lobbying policymakers for clean energy and cutting ties with anti-climate trade associations. </li>
+</ul>
+
+<h2>Alter the Narrative Around Personal Complicity</h2>
+<ul>
+<li><strong>Skip the guilt</strong>: Recognize that operating within a fossil-fuel economy does not make you a hypocrite. Being mindful does not mean we can master everything at once.</li>
+<li><strong>Talk about the crisis</strong>: Break the silence by openly discussing climate change with friends, family, and coworkers to shift cultural expectations and demand corporate accountability. Collective awareness can make the difference. </li>
+</ul>
+
+
+
+  
+
+
+<h2>Harness Radical Love for the Planet</h2>
+<ul>
+<li><strong>Fight for what you love</strong>: Use your deep, personal connections to your family, community, and favorite outdoor spaces as the raw motivation to take professional and personal risks for the environment. Support local grassroots causes. </li>
+</ul>
+<p>Don’t be afraid to make some noise. In the case of the climate crisis, it may be the only way that caring for our planet will translate into real action in real time.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-power-of-slow/202607/the-world-is-on-fire-why-recycling-bottles-wont-save-it" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-power-of-slow/202607/the-world-is-on-fire-why-recycling-bottles-wont-save-it</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-power-of-slow/202607/the-world-is-on-fire-why-recycling-bottles-wont-save-it</guid>
+            <dc:creator><![CDATA[Christine Louise Hohlbaum]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/benjamin-lizardo-icrhad-qidc-unsplash.jpg?h=084674dd&amp;itok=suewDDpc" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grief: Escaping the Museum of the Past]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/forrest-talley.jpg?itok=lcXOWPec" alt="Forrest Talley Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Grief</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Grief: Escaping the Museum of the Past</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How connection endures when pain and loss no longer defines remembrance</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Grief can bring the lost person closer.</li><li style="margin-bottom:6px;">Moments of forgetting lost loved ones can trigger guilt but are a normal part of healing.</li><li style="margin-bottom:6px;">Allowing grief to soften can expand the ways the loved one remains part of your ongoing life.</li>
+            </ul>
+          </div>
+                    <p>Marcus was at his nephew’s birthday party when it happened. Someone told a dumb joke—and he laughed. Really laughed. Head back, his face momentarily radiant, the kind of laugh he had not managed in months.</p>
+<p>For perhaps four seconds, he was simply a man at a party.</p>
+<p>Then he turned, on reflex, to share the moment with Vanessa.</p>
+
+<p>For 15 years, this had been his instinct. She loved foolish jokes and would often cover her mouth and close her eyes, as though trying to capture the fleeting joy before it escaped.</p>
+<p>The four seconds collapsed.</p>
+<p>Vanessa was not there. He excused himself and stood in the hallway beside the coat closet, gripping at a jacket sleeve as though it were a life jacket.</p>
+
+<p>He had been laughing, unguarded and happy, and for that brief stretch of time, she had not existed to him at all. He had forgotten her—not the fact of her death, but the brutal reality of her absence: that she was not laughing with their friends in another room, not helping prepare the food as she had always loved to do, not living some parallel moment just beyond his sight. She was simply and absolutely gone.</p>
+
+<p>“How could I have forgotten?” he thought, and the forgetting itself felt like a crime.</p>
+<p>Worse, it seemed dangerous. If he could forget Vanessa for four seconds, perhaps the tenuous sense that she remained close to him would eventually disappear altogether.</p>
+<p>By the time he returned, the party had moved on, and presents were being opened. Marcus sat down; he smiled politely and inwardly withdrew. Some part of him had decided, without consulting the rest of him, that he would not be caught like that again.</p>
+
+<p>But a vow like that is hard to keep, especially when it so often narrows your lost love down to a single grey note—grief, and only grief—instead of the full color of the life you shared.</p>
+<p>Nearly a year later, Marcus was sitting at another family gathering when someone made a silly remark about the food. Before he could stop himself, he laughed.</p>
+
+<p>And once again, he turned toward Vanessa.</p>
+<p>For an instant, the old pain moved through him. But this time he did not retreat from it. He pictured her covering her mouth, her eyes closing as though she were trying to capture the fleeting joy before it escaped.</p>
+<p>The memory brought sadness, but it also brought warmth. Vanessa no longer seemed present only in the pain of losing her. In some indefinable way, things had started to shift. Memories that had once evoked tears could now elicit a smile. She felt closer when he recalled funny moments they shared, and in the stories he continued to share with others.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>She had, while alive, shaped him, and as he grieved, he found that same influence shaping him once more: learning to live again.</p>
+<h2>The First Loss</h2>
+<p>In the early phases, intense grief often keeps the presence of a deceased loved one vividly alive in ways that are harder to achieve as the pain initially begins to fade. As grief softens and the loved one is seen through eyes less clouded by raw sorrow, there is a tendency to feel as though they are sliding into history, becoming a statue in a museum of the past. Merely a historical figure.</p>
+
+
+<p>Naturally, when this occurs, many react by chasing after what feels at risk of being lost, and that chase leads back down into the valley of grief because it is there, at least for a moment, when they feel closest to the one they loved.</p>
+<p>For most people, this "tug of war" comes in waves and loosens over time on its own. Eventually you are able to recover a sense of closeness with the deceased that does not require a sense of poignant grief.</p>
+
+<p>But for some, this shift does not happen; the grief unwittingly becomes a habitual means for chasing after the memory and intimacy of the one they lost. This is called prolonged grief disorder, in which intense yearning and difficulty accepting the death can persist for a year or more and significantly interfere with life (Schoo et al., 2025).</p>
+
+
+
+  
+
+
+<p>This reflex, however understandable, is self-defeating. The life you lived with that loved one was never restricted to the monochrome world of despair and longing but instead contained the full range of human experience—laughter, anticipation, excitement, shared joys, and ordinary pleasures.</p>
+<p>If the impact of the loved one is to be truly revitalized, the intimacy you experience in remembering them must eventually include this full chromatic range of what you shared, not only the grayscale tones of mourning.</p>
+
+<h2>The Second Loss</h2>
+<p>For many people, this is what makes grief so disorienting: you first grieve the loss of the person you loved, but then find grief rising up as your connection to them keeps changing.</p>
+<p>One of those second losses is exactly what happened to Marcus: the realization that he could, even briefly, forget. For a few seconds he was “just a person at a party,” and the love of his life was not actively present in his awareness.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Such a huge loss set over and against a moment of forgetting: this is what leads to guilt and a sense of betrayal. If this person was so important, and their death so meaningful, how could I forget them?</p>
+<p>As a result, holding onto pain can feel like loyalty to the one who has died. It can take on a protective quality, as though the grief itself holds the person near, and bears testimony to their importance.</p>
+
+<p>Clinically, this is such a common experience in the transition from acute to more integrated grief that it is best understood as a normal part of adaptation.</p>
+<p>The trouble is that from the inside, it rarely feels normal. Instead, the mind treats these small gaps in attention as dangerous. If a few seconds of unselfconscious laughter are possible now, what might be possible in a year? An hour of not thinking about them? A whole day that passes without their name coming to mind?</p>
+
+<p>But this presents a dilemma. When grief is required for feeling connected to the deceased, it ends up narrowing the relationship down to a single emotional color. The laughter you shared, the conflicts you worked through, the ordinary morning rituals, and inside jokes all recede. What remains in focus is the moment of losing them, over and over again.</p>
+
+<h2>Moving Forward</h2>
+<p>Marcus began to discover something surprising. Allowing grief to soften did not erase Vanessa but rather expanded the entry points within his life through which she could play a part once more. Instead of appearing only in the stabbing and bewildering awareness that she was gone, she began to appear in remembered gestures, shared stories, and most importantly in the many ways he was still living out what she had given him.</p>
+
+<p>Grief research describes this as reconstructing meaning. That is, the bond continues, but the distress eases as the survivor integrates an ongoing sense of connection into their ongoing identity and purpose, rather than holding it only in the immediacy of pain (Neimeyer, Baldwin, &amp; Gillies, 2006).</p>
+<p>The paradox at the heart of the second loss is that the experiences that feel, at first, like they are pulling you away from the person—moments of laughter, absorption, or forgetfulness are actually signposts that you are moving into a stage of life that brings the loved one closer.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Instead of only feeling close during times of pain and aching distress, they appear during moments of excitement, happy anticipation, quiet contemplation, and contented reflection.</p>
+<p>The task, admittedly painful, is to tolerate the unsettling in-between long enough for the relationship to be rebuilt on more than grief alone.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/relationship-emporium/202607/grief-escaping-the-museum-of-the-past" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/relationship-emporium/202607/grief-escaping-the-museum-of-the-past</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/relationship-emporium/202607/grief-escaping-the-museum-of-the-past</guid>
+            <dc:creator><![CDATA[Forrest Talley Ph.D.]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/yuris-alhumaydy-msxmhkgrs8s-unsplash__1_.jpg?h=caa30cad&amp;itok=fGErYKo3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do You Feel Defective? You Are Not Alone]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/dan-roberts-white-bg.png.jpg?itok=tvE0RZc4" alt="Dan Roberts MBACP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do You Feel Defective? You Are Not Alone</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Feelings of defectiveness are linked to a schema forged in a painful childhood.</h2><p style="font-size:0.9em;color:#666;">Posted July 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Experiences of trauma or neglect in childhood create mental schemas, which make us feel empty or defective.</li><li style="margin-bottom:6px;">But these schemas are not fixed in the brain and can be healed with trauma-informed therapy.</li><li style="margin-bottom:6px;">Healing schemas is possible—understanding their roots is a crucial first step to change.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/image_-_sad_child_5.jpg?itok=kIzypKFc" width="320" height="213" data-insert-type="image" title="Garrett Jackson/Unsplash" alt="Garrett Jackson/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Garrett Jackson/Unsplash</div>
+</div>
+</div>
+</div>
+<p><em>This is the second post in a series.</em></p>
+<p>In my <a href="https://www.psychologytoday.com/us/blog/the-calm-self/202607/how-trauma-related-schemas-shape-your-life">last post</a>, I explored some of the painful mental schemas that can develop due to childhood trauma or neglect. To recap, a schema is a template in your brain for how to respond to something you experience often. We all have schemas for tying our shoes, telling the time and reading sentences in English, like this one. But Dr. Jeffrey Young, founder of schema therapy, discovered a number of "early maladaptive schemas" (often shortened to "schemas"), which are ways of thinking, feeling, and behaving in response to painful experiences, usually in childhood. </p>
+
+<p>Let's look at three more trauma-related schemas—it might be helpful to journal as you read this post, especially if any of these schemas resonate with you, to make sense of your experience and how it might have led to these painful ways of responding to triggers as an adult. </p>
+<h2>Emotional Deprivation</h2>
+<p>This schema forms when you are deprived of emotional support and connection by your caregivers—usually your mother or father, but for some people that may be a grandparent, other family member, or adoptive/foster parents. Dr. Young has identified three forms of deprivation:</p>
+
+<ul>
+<li>Deprivation of Nurturance</li>
+<li>Deprivation of Empathy</li>
+<li>Deprivation of Guidance and Protection<sup>1</sup></li>
+</ul>
+<p>If you were deprived of these emotional nutrients as a child, you may now feel empty inside, yearning for the love and support you craved but didn’t receive. It feels like having a big hole in your chest that can never be filled, no matter how much love you get. This schema forms in a family of origin that was cold and unemotional. For example, one or both parents may have had substance-abuse issues and were too emotionally absent to meet your needs for love and affection. You may have had a narcissistic parent, obsessed with your physical attractiveness or academic success because that made them look good. If you excelled, you would have received praise, but any perceived failure would have been met with disappointment and harsh criticism—which means you were not loved for who you were, but how you performed.</p>
+
+<p>Let’s take a closer look at this schema through Mary’s story. Mary is a white woman in her early twenties who has had a lifelong struggle with depression. "Mum only cared about herself," she told me. "I made her happy if I looked pretty or got straight As. Otherwise, it was like I didn’t exist." Mary’s mother was highly narcissistic, so saw her daughter less as a child needing her love and care than an extension of herself. If Mary did well, her mother could bask in the glow of her daughter’s success. If she struggled, her mother felt shame, which rapidly turned to a cold fury that would last for days. "That was so awful," said Mary, eyes brimming with tears. "I would spiral into depression and couldn’t get out of bed. But even when she was happy with me, I still felt numb because I knew it was purely because of a good grade, or if I lost weight. I never felt she really saw me."</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Sadly, Mary’s father was not strong, so couldn’t protect his beloved daughter from her mother’s harsh words. This is often crucial in childhood trauma—not only do we experience scary, hurtful attacks, but we feel alone, vulnerable, and helpless. One of the people who was supposed to protect Mary was the person who hurt her most. And the other person who was supposed to keep her safe failed in this most basic parental duty. Prizing his own well-being over hers, her father left Mary at the mercy of her mother’s narcissistic rage.</p>
+
+<p>As an adult carrying these deep wounds, Mary strives for success in every area of her life. If she gets praise from her boss, she experiences temporary relief, which rapidly fades until she feels empty inside. She describes herself as an "addict" for these moments of relief because the hollow feeling in her chest is unbearable, as is the depression that has haunted her since childhood. Mary’s severe Emotional Deprivation schema makes her life a misery.</p>
+
+<h2>Defectiveness/Shame</h2>
+<p>I call this the "common cold" of schemas, because almost everyone I work with has this one. Full disclosure: this is my core schema, so I am painfully familiar with it. This is the low-self-esteem schema, the not-good-enough schema, the one that makes you feel there is something deeply flawed about you. When triggered, it can evoke intense feelings of shame, hence the second part of its name. The typical origin of this schema is having highly critical parents, who make you feel that nothing you do is good enough. My dad was a bit like this because he had very high standards for me, and I never felt I lived up to them, that he was proud of me or my achievements. I studied Sociology as an undergraduate, a subject in which no student had ever achieved a First at my university. I got a 2:1 and almost got a First, which I was very proud of. When I excitedly told my dad, he just frowned with disappointment and said, "Why didn’t you get a First?" This drained all my pride and joy, leaving me feeling crushed and deflated—sadly, a familiar feeling with my dad.</p>
+
+
+<p>You may be familiar with this kind of experience. Or you might have struggled at school, perhaps because you were not the most academic kid, instead thriving at sports or art, which were not valued by your parents or teachers. Some of my clients with this schema had ADHD, which made concentrating for long periods incredibly difficult. Being on the autistic spectrum, having dyslexia, dysgraphia, dyscalculia, or other forms of neurodivergence can also create this schema, as teachers might have called you "lazy" or "dumb", even though you were just trying to navigate an education system designed for neurotypical kids.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>In adulthood, this schema can make you feel worthless, flawed, or unlovable. You may compare yourself to others, always "comparing up"—putting yourself in a lowly position and envying other people’s intelligence, perfect family, or career. Remember that when a schema is triggered, it’s not so much about what you think—although all schemas do involve negative self-beliefs and unhelpful ways of thinking, like worry and rumination. Schemas are more visceral and about how you feel, especially if they are severe. They live deep inside you and, when triggered, make your skin flush with shame, your heart pound with anxiety, or your jaw clench with anger. Schemas can make your life miserable—which is why it’s so important to understand and heal them, as you are doing right now.</p>
+
+
+
+  
+
+
+<h2>Unrelenting Standards/Hypercriticalness<br> </h2>
+<p>Finally, let’s explore a schema which is often linked to Defectiveness. A common origin for this one is a family with excessively high standards, where the kids are expected to excel in every area of life. If this rings bells for you, your parents might have pushed you, hard, to be the best at everything you did. Sports, schoolwork, your manners—everything had to be perfect, or you would suffer in some way. Straight As were a minimum expectation, anything less being met with disappointment. You may have been compared, unfavourably, to siblings or family friends. "Why can’t you play piano/make conversation/get good grades like your sister?" may have been a familiar refrain.</p>
+
+<p>This schema is often compensatory for Defectiveness or Failure, another common schema. In my highly driven clients, I see them striving to be the best at everything they do, because if they are smart/hard-working/thin enough, no one will realize that, deep down, they feel worthless. The signature feeling of this schema when activated is pressure. It’s like having a hand in the small of your back, always pushing you hard to do better—it’s never enough.</p>
+
+<p>This schema also drains the joy out of life because you’re on a treadmill all the time, working, pushing, striving. When you achieve success, you may feel a few brief moments of satisfaction, before the feeling fades and it’s on to the next goal. This is another schema I know all too well, and for me it was clearly linked to my deep-down feeling of defectiveness. I was long driven by the urgent need for success, that maybe if I earned a Ph.D. or wrote a bestselling book, my dad would, finally, be proud of me. Very sadly, he’s not here now, but that little boy inside me still craved his approval for the longest time, even after he was gone. After a great deal of personal growth, I no longer feel defective or that I need to prove myself. I now trust my dad would be proud of me, which is such a relief. It’s a good example of the way that schemas can be healed—and if I can do it, you can too.</p>
+
+<p><em>This post has been adapted from </em><a href="https://www.quarto.com/books/9781836009320/heal-your-trauma"><em>my new book</em></a><em>, </em>Heal Your Trauma: How to Overcome a Painful Childhood to Become Happy and Whole Again.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-calm-self/202607/do-you-feel-defective-you-are-not-alone" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-calm-self/202607/do-you-feel-defective-you-are-not-alone</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-calm-self/202607/do-you-feel-defective-you-are-not-alone</guid>
+            <dc:creator><![CDATA[Dan Roberts MBACP]]></dc:creator>
+            <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/image_-_sad_child_5.jpg?itok=Q_uFR2M1" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
