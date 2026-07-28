@@ -4,355 +4,925 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 15:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 17:29:53 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 15:22:09 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 17:29:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Sleep Matters for Brain Inflammation]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/brain_image_-_social_profiles.jpg?itok=_2DFIVv4" alt="The Research Room" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Traumatic Brain Injury</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Sleep Matters for Brain Inflammation</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Sleep can help improve neurological ill health, including encephalitis.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Adult ADHD, Stimulants, and Psychosis]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Joseph-M-Pierre.jpg?itok=GIMqk9wL" alt="Joe Pierre M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Adult ADHD, Stimulants, and Psychosis</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">As more adults use prescription stimulants, cases of psychosis may increase.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Quality sleep is essential for brain recovery and immune system regulation.</li><li style="margin-bottom:6px;">Many health conditions including encephalitis can be improved with better sleep.</li><li style="margin-bottom:6px;">Family members, caregivers, and patient organizations can play a crucial role in supporting healthy sleep.</li>
+              <li style="margin-bottom:6px;">In the US, prescription stimulant use is on the rise, mostly due to adult usage.</li><li style="margin-bottom:6px;">This reflects an increase in ADHD, whether due to changes in diagnostic criteria or over-diagnosis.</li><li style="margin-bottom:6px;">Although psychosis with prescription stimulants is rare, the risk may increase as more adults use them.</li>
             </ul>
           </div>
-                    <p><em>By Prav Prathapan</em></p>
-<p><em>“Sleep’s the only medicine that gives ease.”—Sophocles.</em></p>
-<p>Sleep is something most of us take for granted. However, increasing research indicates that it significantly improves a range of conditions. Whilst many people may understand that sleep can broadly improve mood and stress, it is increasingly understood that ‘sleep hygiene’ can significantly address brain health.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/bluebudgie-ai-generated-9268433.jpg?itok=OAdwCMew" width="320" height="183" data-insert-type="image" title="Davie Bicker / Pixabay" alt="Davie Bicker / Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Davie Bicker / Pixabay</div>
+</div>
+</div>
+</div>
+<p>The use of prescription stimulants like Ritalin (methylphenidate), Adderall (mixed amphetamine/dextroamphetamine), Dexadrine (dextroamphetamine), and Vyvanse (lisdexamfetamine), ostensibly to treat attention-deficit hyperactivity disorder (ADHD), has shot up over the past two decades here in the US, an increase driven mostly by adults. From 2005 to 2019, the number of US adults prescribed stimulants increased fivefold, and during the first year of the COVID-19 pandemic, prescriptions increased another 10% among women 15- to 49-year-old and men 25 to 49 years old.<sup>1</sup> As of the past few years, that amounts to as many as 4% of commercially insured US adults taking prescription stimulants.</p>
+
+<h2>Adult ADHD Is on the Rise</h2>
+<p>Why the increase? Part of the answer is that the diagnosis of adult ADHD has also gone up over the past two decades, though how to explain that has been debated going back years without clear resolution. </p>
+<p>As with rising rates of autism, it could be that the detection of adult ADHD has gone up due to loosened diagnostic criteria for ADHD in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) published in 2013, clinicians increasingly diagnosing the condition on the “soft” end of the illness spectrum, and greater public awareness and destigmatization of the diagnosis thanks to social media. It’s also possible that the biological effects of COVID-19 and the fact that many of us are increasingly living our lives online are taxing our brains at home and work like never before, taking a toll on our ability to focus and making it increasingly obvious that human brains aren’t particularly good at multitasking.<sup>3</sup> Notably, about half of US adults with ADHD were diagnosed as adults, even though the DSM-5 diagnosis requires symptom onset before the age of 12.<sup>3</sup></p>
+
+<p>It could also be that ADHD is increasingly “over-diagnosed,” a longstanding claim that has been rekindled of late by Robert F. Kennedy Jr’s Make America Health Again (MAHA) Commission. In certain sectors like finance and the tech industry, employees often work long hours and view stimulants as a way to make it through the day, pull all-nighters, and keep up or compete with co-workers who take them.<sup>4</sup> Other people may be engaging in inaccurate self-diagnosis due to the popularity of ADHD on social media where misinformation about and misrepresentations of the disorder abound.<sup>5</sup></p>
+
+<p>All of these explanations have some teeth and are by no means mutually exclusive. ADHD may be accurately diagnosed in an increasing number of adults, underdiagnosed (e.g., among women and minority groups) or untreated (only about a third of people with a diagnosis of ADHD report receiving treatment in the past year) in others, and overdiagnosed in still others.</p>
+
+<h2>Obtaining Prescription Stimulants Is Easier Than Ever</h2>
+<p>Diagnosis aside, the increase in stimulant use for ADHD reflects how little effort it can take to obtain a prescription these days, especially here in the US, which consumes some 68% of the world’s prescription stimulants.<sup>6</sup> For individuals who are distracted or forgetful; struggle with attention, organization, and multi-tasking; don’t always pay attention to what people are saying; and find themselves being forgetful or losing things—symptoms that almost all of us experience from time to time—it’s easy to get a stimulant prescription by filling out an online questionnaire, seeing a mental health provider via telepsychiatry (note that one of the sharpest rise of stimulant prescriptions in recent years has been by nurse practitioners<sup>7</sup>), and “doctor shopping” when they get turned down. </p>
+
+<p>Unlike some medications, stimulants tend to sharpen focus regardless of whether someone has ADHD or not so that people seek them out and psychiatrists end up prescribing them for what amounts to “neuroenhancement,” similar to the use of performance-enhancing drugs (PESs) like anabolic steroids to enhance physical performance.<sup>8</sup> Others—including as many as 46% of college students in one study—obtain stimulant medications without a prescription or an ADHD diagnosis, noting that they help to “stay awake longer, have a more enjoyable time, and to party longer.”<sup>9</sup></p>
+
+<h2>More Stimulants, More Psychosis Risk</h2>
+<p>The potential upsides of receiving prescription stimulants for properly diagnosed ADHD include associations with lower mortality, suicidal behavior, substance misuse, and criminality.<sup>10,11</sup> Meanwhile, rates of prescription stimulant misuse have decreased to just 1.9% of US adults in recent years.<sup>12</sup> So why fret about growing rates of prescription stimulants?</p>
+
+
+<p>One reason to worry is that even supervised prescription use can result in side effects. Although previous studies have yielded mixed results, a 2024 case-control study found that long-term exposure to stimulants for ADHD was associated with greater risks of cardiovascular disease, especially high blood pressure and arterial disease.<sup>13</sup></p>
+
+<p>And then there’s the psychosis risk. It's been well-known since at least the 1950s that illicit or recreational stimulant use of drugs like methamphetamine can cause an acute, florid psychosis. Recreational use also substantially increases the risk of first-episode psychosis.<br><br>The risk of psychosis with prescription stimulants taken at appropriate doses is much, much less but it’s not zero.<sup>14</sup> A 2019 study found that the rate of new onset psychosis with prescription medications in a sample of adolescents and young adults was 1 in 660 patients.<sup>15</sup> With some 2 million patients taking prescription amphetamines, that amounts to thousands of patients. A more recent case-control study also found that the chance of developing psychosis or mania was greater among those taking prescription stimulants than not with an adjusted odds ratio of 2.68.<sup>16</sup> For high doses of prescription stimulants—more than 30 mg/day dextroamphetamine equivalents (i.e., 40 mg of Adderall and 100 mg of Vyvanse)—the risk of psychosis or mania was 5.3 greater compared to those not on stimulants with an attributable risk percentage of 81%.</p>
+
+
+
+  
+
+
+<p>These days, I see a lot of patients hospitalized with psychosis who are taking prescription stimulants as outpatients. Association isn’t causation, so this could just reflect the fact that so many adults are now on stimulants—perhaps especially in the Bay Area where I work. But it’s always possible that the stimulants are worsening the psychosis or are being taken at non-prescribed doses, very likely that they’ll interfere with the effectiveness of antipsychotic medications, and uncertain—in the midst of hospitalization for psychosis—whether a patient really has ADHD or not. As a general rule, stimulants are therefore held, at least during the hospitalization and until resolution of psychosis.</p>
+
+<p>The Drug Enforcement Agency (DEA) is deliberating whether and when to reinstate a previous law that required in-person visits for controlled substances including prescription stimulants. That law was suspended during COVID-19 to prevent people with ADHD from running out of medications, but the post-COVID spike in prescriptions for adult ADHD may result in its reinstatement sooner rather than later.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202607/adult-adhd-stimulants-and-psychosis" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/psych-unseen/202607/adult-adhd-stimulants-and-psychosis</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psych-unseen/202607/adult-adhd-stimulants-and-psychosis</guid>
+            <dc:creator><![CDATA[Joe Pierre M.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/bluebudgie-ai-generated-9268433.jpg?itok=lIEFojyl" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Back-to-School Tips Every Parent Needs for a Successful School Year]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Cook.png.jpg?itok=6zFBKbhL" alt="Cook" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Back-to-School Tips Every Parent Needs for a Successful School Year</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Practical parenting tips to reduce stress and build school success.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Preparing children emotionally is just as important as buying school supplies.</li><li style="margin-bottom:6px;">Teaching digital responsibility helps children use school technology safely and wisely.</li><li style="margin-bottom:6px;">Viewing behavior as communication can help parents respond with empathy instead of punishment.</li>
+            </ul>
+          </div>
+                    <p>As summer winds down, many parents find themselves preparing for another school year by shopping for backpacks, filling out paperwork, and checking supply lists. While those tasks are important, the most valuable preparation comes from helping children feel emotionally, physically, and mentally ready for the transition.</p>
+
+<p>The shift from carefree summer days to structured school routines is a significant adjustment for children of all ages. New teachers, unfamiliar classmates, earlier mornings, academic expectations, and changing social dynamics can leave even confident children feeling overwhelmed. Fortunately, a few intentional strategies can make the transition smoother while setting the stage for a successful year.</p>
+
+<h2>Prioritize Sleep Before School Starts</h2>
+<p>One of the biggest challenges families face each August is resetting sleep schedules after weeks of later bedtimes and slower mornings. Unfortunately, waiting until the night before school starts often leads to exhausted children and stressful mornings.</p>
+<p>Sleep is essential for attention, learning, emotional regulation, memory, and physical health. Children who are sleep deprived are more likely to struggle with irritability, anxiety, behavioral concerns, and difficulty concentrating in the classroom.</p>
+
+<p>Rather than making an abrupt change, begin shifting bedtime and wake-up time approximately three weeks before school begins. Moving each by just 15 to 20 minutes every few days allows the body's internal clock to adjust more naturally.</p>
+<p>Parents can also improve sleep hygiene by establishing a predictable bedtime routine, limiting screens during the hour before bed, and encouraging children to spend time outside in the morning. Exposure to natural light shortly after waking helps regulate circadian rhythms, making it easier to fall asleep the following evening.</p>
+
+<p>Older children will resist these changes. They may try to sneak electronic devices into their bedroom. They may try to negotiate with you. They may argue and tell you that they can stay up late and still wake up on time for school. Make these changes anyway. </p>
+<h2>Recognize That Back-to-School Anxiety Is Normal</h2>
+
+<p>Even children who enjoy school often experience anxiety before the first day. Think about it from a child's perspective. They may be entering a classroom where they know few people, are navigating unfamiliar routines, wondering if they'll like their teacher, or worrying about fitting in socially. That's a tremendous amount of uncertainty for a developing brain.</p>
+
+<p>Parents can reduce anxiety by acknowledging these feelings rather than dismissing them. Statements like, "It's okay to feel nervous about something new," help children understand that anxiety is a normal response to change—not a sign that something is wrong.</p>
+<p>If your child is starting at a new school, visiting the building beforehand can be especially helpful. Walking through the hallways, locating classrooms, finding the cafeteria, and practicing the route to school all create familiarity that reduces uncertainty on the first day.</p>
+
+
+<h2>Build Independence Before the School Year Begins</h2>
+<p>Back-to-school season offers an excellent opportunity to gradually increase age-appropriate independence:</p>
+<ul>
+<li>Preschoolers can practice opening lunch containers, putting on backpacks, and using the bathroom independently.</li>
+<li>Elementary-aged children can begin packing their own backpacks, checking homework folders, and taking responsibility for simple morning routines.</li>
+<li>Teenagers benefit from managing long-term assignments, communicating respectfully with teachers, and organizing their own schedules.</li>
+</ul>
+
+<p>Allowing children to practice these skills before school begins builds confidence while reducing the number of reminders parents need to provide each morning.</p>
+<h2>Talk About School-Issued Technology</h2>
+<p>Many students now receive laptops or tablets from their schools. While these devices are valuable educational tools, they also require ongoing conversations about digital responsibility.</p>
+
+
+
+  
+
+
+<p>Children should understand that school-issued devices belong to the school—not to them. Activity completed on these devices may be monitored, and deleted content may not truly disappear. Teaching children to treat school technology professionally helps establish healthy digital habits that will benefit them throughout adulthood.</p>
+
+<p>Parents should also review basic internet safety before school begins. Remind children never to share personal information online, click unfamiliar links, or communicate privately with strangers. Encourage them to tell a trusted adult immediately if something online makes them uncomfortable.</p>
+<p>These conversations should focus on guidance. The goal is to help children develop good judgment—not simply avoid punishment.</p>
+
+<h2>Create Mornings That Feel Calm</h2>
+<p>The most successful morning routines begin the night before.</p>
+<p>Simple habits like laying out clothes, packing backpacks, charging devices, filling water bottles, and reviewing the next day's schedule can dramatically reduce morning chaos. Visual checklists are especially helpful for younger children because they encourage independence while reducing repeated verbal reminders. When children know what to expect, mornings become less about rushing and more about starting the day with confidence.</p>
+
+<h2>Protect What Matters Most</h2>
+<p>Parents often feel pressure to enroll children in multiple extracurricular activities as the school year begins. While sports, music, and clubs offer wonderful opportunities, overscheduling can leave children chronically tired and emotionally overwhelmed. Children need unstructured time to relax, play, connect with family, and simply recover from the demands of the school day. Protecting adequate sleep, regular family meetings, and downtime is just as important as building an impressive résumé.</p>
+
+<h2>Know When to Seek Additional Support</h2>
+<p>Some nervousness during the first few weeks of school is completely expected.</p>
+<p>However, persistent school refusal, panic attacks, ongoing sleep disturbances, frequent physical complaints without a medical explanation, significant mood changes, or a sudden decline in academic performance deserve further attention.</p>
+
+<p>Children often communicate distress through behavior long before they can explain it with words. Viewing behavior as communication allows parents to respond with curiosity rather than punishment.</p>
+<p>Back-to-school success isn't measured by perfect grades or flawless routines. Instead, it begins with helping children feel emotionally safe, well-rested, and confident enough to learn. As parents, we can't eliminate every challenge our children will encounter this school year. We can, however, provide the steady support that helps them navigate those challenges with resilience.</p>
+
+<p>Preparing children for school is all about strengthening the skills they'll carry with them long after the school year ends.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/parenting-redefined/202607/back-to-school-tips-every-parent-needs-for-a-successful-school-year" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/parenting-redefined/202607/back-to-school-tips-every-parent-needs-for-a-successful-school-year</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/parenting-redefined/202607/back-to-school-tips-every-parent-needs-for-a-successful-school-year</guid>
+            <dc:creator><![CDATA[Kristen Cook, MD]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-rdne-8500353.jpg?itok=OkyXJrQl" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When a Dream Becomes a Delusion]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/EnterpriseLOGOupscale-removebg-preview.jpg?itok=CEBhKVc_" alt="Enterprise ADHD Institute" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When a Dream Becomes a Delusion</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Our culture worships hustling, but relentless pursuit can break hearts.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Career grief, the pain of unfulfilled ambition, is real and deserves to be taken seriously.</li><li style="margin-bottom:6px;">Our culture insists you keep trying until you succeed, but that message can quietly break people.</li><li style="margin-bottom:6px;">Early promise can be a curse. Sometimes the most gifted people fall the hardest.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/images-5.jpeg.jpg?itok=a5-0NwXf" width="320" height="216" data-insert-type="image" alt="Success comes at a price" title="razihusin / Istockphoto"></div>
+<div class="caption">Success comes at a price</div>
+<div class="insertArea--origin subtext">Source: razihusin / Istockphoto</div>
+</div>
+</div>
+</div>
+<p dir="ltr">If at first you don't succeed, try, try, try again… Never give up on your dreams… you've got to have a dream; if you don't have a dream, how ya gonna have a dream come true?</p>
+<p dir="ltr">The idea of striving valiantly toward success is so baked into our Western culture that it's almost a religion. Movies, books, and songs have been written about the heroes of our time who have struggled against adversity and come out on top. They started with nothing and made it big. Madonna arrived in New York in the '80s with only 20 bucks to her name and became the biggest superstar in the world; Oprah rose from humble beginnings to become the media titan of our age; Dolly Parton was so poor she wrote songs about her homemade coat of many colours. But it was all good because there's a cheerful ending to the story and they all lived happily ever after.</p>
+
+<p dir="ltr">But what about the stories we never hear because no one wants to tell them? What about the majority of people who struck out for glory and fell short? In trying to write this post, it was nearly impossible to get anyone to open up about failure. No one wants to tell that story unless there's a happy ending. The fact that you lived out of your car and relied on food stamps is romantic and glorious when told from the perspective of your penthouse apartment, but when you're currently down-at-heel, it's filled with shame. As Alain de Botton famously said, America loves a success story but hates "losers."</p>
+
+<p dir="ltr">While it's nearly impossible to get anyone to discuss their failures in life, and no one wants to ever frame their story as a "loser," I am in the privileged position of interviewing people about their career trajectories for my work and have noticed people often have what I call "career grief," the grief that comes when your career hasn't exactly taken off in the way you would have liked.</p>
+
+<h2>Beware of Early Success</h2>
+<p dir="ltr">Some of the worst examples of career grief are surprisingly from the people who had the most auspicious starts. In the words of Cyril Connolly: Whom the gods wish to destroy, they first call promising. Some of the most heartbreaking stories have come from people who seemed destined for greatness, but for one reason or another, it just didn't quite work out. Joanne* was the recipient of one of the biggest music prizes in the United Kingdom. After being hailed as the next big thing, her career never lived up to its early promise. Fifteen years later, she is now living in a camper van and scraping by on benefits. Occasionally she leafs through a dog-eared scrapbook of press clippings from her first flush of fame. "I really thought I was going to be the biggest recording artist in the world. I know it sounds really big-headed, but my shows were genius. I put so much work into them. It's hard to accept it's not going to happen for me, that that was it." Joanne is still trying to claw her way back to the big time and is currently working on her own self-produced album; "I just can't bring myself to quit, despite everything. It's too heartbreaking. I would literally rather die."</p>
+
+<h2>Sunk Cost Fallacy</h2>
+<p dir="ltr">Why is it so hard to quit, or to use the new buzzword for a career change, to "pivot" to something else? Some people find it incredibly hard to let go of career aspirations, even when they are clearly not yielding results, especially when they have devoted huge portions of their lives to the pursuit. In Joanne's case, 20 years of her life were devoted to her music career, forgoing starting a family and making any financial provisions for her future. In fact, the more time spent on a pursuit, the harder it is to give up, due to a psychological trap called the "sunk cost fallacy." The sunk cost fallacy is when you keep investing time, money, or effort into something just because you've already put so much in, even though it no longer makes sense to continue. You stick with the bad decision to justify the past decision, rather than cutting your losses.</p>
+
+<h2>Survivorship Bias</h2>
+<p dir="ltr">Another reason why people will plough ahead with career ambitions even after they have failed is what's known as survivorship bias. A great example is when we see the likes of Taylor Swift or Lady Gaga imploring people to "never give up on your dreams" as they didn't give up, and look at them now. It's a heartwarming and life-affirming tale, but unfortunately a prime example of survivorship bias. Survivorship bias is when you draw conclusions by looking only at the people or things that made it through some process, while ignoring everyone who didn't. This skews the picture, because you're only seeing the success stories, not the far larger group who tried and failed.</p>
+
+<h2>Optimism Bias</h2>
+<p dir="ltr">The funny thing is, even while knowing the facts and figures about success and failure, people will still try to beat the odds, thinking, well, that's tough for everyone else, but it will work out for me; if I just keep trying, I will be the one to succeed. There's a canny little bit of programming in the human brain which serves us very well in most situations because it allows us to survive in a very scary world; it's called the optimism bias. Optimism bias is the tendency to believe you're less likely than other people to experience bad outcomes, and more likely to succeed, even when the odds are actually the same for everyone. It's why so many people assume they'll be the exception when something has failed for most people who tried it.</p>
+
+
+<p dir="ltr">The answer to this whole predicament isn't to quit but to realise that whether you succeed or not, it doesn't affect your intrinsic value as a human being. The heartache of "career grief" comes from labelling yourself as a failure. Joanne is still one of the most talented and inspirational female artists you could meet, whether her industry recognises it or not. After many interviews with people suffering from "career grief," I have nothing but empathy for how hard it is to deal with; it's a genuine heartbreak. The grief of unfulfilled career aspirations can be just as devastating as any other form of grief and deserves the same empathy and understanding. In his brilliant book, <em>Status Anxiety</em>, Alain de Botton suggests that this malaise could be alleviated by giving more dignity and respect to what he calls "an ordinary life." I personally have found that a huge part of recovery is self-forgiveness, so much so that I have devoted a whole chapter of my book, <a href="https://www.amazon.co.uk/dp/B0H6KJX596"><em>How to Get Your Sh*t Together</em></a>, to it.</p>
+
+<p dir="ltr">In a capitalist society, it can sometimes seem that the only lives of note are the big ones, lit up in lights on a movie theatre, when in reality, every one of us is a unique, lovable, and worthy being, full of potential and intrinsic value, whether we realise it or not.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/is-this-how-normal-people-feel/202607/when-a-dream-becomes-a-delusion" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/is-this-how-normal-people-feel/202607/when-a-dream-becomes-a-delusion</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/is-this-how-normal-people-feel/202607/when-a-dream-becomes-a-delusion</guid>
+            <dc:creator><![CDATA[Enterprise  ADHD Institute]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/images-5.jpeg.jpg?itok=Mz3wOQ18" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Story Intelligence Is a New Core Capability]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/AlbaneBrandPhoto-272-5679-removebg-preview.jpg?itok=hc6kjL3R" alt="Anna Katharina Schaffner Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Story Intelligence Is a New Core Capability</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The real human advantage is making better sense of the stories we live by.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">We rarely respond to reality itself. We respond to the stories our minds construct about reality.</li><li style="margin-bottom:6px;">Story Intelligence is the ability to recognise, question and consciously reshape those stories.</li><li style="margin-bottom:6px;">As AI produces ever more information, the scarce human skill becomes wise interpretation—not data.</li><li style="margin-bottom:6px;">Leaders don't just manage people or strategy. They shape the stories through which both are understood.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/steve-a-johnson-whaqmsdrkmi-unsplash.jpg?itok=3QGPXVen" width="320" height="180" data-insert-type="image" alt="Story-Intelligence" title="Steve A. Johnson / Unsplash"></div>
+<div class="caption">Story-Intelligence</div>
+<div class="insertArea--origin subtext">Source: Steve A. Johnson / Unsplash</div>
+</div>
+</div>
+</div>
+<p>Every few decades, a new form of intelligence captures the public imagination. During much of the twentieth century, intelligence was largely equated with IQ. Then came emotional intelligence, reminding us that success depends not only on analytical reasoning, but also on understanding and influencing emotions. More recently, we have become interested in systems thinking, cultural intelligence, interoception and the special gifts of neurodivergent brains.</p>
+
+<p>Another, so far overlooked, form of intelligence deserves a place alongside them: <em>Story Intelligence</em>*. Story intelligence is the ability to recognise, interpret, question and consciously shape the stories that govern our perceptions, emotions and behaviour.</p>
+<h2>Mistaking Stories for Truth</h2>
+<p>Most of us underestimate just how profoundly stories shape our lived experience. We tend to think of stories as things we encounter in novels, films or Netflix series. But the most powerful stories are rarely fictional. They are the narratives we continually construct about ourselves, other people and the world.</p>
+
+<p>We rarely experience reality directly. Instead, we experience our interpretation of it. And our interpretations take the forms of stories; we select specific scenes and details and put them into a relation of cause and effect. Because of x, y happened. Because of y, z happened. And so on. Our wellbeing and sense of self are therefore not shaped by reality alone, but to a large extent by the stories we tell ourselves about our reality. These stories are often so familiar that they become invisible. We mistake them for facts or truths.</p>
+
+<p>We may tell ourselves that we are not leadership material, that our bosses do not value us, that we are imposters about to be unmasked and fired, that people cannot be trusted, that we are lacking or defective in numerous ways, or that we are not good enough or fundamentally unlovable. We tell stories about why someone looked at us in a particular way. Why we succeeded or why we failed. Why we belong, or don’t belong.</p>
+
+<p>Many of these stories are simply unhelpful interpretations that have gradually hardened into core beliefs. They are based on a highly selective reading of our lives: a handful of carefully chosen scenes and very specific, often unfair and biased, interpretations of those scenes. Because we dislike cognitive dissonance, we filter new experiences so that they fit with and reinforce the stories we already believe. We are, then, not just storytelling animals, but storytelling animals with serious cognitive blinkers on.</p>
+
+<h2>The Evidence Has Been Pointing Towards This for Decades</h2>
+<p>Psychologists have understood this for a long time. Carl Jung wrote: ‘The most important question anyone can ask is: What myth am I living?’ Narrative psychologists have shown that much of our identity rests on the stories we tell ourselves about ourselves and others. Acceptance and Commitment Therapy (ACT) distinguishes between helpful and unhelpful interpretations, while Cognitive Behavioural Therapy (CBT) distinguishes between thoughts and facts. Both recognise how profoundly our storified interpretations shape our emotions and behaviours. Historians know that societies organise themselves around shared narratives. Organisational psychologists increasingly recognise that workplaces run not only on strategy and incentives, but also on stories.</p>
+
+<p>Story Intelligence brings these insights together into a single, practical, distinctly human capability. It begins with questions many of us rarely pause to ask:</p>
+<p><em>What story am I currently telling myself?</em></p>
+<p><em>Which experiences and interpretations is this story built on?</em></p>
+<p><em>Is this story helping me – or holding me back?</em></p>
+
+<p><em>What more generative stories might be equally true?</em></p>
+<p>These questions matter because our stories do not merely describe our reality. They actively construct it, shape our emotional and behavioural responses and determine our futures.</p>
+<p>Someone who interprets constructive feedback as evidence of rejection will respond very differently from someone who interprets the same conversation as an investment in their development. Two colleagues can experience the same organisational restructuring in radically different ways. One sees opportunity. The other sees threat and betrayal. The external reality may be identical. The stories are not.</p>
+
+<h2>Why Story Intelligence Matters </h2>
+<p>Story intelligence matters more than ever because we are entering an era of extraordinary technological capability combined with unprecedented interpretive uncertainty.</p>
+<p>Artificial intelligence can generate reports, answer questions, analyse enormous datasets and produce persuasive information in seconds. However, it cannot determine what that information means for us and which parts of it are truly relevant. Meaning- and sense-making remain profoundly human capabilities.</p>
+
+
+
+  
+
+
+<p>AI may tell us that our industry is changing. It cannot tell us whether to interpret that change as catastrophe, liberation or opportunity for reinvention. It can summarise a medical diagnosis. It cannot determine the story we construct about living with illness. It can analyse economic forecasts. It cannot decide whether uncertainty is a reason to withdraw our investments in fear or to experiment more courageously. Our decision depends on the stories we tell about the facts.</p>
+
+<p>Indeed, the more information AI generates, the greater the premium on wise and discerning human interpretation and story awareness becomes. The scarce resource is no longer information itself. It is the ability to make good sense of and tell generative stories about it.</p>
+<h2>Organisations Live Inside Stories, Too</h2>
+
+<p>Story intelligence therefore matters not only for personal wellbeing, but also for leadership, organisational life and society more broadly.</p>
+<p>Organisations, too, live inside stories. Strategies succeed or fail not simply because they are analytically sound, but because employees construct stories about what those strategies mean for them. Leaders who understand these hidden narratives gain access to one of the most powerful – and overlooked – drivers of organisational behaviour.</p>
+
+<p>One of the most common assumptions I encounter in <a href="https://www.annakschaffner.com/services-8">my work with organisations</a> is that people resist change. I am not convinced this is usually true. More often, people resist the meaning they attach to change: A restructuring becomes a story about the threat of redundancy and uncertainty, and about leadership incompetency. Artificial intelligence becomes a story about human obsolescence. Change becomes a story about loss and energy-wastage. The strategic plan itself is rarely the problem. The stories people construct around it often are.</p>
+
+<h2>Becoming the Author Rather Than the Prisoner</h2>
+<p>The same principle applies in our private lives. A difficult conversation becomes a story about rejection. Failure becomes a story about identity rather than behaviour or learning. Exhaustion becomes a story about personal inadequacy instead of a signal that something structural or behavioural requires our attention.</p>
+
+<p>The stories we live inside determine what we notice, what we remember, how we feel and what we believe is possible.</p>
+<p>The good news is that our stories are not written in stone. Story intelligence is not about replacing every difficult thought with a positive one. Nor is it about pretending painful realities do not exist; some stories are true and need to be heard and acted on. Instead, it is about becoming aware that our minds are continually interpreting experience – and recognising that interpretation is often far more flexible than we assume.</p>
+
+<p>The most story-intelligent people I know share one quality above all others: they hold their own narratives lightly. They remain curious about the stories they are telling themselves and are also curious about other people's stories. They notice when an interpretation is masquerading as a fact. They are willing to revise their narratives when new evidence emerges. They become active authors rather than passive prisoners of their stories.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202607/why-story-intelligence-is-a-new-core-capability" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202607/why-story-intelligence-is-a-new-core-capability</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202607/why-story-intelligence-is-a-new-core-capability</guid>
+            <dc:creator><![CDATA[Anna Katharina Schaffner Ph.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/gabriele-malaspina-cjwsslyvnpi-unsplash.jpg?itok=txqcDM6P" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Healing Meditation Using Internal Family Systems]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/worthen_meredith.jpg?itok=GtcAatEC" alt="Meredith G. F. Worthen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Meditation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Healing Meditation Using Internal Family Systems</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Self-care to unburden stress and anxiety and create pathways toward healing.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Setting aside just 10-15 minutes a day for meditation can change your life.</li><li style="margin-bottom:6px;">Internal Family Systems approaches encourage you to look inside at all your “parts” and reflect.</li><li style="margin-bottom:6px;">An IFS-style meditation can help unburden stress and anxiety and create pathways toward healing.</li>
+            </ul>
+          </div>
+                    <p>If you’re like me, your day-to-day is full of endless tasks and a multitude of pressures and demands. <em>How could I possibly find the time for self-care and, much less, meditation? And even if I had time, where would I start? </em></p>
+<p>Setting aside just 10-15 minutes a day for meditation can change your life. Here I provide my favorite healing meditation using Internal Family Systems (IFS) to help unburden stress and anxiety and create pathways toward healing.</p>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/person_with_insomnia.jpg?itok=OL9CH-0J" width="320" height="214" data-insert-type="image" title="Stock-Asso Adobe Stock" alt="Stock-Asso Adobe Stock"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Stock-Asso Adobe Stock</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/pexels-cup-of-couple-6962655.jpg?itok=EoSCwxgc" width="320" height="213" data-insert-type="image" title="Cup of Couple / Pexels" alt="Cup of Couple / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Cup of Couple / Pexels</div>
 </div>
 </div>
 </div>
-<p><strong>Sleeping for Brain Recovery</strong></p>
-<p>Sleep is not merely rest. It is an active and essential process during which the brain repairs itself. During non-rapid eye movement (NREM) sleep, the brain’s energy expenditure is about 85 percent of waking levels (1). The brain clears out metabolic waste products via the newly discovered glymphatic system and reinforces neural connections (2). For someone recovering from encephalitis (brain inflammation), for example, where inflammation might have damaged brain tissue and disrupted neural networks, this maintenance becomes critical. NREM slow-wave sleep and REM sleep serve vital functions: NREM slow-wave sleep aids memory consolidation and physical repair, while REM sleep handles emotional processing through vivid dreams (3).</p>
+<h2>Internal Family Systems</h2>
+<p>The IFS model of therapeutic practice has become wildly popular (e.g., Schwartz, 2021). The approach encourages you to look inside at all your “parts,” reflect on what they are telling you, and work to unburden past harm and trauma. Instead of trying to change ourselves, IFS acknowledges “All parts are welcome.” IFS helps us heal from the <em>inside out</em>—just like the Disney Pixar movie series title (which is loosely based on IFS!). By getting to know our parts, we can also locate our truest sense of Self (capital “S”). </p>
 
-<p><strong>Sleep and Brain Injury</strong></p>
-<p>Following an acquired brain injury (ABI), whether caused by encephalitis, trauma, stroke, or another condition, sleep is often one of the first things to change. Studies suggest that the majority of people living with a brain injury experience some form of sleep disturbance, with more than 50 percent of children and more than 50 percent of adults with ABI experiencing sleep-wake disturbances in the months after hospital discharge (4, 5). </p>
+<p>The founder of IFS, <a href="https://ifs-institute.com/about-us/richard-c-schwartz-phd">Richard C. Schwartz</a>, outlines the four basic goals of IFS in his book, <em>No Bad Parts</em> (2021). They are:</p>
+<ol>
+<li>Liberate parts from the roles they’ve been forced into, so they can be who they’re designed to be.</li>
+<li>Restore trust in the Self and self-leadership.</li>
+<li>Reharmonize the inner system.</li>
+<li>Become more Self-led in your interactions with the world. </li>
+</ol>
 
-<p>Some find it hard to fall asleep at all, lying awake as a racing or foggy mind refuses to switch off. Others drift off easily but wake repeatedly through the night, then cannot get back to sleep no matter how exhausted they feel. Vivid, intense, or unsettling dreams are also common, sometimes leaving people more drained than when they went to bed (6). Overwhelming daytime fatigue and the need to nap can blur the line between day and night, pushing the body's natural rhythms further out of step. Crucially, these changes are not a sign of weakness or of doing something wrong: they are a direct consequence of injury to the very organ that regulates sleep. Understanding this is the first step towards reclaiming rest.</p>
-
-<p><strong>Tips for improving sleep</strong></p>
-<p>To improve sleep after an ABI, there are several things one can do: </p>
+<p>In my own self-care work with IFS, I have practiced many different meditations. Merging such practices with my own goals, I have come up with my favorite one. I hope you will try it out! </p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/pexels-katrin_bolovtsova.jpg?itok=C65TZGfd" width="320" height="480" data-insert-type="image" title="Katrin Bolovtsova / Pexels" alt="Katrin Bolovtsova / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Katrin Bolovtsova / Pexels</div>
+</div>
+</div>
+</div>
+<h2>Daily Meditation: Hello Parts! Hello Self! </h2>
+<p>This is a short and restorative meditation that you can do every day. It is a check-in with your part(s) and a way to connect with your true Self. It is partially adapted from Schwartz’s exercise “Unblending and Embodying” (2021).</p>
 <ul>
-<li>Get as much exposure to daylight as possible, while following sun safety advice (such as using sunscreen).</li>
-<li>Engage in gentle activity during the day.</li>
-<li>Avoid screens late at night or just before bed. They suppress melatonin, which helps regulate sleep.</li>
-<li>Reduce caffeine and alcohol.</li>
-<li>Consciously slow down nasal breathing (four to six breaths per minute if possible).</li>
-<li>Keep a ‘sleep diary’ to share with your doctor.</li>
-<li>Consider clinical sleep interventions such as CBT-I (cognitive behavioural therapy for insomnia).</li>
+<li>Start by getting relaxed and comfortable. Maybe sit in your favorite chair or even lie on the ground. Try to minimize any noise around you or play soothing sounds and/or music. Close your eyes and take a few deep cleansing breaths. </li>
+<li>Now let your parts speak to you. Which part is talking loudest? What is it saying? If nobody is talking, invite them to speak up, but make them feel comfortable by telling them you are here to listen to what they are concerned about. If too many parts are talking, invite one to the forefront and tell the others you promise to check in with them soon. </li>
+<li>After identifying a one-on-one interaction with the loudest part, create an open space for you both to take the time to chat. It might help to visualize the part as a color, object, or even a figure. It might sound silly, but it really helps me to talk to something I can visualize. Some talking points you might have with your part might be: <em>What is going on today? How are you feeling? What are you most concerned about? </em>Then wait and listen. </li>
+<li>After the part responds to your questions, reassure your part that you are here to help. Tell the part they don’t have to struggle alone. Remind them that you have the strength to work together to figure this out and heal.</li>
+<li>With the conversation going, let your part share its fears and concerns. Acknowledge and validate those feelings. If you’re new to IFS, you might need to remind your part that it probably doesn’t know you very well yet and tell your part you hope to get better acquainted. Though it may seem odd to <em>want</em> to get to know a part that is stressing you out, IFS reminds us that knowing our parts is necessary in order to unburden them, make them feel safe and cozy, and work toward healing.</li>
+<li>If you are able, tell the part it can relax. Maybe even visualize the part getting comfy. Explain that you are a competent adult who is able to handle the situation at hand (because many parts are stuck or lingering in our childhood selves). </li>
+<li>Here is the segment I enjoy most: With that open space of relaxation, you might notice a sense of harmony taking over your body. If you don’t notice this immediately, take a few more deep breaths. Sometimes you might even feel your body shifting toward an overwhelming sense of restful calmness. But if you don’t, not to worry! You might need to get to know this part more deeply before you experience this type of release. </li>
+<li>If your part is comfy enough to separate, what IFS calls “unblending,” your true sense of Self-energy might show up and hang out a bit. Self-energy feels different for everyone, but many describe it as a humming sense that creates an overall feeling of equanimity, or Zen. For me, it is fun to visualize self-energy as a ball of light, glitter, or shining waves of sun. Take a few breaths and sit inside the feelings you are having with Self-energy. Sometimes I even hear soothing sounds such as crashing waves, so remember to check in with all five senses during this process. This helps with recognizing how the embodiment of Self feels to you. </li>
+<li>When you are ready, thank your part for coming out to chat. Remind it that you know it is important. Reassure it that you will be back soon to check in with it and that it can trust you (similar to what you might tell an anxious child to help them feel safe and supported). You might even give your sense of Self a hug too. </li>
+<li>Now gradually open your eyes, take a few more deep breaths, and come back into the world—recharged and ready for what is next.</li>
 </ul>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/pexels-lukas-rychvalsky-671549.jpg?itok=GtfWjH5c" width="320" height="480" data-insert-type="image" title="Lukas Rychvalsky / Pexels" alt="Lukas Rychvalsky / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Lukas Rychvalsky / Pexels</div>
 </div>
-
-  </div>
-
-<p><strong>The Role of Support Networks</strong></p>
-<p>Family members and caregivers play a crucial role in supporting healthy sleep during recovery. They can help maintain routines, create a restful environment, and advocate for appropriate medical interventions when needed. But they must also manage their own sleep and well-being too.</p>
-
-<p>Furthermore, support groups, whether in-person or online through patient organisations, can provide practical strategies from others who've navigated similar challenges. Sometimes knowing you're not alone in your struggles makes them easier to bear.</p>
-<p><strong>A foundation for healing</strong></p>
-<p>Brain health, and particularly recovery from acquired brain injury (ABI), has its ups and downs. Prioritising sleep provides the foundation for recovery from this neurological condition. </p>
-
-
-<p>The key is to take it one day at a time. If you are struggling with sleep during recovery, you are not alone. Speak with your medical team, connect with other people, and remember that sleep is one of the most important medicines for brain healing.</p>
-<p><em>Prav Prathapan is Senior Medical Writer at Encephalitis International.</em></p>
+</div>
+</div>
+<p>I hope you enjoyed this meditation and spending time with your Self. This practice serves as a reminder that “Like the sun, the Self can be temporarily obscured, but it never disappears” (Schwartz, 2021). </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-inflamed-brain/202607/why-sleep-matters-for-brain-inflammation" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/queering/202607/a-healing-meditation-using-internal-family-systems" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-inflamed-brain/202607/why-sleep-matters-for-brain-inflammation</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-inflamed-brain/202607/why-sleep-matters-for-brain-inflammation</guid>
-            <dc:creator><![CDATA[The Research Room]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/queering/202607/a-healing-meditation-using-internal-family-systems</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/queering/202607/a-healing-meditation-using-internal-family-systems</guid>
+            <dc:creator><![CDATA[Meredith G. F. Worthen Ph.D.]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/person_with_insomnia.jpg?itok=XrbCJBZ6" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-katrin_bolovtsova.jpg?itok=GgB3_cKy" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Your Brain Needs a Cognitive Immune System]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/changiz-removebg-preview.jpg?itok=IYUc55oB" alt="Changiz Mohiyeddini Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Your Brain Needs a Cognitive Immune System</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Five daily questions can train your mind to resist misinformation.</h2><p style="font-size:0.9em;color:#666;">Posted July 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Art of the Apology]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/changiz-removebg-preview.jpg?itok=IYUc55oB" alt="Changiz Mohiyeddini Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Forgiveness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Art of the Apology</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Most apologoes fall flat. They don't have to.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The brain defaults to fast, intuitive thinking, which makes repeated and emotionally charged claims feel true.</li><li style="margin-bottom:6px;">Critical thinking taught as a one-time skill fades; practiced as a daily habit, it becomes automatic.</li><li style="margin-bottom:6px;">A five-question routine—the CIS-5—helps build "mental antibodies" against manipulation.</li><li style="margin-bottom:6px;">Intellectual humility, not blanket skepticism, is the goal.</li>
+              <li style="margin-bottom:6px;">Many apologies fail because they omit components the injured person needs to hear</li><li style="margin-bottom:6px;">Research shows accepting responsibility is the single most important element of an effective apology.</li><li style="margin-bottom:6px;">Forgiveness belongs to the person you hurt. An apology that demands it becomes a transaction.</li>
             </ul>
           </div>
-                    <p>You’ve felt it: the headline that lands like a punch, the statistic that confirms exactly what you suspected, the video that seems too outrageous <em>not</em> to share. Before you’ve consciously decided anything, your brain has already voted.</p>
-<p>That vote is the problem. In an information environment shaped by algorithmic curation, emotionally optimized headlines, and AI-generated media that is increasingly indistinguishable from the real thing, the deepest threat isn’t misinformation itself. It’s <em>cognitive autopilot</em>—our tendency to accept whatever feels fluent, familiar, and emotionally resonant.</p>
+                    <p><em>"I'm sorry you feel that way." </em></p>
+<p><em>"Mistakes were made." </em></p>
+<p><em>"I apologize, but..."</em></p>
+<p>We have all received apologies like these—and felt worse afterward. Words of contrition were technically present, yet something essential was missing. The apology was not taken seriously, or it was judged insufficient, and the relationship stayed bruised.</p>
 
-<p>The good news: Just as the body builds immunity through repeated, low-dose exposure, the mind can build resistance to manipulation through small, daily acts of deliberate thinking. Call it a cognitive immune system.</p>
-<h2>Why Smart People Fall for Bad Information</h2>
-<p>Human cognition evolved for efficiency, not for epistemic vigilance. Decades of research on dual-process thinking show that we rely on fast, intuitive judgments unless something prompts us to slow down and engage effortful analysis (Kahneman, 2011). Slowing down is metabolically expensive, so the brain avoids it whenever it can.</p>
+<p>Research on conflict repair shows that apologies vary enormously in effectiveness, and that most of that variation comes down to <em>structure</em>: which components an apology contains, not how emotional it sounds. In a series of studies, Lewicki and colleagues (2016) tested six candidate components and found that apologies became dramatically more effective as more components were included—and that some components mattered far more than others.</p>
 
-<p>Digital platforms exploit these defaults with precision. Consider the <em>illusory truth effect</em>: Simply repeating a claim makes it feel more accurate—even when people know better. In a series of experiments, Fazio and colleagues (2015) found that repetition increased belief in false statements even among participants who possessed the correct knowledge. Familiarity, it turns out, can quietly outvote facts.</p>
+<p>Apologizing well is hard for a reason. Admitting fault threatens our self-image as good, competent people, which is precisely why we reach for hedges, justifications, and passive voice (Schumann, 2018). An effective apology requires overriding that self-protective reflex. These are the five steps research suggests that a complete apology should contain:</p>
 
-<p>Add time pressure, information overload, and emotionally activating content, and analytic thinking gets suppressed exactly when we need it most. Intelligence offers little protection here; the vulnerability is structural, not intellectual.</p>
-<h2>The Problem With How We Teach Critical Thinking</h2>
-<p>Most of us encountered critical thinking as a discrete lesson: a unit on logical fallacies, an essay on evaluating sources, a checklist consulted once and forgotten. These approaches are episodic. They treat critical thinking as a skill to be demonstrated rather than a function to be exercised.</p>
+<h2>Step 1: Acknowledge the Pain</h2>
+<p>Before anything else, name the harm. The person you hurt needs to hear that you see their loss or pain—specifically, not generically. "I know my comment embarrassed you in front of the team" may be welcome; "I'm sorry for whatever upset you" will not be.</p>
+<p>This step matters because an injured person's first question is not "Are you sorry?" but "Do you understand what you did?" Perceived understanding of the offense is a strong predictor of whether victims judge an apology sincere. Skipping it—or blurring it—signals that you either don't grasp the harm or don't consider it real.</p>
 
-<p>But research on habit formation suggests that behaviors become automatic through frequent repetition in stable contexts—not through occasional intense effort (Lally et al., 2010). We rehearse epistemic theory in classrooms, then live in an environment that rewards epistemic shortcuts thousands of times a day. The shortcuts win.</p>
+<h2>Step 2: Own That You Caused It</h2>
+<p>After acknowledging pain, one must acknowledge <em>responsibility</em>. "I'm sorry you were hurt" locates the event in the other person's feelings; "I'm sorry I hurt you" locates it in your actions.</p>
+<p>In Lewicki and colleagues' (2016) component studies, acknowledgment of responsibility emerged as the single most important element of an effective apology. It is also the one people most reliably dodge—through passive constructions ("mistakes were made"), conditional phrasing ("if anyone was offended"), or the small word that undoes everything: "but." The moment a justification follows the apology, listeners reclassify it as a defense (Schumann, 2014).</p>
 
-<p>The fix is not a better lecture on bias. It’s <em>habit architecture</em>.</p>
-<h2>The CIS-5: A Five-Minute Daily Protocol</h2>
-<p>The Cognitive Immune System protocol—CIS-5—is a structured, five-minute routine built around five questions. Applied to one claim per day, it targets the core mechanisms of sound reasoning: metacognitive monitoring, hypothesis generation, counterfactual thinking, and calibration.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<h2>Step 3: Express Genuine Remorse—Without Justification</h2>
+<p>Now, and only now, say you are sorry—and let the sentence end. Expressions of regret work when they follow acknowledgment of harm and responsibility; offered alone, they read as social lubricant rather than repentance.</p>
+<p>Genuine remorse also means resisting the urge to explain why the offense was understandable. Explanations of what happened can help; <em>excuses</em> for it cannot. Research on defensive responding shows that transgressors who feel their self-worth is threatened produce more justifications and less complete apologies—and that shoring up one's sense of self first produces notably less defensive, higher-quality apologies (Schumann, 2014). If you feel the "but" rising, that is the signal to pause, not to speak.</p>
 
-  </div>
+<h2>Step 4: Offer Repair</h2>
+<p>Words acknowledge the past; repair addresses it. Ask—or better, propose—what you can do to make it right, Whether it's correcting the record with the people who witnessed the insult, replacing what was damaged, or redoing the work, make the time.</p>
+<p>In the component research, offer of repair ranked second in importance after responsibility (Lewicki et al., 2016). And a broad meta-analysis of forgiveness research finds that conciliatory gestures—apology paired with compensation or amends—reliably predict victims' willingness to forgive (Fehr, Gelfand, &amp; Nag, 2010). Repair converts an apology from a statement into an act. Even when full restoration is impossible, the offer itself communicates that you take the cost seriously.</p>
 
-<p><strong>1. Friction: </strong>What claim did you encounter in the past 24 hours that felt immediately convincing or emotionally activating? (Immediacy and emotional charge are precisely the signals that intuition has already voted.)</p>
-<p><strong>2. Source trace: </strong>Where did this claim originate—and what incentives might shape that source? Follow it past the headline, past the share, to the primary material.</p>
 
-<p><strong>3. Alternative hypothesis: </strong>What is one plausible competing explanation? Generating even a single alternative disrupts the mind’s tendency to lock onto its first interpretation.</p>
-<p><strong>4. Evidence calibration: </strong>What kind of evidence would genuinely change your mind? If the honest answer is “nothing,” that’s diagnostic.</p>
+<h2>Step 5: Commit to Change</h2>
+<p>Finally, address the future: what will be different so this does not happen again. Not a vague "I'll do better," but something checkable—"I will ask before sharing anything you tell me privately."</p>
+<p>This step answers the injured person's forward-looking question: "Am I safe with you now?" Declarations of repentance signal that the offense reflected a lapse you intend to correct, not a pattern you intend to continue. An apology without changed behavior is, over time, simply a request to be excused repeatedly.</p>
 
-<p><strong>5. Confidence rating: </strong>On a scale of 0 to 100, how confident are you—and why? Putting a number on certainty forces the metacognitive check that autopilot skips.</p>
-<p>Three design principles make this work. <em>Frequency over intensity:</em> Five minutes daily outperforms one high-stakes exercise. <em>Metacognitive rehearsal:</em> You practice noticing your own certainty, not just evaluating claims. <em>Content independence:</em> The protocol targets reasoning processes, so it applies equally to health claims, political news, financial advice, and viral videos.</p>
+<h2>What Not to Do</h2>
+<p>The five steps also clarify why familiar formulas fail. "I'm sorry you feel that way" performs Step 3 while explicitly ignoring Steps 1 and 2. "Mistakes were made" gestures at Step 2 while deleting the actor. "I apologize, but you have to understand..." completes Step 3 and then retracts it. Each is experienced not as a partial apology but as a counterfeit one—which is often worse than silence, because it adds condescension to the original injury.</p>
 
 
 
   
 
 
-<h2>What Changes With Practice</h2>
-<p>Over weeks, the questions start firing on their own. Practitioners report an intuitive “red flag” sensation when encountering unverified claims—cognitive friction that has itself become a habit. This mirrors findings from inoculation research, which shows that pre-emptive exposure to manipulation techniques measurably improves people’s ability to recognize them later (Roozenbeek et al., 2022).</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
+<p>One more caution: Do not demand forgiveness as the price of your apology. Forgiveness is the injured person's to give, on their timeline. An apology that ends with "...so are we good now?" converts a gift into a transaction.</p>
+<p>Notice the architecture: the sequence moves from <em>their</em> experience (Step 1), to <em>your</em> role (Step 2), to your feeling (Step 3), to your action (Step 4), and to your future (Step 5). Most failed apologies run this order in reverse—leading with the apologizer's feelings and intentions and never quite arriving at the other person's pain.</p>
 
-  </div>
-
-<p>Tracking confidence ratings over time in a simple journal adds another benefit: improved calibration between how sure you feel and how right you are. That gap—overconfidence—is one of the most reliable findings in judgment research, and one of the few that responds to deliberate practice.</p>
-<p>Perhaps most important, the protocol strengthens intellectual humility: the recognition that one’s beliefs might be wrong. Studies link intellectual humility to greater openness to opposing views and more accurate evaluation of evidence (Porter &amp; Schumann, 2018). Changing your mind, in this framework, is not weakness. It is cognitive strength.</p>
-
-<h2>Calibrated Trust, Not Cynicism</h2>
-<p>A caution: The goal of a cognitive immune system is not skepticism toward everything. An immune system that attacks indiscriminately is a disorder, not a defense. Blanket cynicism is just autopilot in reverse—rejecting claims as reflexively as the credulous accept them.</p>
-<p>The target is <em>calibrated trust</em>: confidence proportioned to evidence, held firmly enough to act on and loosely enough to revise.</p>
-
-<p>In an era when algorithms amplify fluency and emotion, the most valuable thing you can amplify is friction and reflection. Five questions. Five minutes. Every day. That’s not a course in critical thinking—it’s a practice. And practice is what the moment demands.<br><br><a href="https://www.socialsciencespace.com/2026/04/the-cognitive-immune-system-making-critical-thinking-a-daily-mental-habit/"><em>This article </em></a><em>was also published at Social Science Space.</em></p>
+<p>A complete apology is uncomfortable. It is supposed to be; the discomfort is the cost of the repair, and the person you hurt can tell whether you paid it. But the research is encouraging on one point: apologizing well follows a structure that anyone can learn, practice, and, when it matters most, deliver.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/your-brain-needs-a-cognitive-immune-system" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/the-art-of-the-apology" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/your-brain-needs-a-cognitive-immune-system</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/your-brain-needs-a-cognitive-immune-system</guid>
+            <link>https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/the-art-of-the-apology</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/the-art-of-the-apology</guid>
             <dc:creator><![CDATA[Changiz Mohiyeddini Ph.D.]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-sora-shimazaki-5668885.jpg?h=19f0bba0&amp;itok=cdI7DBYi" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/shutterstock_2477061395.jpg?itok=_w--Jh4B" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Why Do Our Early Attachments Matter So Much?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/wendy_smith__1_.png.jpg?itok=S4FCzOWC" alt="Wendy B Smith Ph.D. LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Attachment</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Do Our Early Attachments Matter So Much?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Early attachments set the stage for future relationships, but that's not all.</h2><p style="font-size:0.9em;color:#666;">Posted July 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Do Winners Really Never Quit?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/troxel_wendy-removebg-preview.jpg?itok=mtxyRIY7" alt="Wendy Troxel Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do Winners Really Never Quit?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Knowing when to say "when" can be just as important as pushing through.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Protection and survival are not the only functions of early attachments.</li><li style="margin-bottom:6px;">Attachments shape our sense of self, of other people, and of the world.</li><li style="margin-bottom:6px;">Attachments have a central role in brain development and regulation of emotions.</li>
+              <li style="margin-bottom:6px;">Persistence matters. So does knowing when a goal no longer serves you.</li><li style="margin-bottom:6px;">The healthiest choice isn't always pushing forward. Sometimes it's pausing and redirecting.</li><li style="margin-bottom:6px;">Recovery isn't the opposite of progress. It's part of progress.</li>
             </ul>
           </div>
-                    <p>The blueprints for our sense of who we are, our future relationships, and our development arise from a combination of our genetic givens and our experiences. The person or people to whom we are attached during our first few years (the caregiving environment) will have a major influence on how we develop.</p>
+                    <p>Lately, I've been thinking a lot about quitting. Specifically, whether I should quit my marathon training just one month before race day. Before you remind me how close I am, how much work I've put in, or tell me I'll regret it forever, hear me out. </p>
+<h2>It’s got me thinking about what the science says about quitting. </h2>
 
-<p>The initial functions of the primary attachment bond are protection and survival, both of which depend on the presence of an adequate caregiver. John Bowlby, a British psychiatrist and psychoanalyst who studied young children separated from their parents during wartime, concluded that the caregiver relationship was as vital to mental health as nutrients were to physical health, and that attachment behaviors are biologically based (Bowlby, 1973). When infants feel stressed or threatened, the attachment system is activated, and they cry or signal the need for the caretaker in another way.</p>
+<p>For most of my life, I've subscribed to a "never quit" philosophy. It's served me well, personally and professionally. I've completed five marathons, a dissertation, and a book, so I know the satisfaction that comes from putting in the work, trusting the process, and crossing the literal or figurative finish line.</p>
 
-<p>The second function of the attachment bond is the shaping of the sense of self, the sense of the other, and the expectations of how the world will respond to oneself. In early attachment relationships, the behaviors of each partner are shaping and being shaped by the other. Children’s attachment behaviors are intended to bring their caregivers closer to help them with their distress. How the caregiver behaves in response will influence how the child behaves in future moments of distress. In turn, the caregiving behaviors of the attachment figure will be influenced by the child’s behavior. </p>
+<p>But this time feels different.</p>
+<p>This isn't about motivation or whether I can do hard things. It's about competing life demands and a growing sense that my body isn't recovering the way it should. Running has always been my therapy. During this training cycle, there have been days when getting out the door and putting miles under my feet was exactly what I needed to clear my head. That's what makes this decision so difficult. Running has been both part of the solution and, increasingly, I fear, part of the strain.</p>
 
-<p>If the baby’s initial cries bring an immediate response and soothing, the baby learns to expect that, and develops a sense of confidence in the caregiver’s response and in themselves as worthy of care. Children begin to know that if they cry, the caregiver will be there. If there is no immediate response, attachment behaviors escalate—wailing, banging on the crib, flailing. If there is still no response, and this happens repeatedly, a baby may be unable to cope, falling into inconsolable states. In this situation, a sense of powerlessness, unworthiness, or despair can develop.</p>
+<h2>For some of us, the harder challenge isn't learning how to persevere.</h2>
+<p>It's learning when not to.</p>
+<p>We celebrate grit. We tell ourselves that winners never quit. And there’s a great deal of science to support the benefits of perseverance and grit. Pushing through discomfort in pursuit of one’s goals can make you stronger and more resilient. I've experienced that firsthand, both in marathons and in life.</p>
 
-<p>In the best situations, caregivers respond sensitively to the needs of the child, but infants and children develop attachment bonds with their primary caregivers even when their needs are not adequately met. When this happens, the attachments and self-concepts that arise will be more problematic. Early experiences of caring response or lack of care from a primary attachment figure can play an important part in future relationships by shaping expectations, instilling confidence or engendering doubt.</p>
+<h2>But science tells us there is also a flip side to that coin.</h2>
+<p>Sometimes healthy self-regulation isn't just about persistence or positive thinking. It's also about recognizing when a goal no longer serves us and redirecting our energy toward goals that do. Across multiple studies, people who are better able to disengage from unattainable goals and reengage with new ones report better psychological well-being, lower distress, and even better physical health compared to people who persist at all costs. </p>
 
-<p>A third critical function of early attachment is its role in brain development. Certain regions of the brain are more experience-dependent and experience-susceptible for their development. For example, the orbito-frontal cortex, a key area for reasoning and associational processes, has a sensitive period for growth in the 6th to 12th month, dependent on exciting, pleasurable face-to-face interactions with the caregiver. States of positive arousal (like those in games of peek-a-boo) activate a rush of biological processes in which endorphins are released in the brain. Conversely, if the baby experiences prolonged states of negative arousal, as in being left alone to cry when hungry, stress hormones are released.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<h2>That doesn't mean quitting whenever something gets hard. Far from it.</h2>
+<p>It means asking a different question. Not only, <em>Can I keep going? </em>But rather, <em>Should I? </em>Is this goal still serving me? That is the key question.</p>
+<p>As someone who studies sleep, I'm reminded that recovery isn't the opposite of progress. It's where progress happens. The same may be true of our goals. If we relentlessly pursue goals that no longer serve us, we may miss the opportunity to invest in the ones that matter most.</p>
 
-  </div>
+<p>Maybe a better way to think of this is not “quitting.” It’s letting go. </p>
+<p>I'm still not sure what I'll do. I'll decide after my next long run.</p>
 
-<p>The ability to moderate emotional arousal is present at birth but requires refinement and elaboration through interaction with a caregiver in order to develop. Affect regulation results from the interaction between the caregiver’s response to the baby’s affect and the baby’s central nervous system and neurotransmitter systems. When the infant is distressed, the stress response system is activated. If the caregiver responds in a timely way with soothing, arousal can diminish, and the infant can regain equilibrium in a more manageable environment. If the caregiver repeatedly fails to respond in a timely way or responds in a way that heightens negative arousal, the stress response system can be dysregulated in an ongoing way, interfering with the child’s ability to manage future stressful moments. </p>
-
-
-<p>During the first year of life, the attachment relationship is the critical context in which development takes place. A sustained positive attachment can provide the learning of empathy, the control and balance of feelings, including destructive ones, and the optimal development of cognitive capacities. Patterns of soothing or lack of soothing—babies left alone to cry in states of arousal—are internalized at the body level (hormonally) and also representationally. Infants can perceive and store memory in ways that are later lost to us (Kaplow et al., 2006). </p>
-
-<p>Attachment plays a crucial role in our early years, setting the stage for our future selves. Some of us face hurdles early on in life, made more challenging if our primary attachments have been disturbed or disrupted. Some of us are lucky enough to have a more promising beginning in life, giving us more capacity to deal with later challenges. Our brains and our emotions have plasticity, the capacity to change in response to new experiences, throughout life. Whatever our beginnings have been, subsequent positive attachment experiences in adolescence or adulthood have the potential to enable new patterns and responses. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202607/why-do-our-early-attachments-matter-so-much" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/rested-development/202607/do-winners-really-never-quit" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202607/why-do-our-early-attachments-matter-so-much</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-shaping-power-of-experience/202607/why-do-our-early-attachments-matter-so-much</guid>
-            <dc:creator><![CDATA[Wendy B Smith Ph.D. LCSW]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-silverkblack-36730116.jpg?h=bd564493&amp;itok=D7ueiGEz" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/rested-development/202607/do-winners-really-never-quit</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/rested-development/202607/do-winners-really-never-quit</guid>
+            <dc:creator><![CDATA[Wendy Troxel Ph.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/running.jpg?itok=6KwfAR-T" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Fear System at Work]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/mguild6.png.jpg?itok=TOVwaUQi" alt="Michael Guilding" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Fear System at Work</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How mutual distress can either hinder or deepen therapeutic connection.</h2><p style="font-size:0.9em;color:#666;">Posted July 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <blockquote><p dir="ltr">It was just the start of our second session, but we were in deep trouble already. Christopher was agitated, talking really quickly and with a sense of urgency. There was something he said I needed to know, but I couldn’t follow him; nothing made sense. The harder I tried, the more confused I got; I felt I was losing the plot. I thought: Is this a psychotic episode? That made me panic; my heart was beating fast, and I felt hot all over. What should I do? My mind went blank.</p>
-<p dir="ltr">I thought, Here we go again, my fear system has just kicked off. I knew what to do now. Stop working, observe my breathing, nothing else. A couple of moments later, a bit calmer, I focused my attention on my body, my agitation and sense of disconnection, and my fear of craziness. A thought came into my head: “He’s scared he’s going mad.” At the same time, I had a mental picture of an astronaut, with his connection to his spacecraft severed, floating off into black, endless space.</p>
-<p dir="ltr">We had a moment of real connection, then we were able to start working together to make sense of all of this, both of us having recovered the ability to think reflectively.</p>
-</blockquote>
+            <title><![CDATA[When the Tool Becomes the Threat]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/fred_robert_moss_m.d.png.jpg?itok=LXfEdr44" alt="Fred Robert Moss M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When the Tool Becomes the Threat</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Every generation decides which help counts as cheating. The list keeps changing.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The typewriter had resistance. You had to mean it. Then it got easier.</li><li style="margin-bottom:6px;">I write with a pen, a stylus, my voice, and sometimes a machine that cleans it up.</li><li style="margin-bottom:6px;">Someone changed the speed limit and added a zero at the end.</li><li style="margin-bottom:6px;">The question came from 46 years of listening, not from any machine.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">I remember the typewriter in my father's office. The keys were hard to push all the way down. The letters wore away on what I thought was marble but was probably just plastic. There was a click to it. A resistance. You had to mean it.</p>
+<p dir="ltr">Then the electric typewriter arrived and everything got smoother. Easier. Something like the difference between a stick shift and an automatic, or a bicycle and a motorcycle. Things were gained. Things were also lost. We just did not always know which was which until later.</p>
 
-<p dir="ltr">Right at the core of psychotherapy is the human fear system – a set of biological processes which form our instant, automatic and unconscious reactions to threat. We have three key fear responses depending on how close the danger is. </p>
-<p dir="ltr">When the danger is some way off, and we are not sure what the threat is, we go into fear alert—our senses become more acute as we scan the environment, and our nervous system readies our body to explode into action if needed. We tense and hold our breath – we feel anxious, wary and on edge.</p>
+<p dir="ltr">I have been thinking about that lately because I am writing again and the question of how to write has become more complicated than it used to be.</p>
+<p dir="ltr">I love to write. I am also hesitant to write. I go back and forth between a pen, which feels more soulful to me, and my digital notepad that requires a stylus but no real ink. Is that still writing with a pen? I am not sure. I also dictate sometimes, speak my draft out loud and have it transcribed. Sometimes I ask a tool to clean it up, catch the grammatical errors I tend to make, help it sound a little more like me than the raw draft does. And then I wonder. Is that mine? Is that legitimate? Is it honest? Is it genuine? Is it aligned? Can I stand by it?</p>
 
-<p dir="ltr">When danger is close, we are in fear arousal; the body changes and boosts our energy so we can hit harder and run faster to escape the threat. Where it is not obvious how to escape, our body might lock in a freeze or our heart rate might peak in terror, a state of ‘fright’ that can tip us into the final fear response. With fear arousal, we might experience a huge upwards-moving rush of energy such as when we really lose our temper—our heart beats faster—we run or shout or lash out, or we might go rigid in terror or panic and our mind blanks. In this state we can’t focus on anything but danger, and we lose our ability to think reflectively.</p>
+<p dir="ltr">These are not small questions. And yet the world keeps moving faster. Someone changed the speed limit and added a zero at the end. What used to feel like 70 miles per hour is now 700. You cannot get through it competently without the tools that are available. I use them. I get away with it. The people on the other end feel heard. A machine assisted at some very real level.</p>
 
-<p dir="ltr">The third response is fear collapse, when the danger is so close there seems no escape from death, and a state of terror is combined with a feeling of being trapped. It involves a sudden drop in energy production throughout the body—a ‘sinking feeling’—the muscles lose all their tension and go limp, and much of the brain switches off. We can experience fear-collapse at different levels of intensity, ranging from low mood, depression, feeling wobbly and faint, brain-fog, or feeling useless and hopeless, to having sensations of being ‘out-of-body’ or unreal, extreme exhaustion, or ultimately physical collapse. </p>
+<p dir="ltr">I remember when earbuds first appeared. I was one of the first people to wear one, that little flashing thing in my ear, talking to nobody visible. People were bothered by it. Scared maybe. Offended. Now nearly everyone has something in their ears and nobody thinks twice.</p>
+<p dir="ltr">I wonder if we are in that same moment now with the tools that think alongside us. Not quite there yet. Still in the part where people are bothered. Still in the part where the flashing light in the ear feels like a threat to something they cannot quite name.</p>
 
-<p dir="ltr">Our fear system can be life-saving—but it works optimally in short bursts, when there is a quick escape to a place of safety—the body calms and the fear system resets. When threat continues for too long, there is no safe place, no reset, and we get stuck in fear mode—a volatile fear-alert state. Every threat, serious or not, real or imagined, can trigger us into fear arousal or fear collapse. The longer we stay in this state, the harder it becomes for the fear system to reset, because the biological processes involved in this reset become impaired.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p dir="ltr">What I keep returning to is this. The tool did not write the question I am sitting with. The question came from somewhere older and quieter than any machine I have ever used. It came from 46 years of listening to people try to say what is true about themselves and wondering whether they were being heard.</p>
 
-  </div>
-
-<p dir="ltr">The constant activation of our fear system has a disastrous impact on us. Over time, it can cause chronic fatigue, pain and physical illness, along with depression and anxiety. It leads to self-destructive behaviours, including addictions. It can destroy our ability to relate to others and our ability to think and learn. It can leave us in a state of misery. Being stuck in fear-mode over considerable periods of time is what we mean by ‘complex trauma’, and this is what all psychological therapists are working with every day.</p>
-
-<p dir="ltr">Going back to Christopher, this was an example of the fear system at the core of the work of therapy. But, and this is important, it’s not just an issue for the client. Christopher’s acute state of fear arousal triggered my own fear arousal. I had to recognize and regulate this fear response in myself before I could be of any help to him. Once I’d done this, I could listen to what my fear response told me about Christopher’s state. This gave me an empathic understanding of what he was going through, which cut through his isolation and connected us. Being heard and understood brought him into a safe place, and that visceral sense of safety switched off his fear. </p>
-
-
-<p dir="ltr">We don’t just find this in the therapy room. Whenever anyone in distress seeks our care, our own fear system can be triggered in response – we may feel inadequate or overwhelmed. If we can stop thinking there is something wrong with us when our fear is triggered and treat these sensations as information—an insight into how the other might be feeling—we can calm our own responses, thus offering the careseeker a place of safety and helping to draw them out of the misery of fear.</p>
+<p dir="ltr">At what point does the tool become the threat? And at what point does our resistance to the tool become the real problem?</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/alive-and-aware/202607/the-fear-system-in-therapy" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/restorativetransformational-psychiatry/202607/when-the-tool-becomes-the-threat-0" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/alive-and-aware/202607/the-fear-system-in-therapy</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/alive-and-aware/202607/the-fear-system-in-therapy</guid>
-            <dc:creator><![CDATA[Michael Guilding]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/brain_peshkova_shutterstock_678583375.jpg?itok=BlpNIrCo" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/restorativetransformational-psychiatry/202607/when-the-tool-becomes-the-threat-0</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/restorativetransformational-psychiatry/202607/when-the-tool-becomes-the-threat-0</guid>
+            <dc:creator><![CDATA[Fred Robert Moss M.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/gemini_generated_image_l4isxnl4isxnl4is.png.jpg?itok=3Qx924Xx" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Your Brain Is Lying to You, On Purpose]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/jenraf.png.jpg?itok=k8UyY1BF" alt="Jen Rafferty Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Positive Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Your Brain Is Lying to You, On Purpose</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How negativity bias built a survival system that's now sabotaging your peace.</h2><p style="font-size:0.9em;color:#666;">Posted July 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p dir="ltr">Our brains are powerful networks; they take in a lot of information. Even with the impressive processing power of the human brain, we can’t digest every single stimulus. To get anything done (including staying alive), we should have some system to filter out the noise. A way this happens is through what I call our interpretive lenses.</p>
+            <title><![CDATA[When Forgetfulness Is Not Just Aging]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/group_for_the_advancement_of_psychiatry.png.jpg?itok=luVyS57K" alt="Group for the Advancement of Psychiatry" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Forgetfulness Is Not Just Aging</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Attention-deficit/hyperactivity disorder in older adults.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">ADHD in later life is frequently mistaken for normal aging, depression, or early-stage dementia.</li><li style="margin-bottom:6px;">Greater awareness can improve diagnosis and treatment in this growing population.</li><li style="margin-bottom:6px;">Later-age diagnosis can be transformative, improving quality of life and overall well-being.</li>
+            </ul>
+          </div>
+                    <p><em>By Aakanksha Singh, MD, and Narpinder K. Malhi, MD, members of the </em><a href="https://www.ourgap.org/committees/family"><em><strong>Committee on Family </strong></em></a><em>at the Group for the Advancement of Psychiatry</em></p>
+<p>When a young adult struggles with inattention, difficulty managing tasks, and trouble completing responsibilities, attention-deficit/hyperactivity disorder (ADHD) is often one of the first diagnoses that comes to mind. </p>
 
-<p dir="ltr">Interpretive lenses are just what they sound like: the things we look through to make sense of the world around us. The same way a pair of glasses affects how light hits your eyes and how you make sense of that information, these lenses help our brain interpret a situation, decide what’s important, and determine what course of action we should take. And as with the lenses in glasses, we rarely look at these interpretive lenses themselves. By nature, they’re invisible—they work without us ever thinking about them consciously, because their whole point is to make things more efficient for us. But they’re invisible, and it’s easy for us to forget (or never realize) we have them in the first place.</p>
+<p>However, what happens when these same challenges appear in an older adult, someone who is forgetful, disorganized, and has difficulty recalling names? Should it be thought of as ADHD, or should it be assumed it is simply a part of aging?</p>
+<p><em>Eleanor, a 72-year-old retired teacher, had always been organized and dependable, but had to put in extra effort and work long hours to maintain this level of functioning. In recent years, however, she began misplacing items, missing appointments, and struggling with routine tasks. </em></p>
 
-<p dir="ltr">One of the lenses is the survival lens. Your brain’s main job is to keep you alive, and with that as priority one, ancient humans, as a matter of survival, focused more on stimuli that were dangerous or bad than on those that were safe or good. When the stakes were life-and-death, we needed a way to see and dwell on anything that could be a potential threat—one that we could deploy lightning-quick (and subconsciously). This is our survival lens, our way of interpreting the world so that we don’t get pulverized by it.</p>
+<p><em>At first, she attributed these changes to aging, but her daughter encouraged her to seek help. Despite two prior evaluations for memory concerns, both with normal results, her difficulties persisted. A more comprehensive assessment revealed a different explanation: ADHD, a diagnosis she had never imagined having at her age.</em></p>
 
-<p dir="ltr">This lens, inherited from our Homo sapiens ancestors, works differently in a world where we’re not running from predators or worrying about which fruits are poisonous. In modern life, our survival lens means that the default setting in our mind is set to scrutinize all of our actions and other people’s behaviors instead of observing and learning from them; to make quick judgments rather than really considering whether a given stimulus represents the truth, the whole truth, and nothing but the truth—displaying what you might know as a <a href="https://journals.sagepub.com/doi/10.1207/s15327957pspr0504_2">negativity bias</a>. </p>
+<p>Eleanor’s story raises an important question: When older adults experience forgetfulness and disorganization, these symptoms might reflect more than normal aging—perhaps a lifelong condition that has gone unnoticed?</p>
+<h2>Diagnosing ADHD</h2>
+<p>ADHD is a <a href="https://doi.org/10.1176/appi.books.9780890425787">neurodevelopmental condition</a> characterized by patterns of inattention, impulsivity, and hyperactivity. Although often associated with onset in childhood, ADHD can persist across the lifespan. Increasing recognition of ADHD in the general population likely reflects a combination of improved health literacy, greater public awareness through media and social platforms, and changes in diagnostic practices. </p>
 
-<p dir="ltr">But our survival lens isn’t just shaped only by the need to protect ourselves from predators. For humans, it’s not enough to stay alive (Am I safe?). We also want to live as individuals, to <a href="https://doi.org/10.35608/ruraled.v41i1.831">self-actualize</a>, to have a real sense of self (Who am I?). </p>
-<p dir="ltr">The ego is the part of the psyche that creates separation, individuality, and a sense of self. It says, “This is mine, and that is yours.” “Here’s where you end, and I start.” It is also working to help you survive—in this case, by ensuring your sense of place in the world as an individual. We often think of the ego as a bad thing, and considering that to “have an ego” is to be inherently full of yourself, but we all have an ego, and it’s part of how we exist as humans.</p>
+<p>Research estimates that approximately <a href="https://pubmed.ncbi.nlm.nih.gov/32798966/">2.18 percent of older adults</a> meet criteria for ADHD, highlighting a growing need for clinical awareness and appropriate care. Emerging evidence also suggests that ADHD may be more common in older adults than previously thought, although it remains underdiagnosed in this population. </p>
 
-<p dir="ltr">But here’s the thing about the ego: It loves to be right. If the ego could talk, its catchphrase would probably be “I told you so.” When it encounters any new information that challenges an existing belief, your ego says, “Whoa, wait a second!” It activates your fear response and subconsciously leads you to think that this new information must be wrong, dangerous, or otherwise untrustworthy. The truth is, the ego needs to be right to feel safe.</p>
+<p>Despite this increasing recognition, identifying ADHD in older adults is a challenge. Many of the diagnosis’ core features present differently with age and can overlap with typical cognitive changes. For example, instead of overt hyperactivity, symptoms often appear as difficulties with executive functioning, the latter being a term referring to the mental skills used to plan, organize, manage time, and complete tasks. These <a href="https://link.springer.com/article/10.1007/s00702-022-02584-4">challenges</a> may appear as forgetfulness, trouble following instructions, or difficulty keeping track of daily responsibilities.</p>
 
-<p dir="ltr">This means your survival lens is also fine-tuned for <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf">confirmation bias</a>: to affirm what your ego already knows, and to push out anything that contradicts that “truth.” For example, if someone offers feedback or a different perspective, the unchecked ego interprets it as a threat—not an opportunity for growth because accepting that information might require rethinking something about yourself. On the other hand, your ego will always accept new information that confirms your beliefs. If you believe you’re not good at technology and you struggle with the new upgrade on your computer, this is confirmation. You’re not cut out for this. If you believe you’re underappreciated at work, your ego says, “I told you so,” when your boss gives praise to someone else at the meeting. These biases are often subconscious. However, they are what we carry with us by default unless we take the time to reflect and unpack them.</p>
+<p>For individuals like Eleanor, these symptoms can be misattributed to normal aging or early cognitive impairment. Even after extensive testing, persistent inattention may continue to be interpreted primarily as a memory problem rather than part of a broader pattern of ADHD. This misattribution can delay appropriate diagnosis and treatment, affecting a person’s quality of life and day-to-day functioning.</p>
 
 
-<p dir="ltr">The bottom line is that these lenses aren’t good or bad or right or wrong—they just are. It’s what we do (or don’t do) with them that creates problems—usually because we don’t recognize that our truth isn’t the truth, and we don’t take the time to get curious about someone else’s lens.</p>
-<p dir="ltr">By the same token, understanding that you have specific lenses that affect how you see things isn't about casting blame or beating up on yourself. It’s about cultivating an objective mindset so you can become a nonjudgmental observer and be curious about your thoughts, feelings, and actions, which is what reflection is all about. You don’t see the world as it is. You see the world as you are. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+<h2>The Hidden Burden of ADHD in Older Adults </h2>
+<p>ADHD in older adults rarely exists in isolation. It is often accompanied by a range of other mental health conditions that can complicate making a diagnosis and contribute to overall impairment. <a href="https://link.springer.com/content/pdf/10.1007/s12402-015-0178-x.pdf">Substance use,</a> including alcohol, nicotine, and other drugs, is frequently reported in individuals with ADHD.</p>
+
+<p>Psychological well-being is also affected. Lower self-esteem, reduced confidence, and diminished quality of life are frequently reported, often shaped by years of unrecognized and untreated symptoms. Social and interpersonal relationships may be similarly affected. Individuals with ADHD often describe feeling misunderstood, socially isolated, or in conflict with others, sometimes leading to smaller support networks and greater emotional loneliness.</p>
+
+
+
   
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
 
-  </div>
 
-<p dir="ltr">There is so much beauty in that. As we start to realize that maybe the way I’m seeing it isn’t the way that everybody sees it, we also start to think, How can I shift my lens so that I can understand the way this other person might be seeing things? How could my lens be overfocusing on some parts of the story and not others? How could my lens be leaving out some things entirely? Once you get curious about these questions, it will lead you to the kind of growth that brings you closer to yourself, and closer to everyone around you.</p>
+<p>Despite these challenges, individuals with ADHD often possess unique strengths and abilities. Many individuals describe creativity, enthusiasm, and the ability to focus intensely on topics of interest as positive traits. Over time, adaptive coping strategies may emerge, contributing to <a href="https://doi.org/10.1080/13607863.2024.2339994">resilience </a>and continued engagement in meaningful activities in later life.</p>
+
+<h2>How Can Mental Health Professionals Help? </h2>
+<p>Things mental health professionals can do to support older individuals with concerns for ADHD include: </p>
+<ul>
+<li>Prior to making a diagnosis of ADHD, clinicians should consider other conditions such as mild cognitive impairment, anxiety, substance-related factors, and behavioral factors. Clinicians should also inquire about the onset and persistence of symptoms as well as obtain a detailed developmental and family history.</li>
+<li>Perform a comprehensive medical workup to rule out other causes, such as thyroid dysfunction and seizure disorders, before establishing the diagnosis.</li>
+<li>Medications such as stimulants and nonstimulants can be considered after careful evaluation of cardiovascular health and potential drug interactions. </li>
+<li><a href="https://doi.org/10.1080/14737175.2023.2250913">Psychotherapeutic interventions</a> such as cognitive behavioral therapy (CBT), when adapted for ADHD, can help individuals develop organizational strategies and improve emotional regulation while also addressing longstanding patterns of self-doubt that may accompany years of unrecognized symptoms.</li>
+<li>ADHD coaching may provide additional practical support, focusing on skills such as time management, prioritization, and task completion. </li>
+<li>Environmental and lifestyle modifications, including structured routines, regular physical activity, and the use of reminders or simplified schedules, can further enhance daily functioning</li>
+</ul>
+
+<p><em>Once she had a diagnosis in place, Eleanor began treatment with Vyvanse 20 mg, and she gradually noticed improvement. She became more organized, kept track of appointments, and felt less overwhelmed. More importantly, knowing the diagnosis helped her make sense of lifelong challenges she had once blamed on herself. For Eleanor, understanding her condition brought clarity and a renewed sense of control, highlighting that even later in life, recognizing ADHD can lead to meaningful change</em>.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/empower-your-life/202607/your-brain-is-lying-to-you-on-purpose" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202607/when-forgetfulness-is-not-just-aging" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/empower-your-life/202607/your-brain-is-lying-to-you-on-purpose</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/empower-your-life/202607/your-brain-is-lying-to-you-on-purpose</guid>
-            <dc:creator><![CDATA[Jen Rafferty Ph.D.]]></dc:creator>
-            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/bicycle-denniro-shutterstock_209700445_0.jpg?itok=bRpbh1zr" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202607/when-forgetfulness-is-not-just-aging</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202607/when-forgetfulness-is-not-just-aging</guid>
+            <dc:creator><![CDATA[Group for the Advancement of Psychiatry]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-tara-winstead-8378728.jpg?itok=joSjXfnG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghost Thought—A Ghostwriter for the Mind, Not the Page]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Ghost Thought—A Ghostwriter for the Mind, Not the Page</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What happens when we surrender the thought before we've even had it?</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Ghostwriting borrowed your words, AI is borrowing the thought before it forms.</li><li style="margin-bottom:6px;">A "ghost thought" arrives dressed as your own, with nothing lost to remember.</li><li style="margin-bottom:6px;">Skipping the clumsy first draft of a thought costs more than we realize.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/joshuaworoniecki-laptop-5673901.jpg?itok=wvw3lGLK" width="320" height="214" data-insert-type="image" title="Joshua Woroniecki / Pixabay" alt="Joshua Woroniecki / Pixabay"></div>
+<div class="insertArea--origin subtext">Source: Joshua Woroniecki / Pixabay</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Ghostwriting has always had a clear division of labor. Someone else does the writing. You supply the thinking and the life it's drawn from. The words are borrowed. The mind behind them is not.</p>
+<h2>Emergence of "Ghost Thought"</h2>
+<p dir="ltr">But today, I've been noticing something like the reverse. Call it a ghost thought. It's a thought you never quite had, that arrives already dressed in your own words. The thinking gets farmed out. The writing, oddly, is almost never the problem, as it shows up with the validation and approval of technology's new step in innovation and convenience. What's missing isn't the sentence. It's whatever used to happen before the sentence.</p>
+
+<p dir="ltr">That's the part I find both curious and strange. We built an enormous amount of anxiety around artificial intelligence (AI) and writing, as if the words were the valuable part. But the words were always the easy half, and ghostwriters proved that decades ago for politicians and executives and anyone with a story. The words were never sacred. The thinking was supposed to be the part that stayed uniquely yours.</p>
+
+<p dir="ltr">But let's take a step back. There's a moment before you open that chat window when something is already happening. A thought has started to assemble itself, not fully, just enough that it can take a more complete shape, if you waited. Most days you don't wait. You type before it finishes, and something else finishes it for you. AI doesn't just answer the question; it answers before your own thinking has taken any shape at all. And then it hands you back prose good enough that you never notice the void where your own answer would have been.</p>
+
+<p dir="ltr">None of this matters much as a single event. But string enough of them together, across small and varied decisions that used to be yours to contemplate, and it stops looking like convenience. It starts looking like a habit of arriving places you've never been to.</p>
+<h2>Why Struggling With Ideas Matters</h2>
+<p dir="ltr">A lot of good ideas don't show up as complete thoughts or answers. Frequently, they show up clumsy and half-baked, perhaps even a bit annoying. And that discomfort has a rather critical purpose. AI is remarkably good at skipping straight past the struggle right to the fluent response. The price isn't just that we think less; it's that we stop finding out what the clumsy version might have become. And it's that cognitive path from A to B where we find the toil, the imagination, and even the aha moment. You see, when <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202507/where-the-mind-stumbles-it-grows">the mind stumbles, it grows</a>. AI doesn't give you a cushion to fall on; it often eliminates the entire journey.</p>
+
+<p dir="ltr">Ghostwriting always made the trade rather explicit, almost as a functional Faustian bargain. You knew whose words those were, even if the world didn't. You also paid a price. Ghost thought doesn't announce itself in a similar fashion. It hands the writing back so perfectly that you mistake it for arrival, when what you actually got arrives as a counterfeit of you. And that may be a price too high to pay.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202607/ghost-thought-a-ghostwriter-for-the-mind-not-the-page" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202607/ghost-thought-a-ghostwriter-for-the-mind-not-the-page</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202607/ghost-thought-a-ghostwriter-for-the-mind-not-the-page</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/joshuaworoniecki-laptop-5673901.jpg?itok=IjeJieMA" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cost of Misdiagnosing Postpartum Psychosis]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/IMG_9279-removebg-preview.jpg?itok=0WUIZm8n" alt="Emily Guarnotta Psy.D., PMH-C" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Postpartum Psychosis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Cost of Misdiagnosing Postpartum Psychosis</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Being heard can mean the difference between two very different outcomes.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Postpartum psychosis affects one to two per 1,000 births and is a serious psychiatric emergency.</li><li style="margin-bottom:6px;">Standard postpartum care is typically one six-week visit, which leaves a significant gap in care.</li><li style="margin-bottom:6px;">Being dismissed by providers can have dire consequences, but being heard and believed can save lives.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Postpartum psychosis is a serious mental health condition that can have devastating consequences if left untreated. Right now, this reality is being played out in a Massachusetts courtroom, where Lindsay Clancy stands trial for the deaths of her three children. Her case has reignited a difficult but important conversation about what can happen when the mental health system fails a mother in crisis.</p>
+
+<p dir="ltr">Unfortunately, Clancy is not the only mother failed by the system. Postpartum psychosis awareness advocate Aaisha Alvi, author of the memoir <em>A Mom Like That,</em> knows this all too well. She survived her own experience with postpartum psychosis after being dismissed by several providers. Both her and Clancy’s stories point to the same urgent gaps in perinatal mental health care.</p>
+
+<h2 dir="ltr">What Is Postpartum Psychosis?</h2>
+<p dir="ltr">Postpartum psychosis is a serious psychiatric condition that occurs in an estimated one to two out of every 1,000 births. It typically develops rapidly, often within the first few weeks after birth, but it can occur later. It’s important to note that women who have experienced pregnancy loss can also develop postpartum psychosis.</p>
+
+<p dir="ltr">The hallmark of postpartum psychosis is a break with reality, which can involve hallucinations (seeing or hearing things that are not actually there), delusions (false beliefs that the person is convinced are true), and severely disorganized thinking. Women with postpartum psychosis require emergency psychiatric treatment because of the risk of suicide and infanticide if left untreated. In the case of postpartum psychosis, delaying treatment can be fatal. </p>
+
+<p dir="ltr">Despite the fact that postpartum psychosis is recognized by perinatal providers as a severe mental health condition, it is not currently recognized as a standalone diagnosis in the <em>Diagnostic and Statistical Manual of Mental Disorders</em> (<em>DSM</em>), the manual professionals use to diagnose mental health conditions. This makes it harder for healthcare providers to identify its symptoms consistently and contributes to a lack of provider education on warning signs, as well as stigma.</p>
+
+<h2 dir="ltr">Why Dismissal and Misdiagnosis Happen</h2>
+<p dir="ltr">There are several factors that contribute to providers missing or misdiagnosing postpartum psychosis. In some cases, the early stages of postpartum psychosis can look like postpartum depression or anxiety. Mothers who do speak up might be told that what they are experiencing is “just the baby blues” or “normal new mom worries.” They might be assured that they’ll feel better soon and to wait it out, or provided with a referral for therapy or medication with no follow-up.</p>
+
+<p dir="ltr">Many healthcare providers are not formally trained in identifying and treating postpartum psychosis. When the diagnosis is unclear, providers may try different types of medications that may worsen symptoms.</p>
+<p dir="ltr">Additionally, postpartum follow-up care in the United States is typically limited to one six-week visit. Because of how rapidly postpartum psychosis can develop and escalate, this limited window of time lowers the chances of catching it early.</p>
+
+
+<h2 dir="ltr">Lindsay Clancy's Case</h2>
+<p dir="ltr">Lindsay Clancy is a former labor and delivery nurse from Boston currently facing trial for the deaths of her three children in January 2023. Clancy had voluntarily sought treatment multiple times in the months leading up to the tragedy. She was also prescribed several different medications.</p>
+
+<p dir="ltr">Clancy’s defense team argues that she was suffering from untreated postpartum psychosis and that the treatment she did receive failed to address her condition. Her case has brought national attention to our nation’s fragmented mental health care system, and the inconsistent ways that postpartum psychiatric emergencies are addressed.</p>
+
+
+
+  
+
+
+<h2 dir="ltr">Aaisha Alvi's Story</h2>
+<p dir="ltr">Aaisha Alvi herself has lived experience of postpartum psychosis and is an advocate who has shared her story in her memoir. In <em>A Mom Like That,</em> Alvi details how she experienced command hallucinations and delusions to hurt her daughter. Like Clancy, she shared what was happening with multiple providers and was dismissed every time. Fortunately, she eventually did meet with a doctor who accurately identified that what she was experiencing was postpartum psychosis and took action. </p>
+
+<p dir="ltr">Alvi has <a href="https://nypost.com/2026/07/23/health/hallucinations-told-me-to-stab-my-kid-lindsay-clancys-story-is-familiar/">reflected</a> that the difference between her outcome and Clancy’s came down to being properly listened to. If she hadn’t found a provider that took her symptoms seriously, her story could have ended differently. Since then, her advocacy work has been aimed at making sure that other mothers don’t fall through the cracks. </p>
+
+<h2 dir="ltr">What Needs to Change</h2>
+<p dir="ltr">Stories like these reveal the serious gaps in how perinatal mental health concerns are addressed. This is especially noteworthy for women of color, who are both more likely to experience perinatal mental health concerns and less likely to receive treatment for them, as Alvi also points out in her book. </p>
+
+<p dir="ltr">Postpartum follow-up care needs to go beyond one visit in six weeks, especially for mothers at risk of mental health concerns. And providers who work with perinatal women need to be trained in postpartum psychosis. Most importantly, new mothers need to be taken seriously when they say something is wrong. </p>
+
+<p dir="ltr">If you or someone you know is showing signs of postpartum psychosis, such as rapid changes in mental state, hallucinations, or delusions, you need to take action right away. Postpartum psychosis is a psychiatric emergency. Contact a healthcare provider or go to your nearest emergency room. Do not wait for these symptoms to get better on their own.</p>
+
+<p><em>If you or someone you love is contemplating suicide, seek help immediately. For help 24/7, dial 988 for the 988 Suicide &amp; Crisis Lifeline, or reach out to the Crisis Text Line by texting TALK to 741741. To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/not-just-baby-blues/202607/the-cost-of-misdiagnosing-postpartum-psychosis" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/not-just-baby-blues/202607/the-cost-of-misdiagnosing-postpartum-psychosis</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/not-just-baby-blues/202607/the-cost-of-misdiagnosing-postpartum-psychosis</guid>
+            <dc:creator><![CDATA[Emily Guarnotta PsyD, PMH-C]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-tima-miroshnichenko-6462723.jpg?itok=b1WLodoy" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Surprising Benefits of Being Alone]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/AlliSpottsDeLazzer-removebg-preview.jpg?itok=yrhmWFNM" alt="Alli Spotts-De Lazzer, LMFT, LPCC, CEDS-C" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Surprising Benefits of Being Alone</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why solitude may be one of the most overlooked relationship skills.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Being alone and feeling lonely are not the same thing.</li><li style="margin-bottom:6px;">The ability to be alone can be considered a relationship skill—not a sign of isolation.</li><li style="margin-bottom:6px;">Solitude may be one way to strengthen your own internal nurturing presence.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/goodinteractive-woman-491623_1920.jpg?itok=cw-YH1UT" width="320" height="213" data-insert-type="image" title="GoodInteractive / Pixabay" alt="GoodInteractive / Pixabay"></div>
+<div class="insertArea--origin subtext">Source: GoodInteractive / Pixabay</div>
+</div>
+</div>
+</div>
+<p>As a therapist, I’ve noticed that people often feel afraid of being alone—yes, that includes going on a walk or to dinner alone or spending the weekend alone. They’ll sometimes spend time with activities or people that don’t add to their lives just to avoid it. </p>
+<p>A few common explanations come up repeatedly. Some feel uncomfortable being seen alone. They don't want people judging them or making assumptions about why they're, for example, at the movies alone. Others feel uncomfortable not having someone to share their in-the-moment thoughts with. Still others worry about the anxiety they feel while alone or the vulnerability of it: <em>Will someone invade my space? Will I have to be mean to shut it down? What if no one wants to connect—then what does that mean about me?</em></p>
+
+<p>Many have conscious and unconscious meanings they’ve attached to being alone that may be limiting. Yet, there can be surprising benefits—even superpowers—that come from solitude, and being alone is quite different from feeling lonely. That distinction matters because many people avoid being alone in an effort to avoid loneliness—that sense of yearning for connection.</p>
+
+<h2>Being Alone vs. Being Lonely</h2>
+<p>Being alone is a physical state. Being lonely is an emotional experience. They are not the same. Being alone can benefit a person—it creates space to be with yourself rather than consciously and unconsciously orienting around others.</p>
+<p>Donald Winnicott’s "The Capacity to Be Alone" beautifully defines and reflects this idea. The ability to be comfortably alone reflects emotional maturity. This capacity can support clearer career focus, stronger mental health, and more grounded partnerships.</p>
+
+<h2>Potential Benefits of Solitude</h2>
+<p>Being alone can:</p>
+<ul>
+<li>allow you to turn toward what matters to you, without the pull to accommodate others.</li>
+<li>create space for uninterrupted thought, where possibilities can form and expand.</li>
+<li>deepen awareness, which can support understanding others and increased empathy.</li>
+<li>help you meet the many, multidimensional parts of yourself so that you can come from a calm space, even when life gets heated.</li>
+</ul>
+
+<p>In uninterrupted space, you can focus on your core values and the accompanying boundaries, which can set you up for more ongoing satisfaction in life.</p>
+<h2>Being Alone Is Often Learned From Being Alone in Another’s Presence</h2>
+<p>Winnicott’s article points out something powerful about how we learn to be alone—it’s often from being alone in the presence of another. Their emotional support gradually becomes an internal sense of safety that no longer requires another person's physical presence. Think of a calm caregiver being present with a crying baby until the baby’s nervous system settles. </p>
+
+<p>If we never give ourselves opportunities to be alone, we may never discover that we can become a source of steadiness for ourselves. Instead, we may keep reaching for whoever is available, whether or not those relationships actually help us feel safe.</p>
+<p>Relationships can pull us away from knowing ourselves—especially when we become focused on pleasing others. It is often in solitude (being alone) that we can meet and accept the parts of ourselves we have otherwise been able to avoid. From that kind of intimacy, "possibility" can emerge.</p>
+
+<p>Solitude is not the opposite of a relationship. Instead, it can strengthen our ability for healthy relationships with self and others.</p>
+<h2>How to Be OK With Being Alone More Often</h2>
+<p>For those not used to being alone, the "bravery" might start small. It can look like staying with yourself for a few extra minutes before reaching for distraction or choosing a brief solo activity (e.g., a walk to the corner close by), and noticing what comes up. </p>
+
+
+<p>The goal is not to feel comfortable right away; it’s to build familiarity with yourself—over time. Sometimes the relationship we neglect most is the one that actually matters most: our relationship with ourselves.</p>
+<p>Solitude may be one way to strengthen your own internal nurturing presence. In our busy world, solitude may be needed to keep meeting more of yourself—and accepting those parts with compassion and curiosity instead of anxiety or judgment.</p>
+
+<p>For those interested in self-development (and I assume that is you since you are reading this), the ability to be alone might even be considered a vital relationship skill.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/meaningfull/202607/the-surprising-benefits-of-being-alone" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/meaningfull/202607/the-surprising-benefits-of-being-alone</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/meaningfull/202607/the-surprising-benefits-of-being-alone</guid>
+            <dc:creator><![CDATA[Alli Spotts-De Lazzer, LMFT, LPCC, CEDS-C]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/goodinteractive-woman-491623_1920.jpg?itok=1dl99AFd" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Random Error: Implications for Consciousness Research]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2021-04-20_at_11.43.44_am-removebg-preview_1.jpg?itok=vayAivfm" alt="Ezequiel Morsella Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Consciousness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Random Error: Implications for Consciousness Research</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Understanding random error is critical for studying the machinery of the mind.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Researchers distinguish two kinds of noise in psychology experiments: "systematic error" vs. "random error."</li><li style="margin-bottom:6px;">To make progress in the study of consciousness, it is important to appreciate the nature of random error.</li><li style="margin-bottom:6px;">Random error usually cannot undermine the validity of a properly designed experiment.</li>
+            </ul>
+          </div>
+                    <p>When designing experiments, one is on the lookout for confounds. These are systematic, consistent differences between the experimental and the control conditions, differences that the experimenter is unaware of. They undermine validity. The only difference between the conditions should be the variable of interest. </p>
+
+<h2>Systematic vs. Random Errors</h2>
+<p>Imagine that caffeine is your variable of interest. You're interested in the effects of caffeine on reaction time to a beep. The experimental condition might have participants drink caffeinated coffee, and the control condition, with a different group of participants, might have them drink decaf. Apart from the presence of caffeine, everything else between the conditions should be the same, including the roast and temperature of the coffee. If, by accident, the temperature of the coffee was always higher in one condition than the other, then this would be a potential confound. Any effect of the temperature would be an unwanted effect; hence, it is called noise or “error.” Because the difference in temperature is constant between the conditions, this kind of error is known as “systematic error.” Thus, confounds are a kind of systematic error. </p>
+
+<p>Then there is noise (or error) that experiments try to minimize but that is not systematic. These are variables that differ across participants but that do not differ systematically between the conditions. With a sufficient sample size per condition, these random effects should “wash out.” For example, it might be that Participant 2 in the caffeinated condition worked a night shift and was tired and so had slow reaction times. Or it could be that Participant 6 in the decaffeinated condition is an expert video gamer and always has fast reaction times. Maybe Participant 30 in the caffeinated condition did not understand the instructions of the task and thought that he or she should respond as slowly as possible and not as quickly as possible. All of these sources of noise are known as “random error” and, in a properly designed study, should not lead to invalid effects. Only systematic, consistent differences between the two conditions can lead to invalid effects (“systematic error”). Experimenters try to minimize the sources of random error as much as possible. By having a sufficiently large sample size, such effects should be negligible and not lead to a consequential difference in the effect between the experimental and control conditions.</p>
+
+<p>Enter consciousness research. In many types of research in the field of consciousness, the experimenter presents the experimental participant with a stimulus and then records the participant's conscious experience. The stimulus could be a visual object or a visual stimulus that causes an illusion. </p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/pexels-shox-31665507.jpg?itok=V1ZAPL-O" width="320" height="240" data-insert-type="image" title="SHOX ART / Pexels" alt="SHOX ART / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: SHOX ART / Pexels</div>
+</div>
+</div>
+</div>
+<p>Let’s take a simple case. The participant is instructed to look at the center of a computer screen and report what visual stimulus is presented on the screen momentarily (one second). Thus, a red apple is presented briefly on the screen. Most participants will report seeing a red apple. Thus, “red apple” would be the most common response. As a matter of fact, most research indicates that participants cannot help but activate the percept and even the meaning of a stimulus when it is presented in this way. Newer research reveals that such a stimulus can automatically activate even autobiographical memories associated with the stimulus. For example, one participant might perceive the stimulus and then activate the memory, perhaps unconsciously, of years ago giving an apple to an elementary school teacher.</p>
+
+<p>But not all participants will report “red apple.” Some might have accidentally looked away from the screen during that one second in which the stimulus was presented, because, for example, they had to cough. Maybe some participants closed their eyes while the stimulus was presented. Maybe some have red-green color blindness and could not tell whether the apple was a red apple or a green apple. These participants might have reported just “an apple.” Perhaps one of the participants was a green grocer and reported “McIntosh,” which is the name of a particular kind of apple. One could think of many other cases in which the experience and response of the participant might not be “red apple.” These would all be cases of random error. For this particular experiment, the random error is not informative.</p>
+
+<p>If the result was that 90 percent of the participants reported “red apple,” it would not mean that the apple stimulus <em>does not </em>normally activate the same response in the remaining 10 percent of the participants. Again, the stimulus might not have had that effect only because, for example, the participant happened to look away from the screen. The 10 percent of trials in which participants did not report “red apple” could consist of a medley of kinds of random error. </p>
+
+<h2>Implications for Research on Consciousness</h2>
+<p>These considerations have implications for research on consciousness. People often think of conscious thoughts as whimsical and difficult to predict. Research has shown that conscious thoughts in response to a stimulus are predictable to a substantive extent. With these considerations in mind, one could argue that, when presenting a participant with a red apple or some other visual stimulus, or, to make it more interesting, when presenting a participant with a particular visual illusion, the private conscious response in the typical participant will be this or that, a prediction based on prior observations or theory. Because the inter-individual differences across participants are treated as random error, knowledge of what a stimulus evokes (on average) is knowledge of the effects of the stimulus on the conscious mind.</p>
+
+<p>From this standpoint, knowing what a stimulus evokes in consciousness (with some degree of certainty) is the same as knowing what a person will experience in response to that stimulus. Let me provide a more concrete example. I will present you with two words. Your task is <em>not </em>to think of a word associated with these two words. The two words will be written in uppercase. Again, your task is <em>not</em> to think of an associate of these two words. Here are the two words: LEASH WALK. Any thoughts come to mind? Most people will think “dog.” This is the effect of this stimulus. Knowledge of the effect of this stimulus <em>is</em> knowledge of how the consciousnesses of, say, Peter, Sussie, and Bob will react to the stimulus, as private and as whimsical as their consciousnesses might be. Now, it might be that, when presented with those two words, Ted, another participant, thought “Fido,” because that was the name of his dog. This idiosyncratic effect would be a case of random error. It would not be evidence against how knowledge is activated in the conscious mind by external stimuli. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/consciousness-and-the-brain/202607/random-error-implications-for-consciousness-research" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/consciousness-and-the-brain/202607/random-error-implications-for-consciousness-research</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/consciousness-and-the-brain/202607/random-error-implications-for-consciousness-research</guid>
+            <dc:creator><![CDATA[Ezequiel Morsella Ph.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-shox-31665507.jpg?itok=3umLsDhl" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mall World: Are People Dreaming of the Same Place?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-06/bonnie_buckner.png.jpg?itok=R-JxX3Q2" alt="Bonnie Buckner Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dreaming</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Mall World: Are People Dreaming of the Same Place?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A guide to understanding locations in your dreams.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Locations in dreams ground the dream experience.</li><li style="margin-bottom:6px;">The details of location provide a sense- and memory-based reference point.</li><li style="margin-bottom:6px;">The locating aspect of dreams is a lens for understanding a specific point of view held by the dreamer.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/jimmy-chang-wqbeoctu_ic-unsplash.jpg?itok=UiEUf0qP" width="320" height="427" data-insert-type="image" title="Jimmy Chang / Unsplash" alt="Jimmy Chang / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Jimmy Chang / Unsplash</div>
+</div>
+</div>
+</div>
+<p>It first popped up as a <a href="https://www.reddit.com/r/TheMallWorld/top/?t=all&amp;rdt=46262">subreddit</a> in 2021 asking about shared dream spaces. Descriptions of sprawling places resembling indoor malls were posted, with food courts, multiple levels, endless stores, and escalators. Familiar locations in waking time, in dreamtime, they appeared as strangely deserted, too crowded, or jammed with amusement parks, bathrooms, or eerie alleys of shops that meandered aimlessly. </p>
+
+<p>Coined “Mall World” dreams, they share uncanny physical commonalities as well as evoke a sense of recognition, déjà-vu, and sometimes even fear or confusion. A woman posted a <a href="https://www.tiktok.com/@tiltonicatiktok/video/7557400272918613278">drawing</a> of the mall that appears in her recurring dreams on TikTok, and it went viral, with people around the world claiming to be dreaming of a similar place. </p>
+
+<p>Could we really all be dreaming of the same location? If so, what does this mean?</p>
+<h2>Location, Location, Location</h2>
+<p>Life experiences occur in places. Not just any places, but specific ones. Think about high school, for example, the primary site of our adolescence. From the sweaty anxiety of getting singled out in class to the warm feeling of belonging sitting with friends at lunch, school, as a place, is recalled not so much by name or geography but by the senses, emotions, and memories that accompany our time there. </p>
+
+<p>Perceptual geographer Yi-fu Tuan writes that we know that something is real when we can apprehend it via our senses. Not just the sight of an object, but the smell, taste, touch, or sound of something. These sense-based experiences place us in both time and space. Without that physical ground, experience is abstract.</p>
+
+<p>Most dreams start with a description of location. Location in dreams is a creation of the dreamer’s mind, and often an amalgam of experiences. We may dream, for example, that we are sitting in our 10th-grade science class, but our desk has our waking-time office computer sitting on it. Or, we may dream of our current house, but notice it is decorated with furniture from our childhood. Each of these settings carries its own memories and sense-based associations. Incongruously appearing together, they provoke a new perspective or understanding.</p>
+
+<p>In my book <em>The Secret Mind: Unlock the Power of Dreams to Transform Your Life</em>, I write about something I call the "locating aspect" of images in dreams. Like waking time, dream locations place us in a specific time and space. Unlike waking time, however, because of the created aspect of these locations, they not only set the scene, but they also describe the perspective from which the “I” part of the dreamer will navigate the environment. They are the depiction of the dreamer’s physical, emotional, mental, and spiritual present-tense experiencing. </p>
+
+<p>Take the office computer in the 10th-grade science class example. The feelings, memories, emotions, and sensations of what it meant to be in 10th-grade science class will shed light on the dreamer’s current waking-time experience at work. Maybe the dreamer aced science class, or maybe science class brings back the anxiety of a failed project. Everything is in the details. The feelings and the specifics of the memory—including how the dreamer responded to the situation—tell us about how the dreamer is feeling and responding in waking time. </p>
+
+<p>The locating aspect gives us a window into our inner space as it is relating to how we are seeing and behaving in our waking time. Like any good map, by pinpointing where we are, we can navigate somewhere else. If a dream is presenting a scenario of seizing up in anxiety around a work project as our current point of view, we can, in waking time, choose to draw from other life experiences and shift our emotions. </p>
+
+<h2>A Shakespearean Question: What’s in a Mall? </h2>
+<p>I’ve had a Mall World dream, and I’ll bet you’ve had one, too. Malls are a significant feature of modern life where shopping, entertainment, eating, and socializing come together; an indoor “window to the world.” <a href="https://www.ipsos.com/en-us/heres-why-younger-shoppers-still-hit-mall">IPSOS Consumer Tracker</a> shows that even Gen Z, the children of the internet, are still going to malls, which, they postulate, operate as a “third space” between school or work and home. </p>
+
+
+
+  
+
+
+<p>In addition, around the world, most malls somehow look the same. I’ve been in shopping malls from Phnom Pehn to Entebbe, Cedar Rapids to Warsaw, and they have been laid out in more or less the same way. While the goods in these stores may vary, they are all designed to bring a distinct sense of uniformity to the experience. The inside of a Uniqlo in Bangkok is going to feel much like the one in Paris, for example. </p>
+
+<p>Given this, it’s not surprising that the Mall World dreams share similar features, or that so many people have had a Mall World dream. Malls have become cultural fixtures that, like schools, are the site of specific experiences that become part of our sense-based and emotional memories. </p>
+<p>But what’s in a mall? It depends on how the dreamer has experienced it. For some, it represents the bright oasis of freedom that came with shopping with friends during their teenage years, while for others it’s always been a featureless nightmare. Some of my clients have been dazzled by the treasure trove of goods they discover in malls in dreams, while others have pushed against the tide of shoppers, desperate to find a way out.</p>
+
+<p>Interestingly, the online group that has grown up around “Mall World’ has become a real place for people to connect over their dreaming experience. It demonstrates another truism: Dreams are both individual and collective. While the specific experiences we have are unique to us as individuals, we all share common human feelings. All of us have been dazzled at one point by abundance, overwhelmed by too many choices, anxious about presenting a project, and desiring to ace a challenge. These moments, experienced in waking or asleep, bind us together in community all over the world. You may not have the same dream I do about being in a mall, but we’ve had the same feelings, at one time or another. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-secret-mind/202607/mall-world-are-people-dreaming-of-the-same-place" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-secret-mind/202607/mall-world-are-people-dreaming-of-the-same-place</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-secret-mind/202607/mall-world-are-people-dreaming-of-the-same-place</guid>
+            <dc:creator><![CDATA[Bonnie Buckner Ph.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/jimmy-chang-wqbeoctu_ic-unsplash.jpg?itok=B4SF2ma_" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is Staying Cool Becoming a Luxury?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/steinmetz.jpg?itok=VQnCUEEd" alt="Janina Steinmetz Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Consumer Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Staying Cool Becoming a Luxury?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Consumers are increasingly buying relief from the heat, but it’s expensive.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Instead of preparing for heat early, consumers often panic-buy when hot days make sleep and work difficult.</li><li style="margin-bottom:6px;">When a specific need arises, consumers' attention tends to narrow to whatever promises immediate relief.</li><li style="margin-bottom:6px;">As heatwaves become more a part of everyday life, comfort might become a privilege not everyone can afford.</li>
+            </ul>
+          </div>
+                    <p>This summer has brought heatwaves to much of the world, with sweltering temperatures in North America and Europe in particular. Unlike in places that are more used to extreme heat, consumers in the United States or in Europe are struggling to adapt because their buildings and modes of transportation are not as heat-proof. As a result, consumers are trying to help themselves to some relief from the heat: Fans have sold out, cafés fill with people craving iced drinks, grocery delivery becomes more attractive, and portable air conditioners suddenly seem desirable rather than ugly. </p>
+
+<h2>Consumer Motivation</h2>
+<p>Although heatwaves are becoming the new normal, consumers still seem surprised each summer when they come along. Instead of preparing for heat early on by investing in fans or air conditioners, consumers panic-buy once the first really hot days make sleep and work nearly impossible. This might seem shortsighted. But it is a common consumer phenomenon that when a specific need arises (e.g., we are very hungry, or very hot), consumers' attention narrows to whatever promises immediate relief (e.g., food, a fan), leading consumers to desire the product more and think about it in much more detail. In my own work, published in 2019, with my co-author Jochim Hansen from Salzburg University, I found that consumers who feel hot consider products that bring relief in detail because the motivation is there to purchase such a product. </p>
+
+<p>But what could be wrong with consumers helping themselves and buying relief when temperatures rise? The ability to do so is very unequal in society because relief from heat is expensive. Although fans are on the cheaper side of relief measures, more effective and lasting ways to purchase relief come at a cost. Yet the costs of staying cool extend beyond the price tag of a fan or an electricity bill. They also depend on where people live and the choices available to them. A well-insulated home, access to shade, nearby parks, flexible working hours, or the option to work from home all make it easier to cope with extreme heat. Others have no choice but to commute on crowded trains, work outdoors, or live in apartments that trap heat long after the sun has set. Researchers such as Antonella Mazzone and colleagues (in 2023) have begun referring to this unequal access to cooling as <em>cooling poverty</em>.</p>
+
+<h2>Comfort as a Privilege</h2>
+<p>From a consumer perspective, this raises an interesting question. Consumers are buying fans, air conditioners, or iced coffees, but more importantly, they are buying comfort. Because the more effective measures against the heat are also more expensive, thermal comfort may become a luxury. We often think of luxury as something indulgent or extravagant, such as designer handbags or first-class travel. But in a hotter world, luxury may be to sleep comfortably through the night, work productively during the day, and escape the heat when temperatures soar. As heatwaves become more and more part of everyday life, comfort itself might be becoming a privilege that not everyone can afford.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-social-consumer/202607/is-staying-cool-becoming-a-luxury" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-social-consumer/202607/is-staying-cool-becoming-a-luxury</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-social-consumer/202607/is-staying-cool-becoming-a-luxury</guid>
+            <dc:creator><![CDATA[Janina Steinmetz Ph.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/istockphoto-1318767834-612x612.jpg?itok=4ilonx8-" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA["Am I Crazy?" Understanding Out-of-Body Feelings]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-09/Weiler.png.jpg?itok=a2_xGWBT" alt="Weiler" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dissociation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">"Am I Crazy?" Understanding Out-of-Body Feelings</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Rethinking how we understand extraordinary experiences and mental health.</h2><p style="font-size:0.9em;color:#666;">Posted July 28, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The same test that screens for psychosis also captures something one in four people feel.</li><li style="margin-bottom:6px;">It's not always the experience that predicts distress; it's whether anyone helped the person make sense of it.</li><li style="margin-bottom:6px;">Distress is more likely when the experience is intense, poorly understood, or interpreted as illness.</li>
+            </ul>
+          </div>
+                    <p>Last year, a woman told me about a tree she'd grown drawn to on her morning walks, episodes of merging with it, her sense of self dissolving into overwhelming love and tears, then eventually a full sense of leaving her body. She began hearing a guiding inner voice, distinct from her own thoughts, that once pushed her to approach a homeless man near the tree. She started reading meaning into small coincidences, as if the world were sending her messages. At her lowest point, she considered checking herself into a psychiatric hospital, hoping medication would let her feel "normal" again.</p>
+
+<p>Her experience touched several things at once—a felt merging with nature, a guiding inner voice, meaning seen in coincidence—but it was the last part, the sense of leaving her body, that eventually became the center of her fear. That's also where this piece will focus: the disembodiment feeling, and the question of what it means, clinically, when the "self" seems to leave the body.</p>
+
+<p>I share her story because she is far from alone in asking the question that sits at the center of so many of these encounters: "<em>Am I crazy?"</em></p>
+<h2>A question that's more common than you'd think</h2>
+<p>A disembodiment feeling—often called an out-of-body experience, and the term I'll use interchangeably here—is the sense that one's center of awareness has left the physical body. It isn't rare; it occurs in roughly 10-25 percent of the population. Yet when it happens, especially on an ongoing basis, many people quietly wonder if something has gone wrong with their mind. One of the few studies to look directly at this found, for instance, that 4 percent of experiencers felt they were going crazy during or immediately after the experience, 26 percent felt confused, 23 percent kept it a secret, and 24 percent felt upset or frightened afterward.¹</p>
+
+<p>That reaction doesn't come out of nowhere. For decades, disembodiment feelings have been folded into psychiatric frameworks, discussed alongside dissociative identity disorder, schizophrenia, borderline personality disorder, depersonalization, and disorders of body ownership.</p>
+<h2>When the questionnaire becomes the problem</h2>
+
+<p>Some of the very instruments used to screen for dissociation or psychosis describe a disembodied feeling almost word-for-word, with no room for context or outcome. A widely used depersonalization/derealization questionnaire asks: Have you ever felt that parts of your body were disconnected from the rest of your body? That you were a "detached observer" of yourself?² If someone answers "yes" to a list like this, what have we measured? Psychosis, or simply a disembodiment feeling that a huge portion of humanity also has, at some point?</p>
+
+<p>Or consider a questionnaire developed to measure body disturbances related to schizophrenia, which originally used a set of images depicting unusual bodily experiences—several of which are, unmistakably, depictions of classic disembodiment phenomenology.³ For comparison, the same instrument includes images of experiences everyone has at some point (headaches, an itch, scratching, butterflies in the stomach) implicitly presented as "normal," while the disembodiment-adjacent images sit in the pathology column.</p>
+
+<p>This overlap runs straight into how dissociation is formally diagnosed. The <em>Diagnostic and Statistical Manual of Mental Disorders, 5th Edition</em> (<em>DSM-5</em>) defines depersonalization/derealization disorder as persistent episodes of feeling detached from one's own body, thoughts, or surroundings—a description sitting uncomfortably close to out-of-body experiences.</p>
+
+
+<p>The <em>DSM-5</em> includes three safeguards before the label is applied. First, "reality testing" must stay intact: the person retains insight that this is subjective, not an objective change in the world. (In practice: "It felt as though I left my body" reads as depersonalization; "My soul literally left my body" pushes some clinicians toward a label closer to delusion—even though the <em>DSM-5</em> explicitly excludes beliefs ordinarily accepted within a person's culture or faith. However, that protection isn't always applied consistently.) Second, symptoms must cause clinically significant distress or impairment. Third, the experience can't be better explained by substance use or another condition.</p>
+
+<p>Indeed, data suggest that people who report feelings of disembodiment show somewhat higher levels of dissociation and body dissatisfaction than those who haven't.⁴<sup>,</sup>⁵ My own study found a similarly complicated picture: People who'd had a disembodiment feeling showed more mental health diagnoses, more treatment history, and higher dissociation and childhood trauma.⁶ But one detail changes things: A shorter time since the first disembodiment feeling predicted greater current mental health difficulty—distress clustered near the onset, not indefinitely afterward. That points toward disruption and adaptation rather than fixed pathology; the feeling may sometimes be less the cause of difficulty than a consequence of it, or an adaptive response.</p>
+
+
+
+  
+
+
+<h2>What actually predicts distress</h2>
+<p>If the presence of a disembodiment feeling doesn't predict psychological trouble on its own, what does? Research on this points to something more specific: Anxiety tends to be higher when the experience involves a loss or dissolution of one's sense of self, and when the person struggles to make sense of what happened to them.⁷ People who can't integrate or explain their experience report more anxiety and self-concept confusion—which can feel a lot like "losing it," even when nothing about their mental health has actually changed.</p>
+
+<p>In other words, it's not necessarily the experience itself driving distress nearly as much as the appraisal of it—whether a person comes to understand what happened as spiritual, meaningful, neutral, or as a sign that they're losing their mind. Distress is more likely when the experience is intense, poorly understood, or interpreted as illness. Calmer, and often deeply positive, reactions tend to follow when someone finds a framework—spiritual, neutral, or otherwise—that lets the experience make sense.</p>
+
+<p>None of this means disembodiment feelings can never co-occur with mental illness, but their presence alone should never be treated as evidence that someone is unwell. The better clinical questions are about suffering, context, functioning, trauma history, and integration—not simply whether someone has had an unusual experience.</p>
+
+<p>I ask them because, in my inbox, I regularly hear from people carrying enormous shame around disembodiment feelings like hers, afraid to tell even those closest to them. That silence is its own kind of harm.</p>
+<p>The woman I met last year didn't check herself into the hospital. What she needed, it turned out, wasn't medication to make the experience stop—it was language for what had already happened to her and permission to trust it. That's the frame I keep coming back to: not "<em>Is this pathology?"</em> but "<em>Does this person have what they need to make sense of what they've lived through?"</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202607/am-i-crazy-understanding-out-of-body-feelings" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202607/am-i-crazy-understanding-out-of-body-feelings</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beyond-the-ordinary/202607/am-i-crazy-understanding-out-of-body-feelings</guid>
+            <dc:creator><![CDATA[Marina Weiler, Ph.D.]]></dc:creator>
+            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/pexels-meryem-sevim-144476544-11517120.jpg?itok=HN-J6Nsj" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
