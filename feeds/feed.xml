@@ -4,79 +4,440 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 03:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 14:03:07 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 03:16:41 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 14:03:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Cut-the-Line Rule: When to Hold On and When to Let Go]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/laura_berger.png.jpg?itok=RdaBTsFp" alt="Laura Berger" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Decision-Making</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Cut-the-Line Rule: When to Hold On and When to Let Go</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A test for separating what you've already spent from continuing costs.</h2><p style="font-size:0.9em;color:#666;">Posted July 29, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Does It Matter If Your Team Sees You Using AI?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Michael-Hogan.jpg?itok=u8MWIk_g" alt="Michael Hogan Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Does It Matter If Your Team Sees You Using AI?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI supports real collaboration only when its use is visible to the whole team.</h2><p style="font-size:0.9em;color:#666;">Posted July 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Holding on can feel responsible even when the smarter move is to stop.</li><li style="margin-bottom:6px;">Never deciding to stop isn't choosing to keep going. Past investment may be making the choice for you.</li><li style="margin-bottom:6px;">The test doesn't hand you a verdict. It reveals the truth, and what you do with it is still your choice.</li>
+              <li style="margin-bottom:6px;">When AI use is visible to the whole team, it becomes a shared memory and a focus for attention.</li><li style="margin-bottom:6px;">When AI use stays private, teams lose the chance to challenge or critically evaluate its outputs.</li><li style="margin-bottom:6px;">Trust, shared regulation, and critical engagement are what make collaboration with AI productive.</li>
             </ul>
           </div>
-                    <p>I was wading in a river in Alaska when a man beside me hooked a salmon and a brown bear began moving directly toward him. He had already done the hard part: he had hooked the fish, kept tension on the line, and begun reeling it toward him. Then the bear entered the water.</p>
-<p>He did not try to reel faster. He did not hold his ground or calculate whether he might still be able to keep the salmon. He cut the line and walked away. The bear got the fish. He got to keep fishing. The entire decision took about four seconds.</p>
+                    <p><em>Co-authored by Alana McCarthy, Rónan Fulton, and Michael Hogan. </em></p>
+<p>Imagine two groups of three university students completing the same project. In group one, the students use a GenAI tool individually the night before the meeting and present refined output to the group the following day. Group two, however, sits around a shared laptop displaying their GenAI interface, collectively devising prompts and evaluating each response before integrating it into their work. Both teams use the same tool to complete the same task, and yet two completely different collaboration patterns emerge. </p>
 
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-07/89673374-e7fa-415e-b64e-0da2b5cd021a.jpg?itok=ubigejqI" width="639" height="479" data-insert-type="image" alt="Cut The Line" title="Laura Berger"></div>
-<div class="caption">Cut The Line</div>
-<div class="insertArea--origin subtext">Source: Laura Berger</div>
+<p>Despite mixed public perception and evidence, <a href="https://doi.org/10.61862/2811-5937.1083">AI is used by over 83 percent </a>of Irish higher education students. Attention is increasingly turning to how this affects collaborative learning, a fundamental aspect of higher education, and to the risks of <a href="https://doi.org/10.1007/s40979-026-00217-x">overreliance, erosion of collaborative skills, and cognitive offloading</a> with careless GenAI use. Understanding how AI is reshaping the dynamics of collaboration itself, not just whether it helps or hinders individual work, is the natural next step. This is what <a href="https://dl.acm.org/doi/10.1145/3772318.3791087">Xu and colleagues (2026)</a> set out to explore, comparing today's common but often hidden pattern of individual AI use with an alternative in which AI becomes a shared collaborative space.</p>
+
+<p>They worked with 27 higher education students. Eighteen students took part in an observational study where six groups of three used a shared ChatGPT display, either online or in person, to design a cultural educational game. The remaining nine students were interviewed about their use of AI in everyday group projects. Together, these methods offered a contrast between what's possible when AI use is visible and shared, and the more familiar landscape in which AI-human interaction remains individual and hidden.</p>
+
+<p><strong>When AI use stays hidden</strong></p>
+<p>In the interviews, the students revealed that they worked with AI privately and later presented a reworded version of the AI output to the group. The students failed to disclose AI-generated aspects of their work, and AI outputs were concealed and embedded within what was presented as a personal contribution. Additionally, students who were the most prepared with AI-generated material became the discussion leaders. This culminated in a lack of transparency, which reduced opportunities for collective evaluation and made it more difficult to challenge ideas. This hidden usage limits the conditions we discuss in our accompanying post. Students cannot collectively criticise, regulate, or develop a shared understanding of an interaction that they cannot see.</p>
+
+<p><strong>When AI use is visible </strong></p>
+<p>However, Xu and colleagues’ (2026) observational study also revealed what can happen when AI is visible to all group members. The first key observation is that AI became an <em>attentional anchor</em>: the team paused, reflected, and reoriented around ChatGPT’s responses, continually refocusing together on the task at hand. The AI also became a <em>shared external memory</em>, providing a timeline of decisions and ideas that could be revisited, regenerated, and reinterpreted. Additionally, the <em>prompting itself became a collaborative process</em>. Rather than fragmented prompting, where individuals typed in personal queries, groups sitting together around a table practised collective prompting: they negotiated what to ask before typing and were building shared understanding in the process. Across the groups, a recurring cycle emerged: highlight a promising output to the group by reading it aloud or pointing to it, evaluate it together, then embed it into the shared knowledge base.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
+
+  </div>
+
+<p>When making decisions, the students followed three core patterns. First, <em>evaluated adoption</em>, where groups collectively examined a suggestion before using it. Second, <em>critical rejection</em>, where weak outputs sharpened the group's thinking by forcing them to articulate why it fell short; and also a third pattern that involved <em>overreliance</em>, where teams followed AI output without critical engagement or discussion. The researchers note that the presence of AI in a group does not, on its own, produce productive collaboration; that depends on how the group engages with it. While visibility of the AI throughout the collaborative process creates the conditions for shared regulation and critical engagement, it doesn’t guarantee them.</p>
+
+<p>Because most current LLMs are built for individual use, their collaborative potential depends entirely on whether groups make their thinking visible to one another; that potential disappears the moment reasoning becomes hidden. The findings reported by Xu and colleagues suggest that when educators create opportunities for students to engage with AI collectively, the input and output should be visible and negotiated as a group. This allows the technology to become a shared artefact that can deepen collective engagement. Trust, shared regulation, and critical engagement are what make collaboration with AI productive. GenAI interfaces currently follow a linear conversation structure, meaning core ideas often get lost in the scroll and become difficult to revisit or manipulate collaboratively. Designing AI systems in which outputs become shared manipulable artefacts that can be rearranged and revisited as the team's thinking develops would better support collaborative outcomes. </p>
+
+<p>GenAI becomes a collaborative tool when it is used to support shared thinking. When thinking is made transparent, AI tools can provide a space that encourages discussion and coordination. Where thinking is hidden, the use of these tools risks fragmenting group learning and eroding the mutual awareness that critical engagement, shared regulation, and trust depend on. The question has now moved away from whether AI should be used; it already is used. The real question now is how we implement AI tool use in education in ways that preserve and enhance collaborative group dynamics. Xu and colleagues’ (2026) study suggests that doing so means designing educational environments that externalise human thinking, positioning AI as a space for collaborative thinking rather than a replacement for productive group work. </p>
+
+<p><em>Alana McCarthy and</em> <em>Rónan Fulton</em> are researchers working at<em> the University of Galway.</em></p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
 </div>
-</div>
-<p>I have thought about it ever since, because most of the things we struggle to release do not arrive with a brown bear attached to them. They unfold slowly. A project keeps consuming time without gaining traction. A job no longer fits, but still offers enough familiarity to make leaving difficult. A relationship changes, yet both people remain committed to the version of it they once believed was possible. There is no single moment that forces a decision. So we keep going, not always because continuing is the right choice, but because we have already invested so much that stopping begins to feel irresponsible.</p>
 
-<p>Psychologists call one version of this <em>escalation of commitment.</em></p>
-<p>We continue investing in a decision partly because walking away would force us to confront the possibility that the time, energy, or emotion already spent will not produce what we hoped. In plain language, we keep going not necessarily because something is working, but because stopping would require us to admit that it may have stopped working some time ago.</p>
+  </div>
 
-<h2>Why the River Made the Decision Clear</h2>
-<p>It would be tempting to say the fisherman's body made the decision before his mind could interfere, but the physiology is more complicated than that. Immediate threats mobilize the nervous system, narrow attention, and move us toward faster action. But what made his decision so clean was not simply adrenaline. It was clarity. Whatever he had already invested in catching that salmon no longer mattered. The next decision was about what continuing might cost. </p>
-
-<h2>The Weight We Keep Carrying</h2>
-<p>Most of us never get that kind of clarity, because nothing forces us to put the sunk cost down. We carry both calculations at once: what we have already spent, and what continuing will still cost us. Letting go can feel like declaring the earlier investment worthless, so we keep adding to it instead, hoping enough time will eventually justify the time already spent. It rarely works that way. The count just gets longer.</p>
-
-<h2>What We're Actually Protecting</h2>
-<p>The people who find this hardest are usually protecting more than the outcome. If part of who you are is the person who doesn't quit, in a relationship, a job, a friendship, a project, then stopping isn't just a practical decision. It's a threat to the story you tell about yourself. A few months ago I wrote about the trap of needing to keep <a href="https://www.psychologytoday.com/us/blog/radical-sabbatical/202504/breaking-the-cycle-of-proving-yourself">proving yourself.</a> This is its quieter relative: the trap of refusing to stop, long after the point has already been made.</p>
-
-<p>Consider the relationship two people stay in years after it has stopped working, because ending it would mean admitting the years already spent don't count for what they'd hoped. Or consider the job someone stays in well past the point of growth, because leaving would mean admitting the earlier choice wasn't the one they thought it was. We tend to trust people more, including ourselves, when they can say, out loud, that something didn't work.</p>
-
-<h2>The Test That Actually Works</h2>
-<div class="insertArea ck-widget">
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/does-it-matter-if-your-team-sees-you-using-ai" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/does-it-matter-if-your-team-sees-you-using-ai</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-one-lifespan/202607/does-it-matter-if-your-team-sees-you-using-ai</guid>
+            <dc:creator><![CDATA[Michael Hogan Ph.D.]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/tungart7__pixabay_student_group.jpg?itok=Sj_A0Flw" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Infertility May Require a New Marriage]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/IMG_3472_Copy_Copy_Copy_Copy-removebg-preview.jpg?itok=K8cNzEFs" alt="Fenella Das Gupta Ph.D., MFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Infertility</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Infertility May Require a New Marriage</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Infertility may require not a new partner but a different relationship with the one you're with.</h2><p style="font-size:0.9em;color:#666;">Posted July 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Infertility doesn't always expose a weak marriage. Sometimes it asks couples to build a different one.</li><li style="margin-bottom:6px;">When couples stop blaming each other, they can start protecting the relationship they share.</li><li style="margin-bottom:6px;">When the question changes, the relationship often changes with it.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/laura_fishing_with_bear_in_background.jpg?itok=wk5MI4A5" width="320" height="240" data-insert-type="image" alt="Still Fishing" title="Laura Berger"></div>
-<div class="caption">Still Fishing</div>
-<div class="insertArea--origin subtext">Source: Laura Berger</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/shutterstock_2265695435.jpg?itok=QAboiuR-" width="320" height="213" data-insert-type="image" title="Zamrznuti tonovi / Shutterstock" alt="Zamrznuti tonovi / Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Zamrznuti tonovi / Shutterstock</div>
 </div>
 </div>
 </div>
-<p>The fisherman didn't ask what he had already put into that fish. He asked what continuing would cost him now, with a bear ten feet away. We can ask the same question without the bear. Don't ask: Can I still make this work? Lots of people can keep many things functioning far longer than they remain worthwhile. Ask instead: If I were deciding today, for the first time, knowing everything I know now, would I choose this? Ignore what you have already spent. It cannot be recovered by spending more.</p>
+<p>When couples set out to build a family, the dream is perfect and deeply personal. Needless to say, infertility, with its winding territory, is never part of the plan. It wreaks havoc. </p>
+<h2>When the Relationship Starts to Feel Different</h2>
+<p>As you reach round three and beyond of in-vitro fertilization (IVF), the toll on the relationship naturally begins to show. Perhaps one of the hardest to navigate is when a couple finds themselves wanting different things.</p>
 
-<p>A "no" does not mean the decision has already been made for you. It means you now have information you did not have a moment ago, and a choice to make with open eyes instead of momentum. Sometimes that choice is to leave. Sometimes real constraints, financial obligations, safety, timing, or responsibility to other people mean the right move is a slower exit, a repair attempt, or a plan instead of an immediate departure. The test does not tell you what to do next. It tells you the truth you are actually working with.</p>
+<blockquote><p><em>"It's awful. We cannot agree on the smallest things. I'm afraid this will break us. I mean, I feel my resentment, and this is heading south, fast!"</em> — Alexis*</p>
+</blockquote>
+<p>For some, this signals the moment of wondering whether their marriage will pull through.</p>
+<h2>What Does Pop Culture Tell Us?</h2>
+<p>The message is quite clear: If you're struggling, something has gone wrong with the partnership. If you could simply communicate better, become less defensive, or manage conflict more effectively, the relationship would improve.</p>
+
+<p>Maybe that's true. Maybe the way you're processing needs help. But that can dog-pile more anxiety onto an already anxiety-ridden situation, as under stress, our emotional bandwidth for self-regulation narrows. The more reactive we are, the less able we are to access the relationship skills we normally use (Gottman &amp; Gottman, 2015).</p>
+
+<p>And perhaps the problem isn't simply communication but that fear has quietly become the third person in the relationship.</p>
+<h2>The Hidden Role of Fear</h2>
+<p>Couples often believe they are fighting each other, when in reality they are both responding to a smorgasbord of fear:</p>
+<ul>
+<li>Fear of never becoming a parent</li>
+<li>Fear that your partner will leave because of infertility</li>
+<li>Fear that you're letting your partner down</li>
+<li>Fear that you're the "reason" this is happening</li>
+<li>Fear that every decision is the wrong one</li>
+<li>Fear that time is running out</li>
+<li>Fear of the financial consequences</li>
+</ul>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>When fear begins shaping the relationship, it's easy to assume the relationship itself is failing.</p>
+<p>A couple can feel disconnected and think: <em>Maybe we're just not right for each other anymore.</em></p>
+<p>But what if there's another way of understanding it? What if you're not in the wrong relationship, but in a chapter that neither of you has ever navigated before?</p>
+
+<h2>"Multiple Marriages"</h2>
+<p>Esther Perel often says that most of us will have two or three marriages during our lifetime, and some of us will have them with the same person (Perel, 2017).</p>
+<p>What she means is that as life changes, relationships have to change too. A relationship that worked before infertility or fertility treatment may not be the same relationship that carries you through it.</p>
+
+<p>That does not mean the marriage is failing. It means the relationship has to adapt to the change to survive and thrive.</p>
+<p>The task, then, isn't to get back to how things used to be, but to create a relationship that fits the life the couple is now living.</p>
+<p>This is what is meant by having more than one marriage with the same person.</p>
+
+
+<h2>Asking How Instead of Why</h2>
+<p>With that in mind, perhaps we're asking the wrong question.</p>
+<p>Instead of asking:</p>
+<blockquote><p><em>What's wrong with me/my partner or our marriage?</em></p>
+</blockquote>
+<p>Asking:</p>
+<blockquote><p><em>What is happening to us?</em></p>
+</blockquote>
+<p>shifts from seeing one another as a problem to seeing what factors are influencing the relationship.</p>
+<ul>
+<li><em>How is uncertainty changing the way you talk to each other?</em></li>
+<li><em>How is shame changing your intimacy?</em></li>
+<li><em>How is fear changing the roles you each play?</em></li>
+<li><em>How is silence trying to protect you?</em></li>
+</ul>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>The goal isn't to decide who is to blame for the communication breakdown, but to understand how infertility is changing your relationship so you can decide together which changes you want to keep and which ones you don't. It's your relationship, and you get to decide.</p>
+<h2>Building the Next Marriage</h2>
+<p>This is an image I often share with couples: Imagine a tree growing between you. Neither of you owns it. Neither of you is responsible for it alone. It needs time, attention, and effort from both of you. And when storms come, it needs protecting.</p>
 
 
 
   
 
 
-<p>Cutting the line was not a failure of commitment. It was commitment, once the weight of what he'd already spent stopped being part of the equation.</p>
-<p><strong>If you were deciding today for the first time, what would you choose?</strong></p>
+<p>Infertility is the storm. A failed cycle. A friend's pregnancy announcement. A bill neither of you wants to open. The storm is not the tree.</p>
+<p>This is more than just a metaphor. What affects one partner almost always affects the other. Infertility is something that happens to the relationship, not just to one person. Research shows that when couples see it as a shared challenge and face it together, they cope better both individually and as a couple (Bodenmann, 2005; Molgora et al., 2019).</p>
+
+<p>So, instead of asking, <em>Whose fault is this? </em>you begin asking, <em>What does our tree need right now?</em></p>
+<h2>Different Interactions, Different Marriage</h2>
+<p>Remember, this is not about recovering the old relationship but accommodating change to build a new version. That means practical behavior changes:</p>
+<p>Perhaps one partner starts coming to appointments again, just so the other doesn't walk in alone.</p>
+
+<p>Or after a failed cycle, instead of disappearing into silence, a partner might reveal that they are also hurting and disappointed but are at a loss for words.</p>
+<p>Sometimes instead of avoiding intimacy, one admits, "I hate the pressure to perform."</p>
+<p>Don’t leave another argument unfinished. Ask, "Can we try that conversation again?"</p>
+
+<p>None of these moments change the outcome of treatment or what comes next. But paying attention to how infertility itself is affecting the relationship can help protect and strengthen it.</p>
+<h2>The Reframe </h2>
+<p>Shift from<em> What's wrong with us? </em>to <em>What are we protecting?</em></p>
+<p>With this as the central question, shame and the burden of blame soften, and a lot of couples stop seeing conflict and stress as evidence that they are failing.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>And this is not wishful thinking. Research suggests this shift matters. In one large study of couples going through fertility treatment, some said the experience had actually brought them closer together (Schmidt et al., 2005). The difference wasn't simply whether treatment worked. It was also how couples responded to it. Those who talked openly, shared their feelings, and found meaning in the experience coped better than those who withdrew, kept it secret, or avoided talking about it.</p>
+
+<p>So, perhaps you are not the problem. Perhaps infertility is.</p>
+<p>Or perhaps the real question is not what infertility takes from a relationship but what the two of you choose to protect through it.</p>
+<p><em>*Name and identifying details changed.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/radical-sabbatical/202607/the-cut-the-line-rule-when-to-hold-on-and-when-to-let-go" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202607/infertility-may-require-a-new-marriage" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/radical-sabbatical/202607/the-cut-the-line-rule-when-to-hold-on-and-when-to-let-go</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/radical-sabbatical/202607/the-cut-the-line-rule-when-to-hold-on-and-when-to-let-go</guid>
-            <dc:creator><![CDATA[Laura Berger]]></dc:creator>
-            <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/89673374-e7fa-415e-b64e-0da2b5cd021a.jpg?itok=0RI0wR5u" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202607/infertility-may-require-a-new-marriage</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202607/infertility-may-require-a-new-marriage</guid>
+            <dc:creator><![CDATA[S. Fenella Das Gupta Ph.D., MFT]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-07/shutterstock_2265695435.jpg?itok=Aj7Y7ooJ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream Wisdom: A Guide to Self-Discovery]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/dale.png.jpg?itok=Ci31Max3" alt="Dale M. Kushner" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dreaming</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Dream Wisdom: A Guide to Self-Discovery</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What are our dreams telling us? The answers depend on who’s asking.</h2><p style="font-size:0.9em;color:#666;">Posted July 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/orphans_dream__detail_.jpg?itok=SD_RixH4" width="320" height="385" data-insert-type="image" alt="&quot;The Orphan’s Dream&quot; (1856-1861) stereograph (detail) by James Elliott (1835-1903)." title="Rijksmuseum / Public Domain"></div>
+<div class="caption">"The Orphan’s Dream" (1856-1861) stereograph (detail) by James Elliott (1835-1903).</div>
+<div class="insertArea--origin subtext">Source: Rijksmuseum / Public Domain</div>
+</div>
+</div>
+</div>
+<p>Humans have been fascinated, inspired, and guided by dreams since our early history. Our ancestors regarded dreams as messages from the divine and considered them bridges between the ordinary and spiritual worlds. Dream interpretation was sacred to the Aztecs, Mayans, Egyptians, Greeks, Indigenous Peoples of the Americas, and African peoples, among others, who looked to dreams for guidance on life and death issues such as health and preparation for impending disasters.</p>
+
+<p>Although prophetic dreams appear in the Bible, the early Church forbade congregants from connecting with God through dreams unless a priest mediated.<sup>1</sup> In the Middle Ages, dreams were often considered the work of the devil. During the Salem witch trials, the accuser claimed the accused witch visited them in dreams and tried to choke or kill them. Enlightenment philosophers and thinkers, René Descartes and John Locke among the most famous, viewed dreams as neither messages from God nor a visitation from Satan. In his <em>Meditations on First Philosophy</em>, Descartes argued that dreams mimic reality but are not reality, and we cannot trust our senses to attain the truth. Sensory information, therefore, was not reliable.<sup>2</sup></p>
+
+<p>Yet despite the rational skepticism of the 17th and 18th centuries, dream manuals circulated among both Christians and Jews. Tibetan Buddhists had elaborate visualization and meditation practices for cultivating dream states like lucid dreaming. The mystical branch of Islam, Sufism, likewise took a great interest in dreams. Spiritual masters examined seekers’ dreams to evaluate their emotional state and map out complex spiritual guides for dreamers.<sup>3</sup></p>
+
+<p>The evolving science of medicine and the natural sciences sparked curiosity in the physiology of dreaming: Where do dreams originate? What’s happening in our brain and body when we sleep? What are the different dream states? In 1899, Sigmund Freud published his seminal book, <em>The Interpretation of Dreams,</em> which introduced his new psychoanalytic theory of consciousness, a model that he later refined when he divided the psyche into three parts: conscious, the ego; unconscious, the id; and the moral arbitrator of our minds, the super-ego.<sup>4</sup></p>
+
+<p>Freud believed our forbidden fantasies and sexual desires were repressed by a censor while we are awake. During sleep, the censor relaxes and the repressed, unacceptable contents of our unconscious become disguised in dreams whose symbols need to be decoded with the aid of a trained psychoanalyst acting in a secular role once held by a priest.</p>
+
+<p>Carl Jung, originally Freud’s devoted student and later his professional rival, was, like his teacher, devoted to understanding the unconscious. Both believed dreams were an expression of the unconscious and an active dynamic force in shaping our waking life. For Jung, dream phenomena could not be reduced to repression of sexual drives and libido. He understood dreams to serve a compensatory purpose. Dreams showed us neglected or rejected unconscious aspects of ourselves, our “shadow.” Dream imagery might emphasize what is hidden from our awareness, not only forbidden instincts and desires, but also forgotten memories and archetypal symbols that have appeared in dreams since the beginning of humankind. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>“The general function of dreams is to try to restore our psychological balance by producing dream material that re-establishes, in a subtle way, the total psychic equilibrium. This is what I call the complementary (or compensatory) role of dreams in our psychic make-up.” —Carl Jung, <em>Man and His Symbols<sup>5</sup></em></p>
+
+<p>The emotional depth of this material emerges in dreams unfiltered by conscious restraint. In a compensatory dream, a person who was passive and compliant in daily life might dream they are an aggressive, raging lion, symbolizing unacknowledged and split-off anger. Jung believed dreams show us where we are out of balance and help to restore wholeness to our psyches. For Jung, dreams could be interpreted objectively—the typewriter in a dream represents the typewriter in your office; or subjectively—the typewriter in your dream represents your mother’s underpaid job as a secretary; or archetypally—the typewriter in your dream represents an authorial voice and commitment to language that must be hammered out on an outdated mode of communication. Jung and his followers held to the belief that making the unconscious conscious led to the discovery of our authentic self.<sup>6</sup></p>
+
+<p>Freudian and Jungian theories continue to evolve today. Neuroscience has advanced our understanding of dreaming and is exploring the brain physiology involved.<sup>7</sup> Research on the use of psychedelics—psilocybin, ayahuasca, MDMA—has inspired new interest in consciousness, in altered states including dreams, and their influence on our well-being.</p>
+
+
+
+  
+
+
+<p>If you are interested in dreamwork and exploring the meaning of your rich inner world and symbolic life, many teachers and ways of working with dreams exist. This includes depth psychology work, traditional psychoanalysis, sand tray therapy, dance therapy, shamanic and indigenous traditions, and spiritual and wisdom teachers.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Or be your own guide. If you have a problem to solve, an issue to process, or are looking to explore the liminal state of dream reality, set your intention before you go to sleep by asking the dream-maker to send you the information you’re seeking. Even if you only remember a single word or image from a dream, record it immediately after you awake while the dream is fresh. Contemplate its meaning. Drawing, sculpting, painting, or dancing a dream can also provide insight by circumventing language and engaging with the dream's lived feeling.</p>
+
+<p>Consider dreams as wondrous gifts that come to us purposefully and without effort. Consider that their message can be both personal and collective. Be receptive to the mystery! Each dream is an adventure into a different reality, or as Jung wrote<em>, “The dream is a little hidden door in the innermost and most secret recesses of the soul.”<sup>8</sup></em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/transcending-the-past/202607/dream-wisdom-a-guide-to-self-discovery" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/transcending-the-past/202607/dream-wisdom-a-guide-to-self-discovery</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/transcending-the-past/202607/dream-wisdom-a-guide-to-self-discovery</guid>
+            <dc:creator><![CDATA[Dale M. Kushner]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/orphans_dream__detail_.jpg?h=c679ce23&amp;itok=6MVskDTU" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Weather the Storms of Life]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/thumbnail_original-removebg-preview.jpg?itok=7nJc5euy" alt="Robert Puff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Resilience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Weather the Storms of Life</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Turn your fragile happiness into an unshakeable mental fortress.</h2><p style="font-size:0.9em;color:#666;">Posted July 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">We often build fragile happiness that collapses easily, much like a pop-up tent in a desert storm.</li><li style="margin-bottom:6px;">Even when tragedies burn through our lives, a strong internal foundation allows us to rebuild.</li><li style="margin-bottom:6px;">True resilience requires laying a deep, unseen foundation through daily habits of quiet mindfulness.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-07/image_by_u_yw0ffv8jwo_from_pixabay.jpg?itok=QMoh_uHP" width="320" height="480" data-insert-type="image" title="u_yw0ffv8jwo / Pixabay" alt="u_yw0ffv8jwo / Pixabay"></div>
+<div class="insertArea--origin subtext">Source: u_yw0ffv8jwo / Pixabay</div>
+</div>
+</div>
+</div>
+<p>Have you ever had a fantastic week—or even just a really great day—where everything seemed to be going perfectly?</p>
+<p>Then, suddenly, something minor happens. You receive a rude comment from a coworker, or you get a flat tire on the way home. In an instant, your great mood rapidly morphs into frustration and anger. Sometimes this dark cloud lingers not just for a few minutes, but for days.</p>
+
+<p>Most of us can easily recall a time when this has happened. But why does it happen? How can our entire emotional state be completely derailed by a single, fleeting event?</p>
+<h2>The Pop-Up Tent vs. the Cathedral</h2>
+<p>To understand this, we have to look at how we structure our minds.</p>
+<p>When I was younger, I did a lot of backpacking. When you backpack, you sleep in a pop-up tent. While a tent offers some shelter, it does not guarantee your safety against the elements. I remember camping with a friend in the Mojave Desert when a massive storm unexpectedly kicked in. It took us more than 30 minutes just to wrestle our tents to the ground. Between the violent wind, the pouring rain, and the collapsing canvas, I did not sleep a wink that night.</p>
+
+<p>Our everyday happiness is often built exactly like that pop-up tent. We rely entirely on favorable external weather—people being nice to us, traffic being light, our plans working out—to keep our emotional shelter standing. But we cannot control the external weather of life.</p>
+<p>If we want lasting peace, we must stop pitching tents and start building cathedrals.</p>
+
+<p>Recently, I traveled through Belgium and France, visiting some of the most magnificent cathedrals in the world, including the stunning structures in Strasbourg and Paris. Standing inside these towering, majestic buildings, you are struck by their breathtaking silence and unshakable solidity.</p>
+<p>The secret to a cathedral's survival isn't just what you see above ground. The original builders spent years digging deep into the earth, laying massive, heavy stone foundations that no one would ever see. Because of that unglamorous, unseen groundwork, those cathedrals can withstand centuries of violent storms without flinching.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content ad--content-loaded" data-google-query-id="CL3Z2L_I-pUDFc49RAgdibUwNQ">
+    
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" name="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="7"></iframe></div></div>
+</div>
+
+  </div>
+
+<h2>The Interior Castle</h2>
+<p>The brilliant 16th-century Spanish mystic Teresa of Avila understood this architectural metaphor perfectly.</p>
+<p>Teresa lived a life full of intense physical illness, political friction, and constant chaos. Yet, she possessed a profound inner peace. She wrote a masterpiece called <em>The Interior Castle</em>, describing the human soul as a massive fortress made of a single, brilliant diamond.</p>
+
+<p>While the world outside the castle walls raged with war, stress, and anxiety, she taught that if we do the deep foundational work, we can retreat into the absolute, unshakeable sanctuary of our own minds. She didn't pray for the external storms to stop; she just built a stronger internal architecture to withstand them.</p>
+
+<p>Building a mental foundation is hard, dirty work. It requires moving the heavy dirt of our own anxiety and pouring the concrete of patience. It is much easier to just distract ourselves with screens, but distraction leaves us living in fragile tents.</p>
+<h2>Three Steps to Build Your Foundation</h2>
+<p>How do we begin pouring the foundation for our own interior castle? We start with three distinct practices:</p>
+
+
+<ol>
+<li><strong>Perform daily brickwork:</strong> You cannot build a cathedral in a day. Choose one tiny daily habit that builds your foundation. It could be five minutes of silent meditation before bed, or mindfully drinking your morning green tea without looking at a phone screen. Lay one brick of absolute stillness every single day.</li>
+<li><strong>Practice on small storms:</strong> We do not have to wait for a major life crisis to test our foundation. When someone cuts you off in traffic, or you spill your coffee, use that minor annoyance as a drill. Take a deep breath, observe the frustration, and actively choose not to let it knock down your structure.</li>
+<li><strong>Cultivate the eternal view:</strong> When you feel overwhelmed, remember the lifespan of a cathedral. Zoom out and look at your current stress through the eyes of eternity. Ask yourself: <em>Will this matter in a year?</em> This perspective instantly shrinks the storm and solidifies your peace.</li>
+</ol>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content ad--content-loaded" data-google-query-id="CLvZ2L_I-pUDFc49RAgdibUwNQ">
+    
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_in-content_0" name="google_ads_iframe_/1032688/300x250_in-content_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption;attribution-reporting" data-load-complete="true" data-google-container-id="5"></iframe></div></div>
+</div>
+
+  </div>
+
+<h2>Rising From the Ashes</h2>
+<p>On April 15, 2019, the world watched in horror as the roof of Notre Dame Cathedral caught fire. Much of it was damaged inside and out.</p>
+<p>Yet, because the foundation was so incredibly strong, the structure held. Today, it is being rebuilt, and it is emerging even more beautiful than before.</p>
+
+
+
+  
+
+
+<p>Life will inevitably bring tragedy that burns through our lives. We will face loss, heartbreak, and profound grief. But if you have done the deep, quiet work to build your internal foundation, you will survive the fire. You will rebuild, and your soul will become a stronger, more glorious sanctuary.</p>
+<p>Stop leaving your happiness to the mercy of the wind. Start digging deep, and build your cathedral.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/meditation-for-modern-life/202607/how-to-weather-the-storms-of-life" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/meditation-for-modern-life/202607/how-to-weather-the-storms-of-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/meditation-for-modern-life/202607/how-to-weather-the-storms-of-life</guid>
+            <dc:creator><![CDATA[Robert E. Puff Ph.D.]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-07/image_by_artdreams92_from_pixabay.jpg?itok=5QcEHvz2" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
