@@ -4,230 +4,214 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 20:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 21:57:03 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 20:10:44 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 21:57:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[When AI Finishes Your Thoughts, What Happens to Them?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/grant-brenner.jpg?itok=4DuQiKcn" alt="Grant Hilary Brenner MD, DFAPA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When AI Finishes Your Thoughts, What Happens to Them?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Does AI preserve the work through which a mind develops?</h2><p style="font-size:0.9em;color:#666;">Posted August 2, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Are People With ADHD Symptoms More Likely to Be Left-Handed?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/e1_edited.jpg?itok=z6uf8KQT" alt="Sebastian Ocklenburg, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are People With ADHD Symptoms More Likely to Be Left-Handed?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A new study investigated hyperactivity/inattention in handedness groups.</h2><p style="font-size:0.9em;color:#666;">Posted August 2, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI might help us think, or it might take over the thinking we most need to practice.</li><li style="margin-bottom:6px;">Person-like fluency can make us followers of our own tools without our noticing.</li><li style="margin-bottom:6px;">Assistance can compensate, scaffold, or substitute; the three are easy to confuse.</li>
+              <li style="margin-bottom:6px;">A meta-analysis found that people with ADHD are more likely to be left-handed or mixed-handed.</li><li style="margin-bottom:6px;">A new study investigated data from almost 8,000 children on handedness and inattention and hyperactivity.</li><li style="margin-bottom:6px;">Left-handed and mixed-handed children showed more inattention and hyperactivity.</li>
             </ul>
           </div>
-                    <p dir="ltr">A thought, a plan, begins forming, and before it is formulated, something else finishes it. I keep running into it, in my work and others': the interval between a partly-formed thought and an AI's optimized response has all but closed. It's easy to click go and harder to say no, to slow down and think for oneself—particularly when the AI is good at it. The question is not only what these systems can do, but what happens in us when we let them do the part of thinking that until recently required staying with a problem long enough for something to form.</p>
+                    <p>Occasionally, there are anecdotal reports on the internet that people with ADHD (attention deficit hyperactivity disorder) are more commonly left-handed or mixed-handed than the average person, but is there actually scientific evidence for this idea?</p>
+<p>Turns out: there is scientific evidence supporting this idea. In 2022, a meta-analysis on handedness in people with ADHD was published (<a href="https://link.springer.com/article/10.1007/s11065-021-09530-3">Nastou et al., 2022</a>). A meta-analysis is a statistical integration of data from several original studies so that the sample size is very large and the results are very trustworthy. The meta-analysis showed that people with ADHD had a statistically significant increase in non-right-handedness (left-handedness and mixed-handedness combined) compared to people without ADHD. People with ADHD had a 27.3% chance of being mixed- or left-handed compared to 18.1% of people without ADHD. </p>
 
-<h2>When Is Easy "Too Easy"?</h2>
-<p dir="ltr">What comes to mind here is the need to manage one's own sense of being a follower or a leader, and the desire to succumb to seduction. Self-monitoring and restraint are required to hold steady in such currents. With AI there is an experience, but not another person—not in the ordinary sense of someone with a body, needs, vulnerability, a history, and a life we can affect in return. What overlaps is a working surface—language, concepts, alternatives, actions and feedback—not a shared mind.</p>
+<p>What, however, was unclear in this meta-analysis, was whether attention deficit hyperactivity disorder symptoms (like hyperactivity and inattention symptoms) in people without a clear ADHD diagnosis are also linked to more left-handedness and mixed-handedness.</p>
+<h2>A new study on the association between handedness and mental health symptoms in children in the general population</h2>
 
-<p dir="ltr">Large language models appear person-like for understandable reasons: they use language, take turns, answer quickly, carry context forward, and arrive through interfaces built to feel socially present, even warm and friendly. Selling tokens. Some of that is deliberate and, in engineering terms, a dependency: to be usable, they must conform to human limits—our tempo, our narrow channel, our readiness to find a face in things. Design is not necessarily manipulation; the pull can come from affordance, incentive, how easily we read a mind into fluent language, or how readily we stop thinking when tired or conditioned.</p>
+<p>A new study entitled “Writing hand preference and child mental health in the general population: Findings from the Millennium Cohort Study,” now published in the scientific journal <em>Laterality, </em>was focused on the association between handedness and mental health symptoms in children in the general population (<a href="https://www.tandfonline.com/doi/10.1080/1357650X.2025.2599199?url_ver=Z39.88-2003&amp;rfr_id=ori:rid:crossref.org&amp;rfr_dat=cr_pub%20%200pubmed">Sifaki and Flouri, 2026</a>). In the study, conducted by scientists Maria Sifaki and Eirini Flouri from University College London, data from almost 8,000 children (roughly half of them girls) from the U.K.’s Millennium Cohort Study were analyzed.</p>
 
-<p dir="ltr">The pull is measurable, and it adds up. Across experiments with 1,401 participants, a biased AI amplified perceptual, emotional, and social judgments in a direction human interaction did not, and the effect grew over rounds (Glickman &amp; Sharot, 2025). The drift appeared even when people merely believed an AI was answering, and they underestimated how far they had moved.</p>
+<p>In this study, the parents of the children reported on several different symptoms their children showed at ages 3, 5, 7, 11, and 14 years. These symptoms included:</p>
+<ul>
+<li>Emotional difficulties.</li>
+<li>Conduct difficulties.</li>
+<li>Hyperactivity/inattention problems.</li>
+<li>Peer difficulties. </li>
+<li>Difficulties with prosocial behavior.</li>
+</ul>
 
-<h2>Score!</h2>
-<p dir="ltr">There is a real gain on the other side. We have a slow bitrate and a narrow aperture on the world; attention and working memory are limited; we cannot weigh every alternative or hold every possible future in mind while deciding. These systems compare and generate at a scale we cannot take in directly, making unmanageable complexity available at the tempo of thought—powerful tools, in the right hands.</p>
+<p>Moreover, the children’s handedness was assessed at age 14.</p>
+<h2>Results of the study: The strongest association was found for hyperactivity/inattention problems</h2>
+<p>Overall, about 87% of children in the study were right-handed, and about 13% were not right-handed, with about 12% being left-handed and 1% being mixed-handed. The associations with the assessed symptoms were quite interesting. </p>
 
-<p dir="ltr">The difficulty begins when speed is mistaken for development. Letting an AI finish, or even supply, one's thoughts can interrupt important learning and developmental chains: a person may arrive at a polished sentence, plan, or interpretation without having formulated the question, tolerated the uncertainty, found the error, revised, and decided what mattered. The output may look better; the route may be thinner. The self-monitoring question: am I extending thought or escaping effort—does the system offer something to evaluate, or supply the framing? We may think we are getting more done than we are—"Accomplishment Hallucination," as I've called it (Brenner, 2026).</p>
+<ul>
+<li>For most symptoms, there were no statistically significant associations at all. </li>
+<li>For conduct problems, the non-right-handed group had more difficulties than the right-handed group, but only at age 5, not at any other age, showing that the association is not very stable over time.</li>
+<li>The strongest effects were clearly found for hyperactivity/inattention problems. Here, the non-right-handed group had more difficulties than the right-handed group at ages 5, 7, 11, and 14. Thus, these differences were present at almost all age groups, showing a stable association between hyperactivity/inattention problems and not being right-handed.</li>
+</ul>
 
-<p dir="ltr">The closest thing to a direct test is more pointed than I expected. In a randomized trial with roughly 1,000 high schoolers (Bastani et al., 2025), an unrestricted GPT-4 assistant sharply raised math practice scores, then lowered later exam scores once withdrawn, relative to controls. A second version, whose hints withheld answers, produced larger practice gains and no penalty afterward. Same model, different mode of help, opposite effect on what a student could do alone. Mainly, we still do not know how these systems work, though we built them, or how to use them well for learning.</p>
+<h2>Takeaway</h2>
+<p>The results of the study confirm the results of the earlier meta-analysis, but also broaden them. They show that the association between ADHD and non-right-handedness is not limited to people with a clinical ADHD diagnosis. Instead, also children in the general population with hyperactivity or inattention problems have a higher chance of being left-handed or mixed-handed than children without those symptoms. These findings provide further evidence for a link between neurodiversity and left-handedness and mixed-handedness. </p>
 
-<p dir="ltr">Research with adults overlaps. Among 319 knowledge workers using generative AI at work (Lee et al., 2025), higher confidence in the tool tracked with less critical thinking; higher confidence in themselves, with more. One trial and one survey settle little, and show nothing about injury or atrophy. They point to performance and learning moving in opposite directions (Yan et al., 2025), unnoticed—as the contested handwriting-versus-typing research suggests (Van der Weel &amp; Van der Meer, 2024; Pinet &amp; Longcamp, 2025). How we do something may matter for what is learned and carried forward, beyond embodied cognition while including it.</p>
-
-<p dir="ltr">Medical education has a vocabulary for this—deskilling, mis-skilling, never-skilling (Abdulnour et al., 2025)—the third matters most: not losing a capacity but never building it. With incorrect AI readings, accuracy among radiologists of fifteen years' experience fell from 82% to 45.5% (Dratsch et al., 2023); expertise is no protection against automation bias.</p>
-
-
-
-  
-
-
-<h2>Frustration Maxxing</h2>
-<p dir="ltr">Research on effort points the same way without settling anything. Conditions that slow visible progress—spacing, retrieval practice, difficulty worked through rather than around—improve retention; current performance is an unreliable index of learning (Bjork &amp; Bjork, 2023). Pain isn't always gain: unnecessary friction exhausts and excludes, and someone with an enduring cognitive limitation may need continuing support, not a lecture on doing everything unaided. The question is not whether assistance is permitted, but what kind, for whom, to what end.</p>
-
-<p dir="ltr">The robotic exoskeleton is a useful comparison, bounded. Gait-training robots after stroke supplement therapy rather than replace it (Mehrholz et al., 2025); if the machine carries the load, the muscle does not get strong. The analogy is not literal muscle, nor evidence of injury. Three easily confused use-cases need differentiating: compensation, which lets a person function despite an enduring limitation; scaffolding, which preserves participation and correction and can fade; and substitution, in which the system supplies framing or judgment so completely that the human becomes deskilled. Augmentation is a fourth possibility, less relevant here.</p>
-
-<p dir="ltr">The brain is use-dependent. As the neuroscience-famous line from Hebb goes: "Neurons that fire together wire together." Conversely, "use it or lose it" says it more colloquially. Developing systems are shaped by what they are given to do, and by what they never get to do.</p>
-<p dir="ltr">This is where self-governance is critical, especially since frontier systems vary in how they influence us. A useful system need not make us avoidant or suspicious; it should keep us authors of our own development, make its contribution visible to self-appraisal, leave enough friction for us to think, and offer guardrails steering us back toward effortful work, relationship, creativity, repair, and action—so we don't lose essential skills, and might develop new ones. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/experimentations/202608/when-ai-finishes-your-thoughts-what-happens-to-them" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202608/are-people-with-adhd-symptoms-more-likely-to-be-left-handed" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/experimentations/202608/when-ai-finishes-your-thoughts-what-happens-to-them</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/experimentations/202608/when-ai-finishes-your-thoughts-what-happens-to-them</guid>
-            <dc:creator><![CDATA[Grant Hilary Brenner MD, DFAPA]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202608/are-people-with-adhd-symptoms-more-likely-to-be-left-handed</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202608/are-people-with-adhd-symptoms-more-likely-to-be-left-handed</guid>
+            <dc:creator><![CDATA[Sebastian Ocklenburg, Ph.D.]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-pavel-danilyuk-6926543.jpg?itok=lVLT4VNq" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-rdne-9034989.jpg?h=c3f84f83&amp;itok=J7p5UYk_" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Antidepressant Withdrawal: Can I Ever Get Off This Medication?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/LoriPlutchik.png.jpg?itok=nun0Pgya" alt="Plutchik" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">SSRIs</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Antidepressant Withdrawal: Can I Ever Get Off This Medication?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">There are specific strategies to safely taper off of antidepressants.</h2><p style="font-size:0.9em;color:#666;">Posted August 2, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA['Snacks' That Go Way Beyond Food]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-11/nancy_k_napier__1_.png.jpg?itok=vz7BdoHg" alt="Nancy K. Napier Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Creativity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">'Snacks' That Go Way Beyond Food</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">To improve your writing (and maybe your life), consider a new type of "snack."</h2><p style="font-size:0.9em;color:#666;">Posted August 2, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Patients do not need to remain on antidepressants indefinitely in order to avoid withdrawal reactions.</li><li style="margin-bottom:6px;">A literature review found that 56% of patients trying to discontinue antidepressants had withdrawal reactions.</li><li style="margin-bottom:6px;">Patient education and slow gradual tapers tend to allow for a smoother discontinuation of antidepressants.</li>
+              <li style="margin-bottom:6px;">"Snack" time for writing: use micro-chunks instead of rigid routines to maintain momentum.</li><li style="margin-bottom:6px;">Scheduled mini-naps can be a disciplined, essential reset like regular exercise.</li><li style="margin-bottom:6px;">Short, inspiring interactions with peers can provide lasting creative energy boosts.</li>
             </ul>
           </div>
-                    <p>Antidepressants are among the most commonly prescribed medications, with an estimated 29 million people in the U.S. taking them including about 18 million who have been on them for at least five years (Elgaddal et al, 2025, Davies et al, 2019). Discontinuing antidepressants is associated with withdrawal reactions, which are often under-recognized and poorly treated (Shapiro et al, 2025a).</p>
+                    <p>I recently had a Zoom chat with two writing friends—all of us have been nonfiction writers for work for years but we’re trying to become fiction writers. We admitted that we’re stuck right now, for so many reasons. Summer doldrums? Out of the normal routine? Scared to start a big revision? Yes, all of these.</p>
 
-<p>As a psychiatrist who specializes in prescribing medications, patients frequently ask if they will ever be able to stop their antidepressants. Some have had negative experiences and felt quite ill when previously tapering off antidepressants. Others read online that antidepressants can be extremely difficult to discontinue. The fear of a withdrawal reaction is justifiable. </p>
+<p>After talking through what is helping (or not), I came away with the idea that I need more snacks, but not food. Let me explain. </p>
+<h2>Writing Snacks</h2>
+<p>In the chaos of summer (vacation, kids’ changing schedules, unexpected travel), we discovered our regular writing routines have been fighting to stay on schedule. Each of us felt we’re losing the battle. Carefully carved out time chunks that worked during the regular part of the year don’t work in summer. As we talked it through, we realized those routines need to give way to smaller, less well-planned micro-chunks of time. "Snacks." Instead of three hours three days a week, I may only have an hour, twice a week. Or even less: a few minutes each day or every other day. The time chunks may be smaller, but they <em>need</em> to be there. One of the women has given herself the task of writing a small essay every Friday morning. She writes thoughtful comments on Substack, about 200-250 words, and that anchors her writing. Brilliant. And those essays get done, every week, even if the novel is still percolating. </p>
 
-<p>The good news is that individuals can safely taper off antidepressants. They do not need to remain on these medications indefinitely in order to avoid a withdrawal reaction. Nor do they need to suffer through debilitating withdrawal symptoms. There are widely accepted strategies to taper off antidepressants smoothly with minimal disruption to normal functioning.</p>
-
-<h2>What is antidepressant withdrawal syndrome?</h2>
-<p>Antidepressant withdrawal syndrome can occur after selective serotonin reuptake inhibitors (SSRIs) or serotonin-norepinephrine reuptake inhibitors (SNRIs) are stopped abruptly or tapered too quickly. It is more likely to occur after being on medication for at least several months. Physical symptoms may include dizziness, nausea, insomnia, headaches, muscle soreness or in extreme cases electric shock-like sensations (Davies et al, 2019). Cognitive symptoms may include feeling irritable, anxious, agitated, hopeless, and in despair (Davies et al, 2019). Often these symptoms are transient, lasting several days but occasionally linger for weeks. Some patients report severe symptoms lasting for months, causing significant impairment in normal functioning (Davies et al, 2019). </p>
-
-<p>Withdrawal reactions typically begin within hours to days of decreasing the medication and do not represent a recurrence of the underlying depression. A literature review of 24 studies, published in 2019, found that on average 56% of individuals who tried to discontinue antidepressants experienced withdrawal symptoms and 46% of them describe the withdrawal effects as severe. The authors noted that the withdrawal reactions often lasted for several weeks or months (Davies, et al, 2019).</p>
-
-<h2>Strategies to prevent antidepressant withdrawal </h2>
-<p>The antidepressant fluoxetine (Prozac) is less likely than others to cause a withdrawal reaction, largely due to the long elimination half-life of about 22 days of its active component (Shapiro et al, 2025). Medications with short elimination half-lives of about 0.4-1.1 days such as sertraline (Zoloft), duloxetine (Cymbalta), escitalopram (Lexapro), paroxetine (Paxil), and venlafaxine (Effexor) are associated with a higher likelihood of withdrawal reactions (Shapiro et al, 2025b). Here are guidelines that can mitigate withdrawal symptoms and enable the safe discontinuation of antidepressant medications.</p>
-
-<p><strong>Taper slowly</strong> </p>
-<p>A gradual decrease in dosage over the course of several months is usually well-tolerated without causing disruptions to individuals' routines and well-being. A slow taper also allows for the monitoring for any signs of a relapse; if this were to occur the dosage can be increased to prevent a full-blown episode. Patients often tolerate a faster taper at higher doses but need to adjust dosages more slowly as they approach complete discontinuation. At lower doses the same milligram decrease represents a greater percentage decrease in the total dosage. For example, lowering sertraline from 200 mg to 150 mg is a 25% decrease but lowering it from 100 mg to 50 mg is a 50% decrease and from 50 mg to 0 mg is a 100% decrease. Withdrawal reactions tend to be more likely at the end of the taper when patients are almost off the medication. </p>
-
-
-<p><strong>Liquid version or custom dose pills</strong> </p>
-<p>Sometimes patients do not tolerate a slow taper using the pill dosages that are available and need to taper even more gradually. In these situations it is reasonable to switch the medication to a liquid formulation. Another option is a custom-made dosage which is referred to as compounded and can be made at certain pharmacies.</p>
-
-<p><strong>Prozac substitution</strong> </p>
-<p>If an individual still experiences withdrawal symptoms, another strategy involving the transient addition of the long-acting antidepressant fluoxetine can be implemented. The patient would titrate to the therapeutic dose of fluoxetine while still taking the original antidepressant. After about two weeks, the original antidepressant can be tapered since the fluoxetine acts in a similar enough way as to block withdrawal effects. Afterwards, the fluoxetine can be tapered fairly easily. </p>
-
-
-
-  
-
-
-<p><strong>Patient education</strong> </p>
-<p>It is essential to educate patients about withdrawal reactions in advance of tapering off their antidepressants. If withdrawal symptoms are mild and manageable, they can continue the current dose and wait for symptoms to fully resolve. They should wait an additional week after complete resolution of withdrawal symptoms before decreasing the dose again. If the dose is decreased while withdrawal symptoms are still present, even mildly, there is a good chance the symptoms will worsen. This can necessitate having to increase the dose again to allow the symptoms to abate. It is better to be proactive than engage in a cycle of chasing the withdrawal and starting over again. </p>
-
-<p><strong>Guidelines are not set in stone</strong> </p>
-<p>This is a framework with estimates of timing and guidance. However individual responses vary and the taper process should be done in coordination with the patient’s prescribing doctor. There also may be other factors that influence the urgency of stopping the medications such as pregnancy or medication interactions. Patients should not have to remain on antidepressants when they are no longer needed. That can lead to unnecessary treatments and potential side effects. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-colors-of-contemporary-psychiatry/202608/antidepressant-withdrawal-can-i-ever-get-off-this" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-colors-of-contemporary-psychiatry/202608/antidepressant-withdrawal-can-i-ever-get-off-this</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-colors-of-contemporary-psychiatry/202608/antidepressant-withdrawal-can-i-ever-get-off-this</guid>
-            <dc:creator><![CDATA[Lori Plutchik M.D.]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-brenocardosofotografia-7719817.jpg?itok=mZYZuruI" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Should We Care Psychological Safety?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/dayna_lee-baggley-final_0.png.jpg?itok=eKLK3tGp" alt="Dayna Lee-Baggley Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Workplace Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Should We Care Psychological Safety?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Removing fear helps organizations balance high expectations with accountability.</h2><p style="font-size:0.9em;color:#666;">Posted August 2, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Psychological safety is not just about being nice.</li><li style="margin-bottom:6px;">Psychological safety does not mean lowering standards.</li><li style="margin-bottom:6px;">Psychological safety benefits both employers and employees.</li>
-            </ul>
-          </div>
-                    <p>Psychological safety has become a popular workplace term, but what does it actually mean? </p>
-<p>The official definition is the belief that you will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes. It means team members believe they can take interpersonal risks without being shamed by others.</p>
-
-<p>My favourite definition is simpler:</p>
-<blockquote><p>It’s okay to not be okay.<br>It’s okay to make mistakes.<br>And it’s okay to speak up and disagree. </p>
-</blockquote>
-<p>You can go through your workday without constantly worrying that you will be punished, embarrassed, or humiliated for saying the wrong thing. Most organizations now understand that they need to keep employees physically safe. The next step is to recognize that employees also need to be psychologically safe.</p>
-
-<p><strong>What Does a Psychologically Unsafe Workplace Feel Like?</strong></p>
-<p>Sometimes it is easier to understand psychological safety by looking at its opposite. A psychologically unsafe workplace is often characterized by blame, judgment, ridicule, silence, false agreement, gossip, and rumours. Mistakes are hidden. People cannot be themselves fully. Instead, they spend energy carefully managing how they appear to others.</p>
-
-<p><strong>Psychological Safety Does Not Mean Lowering Standards</strong></p>
-<p>There are also some common misunderstandings about psychological safety.</p>
-<p>Psychological safety is not just being nice to workers; employees don't get to do whatever they want. It does not mean having no expectations, avoiding difficult conversations, or allowing performance standards to slip. It is not about being soft, indulging every request, or absolving employees of responsibility.</p>
-
-<p>Psychological safety should do the opposite. When people feel safe, it becomes easier to talk honestly about performance. Leaders can provide feedback without humiliating people. Employees can acknowledge mistakes without hiding them. Teams can identify problems before those problems become much bigger. You can have high expectations and psychological safety at the same time. The goal is not to remove accountability. The goal is to remove unnecessary fear. That actually increases the ability to keep people accountable.</p>
+<h2>Nap Snacks</h2>
+<p>My buddies told me about a woman they had talked with at a writing retreat who is a “dedicated napper.” She takes 20-minute naps on a daily basis. My friends commented that they didn’t have the discipline to do that. The woman, knowing that these two women are dedicated athletes (one is a big mountain biker and the other runs races) said, “You’d never forego your exercise and athletic discipline, right? It’s the same thing with naps. I need them and so I build in a discipline to take them, every day.” </p>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/googlepsychsafety.png.jpg?itok=d5XP9HTg" width="320" height="344" data-insert-type="image" alt="Google's study on effective teams" title="RE: Work"></div>
-<div class="caption">Google's study on effective teams</div>
-<div class="insertArea--origin subtext">Source: RE: Work</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/nap_snack_0.jpeg.jpg?itok=YhcEueMe" width="320" height="427" data-insert-type="image" alt="Matisse, illustrating a nap snack" title="N.K.Napier "></div>
+<div class="caption">Matisse, illustrating a nap snack</div>
+<div class="insertArea--origin subtext">Source: N.K.Napier</div>
 </div>
 </div>
 </div>
-<p><strong>Why Should We Care About Psychological Safety?</strong></p>
-<p>Google’s well-known research into effective teams found that psychological safety was the most important factor in team effectiveness. They examined all kinds of different combinations of what makes effective teams. The results were that it didn’t really matter who made up the team. What really mattered: The team can create psychological safety. If they could, regardless of the team makeup, then they would be an effective team. </p>
+<p>As a napper-in-training, I love this idea. Another experiment for August: a nap snack to refresh mind and body, every day. My dog, Matisse, offers a good role model.</p>
+<h2>Inspiration Snacks</h2>
+<p>The two women join Zoom weekly and write together. They were kind enough to invite me to the chat as well. We are each writing books that are way outside of our normal nonfiction writing, so we are definitely new at this. We spent 15 minutes talking about (OK, I guess the right word would be “commiserating”) how we’re doing on our projects, what’s helping (books we’re reading, new resources, ideas), and how we’ll move forward. In that short chat, I came away with more energy than I’ve felt in a long time. I needed the inspiration that they offered and hope I did the same for them. Even though it was far too early in the morning for me, I jumped from my chair when we finished and raced to get more coffee so I could get to work. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>Once psychological safety was present, other factors became important, including dependability, structure and clarity, meaning, and impact. But without psychological safety, those other things did not seem to matter nearly as much.</p>
-<p>Research has associated psychological safety with many positive things for both employees and employers, including greater job satisfaction, stronger performance, proactive work behaviour, self-efficacy, and perceptions of leader effectiveness. It has also been associated with lower turnover and fewer negative perceptions about opportunities for career growth. This tells us that psychological safety is not something that benefits employees at the expense of the employer or vice versa. It benefits both.</p>
+  </div>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-weight-loss/202608/what-is-psychological-safety-and-why-should-we-care" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-psychology-of-weight-loss/202608/what-is-psychological-safety-and-why-should-we-care</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-psychology-of-weight-loss/202608/what-is-psychological-safety-and-why-should-we-care</guid>
-            <dc:creator><![CDATA[Dayna Lee-Baggley Ph.D.]]></dc:creator>
-            <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/brooke-cagle-g1kr4ozfoac-unsplash.jpg?itok=Pb-oV3Tq" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The End of Moral Philosophy]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-10/20220519_083824-removebg-preview.jpg?itok=wGcI7Sfp" alt="Walter Veit Ph.D. " style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Philosophy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The End of Moral Philosophy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Do we still need moral philosophers?</h2><p style="font-size:0.9em;color:#666;">Posted August 2, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <div class="insertArea ck-widget">
+<div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/chatgpt_image_jul_29__2026__10_43_55_pm.png.jpg?itok=EAeSwoYn" width="320" height="320" data-insert-type="image" alt="Is moral philosophy finished?" title="Image created with Chat-GPT"></div>
-<div class="caption">Is moral philosophy finished?</div>
-<div class="insertArea--origin subtext">Source: Image created with Chat-GPT</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/inspiration_snacks.jpeg.jpg?itok=S_jSHLBS" width="320" height="208" data-insert-type="image" alt="Inspiration snacks in book form " title="N.K.Napier "></div>
+<div class="caption">Inspiration snacks in book form</div>
+<div class="insertArea--origin subtext">Source: N.K.Napier</div>
 </div>
 </div>
 </div>
-<p>In this essay, I’ll try to briefly explain why I believe that the most despised theories in ethics and meta-ethics, respectively, can resolve all of ethics when combined.</p>
-<p>I have been a utilitarian since my undergraduate days, or at least since my twelfth year of school, when we had a philosophy elective for a year. What a wonderful opportunity that was, by the way, for I may never even have considered studying philosophy otherwise.</p>
-
-<p>But I’ve also been a moral nihilist. I see no reason to believe that there are moral facts. Indeed, I’ve also become a moral abolitionist—a nihilist twice over. I think that we should abandon much of moral language for it is deeply confused and would make most of us better off in the process. Yet I also think that we should organise society in broadly utilitarian ways.</p>
-
-<p>This may seem paradoxical. One cannot both defend a particular view of what is morally right and good while denying that there are moral facts. So how can we square this strange combination, which I believe even <a href="https://plato.stanford.edu/entries/bentham">Jeremy Bentham</a> himself endorsed?</p>
-<p>In ethics classes, I largely found utilitarian answers vastly more compelling than deontological ones—or whatever other alternatives were discussed. Whereas utilitarianism was naturalistic, grounded in the mental states of particular individuals and what makes their lives better from their own point of view, other ethical theories have always been awfully paternalistic, telling people what they should really value, and building metaphysical castles in the sky unconnected to reality to justify these intrusions into people’s own visions of the good life.</p>
-
-<p>And yet, when utilitarians made the move from the fact that positive mental states or the satisfaction of preferences, the subjective values of people, to what is <em>objectively valuable</em>, from the point of the universe, one might say, I always found myself puzzled—hesitating for the same reason that I’ve become a moral nihilist. There are no moral facts. There are no objective values.</p>
-
-<p>However, I didn’t really feel any internal tension. Of all the ethical theories one might endorse, utilitarianism still offered the metaphysically least objectionable move, simply identifying the subjective values of creatures with the objective values of the universe.</p>
-<p>Other moral theories cast their long and cumbersome ways of generating moral facts from those subjective values, or sometimes ignoring them altogether, trying instead to justify whatever their authors find valuable for what is valuable once and for all. But the result is the same: non-utilitarian ethics sacrifices people’s real subjective values on the altar of whatever values are declared to be ‘objective’ but are, in truth, merely fictional.</p>
-
-<p>From the nihilist’s point of view, these attempts can be seen as a dictatorship of allegedly objective values, not as the self-proclaimed liberation from evils and injustices that the moralist promises.</p>
-<p>Yet, I never saw a tension here because I didn’t endorse utilitarianism as a reflection of the one true morality, but rather as a pragmatically useful answer to the inevitable problem of how to organize social life. (See also my earlier essay <a href="https://walterveit.substack.com/p/why-effective-altruists-and-everyone">here</a>.)</p>
-
-<p>The moral error theory, the philosopher’s term for a set of meta-ethical theories according to which there are no moral facts (there are many reasons that would make their existence problematic rather than just one, just like arguments against God), has been steadily gaining more attention among philosophers. But the literature has, in recent years, shifted away from a defense of this kind of nihilism and towards the question of what we should do once we embrace a world without (objective) values.</p>
-
-<p>Philosophers call this the <em>Now What? Problem</em> of the moral error theory.</p>
-<p>Most philosophers, and the public itself, hesitate to even consider moral nihilism due to the fear of a world in which everyone just does as they please without regard for each other, entirely unrestricted by the moral law. Much like atheism was long not considered because of the fear that people would rob and kill indiscriminately once they lost their fear of God. And, of course, because atheists would be killed. Moral nihilists are also unlikely to reveal themselves, because of the negative social consequences this may have.</p>
-
-<p>“You don’t believe murder is wrong?!” shouts the indignant neighbor. Americans won’t vote an atheist into office. What hope does a self-avowed nihilist have?</p>
-<p>Alas, despite the high proportion of people who do not believe in moral facts, we are all locked into a ludicrous and unhelpful game, throwing around moralized language, all in the vain hope that we may arrive at a society we find more desirable. Often, of course, this game has the opposite result. Raging culture wars have probably not made the vast majority of lives better off in the long run. But if you were to stop coating your arguments in the magical gloss of alleged moral objectivity, what hope could you have in a debate with those who do? It’s a bit of a prisoner’s dilemma really, where it might benefit one in the moment to use that language, or so most think, but makes everyone worse off.</p>
-
-
-
-  
-
-
-<p>But the amoral society does not need moral language. It only needs the pragmatic tools of conflict resolution, social coordination, and cost-benefit analysis.</p>
-<p>I saw utilitarianism not as a theory of what is the one true theory of morality, but simply as the pragmatically best framework for a functioning society. I never ended up writing these ideas down, and later found to both my dismay and delight that someone else had done so first—the Harvard psychologist and philosopher <a href="https://www.joshua-greene.net/moral-tribes">Joshua Greene</a>.</p>
-
-<p>In his book <em>Moral Tribes</em>, he came incredibly close to the views I tried to develop in the back of my mind:</p>
-<blockquote><p>A more apt name for utilitarianism is <em>deep pragmatism.</em> Utilitarianism is pragmatic in the good and familiar sense: flexible, realistic, and open to compromise. But it’s also a <em>deep</em> philosophy, not just about expediency. Deep pragmatism is about making <em>principled</em> compromises. It’s about resolving our differences by appeal to shared values-common currency.</p>
-</blockquote>
-
-<p>That currency is the subjective values we all have and can recognize in each other.</p>
+<p>My friend just posted her weekly essay on Substack (<a href="https://kristispence.substack.com/">Noticing | Kristi Spence | Substack</a>). Her writing snack has given me an inspiration snack for the day. </p>
+<p>Now I need to take a nap snack. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/science-and-philosophy/202608/the-end-of-moral-philosophy" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/creativity-without-borders/202608/snacks-that-go-way-beyond-food" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/science-and-philosophy/202608/the-end-of-moral-philosophy</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-and-philosophy/202608/the-end-of-moral-philosophy</guid>
-            <dc:creator><![CDATA[Walter Veit Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/creativity-without-borders/202608/snacks-that-go-way-beyond-food</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creativity-without-borders/202608/snacks-that-go-way-beyond-food</guid>
+            <dc:creator><![CDATA[Nancy K. Napier Ph.D.]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/chatgpt_image_jul_29__2026__10_43_55_pm.png.jpg?itok=LIqKIlsA" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/snacks.jpg?itok=ZFLrkIT0" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Hollywood's Teen Movies Get Adolescence Wrong]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/kendall_morgan__1_-removebg-preview_1_.png.jpg?itok=cspgSzlU" alt="Kendall  Morgan M.F.A., M.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adolescence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Hollywood's Teen Movies Get Adolescence Wrong</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why teen films often distort love—plus five that get it right.</h2><p style="font-size:0.9em;color:#666;">Posted August 2, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Per Bandura's social cognitive theory, teens adopt beliefs and behaviors from characters they admire.</li><li style="margin-bottom:6px;">A study in the Journal of Children and Media found films often cast actors in their 20s as teens.</li><li style="margin-bottom:6px;">Research shows 81% of teen movies portray love at first sight and soulmates as literal fact.</li>
+            </ul>
+          </div>
+                    <p>Movies and TV that show teen characters who are socially or physically appealing can be very influential on teen audiences, especially if they identify with them. According to Albert Bandura’s social cognitive theory, teens adopt behaviors, beliefs, and self-efficacy through observing others. Unfortunately, many Hollywood films and television have not always done a great job of reflecting teen reality. Many times, they just perpetuate more stereotypes and unrealistic, overly idealized narratives about life and love.</p>
+
+<p>According to a <a href="https://www.researchgate.net/publication/392007808_Brief_report_A_quantitative_content_analysis_of_adolescence_depictions_in_popular_coming-of-age_movies">recent study</a> in the <em>Journal of Children and Media</em>, most coming-of-age movies are out of touch with teen reality. Hollywood prefers teen films to be idealized, unrealistic portrayals that overlook their actual identity development. For instance, many films cast actors over 22 years old to play high school students. I have been guilty of doing this myself in the movie <a href="https://www.imdb.com/title/tt7237666/"><em>The Honor List</em></a><em>,</em> where we cast Arden Cho to play a 17-year-old when she was 32 years old. It really does adolescents a disservice to portray them as if all physical signs of puberty are pretty much gone, and they are fully mature adults. </p>
+
+<p>Teen romances are also guilty of unrealistic portrayals of teens’ experience at navigating relationships. Teen romances show idealized love and intimacy without the complexity of how love really is. <a href="https://doi.org/10.1037/ppm0000530">Some studies have found teens learn romantic beliefs</a> and behaviors from watching romantic movies, which endorse overly romantic ideals. One example is the movie<a href="https://www.imdb.com/title/tt33088452/reference/"><em> Regretting You</em></a> (2025)<em>,</em> which has two 16-to 17-year-olds managing their feelings of love with ease—as if they were 45 years old. About <a href="https://www-tandfonline-com.lib.pepperdine.edu/doi/pdf/10.1080/17482798.2025.2507189?needAccess=true">81% of teen movies </a>portray “love at first sight” and “soulmates” as fact rather than fiction. If teens assume love is either meant to be or not (or destiny), this can add to the belief that the second conflict arises, it must be time to abandon ship. </p>
+
+<h2>5 Films That Get It Right</h2>
+<p><strong>Here are five movies that have some real teen developmental arcs, issues, and authentic storylines and characters.</strong></p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/lady-bird-v1-0010_lb_00000-1-_preview_wide-fd0c9e9890abf9ad9d9452e703a67bd80b60f2e7.jpg?itok=wg25ZSZ4" width="320" height="180" data-insert-type="image" alt="Lady Birdy" title="A24"></div>
+<div class="caption">Lady Birdy</div>
+<div class="insertArea--origin subtext">Source: A24</div>
+</div>
+</div>
+</div>
+<p><em><strong>Lady Bird</strong></em> (2017): This movie entertains and captures real teen issues of social class, anxiety, family troubles, and leaving home with ease. Lady Bird's struggles do not come across as forced but as serious, grounded in her growth into adulthood.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/call_me_by_your_name.png.jpg?itok=Vf7GLC15" width="320" height="173" data-insert-type="image" alt="Call Me By Your Name" title="Sony Pictures Classic"></div>
+<div class="caption">Call Me By Your Name</div>
+<div class="insertArea--origin subtext">Source: Sony Pictures Classic</div>
+</div>
+</div>
+</div>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/superbad.png.jpg?itok=FKeX4yOm" width="320" height="180" data-insert-type="image" alt="Superbad" title="Columbia Pictures"></div>
+<div class="caption">Superbad</div>
+<div class="insertArea--origin subtext">Source: Columbia Pictures</div>
+</div>
+</div>
+</div>
+<p><em><strong>Call Me By Your Name</strong> </em>(2017): This coming-of-age movie shows first heartbreak in a down-to-earth, realistic way. The message that it is OK to sit with grief is evolved and rare for a coming-of-age movie. </p>
+<p><em><strong>Superbad</strong></em> (2007): This comedy nails the anxiety that underlies much of teen life. The characters are awkward and insecure, as many teens are in real life, as they navigate friendship and rejection in a hilarious way. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/boyhood-gallery-2.jpg?itok=EuFaTuxB" width="320" height="160" data-insert-type="image" alt="Boyhood" title="Universal Pictures"></div>
+<div class="caption">Boyhood</div>
+<div class="insertArea--origin subtext">Source: Universal Pictures</div>
+</div>
+</div>
+</div>
+<p><em><strong>Boyhood</strong></em> (2014): This epic coming-of-age drama defies most Hollywood films by shooting over 12 years with the same actors aging in real time. Richard Linklater, the director, captures identity development in a true-to-life portrayal of the physical and emotional changes experienced by a child named Mason.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/juno.png.jpg?itok=LSLDzMJX" width="320" height="180" data-insert-type="image" alt="Juno" title="Fox Searchlight Pictures"></div>
+<div class="caption">Juno</div>
+<div class="insertArea--origin subtext">Source: Fox Searchlight Pictures</div>
+</div>
+</div>
+</div>
+<p><em><strong>Juno</strong></em> (2007): This portrayal of teen pregnancy is not romanticized, but instead awkward and ambivalent. This coming-of-age comedy uses humor to help Juno come to terms with the serious teen issue of pregnancy, which never comes across as moralistic. Juno is just navigating growing up along with all the real mistakes we make along the way. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/reel-therapy/202608/how-hollywoods-teen-movies-get-adolescence-wrong" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/reel-therapy/202608/how-hollywoods-teen-movies-get-adolescence-wrong</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/reel-therapy/202608/how-hollywoods-teen-movies-get-adolescence-wrong</guid>
+            <dc:creator><![CDATA[Kendall  Morgan M.F.A., M.A.]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/superbad.png.jpg?itok=eRtcymxc" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
