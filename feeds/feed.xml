@@ -4,65 +4,377 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 12:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 15:14:28 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 12:52:36 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 15:14:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Odyssey and the Monster of Trauma]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/trondinone_0.png.jpg?itok=c8NO7egT" alt="Troy Rondinone Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Odyssey and the Monster of Trauma</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Christopher Nolan's hit film is about enduring trauma, and how to heal from it.</h2><p style="font-size:0.9em;color:#666;">Posted August 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p>Christopher Nolan's new film, Odyssey, is a tale of trauma. There’s a lot a filmmaker can do with Homer’s classic story, and the director has chosen to highlight the costs and consequences of trauma.</p>
-<p>In brief, the movie focuses on the hero Odysseus, who is trying to return home from his fateful conquest of Troy. In Homer’s epic, the hero has been spurned by the God Poseidon for blinding his son, the cyclops named Polyphemus. In the film, this does happen, though as Nolan tells it, Poseidon’s curse pales before the curse Odysseus sets upon himself. In creating the famous wooden horse that allows his Greek cohorts to sneak into the city of Troy, he has violated “Zeus’s law.” This is the law of treating others as you would be treated, of applying civility and hospitality to strangers. </p>
+            <title><![CDATA[Can Hybrid Intelligence Close the Learning Gap?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Michael-Hogan.jpg?itok=u8MWIk_g" alt="Michael Hogan Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can Hybrid Intelligence Close the Learning Gap?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The promise and the unexpected cost of AI in an underserved classroom.</h2><p style="font-size:0.9em;color:#666;">Posted August 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Rural and underserved schools face persistent learning gaps that AI-powered tools promise to close.</li><li style="margin-bottom:6px;">AI-guided feedback boosted science inquiry outcomes more than any other condition tested.</li><li style="margin-bottom:6px;">A dashboard showing peer comparisons without support to act on it increased stress, not performance.</li><li style="margin-bottom:6px;">Students with full AI support leaned on it instead of peers, reducing cross-group collaboration.</li>
+            </ul>
+          </div>
+                    <p><em>Co-authored by Jessica Murphy, Kodie Curran, Hannah Feeney, and Michael Hogan. </em></p>
+<p>Educational inequity is one of the most persistent problems in modern schooling, and rural schools tend to feel it most. Rural students consistently fall behind in science achievement and have fewer chances to pursue science careers later in life (<a href="https://journals.sagepub.com/doi/10.3102/0013189X211027528">Saw &amp; Agger, 2021</a>). Worse, the digital tools meant to narrow these gaps are often least accessible where they’re needed most (<a href="https://www.shs-conferences.org/articles/shsconf/abs/2025/13/shsconf_icepcc2025_04004/shsconf_icepcc2025_04004.html">Wang, 2025</a>). Large classes, overstretched teachers, and limited support leave these students without the individualized, timely guidance that shapes long-term success.</p>
 
-<p>In Odysseus’s case, giving the “gift” of the horse was an act that took unfair advantage of the law of Zeus. The Trojans had assumed the Greeks were following the rules of civility. But the opposite was true. And this assumption cost them everything. </p>
-<p><strong>A Metaphor for Trauma</strong></p>
-<p>In the film, we witness the Greeks climb out of the horse and open up the gates of Troy. The ghastly sacking and destruction of the famed city follows. As Nolan sees it, this act caused Odysseus to curse himself, and perhaps all of Mediterranean civilization.</p>
+<h2>Could AI help close this gap?</h2>
+<p>As AI reaches more corners of our lives, a natural question arises: Could wider access to these tools help to close this gap? With its capacity for personalized support, real-time feedback, and learning analytics delivered at scale, AI looks like a genuine opportunity for change. But is it feasible in the settings that need it most? Does it hold up over time? And if it works, what does it mean for the social fabric of the classroom—for collective intelligence, peer collaboration, and the traditional pedagogical structures schools have relied on for generations?</p>
 
-<p>Nolan’s interpretation is striking: The destruction of Troy demolishes the psyche of Odysseus. He winds up spending years trying to forget, self-medicating on lotus flowers in the company of the beautiful Calypso. He looks lost and haggard. </p>
-<p>Psychological studies of trauma show that victims often experience horrible nightmares resulting from their experiences, and that “monster” visions can be common. Summarizes one study, “Monster imagery psychologically represents the collapsing border between our ideas about self and world, and the destabilizing experience of the shattering of pre-trauma assumptions.”</p>
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131525002611">Chen and colleagues (2026)</a> put these questions to the test. Over a full semester, the researchers ran a quasi-experiment with 150 eighth-grade students in a rural Chinese school, comparing a hybrid intelligence model against other technological interventions during a science inquiry module. Unlike most existing research, this study offers a unique three-month window into a real underserved classroom, capturing what happens when AI support is present, and what happens when only some students have access to it. </p>
 
-<p>In this film, the monstrous cyclops Polyphemus plays a key role in highlighting Odysseus’s trauma. The men enter his cave-home and decide to wait for the owner. Odysseus assumes that Zeus’s law will hold, that the cyclops will offer his men hospitality and food. Instead, the cyclops starts eating his men. In desperation, they blind the giant and escape. As in Homer’s original work, they soon learn that the monster was the son of Poseidon. Thus, they are now cursed. </p>
+<p>Students worked in small groups and were assigned to one of four conditions, with each one given one more layer of support than the last. Group one used traditional pen and paper—they came up with their own hypothesis, ran their experiments, and wrote up their findings entirely by hand with no software. Group two had a structured digital platform called WeInquiry. Instead of a blank page, students had access to an online platform that walked them through the scientific process, giving them hypothesis templates, shared digital notebooks, and data interpretation templates based on the claim-evidence-reasoning framework. The platform also allowed students to see what other groups in the class were working on. This condition did not use AI, but it provided an organized way of working.</p>
 
-<p>But the film spins this event in a new way. They have cursed themselves not simply because they had blinded Poseidon’s son, but also because they, like the Cyclops, have violated Zeus’s law. The Cyclops did to them as they did to the Trojans. Odysseus himself has been “blinded” by his own deceptive wooden horse plot. The cave monster highlights Odysseus’s crime. </p>
+<p>Next, AI was introduced. Group three used the WeInquiry platform coupled with an AI learning analytics dashboard called InquiryNavigator. This added dashboard tracked what they had submitted, how long they were spending on each task, and their peer interactions, and it provided each group with a visible comparison against the class average. </p>
 
-<p><strong>From Hero to Monster</strong></p>
-<p>Nolan has, in a sense, flipped the script. In Homer’s book, Odysseus is proud of his horse. Here, he is mortified by it. Odysseus’s self-inflicted trauma may be the engine for the film’s inner plot. He doesn’t “see” it, though, until he finally comes to terms with the Trojan horror many years later. Only then can Odysseus return home to Ithaca. But by this point he is an old man, and much damage has been done to his home and his family in the meantime.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+<p>Group four had all of the above, plus an AI assistant called InquiryGuide, an AI tool powered by a Chinese LLM, that actively stepped in when it spotted a problem. For example, if the student’s hypothesis wasn’t testable, InquiryGuide would flag it, explain why, and explain how to fix it. If a conclusion wasn’t properly supported by evidence, InquiryGuide would prompt students to go back and rethink it. The AI tool could also monitor the learning analytics of each group and intervene when necessary. This was the hybrid intelligence condition. </p>
+
+<h2>What worked, what backfired, and what it cost</h2>
+<p>The study used these four conditions to address one overarching question: Does more support allow for better outcomes? The results of the study are complex and fascinating. Chen and colleagues found that the fully integrated “hybrid intelligence” group performed best across every assessment in the study, including three theme-specific assessments alongside pre- and post-comprehensive tests to assess overall knowledge acquisition.</p>
+
+<p>However, group three, who had the structured platform and learning analytics dashboard, but no AI, performed no better than group two, who had no learning analytics dashboard. These findings suggest that simply telling students how they were doing relative to their peers produced no measurable improvement in their performance. In fact, this group’s performance dropped significantly by the third inquiry task.</p>
+
+<p>Qualitative reports from some students suggested that the stress of watching themselves fall behind without knowing how to fix it was disruptive. The researchers called this phenomenon “helpless awareness” and indicated that the dashboard was a source of pressure rather than a resource to improve. </p>
+<p>Access to the AI assistant in group four meant that, instead of feeling stuck, students were empowered with customized, just-in-time support. Students in this group described feeling confident, knowing that the feedback they were receiving allowed them to correct problems before they derailed progress. This confidence, however, seemingly came with a cost. When problems arose, students in group four turned to the AI assistant rather than their peers in other groups, thus opting to avoid the kind of cross-group deliberation and troubleshooting that is often a feature of traditional classroom groupwork and foundational to the social construction of scientific knowledge more generally. </p>
+
+
+
   
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>While the film spins a somewhat happy ending for Odysseus and his long-suffering wife, the effects of trauma remain. The Mediterranean is about to descend into darkness, and Odysseus’s actions in Troy have led to it. Like the monster he faces—the Cyclops—Odysseus has become a monster himself. Realizing this has traumatized him. </p>
 
 
-<p>One final note. Nolan tells us that repressed trauma has kept Odysseus away from home. His return to Ithaca occurs only when he chooses to remember his experience. Again, psychology can teach us about this. One way of successfully dealing with trauma is to use the technique of “imaginal exposure.” This means the patient, guided by the therapist, recounts their traumatic experience in detail. Over time, they can find ways to come to terms with it. </p>
+<p>A few limitations are worth keeping in mind. Firstly, the four classrooms were taught by three teachers, which, despite reflecting real school dynamics, makes it harder to separate the effect of the technology from the effect of the teacher delivering it. Secondly, the study took place in just one rural school in China, which raises the question of how generalizable these findings are, especially in contexts with different infrastructure or curricula.</p>
 
-<p>Once Odysseus sees the root of his trauma, he expunges it and, quite literally, sails off into the sunset. </p>
+<p>So, can hybrid intelligence close the educational equity gap? The answer this study provides is cautiously optimistic. The study shows that the fully integrated hybrid intelligence system improved students’ scientific inquiry. However, it also highlights that simply showing students where they are struggling is not enough; they need adequate support to act on problems. Future systems should be designed to work alongside teachers, providing timely and appropriate support and encouraging collaboration within the wider classroom dynamic. If hybrid intelligence is employed to address the educational equity gap, it must be integrated, responsive, and socially aware.</p>
+
+<p>Of course, a tool that works well in one underserved classroom does not mean much if it cannot reach the next one. Genuine equity does not exist until every school has the same access to the resources that it needs. So perhaps two questions remain: How do we continue to optimize hybrid intelligence to make it more responsive to the learning and instruction needs of students and teachers? And how do we ensure systems like this are accessible to every classroom that needs them? Until both questions are addressed, closing the gap for some will always mean widening it for others.</p>
+
+<p><em>Jessica Murphy, Kodie Curran, and Hannah Feeney are researchers working at the University of Galway.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-asylum/202608/the-odyssey-and-the-monster-of-trauma" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/in-one-lifespan/202608/can-hybrid-intelligence-close-the-learning-gap" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-asylum/202608/the-odyssey-and-the-monster-of-trauma</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-asylum/202608/the-odyssey-and-the-monster-of-trauma</guid>
-            <dc:creator><![CDATA[Troy Rondinone Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/in-one-lifespan/202608/can-hybrid-intelligence-close-the-learning-gap</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-one-lifespan/202608/can-hybrid-intelligence-close-the-learning-gap</guid>
+            <dc:creator><![CDATA[Michael Hogan Ph.D.]]></dc:creator>
             <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/fromsalih-trojan-horse-6665057_1920.jpg?itok=K18ZI9cw" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/startupstockphotos__pixabay.jpg?h=008945d0&amp;itok=lsfBMB_8" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Humans Need a Creator]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/john_tsilimparis.png.jpg?itok=9_afPPDi" alt="John Tsilimparis MFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Spirituality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Humans Need a Creator</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The existential imperative of belief</h2><p style="font-size:0.9em;color:#666;">Posted August 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Belief operates as a cognitive shield, protecting the mind from the unpredictability of our universe.</li><li style="margin-bottom:6px;">The need for spirtual meaning tethers us to existence itself, preventing us from surrendering to despair.</li><li style="margin-bottom:6px;">We are meaning-making organisms, emotionally wired to construct order out of cosmic disorder.</li>
+            </ul>
+          </div>
+                    <h2>The Biological Parallel</h2>
+<p>Just as the human body is physiologically incapable of enduring in a physical vacuum deprived of oxygen and basic biological nourishment, it appears that the human psyche is equally incapable of functioning within an existential vacuum stripped of purpose and meaning. Physical life depends on a continuous intake of nutrients to stave off systemic organic failure; in precisely the same manner, our cognitive and emotional faculties require an overarching narrative framework to sustain internal equilibrium.</p>
+
+<p>When this essential psychological scaffolding is absent, unformed, or abruptly shattered by traumatic life events, the mind suffers a devastating collapse. This internal destabilization manifests not merely as casual doubt, but as profound psychological fragmentation—a state marked by acute cognitive disorientation, debilitating existential anxiety, and a pervasive, paralyzing emptiness.</p>
+
+<p>Consequently, the pursuit of a foundational purpose or divine creator is far more than an intellectual luxury or a passing preference; it is a vital mechanism of psychological self-preservation. Human beings rely on an organizing principle to make sense of suffering, morality, and consciousness, prioritizing this need to such a degree that they will cling to an explanatory framework even when it directly contradicts objective, empirical logic.</p>
+
+<p>At our core, we are inherently meaning-making organisms, biologically and emotionally wired to construct order out of cosmic disorder. To strip the human mind of this unifying structure is to expose it to an unendurable state of internal chaos, demonstrating that the demand for a higher power or cosmic purpose is an inescapable existential imperative.</p>
+
+<h2>Cognitive Defense: How the Mind Protects Divine Order</h2>
+<p>What makes this psychological drive so extraordinary is its remarkable immunity to the cold, unyielding realities of the material world. Human beings routinely construct, preserve, and fiercely defend complex theological and ideological systems in the total absence of verifiable, empirical evidence. We cling stubbornly to scriptural promises, divine interventions, and supernatural claims even when the tangible realities around us offer no proof. On a daily basis, the human experience is bombarded with horrific tragedies, pediatric illness, catastrophic natural disasters, and widespread human cruelty—events that logically, directly, and glaringly challenge the presence of an omnipotent, loving deity.</p>
+
+<p>Yet, the human mind demonstrates a fierce, protective resistance against the commonsense conclusion that a creator might be indifferent or structurally impotent. To confront and accept a universe governed by total randomness—or worse, absolute divine powerlessness—is to surrender the primary cognitive shield that keeps existential terror at bay. Rather than abandon the comforting construct of a benevolent architect, the mind goes to extraordinary lengths, relying on intricate rationalizations, compartmentalization, and cognitive reframing to insulate its belief in divine order from the grim facts of human suffering.</p>
+
+<p>For example, we see this exact pattern of selective rationalization play out routinely in popular culture, such as among professional athletes. When certain figures achieve a high-stakes victory, they are quick to point upward, publicly thanking the Almighty for bestowing upon them such favor. In doing so, they casually overlook the obvious implication: that the same deity chose to bestow defeat and heartbreak on the opposing team. The glaring flaw in this logic is completely obscured by a single moment of self-serving gratitude, illustrating how easily egocentric narrative overrides basic critical reasoning.</p>
+
+<p>This impulse toward skepticism often begins early in life. As a child, I vividly recall watching the 1948 film <em>Joan of Arc</em>, starring Ingrid Bergman. The narrative centered on Joan’s divine mission to lead the French army into violent battle against the English during the Hundred Years’ War. Even at a young age, the concept of a divine mandate directing human beings to slaughter fellow human beings—all of whom were ostensibly created by that same God—felt deeply incorrect. Why would an all-loving, universal creator take localized sides in human conflict? The mathematical and moral logic simply failed to add up.</p>
+
+<p>When I raised these doubts to my father, he attempted to explain the story as a religious allegory. Yet, I remained profoundly unconvinced that a supreme power would actively favor one nation over another, leaving me unable to rationalize the premise. In retrospect, I have always possessed a relentlessly analytical mindset, perhaps sometimes to my own detriment. In my father’s eyes, by dissecting the mechanics of the tale rather than absorbing its spiritual passion, I had completely missed the point. Maybe I did.</p>
+
+
+
+  
+
+
+<h2>Psychological Utility Over Empirical Truth</h2>
+<p>Evaluating faith solely through a lens of factual verification or scientific skepticism fundamentally fails to grasp the critical psychological dynamic at work. From a clinical and existential perspective, whether a deity actually exists in objective reality is far less meaningful than the vital, irreplaceable function the concept fulfills within the human psyche. Belief operates as an essential cognitive and emotional shield, protecting the mind from the stark, terrifying unpredictability of our universe.</p>
+
+<p>When individuals are confronted with devastating loss, personal trauma, or widespread suffering, pure reason and objective analysis reveal their inherent limits. Facts can easily explain the physical mechanics behind a tragedy, yet they are completely incapable of resolving the soul’s agonizing urge to understand its deeper meaning. Coherence provides only an objective diagnosis, offering no genuine purpose to persevere.</p>
+
+<p>Faith steps into this vacuum, providing a transcendent narrative paradigm that transforms raw, senseless pain into something meaningful, instructive, or ultimately redeemed within a greater grand design. For obvious reasons, this double-edged cognitive tendency can produce either constructive or destructive outcomes depending on how it is applied. Unflinching denial, however, rarely serves a beneficial purpose.</p>
+
+<h2>The Adaptive Mechanism of Endurance</h2>
+<p>In the final analysis, the human need for divine order regularly and decisively triumphs over pure rationality. The imperative to feel that our individual lives and collective struggles are woven into a larger design represents one of the most powerful evolutionary and psychological adaptations ever formed within our species. It is an internal drive so potent that it is perhaps even more powerful than love—for while love tethers us to specific individuals, the need for cosmic meaning tethers us to existence itself, preventing the self from surrendering to despair.</p>
+
+<p>Belief is far more than a passive sentiment, a cultural artifact, or a comforting illusion; it functions as an active, indispensable mechanism of human endurance. It generates the internal resilience necessary to remain standing amidst life’s fiercest, most devastating storms, granting human beings the psychological strength to pick up the shattered pieces of their lives, reconstruct purpose out of tragedy, and continue moving onward into an uncertain world.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-magic-in-the-tragic/202608/why-humans-need-a-creator" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-magic-in-the-tragic/202608/why-humans-need-a-creator</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-magic-in-the-tragic/202608/why-humans-need-a-creator</guid>
+            <dc:creator><![CDATA[John Tsilimparis MFT]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/israwmx_pexels.com_.jpg?h=9e55ff7a&amp;itok=zzUDj9w3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A New Way to Think About Crime]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/LawrenceTWhite.jpg?itok=vRkPu7gh" alt="Lawrence T. White Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Law and Crime</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A New Way to Think About Crime</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">All criminals are lawbreakers, but only some lawbreakers become criminals.</h2><p style="font-size:0.9em;color:#666;">Posted August 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Many people break laws, but only some become "criminals."</li><li style="margin-bottom:6px;">Police and court resources may be unevenly applied across neighborhoods and social groups.</li><li style="margin-bottom:6px;">Campus misconduct, for example, is prosecuted less often due to university handling.</li>
+            </ul>
+          </div>
+                    <p>For 35 years, I taught a course called "Psychology and Law" in a small college town in Wisconsin. Every year I asked my students the same question: Where are the high crime areas in town? Every year the students identified two neighborhoods whose residents are mostly low-income persons of color.</p>
+<p>I told my students, "You're not wrong. The people living in those neighborhoods do, in fact, have higher rates of arrests and convictions. But what if I changed the question and asked you to identify the parts of town where there's a lot of illegal behavior?" Invariably, a few students would look at each other and say, sheepishly, "Honestly, there's a lot of illegal behavior right here on campus, in the dorms and Greek houses."</p>
+
+<p>The students were right, of course. Lots of illegal stuff happens every day on almost every college campus in the United States. Everything from underage drinking, petty theft, and fraud to disorderly conduct, battery, selling drugs, and sexual assault.</p>
+<h2>The Applied Resources Model</h2>
+<p>Making a distinction between crime and lawbreaking leads to several valuable insights. Studies have found that large numbers of people engage in illegal activity, but only some people become criminals (e.g., Wallerstein &amp; Wyle, 1947; Elliot et al., 1989). To become a criminal, a person must not only break the law but also be caught, arrested, and convicted.</p>
+
+<p>What determines which lawbreakers will become criminals and which will not? According to an approach sometimes called the applied resources model, the determination is made largely by government agents—lawmakers, law enforcement officials, prosecutors, and judges. According to this view, crime is a product of the resources—criminal statutes, money, time, and effort—that are devoted (applied) to catching lawbreakers.</p>
+
+<p>A provocative corollary of the applied resources model says that, when it comes to catching, prosecuting, and convicting lawbreakers, the government’s resources are not applied equally to all segments of society. There simply aren't enough resources available. Consequently, of all the people who engage in illegal activity, only some are likely to end up in prison. </p>
+
+<p>College campuses have many lawbreakers, but very few students have criminal records. Why is that? It's because the police rarely “apply their resources” on college campuses. Universities have their own police departments or security officers. University staff handle most instances of misconduct without involving the local police, prosecutors, and courts. Students are disciplined by the university and sometimes expelled. But rarely are they arrested and convicted.</p>
+
+<p>Here's another illustration of the applied resources model. In 1894, the French poet and novelist Anatole France wrote, “The law, in its majestic equality, forbids the rich and the poor alike to sleep under bridges, to beg in the streets, and to steal bread.” Laws that are applied universally on paper can be experienced very differently, depending on one's social status.</p>
+
+<p>Legislators make laws, including criminal statutes, and legislators come from particular segments of society. As a group, they tend to be older, wealthier, and more conservative than most of the people they represent. Not surprisingly, the laws they make often reflect their own life experiences and moral judgments about what is permissible and what is not. No panhandling, no smoking marijuana, no gambling in a back alley, no drinking in a park, and no sleeping under a bridge.</p>
+
+<h2>A Famous Field Experiment</h2>
+<p>In 1971, a sociology professor at Cal State Los Angeles convinced the students in her class to participate in a now classic experiment (Heussenstamm, 1971). She selected 15 students who had flawless driving records and gave them Black Panther Party bumper stickers for their cars. At that time, the Black Panther Party was a revolutionary political organization that advocated for Black Power and monitored the actions of police officers.</p>
+
+<p>Despite their perfect driving histories, the students were pulled over by the police dozens of times in just 17 days, resulting in 33 traffic citations. The professor ended the study when she ran out of money to pay the fines.</p>
+<p>Were the police officers angry bigots who wanted to punish drivers for their political views? Maybe, but I don’t think so. I think the bumper stickers acted like red flags that led police officers to (1) watch the cars closely and (2) interpret what they saw within a different frame. In a very real sense, the bumper stickers showed police officers where to "apply their resources."</p>
+
+
+
+  
+
+
+<h2>Finding Crime</h2>
+<p>When FBI agents, local police, and journalists look diligently for crime, they often find it. <a href="https://www.fbi.gov/history/cases-and-criminals/operation-greylord">Corruption in Cook County</a> courthouses. Pedophile priests and abusive nuns in the Catholic Church. <a href="https://stephsbooks.com/blog/biggest-accounting-fraud-cases">Massive fraud</a> in the accounting practices of large companies like Enron, Worldcom, and Tyco.</p>
+<p>Arrests in most cities are concentrated in particular neighborhoods and districts. Maybe that’s because more crime happens in those areas. Or maybe it’s because the police and courts apply more resources to those areas and fewer resources to other areas. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/culture-conscious/202608/a-new-way-to-think-about-crime" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/culture-conscious/202608/a-new-way-to-think-about-crime</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/culture-conscious/202608/a-new-way-to-think-about-crime</guid>
+            <dc:creator><![CDATA[Lawrence T. White Ph.D.]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/college_cartoon.png.jpg?itok=eXeVEFcV" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Someone Else's Tragedy Becomes Your Fear]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/bonnie-zucker-new.png.jpg?itok=S7Bu2Kse" alt="Bonnie Zucker Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Someone Else's Tragedy Becomes Your Fear</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why anxious minds mistake other people's experiences for personal risk.</h2><p style="font-size:0.9em;color:#666;">Posted August 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">We now have access to more information than at any other time in history.</li><li style="margin-bottom:6px;">Many people with anxiety personalize events in the news or on social media of something bad happening.</li><li style="margin-bottom:6px;">People with anxiety have an increased threat bias, so that makes them more vulnerable to this.</li><li style="margin-bottom:6px;">You can learn to give yourself a reality check when you engage in this behavior.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/anxious_woman_on_phone_pexels-alex-green-5699851-2.jpg?itok=P0XQQtx2" width="320" height="213" data-insert-type="image" title="Alex Green/Pexels" alt="Alex Green/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Alex Green/Pexels</div>
+</div>
+</div>
+</div>
+<p>We now have unprecedented access to so much information. Thanks to social media, digital news platforms, and various safety phone apps, we find out that a high school classmate lost his battle with cancer, but that Princess Catherine won hers. We learn that there was a car break-in five miles away, and that a prisoner in another state on death row was found innocent after 20 years and was set free. We can learn this information all within a matter of minutes.</p>
+
+<p>Aside from the burden of information overload that so many of us feel, there’s another problem, especially for those who are prone to anxiety. That is, when we hear about events in the news or events that happen to people we know, there is a tendency to overestimate the prevalence of bad things. In fact, <a href="https://ourworldindata.org/us-crime-rates">violent crime</a> in the US has decreased significantly since 1990, although it might not feel that way because we have access to so much more information. </p>
+
+<p>For an anxious person hearing about something bad, there is also a tendency to overestimate the possibility of something bad happening to themselves. Their thought process goes something like this: </p>
+<p><em>"Because this horrible thing happened to </em>[insert name of friend, celebrity, acquaintance, or acquaintance of acquaintance], <em>then I am at high risk of this thing happening to me."</em></p>
+
+<p>For example, there has been a lot in the news recently about the Lindsay Clancy trial. It’s a devastating story of a woman with postpartum psychosis who killed her three young children. I’m in an online Facebook consultation group with many therapists who treat obsessive-compulsive disorder and other anxiety issues. Many have reported an increased concern among postpartum women with obsessions or intrusive thoughts about harming their babies after hearing about this trial. This trial is serving to amplify pre-existing obsessions and intrusive thoughts.</p>
+
+<h2>Threat Bias and Anxiety</h2>
+<p>As much as people want to try to get rid of anxiety, some of it is adaptive and protective. We evolved to have anxiety as a way of recognizing threat. Evolutionarily, if people (or animals) did not experience anxiety, they would not survive. If a hungry predator approached a totally chill caveperson who didn't react, the predator might attack. Today, if you were crossing a road and a car came speeding from out of nowhere towards you, you would need to have a fear response to get out of its way and protect yourself.</p>
+
+<p>Even though some anxiety is a good thing, people who struggle with anxiety issues tend to overestimate the amount of threat there actually is in a given situation. It is almost as if they have a finely tuned antenna that picks up scary information. </p>
+<p>Here are some examples of overestimation of threat with anxiety issues:</p>
+
+<ul>
+<li>Justin, who has an airplane phobia, views flying as more dangerous than it actually is—every time he has to fly, he is convinced that the plane will crash. </li>
+<li>Social anxiety is a prevalent issue in Juan’s life, in that it prevents him from doing a lot of different things. For example, he is so afraid of saying something stupid in a meeting (fearing he will be judged by his entire team and then fired) that he avoids speaking up as much as he can. </li>
+<li>Mikayla avoids driving on freeways because she has a fear that she will have a panic attack while driving, causing her to lose control of her car and kill herself and others in the process. </li>
+<li>Jamie was the victim of sexual assault and has PTSD as a result. She has stopped going out at night entirely, for fear of being victimized again. </li>
+<li>Imagining that they will forget to turn off the gas stove, causing their house to burn down, Mel gets stuck in a loop, checking it over and over and over again.</li>
+</ul>
+
+
+<h2>Threats and the News</h2>
+<p>Let’s revisit the issue of anxiety and bad things in the news. We are constantly inundated with information about bad things going on in the world. Understandably, it’s easy to assume that those threats are more personally relevant than they are, making us more anxious as a population. However, much of this anxiety is unwarranted. </p>
+
+<p>Hearing about a plane crash might make flying seem highly dangerous, when, in fact, there are billions of flights each year that don’t crash. Or just because you heard of a friend of a friend who has a rare disease, it does not make you at greater risk. </p>
+<p>And, as heartbreaking as the story of Lindsay Clancy is, just because she had postpartum psychosis and went on to kill her kids, it doesn’t mean that you are at risk of doing the same. Postpartum psychosis is very rare (affecting .1 to .2 percent of pregnancies), and of those women with a psychotic reaction, 4 percent will engage in infanticide. </p>
+
+
+
+  
+
+
+<p>Although any death of a child by their mother is horrific, it is a very rare occurrence. On the other hand, research has found that over one half of all postpartum women have unwanted intrusive thoughts or images of intentionally harming their babies. It is very normal to have an intrusive thought or image of harming your child and not be at risk at all of doing it. Of note, almost all new mothers have thoughts of accidental harm happening to their babies. </p>
+
+<h2>Giving Yourself a Reality Check </h2>
+<p>Some people could benefit from a break from the news or social media. However, if your anxiety feels difficult to manage, consider talking to your doctor or finding a mental healthcare provider who specializes in treating anxiety. </p>
+<p>Remember, if you start to personalize something distressing because you heard about it in the news, or because it happened to someone you know (or know of), you can give yourself a reality check. You can ask yourself: Is my risk <em>really greater</em> just because I heard it happened to someone else?</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/liberate-yourself/202608/when-someone-elses-tragedy-becomes-your-fear" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/liberate-yourself/202608/when-someone-elses-tragedy-becomes-your-fear</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/liberate-yourself/202608/when-someone-elses-tragedy-becomes-your-fear</guid>
+            <dc:creator><![CDATA[Bonnie Zucker Ph.D.]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-08/anxious_woman_on_phone_pexels-alex-green-5699851-2.jpg?itok=3RQkBkS6" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Your Neighborhood Needs Gossip]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/1.png.jpg?itok=Om6Bkexd" alt="Frank T. McAndrew Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Life</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Your Neighborhood Needs Gossip</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A neighborhood without gossip is not really a "neighborhood" at all.</h2><p style="font-size:0.9em;color:#666;">Posted August 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Gossip is the social glue that makes a neighborhood a community.</li><li style="margin-bottom:6px;">Gossip's bad reputation is not entirely justified.</li><li style="margin-bottom:6px;">A lively gossip network provides many benefits for neighborhood life.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/shutterstock_421693000.jpg?itok=3Pf0o6i6" width="320" height="213" data-insert-type="image" title="Lisa-S/Shutterstock" alt="Lisa-S/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Lisa-S/Shutterstock</div>
+</div>
+</div>
+</div>
+<p>Many people would reflexively use words like “toxic” or “unpleasant” to describe a neighborhood with an active gossip network, but I believe that this attitude is misguided. A sense of belonging and interconnectedness is the most essential feature of a cohesive neighborhood, and gossip is the glue that makes this happen. The <a href="https://journals.sagepub.com/doi/10.1177/001872678103400904">number of neighbors that one can identify</a> by first name is a reliable predictor of a strong sense of community, and it is hard to know who people are if we never get to talk about them. In many ways, neighborhood busybodies perform a greatly underrated and necessary social function. </p>
+
+<p>And besides, if the only person you are willing to talk about is yourself, your neighbors will quickly decide that you are a pretty <a href="https://www.psychologytoday.com/us/blog/out-of-the-ooze/202204/what-makes-a-person-boring">boring person</a>.</p>
+<h2>Why Gossip Gets a Bad Rap</h2>
+<p>If one of your neighbors described you to someone else as a “gossip,” you may not consider it a compliment; in fact, you would probably feel insulted. There is no question that gossip has gotten a bad rap, but I believe that is because most of us define gossip too narrowly as mean-spirited, false, spiteful talk about individuals who are not present to defend themselves. </p>
+
+<p>We also tend to think of gossip as something that <em>other</em> people do, and we fail to recognize how many of our own conversations qualify as gossip. Because we think of gossip as a bad thing, and because we like to think of ourselves as good people, we feel compelled to describe our own behavior as something other than gossip. When <em>we </em>are discussing other people, we prefer to think that we are “expressing concern” (as in, “Did you hear about Mary? Bless her heart...”) or “sharing important information” (as in, “Listen, there is something that you really need to know...”), but let’s face facts: You gossip a lot more than you think you do.</p>
+
+<h2>How Gossip Benefits a Neighborhood</h2>
+<p>Gossip can be a way of monitoring the life of the neighborhood and protecting it from predators and other bad actors who wish to do us harm, and neighbors sharing gossip is a way of resolving the uncertainty surrounding out-of-the-ordinary behavior. For example, neighbors are often the first to sound the alarm about potential mass shooters. <a href="https://www.cnn.com/2018/02/24/us/florida-school-shooting">At least seven callers</a> warned authorities about the Parkland, Florida, high school shooter, with one neighbor even reporting that she knew he was going to shoot up a school, but she just did not know which school or when it would happen. Similarly, <a href="https://nypost.com/2021/12/06/ethan-crumbleys-neighbor-warned-authorities-about-parents-report/">neighbors warned police</a> about Michigan school shooter Ethan Crumbley before he went on his rampage. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/shutterstock_788918869.jpg?itok=BB05cArY" width="320" height="213" data-insert-type="image" title="Monkey Business Images/Shutterstock" alt="Monkey Business Images/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Monkey Business Images/Shutterstock</div>
+</div>
+</div>
+</div>
+<p>Gossip among neighbors is routinely an essential first step in helping law enforcement determine if suspicious activity at a house reflects illegal drug activity or something more benign, which means that the more than 25,000 Neighborhood Watch groups in North America are basically just formally organized gossip networks. </p>
+
+<p>Gossip can also be a mechanism for keeping troublemakers in line and forcing us all to be good citizens. In my own neighborhood, gossip about what was going on in the backyard of a reclusive neighbor helped to identify an illegal automobile repair business, and other gossip alerted the neighborhood about a poorly controlled, very dangerous dog that was eventually removed by authorities. </p>
+
+<p>Knowing that our reputations are being evaluated by others makes us do the right thing when it comes to respecting informal neighborhood policies about maintaining our properties, cleaning up trash, returning borrowed items, and making too much noise late at night. Consequently, the gossip network also <a href="https://www.researchgate.net/publication/232508024_Gossip_as_Cultural_Learning">helps new neighbors learn</a> the unofficial rules of the neighborhood that people will usually not come right out and tell them directly. </p>
+
+<p>Studies by anthropologists in real-life groups as diverse as <a href="https://www.jstor.org/stable/25605605?origin=crossref&amp;seq=1">hunter-gatherer societies</a>, <a href="https://www.amazon.com/Order-without-Law-Neighbors-Disputes/dp/0674641698">California cattle ranchers</a>, <a href="https://press.uchicago.edu/ucp/books/book/distributed/L/bo44306533.html">Maine lobster fishermen</a>, and <a href="https://link.springer.com/article/10.1007/s12110-005-1011-6">college rowing teams</a> confirm that gossip has been used in these quite different settings to enforce group norms when individuals failed to live up to the standards that the group had set for them. In all of these groups, individuals who cheated and violated expectations about sharing resources and meeting responsibilities became frequent targets of gossip and ostracism, which put pressure on them to change their ways.</p>
+
+<p>Neighborhoods are no different.</p>
+<p>Finally, gossip <a href="https://www.youtube.com/watch?v=amf-Uq37fXU">creates bonds between neighbors</a>. People get to know each other through casual day-to-day chit-chat about neighborhood business, and people come to trust each other through gossip. Sharing sensitive information with another person is a sign of trust; it shows that you believe that this person will not use the information in an irresponsible way. My wife and I allow our next-door neighbors to keep a key to our house, which is something that would never have happened without the informal vetting provided by opportunities for gossip.</p>
+
+
+
+  
+
+
+<p>Through gossip, we come to know who the “good” gossipers are and who the “bad” gossipers are, which helps us to ascertain the truthfulness of the news that we hear. Skillful gossipers are usually very popular people who are influential members of the community. They have a reputation for knowing what is going on, but they are also trusted to be discreet when sensitive information is shared with them. </p>
+
+<p>Bad gossipers, on the other hand, are often perceived as either clueless blabbermouths who indiscriminately share everything they hear, or as transparently vicious and manipulative backstabbers. In either case, <em>no one</em> trusts them to keep gossip to themselves. </p>
+<p>Whether you intend it or not, becoming a holier-than-thou gossip naysayer tells your neighbors that you do not trust them and that you do not wish to be part of their social network, and this will not endear you to anyone. Why? Because we feel subtle pressure to reciprocate the levels of self-disclosure, helpfulness—and yes, trust—that we receive from others. And so, if your aloofness signals a lack of trust or interest in others, that is exactly what you will receive back in return.</p>
+
+<p>Just as any <em>social</em> group without gossip is not really a social group, a neighborhood without gossip is not really a neighborhood.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/out-of-the-ooze/202608/why-your-neighborhood-needs-gossip" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/out-of-the-ooze/202608/why-your-neighborhood-needs-gossip</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/out-of-the-ooze/202608/why-your-neighborhood-needs-gossip</guid>
+            <dc:creator><![CDATA[Frank T. McAndrew Ph.D.]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/shutterstock_788918869.jpg?h=b971973a&amp;itok=e58-A2mZ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Psychology of Aesthetics]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/663ED81E-51E8-4D11-A545-EB65EE06FD17-removebg-preview.png.jpg?itok=_9EvRi5q" alt="Shahram Heshmat Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Beauty</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Aesthetics</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What are the determinants of aesthetic appreciation?</h2><p style="font-size:0.9em;color:#666;">Posted August 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">We appreciate beautiful things not for their practical purposes, but for what they are in themselves.</li><li style="margin-bottom:6px;">We tend to prefer stimuli that are neither too easy nor too difficult.</li><li style="margin-bottom:6px;">Aesthetic experiences can contribute to mood regulation.</li>
+            </ul>
+          </div>
+                    <p>The psychology of aesthetics is the study of how a viewer interacts with artworks. It is naturally more focused on the response of the perceiver, and less on the object causing the response, such as a piece of art. The psychology of aesthetics explains why something is liked or disliked, and what concepts people associate with aesthetics (Tinio &amp; Smith, 2014). </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/miroslavkaclik-a-tree-5255288.jpg?itok=AH5VFwCX" width="320" height="212" data-insert-type="image" title="Image by Miroslav Kaclík from Pixabay" alt="Image by Miroslav Kaclík from Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Image by Miroslav Kaclík from Pixabay</div>
+</div>
+</div>
+</div>
+<h2>Aesthetic experience </h2>
+<p>Aesthetic experiences can arise from the appreciation of artworks, such as music, poetry, sculpture, visual arts, nature, and the built environment. The perception and interaction with art can evoke a strong feeling, usually a sense of pleasure. </p>
+<p>In the presence of beautiful things, we feel a broad range of emotions, such as fascination, awe, wonder, admiration, chills, goosebumps, and crying. When astronauts see Earth in its entirety from space, they report feelings of awe and self-transcendence. Aesthetic emotions motivate prolonged and repeated experiences (you never get tired of watching a beautiful sunset). We also desire to possess aesthetically pleasing objects.</p>
+
+<p>A distinctive feature of aesthetic experience is that it is not goal-directed but focused more upon the activity itself. Most of the objects of everyday life are utilitarian objects with a specific function. In contrast, a work of art demands that it is experienced aesthetically for its form rather than its function. For example, we often go to botanical gardens or to music performances with the expectation of experiencing emotional uplift. However, form and function interact. For example, attractive people are generally perceived as more competent. </p>
+
+<h2>Aesthetic taste</h2>
+<p>Beauty lies in the eye of the beholder. What is beautiful to one audience is ugly to another, and those audiences will themselves change over time. Aesthetic taste is rooted in a broader cultural context. For example, people used to prefer a clean-shaven man. But now men with beards are the mainstream. The old proverb that you cannot argue about matters of taste may well be true, but that should not conceal the fact that taste can be developed. For instance, music education can increase music preferences by providing background information and an understanding of the pieces one is being exposed to. </p>
+
+<h2>Musical pleasure</h2>
+<p>Music is one of the most powerful means of evoking aesthetic emotions. Musical pleasure is commonly called “chills” or “frissons.” It is the pleasurable bodily reactions such as goosebumps that many people experience while listening to certain musical passages. Much of music’s pleasure comes from the patterns of melody, rhythm, and sudden changes. An unexpected change in intensity and tempo is one of the key factors by which music provokes a strong emotional response in listeners.</p>
+
+<p>We also enjoy listening to sad music. Sad music helps to channel one’s frustration (catharsis) or unburden negative emotions like anger and sadness. Listening to a sad song while in a sad mood is like someone (a friend) empathizing with your experience.</p>
+<h2>Complexity vs. simplicity</h2>
+<p>Aesthetic appeal often follows an inverted U-shaped relationship curve. We dislike things that are either too boring or too overwhelming. An object that is too simple would lead to boredom, while too much complexity that exceeds the perceiver’s capabilities to process would cause distraction. The sweet spot, for most people, is somewhere in the middle. For example: a room with zero décor vs a room packed with clutter. Songs that are too repetitive or purely chaotic.</p>
+
+<p>There is also a beauty in simplicity because people prefer things that are easy to think about. Familiar stimuli are processed faster than complex stimuli. This is due to <em>processing fluency </em>(greater speed and efficiency). The processing of stimuli recruits fewer cognitive resources, and fluent processing elicits positive reactions. </p>
+
+<h2>Ambience</h2>
+<p>Beauty is generated by a situation. The atmosphere or ambiance of a certain situation contributes to the aesthetic experience. Our ordinary experience is seldom obtained through a single sensory source. That is, taste is inseparable from smell and texture. The rich aroma of Starbucks coffee would likely clash with the delicate, fresh scent of sushi, resulting in a mismatched sensory experience. The taste of a very expensive wine wouldn’t be the same if we drank it out of a paper cup. Thus, what we appreciate is not any particular sensation (a smell and texture) but the way in which various elements come together to provide ambience. </p>
+
+<h2>Aesthetic sensibility</h2>
+<p>Openness to experience (“artistic personality”) is shown to be the best predictor of appreciating artworks and participation in aesthetic activities. Individuals with this trait tend to be more intellectually curious, which drives a greater taste for aesthetic experiences. For example, open individuals with greater curiosity not only might listen to music more attentively but also may expose themselves to a wider range of music. </p>
+
+
+
+  
+
+
+<p>Aesthetic experiences can contribute to mood regulation. There’s growing evidence that aesthetic experiences (sunsets and sunrises) can have a meaningful impact on our mental health: diminishing anxiety and depression while boosting memory, creativity, and sleep. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/science-of-choice/202608/the-psychology-of-aesthetics" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/science-of-choice/202608/the-psychology-of-aesthetics</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-of-choice/202608/the-psychology-of-aesthetics</guid>
+            <dc:creator><![CDATA[Shahram Heshmat Ph.D.]]></dc:creator>
+            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-08/miroslavkaclik-a-tree-5255288.jpg?itok=VtFwu9lP" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
