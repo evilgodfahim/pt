@@ -4,277 +4,493 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 22:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 01:47:03 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Aug 2026 22:37:36 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 01:47:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Conformity Is Rational]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jay-van-bavel-dominic-packer.jpg?itok=0GpjeWtu" alt="Dominic Packer, Ph.D. and Jay Van Bavel Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Conformity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Conformity Is Rational</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">"Fitting in" is a helpful strategy under the right conditions.</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Redefining Communication in the Digital Age]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/dr_jeff_pickens.jpg?itok=CEjOtf_7" alt="Jeffrey N Pickens Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Redefining Communication in the Digital Age</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Human social interactions with AI chatbots and robots</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Asch and other researchers have shown humans sometimes conform even when it's completely irrational.</li><li style="margin-bottom:6px;">On the other hand, conformity can serve as a rational strategy to gain information in ambiguous situations.</li><li style="margin-bottom:6px;">We're always trying to balance many goals at once, like accuracy, social belonging, and personal authenticity.</li><li style="margin-bottom:6px;">Humans rely on shared knowledge, but conformity can become harmful when groups shut down dissenters.</li>
+              <li style="margin-bottom:6px;">Interacting with a chatbot helps some of us feel better, but may also induce loneliness.</li><li style="margin-bottom:6px;">Users who viewed their chatbot as a “friend” with extensive daily use were more prone to negative outcomes.</li><li style="margin-bottom:6px;">As AI combines with humanoid robots, we are evolving new forms of para-social communication</li><li style="margin-bottom:6px;">Some users may be “falling in love” with a chatbot!</li>
             </ul>
           </div>
-                    <p dir="ltr">In a classic moment of comedy history, the TV show "Candid Camera"<em> </em>had actors reveal the human tendency for conformity. In clips, <a href="https://vimeo.com/402639401">you can see</a> unsuspecting participants do things like enter an elevator and quickly conform to a new set of rules—like facing the back or turn from side to side—as they observe the actions of others. </p>
+                    <p>Every day there’s another technology story in the news, ranging from cyber-attacks on municipal water systems to AI chatbots going “rogue.” Yet beneath the sensational headlines is a continuous evolution of human-technology interactions.</p>
+<h2>Humans Interacting With Chatbots</h2>
+<p>The AI-powered large-language-model (LLM) chatbots handle a significant volume of human communications online. Over half of midsize to large companies have their website interactions managed by chatbots, with AI tools handling about 70 percent of customer inquiries before they ever get to speak with a human! After all, AI chatbots don’t tire or take coffee breaks, and they can manage 24/7 inquiries with ease.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-08/elevator_saga.png.jpg?itok=wSarl4TD" width="639" height="213" data-insert-type="image" title="Candid Camera, ep. &amp;quot;Face the Rear&amp;quot; (1962)" alt="Candid Camera, ep. &quot;Face the Rear&quot; (1962)"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Candid Camera, ep. "Face the Rear" (1962)</div>
-</div>
-</div>
-</div>
-<p dir="ltr">This was inspired by a famous set of studies by social psychologist Solomon Asch at Swarthmore College in the 1950s. He conducted a series of experiments that seemed to expose a troubling side of human nature: a disturbing tendency to conform even when it makes no rational sense.</p>
-<p dir="ltr">Asch invited groups of college students to complete a strikingly simple task. All they had to do was match the length of a line to one of three comparison lines. It was incredibly simple. You can try it yourself below: look at the line on the left and try to determine which line on the right is identical in length.</p>
+<p>Millions of users engage in chatbot conversations every day, with as many as a billion people now making daily use of AI chatbots worldwide.[1] These go beyond simple customer service inquiries, because humans like conversation, so chatbots have become a new source of online social discourse. </p>
+<p>The APA surveyed 1,200 licensed U.S. psychologists and discovered that many patients apparently supplement their mental health treatments with advice from AI chatbots. About 40 percent of psychologists reported their patients used AI to self-diagnose, and about 33 percent of the surveyed psychologists reported their patients used AI to help with positive affirmations or behavioral reminders (34 percent) to assist with their treatment. In other words, AI chatbots are already acting as a supplement to mental health treatment, and for many, they’re becoming key social and emotional supports.[2]</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-08/conformity_lines.png.jpg?itok=LGj6waCz" width="600" height="492" data-insert-type="image" alt="The answer is C. Or is it?" title="Asch conformity experiments"></div>
-<div class="caption">The answer is C. Or is it?</div>
-<div class="insertArea--origin subtext">Source: Asch conformity experiments</div>
-</div>
-</div>
-</div>
-<p dir="ltr">Did you get it right? When students completed the task alone, they almost never made mistakes.</p>
-<p dir="ltr">But Asch added a twist. In group settings, everyone except for one real participant was secretly in on the experiment. At key moments, these stooges deliberately chose obviously wrong answers—and the real participant, answering last, had to decide whether to trust their own eyes or go along with the crowd.</p>
+<p>Researchers have begun to study these human-AI interactions and suggest that human-chatbot interactions can trigger deep emotional responses, with users even forming “parasocial attachments.” On the benefits side, human interactions with AI chatbots did reduce anxiety in controlled studies.[3] </p>
+<p>But a darker side of overuse of chatbots is also becoming apparent: Emotional reliance on chatbots can inadvertently worsen loneliness, and excess interaction with chatbots (instead of living humans) might erode essential real-world social skills.[3] Chatbots that simulate conversation with synthetic empathy, endowed with a voice and personality that encourages bonding and attachment, can create dependency in more vulnerable and isolated individuals.</p>
 
-<p dir="ltr">In this <a href="https://www.youtube.com/watch?v=LqALdEvtTY4">video</a>, you can see the participant squirming uncomfortably as he is struggling with the decision to conform: does he trust his own lying eyes or those of his peers?</p>
-<p dir="ltr">The results were startling: <em>76 percent of participants conformed at least once! </em>And on average, people went along with the group about a third of the time.</p>
-
-<p dir="ltr">It looked like a dramatic indictment of human irrationality. Crazy, right? But if we stop the story there, we might miss a far more interesting—and hopeful—truth.</p>
-<h2>Conformity Can Be Rational</h2>
-<p dir="ltr">Some conformity in Asch’s experiments was driven by what psychologists call <em>normative influence</em>: People wanted to fit in and avoid social discomfort. We know this because when participants could write down their answers anonymously, conformity rates plummeted. (BTW, this is a clever trick if you want to reduce conformity in groups—have them write down their opinions privately!) </p>
-
-<p dir="ltr">So public pressure matters—yet not all conformity is about fitting in with the crowd. Much of the time, it’s a smart, rational response to uncertainty. There is extensive research in the past 70 years that has revealed the function of conformity.</p>
-<p dir="ltr">In a series of studies Dom ran a few years ago, he gave participants harder visual tasks—ones where the answer wasn’t obvious.</p>
-
-<p dir="ltr">Participants had to decide whether two shapes could be mentally rotated so that they matched. The key was that participants were under time pressure to respond, and for at least some of the trials, they were unsure of the correct answer.</p>
-<p dir="ltr">Try it for yourself below:</p>
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-08/conformity_shapes.jpg?itok=VHgGlj-J" width="639" height="319" data-insert-type="image" alt="Can the two shapes be rotated so that they match?" title="Example of a Shepard-Metzler Task, Todd M. Gureckis"></div>
-<div class="caption">Can the two shapes be rotated so that they match?</div>
-<div class="insertArea--origin subtext">Source: Example of a Shepard-Metzler Task, Todd M. Gureckis</div>
+<p>According to Smith et al. (2025), “Chatbots can be responsive in ways humans perceive as supportive, generating feelings of connection and opportunities for growth.” However, chatbot relationships are largely superficial, and so our relationships with AI chatbots do not provide the natural dynamics of negotiating with others, reaching compromise, sacrificing, and showing empathy. As a result, since the chatbots never push back in the way real humans do, they may thus reinforce egocentric and undesirable narcissistic and antisocial behaviors.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
-</div>
-</div>
-<p dir="ltr">After a brief look at the shapes, participants saw a pie chart showing how (supposedly) previous participants had answered. We found that even when they were answering alone in private cubicles, participants shifted their answers toward the majority shown on the pie chart—whether or not that majority was correct.</p>
 
-<p dir="ltr">This was a remarkably different pattern from Asch’s findings on conformity.</p>
-<p dir="ltr">Because participants were alone, this wasn’t about social pressure. It was about using other people as a valuable source of information. Psychologists call this <em>informational influence</em>. When the world is ambiguous, trusting the crowd is often a rational thing to do. Perhaps they have useful knowledge.</p>
+  </div>
 
-<p dir="ltr">Because it’s about the desire to get things right (rather than fit in), informational influence increases when people are motivated to be accurate.</p>
-<h2>Conformity Isn’t About Just One Goal</h2>
-<p dir="ltr">These findings expose an important truth: We’re always trying to balance multiple goals simultaneously, including:</p>
+<p>While researching the effects of commercial AI chatbots—known as Conversational Agents—these AIs were found to generate empathy statements when prompted with signals of emotional distress, and this was true across multiple brands of AI chatbots. However, it was also found that chatbots such as Alexa, Google Assistant, Siri, or ChatGPT typically responded to depression-related queries with <em>search results</em> rather than specific solutions. This is not surprising, as chatbots are now integrated with search engines—and do as they were trained—to synthesize and regurgitate available online content. </p>
+
+<p>As the AI companies continue to recognize that users will seek emotional support from their chatbots, the next generation will continue to grow capabilities—hopefully grounded in evidence-based therapeutic communication—to produce more natural and effective empathetic responses as well as suggestions and interventions to improve mental health.[3)</p>
+
+<p>The psychology of “parasocial” interactions between humans and chatbots involves several mechanisms:</p>
 <ul>
-<li dir="ltr"><strong>Accuracy:</strong> Getting things right</li>
-<li dir="ltr"><strong>Belonging:</strong> Fitting in and maintaining social harmony</li>
-<li dir="ltr"><strong>Authenticity:</strong> Showing independence, signaling when we aren’t reliable sources, and maintaining a sense of personal integrity</li>
+<li><strong>Anthropomorphism</strong>: Humans naturally attribute human-like qualities to everything from pets to cars to AI. Chatbots are designed to produce human-like cues and statements, and in this way, the AI chatbot triggers anthropomorphism. This is something of a paradox—the nature of simulated AI conversations promotes and facilitates engagement, and yet this tendency also generates false expectations, amplified vulnerability, and a lack of accountability.[4]</li>
+<li><strong>The paradox of loneliness</strong>: AI chatbots can create a temporary illusion of a human listener. However, over time, people with more chatbot interactions and greater emotional reliance on their chatbots showed increased feelings of loneliness and reduced social contact with real, living humans. [5]</li>
+<li><strong>Exploiting vulnerabilities</strong>: AI chatbots are known to sometimes exhibit bias or even hallucinate answers, and so these incomplete intelligences might also fail to recognize risks, such as depression and suicidal intent. By being so agreeable and empathic, the AI chatbot purposefully encourages emotional dependence. However, these bots may not protect those with mental health vulnerabilities. Until AI chatbots are specifically trained in evidence-based psychological techniques and diagnosis, they are not considered a substitute for a human therapist who would distinguish and intervene on behalf of the most vulnerable individuals. [6]</li>
+<li><strong>Degrading human communication</strong>: Critics will argue that the one-sided discourse offered by AI chatbots, who tend to be agreeable, creates conversations that just mirror our own opinions and reflect our biases. This type of communication may inadvertently normalize self-centered discourse, weakening a user’s capacity to cope with natural disagreements and the kinds of back-and-forth compromises that characterize genuine human relationships. [6]</li>
 </ul>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Many individuals who could benefit from mental health treatment do not access care.[7] For this reason, AI-powered chatbots trained as mental health counselors could be a solution to increase access and provide psychotherapy to those in need of it. Social media user demographics suggest that adolescents are heavy users, and yet this age group may be the most vulnerable (e.g., teens may bond with AI chatbots differently than adults), and this issue requires further study to highlight ways for caregivers to moderate teens’ chatbot use, along with other social media. </p>
+
+<p>Robots equipped as AI chatbots represent yet another new type of parasocial interactions worthy of study and caution. Human-robot interactions are complex, and “Social Robotics” is now becoming a mainstream field of study.[8]</p>
+<p>Will we treat our robots as equals with humane robot rights, or as tools to do our bidding? Will our robots reflect our language and culture, our norms and values? Most likely, this field of psychology will continue to evolve. We now know that due to AI chatbots’ ability to simulate human-like interactions, some vulnerable people “fall in love” and develop emotional attachments to chatbots. Factors contributing to this emotional connection may include a user’s loneliness, their tendency to anthropomorphize this technology, and the chatbots’ ability to provide companionship and support. In the future, will we welcome robot-human relationship counselors and cyber-couples therapy?</p>
 
 
 
   
 
 
-<p dir="ltr">Sometimes, you value peace over pedantry. If your friends insist on something stupid, you might sometimes suppress your better judgment for the sake of good vibes. Your broader truth is not about correcting every error; it’s about saying <em>I am one of you.</em></p>
-<p dir="ltr">For similar reasons, it’s uncomfortable to always go along with the group. Groups value people who bring new things to the table and are naturally suspicious of people who appear to have no opinions or standards of their own.</p>
-
-<h2>Conformity Is a Superpower and a Vulnerability</h2>
-<p dir="ltr">Humans’ ability to share information, coordinate, and align behavior is a profound strength. It’s what separates us from other species. No one person can master all the knowledge needed to navigate the world. We stand, as Newton said, on the shoulders of giants—<em>and</em> on the shoulders of one another.</p>
-
-<p dir="ltr">But the very mechanisms that make conformity adaptive can, under certain conditions, lead us astray. When groups become insular, silence dissent, or grow overconfident in their collective narratives, informational and normative influence can tip into dysfunction.</p>
-<p dir="ltr">Conformity, then, isn't irrational. Quite the opposite: Conformity reflects the deep rationality of social creatures trying to balance truth, trust, and identity.</p>
-
-<p dir="ltr">The real challenge isn’t how to eliminate conformity. It’s how to build communities that prize good information, welcome dissent, and balance belonging with a commitment to truth.</p>
-<p dir="ltr">In the right environments, conformity isn’t the enemy of reason—it's a part of how we reason as collective, community-oriented beings.</p>
-
-<p dir="ltr"><em>To get a weekly email with insights into the science of identity, cooperation, social media, and intergroup conflict, subscribe to The Power of Us </em><a href="https://www.powerofusnewsletter.com/"><em>Newsletter</em></a><em>.</em></p>
+<p>Ask your chatbot how they feel about this!</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-power-of-us/202608/why-conformity-is-rational" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/psychology-through-technology/202608/redefining-communication-in-the-digital-age" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-power-of-us/202608/why-conformity-is-rational</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-power-of-us/202608/why-conformity-is-rational</guid>
-            <dc:creator><![CDATA[Dominic Packer, Ph.D. and Jay Van Bavel Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/psychology-through-technology/202608/redefining-communication-in-the-digital-age</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psychology-through-technology/202608/redefining-communication-in-the-digital-age</guid>
+            <dc:creator><![CDATA[Jeffrey N Pickens Ph.D.]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/shutterstock_1932586646.jpg?itok=2-kBZvrm" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-mary-taylor-6009145.jpg?h=c34eabc3&amp;itok=jXeIz5Ka" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[5 Surprising Studies on Character Strengths]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Ryan-Niemiec.jpg?itok=NJQyKDQK" alt="Ryan M. Niemiec Psy.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Depression</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Surprising Studies on Character Strengths</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Important lessons for depression, leadership, and personal growth.</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Art Moves Us: Body and Brain]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/shirleymueller_3_-removebg-preview.jpg?itok=784PxvrR" alt="Shirley M. Mueller M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gut-Brain Axis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Art Moves Us: Body and Brain</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Art appreciation is more than a brain game.</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Depressed people can benefit from greater strengths use.</li><li style="margin-bottom:6px;">The underuse of character strengths is an important problem to address.</li><li style="margin-bottom:6px;">Character strengths are changeable, especially perspective, kindness, humor, hope, and gratitude.</li><li style="margin-bottom:6px;">Use a behavioral "nudge" to improve your character strengths use.</li>
+              <li style="margin-bottom:6px;">Art appreciation involves the whole body, not just the brain.</li><li style="margin-bottom:6px;">Beautiful and surprising art can change heart-rate variability.</li><li style="margin-bottom:6px;">Powerful art can alter both heart rate and skin conductance.</li><li style="margin-bottom:6px;">Our bodies provide measurable clues to our emotional response to art.</li>
+            </ul>
+          </div>
+                    <p>When viewing art, some museum-goers get that loving feeling. They like what they see. A few go so far as to have a religious experience of sorts and report sensations of euphoria. We usually think of these perceptions as originating in the brain, and, of course, they do. But the brain does not appreciate art in isolation. The rest of the body joins in the experience as well.</p>
+
+<p>Psychologist Wolfgang Tschacher and colleagues from institutes in Switzerland and Germany demonstrated this in a study of 373 visitors to the Kunstmuseum St. Gallen in Switzerland. Using a specially designed glove worn on the visitor’s right hand, the researchers wirelessly measured movement, heart rate, and skin conductance while they wandered through the museum. Sixty-five percent of the participants were female, and the average age was 47. Each visitor spent about 28 minutes in the exhibition.</p>
+
+<p>Skin conductance is one way researchers measure emotional arousal. It reflects small changes in skin moisture that are controlled by the sympathetic nervous system—the same system that prepares us for “fight or flight.” When we become emotionally engaged, sweat gland activity changes and can be recorded.</p>
+
+<p>Immediately after leaving the exhibit, participants completed a computerized questionnaire. They were asked about the three artworks where they had lingered the longest, as determined by the motion sensors in the glove. They also rated three works selected in advance by the investigators.</p>
+<ul>
+<li><strong>Aesthetic quality:</strong> Was the work pleasing, beautiful, and well-executed in technique, composition, and content?</li>
+<li><strong>Surprise or humor:</strong> Did it surprise the viewer or make them laugh?</li>
+<li><strong>Negative emotion:</strong> Did it convey sadness, fear, or anger?</li>
+<li><strong>Dominance:</strong> Did the work feel powerful or stimulating?</li>
+<li><strong>Curatorial quality:</strong> Was it well displayed and appropriate within the exhibition?</li>
+</ul>
+
+<p>Using statistical analyses, the researchers found that three of the four physiological measures showed significant relationships with the subject’s reactions to the art.</p>
+<p>Beautiful, high-quality artworks and surprising or humorous pieces were associated with greater heart-rate variability. Art experienced as dominant or powerful was associated with greater variability in skin conductance and, interestingly, with a decrease in heart rate. </p>
+
+<p>The investigators did not speculate about what these changes meant psychologically. In some ways, they did not need to. Their central finding was striking enough: Viewing art in a museum produces measurable physiological responses.</p>
+<p>Their conclusion was that “an idiosyncratically human property, finding aesthetic pleasure in viewing artistic artifacts, is linked to biological markers.”</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>That idea fits with what many of us have experienced in museums. We may stop in front of a painting because something about it catches our eye, only to discover that we have been standing there far longer than intended. We are not merely looking. Our attention has narrowed, our emotions have shifted, and our bodies have responded, too.</p>
+
+<p>This does not mean that every beautiful painting will produce the same reaction in every person. Art appreciation is intensely personal, shaped by memory, experience, culture, and individual taste. One viewer may be captivated by a quiet landscape, while another barely notices it but is transfixed by an abstract canvas.</p>
+
+<p>Still, studies like this remind us that aesthetic experience is more than an intellectual exercise. The brain interprets what we see, but it does so in constant conversation with the body. Heart rate, autonomic activity, and emotion become part of the experience.</p>
+<p>Perhaps that is one reason art can remain with us long after we leave a museum. We do not simply remember what we saw. We remember how it made us feel.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-mind-of-a-collector/202608/why-art-moves-us-body-and-brain" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-mind-of-a-collector/202608/why-art-moves-us-body-and-brain</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-mind-of-a-collector/202608/why-art-moves-us-body-and-brain</guid>
+            <dc:creator><![CDATA[Shirley M. Mueller M.D.]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/heart_rate_art_0.jpg?itok=dGNWNkpO" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What’s It Take for Young Adults to Be Grown Up?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/loriann_oberlin.png.jpg?itok=_ZLFDki8" alt="Loriann Oberlin MS, LCPC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Identity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What’s It Take for Young Adults to Be Grown Up?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Unmet milestones to mastered skills pave the road to a challenged adulthood.</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Studies and surveys report that being “in dependence” is not exactly the independence of prior generations.</li><li style="margin-bottom:6px;">Two authors add insights into what exactly we call adulthood and being a grown up.</li><li style="margin-bottom:6px;">Financially aiding 20- or early 30-something offspring is common yet has its concerns.</li><li style="margin-bottom:6px;">Skill acquisition matters, and good news: It’s never too late to teach and acquire proficiency.</li>
+            </ul>
+          </div>
+                    <p>As young people graduate and then head to college, we call them young adults. Yet are they?</p>
+<p>Psychologist Jeffrey Jensen Arnett, in <em>Emerging Adulthood: The Winding Road from the Late Teens Through the Twenties, (</em>third edition), posits that a lot must happen before true adulthood occurs. In the phrase he coined, his paradigm of emerging adulthood spans from age 18 to 29. By his thinking, it’s characterized by the age of identity exploration (trying out options or values), instability (changes in relationships, living arrangements, and jobs), self-focus (having few social obligations or daily duties to others), feeling in-between (not an adolescent, nor an adult), and the age of possibilities (to transform life for an ideal future).<sup>1</sup></p>
+
+<h2>Milestones Not Reached Like Their Parents and Grandparents Had</h2>
+<p>Two decades ago, sociologists called this a changing timetable for adulthood, pointing to a Canadian study that reported 30-year-olds in 2001 had completed the same number of milestones that 25-year-olds did in the early 70s.<sup>2</sup> It’s confusing in the U.S. as well because age-related markers make little sense:</p>
+
+<ul>
+<li>Driver’s licenses at age 16</li>
+<li>Legal majority and voting at 18</li>
+<li>Legally allowed to enjoy a beer or glass of wine at 21</li>
+<li>For tax purposes, dependent status until age 24</li>
+<li>Yet allowed on parent’s health insurance to age 26</li>
+</ul>
+<p>Arnett points to fewer entry-level jobs, a general acceptance of premarital sex, birth control, and living together pushing marriage into a “maybe” milestone. Fertility sometimes has gotten sacrificed for career progression, and some couples point to climate change, loss of freedoms, and expense as reasons to forgo procreating.</p>
+
+<p>As America celebrated its 250th year of independence, one in five U.S. adults report they do not expect to be financially independent. Ever!<sup>3</sup></p>
+<h2>Skills Mastery That Makes All the Difference</h2>
+<p>Raffi Grinberg, a business leader, author, and educator, taught a popular Adulting 101 course at Boston College and now is an executive and co-founder of successful nonprofits and businesses. His book <em>How to Be a Grown Up: The 14 Essential Skills You Didn’t Know You Needed (Until Just Now) </em>sections skill sets into the mental ones, financial, relationship, and career skills before Grinberg’s last point to live on purpose.<sup>4</sup></p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/istockphoto-1443245439-612x612.jpg?itok=aKA29-tr" width="320" height="232" data-insert-type="image" alt="20- and 30-somethings see little return on investment for certain college majors that fail to support them with today's expenses. " title="Paperkites/iStock"></div>
+<div class="caption">20- and 30-somethings see little return on investment for certain college majors that fail to support them with today's expenses.</div>
+<div class="insertArea--origin subtext">Source: Paperkites/iStock</div>
+</div>
+</div>
+</div>
+<p>I appreciated the first section especially. Point two dealt with “Facing Rejection,” which hugely affects people’s self-esteem throughout life. Learn to manage it when younger. The fourth skill contains a hallmark of cognitive-behavioral therapy: “Reframe automatic thoughts.” Again, a lifelong skill that helps daily!</p>
+
+<p>Jumping ahead to the relationship section, skill nine, “Have Good Conversations,” is a definite winner. As an individual and couples’ therapist, proper listening and asking for what we need can’t be stressed enough. Grinberg explains passive, aggressive, and passive-aggressive approaches, eschewing them for the proper assertive examples with “I-statements.” Yeah!</p>
+
+<p>Working on friendship is another gem as Grinberg points out that friendships won’t happen automatically, and as adults, you won’t have a lot of time either, so effort in this department is well-spent unless you want to be isolated and lonely, which we therapists do not recommend. Skill 11, “Evolve With Your Parents,” warmed this family systems-trained therapist because we’re facing an unhelpful trend of cutoff and estrangement that propels more problems than it solves.</p>
+
+<p>The practical, financial skill section begins with “Build Credit,” “Invest Your Money,” and several other gems to greatly lessen your stress level, along with the book’s last section on career skills such as “Ace Your First Job.”</p>
+<p>It’s a comprehensive tome. Fourteen skills that, in Grinberg’s opinion, spell grown-up! I wish one more skill would have been added: kindness. That’s to everyone in an era where disrespect has been displayed and replicated. How parents treat one another sets a lifelong model of relationships (whether they’re good or bad), what we say on social media counts, and as Maya Angelou said, what people really remember is how you make them feel.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Summary</h2>
+<p>Even with a modicum of skills and well-paying jobs, some young adults struggle with facing a very different financial landscape than their parents faced. The trend causes financial planners to caution their clients, the parents, to protect their retirement and seriously look at the “return on investment for any given college major, especially when parents help to finance it or later help support their child who did.<sup>5</sup></p>
+
+
+
+  
+
+
+<p>Therapists caution supportive parents not to do what their grown child can do for themselves, set boundaries on payback of loaned funds, and insist on tangible household contributions (cooking, laundry, shopping, chores). After all, it’s the way the real world works.</p>
+<p><em>© 2026 by Loriann Oberlin, M.S., LCPC</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-full-picture/202608/whats-it-take-for-young-adults-to-be-grown-up" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-full-picture/202608/whats-it-take-for-young-adults-to-be-grown-up</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-full-picture/202608/whats-it-take-for-young-adults-to-be-grown-up</guid>
+            <dc:creator><![CDATA[Loriann Oberlin MS, LCPC]]></dc:creator>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/istockphoto-2147591354-612x612.jpg?h=f90960fd&amp;itok=aLkQtYr0" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Rules for Back to School 2026: Now Comes the Hard Part]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/diana_graber.png.jpg?itok=aLHZsb_v" alt="Diana Graber M.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">New Rules for Back to School 2026: Now Comes the Hard Part</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Technology rules grab the headlines. But the real story is about durable skills.</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Rules and bans don't build judgment, attention, or the capacity for real relationships.</li><li style="margin-bottom:6px;">Eighty-six percent of kids already use AI for schoolwork. The question isn't whether—it's how.</li><li style="margin-bottom:6px;">Phone bans may address a threat to attention, but banning a device doesn't teach a child to focus.</li><li style="margin-bottom:6px;">The skills students need now—attention, judgment, critical thinking—don't come pre-installed with policies.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/surprised_woman.png.jpg?itok=bnmdzhYh" width="320" height="175" data-insert-type="image" title="AI-generated; Gemini/Google" alt="AI-generated; Gemini/Google"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/pexels-boom-12716111.jpg?itok=Ae_Bt4Bw" width="320" height="213" data-insert-type="image" title="BOOM 💥 Photography / Pexels" alt="BOOM 💥 Photography / Pexels"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI-generated; Gemini/Google</div>
+<div class="insertArea--origin subtext">Source: BOOM 💥 Photography / Pexels</div>
 </div>
 </div>
 </div>
-<p>I review about 100 character strengths studies per year. There are always a few studies that give me pause. I might see a counterintuitive finding, an idea I had not considered, or something that piques my signature strength of curiosity. </p>
-<p>In this post, I share 5 surprising and interesting studies. These stopped me for a moment—literally—and I see immediate practical use from each. </p>
+<p>Walk into almost any American school this fall, and you’ll find things that were debated a short year ago are simply the way things are now. Student phones are out—or on their way out. Screen time on school-issued devices is being cut. Artificial intelligence is the subject of impending policies, rules, and, in some states, law.</p>
 
-<p>These studies span many fields: workplace, coaching, clinical, and general audiences. I wonder if these studies give you an ah-ha, too!</p>
-<p><strong>1. Depressed People </strong><em><strong>Can</strong></em><strong> Improve Their Strengths</strong></p>
-<p>In this quasi-experimental study, 50 women with major depressive disorder were randomly assigned to eight positivity training sessions or a control condition. Positivity training significantly enhanced character strengths, improved time perspective (reducing past-negative and present-fatalistic while increasing past-positive, present-hedonistic, and future orientations), and increased self-awareness. This study shows character strengths are modifiable in clinical depression (Barzigar &amp; Homaei, 2024). </p>
+<p>On the surface, these changes look like they’re about technology. But really, they are about how young people learn to focus, tolerate boredom, develop critical thinking, build social skills, practice independent judgment, and decide whom—or what—to trust. </p>
+<p>Policies can shape an environment. They cannot, by themselves, build the capacities that an ever-evolving environment demands.</p>
 
-<p><em>Why is this striking? </em>It is not typical for a positive psychology study to a) examine participants with an actual clinical disorder (it is, however, common in positive psychology studies to ask general questions about depression/anxiety); and b) it is novel to examine character strengths change amidst depression. </p>
+<p>Here are three significant shifts heading into the new school year, and how policies are, and are not, making a difference in each one.</p>
+<h2>Phone Bans Become About More Than Just Phones</h2>
+<p>A year ago, cellphone bans were still gaining momentum. Now <a href="https://www.hks.harvard.edu/faculty-research/policy-topics/education-training-labor/many-states-are-banning-cellphones-schools">restrictions are widespread</a>: As of June 2026, 22 states and the District of Columbia had adopted bell-to-bell cellphone bans—meaning students generally cannot access their phones during the school day. Another 19 states had enacted more flexible laws that permit or encourage local restrictions without requiring a full-day statewide ban. </p>
 
-<p><em>Practical strategy</em>: If you’re helping someone with a clinical disorder like depression, bring character strengths into the assessment, the exploration of issues, and the treatment planning.</p>
-<p><strong>2. Spot Any Category of Character Strengths in Others</strong></p>
-<p>There are many lenses through which to view character strengths: signature strengths, lower character strengths, happiness strengths, achievement strengths, phasic strengths, and so on. </p>
+<p>The pushback has grown well past the phone in a student’s pocket to the device the school itself hands out. In June 2026, the Los Angeles Unified School District—the nation’s second largest—<a href="https://abcnews.com/GMA/News/la-school-district-approves-new-screen-time-limits/story?id=134161969&amp;utm">approved new guidelines</a> limiting screen time on district-issued devices, including a full ban for its youngest grades, with phased implementation beginning this week. </p>
 
-<p>In a field experiment, 255 managers were randomly assigned to a strengths-spotting intervention focused either on employees’ signature strengths or on their lesser strengths. At the one-month follow-up, both interventions contributed positively to manager coaching behavior. This study showed that training in character strengths-spotting can be a useful tool for developing coaching behavior regardless of whether the focus is on signature strengths or lower strengths (Tobias et al., 2024). <br><br><em>Why is this striking?</em> Strengths-spotting is often the first line of training/education that I offer students and other learners; therefore, strengths-spotting being a viable tool is not a surprise. What is interesting is the reminder that spotting any of an individual’s character strengths—whether high or low in their character strengths profile—can be beneficial.</p>
+<p>The psychological argument for all of this makes perfect sense. Attention is finite. Devices can impose a cognitive cost even when not actively used: just the thought of a phone across the room can create a mental pull toward what might be happening elsewhere.</p>
+<p>And public opinion largely supports these moves. In a <a href="https://www.pewresearch.org/short-reads/2026/07/29/more-americans-now-support-than-oppose-all-day-school-cellphone-bans/">Pew Research Center survey</a> conducted in late May and early June 2026, 77 percent of U.S. adults supported banning middle and high school students from using cellphones during class—a figure that has risen for the second consecutive year—while 48 percent supported all-day bans, up from 36 percent in 2024. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p><em>Practical strategy</em>: When you see a character strength in someone at work, call it out and explain the behavior connected to the strength.</p>
-<p><strong>3. Character Strengths Are Changeable, But There’s Far More We Don’t Know</strong></p>
-<p>A group of Spanish researchers wanted to know how changeable character strengths were and how common it was for the interventions to boost well-being. Their study examined 21 systematic reviews and synthesized 162 randomized-controlled studies (over 30,000 people). </p>
+  </div>
 
-<p>Due to the strict, rigorous study-criteria, only 15 of the 24 character strengths could be examined from the lens of interventions. The results showed that 2/3 of the studies successfully increased the character strength being targeted and 63 percent improved well-being. </p>
-<p>The character strengths with the strongest impact with interventions were kindness, humor, hope, perspective, and gratitude. Training in kindness (mainly self-compassion), love, and perspective (mainly mindfulness-based) produced the strongest gains in character strengths (Cebolla et al., 2025). </p>
+<h2>Kids Are Using AI, Not Waiting for Us to Figure Out if They Should</h2>
+<p>When it comes to AI, kids aren’t waiting for permission. <a href="https://www.commonsensemedia.org/research/a-comprehensive-report-on-teens-tweens-and-ai">Common Sense Media’s 2026 census</a> of more than 1,200 U.S. children and teens ages 9 to 17 found that 86 percent had used or interacted with generative AI, and 24 percent did so daily. Among young people who use AI, 85 percent reported using it for schoolwork, with use especially prevalent among older teens. That makes AI an ordinary feature of many students’ academic lives. </p>
 
+<p>The defining trend isn’t that kids are using AI—it’s that they’re using it with almost no instruction on how to use it wisely. Three-quarters of students say their school has discussed what they can and cannot use AI for, but just over half have been taught how to use it safely. Whatever rules a school hasn’t set, students are quietly writing for themselves.</p>
 
-<p><em>Why is this striking?</em> The first-class scientific rigor was so strong that many character strengths (which have good, effective interventions) were excluded from the analysis. There is a callout here to the fields of psychology and positive psychology in that we need many more randomized-controlled studies to examine what is most effective. We cannot simply assume that something is effective because it seems to be.</p>
+<p>The more important question isn’t whether a student uses AI, but whether they use it as a scaffold or a substitute for learning. A scaffold can help a student brainstorm questions, organize an outline, or identify gaps in understanding while leaving the student responsible for the intellectual work. A substitute bypasses that work entirely—and with it, the practice of planning, working memory, cognitive flexibility, and argument-building.</p>
 
-<p><em>Practical strategy</em>: Consider one of the 24 character strengths you would like to improve. Chances are you can boost it, especially if you target one of the following: perspective, kindness, hope, humor, gratitude, love, self-regulation, spirituality, or forgiveness.</p>
-<p><strong>4. Love the Nudge</strong></p>
-<p>An interesting study (Deges et al., 2024) used semi-structured interviews to explore employees’ experiences of a signature strength, behavioral nudging intervention in the workplace. Nudges are low-cost environmental interventions that guide behavior and do not restrict choices we make. They often involve visual cues or creating new defaults and, in a workplace, aim to convert employees' mindful attention into emotion-driven behavioral change. </p>
+<p>This distinction matters especially during childhood and adolescence, when executive functions are still developing. A <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1415782/full">2024 study published in <em>Frontiers in Artificial Intelligence</em></a> found that adolescents reporting greater executive-function challenges tended to see generative AI as more useful for schoolwork, especially for completing assignments. </p>
 
 
 
   
 
 
-<p>Three themes emerged in the study: </p>
-<ul>
-<li>Nudges are key to converting strengths <em>awareness</em> into behavior change.</li>
-<li>The active application of signature strengths depends on personal relevance.</li>
-<li>Nudges can trigger a range of positive emotions.</li>
-</ul>
-<p><em>Why is this striking?</em> Labeling is powerful. Labeling interventions can create positive change. Practitioners of character strengths will respond here saying they “always” offer nudges to clients and students, they just never used that term. True, and having a label (i.e., nudge) and an emphasis (i.e., behavioral) and a framework (i.e., small nudges to enhance character strengths actions) can make all the difference.</p>
+<p>That finding doesn’t mean AI is harmful, and it doesn’t show that AI use causes executive-function difficulties. What it does suggest is that students who find planning, organizing, or getting started especially difficult may be particularly drawn to a tool that reduces those demands. With the right guidance and instruction, AI can help many students enhance their learning. Without those supports, it can make it easier to skip the productive struggle through which learning actually happens.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<p><em>Practical strategy</em>: Set up positive nudges at work. For example, create a cue on your desktop to remind you to express gratitude (i.e., a screen-saver, an image, a video link). Cue your humility (i.e., sticky note that says “Listen first” as your desk). Program a mindfulness bell to sound intermittently on your computer—when it sounds, you pause, take two breaths, and ask yourself which character strength you might use in that moment.</p>
+  </div>
 
-<p><strong>5. Underusing Our Strengths is Worse Than Overusing Them</strong></p>
-<p>In one final study (on which I was a co-author), over 300 subjects took a new test, the Golden Mean Inventory—which measures the overuse, underuse, and optimal use of strengths—along with measures of depression, anxiety, psychotic symptoms, alcohol use, and suicidal behaviors. The results showed a general pattern of negative associations between character strengths and symptoms across problems. While an imbalance of strengths, as well as overuse and underuse patterns, predicted psychological problems, it was the underuse of character strengths that was a consistent indicator of symptoms (Parente et al., 2026). </p>
+<h2>AI Becomes a Friend—and the Youngest Kids Trust It Most</h2>
+<p>Much of the public conversation has focused on whether students will use AI to do academic work for them. But for some young people, AI is no longer just a homework tool. It has become a social and emotional one too.</p>
+<p>In a nationally representative <a href="https://www.commonsensemedia.org/research/talk-trust-and-trade-offs-how-and-why-teens-use-ai-companions">2025 survey of teens</a> ages 13 to 17, Common Sense Media found that 72 percent had used an AI companion—a chatbot designed for conversation, emotional connection, or relationship-like interaction—at least once. Among those who had, about one in three had chosen to discuss something important or serious with an AI companion rather than a real person. </p>
 
-<p><em>Why is this striking?</em> While strengths overuse is provocative and novel to many people, the underuse of strengths remains a central message in the science of character strengths. This means we can often <em>use </em>more of a strength in a situation or we could afford to manage the strength better (i.e., optimal use). While I’ve been arguing for 17 years that it is likely a bigger problem to underuse (in contrast to overuse) a strength, there is now strong data to support this.</p>
+<p>Concerningly, younger teens trust AI companions significantly more than older teens do. Twenty-seven percent of 13- and 14-year-olds said they trusted advice from an AI companion, compared with 20 percent of 15- to 17-year-olds. The children with the least experience—and the fewest years of calibration or education behind them—are extending the most trust. That is exactly backward from how<a href="https://doi.org/10.1093/cdpers/aadaf009"> trust is supposed to develop</a>. </p>
 
-<p><em>Practical strategy</em>: Identify the strengths you are vulnerable to underusing. Consider the context of your underuse—is it work, school, social, relational, or intrapersonal? Name one action you might take to explore or boost that underused strength in that context.</p>
+<p>The stakes become clearer when you consider what happens when a struggling young person turns to one of these systems. A <a href="https://www.commonsensemedia.org/press-releases/common-sense-media-finds-major-ai-chatbots-unsafe-for-teen-mental-health-support">2025 risk assessment </a>by Common Sense Media and Stanford Medicine’s Brainstorm Lab for Mental Health Innovation found that leading AI chatbots presented an unacceptable level of risk for teen mental health support—including failures to recognize indirect signs of distress and a tendency to keep the conversation going when a young person needed to be directed toward human help.</p>
+
+<h2>The Skills No Policy Can Replace</h2>
+<p>The rules, bans, and restrictions students will find when they walk through the door this fall may address real problems. But they will not, by themselves, build critical thinking, calibrated judgment, relationship skills, or the other capacities students desperately need in a tech- and AI-infused world. </p>
+
+<p>Attention has to be practiced. Thinking has to be done. Trust has to be earned and tested through real-world experience. Relationships have to be built through the friction and repair that no chatbot will ever provide. Understanding how to use digital and AI systems needs to be taught.</p>
+<p>That hard work is still up to humans.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/what-matters-most/202608/5-surprising-studies-on-character-strengths" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/raising-humans-in-a-digital-world/202608/new-rules-for-back-to-school-2026-now-comes-the-hard" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/what-matters-most/202608/5-surprising-studies-on-character-strengths</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/what-matters-most/202608/5-surprising-studies-on-character-strengths</guid>
-            <dc:creator><![CDATA[Ryan M. Niemiec Psy.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/raising-humans-in-a-digital-world/202608/new-rules-for-back-to-school-2026-now-comes-the-hard</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/raising-humans-in-a-digital-world/202608/new-rules-for-back-to-school-2026-now-comes-the-hard</guid>
+            <dc:creator><![CDATA[Diana E. Graber M.A.]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-08/surprised_woman.png.jpg?itok=LeMQC9i2" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-08/pexels-boom-12716111.jpg?itok=KpylwxJr" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Finding Hope in the Face of a Child's Eating Disorder]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/Headshot_1-removebg-preview.jpg?itok=ST9_TWos" alt="Ankita Guchait MBPsS" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Eating Disorders</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Finding Hope in the Face of a Child's Eating Disorder</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Book review of "My Child Has an Eating Disorder."</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[What Your Therapist May Not Even Know About Therapy]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/unnamed-1.jpg?itok=vfX2si-L" alt="Sam Louie MA, LMHC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Your Therapist May Not Even Know About Therapy</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The healing of making a distinction between “there and then” and “here and now.”</h2><p style="font-size:0.9em;color:#666;">Posted August 10, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Eating disorders affect people of all body sizes, ages, and genders.</li><li style="margin-bottom:6px;">Parents often notice behavioural and emotional changes before physical signs appear.</li><li style="margin-bottom:6px;">Family support can play an important role in treatment and recovery.</li><li style="margin-bottom:6px;">Recovery is possible, though it rarely follows a straight or predictable path.</li>
+              <li style="margin-bottom:6px;">Therapy can be transformative by exploring what's happening between client and therapist in-session.</li><li style="margin-bottom:6px;">Healing often occurs through present-moment emotional experiences, not just past analysis.</li><li style="margin-bottom:6px;">Therapists acknowledging their role in the dynamic can deepen and enrich the healing process.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/pexels-ekrulila-20646145.jpg?itok=yHdkq3pM" width="320" height="278" data-insert-type="image" title="Gül Işık / Pexels" alt="Gül Işık / Pexels"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Gül Işık / Pexels</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/laura-chouette-mipcvhpclqq-unsplash.jpg?itok=HV_toboP" width="320" height="480" data-insert-type="image" title="Laura Chouette / Unsplash" alt="Laura Chouette / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Laura Chouette / Unsplash</div>
 </div>
 </div>
 </div>
-<p>When a child develops an eating disorder, parents are often left feeling frightened, confused, and overwhelmed. Questions quickly arise: <em>What is happening? How serious is this? What should I do?</em></p>
-<p>In <a href="https://www.bloomsbury.com/us/my-child-has-an-eating-disorder-9798216377030/"><em>My Child Has an Eating Disorder: An Essential Guide for Parents of Kids, Teens, and Adults</em></a>, Alli Spotts-De Lazzer and Jenny Langley aim to answer these questions with a combination of clinical expertise, lived experience, and practical guidance. Drawing on their backgrounds in treatment and recovery support, the authors provide an accessible resource for families navigating one of the most challenging situations a parent can face.</p>
+<p>This isn’t a knock on therapists. It took me a number of years to become more informed about this myself, to the point of intentionally incorporating it into my own practice. What I’m referring to is the ability to discuss the therapeutic relationship and everything occurring in the room (or in a video session).</p>
 
-<p>While the book offers comprehensive information about eating disorders, its greatest strength lies in recognising that eating disorders affect entire families, not just the individual experiencing the illness.</p>
-<h2>Eating Disorders Are About More Than Food</h2>
-<p>One of the most important messages throughout the book is that eating disorders are complex psychiatric illnesses, rather than lifestyle choices or phases.</p>
+<p>Typically, when we think about therapy, we believe it’s about talking with our therapist about the issues we’re having. And while that’s certainly true, it’s also important to pay attention to how it’s being done. When clients start therapy with me, I make it very clear that there’s a distinction between “there and then” and “here and now.” “There and then” is about the events, issues, relationships, and behaviors that happened in the past. “Here and now” is about the emotions, sensations, thoughts, and feelings that are coming up in the present moment.</p>
 
-<p>The authors explain a range of eating disorder presentations, including anorexia nervosa, bulimia nervosa, binge eating disorder, avoidant/restrictive food intake disorder (ARFID), and other specified feeding and eating disorders (OSFED). They also challenge common misconceptions, including the belief that eating disorders are simply about wanting to be thin.</p>
+<p>Often, therapy starts and ends with talking about the issues and feelings that occur outside the therapy office. We talk about the difficult relationship, the addiction, the trauma, arguments with partners, the shame, or whatever else brought someone into therapy. But there’s another aspect of therapy that can be incredibly vibrant, rich, and healing if we’re willing to bring it into the session.</p>
 
-<p>Instead, the book presents eating disorders as conditions shaped by biological, psychological, social, and environmental factors. This broader perspective encourages families to move beyond blame and towards understanding.</p>
-<h2>Why Parents Often Feel Like They No Longer Recognise Their Child</h2>
-<p>One particularly powerful section addresses a concern many caregivers experience: feeling as though their child has changed completely.</p>
+<p>With the popularity of mindfulness and somatic awareness, thankfully this approach is finding its way into therapy. Clients are encouraged to become more attuned to the physical sensations, emotions, and thoughts that come up within the session. Our thoughts, feelings, emotions, and physical sensations can fluctuate from moment to moment, and a therapist skilled in this area will periodically slow things down and ask about what they’re noticing.</p>
 
-<p>The authors explain how eating disorders can influence behaviour, thinking, emotions, and relationships. Parents may see increased secrecy, irritability, withdrawal, or behaviours that seem entirely out of character. Several lived-experience contributors describe how the eating disorder voice often became stronger than their own intentions, leading them to say or do things they later regretted.</p>
+<p>For example, a client might tell me they’re angry about something, but I notice they have an awkward smile on their face. I might say, “When you said you were angry, I noticed you had an awkward smile on your face. Can you tell me more about that?”</p>
+<p>Or, after a client shares something particularly vulnerable with me, I might ask, “After sharing something so personal with me, can you tell me what you’re noticing in your body right now?”</p>
 
-<p>Understanding this distinction can help families respond with compassion while continuing to seek appropriate support.</p>
-<h2>Challenging the Stereotypes</h2>
-<p>The book repeatedly highlights that eating disorders do not fit a single image.</p>
-<p>Many people still associate eating disorders with thin, adolescent girls. However, the authors emphasise that eating disorders affect people of different ages, genders, body sizes, and backgrounds. They discuss lesser-known presentations, including ARFID, as well as the possibility that one diagnosis may change into another over time.</p>
+<p>Sometimes I might make a statement like, “You can feel good receiving compliments from your friends,” and then ask, “When I said that, what did you notice come up for you?” It could be a bodily sensation, a feeling, a memory, a thought, or even a fantasy. There’s no right or wrong answer. The point is to guide clients in becoming curious and attuned to what’s happening in the present moment.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
 
-<p>This reminder is important because stereotypes can delay recognition and treatment. Some individuals may struggle for years before receiving appropriate support because their experiences do not match common assumptions.</p>
-<h2>The Importance of Supporting Parents Too</h2>
-<p>A theme running throughout the book is that recovery is not solely an individual process.</p>
+  </div>
+
+<p>But there’s another area of the “here and now” that’s worth checking in with, and it’s probably the riskiest of all: the therapeutic relationship itself. In other words, what happens between the therapist and client is also part of the therapy. If I notice that a client might be irritated with me, I may invite them to share it. “I noticed some irritation when I said that. What’s it like to be irritated with me?” Or maybe I notice what might be fear of judgment or shame. I might ask, “I’m wondering if there might be some fear of being judged by me coming up for you. What’s it like to feel that way with me?”</p>
 
 
-<p>Parents and caregivers are encouraged to seek support, attend support groups, educate themselves about eating disorders, and examine their own beliefs about food, weight, and body image. The authors note that many people with eating disorders feel reassured when the adults around them are also doing their own work.</p>
+<p>These can be uncomfortable questions, and they can be risky if it’s not handled gently and from a position of curiosity. Because now I’m no longer just the therapist helping someone process something that happened somewhere else. I’m acknowledging that I’m part of what’s happening right now. That can be a vulnerable place for both the client and the therapist.</p>
 
-<p>The book includes reflections from caregivers who describe feelings of guilt, fear, anger, isolation, and uncertainty. For many readers, these stories may be particularly validating. They reinforce an important message: needing support does not make someone a bad parent. Caring for a loved one with an eating disorder can be emotionally exhausting, and caregivers deserve support too.</p>
+<p>It takes a more seasoned clinician to be willing to recognize and verbalize how they are a part of therapy, as opposed to simply being someone who “does” therapy. It requires a therapist to be curious about what is happening between the two of you, even when what is happening might be uncomfortable. A client may feel irritated with me, feel misunderstood, disagree with something I’ve said, worry that I’m judging them, or feel embarrassed about something they’ve shared and suddenly become aware of what they imagine I’m thinking about them. Rather than moving past those moments, I now slow down and explore those possibilities with them.</p>
 
 
 
   
 
 
-<h2>Recovery Is Possible, Even When the Path Is Unclear</h2>
-<p>Perhaps the most hopeful aspect of the book is its discussion of recovery.</p>
-<p>Rather than offering unrealistic promises, the authors acknowledge the uncertainty that often accompanies healing. Recovery timelines vary considerably, and there is no simple formula that guarantees success. Yet throughout the book there is a consistent emphasis on hope.</p>
+<p>What if a client could say, “I’m angry with you,” and instead of the therapist becoming defensive, the therapist became curious? What if a client could admit, “I feel ashamed telling you this,” and instead of experiencing judgment, they experienced compassion? What if a client could disagree with their therapist and discover that disagreement doesn’t mean the relationship is going to fall apart?</p>
 
-<p>The authors describe recovery as more than the absence of symptoms. It involves developing a healthier relationship with food, exercise, and one's body, while building a meaningful and fulfilling life beyond the eating disorder.</p>
-<p>For families who may feel discouraged by setbacks or slow progress, this message is both realistic and reassuring.</p>
+<p>Those moments can become a corrective emotional experience. And that’s an important distinction. Healing doesn’t always happen because we intellectually understand why we do what we do. Sometimes healing happens because we have a different emotional and embodied experience. We experience something in the room that we may not have experienced in other relationships. We learn that we can be angry and still be accepted, that we can be vulnerable and not be judged, that we can disagree and remain connected, and that we can show the parts of ourselves we’re ashamed of and discover that they don’t make us unworthy of connection.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
 
-<h2>What Parents Can Take Away</h2>
-<p>Several practical lessons stand out from the book:</p>
-<ul>
-<li>Trust your instincts if something feels wrong.</li>
-<li>Learn about eating disorders from credible sources.</li>
-<li>Focus on behaviours and well-being, not weight alone.</li>
-<li>Seek support for yourself as well as your loved one.</li>
-<li>Challenge common myths and stereotypes.</li>
-<li>Remember that recovery is often non-linear.</li>
-<li>Hold on to hope, even when progress feels slow.</li>
-</ul>
+  </div>
 
-<h2>Final Thoughts</h2>
-<p><em>My Child Has an Eating Disorder</em> is more than a guide to diagnoses and treatment options. It is a compassionate resource that helps families understand the emotional realities of living alongside an eating disorder.</p>
-<p>What makes the book particularly valuable is its balance of professional knowledge and lived experience. Rather than presenting recovery as a straightforward journey, it acknowledges uncertainty while offering practical guidance and genuine hope.</p>
-
-<p>For parents, caregivers, and professionals alike, the book serves as a reminder that recovery is not simply about changing eating behaviours. It is also about rebuilding trust, strengthening relationships, and helping individuals reconnect with a life that feels meaningful beyond the eating disorder.</p>
+<p>That’s the beauty of bringing the “here and now” into therapy. Sometimes the most important thing happening in therapy isn’t what happened years ago. Sometimes it’s what is happening between us right now.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-realities-of-refugee-screening/202608/finding-hope-in-the-face-of-a-childs-eating-disorder" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/minority-report/202608/what-your-therapist-may-not-even-know-about-therapy" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-realities-of-refugee-screening/202608/finding-hope-in-the-face-of-a-childs-eating-disorder</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-realities-of-refugee-screening/202608/finding-hope-in-the-face-of-a-childs-eating-disorder</guid>
-            <dc:creator><![CDATA[Ankita Guchait MBPsS]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/minority-report/202608/what-your-therapist-may-not-even-know-about-therapy</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/minority-report/202608/what-your-therapist-may-not-even-know-about-therapy</guid>
+            <dc:creator><![CDATA[Minority Report]]></dc:creator>
             <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-ekrulila-20646145.jpg?itok=Sqt1u6kD" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/laura-chouette-mipcvhpclqq-unsplash.jpg?h=c96757a6&amp;itok=zZso7-ba" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
