@@ -4,135 +4,79 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 02:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 13:11:16 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 02:00:48 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 13:11:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[AI Therapists Are Coming (for the Next Generation)]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-10/matt_bishop.png.jpg?itok=05hXhCU2" alt="Matt Bishop Ed.D., LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Therapists Are Coming (for the Next Generation)</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Those growing up with AI will have different opinions about it.</h2><p style="font-size:0.9em;color:#666;">Posted August 12, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How Much Psychology Can You Really Trust?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-08/richard_brown__1_.png.jpg?itok=3UNM0lN4" alt="Richard Brown PhD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bias</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Much Psychology Can You Really Trust?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Popular theories often become facts before the evidence deserves our trust.</h2><p style="font-size:0.9em;color:#666;">Posted August 13, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">What feels artificial or uncomfortable to one generation may feel completely natural to the next.</li><li style="margin-bottom:6px;">Children growing up with AI will relate to it differently from adults who remember life before it.</li><li style="margin-bottom:6px;">Adults under 30 are already nearly twice as likely to feel comfortable working with an AI therapist.</li><li style="margin-bottom:6px;">The future of psychotherapy will likely involve combinations of human clinicians and AI.</li>
+              <li style="margin-bottom:6px;">Psychology has faced serious criticism over the reliability, replicability and interpretation of its research.</li><li style="margin-bottom:6px;">Peer review, publication, and repeated citations cannot compensate for weak underlying methods.</li><li style="margin-bottom:6px;">Scepticism allows us to question psychological claims without abandoning the pursuit of understanding.</li>
             </ul>
           </div>
-                    <p>On July 16, 2010, Instagram co-founder Kevin Systrom <a href="https://www.instagram.com/p/C/">uploaded the first photograph</a> to the app that would soon become Instagram. The picture showed a stray dog in Mexico alongside the foot of Systrom’s then-girlfriend and now-wife. Systrom applied a grainy, high-contrast filter called X-Pro II.</p>
-<p>Instagram officially launched on October 6th, 2010 and became an almost immediate success. But the filters were divisive.</p>
+                    <p>If you are reading this page, you presumably believe that psychology has something useful to say about how people think and behave.</p>
+<p>I do too.</p>
+<p>But we are all also susceptible to psychology’s most seductive products: tidy theories that give memorable names to complicated parts of being human.</p>
+<p>Most of us cannot trace every online claim through the academic literature. Even if we tried, so much is now published that it is increasingly possible to find <em>some</em> evidence for almost any plausible belief. The question we need to ask is whether the evidence deserves the weight being placed upon it.</p>
 
-<p>I was in my early twenties at the time, and many people my age found filters strange and rarely used them. The filters seemed artificial, silly, and slightly ridiculous.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/thelandofmatt_candid_editorial_photograph_of_a_diverse_group__34b58d99-fee1-40b2-9760-7628a7fbbf6c_1.png.jpg?itok=jc6VDdV2" width="320" height="179" data-insert-type="image" alt="What feels artificial to one generation may feel perfectly natural to the next." title="AI Generated"></div>
-<div class="caption">What feels artificial to one generation may feel perfectly natural to the next.</div>
-<div class="insertArea--origin subtext">Source: AI Generated</div>
-</div>
-</div>
-</div>
-<p>But you know who lived them? Kids. They happily put sparkly stars on their cheeks, dog ears on their heads, and artificial light leaks across their photographs. A filtered image did not feel fake to them in quite the same way.</p>
-<p>As that cohort has grown up, they have taken their filters with them and now you will rarely see an Instagram photograph from a 20-something without a filter.</p>
+<p>“Research shows” encourages us to imagine large representative samples, careful experiments, independent replications and researchers following the evidence wherever it leads—but rarely is this the level of evidence supporting a popular claim.</p>
+<p>Sometimes the evidence is based on a handful of undergraduates who completed an artificial computer task, or perhaps an online questionnaire answered by an uncertain blend of humans and bots, or five colleagues who were interviewed before their answers became themes bearing an uncanny resemblance to the researcher’s original theory. Perhaps the paper was then reviewed by a couple of academics, published in a journal and then plastered across social media. </p>
 
-<p>This example is relevant when we try to predict how people will relate to artificial intelligence in the years to come.</p>
-<h2>Immigrants vs. Natives</h2>
-<p>People who live through a society changing technology usually relate to it differently from those who grow up with it. The terms associated with this distinction are “digital immigrants” and “digital natives.”</p>
+<p>By the time it reaches the public, an ill-formed theory or fragile finding can easily become perceived an established psychological fact.</p>
+<h2>When Catchy Ideas Become Facts</h2>
+<p>Consider the five “love languages.” Beneath that popular notion lies a sensible observation: People differ in how they prefer to give and receive affection. The ideas that everyone has a primary love language, that there are precisely five of them, and that relationships improve when partners speak one another’s language, are add-ons—and a recent <a href="https://journals.sagepub.com/doi/10.1177/09637214231217663">review of the evidence</a> found little support for these claims. People generally value all five forms of affection, studies have not consistently recovered five categories, and matching partners by a supposed primary language does not reliably predict greater relationship satisfaction. But an ordinary truth had already become a typology, a genre of quizzes, and a psychological system promoted in bestselling books.</p>
 
-<p>Immigrants remember the old country.</p>
-<p>For children growing up today, AI will not feel foreign and it won't be mind-blowing. It will simply be what they have always known.</p>
-<p>A kid born in 2023 will spend childhood talking to AI tutors, asking AI assistants questions, creating stories with AI characters, and receiving personalized guidance from systems that remember previous conversations. By the time they are a teenager, speaking to a nonhuman intelligence may feel no more remarkable than sending a text message feels to us.</p>
+<p>The "marshmallow test" followed a similar course. A study found that a child’s willingness to resist one marshmallow in return for two later was an indicator of the self-control required for future success. Yet a larger <a href="https://journals.sagepub.com/doi/10.1177/0956797618761661">conceptual replication</a> found a substantially smaller association, reduced by two-thirds after accounting for family background, early cognitive ability and the home environment.</p>
 
-<p>So I remain immensely skeptical when someone confidently declares that people will “never” accept AI-generated music, AI companionship, or AI psychotherapy. I think predictions like these are incredibly short sighted.</p>
-<h2>Current Perspectives</h2>
-<p>At the moment, most Americans remain uncomfortable with the idea of AI therapy. <a href="https://yougov.com/en-us/articles/54755-americans-are-increasingly-concerned-about-ai-exacerbating-mental-health-problems">A 2026 YouGov survey found</a>: “Two-thirds (66%) of Americans are uncomfortable with the idea of working with an AI therapist if they were seeking therapy rather than having an in-person visit, including 49% who say they would be very uncomfortable. 23% say they would be very (8%) or somewhat (16%) comfortable working with an AI therapist.”</p>
+<p>The original test may have measured something, but it did not necessarily reveal a four-year-old’s destiny.</p>
+<p>It would be comforting to blame pop psychology: decent research mangled by marketing departments, influencers and airport books. But weak popular theories point towards deeper problems with psychology itself—its methods, incentives and confidence in its status as a science.</p>
 
-<p>If we stopped there, the future of AI therapy is still incredibly influential; imagine if 1/3rd of the therapy market disappeared in favor of AI chatbots. But the generational difference is more revealing: “Adults under 30 are about twice as likely as older Americans to say they would be comfortable working with an AI therapist (37% vs. 20%).”</p>
+<h2>What Happens Under the Hood</h2>
+<p>Once an idea catches on, later researchers cite its claims, adopt its language, reuse its measures and investigate increasingly specific extensions. Qualifications disappear as one paper cites another. Eventually, the quantity of research creates the impression that the underlying theory has been repeatedly confirmed.</p>
 
-<p>That generational gap is already there, and today’s adults under 30 did not grow up with anything close to the AI that children will encounter over the next decade.</p>
-<p>When we consider the possibility of AI therapists, the question is not whether a 55-year-old today wants to replace her therapist with ChatGPT. The question is whether a 16-year-old in 2039, who has interacted with intelligent machines since preschool, will find it at all abnormal talking to one about loneliness, body image, sexuality, family conflict, or low self-worth.</p>
+<p>But a thousand examples of weak evidence do not add up to strong evidence. They may only demonstrate that many researchers boarded the same bandwagon.</p>
+<p>Peer review offers less protection than many assume. It can sometimes improve a paper, but it does not reproduce the findings, audit the data or establish that the interpretation is correct. A <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3001856/">meta-analysis of reviewer agreement</a> found that reviewers frequently reach different judgements about the same manuscripts. The system relies on mass unpaid labour while the volume of papers expands. Editors can struggle to recruit reviewers, so “expert reviewed” may mean assessed by the last two academics—out of a list of 100—who agreed to spend an unpaid afternoon reviewing a paper tangentially related to something they co-authored 10 years ago because they happened not to be too busy that day. </p>
 
-<p>I suspect most will not.</p>
-<h2>The Future Will Not Ask Our Permission</h2>
-<p>The mistake is assuming that the preferences of people alive today will remain stable while the technology changes around them.</p>
-<p>People born into an AI-saturated world will develop norms, habits, and emotional expectations that may seem foreign to those of us who arrived earlier. I could see a world where AI therapists are so effective that the public may consider it borderline malpractice for a human psychotherapist not to use an AI assistant in conjunction. I could see a future where human therapists will simply be the conduit necessary for people to feel the person-to-person touchpoint.</p>
+<p>The replication crisis has challenged psychology’s credibility. In one influential attempt to reproduce 100 published studies, replication effects were on average around half the original size. Only <a href="https://pubmed.ncbi.nlm.nih.gov/26315443/">36 percent of replications</a> produced statistically significant results, compared with 97 percent of the originals. This did not prove that 64 percent of psychology is false, but it did demonstrate that publication provides much less assurance than its assumed authority might imply.</p>
 
-<p>The important divide may eventually be less between “human therapy” and “AI therapy” than between different combinations of the two.</p>
-<p>I do not know whether this future will be better or healthier. Technologies have a way of solving one problem while creating another.</p>
-<p>But I am increasingly confident that it is coming.</p>
+<p>The crisis has prompted many to endorse valuable reforms, including preregistration, open materials and larger collaborations. However, the uneven adoption of these steps has also illuminated the vast differences in rigour across the discipline.</p>
+<p>Academic research is an industry. Researchers need publications, universities need “impact,” journals need content, and governments, companies, campaigners and media outlets need "evidence" for their claims. Weak evidence can reach millions wearing the authority of science.</p>
 
 
 
   
 
 
-<p>I think it would be a mistake to confuse our current discomfort with the idea of interacting with AI therapists for an enduring opinion by culture. It may simply be the discomfort of immigrants standing at the border of a country where the next generation will feel entirely at home.</p>
+<h2>The Bias Built Into the System</h2>
+<p>Researchers are not neutral evidence-processing machines. They have careers, preferred theories, political commitments, and social and moral beliefs. Fashionable questions attract support and funding, while some unfashionable questions may never be asked. Researchers can become invested in demonstrating a particular form of injustice or social harm, while findings that complicate that preferred account receive less enthusiastic scrutiny.</p>
+
+<p>One systematic analysis found that social-psychology abstracts <a href="https://www.socialjudgments.com/docs/Eitan_et_al_2018_Politics_in_Science.pdf">described conservatives more negatively</a> and treated conservatism as requiring explanation more often than liberalism. The findings are not necessarily false but their pursuit may shows how disciplinary assumptions influence what becomes a research problem.</p>
+
+<p>Activism begins with a desired destination. Research should begin with a question whose answer is permitted to disappoint us. The two can inform one another, but they are not the same activity.</p>
+<h2>Psychology Belongs to Everyone</h2>
+<p>Psychology did not begin with psychology departments. Observations about jealousy, attraction, conformity, status and self-deception survive in histories, proverbs, novels and songs. Shakespeare managed some useful insights into human behavior without distributing an online questionnaire or conducting a qualitative analysis of "data" from his students’ semi-structured interviews.</p>
+
+<p>Readers can't be expected to carefully examine the appropriateness of every statistical test, sample, or citation used to support a piece of research. Healthy scepticism requires something simpler: a pause between encountering an attractive explanation and adopting it as truth.</p>
+<p>What did the researchers actually do? Did they observe behaviour or simply ask people to describe themselves? Were the questions likely to encourage a particular response? Could the findings reasonably be interpreted another way? And, most importantly, does the theory illuminate a messy pattern or merely conceal that mess beneath a memorable name?</p>
+
+<p>Psychology is essential because understanding minds and behaviour matters. It is also extraordinarily difficult: People change across situations, misunderstand themselves and respond in different ways to being studied. And, importantly, researchers are almost never impartial.</p>
+<p>We should continue looking for explanations but we should also become more sceptical of researchers who find sweeping ones too easily.</p>
+
+<p>Psychology will deserve greater public trust when it becomes more comfortable to say the unfashionable words, <em>We don’t know.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/depth-and-dopamine/202608/ai-therapists-are-coming-for-the-next-generation" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/understanding-health-behaviors/202608/how-much-psychology-can-you-really-trust" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/depth-and-dopamine/202608/ai-therapists-are-coming-for-the-next-generation</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/depth-and-dopamine/202608/ai-therapists-are-coming-for-the-next-generation</guid>
-            <dc:creator><![CDATA[Matt Bishop Ed.D., LMFT]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/thelandofmatt_conceptual_editorial_collage_connecting_early_s_23c1dcdd-d26c-4d6a-baa2-1fdcf9a71e27_1.png.jpg?itok=XaF-Thgv" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Writing Your Own Fanfiction Is Good for You]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/zubernis-c.jpg?itok=zr1Hku_f" alt="Lynn Zubernis Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Creativity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Writing Your Own Fanfiction Is Good for You</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The controversy over using AI in fanfiction and how that lessens its benefit.</h2><p style="font-size:0.9em;color:#666;">Posted August 12, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Fans have reacted angrily to the use of AI in fanfiction.</li><li style="margin-bottom:6px;">Writing fanfiction has benefits as a form of imaginary play that reduces stress and increases well-being.</li><li style="margin-bottom:6px;">Similar to expressive writing, writing fanfiction can be therapeutic in reducing anxiety and depression.</li><li style="margin-bottom:6px;">Fanfiction is also great practice for writers — but only if you actually write it yourself!</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/deezy_pixabay.jpg?itok=vuxMwu-I" width="320" height="213" data-insert-type="image" title="Deezy/Pixabay" alt="Deezy/Pixabay"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Deezy/Pixabay</div>
-</div>
-</div>
-</div>
-<p>The movies, books and television shows we love are particularly good at engaging our imagination because of their rich narratives and complex characters. When fans become fascinated by their favorite media, they naturally want to extend the story and explore other scenarios for those characters. For many fans, the way to do that is through fanfiction. Created by fans solely for the enjoyment of other fans, fanfiction is part of the "gift economy" of fandom, with writers investing a great deal of time in their stories and then sharing them for free. Thus, the culture of fandom has been one of appreciation instead of critique. </p>
-
-<p>Recently, however, fanfiction writers have been criticized by readers for allegedly using AI to generate stories. In the booming <em>Heated Rivalry</em> fandom, fans recently took to reddit to expose some of those writers, effectively pushing them out of the fan community. Fans posted that knowing some of their favorite fictions were created with AI broke their hearts. Many felt deceived and betrayed because the writers had anti-AI tags on the works but had actually used AI, breaking trust within the fandom community.</p>
-
-<p>The comments focused on the harm to readers, but using AI to write fanfiction also involves a loss for <em>the writer</em>. It means missing out on some of the benefits of writing fanfiction the old fashioned way (not using AI). If you’re a fanfiction writer, or you’ve considered writing some new adventures for your favorite characters, keep in mind that there are benefits of writing fanfiction — but not if you don’t do the actual writing.</p>
-
-<h2>Fanfiction as Imaginary Play</h2>
-<p>First, writing fanfiction is a pleasurable way of engaging with the stories and characters we love. Everyone who consumes fictional media engages their imagination when they do, integrating their own experience, engaging emotionally with the characters, and sometimes fantasizing or daydreaming about interacting with them. Just as the pleasure of reading comes from engaging your imagination and thus participating in the narrative, putting those thoughts and feelings into fanfiction is also a pleasurable way of actively engaging with the story. </p>
-
-<p>Writing fanfiction is something done for fun, not for pay – in other words, it’s a form of leisure, which has benefits in terms of stress reduction and sense of well-being. Writing fanfiction is also a creative process that has been viewed as a form of imaginary play, an extension of the pretend play of our childhoods (Barnes, 2015). Fans often describe writing fanfiction in terms of “playing” with the narrative or the characters, taking inspiration from the writer’s own imagination. Any kind of play can be rejuvenating for adults who are often discouraged from engaging in “just for fun” activities. Finding temporary escape from the stressors of everyday life by immersing yourself in fiction has long been a way of reducing stress and coping with life challenges. Writing a story about your "comfort character" is a great way to do just that.</p>
-
-<h2>Fanfiction as Self-Expression</h2>
-<p>All writing, including fanfiction, is a form of self-expression. Fanfiction has traditionally provided a forum for marginalized voices, since it is not as subject to the constraints of mainstream social norms. This allows fanfiction writers to experiment with gender norms, to explore queerness, or to write about taboo topics. Fanfiction has been considered by some to be transgressive and subversive, a way of talking back to or reinterpreting the original media. Individuals who have not seen themselves or the kind of relationships they hope for represented in media can write their own stories and change that. Writing fanfiction is also a way of making meaning out of a text that is personally important, as well as the thoughts and feelings the media provoked.</p>
-
-<p>Fanfiction has been described as directly connected to the id – a more uncensored and unfettered expression of whatever the writer wishes to explore and convey. While a published work may be more widely read, working with a publisher and editor constrains what the writer can express. Writing fanfiction allows expression of themes that may be therapeutic for the writer to explore. All fictional stories, including fanfiction, create a psychological space in which the writer can make sense of their own emotions with some safe distance by looking at those emotions through the fictional characters. </p>
-
-<p>The fanfiction genre of "hurt/comfort," for example, is quite popular. In these stories, a character is confronted with suffering and trauma, but finds healing through their relationship with another character. In this sense, the research on the psychological benefits of expressive writing can be applied to writing fanfiction as well. James Pennebaker and colleagues found that writing about stressful or traumatic experiences and exploring their emotional impact can lower anxiety and depression symptoms, improve sleep and even lower blood pressure (Gao, 2022 ; Pennebaker &amp; Evans, 2014). But not if you’re not the one doing the writing!</p>
-
-<h2>Fanfiction as Writing Practice</h2>
-<p>Finally, writing fanfiction can also be a rich practice field for individuals who aspire to be writers. The fanfiction norm of having a "beta reader" to edit the story is essentially getting editing services from a more experienced writer without having to pay (or go along with if you don’t agree). Many professional writers got their start writing fanfiction, and credit the supportive community and its constructive critique in helping them hone their craft. The fandom community is a built-in enthusiastic cheering section to encourage the novice writer to persist. There’s nothing like getting a gushing comment on something you wrote yourself — that same comment won’t feel nearly as good if you know it was Claude doing the writing.</p>
-
-
-
-  
-
-
-<p>So write that <em>Heated Rivalry</em> story you’ve been thinking about. But write your own stories, develop your own voice, and share your creation with the community that will appreciate them, imperfections and all.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-science-of-fandom/202608/writing-your-own-fanfiction-is-good-for-you" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-science-of-fandom/202608/writing-your-own-fanfiction-is-good-for-you</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-science-of-fandom/202608/writing-your-own-fanfiction-is-good-for-you</guid>
-            <dc:creator><![CDATA[Lynn Zubernis Ph.D.]]></dc:creator>
-            <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-08/deezy_pixabay.jpg?itok=jz_ylREG" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/understanding-health-behaviors/202608/how-much-psychology-can-you-really-trust</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/understanding-health-behaviors/202608/how-much-psychology-can-you-really-trust</guid>
+            <dc:creator><![CDATA[Richard Brown PhD]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/alicia-christin-gerald-zm4ccbebbp8-unsplash__1_.jpg?h=c49affeb&amp;itok=edtDN-60" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
