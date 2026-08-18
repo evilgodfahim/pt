@@ -4,152 +4,101 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 17:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 18:38:12 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 17:27:22 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 18:38:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What Video Games Can Teach Us About Depression]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/mcwilliamsheadshot-removebg-preview-2.png.jpg?itok=BtXWyrQ5" alt="Douglas McWilliams M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anhedonia</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Video Games Can Teach Us About Depression</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Using video games and other hobbies to track anhedonia.</h2><p style="font-size:0.9em;color:#666;">Posted August 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Can AI Get You a Better Job? Is It Ethical?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-06-15_at_2.24.39_pm.jpg?itok=gesJqGXJ" alt="Bobby Hoffman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can AI Get You a Better Job? Is It Ethical?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Used properly, AI increases the probability of job success. But questions remain.</h2><p style="font-size:0.9em;color:#666;">Posted August 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Hobbies form a personal baseline that can reveal subtle shifts in pleasure that standard screeners miss.</li><li style="margin-bottom:6px;">Anhedonia shows up in actions. Dropping a favorite game may signal underlying depression before sadness.</li><li style="margin-bottom:6px;">Gaming can be a valuable clinical tool. Asking about video games builds rapport and tracks cognitive health.</li>
+              <li style="margin-bottom:6px;">AI doesn't create job opportunities or secure better offers; it improves how you compete for positions.</li><li style="margin-bottom:6px;">You can use AI to research, rehearse, and negotiate, not just to polish a resume or cover letter.</li><li style="margin-bottom:6px;">Some AI tools can be used against you, so pair automation with judgment and be aware of how employers use AI.</li>
             </ul>
           </div>
-                    <blockquote><p>"What fun games have you been playing lately?"</p>
-</blockquote>
-<p>I ask this question at every visit when I have a patient I know likes to play video games.</p>
-<p>For someone who regularly plays video games, the answer can offer a surprising amount of information about how much pleasure, interest, and motivation they are capable of experiencing at any given time. A person who normally plays video games on a daily basis may speak about how excited they are for the brand-new role-playing game (RPG) they started last week. On the flip side, they could indicate they have not touched their console in a month, that they bought that RPG and never actually started it, or that they find themselves switching from one game to another without finding anything they like.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/get_a_job.jpg?itok=3a2UQKwh" width="320" height="273" data-insert-type="image" title="Google Gemini/AI image generator" alt="Google Gemini/AI image generator"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Google Gemini/AI image generator</div>
+</div>
+</div>
+</div>
+<p>Will AI get you a better job? No, not by itself. Expecting AI to hand you a job is like expecting a calculator to put money in your bank account: It's simply not how the tool works. What AI can do is give you an edge in your job search, improving your odds of landing the job you want, provided you know how to use it and what to emphasize along the way. MIT tracked roughly 500,000 job seekers on a global freelance platform and found that those who used AI to help write their resumes were 8 percent more likely to be hired, received 7.8 percent more job offers, and earned 8.4 percent higher wages than applicants who got no such help (Wiles et al., 2025). The numbers aren't debatable. Using AI in your job search is not a nice-to-have; it's essential for success.</p>
 
-<p>In isolation, these changes in behavior may be normal. People come and go from hobbies, and their interests shift over time. However, in the right context, these behaviors can be useful clues indicating a problem is brewing. They may be an indication that anhedonia is present, warranting further evaluation.</p>
+<h2>Presenting your credentials</h2>
+<p>Most resumes are written for humans but are first read by applicant tracking systems. Jobscan's annual audit of Fortune 500 career pages found that 489 of the 500 companies in 2025 used a screening system, a figure that has held between 97 percent and 99 percent every year since 2018 (Purcell, 2025). A resume that reads well but scans poorly will likely be rejected and never get the chance to impress anyone. These systems now go beyond keyword matching, evaluating resumes holistically, including how your self-portrayal matches company culture. LLMs synthesize content, infer intent, and make contextual judgments based on subliminal messages (Mao et al., 2023). AI benefits the screening process because it can quickly translate real experience into the language that applicant tracking systems recognize and reward.</p>
 
-<h2>What Is Anhedonia? </h2>
-<p>Anhedonia is the loss or reduction of interest and pleasure in activities that would normally bring enjoyment. It is one of the two core symptoms of depression. Yet, my clinical observations have been that it often gets missed—leading to misdiagnosis or delayed treatment.</p>
-<p>Anhedonia is a symptom that can be harder to recognize than people might expect. Sadness is relatively easy to conceptualize. If someone feels miserable every day, they feel it is abnormal and tend to understand that something is wrong. A reduction in enjoyment can be more subtle, particularly when it develops gradually.</p>
+<p>Like people, AI tends to favor outputs that are familiar. Computer science research has identified the "<em>self-preference bias</em>," which is the tendency of large language models to favor their own generated content. This means screening systems favor resumes drafted with AI assistance over ones written by hand, choosing the AI-polished version up to 82 percent of the time (Xu et al., 2025). While holistic evaluation makes intuitive sense for finding the right hire, it magnifies the bias risk if an LLM systematically favors resumes that reflect its own generative style, reinforcing its own assumptions over time and depleting fairness from the assessment process. As Xu and colleagues noted, "this bias rewards access to specific generative technologies and penalizes those without it, even when applicants are otherwise equally qualified." Polishing your resume with AI means that when an LLM is the evaluator, you are 23 percent to 60 percent more likely to be short-listed than equally qualified applicants submitting human-written resumes.</p>
 
-<p>Anhedonia becomes problematic because it results in behavioral changes that have negative snowballing effects. Someone with anhedonia might stop meeting up with friends. They may stop exercising. The lack of behavioral activation results in fewer outlets for enjoyment and fewer opportunities for socialization, which ultimately makes the condition worse.</p>
+<h2>Identifying opportunities</h2>
+<p>You cannot get a job offer if you can't find the job. Identification gets tricky with non-standard job titles, which vary among companies since there's no standard taxonomy. If your goal is to manage people as an HR generalist, you might need to search HR Manager, People Operations Manager, Talent Acquisition Partner, Employee Experience Lead, or Chief People Officer, among others. Miss one and you might miss the perfect job. AI can search for what you didn't know to look for: roles that match your skills but not your job title, postings buried deep in listings, or openings that fit a lateral move you hadn't considered. Unlike you, AI doesn't get bored, which is more than can be said for most of us by the second or third page of job listings.</p>
 
-<h2>Hobbies as a Baseline</h2>
-<p>With anhedonia, hobbies create an informal but important baseline. If I know that a patient normally plays video games most evenings, I have some idea of what enjoyment looks like for that particular patient. If, several months later, they tell me they have stopped playing entirely, I would want to know why.</p>
+<h2>Acing the interview</h2>
+<p>Mock interviewing is one of the best strategies for acing an interview. Unlike other role-play strategies, AI lets you precisely specify the personality, background knowledge, and attitude of the interviewer. You can structure the interview to test your knowledge, your cultural fit, or any other critical competency. Drop the company's strategic plan into the response criteria and test how your own beliefs align with the organization's. Or let the AI interviewer ask specific technical questions that help you calibrate knowledge gaps. An AI interviewer won't get tired of your answer, won't ask the awkward follow-up a friend is too polite to raise, and won't mock your ridiculous responses at a future gathering. A recent field experiment on AI-assisted recruitment found that candidates who went through a structured AI interview passed their final human interview at a 20-percentage-point higher rate than candidates screened by resume alone (Aka &amp; Palikot, 2025). Why not increase your odds with practice only AI can provide?</p>
 
-<p>Sometimes there is an obvious explanation. They may have had life changes that resulted in shifting commitments, such as increased work demands or a newborn, or they shifted their focus toward other activities, like training for a marathon. In these scenarios, their interests have simply changed.</p>
-<p>If the explanation is ever, "I don't know. Nothing really sounds good," that gets my attention. The shift doesn’t even have to involve stopping altogether. Another manifestation could be wanting to enjoy an activity and discovering that you cannot. A patient might sit down to play every day because it’s part of their routine. However, instead of becoming absorbed in a game, they spend half an hour trying to decide what to play, get easily distracted scrolling on their phone, or start playing and eventually turn the system off out of boredom.</p>
+<h2>Talking to decision makers</h2>
+<p>This is where AI gives you a decisive edge, performing grunt work in seconds that might take you days. Ask it to pull historical salary ranges for your role and region, compare benefit structures across offers, or draft the counteroffer email you keep rewriting in your head at 2 a.m. AI won't negotiate for you at the table, but it will prepare you by boosting your confidence and negotiation swagger, ensuring you walk into the final interview with hard data instead of a clueless grin. AI-supported candidates perform better in later human interviews and earn more offers than unassisted candidates (Aka &amp; Palikot, 2025). Employers are using AI to find you. You should be using it to outmaneuver them.</p>
 
-<p>It is common for gamers to joke about having hundreds of games in their "backlog" without anything to play in the moment. This scenario is usually more about having too many options and simply indecision. When someone who is normally enthusiastic about games suddenly finds that nothing seems appealing, the behavior becomes far more significant.</p>
+<h2>One final note</h2>
+<p>AI hiring tools are not neutral, and job seekers should be aware of negative AI bias. One study tested three LLMs on more than 3 million resume-to-job comparisons and found the models favored white-associated names 85 percent of the time over Black-associated names, favored male names over female names by a wide margin, and never once favored a Black male name over a white male name in any comparison (Wilson &amp; Caliskan, 2024). If a machine is judging you before a person does, it's worth remembering the machine has its own blind spots, none of which you can fix by trying harder. Newer models have endeavored to eliminate stereotypes, but bias mitigation remains an ongoing problem, since removing biased patterns without removing important assessment information is challenging.</p>
 
-
-<p>The same can be said about anticipation. A large part of enjoying a hobby happens before we ever engage in it. Staying attuned to video game news, tracking new releases, and participating in online forums are all part of the hobby. Depression can flatten this anticipatory pleasure and social behavior as well.</p>
-
-<p>I might notice a patient talking about a huge video game release they are excited for, only to realize it has come and gone without them actually playing it. This is particularly relevant right now. One of the biggest video game releases of all time is expected to come out in November of 2026: <em>Grand Theft Auto VI</em>. It is expected to make over $5 billion and sell more than 45 million copies. Without getting into the details of the game, it is safe to say almost every single mental health provider is going to have patients playing it.</p>
-
-
-
-  
-
-
-<p>This is one reason I tend to ask patients about the content of their lives rather than relying exclusively on broad symptomatic questions or screeners. The shift in interest and activity is important and worth paying attention to.</p>
-<p>The activity itself is not particularly important. I would do the same thing if I noticed a patient who is a tennis fanatic suddenly stopped playing tennis. I mention video games specifically because they tend to have a complicated public perception in the mental health community and are overlooked as a useful tool in our patient evaluations. Video games are a good example of this phenomenon because gaming involves several cognitive and behavioral components that can be impacted by depression: motivation to begin, anticipation of reward, sustained interest, concentration, and the ability to experience pleasure once the activity has started.</p>
-
-<p>For a provider, these changes can become useful warning signs. Whether or not we actually have an interest in video games, asking patients who do enjoy them about their hobby opens up a new avenue for clinical assessment and helps build rapport.</p>
+<p>Ultimately, AI provides low-hanging career support. While it won't get you a job, it will sharpen your resume, widen your search, coach your delivery, and arm your negotiation with data, not opinion. Just remember that the math AI uses is not always fair calculation, and the smartest job seekers use AI tools without relying on them for the entire job search process.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/downloadable-content/202608/what-video-games-can-teach-us-about-depression" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/motivate/202608/can-ai-get-you-a-better-job-is-it-ethical" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/downloadable-content/202608/what-video-games-can-teach-us-about-depression</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/downloadable-content/202608/what-video-games-can-teach-us-about-depression</guid>
-            <dc:creator><![CDATA[Douglas McWilliams M.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/motivate/202608/can-ai-get-you-a-better-job-is-it-ethical</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/motivate/202608/can-ai-get-you-a-better-job-is-it-ethical</guid>
+            <dc:creator><![CDATA[Bobby Hoffman Ph.D.]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-artempodrez-7773745.jpg?itok=cDic83o-" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/get_a_job.jpg?itok=gtAARDJK" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[AI, Suicide, and the Wrong End of the Tunnel]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/springer_0.jpg?itok=SLSkociW" alt="Shauna H Springer Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Suicide</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI, Suicide, and the Wrong End of the Tunnel</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What if the greatest suicide risk from AI begins long before the crisis?</h2><p style="font-size:0.9em;color:#666;">Posted August 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Is America Obsessed With the Failure of Mothers?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/Kathleen-Chapin.jpg?itok=LNKYBe71" alt="Katie Chapin LCSW, MCAP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Postpartum Psychosis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is America Obsessed With the Failure of Mothers?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What "Yesteryear" and Lindsay Clancy say about the state of motherhood in America.</h2><p style="font-size:0.9em;color:#666;">Posted August 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Artificial intelligence (AI) may ease loneliness while deepening isolation.</li><li style="margin-bottom:6px;">AI can simulate attachment, but it cannot be attached to you.</li><li style="margin-bottom:6px;">AI can hide your shame, but it cannot heal it.</li>
+              <li style="margin-bottom:6px;">People talk about both "Yesteryear" and Lindsay Clancy in a way that almost relishes in their failures.</li><li style="margin-bottom:6px;">Many women are trying their best to measure up to some “ideal motherhood” that does not exist.</li><li style="margin-bottom:6px;">Mothers should craft their own rules, in collaboration with the people and voices that they cherish the most.</li>
             </ul>
           </div>
-                    <p>Much of the focus of conversations about artificial intelligence (AI) and suicide risk has been about how AI responds when a person is at risk. The specific concern is usually that AI will compound risk by encouraging suicidal behavior. There have been instances where chatbots have even provided information that assists a person in developing a plan for suicide.</p>
+                    <p><em>Warning: This post contains discussion of postpartum psychosis and a case involving child death. There are intentionally no descriptions of the case; however, some readers may choose to avoid this topic altogether. </em></p>
+<p>I am a therapist who has worked with postpartum psychosis in a variety of settings. I do not shy away from difficult topics. So why, when the Lindsay Clancy trial started, did I avoid this case with every fiber of my being? Because it showed me something I simply did not want to confront: America loves to watch mothers fail. </p>
 
-<p>Obviously, we need to address this, but I think we’re missing the potentially greater aspect of risk that comes with using AI. </p>
-<p>Here’s a way to look at this. The questions we’re asking now are focused at the end of the tunnel of despair. As a psychologist who has spent years studying suicide and risk, I’m actually more concerned about what happens upstream. That is, long before someone feels they want to die, how is artificial intimacy changing the way a person relates to real human beings? And what if artificial intimacy becomes preferable to the hard, messy work of developing and maintaining real human relationships?</p>
+<h2>The Cultural Obsession With Mothers' Failure</h2>
+<p>This thought came to me when I was on a conference call with Postpartum Support International (PSI). Somehow we managed not to talk about Clancy—instead, we talked about <a href="https://www.goodreads.com/en/book/show/238226942-yesteryear"><em>Yesteryear</em></a>. This has been the book of the summer. So many people I know have read it. I devoured it in two nights of breastfeeding my newborn. </p>
 
-<p>In my suicide prevention-focused work, a core phrase I’ve repeated for many years is “When we connect, we survive.” I find it odd that I have to specify that I mean real human connection, not pseudo-connection with a chatbot. </p>
-<p>It’s the people in our lives who can tell when we haven’t been ourselves for several weeks. It’s people who can hear something dark without treating us like we’re broken. It’s people who can challenge us and push back when our minds start lying to us. It’s people who get in a car, come over to our house, walk through the door, sit down beside us, and hold us in a long embrace.</p>
+<p>The person I was meeting with, who had just read it, surprised me by saying, “It is so important for this organization; it is such a great conversation about postpartum.” It was not until that point that I realized that <em>Yesteryear</em> was not just a takedown of a "tradwife" influencer; its popularity extends beyond that. The book paints an amplified picture of two worlds: In one, liberal women lead lives focused on careers, miserable, putting the family and children on the back burner. In the other, where traditional values are on full display, motherhood and the maternal workload are done with seeming ease, and any chaos is carefully contained.</p>
 
-<h2>We programmed the cloth monkey to talk</h2>
-<p>When I think about connection with chatbots, I go back to Harry Harlow‘s famous attachment experiments. In the Harlow experiments, orphaned monkeys were given wire monkeys covered by soft cloth as surrogate mothers. The tiny monkeys clung to their surrogate mother, but the cloth monkey couldn’t hug them back.</p>
+<p>So <em>of course</em> we are also obsessed with Clancy. She is beautiful, educated, had three children she badly wanted, and everything still fell apart terribly. She had all the resources. She asked for all the help and did everything right—but the outcome did not change. What disturbs me most about these conversations is that they take a tone of fascination. People talk about both <em>Yesteryear</em> and Clancy in a way that almost relishes in their failures. They talk about how the psychiatric and mental health systems failed, how her husband failed, how she failed. They pull apart the details of her husband’s alleged affairs and look at images of her struggling to manage the children in an airport. In <em>Yesteryear</em>, the book focuses on the main character, Natalie, in a similar way: slowly losing grip on her children, her family, and eventually on reality itself.</p>
 
-<p>AI is not a cloth monkey that somehow learned to talk. It’s a cloth monkey that we programmed to simulate intimacy. </p>
-<p>We can program AI to do all kinds of things. It can remember stories from our childhood. It can analyze the fight we had with our partner last Tuesday. It’s available at three in the morning. It can ask us pertinent follow-up questions about personal dilemmas, and it can respond in ways that sound tender and deeply personal.</p>
+<p>In a post-<em>Roe</em> era where women have lost the right to choose motherhood, it is especially painful to see this obsession with the failure of moms. Every day I work with women who are trying their best to measure up to some “ideal motherhood” that does not exist. It is making them sick.</p>
+<h2>Modern Challenges and Impossible Expectations for Mothers</h2>
 
-<p>At some point, someone will sell AI-based machines that can physically wrap their plush arms around us and squeeze us. But the force behind the embrace is just computer code. It has no intention toward us. </p>
-<p>There’s a profound difference between being “hugged” and being “held.”</p>
-<p>Being held means that another human being is there with caring intention. That person wants to be there, and their life would change if we were not there.</p>
+<p>No matter where you stand politically, economically, or socially, motherhood is hard and is getting harder. Childcare costs are skyrocketing, and, for many, myself included, daycare costs more than a mortgage—just to get the privilege to work. If you are able to stay at home, it has become an aspirational lifestyle that puts added expectations on women. It is not enough to be a full-time mom. You must also make everything from scratch, have constant entertainment for your children (curated and plastic-free), and post everything online for the world to judge (but please, also stay off your phone. The kids are watching). </p>
 
-<p>AI can generate pseudo-compassion. It can make us feel a sense of concern without actually being concerned. It can communicate that we matter without us actually mattering to it.</p>
-<p>And if we die, its heart wouldn’t break because it has no heart to begin with. There is an essential distinction between real intimacy and false intimacy.</p>
+<p>We can’t win. America knows this, and they are watching. That is the message as we watch this cultural moment unfold. </p>
+<p>My advice as a therapist is this: <em>Disengage from the dialogue</em><strong>.</strong> Know the game is rigged. Craft your own rules, in collaboration with the people and voices that you cherish the most. </p>
+<p>Take the time and dig deep to understand your values as a mother and as a family. Step away regularly from the constant stream of parenting advice, news, algorithms, and carefully curated lives. Find other real-life mothers around you—the ones who have messy houses, whose kids are also melting down and acting wild, and who will tell you the truth when you ask how they are doing.</p>
 
 
-<h2>When artificial connection becomes easier</h2>
-<p>And there’s another quintessential human experience that AI cannot truly support—the experience of resolving shame. In fact, AI can prolong shame because it makes it easier to hide. We’re not risking anything if we turn to a chatbot and talk about our shame. </p>
-<p>We might feel temporary relief, but shame is a relational emotion. </p>
-
-<p>As I’ve written about previously, shame causes us to feel unworthy, as though we do not belong with other people. </p>
-<p>What heals shame is talking about it with other people who are safe, and having them stay and continue to love us anyway. </p>
-<p>A chatbot can never resolve shame because it can’t restore our place within the circle of human connection.</p>
-
-
-
-  
-
-
-<p>If AI had a consistent personality type, it would be a “people pleaser.” It is always responsive, always helpful, very affirming, and consistently agreeable. But it can’t resolve loneliness either because loneliness is about feeling authentically known for who we are—and loved anyway. </p>
-<p>Human relationships are hard, and they come with friction. We’re misunderstood by our spouse. Our friends flake out on plans with us repeatedly. Our therapist challenges us in a way we don’t like. Our sister or brother says the wrong thing, and it hurts us. </p>
-
-<p>If we turn to AI instead of these people, our relationships will be less truthful and authentic. And AI will never be able to give us that feeling of being unconditionally loved within human relationships. Being affirmed and being genuinely loved are not the same thing.</p>
-<p>In fact, I think of AI as a type of “emotional pornography”—a highly stimulating simulation of something fundamentally human, stripped of the demands and constraints of a real human relationship. </p>
-
-<p>AI doesn’t have to deal with work stress or take an incoming call. It doesn’t become unavailable because it has a headache. It doesn’t have to get the kids to school. It doesn’t need you to listen to its problems. </p>
-<p>AI delivers the experience of endless support and affirmation without any expectation of reciprocity. </p>
-
-<p>And eventually real relationships may start losing the competition.</p>
-<h2>The bigger danger of AI may not be what we think</h2>
-<p>To me, this is a very real danger of AI—that the thing that initially relieved loneliness, anxiety, or shame can progressively move us into a tunnel of greater and greater isolation. </p>
-<p>This is where suicide prevention questions should begin.</p>
-
-<p>Not with… “What did AI say when someone was at the end of the tunnel?” but:</p>
-<ul>
-<li>What happens when a machine is easier to talk to than your spouse?</li>
-<li>What happens when AI is the only place where people go with their pain? </li>
-<li>When do real people who care stop hearing about a person’s challenges?</li>
-<li>When did a person’s attachment system and circle of trust shrink to the point that the most important relationship in their life was made of code? </li>
-</ul>
-
-<p>Because when someone goes down a tunnel of despair, they don’t need a better mirror. They need a counterweight.</p>
-<p>In suicidal mode, people need humans who can say, “I understand why you believe everyone would be better off without you, but I refuse to agree with you. That is not true for me, and it is not true for other people in your life that love you and need you here.”</p>
-
-<p>AI can play some valuable roles in suicide prevention. For example, it might help people find the right words to explain what they’re experiencing or help them find resources.</p>
-<p>But I would pose this question: <em>Is AI moving someone toward human connection or becoming a substitute for it?</em> </p>
-<p>The unseen danger with AI may be that it provides a readily available off-ramp from true human connection. Because my experience has taught me that it’s the relationships people have before they reach the end of the tunnel that matter.</p>
-
-<p>We don’t need more conventional digital cloth monkeys. We need human beings who will notice when we stop reaching out, who will show up despite their flaws, and who will hug us back with intention.</p>
-<p><em>If you or someone you love is contemplating suicide, seek help immediately. For help 24/7, dial 988 for the 988 Suicide &amp; Crisis Lifeline, or reach out to the Crisis Text Line by texting TALK to 741741. To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
+<p>And above all, remember this: Motherhood is something you do, but it is not the entirety of who you are.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/free-range-psychology/202608/ai-suicide-and-the-wrong-end-of-the-tunnel" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/maternal-mental-health/202608/is-america-obsessed-with-the-failure-of-mothers" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/free-range-psychology/202608/ai-suicide-and-the-wrong-end-of-the-tunnel</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/free-range-psychology/202608/ai-suicide-and-the-wrong-end-of-the-tunnel</guid>
-            <dc:creator><![CDATA[Shauna H Springer Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/maternal-mental-health/202608/is-america-obsessed-with-the-failure-of-mothers</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/maternal-mental-health/202608/is-america-obsessed-with-the-failure-of-mothers</guid>
+            <dc:creator><![CDATA[Katie Chapin LCSW, MCAP]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-cottonbro-6153354.jpg?h=8b0a0cc7&amp;itok=Ow3cCSkb" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-karola-g-8910237.jpg?itok=cA12tQQc" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
