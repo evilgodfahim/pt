@@ -4,167 +4,236 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 16:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 17:31:48 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 16:37:24 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 17:31:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Shrinkflation Works, Until We Notice]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/aarron_atkinson-toal.png.jpg?itok=4GT4tqxm" alt="Atkinson Toal" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Consumer Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Shrinkflation Works, Until We Notice</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The psychology behind why we spot price rises but miss product downsizing.</h2><p style="font-size:0.9em;color:#666;">Posted August 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[What Is Your Brain Is Doing While You Read This?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Karen-Stollznow.jpg?itok=xQIKJh9u" alt="Karen Stollznow Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Is Your Brain Is Doing While You Read This?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Reading is more than seeing words.</h2><p style="font-size:0.9em;color:#666;">Posted August 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">We watch shelf price changes closely but rarely notice size changes, which is why brands shrink it instead.</li><li style="margin-bottom:6px;">Below a certain threshold, a change in package size is not overlooked so much as undetectable.</li><li style="margin-bottom:6px;">When we do spot a size cut, we judge it more harshly than a price rise costing us exactly the same.</li>
+              <li style="margin-bottom:6px;">Reading is a rapid process of prediction and interpretation, not just a matter of looking at words one by one.</li><li style="margin-bottom:6px;">We routinely skip predictable words and use information from upcoming text before our eyes even reach it.</li><li style="margin-bottom:6px;">When a sentence takes an unexpected turn, the brain can be forced to backtrack and rebuild its meaning.</li>
             </ul>
           </div>
-                    <p>As shoppers in a cost-of-living crisis, we have become rather sensitive to when something suddenly costs more. Whether on the shelves of a grocery store or the final total at the checkout, we are quick to spot the price change from last week and complain to whoever is nearest.</p>
-<p>We are far worse at noticing when we get less for our money. Like when there is quietly less inside the box, packet, or wrapper than there used to be. Both impact our finances, but only one is instantly noticeable.</p>
+                    <p>You probably don’t think much about the mechanics of reading. Your eyes move across the page, your brain turns letters into words, and somehow the meaning appears. It all feels effortless.</p>
+<p>Yet beneath that apparent simplicity is a remarkably complex process.</p>
+<h2>The Hidden Mechanics of Reading</h2>
+<p>When we read, our eyes don’t move smoothly across a page. Instead, they make rapid, jerky movements called <em>saccades</em>, briefly stopping between each jump (Stollznow, 2026). These pauses, known as <em>fixations</em>, are when our brains process the words in front of us.</p>
 
-<h2>It’s what’s on the inside that counts</h2>
-<p>When a brand is under cost pressure, it has two ways to pass that financial burden on to the consumer. It can raise the prices of its products, which almost everybody notices. Or it can quietly reduce the size and leave the price alone, which almost nobody does. </p>
-<p>Many brands prefer the second option given how the change is often overlooked, thereby protecting customer loyalty during times of financial difficulties. This is called <em>shrinkflation</em>.</p>
+<p>The whole process happens remarkably quickly. We typically spend around a quarter to half a second fixating on each word, although not every word receives equal attention. Short, familiar words such as <em>a</em>, <em>the</em>, <em>and</em>, and <em>to</em> tend to receive shorter fixations. Longer, unfamiliar, or more complicated words require more processing. A name such as <em>Frankenstein</em>, for example, may hold our gaze longer than <em>monster</em>.</p>
 
-<p>The shelf price is displayed large. It is something we see instantly and can track over time. The unit price, like the cost per ounce, is underneath in small print and is the number we tend to miss. It moves in increments too small to register. But it is moving, and it costs us exactly what a price rise would. However, our reactions to these changes are not always the same.</p>
+<p>And surprisingly, we don’t even look at every word. Research suggests that we skip around 15 to 25 percent of words, particularly short and predictable ones (Rayner et al., 2011). While our eyes are focused on one word, we’re also taking in information about what comes next. Our visual field provides a fuzzy preview of upcoming text, allowing the brain to begin anticipating the next word before our eyes land on it.</p>
 
-<p>Boxes of cereal, bottles of laundry detergent, and bags of candy or potato chips are the usual casualties. Over time and to the casual eye, the box, bottle, or bag looks unchanged on the shelf. Sometimes the packaging really is shrinking, in increments too small to notice. Sometimes it stays exactly as it was and simply holds less, with more of the product replaced by air.</p>
+<p>Reading, then, isn’t simply a matter of seeing words and decoding them one at a time. It is a constant process of prediction, confirmation, and correction.</p>
+<h2>When Reading Takes a Wrong Turn</h2>
+<p>Most of the time, our predictions work so smoothly that we’re unaware we’re making them. But ambiguous sentences can expose the machinery beneath the surface. Consider the sentence: <em>The old man the boat.</em></p>
 
-<p>Brands can pass on extra costs without ever announcing them, and it works because the price has not moved, which keeps customers happy. Most of the time nobody looks any closer than that.</p>
-<h2>Why smaller sizes are difficult to notice</h2>
-<p>It is very difficult to calculate volume just by looking. So we estimate from what we can see. Height skews these dimensional estimates, nudging the mind toward believing there is more inside. </p>
+<p>At first, the sentence appears grammatically incomplete. We naturally tend to interpret <em>old</em> as an adjective and <em>man</em> as a noun, leaving us searching for a verb. But <em>old</em> can function as a noun meaning old people, while <em>man</em> can be a verb meaning to staff or operate. The sentence therefore means that the old people crew the boat.</p>
 
-<p>Raghubir and Krishna (1999) found that taller containers are often perceived as holding more, even when volume is identical to that of shorter and wider containers. This means our judgment of size can be influenced by shape alone. Perhaps that is why so much of what we buy comes in tall, vertical rectangular packaging (like the cereal, detergent, and chips) to convince us we are getting more than we actually are. Have you noticed?</p>
+<p>This is known as a <em>garden</em> <em>path</em> <em>sentence</em> (Gunawan, 2025). The reader initially follows one grammatical interpretation, only to discover that the sentence requires another. The brain must then backtrack and reconstruct the meaning.</p>
+<p>This is one reason poorly written or ambiguous sentences can suddenly make reading feel difficult. When a sentence violates our expectations, the normally invisible work of comprehension becomes much more noticeable.</p>
 
-<p>Psychophysics, the study of how physical stimuli translate into what we perceive, explains why shrinkflation is both stealthy and effective. Known as the Weber-Fechner law, it states that the smallest change we can detect in something (the <em>just noticeable difference</em>, or <em>JND</em>) is not a fixed amount. It is a proportion of what we started with. Figures between a 5 and 15 percent downsize get quoted, though these are often just industry rules of thumb. Regardless of the <em>exact</em> proportion, what matters is that there <em>is</em> a proportion below which change is not merely ignored but becomes virtually invisible. </p>
+<h2>How Fast Do We Really Read?</h2>
+<p>For adults, average reading speed is around 200 to 250 words per minute when reading for comprehension (Brysbaert, 2019). Children read more slowly, with speed increasing as they become more practiced at recognizing words and processing language. Reading speed can also gradually decline with age, without necessarily causing a corresponding decline in comprehension.</p>
 
-<p>This law gives brands a threshold and a way to stay hidden under the JND radar. Remove little enough, and there is little to notice, whatever the size or weight was to begin with. But consumers are only blind for so long. </p>
-<p>The threshold applies to single changes. Shrinking the same packaging two or three times in quick succession pushes the total loss past the JND limit, and people notice the outcome of cumulative changes far more readily than any one-off adjustment. </p>
+<p>This is where the claims of speed-reading programs become questionable. Some promise reading speeds of thousands of words per minute, with the most extravagant claims reaching 10,000 words per minute. There is an important distinction, however, between reading and skimming. We can scan text rapidly for particular words or general information, but genuinely understanding and retaining what we read requires more time. Speed can come at the expense of comprehension.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/pexels-shvets-production-7195232.jpg?itok=PLiWMSnK" width="320" height="213" data-insert-type="image" alt="Items in the shopping cart are shrinking, but we don't always notice when they do" title="SHVETS production / Pexels"></div>
-<div class="caption">Items in the shopping cart are shrinking, but we don't always notice when they do</div>
-<div class="insertArea--origin subtext">Source: SHVETS production / Pexels</div>
-</div>
-</div>
-</div>
-<h2>What shoppers don’t notice won’t hurt them</h2>
-<p>Janssen and Kasinger (2026) examined a decade of retail scanner data covering approximately four million products across U.S. retail outlets like grocery stores, drugstores, and mass merchandisers. They found that nearly 2 percent, or around 77,000 individual products, were downsized over that period, more than five times as often as products were made bigger, and with almost no drop in price. </p>
+<h2>Reading Is Not Passive </h2>
+<p>Reading may feel like a passive activity, but beneath that apparent simplicity is a remarkable collaboration between our eyes and brains. Our eyes jump from fixation to fixation. We preview what is coming. We skip predictable words. We make rapid guesses about meaning and grammar, then revise them when necessary. All of this happens largely outside conscious awareness.</p>
 
 
 
   
 
 
-<p>More interesting was the cost to the brands doing it. A 1-percent price increase reduced sales by around 1.2 percent. A 1-percent reduction in size reduced sales by roughly half as much. This asymmetry is nothing new. Gourville and Koehler (2004) found that consumers have a greater sensitivity to product price than to product quantity changes. </p>
-
-<p>Janssen and Kasinger also measured how shoppers responded to such shrinkage. Rather than settle for less, they bought another one. Total spending went up, which is the opposite of how we usually behave toward a price rise we have actually noticed. When the shelf price goes up, which is the number we watch, we buy less. When the unit price quietly rises, we buy more.</p>
-
-<h2>What shoppers do notice can hurt the brand</h2>
-<p>Shrinkflation works. That is, until a customer notices.</p>
-<p>Evangelidis (2024) ran five experiments comparing how people judge a price increase against a size reduction costing them exactly the same. A large majority viewed the price increase as fair, given that costs were rising in the economy at the time. For a size reduction, views changed. More people called the downsizing unfair than called an identical price rise unfair. Money appears not to be the motivating factor at all in these assumptions. </p>
-
-<p>What drives such judgment is that downsizing reads as an attempt to hoodwink. Changing the price of a product is simple economics, which everyone can see and understand. Changing the size of a product is a design choice, where finding out the cost takes rather more effort. Price runs on logic. Size runs on emotion. </p>
-
-<p>If it is easier to track a price rise than a size reduction, perhaps that is the part we object to. Not paying more, but not being told. When it comes to increasing product prices or shrinking product sizes, size, it seems, does matter.</p>
+<p>So, the next time you read a page, remember that you aren’t simply moving your eyes across a line of text. You’re engaging in a remarkably fast act of prediction and interpretation, one that your brain has become so good at performing that you barely notice it happening.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/shopping-and-the-mind/202608/why-shrinkflation-works-until-we-notice" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/speaking-in-tongues/202608/what-is-your-brain-is-doing-while-you-read-this" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/shopping-and-the-mind/202608/why-shrinkflation-works-until-we-notice</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/shopping-and-the-mind/202608/why-shrinkflation-works-until-we-notice</guid>
-            <dc:creator><![CDATA[Aarron Atkinson-Toal, Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/speaking-in-tongues/202608/what-is-your-brain-is-doing-while-you-read-this</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/speaking-in-tongues/202608/what-is-your-brain-is-doing-while-you-read-this</guid>
+            <dc:creator><![CDATA[Karen Stollznow Ph.D.]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-shvets-production-7195232.jpg?itok=bc76W5vr" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-george-milton-7034592.jpg?itok=qO4o5nTx" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Your Ultimate Feedback Mechanism]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/unknown-1-removebg-preview.png.jpg?itok=SqEJEvMi" alt="Janet M Shlaes Ph.D., MBA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Your Ultimate Feedback Mechanism</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Utilizing adaptive intelligence to transform failure.</h2><p style="font-size:0.9em;color:#666;">Posted August 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Endings and Beginnings]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/books2-removebg-preview.jpg?itok=hnXqnjcL" alt="Jeanine Connor MBACP, MSc, MEd, BSc (Hons)" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adolescence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Endings and Beginnings</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">We split off 'bad' feelings and attach them to endings to keep beginnings 'good.'</h2><p style="font-size:0.9em;color:#666;">Posted August 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Your most effective strategies often begin with a failure.</li><li style="margin-bottom:6px;">Savvy leaders are adept at transforming failure by utilizing adaptive intelligence skills.</li><li style="margin-bottom:6px;">Micro-experiments integrate real-time data into small, low-stakes action strategies.</li>
+              <li style="margin-bottom:6px;">There is a western cultural split that suggests beginnings are good and endings are bad.</li><li style="margin-bottom:6px;">Endings are perceived as bad, sad and beyond our control.</li><li style="margin-bottom:6px;">Carrying too many 'bad' endings can impact new beginnings.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/brain-deltaworks-cyber-brain-7633488-kohji_asakawa_0.jpg?itok=5x7x4Kb2" width="320" height="246" data-insert-type="image" title="Kohji Asakawa / Pixabay" alt="Kohji Asakawa / Pixabay"></div>
-<div class="insertArea--origin subtext">Source: Kohji Asakawa / Pixabay</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/screenshot_2026-08-25_at_08.11.08_0.png.jpg?itok=ofrYCzDP" width="320" height="319" data-insert-type="image" alt="Mourning the end of summer " title="Free download: whitetopaz/Pixabay"></div>
+<div class="caption">Mourning the end of summer</div>
+<div class="insertArea--origin subtext">Source: Free download: whitetopaz/Pixabay</div>
 </div>
 </div>
 </div>
-<h2>Adaptive Intelligence in a Rapidly Changing World</h2>
-<p>What if your most effective strategy could begin with a failure? In a rapidly changing world, even the most well-thought-through and well-designed strategies often fail to deliver targeted results. Smart leaders turn failure into success by staying flexible and open-minded.</p>
+<p>Having recently returned from a holiday in sunnier climes, to find myself reaching for the light switch and fluffy socks by 6pm, I’m beginning to mourn the end of summer. I, like many others, experience a genuine dip in mood that correlates with the waning sunlight. There are evolutionary explanations for this – it’s safer and more productive to be out in the daylight and to rest when its dark – but my feelings about the end of summer got me thinking about our collective mindset around endings and beginnings in general. </p>
 
-<p>Leaders proficient in adaptive intelligence know that even the best analysis, planning, predictions, assumptions, and strategies are continuously tested by reality. Rather than clinging to an excellent plan that no longer works, they strategically implement three essential adaptive intelligence best practices: </p>
+<p>Generally speaking, there is a split in western cultural consciousness that suggests beginnings are good and endings are bad. We hear of a birth or someone entering a new relationship or being offered a new job and we think of it as a happy time of celebration and send congratulatory greetings. Beginnings are usually a time of hopefulness and anticipation, perhaps coloured with a healthy dose of apprehension. We don’t usually embark on a new relationship or start a new job imagining how or when it will end. If we did, we would be thought of as pessimistic, neurotic or even paranoid. </p>
 
-<ul>
-<li>Learn quickly from what is not producing targeted results</li>
-<li>Use new information to reassess prior assumptions and initial strategy rapidly</li>
-<li>Adapt initial strategy based on the most up-to-date reality factors</li>
-</ul>
-<h2>Not All Failures Are Equal</h2>
-<p>Some failures, mere failures, result from inadequate or faulty preparation, unnecessary risk, poorly designed strategy, and or flawed execution. The main thing gleaned from this sloppy-at-best approach is “don’t do that again.” A mere failure could result from a leader implementing a new departmental process without adequately researching their team’s needs, best practices, or performance evaluation criteria. Mere failures are avoidable mistakes, usually treated as an endpoint, and often utilized as an opportunity to place blame. </p>
+<p>Instead, we fantasise about the relationship or job lasting forever and satisfying us more than our previous relationships and jobs ever did. When we embark on a new relationship, we imagine the new person in our life becoming a cherished companion for evermore. Parents feel this way about their new babies, however they come into their lives—through biological conception, surrogacy, adoption or some other way. The beginning of a new life is such a cause of celebration that even strangers offer their congratulations. Adolescents in fledgling relationships imagine themselves living together happily ever after. A 12-year-old boy told me about his ‘longest ever girlfriend’ and fantasised about them getting married and having a family of their own. They had been a couple for two-and-a-half days and he could not bear to think that this special relationship might one day end. </p>
 
-<p>Smart failures, however, usually result from unknown factors unexpectedly surfacing, known factors shifting in timing and scope, and or formerly accurate assumptions and working hypotheses becoming obsolete. Smart failures can provide critical information regarding the following factors:</p>
-<ul>
-<li>Original assumptions may have been incomplete or wrong</li>
-<li>Strategy implementation was flawed</li>
-<li>The targeted outcome wasn’t the best target to focus on</li>
-<li>Critical environmental factors and needs suddenly changed</li>
-<li>The original strategy might have been a good one, but the implementation timing was off</li>
-</ul>
+<p>In contrast to beginnings, when we hear about an ending—of a relationship or job, or the end of a life—we imagine suffering and pain and share our condolences. Often, but not always, things end because they are in some way ‘bad’. The job or relationship might not satisfy us anymore and so we leave or are left. As a rule, good relationships don’t end and people don’t resign from satisfying jobs. People die because they are old or unwell or have been involved in a tragedy, not because they are young and healthy and full of life. </p>
 
-<p>Adaptive intelligence best practices can transform smart failures into opportunities to learn, grow, adapt, and transform through micro-experiments. </p>
-<h2>Transforming Failure Through Micro-Experiments</h2>
-<p>Wise leaders analyze evolving real-time data utilizing essential adaptive intelligence best practices. They are skilled at transforming uncertainty and failure into sources of insightful feedback and opportunity. They understand the value and impact of strengthening their adaptive intelligence skills by employing micro-experiments—small, low-risk, low-stakes actions that foster learning through active engagement in forward movement.</p>
+<p>We are pitied or consoled because of our losses. Usually, but again not always, endings happen for reasons beyond our control, whereas beginnings generally imply more of a choice, even if that is not actually the case. Splitting is a psychological defence. It’s one of the ways we try to manage difficult emotions by avoiding them and attaching them to ‘other’. Attaching all the negative feelings to endings and putting them in a box marked ‘bad’ means we can keep beginnings good and untarnished. </p>
 
-<p> Micro-experiments strengthen five critical adaptive intelligence competencies, including the abilities to: </p>
-<ul>
-<li>Observe evolving realities with attention and discipline</li>
-<li>Stay curious when targeted and actual outcomes are misaligned</li>
-<li>Identify outdated or inaccurate assumptions and strategies</li>
-<li>Analyze failure elements through a growth mindset approach</li>
-<li>Adapt or replace initial strategies in real time</li>
-</ul>
+<p>Therapy beginnings are often preceded by an experience of an ending. As the famous poem states, ‘The end is where we start from’.<sup>1</sup> For children and young people in particular, endings are beyond their control and usually happen without their consent. Experiences leading to therapeutic referrals of children and young people regularly include the end of their parent’s marriage, the end or imminent end of a loved one’s life, or the end of their time at a familiar school or in a familiar home or country of origin. Many young people come to therapy carrying the burden of broken or damaged relationships that have ended. For children in care, referrers frequently list numerous placement endings, which also, of course, incorporate the end of many significant attachments to birth relatives as well as carers, placement ‘siblings’, teachers and peers. It’s not unusual for children in foster care to experience dozens of placements amounting to hundreds of goodbyes. That’s a lot of endings to lug around, inevitably impacting every new beginning. It’s hard to believe that the days will lengthen and the sun will shine again when lived experience suggests the opposite is true. </p>
 
-<h2>Micro-Experiment Outcomes</h2>
-<p>Micro-experiments provide critical real-time data for leaders to explore and learn from:</p>
-<ul>
-<li><strong>Failure:</strong> No one likes to fail; however, failure can provide critical information regarding what didn’t work. Leaders can use this information to understand the “why” of failure and determine what needs to change or be adjusted.</li>
-<li><strong>Surprise:</strong> The bonus of curiosity is your ability to be open to and delight in unexpected results, which can lead to valuable discoveries and innovation.</li>
-<li><strong>Success: </strong>Wise leaders use success as a starting point to actively explore what worked, why it worked, and how success elements can be replicated or adapted for future situations and goals.</li>
-</ul>
+<p><em>Based on: Connor, J. (2020) </em>Endings and loss in Reflective practice in child and adolescent psychotherapy: Listening to young people.<em> Routledge.</em></p>
 
-
-<h2>Your Ultimate Feedback Mechanism</h2>
-<p>In an unpredictable world, <em>your competitive advantage depends on your ability to be curious, experiment, learn from failure, and adapt quickly and strategically faster than circumstances change.</em> You can plan, predict, analyze, strategize, and implement your strategies and still experience failure. Wise leaders focus on what reality reveals and utilize their adaptive intelligence skills to discern the next wisest action. Although you can’t guarantee what will work, you can master the art of adaptive intelligence to adapt to evolving reality-based factors. </p>
-
-<h2>Adaptive Intelligence in Action</h2>
-<p>Where could you benefit from strengthening your adaptive intelligence skills? Practice reflecting on these essential adaptive intelligence questions:</p>
-<ul>
-<li>Are my actual results aligned with my expectations and targeted results?</li>
-<li>What variables have changed since my original assumptions and strategies?</li>
-<li>Which current assumptions, interpretations, and approaches might be wrong?</li>
-<li>What can I learn from my failures, successes, or surprises?</li>
-<li>What new information and wisdom have I gained from this result?</li>
-<li>What small change in my approach could lead to a different result?</li>
-<li>What is my wisest next action step?</li>
-</ul>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-healthy-workplace/202608/your-ultimate-feedback-mechanism" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/modern-life-is-rubbish-or-is-it/202608/endings-and-beginnings" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-healthy-workplace/202608/your-ultimate-feedback-mechanism</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-healthy-workplace/202608/your-ultimate-feedback-mechanism</guid>
-            <dc:creator><![CDATA[Janet M Shlaes Ph.D., MBA, MA, ACC]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/modern-life-is-rubbish-or-is-it/202608/endings-and-beginnings</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/modern-life-is-rubbish-or-is-it/202608/endings-and-beginnings</guid>
+            <dc:creator><![CDATA[Jeanine Connor MBACP, MSc, MEd, BSc (Hons)]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/brain_deltaworks-cyber-brain-7633488.jpg?itok=DRKzf5xA" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-08/screenshot_2026-08-25_at_08.11.08_0.png.jpg?itok=g3CrZZ4Z" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Is Homonormativity?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/profilepic_2_-removebg-preview.jpg?itok=Qwf1svoX" alt="Silva Neves" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sexual Orientation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Is Homonormativity?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Adopting heteronormative ways of being gay can have negative effects.</h2><p style="font-size:0.9em;color:#666;">Posted August 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Homonormativity is adopting heteronormative ways of being gay to be acceptable to heterosexist society.</li><li style="margin-bottom:6px;">Homonormativity is not always problematic but it can be if it represses queerness to appease a straight world.</li><li style="margin-bottom:6px;">Homonormativity can be a risk factor for psychological disturbances including depression.</li><li style="margin-bottom:6px;">Instead of adopting homonormativity, one can adopt a "chosen family" to enhance wellbeing.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/istock-2137832556.jpg?itok=FtysQoUT" width="320" height="213" data-insert-type="image" title="ajr_images / iStock" alt="ajr_images / iStock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: ajr_images / iStock</div>
+</div>
+</div>
+</div>
+<p>Growing up gay in a small village was tough but I was raised by fairly liberal, secular parents. My first coming out (to my parents) wasn’t difficult because they accepted my sexual orientation. However, I will always remember my father’s comment: “I hope you won’t wear dresses”, and my mother’s question: “Will you not want to get married?” These comments struck me because the message was “You’re ok to be gay but can you be a gay version that is comfortable for us… and our neighbours?”</p>
+
+<p>Indeed, being gay was ok as long as I was “passing” as a comfortable version for our heterosexual neighbours, which meant to wear male-identified clothes, have a good job, be monogamous and wanting to get married, being neat. And certainly not dying my hair, wearing nail polish, having visible tattoos and piercings, and definitely not wearing dresses. For years, in my twenties, I conformed to these norms while also being “openly gay”, not being aware that I was confirming to heteronormative ideals. Now, as a psychosexual and relationship psychotherapist, I realised that what I had experienced had a name: “homonormativity”, which is adopting heteronormative ways of being gay to be acceptable to the heterosexist society. </p>
+
+<p>What I have also observed is that homonormativity doesn’t only show up in liberal families’ homes, it is embedded in our society and the gay scene because it keeps the heteronormative dominant narrative intact, continuing to dictate the “correct” way to be gay so that it is comfortable for them—and it helps gay people not be attacked. </p>
+
+<p>Queer people who live their authentic lives are often described as “too much”, “rubbing their sexuality in our face”, or “forcing kids to be queer”, so in order to avoid rejection or insults, it is easy for us to tone down our authentic expressions of ourselves to fit in as the “acceptable gay”. </p>
+<p>But is there a psychological cost to adopting homonormativity? As with most things, the answer is nuanced and complex. Firstly, I think it is important not to use “homonormativity” to describe something that is wrong with gay men. Nothing is wrong with gay men. Homonormativity in itself isn’t a bad thing, but it is crucial to examine the intention behind adopting it. Is it because homonormative ideals are norms that you value for yourself and make you satisfied? Or are you adopting homonormativity to repress queer parts of yourself to appease the straight world? If it is the latter, you’re not “wrong” because there is nothing wrong with wanting to blend in and feel safe, but it may not be beneficial for you in the long term. Many people I see in therapy aren’t aware that they have repressed themselves by adopting homonormativity, just like I wasn’t aware of it in my twenties. If you don’t know about homonormativity, how would you even begin to examine it? </p>
+
+<p>In my experience working with gay men, I see that when homonormativity is adopted to repress authentic queerness, it can be a major factor for psychological disturbances that gay men regularly come to therapy for: depression, anxiety, suicidal ideation, sexual and relationship problems, compulsive behaviours, excessive alcohol and drug consumption, chemsex, excessive attendance at the gym, body image issues, fear of ageing, being highly critical of themself and others, and feeling shame. Indeed, homonormativity could be pulling the strings of all these issues, under the radar. </p>
+
+<p>The homonormative picture is not a monolith, but one of the common scenarios is: being young, white, middle-class, having an athletic-abled body with no fat and defined muscles, a good job, a good salary, always looking pristine, with the right fashion and the right hair, being sexual, and also being monogamous, getting married and having children, living in an expensive home in a sought-after area, and being happy. In contrast, a single, kinky, polyamorous queer man wearing leather and attending sex clubs on a regular basis is uncomfortable for our society and therefore not part of the ideal picture. Of course, as mentioned above, enjoying the typical homonormative life is not automatically problematic, as long as it is what the individual genuinely want for themselves. </p>
+
+<p>Indeed, a lot of my clients describe feeling the pressure to attain and maintain this ideal in order to feel worthy of existing. This pressure is enormous, creating a psychological and existential stress. Gay men often tell me that they are not comfortable with feeling vulnerable because they have the pressure to be ‘out and proud'. A component to the minority stress theory is concealing identity. But I find that in liberal countries, this component for gay men is often no longer about concealing identity but concealing distress. Indeed, one of the current homophobic narratives is "Now that you have your equal rights, why do you still need Pride?” This kind of narratives induce shame that serves to silence gay men and their authentic self-expression as well as erasing their struggles of minority stress and oppression. </p>
+
+
+<p>The problems with homonormativity are often not detected. It is a hidden phenomenon that sits in the intersection of minority stress, shame, and societal oppression. Challenging homonormativity does not mean that gay men should not have any norms. Queer people are not deprived of norms; they thrive with their own community norms, etiquettes and cultures. These are good if they are made by queer people for queer people—and not to please the heteronormative world. </p>
+
+<p>To combat the negative effects of homonormativity is to understand yourself well and accept who you are and how you want to live your life—in a way that matches your values and your connection with your queer community. Instead of adopting homonormativity, you can adopt a “family of choice”—close friends with whom you feel totally accepted as you are, without needing to edit yourself to be “acceptable”. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/talking-sex-and-relationships/202608/what-is-homonormativity" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/talking-sex-and-relationships/202608/what-is-homonormativity</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/talking-sex-and-relationships/202608/what-is-homonormativity</guid>
+            <dc:creator><![CDATA[Silva Neves]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/istock-2137832556.jpg?itok=Ix7NpHF2" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond Words: Neurodiversity, Music, and Connections]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/sara_leila_sherman__m.m.__and_morton_sherman_ph.d..png.jpg?itok=jHP-QYy7" alt="Sara Leila Sherman, M.M., and Morton Sherman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neurodiversity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Beyond Words: Neurodiversity, Music, and Connections</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What a family—and a teacher—taught about communication, connection, and wonder.</h2><p style="font-size:0.9em;color:#666;">Posted August 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Neurodivergent children, families, and educators can teach us to notice forms of communication.</li><li style="margin-bottom:6px;">Listening more intentionally begins with noticing before interpreting and meeting people where they are.</li><li style="margin-bottom:6px;">Visual communication systems like PECS open essential pathways; non-verbal resonance extends beyond symbols.</li>
+            </ul>
+          </div>
+                    <p dir="ltr"><em>Gratitude to Dr. Andy Bondy (PECS) and Dr. Jack Naglieri (ASRS) for their personal guidance and support, and for their international leadership on behalf of children and their families.</em></p>
+<p dir="ltr">Human minds are remarkably diverse. How we process the world, receive comfort, and reach out to one another cannot be flattened into a single standard. In writing our book, this idea is a thread that steadied and focused us. We see a truth that sits at the center of our lives and work.</p>
+
+<p dir="ltr">Today, neurodiversity is a visible part of our shared human landscape. According to data from the<a href="https://www.cdc.gov/autism/data-research/index.html"> Centers for Disease Control and Prevention (CDC)</a>, approximately 1 in 31 children in the United States—about 3.2 percent—are classified as autistic. Behind that percentage are millions of individual children, each experiencing and interacting with the world in their own way.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/sensory_overload.jpg?itok=MGMUO6Jq" width="320" height="427" data-insert-type="image" alt="Sensory Overload" title="Sara Sherman / Used with permission"></div>
+<div class="caption">Sensory Overload</div>
+<div class="insertArea--origin subtext">Source: Sara Sherman / Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Living with a child with autism can bring extraordinary strengths alongside very real challenges, and those experiences look different for every autistic person and every family. For our family, this is personal. Autism is part of our family, through a daughter and granddaughter we love deeply.</p>
+<p dir="ltr">Our experience has made questions about communication feel far less theoretical. There are so many moments when we're reminded to slow down, notice what we might otherwise miss, and see the world through different eyes. We are challenged to reconsider assumptions we didn't even realize we were making about communication, attention, and connection.</p>
+
+<h2 dir="ltr">The Languages We Build</h2>
+<p dir="ltr">When spoken language is slow to form or looks different than expected, families and educators seek other ways of communicating. One vital tool is the Picture Exchange Communication System (PECS), which allows a child to initiate communication through visual symbols. A picture can give a child a way to say <em>I want juice, I want to swing,</em> or eventually something far more complex, without requiring spoken language to carry the message.</p>
+
+<p dir="ltr">Part of communication is asking about what we need, and so much more. Teachers are essentially superheroes. Their gift to children and families is the knowledge, patience, and ability to meet children at their individual level. One of our greatest lessons came from watching an extraordinary teacher, Rachel Strasburg, and one of her students. </p>
+
+<p dir="ltr">Rachel possessed a rare, quiet attunement. Where others might have seen frustration or behavioral resistance in a student, Rachel became curious about what a student might be communicating. From Rachel and her students, we learned that true communication requires us to move past mechanical exchange. Rachel showed us that communication requires an exchange of information by being present and paying attention. She honored a child's timing, noticed small shifts in expression and focus, and didn't assume that a lack of spoken response meant a lack of understanding. Watching her, the relationship between teacher and student felt less about instruction and more about trust.</p>
+
+<p dir="ltr">Her student taught us that intelligence and emotion do not wait for spoken words to exist. They are already there. Sometimes the listener has to learn a new way of listening. </p>
+<h2 dir="ltr">A Wonder at Possibilities or When Music Becomes Another Language</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/looking_for_answers.png.jpg?itok=7dTfye2T" width="320" height="329" data-insert-type="image" alt="Looking for Answers" title="Sara Sherman / Mozart for Munchkins, Used with permission"></div>
+<div class="caption">Looking for Answers</div>
+<div class="insertArea--origin subtext">Source: Sara Sherman / Mozart for Munchkins, Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr">This is where we find ourselves returning to music again and again. </p>
+<p dir="ltr">We are not music therapists, and we don’t pretend that music can take the place of trained clinicians. But as a musician and an educator, we continue to marvel at the possibilities of music for connection.</p>
+<p dir="ltr">At an assembly for a group of diverse high school learners with Mozart for Munchkins' Live Music Lab, we explored emotions as a way to communicate through music. Students came onto the stage, some using AAC (augmentative and alternative communication) devices to communicate, and chose an instrument and an emotion. Mad drum. Sleepy violin. The musicians responded, creating music from the combinations the students had chosen.</p>
+
+
+<p dir="ltr">No spoken conversation was necessary. We danced. We laughed. We listened to what "mad" might sound like on a drum and what "sleepy" might sound like on a violin. The students were communicating what they wanted to hear, and the musicians were answering them through sound. For those few minutes, emotion and music became a language we all shared.</p>
+
+<p dir="ltr">Music offers something different to us. Syntax or articulation is not always required. A choice can become a rhythm. An emotion can become a melody. Two people can share a musical moment without either one having to explain what it means.</p>
+<p dir="ltr">For an autistic child, and for the family walking alongside them, music can become a safe space where no performance is required. Music is a shared atmosphere.</p>
+
+
+
+  
+
+
+<h2 dir="ltr">Learning to Listen Differently</h2>
+<p dir="ltr">In our own family, those realities exist alongside moments that have changed the way we understand one another. Having autism in our family has taught us to pay closer attention, question what we assume a response should look like, and notice forms of communication we might once have overlooked. This has also meant some very hard conversations on how we communicate with each other, and we always come back to the same thing: listening more intentionally to one another.</p>
+
+<p dir="ltr">Listening is bigger than hearing words.</p>
+<p dir="ltr">What might happen if we noticed before we interpreted? If we gave someone a little more time to respond? If we paid attention to a gesture, a repeated phrase, a movement, a picture, or a rhythm without immediately deciding what it meant?</p>
+<p dir="ltr">Communication can arrive through a PECS card, an AAC device, a glance, a gesture, or a melody. </p>
+
+<p dir="ltr">At that high school assembly, sometimes it arrived in two words: <em>Mad drum.</em></p>
+<p dir="ltr">The musicians listened. They played.</p>
+<p dir="ltr">And we understood one another.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/resonant-minds/202608/beyond-words-neurodiversity-music-and-connections" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/resonant-minds/202608/beyond-words-neurodiversity-music-and-connections</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/resonant-minds/202608/beyond-words-neurodiversity-music-and-connections</guid>
+            <dc:creator><![CDATA[Sara Leila Sherman, M.M., and Morton Sherman Ph.D.]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/connection.png.jpg?itok=VNbESUBl" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
