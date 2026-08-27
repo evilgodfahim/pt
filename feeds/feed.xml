@@ -4,233 +4,711 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 04:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 16:10:05 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 04:20:12 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 16:10:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The Part of You That's Always Somewhere Else]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Antonieta-Contreras.jpg?itok=RoHZVsXf" alt="Antonieta Contreras" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Part of You That's Always Somewhere Else</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">This is the story behind the ego.</h2><p style="font-size:0.9em;color:#666;">Posted August 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[When AI Makes Employees Hide What They Know]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-08/profile_pic_b_w-removebg-preview_1_.png.jpg?itok=Mc6XSo62" alt="Tony Nguyen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When AI Makes Employees Hide What They Know</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A leader's spoken words may be one of the simplest defenses against knowledge hiding.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The mind that seems present in conversation is often narrating instead of listening.</li><li style="margin-bottom:6px;">EMDR sessions can feel powerful, yet change nothing, if the narrator—not the self—does the work.</li><li style="margin-bottom:6px;">Noticing the narration in real-time—not understanding it—is what lets real change begin.</li>
+              <li style="margin-bottom:6px;">Employees may hide knowledge when they fear that sharing it could make them easier to replace with AI.</li><li style="margin-bottom:6px;">Leaders’ words can reduce uncertainty, address concerns, and show employees that they still matter.</li><li style="margin-bottom:6px;">Leaders should explain how knowledge will be used, give credit, and involve employees in AI changes.</li><li style="margin-bottom:6px;">Motivating language works only when backed by fair decisions, follow-up, training, and growth opportunities.</li>
             </ul>
           </div>
-                    <p>I just came back from a conference where I presented on how to prepare clients before they process traumatic memories with EMDR. One of the ideas I shared was that before asking the brain to revisit and reorganize painful experiences, we need to make sure the Self is the one in the room doing the work.</p>
+                    <p>Suppose you ask one of your colleagues to describe a procedure that they have mastered after many years. Perhaps they respond to your question, yet only in part, omitting some key steps. Or maybe they say the file isn't ready, promise to get in touch with you, or say they can't quite recall how they solved the problem last time.</p>
 
-<p>The suggestion raised an obvious question: Who else could be there?</p>
-<p>Telling a therapist that they may be dealing with the ego can sound strangely non-clinical. We use the word "ego" so casually that it has almost become an insult because it carries the idea of arrogance, self-importance, defensiveness, or fakeness. That’s why I tried to name it something else.</p>
+<p>This may not be because of laziness, inadequate documentation, or quiet quitting. As Catherine Connelly and her colleagues point out in a recent study, <a href="https://doi.org/10.1108/JKM-12-2018-0734">knowledge hiding </a>means deliberately concealing or not providing information that has been asked for; it can be evasive, by giving an answer that proves unhelpful; it can involve acting as if one doesn't know; or it can consist of offering a sensible explanation for why one is not sharing what one knows.</p>
 
-<h2>The Narrator</h2>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/roses_street-man-4833200.jpg?itok=vfBsd_DC" width="320" height="203" data-insert-type="image" title="Image by Jean-Louis SERVAIS Pixabay" alt="Image by Jean-Louis SERVAIS Pixabay"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by Jean-Louis SERVAIS Pixabay</div>
-</div>
-</div>
-</div>
-<p>In my first book, I tried “hollow self” because I thought "ego" lacked substance. Once I understood its neurobiology better, I thought calling it “the narration self” was more appropriate because narrating is what this relational actor does.</p>
-<p>Framing it as a "narrator" is useful because it allows us to understand its purpose within the system. Its main job is maintaining a coherent, defensible story about who you are. That story needs constant upkeep, so while you're living your actual life, some portion of your attention is somewhere else, reviewing what just happened, deciding what it meant, rehearsing how you'll describe it later, patching the version of events that keeps the story intact. As you may notice, its functioning still includes the self-referential “obsession” that gets most of the criticism, but it’s not a flaw. It’s a task. </p>
+<p>The hiding of knowledge has always existed, but artificial intelligence has given employees a new reason for doing it.</p>
+<h2>The fear behind the silence</h2>
+<p>When a business decides to introduce AI, the people in charge usually concentrate on the technical aspects: <em>What can we automate? How much time will it save?</em> Employees might be asking a different, more personal question: <em>If I show everyone exactly how I do my job, will I then become easier to replace?</em></p>
 
-<p>Neurobiologically, the narrating self is what develops strongly when a brain network, specifically the default mode network, takes over the show, because the deeper circuits that would otherwise organize real connection never got the activation they needed. Often, it’s because the people we depended on early on weren't consistently there for us or for our needs. What it means is that the person's brain built the narrator as the best available solution: a way to make sense of needing someone who couldn't always be counted on.</p>
+<p>The fear is not unreasonable. AI can now perform jobs that previously required years of experience, and many workers find themselves with fewer options for alternative employment if their jobs disappear. Under such circumstances, a request to <em>'share your best practices'</em> may come across not as a means of cooperation but rather as a way of saying <em>'help us to record what makes you valuable'.</em> Knowledge thus acts as a kind of job insurance.</p>
 
-<p>An important characteristic is that it doesn’t operate in the present even when it’s consuming a lot of energy in real time. The self should be the one assimilating the story, but if it gets hijacked by the narrator, part of what’s actually happening gets lost. </p>
-<p>The cost of this is bigger than it sounds. A mind spending most of its resources reviewing and patching a story has very little left over for attending reality. Curiosity requires spare attention, and the narrating self doesn't have any to spare. </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p>Research has recorded this kind of reaction. Arias-Pérez and Vélez-Jaramillo discovered that the technological disruption caused by AI and robotics was linked to evasive hiding, playing dumb, and rationalized hiding. In their study of 402 South Korean employees, Kim and Kim found that employees who worried AI might threaten their jobs were more likely to keep useful knowledge to themselves. </p>
 
-  </div>
+<p>The point is clear: People don't simply share more because technology makes sharing easier; rather, when they feel threatened by it, they may guard the one asset they still control: what they know.</p>
+<h2>A leader's voice matters</h2>
+<p>This is where spoken communication can go surprisingly far, or at least farther than a slide presentation declaring that '<em>people are our greatest asset'. </em>Employees need to hear a leader explain what is happening, acknowledge what it could cost them, and show where they fit in the future.</p>
 
-<p>You can see this most clearly in a conversation. You are telling someone something that matters to you, and they're nodding, seemingly present, but clearly drafting their response, already telling you something comparable about them, equating it to something that happened last week. They're not actually curious about what you're saying. They're managing what it means for their story.</p>
+<p>Motivating language is useful here because it goes beyond positive talk. It combines three kinds of leader speech:</p>
+<ul>
+<li><strong>Direction-giving language</strong> reduces uncertainty by explaining what is changing, what is not, and what people should do next. </li>
+<li><strong>Empathetic language</strong> recognizes the fear, frustration, and effort involved. </li>
+<li><strong>Meaning-making language</strong> connects the change to a larger purpose and helps people see why their contribution still matters.</li>
+</ul>
 
-<p>This is why I suggested paying attention to who's actually present during a session: Is it the narrator or the self doing the processing? And what kind of memory is being worked on? Is it a memory that's become part of the narrative? Or one that still carries its own emotional charge, separate from the story built around it?</p>
+<p>In research I conducted with Jacqueline and Milton Mayfield, motivating language from immediate supervisors was associated with employee voice through transparency, openness to feedback, and a stronger sense of purpose. Voice and knowledge hiding are not opposites; an employee can remain quiet without actively hiding anything. Still, both involve a basic social calculation: Is it safe and worthwhile to reveal what I know?</p>
 
-<p>I’ve experienced it with my clients and seen it happening to some of my supervisees. The client leaves an EMDR session after having done a lot of heavy lifting, with a lot of information showing up about the past, with deep emotional moments, and still reporting the same negative cognition, the same level of upset, and not really believing in the resolution they found. The narrating self can be really moved and generate lots of new material, giving the clinician the impression that another memory channel opened, while for the client, it feels more like another chapter, another piece of evidence for or against the version of themselves the narrator is maintaining.</p>
-
-<p>One of the main messages of my talk was to notice that in those cases, the felt experience didn’t actually land anywhere, because the one doing the work was not looking to receive it. </p>
-<p>This also means that explaining the concept of the narrating self to a client without an active intervention won’t change it. The narrating self will simply absorb the explanation and probably turn it into new material that helps it sound interested and interesting: another paragraph in the story, proof of how special they are if the story is about being unique, or how damaged they are if the narrative is about victimhood.</p>
+<p>We should be precise about the evidence. Researchers have not yet established a direct causal link between motivating language and reduced knowledge hiding. But the pieces fit. Babič and her colleagues found that strong leader-member relationships and a shared desire to help the team reduced knowledge hiding. Spoken communication is one of the main ways leaders build or destroy those conditions.</p>
 
 
 
   
 
 
-<p>Still, this actor has real value, for the clinician and for the client. Knowing how the brain works, and how this type of issue runs automatically, draining our resources, can motivate change. Explaining that the narration has been working harder than it needs to, and that adjusting it will release some of that overload, could be life-changing.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
+<h2>What leaders can say</h2>
+<ul>
+<li><strong>Name the uncertainty.</strong> Avoid empty reassurance. A leader might say: '<em>AI will change parts of these roles. We have not made every staffing decision, and I will not pretend otherwise. Here is what we know, what we are still deciding, and when you will hear from me again.'</em> Clarity does not mean having certainty. It means being honest about what is known and what remains unknown.</li>
+<li><strong>Explain how employees’ knowledge will be used.</strong> If employees are being asked to document their work or train an AI system, explain how that information will be used, who will benefit, and how contributors will be recognized. Employees are more willing to share when doing so creates a path to greater responsibility rather than a path out of the company.</li>
+<li><strong>Protect status as well as employment.</strong> Leaders might say<em>: 'If your approach becomes the team’s new standard, your contribution will be visible. I want you to help us design the new process, not simply hand it over'.</em> Giving people credit, ownership, and involvement shows that their expertise becomes more valuable when it is shared.</li>
+<li><strong>Make it a two-way conversation.</strong> Ask: '<em>What about this change feels threatening? What would help you use AI with confidence? What are we not seeing from your side?'</em> Then listen, even when the answers are uncomfortable. A listening session without meaningful follow-up teaches employees that silence is safer next time.</li>
+</ul>
 
-  </div>
+<h2>Conclusion</h2>
+<p>Language used to motivate is no magic. Employees will believe their leaders' actions rather than their words if the leaders praise openness but still reward internal competition, or if they promise development right before an unexpected layoff. Communication is effective when it makes the actual choices clear and is supported by fair decisions, training, credit, and opportunities for people to take on new work.</p>
 
-<p>The idea that the ego should be controlled or eliminated is not new. It’s been said it's extensible in different contexts. But the approach I’m suggesting is about observing it as opposed to annihilating it. What can actually interrupt it is to work on developing another relational actor: the observing self. </p>
+<p>This doesn't mean words are unimportant. When there is a sense of uncertainty, employees look to a leader's way of speaking to detect signs of threat, respect, and belonging. Although AI can produce a fluent announcement in a matter of seconds, only a human leader can support it, take responsibility for the consequences, and reassure others that sharing knowledge will not diminish their value.</p>
 
-<p><em>It’s easier to build a new circuit than to change an already consolidated one.</em></p>
-<h2>The Observing Self</h2>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/geralt-board-2434286.jpg?itok=-Pj2AR98" width="320" height="175" data-insert-type="image" title="Image by Gerd Altmann Pixabay" alt="Image by Gerd Altmann Pixabay"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by Gerd Altmann Pixabay</div>
-</div>
-</div>
-</div>
-<p>An<em> observing self </em>is a mode of activation that develops by noticing, in real-time, the narration, mid-sentence, the way you'd catch yourself starting to draft a reply while someone is still talking. That noticing has to be rehearsed. It doesn't develop on its own, and it doesn't develop quickly. First, it requires acknowledging that the narrator is an internal actor that has been running things. Then, it requires deliberate practice, the same way any underused capacity gets stronger through repetition, engagement, and intention. Having a therapist who knows to work toward that capacity specifically is of great help too.</p>
-
-<p>I have to confess that my biases and previous understanding of the ego made me overlook its purpose. <em>The self doesn't come back online because the narrating self finally ran out of things to say.</em> It comes back online when there is a better understanding and connection with the narrator. You come to understand that the narrator exists because you were trying to make sense of people who could hurt you and still be the ones you depended on. But the narrator, like every other mechanism in us, has a positive intention and will stay quiet during processing if it gets that the system needs closure to heal—when the narrator becomes a supportive witness.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p><em>To find a therapist, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+<p>In the AI era, speaking face-to-face forms an essential part of an organization's knowledge infrastructure. The more advanced the technology becomes, the more carefully leaders need to explain where people remain important and the more important it becomes to demonstrate that sharing their knowledge gives the organization a future worth joining.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202608/the-part-of-you-thats-always-somewhere-else" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-human-workplace/202608/when-ai-makes-employees-guard-what-they-know" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202608/the-part-of-you-thats-always-somewhere-else</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202608/the-part-of-you-thats-always-somewhere-else</guid>
-            <dc:creator><![CDATA[Antonieta Contreras]]></dc:creator>
-            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-gary-barnes-6248524.jpg?itok=vqZZERc1" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/the-human-workplace/202608/when-ai-makes-employees-guard-what-they-know</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-human-workplace/202608/when-ai-makes-employees-guard-what-they-know</guid>
+            <dc:creator><![CDATA[Tony Nguyen Ph.D.]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/shutterstock_2680019605.jpg?itok=jo3axvSH" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Is Excessive Guilt Holding You Back?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Debra_M._Kawahara__Ph.D._Headshot-removebg-preview.jpg?itok=U1GomZLK" alt="Debra M. Kawahara Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Guilt</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Excessive Guilt Holding You Back?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Guilt should be a guide, not an emotional burden.</h2><p style="font-size:0.9em;color:#666;">Posted August 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Early Menopause: Symptoms, Causes, and Coping for Under 40s]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/BABCP_BRACKETS_LOGO_CMYK-removebg-preview.jpg?itok=-yXu__DZ" alt="The British Association for Behavioural and Cognitive Psychotherapies" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Menopause</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Early Menopause: Symptoms, Causes, and Coping for Under 40s</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Premature menopause explained—and the treatments that can help you cope.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Guilt can be adaptive or excessive, and it is important to know whether or not guilt is reasonable.</li><li style="margin-bottom:6px;">The Guilt Equation is a tool to identify the sources of guilt and to evaluate whether it is justified.</li><li style="margin-bottom:6px;">Four types of excessive guilt are perfectionism, people pleasing, over-responsibility, and control illusions.</li>
+              <li style="margin-bottom:6px;">Early menopause affects 1 in 100 women under 40, and around 10 percent of women experience surgical menopause.</li><li style="margin-bottom:6px;">Psychological impacts, including anxiety, low mood, and isolation, are as significant as physical symptoms.</li><li style="margin-bottom:6px;">CBT is recommended as part of menopause care and can help manage physical and psychological symptoms.</li>
             </ul>
           </div>
-                    <p>Many of us carry guilt as though it were a badge of responsibility. We feel guilty for saying no, guilty for setting boundaries, guilty for taking time for ourselves, and sometimes even guilty for our successes. In her book <em>Guilt Free: Reclaiming Your Life from Unreasonable Expectations,</em> psychiatrist Jennifer Reid argues that much of the guilt we experience comes not from actual wrongdoing, but from unrealistic expectations and social conditioning. Reid offers practical tools, including her “Guilt Equation” and a framework for understanding the “Four Furies” that drive excessive guilt. </p>
+                    <p><strong>By Angela Dingwall</strong></p>
+<p>Most conversations about menopause assume it happens in midlife. </p>
+<p>Yet, for thousands of women, menopause arrives decades earlier, often at a stage of life when friends are having children, building careers, and planning for the future. The result can be a profound sense of being out of step with both peers and expectations. </p>
 
-<h2>When Guilt Is Helpful</h2>
-<p>Not all guilt is bad. In psychology, guilt is considered an emotion that can serve an important adaptive function. Adaptive guilt occurs when we recognize that we have violated one of our values, hurt someone, or behaved in a way inconsistent with who we want to be.</p>
-<p>For example, if you forget an important commitment to a friend and feel guilty, that emotion may motivate you to apologize, make amends, and strengthen the relationship. In this sense, guilt acts as an internal compass. It helps us maintain accountability, empathy, and connection with others.</p>
+<p>Whether caused by surgical removal of the ovaries as part of treatment for conditions such as cancer, fibroids, and endometriosis or by premature ovarian insufficiency, thousands of women in their 20s or 30s experience menopause every year. </p>
+<h2>How common is early menopause?</h2>
+<p>In the United Kingdom, about 5 percent of women experience menopause before the age of 45, while approximately 1 percent experience it before the age of 40, and 0.1 percent—around 28,000 women—before they reach 30.</p>
 
-<p>Adaptive guilt is typically:</p>
-<ul>
-<li>Linked to a specific behavior</li>
-<li>Proportional to the situation</li>
-<li>Temporary</li>
-<li>Motivating rather than paralyzing</li>
-<li>Resolved through repair, reparation, or corrective action</li>
-</ul>
-<h2>When Guilt Becomes Excessive</h2>
-<p>Excessive guilt is different. Rather than serving as a guide, it becomes an emotional burden. Excessive guilt often emerges when people assume responsibility for circumstances beyond their control or hold themselves to impossible standards.</p>
+<p>While the physical symptoms may be similar to those experienced later in life, the psychological impact is often very different and far less discussed. </p>
+<h2>What are the emotional impacts of early menopause?</h2>
+<p>Younger women going through premature or surgical menopause may feel out of step with their peers and with societal expectations of where they should be in life. </p>
 
-<p>A working mother may feel guilty for attending an important meeting rather than a school event. A caregiver may feel guilty for taking a needed afternoon off. A student may feel guilty for resting after weeks of hard work.</p>
-<p>In these situations, no ethical violation has occurred. Yet, the emotional experience can be intense.</p>
+<p>Menopause is usually a transition that occurs after many major life milestones have been reached and passed. But when it happens early, it can interrupt a period when people are establishing careers, forming long-term relationships, or thinking about starting a family. For some, it arrives without warning, leaving little time to prepare psychologically for what is happening. </p>
 
-<p>According to Reid, women are especially vulnerable to excessive guilt because they are often socialized to prioritize others' needs above their own and to equate self-sacrifice with virtue. As a result, guilt can become "sticky," lingering long after it has served any useful purpose. </p>
-<p>Excessive guilt often sounds like:</p>
+<p>This can lead to a profound sense of dislocation. </p>
+<p>Many women feel isolated because their peers are not going through similar experiences. Friends may be discussing pregnancy, young children, or future family plans while they are coping with symptoms associated with a stage of life they had not expected to reach for many years. Others could feel invisible because conversations about menopause rarely reflect their experiences as younger women. </p>
 
-<ul>
-<li>"I should be doing more."</li>
-<li>"I am letting someone down."</li>
-<li>"A good person would be able to handle this better."</li>
-<li>"If someone is unhappy, it must be my fault."</li>
-</ul>
-<p>Unlike adaptive guilt, excessive guilt is tied less to actual behavior and more to unrealistic expectations.</p>
-<h2>The Guilt Equation (Guilt = Expectations - Reality)</h2>
+<p>The loss of fertility can also be particularly painful. </p>
+<p>Early menopause can challenge how women see themselves. Many have not expected to think about ageing, fertility, or menopause for another decade or more. The sudden need to confront these issues can create a mismatch between how they feel internally and what is happening physically. For some, that disruption to identity can be as difficult as the symptoms themselves. </p>
 
-<p>One of Reid's key contributions is what she calls the Guilt Equation, a tool designed to help individuals identify the sources of their guilt and evaluate whether that guilt is justified. The equation encourages people to examine the expectations driving their emotional responses and to determine whether those expectations are realistic, fair, or even their own. </p>
+<p>For some women, menopause arrives before they have had the opportunity to have children or even decide whether they want them. Even if parenthood were not a central life goal, the loss of choice can trigger grief, sadness, anger or confusion. These feelings may be compounded by uncertainty about the future and the physical effects of hormonal change. </p>
 
+<h2>What are the physical effects of early menopause?</h2>
+<p>Sleep disturbance, fatigue, difficulties with concentration and memory, anxiety, and low mood can all affect confidence and day-to-day functioning. Women may begin to doubt themselves at work or withdraw from social activities because they no longer feel like themselves. </p>
 
-<p>The central question becomes: Am I feeling guilty because I have violated one of my values or because I have failed to meet an unreasonable expectation?</p>
-<p>This distinction is powerful. When guilt originates from a values violation, action may be needed. When guilt stems from an unrealistic standard, self-compassion and boundary-setting may be the healthier response.</p>
-
-<h2>The Four Furies of Guilt</h2>
-<p>Reid describes four common drivers that fuel excessive guilt, referred to as the "Four Furies of Unreasonable Expectations." These drivers often distort our perception of responsibility and keep us trapped in cycles of self-blame. </p>
-<p>Although the specific manifestations vary from person to person, the Four Furies commonly involve:</p>
+<p>What can make this particularly challenging is that these difficulties do not occur in isolation. A woman struggling with fatigue may become concerned about her performance at work. That worry may increase anxiety, which then affects sleep, making fatigue even worse. Over time, cycles like these can become self-reinforcing. </p>
 
 
 
   
 
 
-<ol>
-<li><strong>Perfectionism. </strong>The belief that mistakes are unacceptable and that we must perform flawlessly in all roles. Perfectionism creates a moving target that can never truly be achieved.</li>
-<li><strong>People-Pleasing. </strong>The tendency to prioritize others' approval over our own needs. When saying yes becomes automatic, guilt frequently appears whenever we attempt to say no.</li>
-<li><strong>Excessive Responsibility. </strong>The assumption that we are responsible for other people's feelings, outcomes, or well-being. This can leave individuals carrying burdens that were never theirs to carry.</li>
-<li><strong>Illusions of Control. </strong>The belief that with enough effort, planning, or sacrifice, we can prevent disappointment, conflict, or suffering. When reality inevitably proves otherwise, guilt emerges.</li>
-</ol>
+<p>This is one reason psychological support can play an important role alongside medical treatment. </p>
+<h2>Can cognitive behavioural therapy help with menopause symptoms?</h2>
+<p>Cognitive behavioural therapy (CBT) is a practical, evidence-based approach that can help people manage some of the psychological difficulties associated with menopause. It is also included in National Institute for Health and Care Excellence (NICE) guidance on menopause care.  </p>
 
-<p>These four drivers often work together, creating a nearly impossible standard: Be perfect, keep everyone happy, control every outcome, and never put yourself first.</p>
-<h2>A More Compassionate Way Forward</h2>
-<p>Freedom from excessive guilt does not mean becoming selfish or indifferent. Rather, it means learning to distinguish between responsibility and over-responsibility.</p>
+<p>Although CBT cannot stop hormonal changes or reverse the physical causes of menopause, it can help people understand and change patterns of thinking and behaviour that may increase distress or make symptoms harder to manage. </p>
+<p>CBT is based on the idea that the way we think, feel, and behave are interconnected. By understanding these patterns, it is possible to respond differently to situations that have become difficult. <br> <br>For example, a woman who experiences a hot flush during a meeting may begin to think: "Everyone will notice. They’ll think I can’t cope." That thought can increase anxiety, which may make the physical sensations feel more intense. She may then begin avoiding meetings or other situations where she fears experiencing another episode. Avoidance can provide short-term relief but can also reinforce the belief that these situations are unmanageable </p>
 
-<p>Adaptive guilt can help us grow. Excessive guilt keeps us stuck.</p>
-<p>When we pause to examine the expectations underlying our guilt, we can begin asking healthier questions:</p>
-<ul>
-<li>Is this expectation realistic?</li>
-<li>Would I hold a loved one or friend to this standard?</li>
-<li>Am I responsible for this outcome?</li>
-<li>What do my values, rather than my expectations, tell me to do?</li>
-</ul>
+<p>CBT can help someone examine these thoughts, consider whether their predictions are accurate, and gradually develop more balanced and adaptive ways of responding. Over time, this can help rebuild confidence and reduce the impact of anxiety. </p>
+<p>Importantly, CBT is not about telling people to think positively or ignore what they have lost. Instead, it helps them respond more effectively to challenges that are often outside their control. </p>
 
-<p>As Reid's work reminds us, a meaningful life is not built on endless self-sacrifice. It is built on alignment with our values, self-respect, and the courage to let go of expectations that were never ours to carry. </p>
-<p>In summary, the goal is not to eliminate guilt entirely. The goal is to make room for the kind of guilt that guides us, while releasing the guilt that merely weighs us down.</p>
+<p>For women experiencing early menopause, that distinction matters. </p>
+<h2>What can CBT offer to help manage the difficulties of early menopause?</h2>
+<p>CBT can provide practical tools for managing associated difficulties. These may include breathing and relaxation techniques to reduce distress during hot flushes, evidence-based approaches for improving sleep, behavioural strategies to manage triggers, and structured techniques for addressing anxiety, stress, and low mood. </p>
 
-<p>For those interested in learning more about guilt, <a href="https://music.youtube.com/podcast/t-Su7w8JWAU">Dr. Jennifer Reid's interview</a> on Wellness in Today's World provides a deeper understanding of adaptive and excessive guilt, the sources of it, and how to access more joy, agency, and freedom in your life. </p>
+<p>It is important to say that CBT does not replace medical treatment such as hormone replacement therapy (HRT) but can work alongside it. That said, for those who cannot or choose not to use medication, it does offer a structured, nonpharmacological option. </p>
+<h2>Bringing the psychological impact of early menopause into the open</h2>
+
+<p>The psychological impact of early menopause is sometimes overlooked because attention is understandably focused on physical symptoms and medical treatment. Yet emotional well-being is often central to how people adapt to this unexpected life transition. </p>
+<p>As public awareness of menopause continues to grow, it is important that the conversation becomes more inclusive. Menopause does not only affect women in midlife. For those who experience it much earlier, the challenges can be unique, complex, and deeply personal. </p>
+
+<p>Understanding those experiences is an important step toward ensuring that younger women feel seen, supported, and understood. If you are navigating early menopause and finding the psychological impact difficult to manage, you do not have to do so alone. Speaking to your GP about a referral for CBT can be a meaningful first step toward feeling more like yourself again. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-06/angela_dingwall.jpg?itok=yJssixlm" width="320" height="357" data-insert-type="image" alt="Angela Dingwall" title="BABCP"></div>
+<div class="caption">Angela Dingwall</div>
+<div class="insertArea--origin subtext">Source: BABCP</div>
+</div>
+</div>
+</div>
+<p><em><strong>Angela Dingwall</strong> is course accreditation manager at the BABCP with a special interest in the psychological symptoms of menopause. She has worked in mental health for more than 30 years as a cognitive behavioural therapist, a registered mental health nurse, and a senior lecturer. </em></p>
+<p><br><br> </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/seeds-of-wisdom/202608/is-excessive-guilt-holding-you-back" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/cbt-in-practice/202606/early-menopause-symptoms-causes-and-coping-for-under-40s" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/seeds-of-wisdom/202608/is-excessive-guilt-holding-you-back</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/seeds-of-wisdom/202608/is-excessive-guilt-holding-you-back</guid>
-            <dc:creator><![CDATA[Debra M. Kawahara Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/cbt-in-practice/202606/early-menopause-symptoms-causes-and-coping-for-under-40s</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/cbt-in-practice/202606/early-menopause-symptoms-causes-and-coping-for-under-40s</guid>
+            <dc:creator><![CDATA[The British Association for Behavioural and Cognitive Psychotherapies]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-06/pexels-ekaterina-bolovtsova-4049734.jpg?itok=Rh8nyKkY" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finding the “Bliss of Blamelessness”]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/toni_bernhard_larger.jpg?itok=dAMV2V3G" alt="Toni Bernhard J.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Forgiveness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Finding the “Bliss of Blamelessness”</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A personal perspective: Learn the beneficial effects of not-blaming.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">It’s sometimes rare to get through a day without blaming others for something.</li><li style="margin-bottom:6px;">Blaming triggers anger and/or resentment, two stressful emotions.</li><li style="margin-bottom:6px;">Living blamelessly allows kindness and compassion to flourish.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/photo_by_andrew_small_unsplash_0.png.jpg?itok=0o1xVlVA" width="320" height="214" data-insert-type="image" title="Andrew Small/Unsplash" alt="Andrew Small/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Andrew Small/Unsplash</div>
+</div>
+</div>
+</div>
+<p>I realized a few years ago that not a day went by without my blaming other people for something. I’d blame a friend or family member for something trivial they said or did. I’d blame people I’d never met (politicians come to mind). I could even blame total strangers—how loud they were talking, how tied they were to their smartphones. </p>
+
+<p>And yet, the Buddha called not-blaming one of the keys to happiness. He called it “The Bliss of Blamelessness” (Ananya Sutta (AN 4.52). It’s a tall order to live without blaming, but when I read what he said, I thought, “If it will feel blissful, I’ll give it a try.”</p>
+<p>One reason I’m working on this is because blaming means I’m in the throes of desire: the desire for the world and its people to conform to my liking. But that’s not going to happen. Clinging to my desires is the major source of suffering in my life. Suffering has a lot of synonyms: stress, unease, or, as I put it, dissatisfaction with the circumstances of my life. All these words and phrases express the anger and resentment that can arise when people don’t behave the way I want them to. Blaming them is not far behind, and that just intensifies my stress and suffering.</p>
+
+<p>Here’s how I practice not-blaming. I start by recognizing that, almost always, people’s behavior is due to a lifetime of conditioning. Even the politicians whom we blame for their lack of compassion or moral integrity may have had parents who always blamed other people when things didn’t go the parents’ way. As a result, the child learned that blaming and judging others was the norm.</p>
+
+<p>Almost every moment of behavior is based on that past conditioning. I’m not saying that people can’t overcome this, but it’s hard because they’ve formed deep habits around that conditioning. Practicing mindfulness can help if you’re comfortable using it to pay attention to your judgmental thoughts and opinions and why you’re so attached to them. Formal therapy can also help.</p>
+
+<p>When I’m free from blaming others, my heart and mind feel at ease, even, as the Buddha said: blissful. It feels as if I’ve laid a burden down—the burden of always judging and blaming others. Life feels lighter because I no longer have to defend my opinions. As a result, my mind is free of negative thoughts about others that I can carry around for days or even years. In addition, blaming and negative judging tend to trigger anger and/or resentment—two stressful emotions that make us feel terrible.</p>
+
+<p>With all of this in mind, I have an experiment for you to try. For the next 24 hours, refrain from blaming. If someone is rude to you—perhaps snaps at you after you’ve spoken—just register it and remind yourself that his or her behavior is most likely the result of a lifetime of conditioning that made rude behavior the norm. I said “most likely” because it’s also possible the person was having a bad day for any number of reasons (a fight with a partner, feeling overwhelmed at work). </p>
+
+<p>In my experience, I’ve found that as the mind cultivates the bliss of blamelessness, being kind and compassionate toward others becomes an alternative approach toward others that feels so much better than judging and blaming.</p>
+<p>Meditation teacher Sylvia Boorstein likes to say: “I am the primary beneficiary of my own kindness.” I’ve found this to be true. If I’m in a cranky mood, blaming others for their behavior—whether they be people I know in person or only remotely through the media—makes me even crankier. Instead, if I’m kind because I understand the effects of conditioning, my crankiness dissipates. </p>
+
+
+<p>Of course, you may have to overcome a lifetime of conditioning yourself that has you playing the blame game, but you can start working on it. I have to admit that I’ve never made it through a day without blame popping up, usually aimed at some politician I don’t like. Often it’s over something so trivial, it’s hardly worth my attention. But I’m working on changing this behavior.</p>
+
+<p>Not-blaming doesn’t require you to become a doormat. You can work on finding ways to avoid spending time with someone whose company triggers the desire to blame. That said, you can assess the relationship without blaming the other person for what you don’t like about being with him or her. If you get caught up in blaming politicians or other public figures, reflect on how their behavior is the result of their lifelong conditioning and then limit your exposure to them. Don’t spend the day with them in the media. </p>
+
+
+
+  
+
+
+<p>When I’m feeling brave, I’ll practice blamelessness by purposefully exposing myself to a politician whom I blame for any number of things. I challenge myself to look at them differently, to see that, given their past conditioning, this is the way they are bound to behave. I reflect on how, deep down, it can’t feel good to be them, and then I try to cultivate compassion for their suffering. </p>
+
+<p>I hope you’ll try my experiment. Remember that the people who make you angry, whether you know them in person or not, are acting based on behavior they learned decades ago, usually as children. </p>
+<p>When I’m able to refrain from blaming, my heart and mind feel calm and equanimous. Sometimes I feel light as a feather because I’m not caught up in aversion, whether it takes the form of frustration, anger, or resentment. And remember Sylvia Boorstein’s words: “I am the primary beneficiary of my own kindness.”</p>
+
+<p>Be kind to others. Be kind to yourself. My best to everyone.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/turning-straw-into-gold/202608/finding-the-bliss-of-blamelessness" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/turning-straw-into-gold/202608/finding-the-bliss-of-blamelessness</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/turning-straw-into-gold/202608/finding-the-bliss-of-blamelessness</guid>
+            <dc:creator><![CDATA[Toni Bernhard J.D.]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/photo_by_andrew_small_unsplash.png.jpg?itok=wMR0YZV6" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Subtraction vs. Addition: Carrying Less Can Increase Well-Being]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/mcnaughton-cassill_3.jpg?itok=QIgMFkEq" alt="Mary McNaughton-Cassill Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Stress</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Subtraction vs. Addition: Carrying Less Can Increase Well-Being</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Subtracting things from our lives might be a way to multiply our well-being.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">As fall approaches, many of us feel we need to set new goals and be more productive.</li><li style="margin-bottom:6px;">There is a limit to how long we can keep adding to our schedules before we are overwhelmed.</li><li style="margin-bottom:6px;">Focusing on subtracting activities and streamlining our lives can improve well-being.</li>
+            </ul>
+          </div>
+                    <p>For many of us, Labor Day traditionally signaled the start of the new school year. It meant that summer was over, and it was time to focus on filling our backpacks with the right school supplies and deciding what to wear on the first day of school. Even when we no longer go to school, the start of the new school year and the transition to fall weather make many of us feel we should be thinking about setting new goals and increasing our productivity. </p>
+
+<p>But does simply trying to do more in less time improve our lives? To a point, we may get more things done, but it can also leave us feeling overwhelmed, exhausted, and chronically short of time. In some ways, this is a uniquely modern problem. In the past, people’s lives were often slow-paced and routine. The activities of daily life, such as obtaining food, cleaning the house, and walking from one place to another, took significant amounts of time, and opportunities for entertainment were limited. </p>
+
+<h2>Productivity and the Endless Options of Modern Life</h2>
+<p>Today we have labor-saving devices that make many routine activities easier, and access to an endless stream of music, movies, games, and ways to distract ourselves. But the variety of options available to us can feel daunting. Should we listen to classical or rock music, play an audiobook or a podcast, catch up on the news, watch a movie or streaming show, or learn a new language through an app? The sense that we can never sample all the options available to us leaves us feeling there isn’t enough time to do anything. </p>
+
+<p>Does this mean we simply have to resign ourselves to always feeling harried and stressed? Or should we consider adjusting our assumptions and our behaviors? Economist Leidy Klotz, author of the book <em>Subtract,</em> makes a compelling argument for a change in the way we think. He suggests that we need to switch our focus from adding more things to our lives to figuring out how to remove things. In a country built on growth and expansion, it takes a minute to let this idea sink in. Does failing to strive to do as much as possible mean we are lazy? Will our kids miss out on key opportunities if we leave time in their schedules for playing and dreaming? Do banks, insurance companies, educational institutions, and other organizations benefit from adding more processes and paperwork, or does it end up contributing to confusion and errors?</p>
+
+<p>The answers to these questions aren’t easy. While productivity often pays off, it can also feel like we are on a never-ending treadmill. To get off, Klotz argues that we need to focus less on adding to our schedules and more on subtracting things, large and small, to simplify our lives. To do this, we need to think more about what we are doing, how we do it, and why we are doing it the way we are. This can allow us to recognize processes that are more habitual than logical, and to think about what aspects of our lives really matter to us. It may also inspire us to think about what we expect from ourselves, and whether we need to ask others for help. Dividing tasks into smaller pieces can reduce stress levels, provide more opportunities to feel a sense of accomplishment, and make it easier to get others engaged in the process. </p>
+
+<p>In the popular press, simplifying our lives is often portrayed as a draconian process. We see people moving large families into tiny homes, trying to limit their belongings to only 100 items, or giving up an established career to work remotely on an island somewhere. While these changes may work for some people, we know from research on behavioral change that large dramatic changes are rarely sustainable. Fad diets and rigorous exercise programs sound enticing, but when the goal is too large, we end up backsliding or giving up altogether. </p>
+
+<h2>Small Changes Can Create Lasting Impact</h2>
+<p>So maybe the first thing we need to do is to avoid the urge to add more stress to our lives by trying to make massive changes. But what if we tried some small, simple things? Is there one activity a week that you could eliminate, outsource, or do less frequently? Is there one process you do around the house, or at work, that you could simplify by removing a single step or organizing things differently? Would your kids actually like to take one extracurricular activity out of their schedule? Could you divide tasks into smaller pieces and delegate parts of them to other people? Even if the changes you make only save you 15 minutes a day, it can make things feel less rushed. The feeling that we have enough time to get things done is sometimes referred to as time affluence and is associated with happiness and well-being. </p>
+
+
+<p>While making small, undramatic changes might not be Instagram-worthy, it can really matter. In an era when rates of stress, depression, and anxiety are on the rise, we need to think about doing things differently. That doesn’t mean it is easy to change our attitudes or our behavior. Initially focusing on doing less may feel unproductive, or even lazy. But making and testing small changes can be surprisingly rewarding. It gives you a chance to see what works, and to adjust your choices based on real-world feedback. </p>
+
+<p>Clearly, staying busy and constantly striving to do, earn, or acquire more isn’t a sure recipe for happiness. As you look at your to-do lists and schedules this fall, it might be worth thinking about how to simplify or streamline things, so you have more time to enjoy what you do choose to do. Ironically, subtracting things from your life might be the way to multiply your well-being.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/mental-health-matters/202608/subtraction-vs-addition-carrying-less-can-increase-well-being" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/mental-health-matters/202608/subtraction-vs-addition-carrying-less-can-increase-well-being</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mental-health-matters/202608/subtraction-vs-addition-carrying-less-can-increase-well-being</guid>
+            <dc:creator><![CDATA[Mary McNaughton-Cassill Ph.D.]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-yankrukov-7793989.jpg?itok=fqW-7d58" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 Ways to Lower Your Child's Emotional Intensity at any Age]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image0_1_-removebg-preview.png.jpg?itok=9LsLSHnF" alt="Jeffrey Bernstein Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Ways to Lower Your Child's Emotional Intensity at any Age</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When calming the emotional temperature works better than correcting the behavior.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Think of yourself as the thermostat, not the thermometer.</li><li style="margin-bottom:6px;">Use fewer words when emotions are high.</li><li style="margin-bottom:6px;">Turning down the intensity with your child at any age will help create more room for connection.</li>
+            </ul>
+          </div>
+                    <p>Every parent has been there, but the hope is not to live there. What I mean is that when emotions run high between parents and children, it's very tempting to focus on fixing the behavior. You know what I'm saying but just to spell it out some more, here are some examples of those ramped-up, straight-up power struggles: "You need to show more respect"; "You need to stop yelling at me and stop the arguing"; "Hey, I asked you to get off that screen; you need to listen because I'm not gonna ask you again"; "You have been doing nothing for so long; you need to apply for a job." </p>
+
+<p>By the way, I can certainly understand the frustrations facing parents that lead them to speak in this counterproductive, intensity-escalating way. But if you are reading this post, you probably realize none of these "strategies" mentioned here actually work very well. The bottom line is that whether your child is 8, 18, or even 38, pushing your child really hard in emotionally charged moments ends up like walking on quicksand—the only place you end up going is down. </p>
+
+<p>Let's look at three ways you can change the interaction to help reset problematic behaviors.</p>
+<h2>1. Think of Yourself as the Thermostat, Not the Thermometer</h2>
+<p>A thermometer simply reflects the temperature around it. For example, when things get hotter, it gets hotter. Now contrast this with a thermostat, which actually sets the temperature. Do you get the picture? When your child escalates, it is easy to escalate right along with them. I mean, after all, you're a parent, but you're also human. For example, if a 10-year-old yells, "Leave me alone," the parent fires back, "Don't you talk to me like that." Or, the 27-year-old struggling adult child who says, "You always invalidate me," and the parent starts listing out "everything we have done for you."</p>
+
+<p>Sure, these examples above reflect varied ages, but if the parent sees themselves as the thermostat, then they will stop responding in ways that match the heightened emotional temperature. Instead, if they stay steady, calm, and noncontrolling in their response, they can help lower the emotional temperature. </p>
+
+<h2>2. Use Fewer Words When Emotions Are High</h2>
+<p>When I coach parents, many share with me that when they feel threatened or disrespected, they talk more, lecture more, explain more, nag more, and question (which often becomes interrogating) more. But your child's emotionally flooded brain is not going to become more receptive to your input when it is delivered in a way that floods them. </p>
+
+<p>In my book,<em> 24 Hours to a Less Reactive Child: The One-Day Reset to Reduce Conflict, Calm Big Emotions, and Reconnect,</em> I suggest many ways to engage reactive children more positively at any age. For example, try fewer words, such as, "I see you are upset; let's come back to this later." Or, you can say, "I want to work this out, but not when both our emotions are so worked up." Notice the "we"/collaborative bent to this second example. It helps the child feel part of the process versus singled out as "the problem." This isn't about giving in or never saying no; it is about avoiding pouring gasoline on an already lit fire of raging emotions.</p>
+
+<h2>3. Think About Calming Down First and Solving Problems Second</h2>
+<p>I often tell parents that the two most important skills for a successful life are calming down and solving problems. You may think this is super-obvious. But if you look at addictions, the incarceration rate, road rage, and the myriad other ways that humans end up in a bad way when their emotions get the best of them, I hope you can agree that these two skills are crucial. </p>
+
+
+<p>Trying to calm down when your reactive brain is in overdrive is like trying to repair something on fire. What I am saying is this: Lower the intensity first, then you can address the homework, screen time, excessive drama, disrespect, anxiety, spending habits, job search, or whatever issues are going on. It is all about changing the interactions, and you will be surprised how fast you can change what seem like entrenched patterns. </p>
+
+<h2>The Takeaway</h2>
+<p>Turning down the intensity with your child at any age will help create more room for connection. As a parent, you play a huge role in encouraging calm and constructive conversations when you see yourself as the thermostat vs. the thermometer. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202608/3-ways-to-lower-your-childs-emotional-intensity-at-any-age" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202608/3-ways-to-lower-your-childs-emotional-intensity-at-any-age</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202608/3-ways-to-lower-your-childs-emotional-intensity-at-any-age</guid>
+            <dc:creator><![CDATA[Jeffrey Bernstein Ph.D.]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/mother-daughter_conflict_pexels-karola-g-6957274.jpg?itok=Ujh64ydi" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why You Should Keep a Streak]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/leah_marone.jpg?itok=F6-nepHD" alt="Leah Marone LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Habit Formation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why You Should Keep a Streak</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What streaks can teach us about consistency, self-trust, and starting again.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Streaks are keeping a daily habit or touchpoint of communication alive for a substantial amount of time.</li><li style="margin-bottom:6px;">A streak creates bite-sized objectives rather than an indefinite to-do.</li><li style="margin-bottom:6px;">If a streak is broken, we can gather information and use it to understand how to move forward.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/pexels-n-voitkevich-5982133.jpg?itok=hPVlwSok" width="320" height="480" data-insert-type="image" title="Voitkevich / Pexels" alt="Voitkevich / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Voitkevich / Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr">When you were born probably affects what you think of when you read the word "streak." I am not referring to running naked across a football field or new highlights in your hair. Streaks today are more aligned with keeping a daily habit or touchpoint of communication alive for a substantial amount of time. Which, yes, I guess this supports the millennial definition of winning streaks or fitness goals. </p>
+
+<p dir="ltr">Gen Z and Gen Alpha have rekindled the term and moved it beyond Snapstreaks. For those of you who don't know what this means (I, too, was recently educated), it is using the social media app Snapchat and snapping, or sending, a photo to a friend every day without fail. But what interests me isn't Snapchat. It's what happens psychologically when we start keeping track of our own consistency and create goals that give us structure. I am intrigued and impressed with how my younger clients have expanded on this trend and are now using the term “streak” to motivate themselves in ways that support their well-being. </p>
+
+<h2>A Streak Gives Your Brain Evidence That You Can Show Up for Yourself</h2>
+<p dir="ltr">Keeping a streak, and the consistency and reps that this involves, gives your brain evidence that you can keep showing up for yourself. It's not about confirming your self-worth. It's about supporting the fact that you have already subscribed to that truth and want to continue to strengthen it. Anxious thought patterns thrive on fear-based thinking that is focused on futuristic what-ifs, or on rehashing and ruminating about the past. The brain is either trying to fill the gaps and make sense of something that has already happened or reach a sense of closure, or it is over-preparing us for the future. This can be overwhelming and pulls us away from living in the present.</p>
+
+<p dir="ltr">Maintaining a streak can defuse some of that overwhelm and calm the thoughts around, “How long am I going to be able to keep this up?” The focus becomes today, not some indefinite point in the future. The thought process changes to, “When am I going to get my rep in today and keep my streak going?” A streak creates bite-sized objectives rather than an indefinite to-do.</p>
+
+<p dir="ltr">When we create something too big, too rigid, or too final, a part of us generally surfaces and convinces us otherwise. It's just too much, and we should probably bail out now to protect ourselves from feeling the failure later. To build a habit, we must identify, acknowledge, and work with all of our conflicting parts to create internal safety and keep the momentum going. In the past, I have referred to this as the gray zone: challenging our tendency to operate in black and white and adopting a mindset that meets our conflicting parts in the middle, almost as if we were our own mediator. Hence, the gray zone.</p>
+
+<h2>Reframe the Goal: Consistency, Not Daily Achievement</h2>
+<p dir="ltr">Consistency is a difficult endeavor for us humans. When we strive for consistency, we are playing fair with ourselves. We are creating the opportunity to self-assess, see what works for where we are and what we can realistically do, while also pushing back and emphasizing to the part of us that might want to bail altogether because we're having a tough or busy day that we can still show up and that we are worth the effort.</p>
+
+<h2>Why Streaks Keep Us Grounded</h2>
+<p dir="ltr">Life is unpredictable. This is not a new phenomenon. When we have certain elements embedded into our routines and lifestyles that create some predictability and encourage self-connection, we are more equipped to meet and healthfully navigate the unknowns.</p>
+<p dir="ltr">Keeping ourselves in the equation strengthens our connection to ourselves, creating something that is harder to break. A streak serves as a touchpoint, an action or mindset that brings us back to ourselves and confirms that this part of our day, this effort, has some predictability. That predictability can serve as another tool to help manage anxious thoughts and gaps in self-trust.</p>
+
+<h2>How to Create a Streak</h2>
+<p dir="ltr">What is something you value? Something you know helps you connect, keeps you healthy, or makes you feel more like yourself?</p>
+<p dir="ltr">Start there, and don't be afraid to start small. Think of this as your warm-up. It isn't about designing some outlandish routine. It's about beginning and then noticing how you adjust and what parts of you are resistant. This is important data because these are the parts that are going to need a bit more convincing, and the only way to do this is through consistency and reps.</p>
+
+<p dir="ltr">Consistency demonstrates to these resistant, protective parts of you that you can recover and that you are not in danger. When something new is introduced, resistant parts are supposed to surface in order to question and protect. But as we know, most of the time these parts come in too strong and become overprotective. This is where self-soothing comes in. The practice of fact-checking can also keep you from abandoning your streak when those protective parts start making their case. Pull from your history, your data, and challenge the negative all-or-nothing thoughts that lack trust in your ability to recover, persevere, and navigate new challenges.</p>
+
+
+
+  
+
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/pexels-thngocbich-917292.jpg?itok=guxPQm_O" width="320" height="213" data-insert-type="image" title="Bich Tran / Pexels" alt="Bich Tran / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Bich Tran / Pexels</div>
+</div>
+</div>
+</div>
+<h2>When to Celebrate</h2>
+<p dir="ltr">Notice and affirm your efforts daily. Don't skip this step; this is what makes it fun. It might be small, but essentially, it's like giving yourself a high five and strengthening your relationship with yourself. Acknowledge that some days your rep came more easily than others. This is normal and part of why keeping a streak is challenging yet satisfying.</p>
+
+<h2>What Happens if a Streak Is Broken?</h2>
+<p dir="ltr">Simply put, you start over.</p>
+<p dir="ltr">Learn from the break and regroup. This is resilience, and yes, you have it and can get more of it. The purpose of a streak is not to never break it. It’s to practice coming back to yourself when you do. There is a lot of information you can gather from the break and use to understand what got in the way and how to move forward. And moving forward is not negotiable.</p>
+
+<p dir="ltr">Tweak the streak based on the chapter of life you are in. We do not maintain the same roles, setups, responsibilities, and energy levels throughout our entire lives. What worked six months ago may not work today. Find the gray zone. Keep yourself accountable, keep striving, keep fighting to keep yourself in the equation. Furthermore, understand that reassessing and changing things up might just be the very thing that keeps you consistent. And ultimately, that is the goal.</p>
+
+<p dir="ltr">Maybe the word streak still means different things depending on when you were born. For some, it's a Snapchat notification. For others, it's a running record, a fitness goal, or a daily habit. And for some of us, well... it's still a naked person running across a football field.</p>
+<p dir="ltr">Whatever your definition, maybe the real value of a streak isn't how long you can keep it going. Maybe it's learning that you can keep showing up for yourself, even when life gets messy, your motivation disappears, or you miss a day.</p>
+
+<p dir="ltr">And if you do miss a day? Start again.</p>
+<p dir="ltr">Just keep your clothes on.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/gaining-and-sustaining/202608/why-you-should-keep-a-streak" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/gaining-and-sustaining/202608/why-you-should-keep-a-streak</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/gaining-and-sustaining/202608/why-you-should-keep-a-streak</guid>
+            <dc:creator><![CDATA[Leah Marone LCSW]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-n-voitkevich-5982133.jpg?h=6fcb965b&amp;itok=KSzyInc5" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Positive Psychology Is Essential for a Dog to Thrive]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Positive Psychology Is Essential for a Dog to Thrive</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A new book stresses the importance of treating dogs fairly.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/becky_s_dogs.png.jpg?itok=seFHPFM6" width="320" height="278" data-insert-type="image" alt=" " title="Rebecca Niemiec/with permission."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Rebecca Niemiec/with permission.</div>
+</div>
+</div>
+</div>
+<p>Human-dog relationships vary from being extremely positive and as reciprocal as possible to being highly abusive, with dogs treated as unfeeling objects and living their lives in fear of making dog-appropriate "mistakes" that upset their humans to the point where they are punished, often harshly, for just being a dog. </p>
+
+<p>Research has consistently shown that positive force-free training is the best way to get a dog to do what they need to live in fair harmonious relationships with humans that value the well-being of all involved.<sup>1</sup> Along these lines, in her new science-based book<em> </em><a href="https://www.simonandschuster.com/books/Think-Like-a-Dog/Jen-Golbeck/9781668060735"><em>Think Like a Dog: How Positive Psychology Can Help Your Dog Thrive</em></a>, dog expert <a href="https://www.psychologytoday.com/us/blog/gone-to-the-dogs">Jen Golbeck, Ph.D.,</a> "shifts our focus from solving problems and scolding 'bad behavior' to building on strengths based on qualities like focus, vitality, and curiosity." </p>
+
+<p><strong>Marc Bekoff: Why did you write </strong><em><strong>Think Like a Dog</strong></em><strong>?</strong></p>
+<p><strong>Jen Golbeck: </strong>When I was working on my first book, <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202311/many-ways-dogs-can-help-heal-our-bodies-minds-and-hearts"><em>The Purest Bond</em></a>, which was about the human-dog bond, I collected so much interesting research about dog psychology that was independent of their relationship with us. As I looked at all of it, I saw that almost all this science described ways that dogs interacted with the world, and found enrichment, in really positive ways. I did not want to write "Chicken Soup for the Dog Lover's Soul," but I did want to connect all these interesting, scientific insights about dogs to a framework we have for understanding how people live fulfilling lives. That's what I've tried to do, linking canine psychology with positive psychology in <em>Think Like a Dog</em>.</p>
+
+<p><strong>MB: How does your book relate to your background and general areas of interest?</strong></p>
+<p><strong>LG: </strong>First, as a dog rescuer and rehabilitator, I am amazed and fascinated by dogs' resilience and capacity for joy. We take in dogs who have been abused and neglected, who have truly suffered, sometimes for their whole lives, and yet after a few weeks in our gentle, supportive house, we can see that past falling off them. After a few months, they are transformed into happy, loving, engaged dogs. They sometimes have anxieties or weird behaviors left over from their pasts, but they are able to live their best lives anyway. Even though we have shepherded dozens of dogs through that process, it still feels miraculous every time.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/think_like_a_dog_cover.jpg?itok=aOC2nV0l" width="320" height="483" data-insert-type="image" title="Atria Books/with permission." alt="Atria Books/with permission."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Atria Books/with permission.</div>
+</div>
+</div>
+</div>
+<p>But also, I'm a scientist! I love when science gives us insight into what is going on in the brain and mind that explains the things that feel like miracles. In this case, we have decades of human psychology research that tells us how we can be happy and resilient, and it turns out there are straightforward ways to link that to decades of research about dogs and find that, at the heart of it, a lot of the same things make both species feel fulfilled.</p>
+
+<p><strong>MB: Who do you hope to reach?</strong></p>
+<p><strong>JG: </strong>Certainly dog people who want to understand both how their dogs see the world and how they can use that knowledge to help them be happier. But it's not a training book, and I think anyone interested in how we humans and animals think alike will find something in here.</p>
+
+<p><strong>MB: What are some of the topics you consider and what are some of your major messages?</strong></p>
+<p><strong>JG: </strong>One of my favorite things in the book is approaching the more complex social dynamics dogs have with each other and with us. We think of them as loving snacks and walks and a swim, but those are simple joys. Dogs are very complex social thinkers and scientific observations and experiments have shown that.</p>
+
+<p>They have a sense of loyalty, for example, and are less likely to accept a treat from someone who has been a jerk to their own human. They have something like a sense of humor; dogs laugh and seem to enjoy playing tricks.</p>
+<p>They have sophisticated ideas about fairness. You have written about this in your own work, with the way they engage in play. They have a set of rules they follow and behaviors they expect from one another, but they also are able to understand when they need to be more gentle or calm and when they can be more energetic and let loose. They also can keep track of fairness in allocations, where some dogs will wait until treats are distributed fairly before taking more than they deserve.</p>
+
+<p>It's not just that they have these senses or understandings. Their lives are better because of them, just like our lives are better when we laugh, have strong relationships, and engage in fulfilling interactions.</p>
+<p>I also want people to start looking for how these traits show up in dogs. Are they happiest after lots of exercise? Or lots of cuddles? Are they constantly seeking out other dogs to play with? Those actions tell us about what the dogs want to be happy, and we should look for how we can offer them more of that. Maybe they need a friend, maybe they need to join a flyball team, maybe they need a job to have a sense of purpose. <em>The major message of the book is to think about how you can recognize your dog's messages about what brings them joy and fulfillment, and then think about how to give it to them.</em></p>
+
+
+
+  
+
+
+<p><strong>MB: How does your work differ from others that are concerned with some of the same general topics?</strong></p>
+<p>JG: This book resists something I see in a lot of work that's on a related topic. It doesn't anthropomorphize dogs, saying we have to treat them just like humans or see them through our own eyes. It offers science that, I hope, shows their unique way of being in the world. At the same time, it does not treat them as creatures with social rules and psychology different from ours, because we bred them to interact with and like us! Grounding this all in really solid science helps find this middle space where we can appreciate those similarities but also think about what they need that is different.</p>
+
+<p><strong>MB: Are you hopeful that as people learn more about how dogs think, and what they want and need from us, they will treat them with more compassion, respect, and dignity and try harder to take the dog's point of view and grant them more freedom to be a dog and express their dogness?</strong></p>
+<p>It is exactly my hope that once we all understand our dogs better, we will be more gracious with them. If we want our dogs to be happy, one of the best ways to get that is to understand how they see the world and to provide them as many opportunities to do the things that science says will work to make their lives better. That may mean being more engaged (more snuggling, less scrolling), patient (more sniffs and fewer steps on a walk), or creative (more novelty, more excitement), but I think people who really love their dogs will want to understand their unique way of interacting with the world, appreciate the parallels with our own, and give them the same kind of freedom to be happy that we want for ourselves.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202608/why-positive-psychology-is-essential-for-a-dog-to-thrive" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202608/why-positive-psychology-is-essential-for-a-dog-to-thrive</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202608/why-positive-psychology-is-essential-for-a-dog-to-thrive</guid>
+            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/becky_s_dogs.png.jpg?itok=nMJuE4ko" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Will the Lindsay Clancy Case Affect Mental Health?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-06/Gerlach.jpg?itok=G33R7vSa" alt="Gerlach" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychosis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Will the Lindsay Clancy Case Affect Mental Health?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">High-profile tragedies like the Clancy case can complicate psychiatric care.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Lindsay Clancy's story has driven a reckoning within the mental health field.</li><li style="margin-bottom:6px;">Mental health professionals are facing increased scrutiny and fear.</li><li style="margin-bottom:6px;">We need more providers who treat psychosis and awareness of psychosis.</li><li style="margin-bottom:6px;">Hopefully, this will spark lasting change rather than fear-based reactions among clinicians.</li>
+            </ul>
+          </div>
+                    <p>I used to think that the worst thing that could happen to a person was to lose a child. After interning in a forensic psychiatric unit, I changed my mind. The worst thing that can happen to someone is to lose their child (or children) by their own hands during a psychotic episode.</p>
+<p>Like many, Lindsay Clancy’s story has raised a storm of emotions inside me. As a human, I mourn for her and her family; as a person who has experienced psychosis, I am thankful to have been spared such suffering, and as a therapist, I watch the questioning with anxiety.</p>
+
+<p>Lindsay avidly sought mental health treatment, yet the mental health system did not prevent these deaths. The trials are exposing critical gaps and realities in our systems of care, such as the confusion that can arise when someone sees multiple providers, particularly given strict laws governing information releases and barriers to care coordination. Similarly, the arbitrary "plan" threshold that is often held for psychiatric hospitalization when a person presents to crisis services. Would another consultation or hospitalization have prevented these deaths? There's no way to know.</p>
+
+<p>As I watch the defense hammer Lindsey's providers with cutting inquiries, I wonder how many other mental health professionals are watching, and how this will change mental health care moving forward. These are four questions I have.</p>
+<p><strong>1. Will Getting Psychosis Care Change?</strong></p>
+<p>A lot of providers do not treat people with psychosis in part due to publicized cases like this; they are afraid, they feel underprepared, they don't want to be held responsible if the worst thing happens. As a practitioner specializing in psychosis, I have had people travel more than an hour to see me for therapy appointments. When I have offered training on psychosis to other practitioners, many accept gracefully, but desire the focus to be on when and how to refer out. We do not have enough psychosis specialists.</p>
+
+<p>A worry I carry is that this trial will add to the stigma and fears many health care professionals already hold towards individuals experiencing psychosis, that fewer will choose to specialize in it, and more providers will refer out.</p>
+<p>Another possibility is that this story will inspire a broadening of support designed for psychosis to include a wider net. Most states have designated early psychosis programs that involve specialized therapy, psychiatry, community support, family support, and peer support. These programs have been heavily researched with positive outcomes.</p>
+
+<p>This said, this model called 'coordinated specialty care', often has an age limit. Some programs limit services to people older than 25. Yet, we know that psychosis can onset later, especially in women. Perhaps this will encourage more awareness around postpartum psychosis and an opening of eligibility criteria to include potential participants up to age 40, 45 or later.</p>
+
+<p><strong>2. Will This Change How Providers Identify Psychosis?</strong></p>
+<p>It may sound counterintuitive, but people, even mental health professionals, often avoid what they fear. When people choose not to pursue training in psychosis, justifying that they won't see 'those clients' anyway, they are primed to view psychosis through a lens of extreme cases. They might expect a stereotype to walk in when psychosis is present. The reality is that people experience psychosis, drive, interact, work, raise children, and live life, just as people who don't. We are as human as anyone.</p>
+
+<p>The subtle signs of psychosis are easy to miss when someone is looking for someone with loud, stereotypical symptoms. In early psychosis, people often know that others would find their alterations jarring and hide them. Sometimes people become afraid of their own minds and don't want to admit the severity. Here is where looping in family support is often essential. Yet, in traditional mental health care, this is often not even offered as an option.</p>
+
+
+<p>On the other side, it's possible this awareness will build mental health providers interest in understanding and identifying psychosis early. Something that would be incredible, as we know the earlier intervention is given, the better the prognosis.</p>
+<p><strong>3. Will More Clients Be Treated as Liabilities Rather than People? Or will this humanize psychosis?</strong></p>
+
+<p>No mental health professional has a crystal ball. At least none that I've met. We can do our best, but we can only work off the information we have. Healing professions are meant to treat clients; when people are reduced to liabilities, care actually suffers, and fear on both sides drives a loss of trust.</p>
+
+
+
+  
+
+
+<p>People think of therapy and mental health work as a cushy job. We don't receive the same recognition as other healthcare providers, and our reimbursement rates are low. But we make difficult decisions daily. We hold intense stories and situations. Our work is complex.</p>
+<p>On the other side, stories like Lindsay's remind us that psychosis can happen to anyone. The presentation of her case has shown her in role of loving mom and wife---not a wild monster. Such is accurate. This case may build compassion for others experiencing psychosis and more clinicians may wish to help.</p>
+
+<p><strong>4. How Will This Affect Clients With OCD?</strong></p>
+<p>Lindsay Clancy was well-documented to be experiencing intrusive thoughts, yet whether or not she heard voices has been a topic of contention. The reality is that the difference between these two experiences is trickier to determine than one might think. Sometimes, voices are not heard outside one's head but internally.</p>
+
+<p>People with OCD walk around with all kinds of intrusive thoughts that they would never act on. OCD preys on a person's worst fears and the behaviors they see as most repulsive, playing those like a blaring radio. Intrusive thoughts are ego-dystonic, meaning that the person does <em>not</em> want to act, and often people with OCD will go to great lengths to prevent their fears from acting on compulsions like washing hands, confessing forbidden thoughts, and checking a stove repeatedly. An intrusive thought is not an urge.</p>
+
+<p>Hearing voices is a different experience. Sadly, sometimes people do act on voices; not always because they want to. Rather, they do so because there is no known way to shut off a voice screaming a command; it can be hard to ignore.</p>
+<p><strong>5. Will Psychiatric Hospitalization Change?</strong></p>
+<p>Most people experiencing psychosis are <em>not</em> a danger to anyone. Chances are, in your daily life, you interact with people experiencing psychosis, and you would never know. People hearing voices, experiencing paranoia, people who have psychosis spectrum disorders like schizophrenia. Psychiatric hospital stays are designed to mitigate risk, not to facilitate long-term recovery, and that is unfortunate. </p>
+
+<p>Groups are often run by people with no psychotherapy training. Stays are short. There are massive power-control dynamics. Sometimes it helps for short-term medication stabilization, but there is no evidence that hospitalization reduces risk of suicide or improves quality of life overall. Fear of hospitalization sometimes prevents clients from telling their mental health providers the whole truth, and that hurts everyone.</p>
+
+<p>This said, sometimes hospitalization is necessary when a person's illness has eclipsed their ability to make sound decisions or when immediate treatment changes are necessary. One hope could be that quality and availability of hospital stays will improve.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/beyond-mental-health/202608/how-will-the-lindsay-clancy-case-affect-mental-health" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/beyond-mental-health/202608/how-will-the-lindsay-clancy-case-affect-mental-health</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beyond-mental-health/202608/how-will-the-lindsay-clancy-case-affect-mental-health</guid>
+            <dc:creator><![CDATA[Jennifer Gerlach LCSW]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/pexels-mavluda-tashbaeva-133603941-10483523.jpg?itok=YOT0epJA" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Childhood Wasn't Meant to Be Public]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-03/Smaller_Scale_Professional_Photo-removebg-preview.jpg?itok=DR1pbjyI" alt="Lisa Pescara-Kovach Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Childhood Wasn't Meant to Be Public</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why we need to think before sharing children's photos.</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Proud parents often post proud photos of their littles' firsts and accomplishments.</li><li style="margin-bottom:6px;">This phenomenon, sharenting, puts young people at risk even when our intentions are good.</li><li style="margin-bottom:6px;">We should think before we share family photos with the world.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/joshua-fernandez-mmxi2kw6ep8-unsplash.jpg?itok=KOwSuPhG" width="320" height="400" data-insert-type="image" alt="Boy walking to school" title="Joshua Fernandez/Unsplash"></div>
+<div class="caption">Boy walking to school</div>
+<div class="insertArea--origin subtext">Source: Joshua Fernandez/Unsplash</div>
+</div>
+</div>
+</div>
+<p>It’s your little one’s first day of kindergarten and he’s adorable, wearing a new backpack with his hair combed perfectly. Who wouldn’t take a picture on this big day? Many proud parents post such photos on Facebook or Instagram with captions like, “My baby’s first day of school! I cannot believe how quickly he is growing!”</p>
+
+<p>The photograph is innocent and, yes, totally adorable. Behind the post is one proud mama or dad. Friends and family respond with hearts, congratulations, and comments about how much the child has grown and how cute they look on their big day.</p>
+<p>So, what could possibly be wrong with sharing it?</p>
+<p>Perhaps nothing.</p>
+
+<p>But perhaps quite a lot.</p>
+<p>The American Academy of Pediatrics now specifically cautions parents about the risks associated with publicly sharing children's photographs and videos, including unwanted contact and exposure to predators. The practice has become so common that it has its own name: <em>sharenting</em>, or the sharing of photos, personal information, and experiences online by caregivers, parents, even grandparents. It is now a routine part of parenting in a digital culture. And, like many other things widely available on the internet, researchers are beginning to document some of the risks.</p>
+
+<p>The problem is not that parents love their children too much or that sharing photos is inherently dangerous. The problem is, we now live in a digital environment and a seemingly innocent photo can reach people we never intended to, reveal more information than we realize, and remain available long after we have forgotten we posted it.</p>
+
+<h2>Asking “Is this a cute picture?” is not enough</h2>
+<p>Parents should ask themselves before posting an image: “What am I telling the world about someone I need to protect?”</p>
+<p>That first-day-of-school photo offers more than one piece of information. Let’s review it: Your little is wearing a shirt with the school's name on it. The caption identifies the school. A location tag identifies the neighborhood. The photograph shows the child's face. The caption mentions that the child is in kindergarten, and the post includes your name.</p>
+
+<p>None of these details are especially concerning in isolation, but together, they create a surprisingly detailed profile.</p>
+<p>This is what makes digital privacy different from the privacy concerns many parents grew up with. Information can now be gathered, compiled, searched for, copied, and shared widely. A child's photograph may be accompanied by others providing their name, age, birthday, school, neighborhood, pet’s name, favorite activities, siblings and parents' names, and daily routines—even if that info isn’t explicitly laid out in a caption. The photograph itself may be harmless. The accumulated information may not be.</p>
+
+<p>Parents don’t need to rush to take down all photos of their littles. However, it’s important that they have enough information to make informed decisions.</p>
+<h2>A private account is never truly private</h2>
+<p>A photo shared with 100 people can be downloaded, screenshot, forwarded, or reposted. Parents cannot necessarily know every person who ultimately gains access to the image. Think about it: Are all of your followers and “friends” people you know and trust with your child's personal info?</p>
+
+
+<p>The American Academy of Pediatrics encourages parents to think carefully about what they share and with whom, rather than assuming that privacy settings eliminate any dangers. What most of us see are children having fun, but others may see something entirely different. </p>
+<p>There is an important psychological principle here: <em>Once information is distributed, control over that information decreases.</em></p>
+
+<p>The landscape of social media is also changing dramatically because of the introduction of artificial intelligence tools. A few years ago, the primary concern might have been someone copying or saving a photograph. That’s still a concern, but today photos can be manipulated in increasingly sophisticated ways.</p>
+
+
+
+  
+
+
+<p>The Internet Watch Foundation reported that it identified 8,029 AI-generated images and videos depicting child sexual abuse in 2025. Even more alarming, the number of such AI-generated videos increased more than 260-fold, from just 13 identified videos in 2024 to 3,443 in 2025.</p>
+<p>Not every photograph of a child posted online will be manipulated, but the technological environment has changed. An ordinary photo does not have to be inappropriate to be misused. A child does not have to pose suggestively. A parent does not have to post anything sexualized. The photograph can simply exist online.</p>
+
+<p>That is an uncomfortable reality, and it is precisely why parents need accurate information rather than reassurance that “nothing bad will happen.”</p>
+<h2>The risk is cumulative</h2>
+<p>Perhaps the most important concept for parents to understand is how each detail accumulates:</p>
+<ul>
+<li>One photograph may reveal a child's face.</li>
+<li>Another identifies their school.</li>
+<li>Another reveals the child's sports team.</li>
+<li>Another identifies their location.</li>
+<li>Another names their new pet.</li>
+<li>Another provides the child's birthday.</li>
+</ul>
+
+<p>Individually, these posts may seem like no big deal. Collectively, they can create a surprisingly detailed digital profile for someone you don't want to know your child or their whereabouts.</p>
+<p>This is why our question should not simply be, “Is this specific photo safe?” but rather, “What does this photo add to everything someone could already learn about my child?”</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/kristyna-squared-one-fw0sluuibbs-unsplash.jpg?itok=-Q_t-Ng4" width="320" height="480" data-insert-type="image" alt="Adult and Child Looking at a Photo Book" title="KrystynaSquaredOne/Unsplash"></div>
+<div class="caption">Adult and Child Looking at a Photo Book</div>
+<div class="insertArea--origin subtext">Source: KrystynaSquaredOne/Unsplash</div>
+</div>
+</div>
+</div>
+<h2>We do not have to stop sharing</h2>
+<p>I don't seek to shame parents who enjoy sharing family milestones. These memories are special.</p>
+<p>Parents can choose to share photographs with those they know and trust. They can avoid posting school names, locations, daily schedules, or other identifying information. They can avoid photographs atypical minds might see as something they’re not—and sometimes, they can simply keep a photograph for themselves. I know sometimes it's tough not to share; I say this as a mom who adores her own kiddos. But the ordinary moments that once existed only in family albums now have the potential to become permanent digital records—and childhood does not need an audience to be meaningful. </p>
+
+<p>Some moments can remain private. Some stories can belong only to the people who were there. Some photographs can stay on a parent's phone. Some memories can be printed and placed in an album or scrapbook. There is something profoundly valuable about allowing children to have pieces of their childhood that belong to them and their families alone.</p>
+
+<p>Parents are not wrong for wanting to share their children with the world. That desire usually comes from love. But protecting children sometimes means recognizing that love is not only about celebrating them. It is also about protecting their privacy, safety, and future selves.</p>
+<p>Before posting the next photograph, pause for a moment. Ask what the photograph reveals. Ask who might see it. Perhaps look through your followers and “friends” to be sure you truly know them and their intentions.</p>
+
+<p>And perhaps most importantly, ask yourself: <em>Does this moment need to be shared, or is it enough that we experienced it together?</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/preventing-tragedy/202608/childhood-wasnt-meant-to-be-public" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/preventing-tragedy/202608/childhood-wasnt-meant-to-be-public</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/preventing-tragedy/202608/childhood-wasnt-meant-to-be-public</guid>
+            <dc:creator><![CDATA[Lisa Pescara-Kovach Ph.D.]]></dc:creator>
+            <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/rafael_garcin.jpg?itok=IWryGnKK" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[You Can’t Fix Your Partner’s Defensiveness]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/nancy_colier.jpg?itok=GzEcSVcq" alt="Nancy Colier LCSW, Rev." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">You Can’t Fix Your Partner’s Defensiveness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Everything changes when you stop struggling to make a partner "get it."</h2><p style="font-size:0.9em;color:#666;">Posted August 27, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Remember that your partner’s anger and defensiveness are about them—not you.</li><li style="margin-bottom:6px;">Stop trying to fix or change a defensive partner; instead, accept their limitation as reality.</li><li style="margin-bottom:6px;">Respond like a “stone”: stay calm, don’t react, and avoid validating their narrative.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/shutterstock_1243371376.jpg?itok=cHsnyQ9W" width="320" height="214" data-insert-type="image" title="SrdjanVrebac / Shutterstock" alt="SrdjanVrebac / Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: SrdjanVrebac / Shutterstock</div>
+</div>
+</div>
+</div>
+<p>So far in this series, I’ve been looking at anger and defensiveness in relationships, and specifically the habitual responses we fall into to try and manage and survive it. Here in Part 7, I want to offer some action steps, boots-on-the-ground strategies to change your relationship with your partner’s anger—and with yourself in the face of it. </p>
+
+<p>When anger and defensiveness arise in this other person, remember that they are not actually seeing you in those moments; you are just an inverted mirror for them. They project their self-criticism, loathing, shame, and everything else they don’t want to feel or see about themselves onto you. While it doesn’t make it okay that they behave this way, remember, their rage belongs to and is about them—not you.</p>
+
+<p>Epictetus, the Greek Stoic philosopher, had some helpful advice when it came to dealing with anger, which is as applicable today as it was when he offered it over 2,000 years ago. In short, Epictetus counseled that when you’re being deluged with someone else’s rage, listen like a stone. Don’t defend yourself or try to set the record straight. Don’t attempt to bring rationality into an irrational situation. Behave like a stone. Stones are not bothered by anyone else’s choices; you can shout at them, and they remain unperturbed and unchanged. </p>
+
+<p>Remember, when someone is in a defensive episode, they want you to react, to bite the hook and get pulled into their story. They’re baiting you to start defending yourself, going after them, and joining them in their “code red.” Your emotional reactivity allows them to validate their victimhood: “See what you’re doing to me?”</p>
+
+<p>The root of your suffering, in part, comes from the expectation that a rational request should bring a rational response. This is not to say that it’s not profoundly disappointing, enraging, and saddening that your partner behaves like this, and yet, when someone is emotionally immature and insecure, to believe that they would respond in any way other than immaturely and defensively is… madness. It is to expect a fragile person to act in a non-fragile way.</p>
+
+<p>The work is recognizing this expectation inside yourself, and seeing their ego fragility and inability to hear feedback as disabilities, like any other. In the same way that you would not expect a blind person to be able to drive a car, you cannot expect or <em>make</em> someone who is emotionally immature behave in a sensible and sensitive manner. This person doesn’t have the capacity to tolerate responsibility. It’s not going to happen. </p>
+
+<p>Treat their limitation as a <em>what-is</em> and expect behavior that aligns with that reality. While it’s heartbreaking to accept that you’re not going to get what you want from this person, it’s also liberating to let go of the expectation that a different outcome is possible. When you stop fighting with reality, you might also decide that you want to change your life, which might include your relationship.</p>
+
+
+<p>It’s important, too, to change your response when they go into victim mode, withdraw, or go silent to punish you for telling them they hurt you. Don’t bite the hook or chase after them; don’t play the character they’ve written for you in their dysfunctional story. Let them do what they need to do; turn your attention to your own life and what you need to do to establish independence and create well-being for yourself. Leave them to play out their drama in their cave of blindness. </p>
+
+<p>If they switch into attack mode and blame you, trying to make you feel guilty for telling them they hurt you, hold your ground. Continue repeating the same sentence that states what happened that’s not okay with you. </p>
+<p>When they distort your words or veer off topic, use simple language in response: “That’s not actually what I said,” “We can discuss my shortcomings another time, but right now I want to focus on now.” But always come back to the same script that states what you’re upset about now, what you need, and what you <em>don’t </em>want in the relationship any longer. Keep a flat, robotic tone. Behave like you’re coated in Teflon—an impenetrable stone. Imagine that you’re with a toddler having a tantrum, which, in fact, you are—only it's an adult toddler who may also be your partner. </p>
+
+
+
+  
+
+
+<p>Do not apologize for what you haven’t done. Instead, hold the ground of your truth and stay connected to your own needs; hold on to yourself right there in the eye of their tsunami.</p>
+<p>Finally, know that you don’t ever need permission to exit a conversation that feels damaging or poisonous to you. You can always suggest that you “revisit the issue later,” as you “think you both need some space at the moment.” Remember, you are responsible for your own well-being; you are your own caretaker—choose to <em>be</em> that caretaker for yourself. No one has the right to harm you.</p>
+
+<p>This knowing is so important I’ll say it again—no one has the right to harm you. You always have the right to create a physical boundary, to walk out of the room and create distance from their toxic energy. As Marcus Aurelius, the second-century Roman Emperor and Stoic philosopher, taught, you may share a physical space with this other person, but you don’t have to give them access to your internal mental or emotional space. </p>
+
+<h2>A Cheat Sheet for Responding to Anger and Defensiveness</h2>
+<p><strong>Don’t:</strong></p>
+<ul>
+<li>Try to figure out how to make the other person change, or understand your experience.</li>
+<li>Try to get them to “hear” you or take responsibility for their actions.</li>
+<li>Take care of them and reassure them that all is well.</li>
+<li>Defend yourself, attack back, or engage in their distorted storyline.</li>
+<li>Assume responsibility for their anger.</li>
+<li>Feel guilty for having needs.</li>
+<li>Try to “win them back” when they withdraw or stonewall.</li>
+<li>Wait for them to apologize or feel empathy.</li>
+<li>Expect an emotionally disabled person to behave with wisdom and awareness.</li>
+<li>Deny the reality of how you feel and who they are.</li>
+<li>Indulge the fantasy that it will be different next time and give the broken system one more try.</li>
+<li>Give them access to your mental and emotional space.</li>
+</ul>
+
+<p><strong>DO:</strong></p>
+<ul>
+<li>Stop trying to make them “hear” you.</li>
+<li>Start establishing independence—emotionally, physically, socially, and financially.</li>
+<li>Trust your truth and intuition: if it feels bad for you, it’s bad for you.</li>
+<li>Remind yourself that you’re allowed to have needs. Needs are healthy.</li>
+<li>Pause to feel your feelings, instead of rushing to fix the situation.</li>
+<li>Practice staying quiet and feeling what’s happening inside your body when you would normally rush to fill in the silence.</li>
+<li>Remind yourself that you’re learning to tolerate discomfort and uncertainty in the face of conflict—to get okay with not being okay. This is a big deal that will change your life and it doesn't happen overnight.</li>
+<li>Honor yourself each time you do things differently. When you break an old habit, and refrain from cleaning up the mess the other person created, acknowledge your efforts to change a situation that fundamentally doesn’t work for you.</li>
+</ul>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202608/you-cant-fix-your-partners-defensiveness" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202608/you-cant-fix-your-partners-defensiveness</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202608/you-cant-fix-your-partners-defensiveness</guid>
+            <dc:creator><![CDATA[Nancy Colier LCSW, Rev.]]></dc:creator>
             <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/eric-ward-akt1bnnummk-unsplash.jpg?itok=f8Vtl2TX" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/shutterstock_1243371376.jpg?h=318c01a4&amp;itok=CeCfKYgm" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
