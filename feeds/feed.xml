@@ -4,122 +4,823 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 05:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 18:11:02 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 05:38:49 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 18:11:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Stop Apologizing for Everything]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-08/frank_spinelli__1_.png.jpg?itok=Pe1tWSvU" alt="Frank Spinelli M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Shame</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Stop Apologizing for Everything</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When saying “I’m sorry” becomes self-erasure.</h2><p style="font-size:0.9em;color:#666;">Posted September 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Study Finds Poverty Changes Children's' Brains]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/mark_gold.png.jpg?itok=_f1T0HFV" alt="Mark Gold M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Study Finds Poverty Changes Children's' Brains</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The ABCD study's big surprise finding so far is the importance of poverty.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Chronic apologizing is often a preemptive defense against shame.</li><li style="margin-bottom:6px;">There's a real difference between healthy shame and toxic shame.</li><li style="margin-bottom:6px;">Notice the urge to apologize and ask yourself whether you did anything wrong.</li>
+              <li style="margin-bottom:6px;">The continuing ABCD study follows nearly 12,000 children to determine what precedes—and follows—substance use.</li><li style="margin-bottom:6px;">Many brain differences linked to early substance use were present before children began using drugs.</li><li style="margin-bottom:6px;">New research shows that socioeconomic conditions have some of the strongest links to brain development.</li>
             </ul>
           </div>
-                    <p>If we learned anything from the COVID-19 pandemic, it was that Zoom calls would, for most people, replace live face-to-face meetings. With it came an implied list of virtual rules the likes of which would make Emily Post blush. Chief among them was beginning every question with a polite recognition that began with the phrase, “Apologies if you covered this already, but I’m curious to know…” It was as if SARS-CoV-2 had brought with it a co-infection of polite etiquette. </p>
+                    <p>America's largest longitudinal brain imaging study of preteen to young adult brain development began with the effects of drugs and alcohol on the brain in mind. Its most surprising result so far may be what poverty does to the developing brain.</p>
+<p>For decades, addiction researchers faced a basic chicken/egg dilemma. When a person using alcohol, cannabis, or other drugs had an abnormal brain scan, no one could tell whether the difference was already there <em>before</em> substance use began or if it developed later. The Adolescent Brain Cognitive Development (ABCD) Study is the study designed to help answer that question.</p>
 
-<p>But apologizing constantly—especially when you haven’t done anything wrong—isn’t politeness. It’s shame in disguise. When shame tells you that you are the problem, apologizing becomes a preemptive defense. You say “I’m sorry” before anyone can accuse you. It feels like humility, but it's actually self-erasure. </p>
+<p>The idea first took shape in 2013 through Collaborative Research on Addiction at the National Institutes of Health (NIH). Its initial goal was to scan children before most had tried substances, then follow them through the years of greatest risk for substance abuse.</p>
+<p>Beginning in 2015, ABCD enrolled 11,880 children at 21 sites, starting at ages 9-10. These children completed brain imaging, cognitive and psychiatric testing, biospecimen collection, and detailed assessments of their homes, schools, neighborhoods, health, and substance exposure. The same young people would be examined repeatedly into early adulthood. The study also made its data available to scientists. </p>
 
-<h2>The Link Between Self-Erasure and Chronic People-Pleasing </h2>
-<p>Much of the research on self-erasure links it to chronic people-pleasing, in which a disproportionate external focus leads to disconnection from your authentic self. This draws on trauma research on the “fawn” response. Initially described by <a href="https://www.pete-walker.com">Pete Walker</a>, a psychotherapist specializing in complex PTSD, “fawning” is a response to a threat in which the individual becomes more appealing to the threat—mirroring someone else’s desire to diffuse conflict and find safety by surrendering their own boundaries. </p>
+<p>When NIH released the first large baseline dataset in 2018, National Institute on Drug Abuse Director Nora Volkow explained why starting the study <em>before </em>drug use began mattered. She said researchers would be able to compare brain images before and after use of alcohol, nicotine, and other drugs in the same subjects. That was the promise. Eight years later, it’s starting to be fulfilled.</p>
 
-<p>Fawning is considered the fourth F in the fight/flight/freeze response. Fight-or-flight dates back to Walter Cannon’s <a href="//archive.org/details/cu31924022542470">(1915) </a>work on the sympathetic nervous system. Freeze was introduced later by Dr. Peter Levine. The three Fs were given a home in <a href="https://doi.org/10.1111/j.1469-8986.1995.tb01213.x">1995</a>, when neuroscientist Stephen Porges first published his polyvagal theory. <a href="https://wwnorton.com/books/9780393712377">Deb Dana</a>, a clinician who worked with Porges, translated the theory into the Polyvagal Ladder metaphor, a more usable therapeutic construct with three rungs:</p>
+<h2>What ABCD Already Taught Us About Substance Use</h2>
+<p>The first information came in a 2024 analysis of 9,804 ABCD participants; 3,460 reported initiating alcohol, nicotine, cannabis, or another substance before age 15. Alcohol was by far the most common substance. Most brain-structure differences associated with early initiation were already present at ages 9-11, before the children began using substances. That finding indicates some brain characteristics may increase sensation-seeking, impulsivity, or vulnerability to early experimentation. Substance exposure may then alter later development. ABCD can observe both sides of that sequence because it began before use and continues afterward.</p>
 
-<ol>
-<li>Top Rung: ventral vagal (safe and social).</li>
-<li>Middle Rung: sympathetic (fight or flight).</li>
-<li>Bottom Rung: dorsal vagal (freeze/shutdown).</li>
-</ol>
-<h2>How Fawning Fits Into the Polyvagal Theory </h2>
-<p>Where does fawning fit? It doesn’t get its own rung. Generally, it’s described as sitting at the intersection of the freeze/shutdown state, with an extra dollop of appeasement laid on top, since it involves both the immobilization of the dorsal vagal shutdown and a strategic, socially oriented move to placate the threat. </p>
+<p>The social findings are equally important. For nicotine, early analyses showed use was primarily through vaping, and that peer use is a particularly strong prospective predictor. For alcohol and other substances, family history, parental monitoring, externalizing symptoms, mental health issues, sleep, and peer behavior repeatedly appeared meaningful parts of risk.</p>
 
-<p>What does this look like in real life? You apologize for having an opinion, for taking up space, for existing in a way that might inconvenience someone else. Here's the distinction worth making: apologizing for something you did wrong is healthy shame doing its job. Apologizing for who you are—that's toxic shame playing the part of the officious server, hovering before a table of diners who haven’t opened their menus yet, poised to apologize for making them wait. </p>
+<p>Cannabis offers an early look at what repeated measurements may reveal. A 2026 ABCD analysis combined self-report with hair toxicology. Adolescents who initiated cannabis showed less improvement over time in learning, episodic memory, working memory, and related abilities than nonusers. The signal was no cartoon of sudden, universal brain damage. But cannabis-using teens started losing ground; they had a developmental lag during years when cognition should be improving. Consequently, adolescents using cannabis appeared stuck or, at best, gaining less than non-users.</p>
 
-<h2>Overcoming Reflexive Apologies </h2>
-<p>Tying it all together: the shame-driven, boundary-blurring apology you offer up reflexively is literally what fawning looks like physiologically. A nervous system that dropped toward shutdown but is using an appeasing behavior to climb back up toward safety rather than genuine repair of something that went wrong.</p>
-
-<p>Here’s your practice. Next time you feel the urge to apologize, pause. Ask yourself: Did I actually do something wrong, or am I apologizing for taking up space?</p>
-<p>Because you were never meant to stand on the sidelines when you earned a seat at the table. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/decoding-shame/202609/stop-apologizing-for-everything" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/decoding-shame/202609/stop-apologizing-for-everything</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/decoding-shame/202609/stop-apologizing-for-everything</guid>
-            <dc:creator><![CDATA[Frank Spinelli M.D.]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-silverkblack-36765284__1_.jpg?itok=169-2NiG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Parents Are Shocked When an Adult Child Goes No Contact]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-03/SharonMartinLCSW-removebg-preview.png.jpg?itok=BfuHsaAz" alt="Sharon Martin, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Family Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Parents Are Shocked When an Adult Child Goes No Contact</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Reconciliation isn't as likely when parents dismiss their child's experience.</h2><p style="font-size:0.9em;color:#666;">Posted September 3, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Parents' denial or defensiveness often blinds them to signs of a strained relationship.</li><li style="margin-bottom:6px;">Estrangement usually follows years of hurt and failed attempts to resolve conflict, not one incident.</li><li style="margin-bottom:6px;">Adult children may withdraw gradually, but parents may misinterpret distance as independence or busyness.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-shvets-production-8972314.jpg?itok=XWRdAP2j" width="320" height="209" data-insert-type="image" title="SHVETS production/Pexels" alt="SHVETS production/Pexels"></div>
-<div class="insertArea--origin subtext">Source: SHVETS production/Pexels</div>
-</div>
-</div>
-</div>
-<p>Why are so many parents shocked or blindsided when an adult child goes no contact?</p>
-<p>Many parents describe estrangement as coming completely out of the blue. They may insist they had no idea there was a problem, point out that they weren't perfect but were good parents, or struggle to understand how a family that seemed close could end up here.</p>
-
-<p>Sometimes confusion is genuine, but being unaware of the problem doesn't mean there weren’t any signs. Parents may experience interactions differently than their adult child, particularly when certain family patterns feel normal to them.</p>
-<p>It’s also possible for “I have no idea why” to be a form of denial. If a parent can't—or won't—see what went wrong, it's easier to <a href="https://www.psychologytoday.com/us/blog/conquering-codependency/202411/whos-really-behind-the-rise-in-family-estrangements">blame the therapist</a>, social media, or the adult child than to consider their own role.</p>
-
-<h2>Why Parents May Not See Estrangement Coming</h2>
-<p>Estrangement is rarely the result of an isolated incident. It typically follows years of hurtful experiences, disappointments, conflicts, and attempts to improve a difficult relationship (Agllias, 2016, 2018; Scharp, 2016; Scharp et al., 2015).</p>
-<p>Parents may genuinely believe their child never communicated a problem. However, if that was the case, one needs to consider whether the parent was willing and emotionally safe to hear them.</p>
-
-<p>An adult child may have tried to talk about what was bothering them, only to have their concerns minimized, explained away, criticized, or turned into an argument. For example, a parent might respond with, “That's not what happened,” “You're too sensitive,” “I was only trying to help,” or “After everything I've done for you.” The parent may have seen this as defending themselves or correcting an unfair accusation, while the child may have concluded there was no point in continuing to bring it up.</p>
-
-<p>This is one reason the complaint that “they never told me there was a problem” can be misleading. The more useful questions are: Did they try to tell me? Did I take them seriously? Could they disagree with me or express hurt without being punished, dismissed, or made responsible for my feelings?</p>
-<p>Sometimes, the adult child has been gradually pulling away—withdrawing, sharing less, avoiding certain topics, declining invitations, or becoming increasingly guarded. These changes may be interpreted as independence, busyness, or a phase, rather than the result of a strained relationship.</p>
-
-<p>By the time an adult child cuts ties, they may feel that they have already tried to communicate in every way they know how. The parent may experience the estrangement as sudden; the child may experience it as the end of a very long process. As I wrote in my book <em>Cutting Ties with Your Parents</em>, “In over two decades as a therapist, I’ve yet to encounter anyone who made the decision to cut ties lightly. Adult children typically struggle to resolve their family conflicts for years before calling it quits” (p. 8).</p>
-
-<h2>“I Have No Idea” Can Become a Defense</h2>
-<p>Parents who see themselves as loving and well-intentioned often struggle to accept that their child experienced the relationship as hurtful. That can bring up shame, guilt, grief, and uncertainty.</p>
-<p>It can also require reconsidering decades of family history, which is painful. So the mind naturally looks for alternative explanations, such as the adult child was poisoned against them by social media, a therapist, or a partner. Or that the estrangement is due to the adult child's inaccurate memories, selfishness, or ingratitude.</p>
+<h2>The Poverty Surprise</h2>
+<p>The most striking result may not concern a drug at all. In 2026, Scott Marek, Nico Dosenbach, and colleagues at Washington University School of Medicine compared 649 biological, psychological, social, and environmental variables with brain structure and function in nearly 12,000 ABCD children. Of the 40 variables most strongly associated with brain function, 37 were socioeconomic. Of the top 40 associated with brain structure, 35 were socioeconomic. Family income, homeownership, neighborhood poverty, transportation, and community resources dwarfed the effects of IQ, parenting style, medical history, and hundreds of other measures.</p>
 
 
-<p>Any of these factors could potentially play a role in an individual situation. But when they become the entire explanation, they can serve another purpose: to keep the parent's own behavior out of the picture.</p>
-<h2>“But I Was a Good Parent”</h2>
-<p>One reason estrangement is so painful is that it doesn't only happen when parenting is entirely bad. A parent can love their child deeply, provide for them, make sacrifices, and believe they did their best—and still have behaved in ways that cause significant pain.</p>
+<p>Dosenbach called socioeconomic conditions the deepest imprint among the factors the team examined. Marek called it the “elephant in the brain.” Socioeconomic measures accounted for about 16 percent of variation in brain function—an unusually large signal in this field.</p>
+<p>The brains of children with fewer socioeconomic opportunities did not look “less intelligent.” Instead, they looked more like the brains of tired, stressed children. The strongest associations appeared in sensory and motor systems sensitive to day-to-day sleep loss and chronic stress, not simply regions labeled as centers of intelligence. After adjustment for socioeconomic opportunity, roughly 70 percent of previously observed brain-IQ associations were no longer statistically significant. Thus, their socioeconomic environment played a pivotal role for children.</p>
 
-<p>Asking whether the parent was “good” or “bad” isn’t particularly helpful. More important is whether the adult child experienced aspects of the relationship as hurtful, dismissive, controlling, or unsafe.</p>
-<p>Good intentions and positive memories don’t mean that harm wasn’t caused. An adult child can feel unimportant, controlled, criticized, or unable to be fully themselves even in a family that spends holidays together and talks regularly.</p>
+<p>Earlier ABCD work had already shown that household and neighborhood poverty were associated with differences in white-matter organization and greater water content in brain spaces, a possible sign of neuroinflammatory processes. Another study found income-related disparities in the subjects’ hippocampal volume.</p>
 
 
 
   
 
 
-<h2>Defensiveness Undermines Reconciliation</h2>
-<p>The irony is that some parents who want to reconcile respond to estrangement in ways that make reconciliation less likely. For example, if an adult child says, “You didn't respect my boundaries,” and the response is, “That's not true. I've always respected you,” the parent may believe they're setting the record straight. But the adult feels dismissed, which pushes them further away.</p>
+<p>These are observational findings, not proof that a particular issue changed children’s brains. But together they make an extraordinary point: what appears on a brain scan may partly reflect whether a child sleeps well, feels safe, experiences chronic financial hardship, has reliable transportation, or lives in a community with adequate resources. The environment is formative biology in the making.</p>
 
-<p>Reconciliation requires being willing to hear that the other person experienced the relationship differently. That doesn't mean accepting every accusation as fact, but it does require listening without immediately becoming defensive or dismissive. </p>
-<p>Ultimately, you can't repair a relationship while insisting that there's no valid reason for its breakdown. Reconciliation starts with acknowledging that the relationship may not have been what you thought it was. </p>
+<h2>Why Poverty Belongs in an Addiction Story</h2>
+<p>Poverty does not cause all addictions, and I have evaluated and treated hundreds of addicted physicians, executives, and celebrities, proving wealth does not provide immunity from addiction. But chronic stress, disrupted sleep, neighborhood drug use and availability, family strain, limited access to treatment, and fewer safe alternatives <em>can</em> affect both brain development and opportunities to use substances. The same socioeconomic conditions leaving a measurable imprint on the brain may also shape who starts using substances early, who escalates use, and who receives help.</p>
+
+<h2>The Most Important Years Are <em>Now</em></h2>
+<p>Most ABCD participants are now 17-19 years old. In the next year or two, the study should become even more valuable to addiction science. More participants will move from their first drug use or experiments to repeated alcohol, nicotine, and cannabis use. Some will stop. Some will develop addictions, but most will not.</p>
+
+<p>That variation will allow researchers to ask questions ABCD was built to answer. Which brain differences preceded substance use? Which changes followed heavier or more persistent exposure? Do alcohol, vaping, and cannabis have distinct effects, or share developmental routes? What happens with polysubstance use? Which adolescents are resilient despite high risk? What family, religious, school, neighborhood, or other factors protect them?</p>
+
+<p>ABCD is delivering unexpected findings and a unique way to watch as vulnerability, exposure, environment, and development unfold together. The most difficult and expensive part of ABCD was building the entire complex system for repeated testing. After ten years, the highest-risk period it was designed to observe is finally coming into view.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/conquering-codependency/202609/why-parents-are-shocked-when-an-adult-child-goes-no-contact" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/addiction-outlook/202609/study-finds-poverty-changes-childrens-brains" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/conquering-codependency/202609/why-parents-are-shocked-when-an-adult-child-goes-no-contact</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/conquering-codependency/202609/why-parents-are-shocked-when-an-adult-child-goes-no-contact</guid>
-            <dc:creator><![CDATA[Sharon Martin, DSW, LCSW]]></dc:creator>
-            <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/pexels-shvets-production-8972314.jpg?itok=XOJjxHGF" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/addiction-outlook/202609/study-finds-poverty-changes-childrens-brains</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/addiction-outlook/202609/study-finds-poverty-changes-childrens-brains</guid>
+            <dc:creator><![CDATA[Mark S. Gold M.D.]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/vitaly-gariev-c5zb9pe9ccc-unsplash.jpg?itok=v115Zx90" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Might Food Have to Do With the Teenage Brain?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/PT-IB3-removebg-preview.jpg?itok=r-zsDV4v" alt="Isabelle Brocas Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adolescence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Might Food Have to Do With the Teenage Brain?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Diet, cognition, and a brain pathway important for memory.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Adolescent eating patterns were associated with both learned knowledge and flexible reasoning.</li><li style="margin-bottom:6px;">The fornix, a memory-related brain pathway, was the study’s most consistent neural link.</li><li style="margin-bottom:6px;">Diet–cognition associations persisted after accounting for BMI, sleep, puberty, and socioeconomic factors.</li><li style="margin-bottom:6px;">The findings reveal associations, not proof that dietary changes cause brain or cognitive improvements.</li>
+            </ul>
+          </div>
+                    <p>“Eat well—it’s good for your brain” sounds like sensible advice. But scientifically, it hides a difficult question: What, exactly, connects food with thinking?</p>
+<p>Diet may influence the brain. But the relationship can also run in other directions. Young people with stronger cognitive skills may make different food choices. Family income, sleep, puberty, body composition, and many other factors may affect both diet and cognition. Even when diet and thinking are related, identifying the brain structures involved is far from simple.</p>
+
+<p>In a <a href="https://link.springer.com/article/10.1007/s00429-026-03190-w">recent study</a>, my colleagues and I examined these relationships in 3,308 adolescents from the Adolescent Brain Cognitive Development (ABCD) Study. We combined information about their diets, performance on cognitive tests, and structural MRI scans.</p>
+<p>Our central question was not whether one particular “brain food” makes adolescents smarter. It was whether broader patterns of eating are associated with cognition—and whether part of that association is also reflected in the structure of the developing brain.</p>
+
+<h2>Looking Beyond Individual Foods</h2>
+<p>People do not consume nutrients in isolation. They eat combinations of fruits, grains, dairy products, legumes, sugary drinks, and many other foods. These choices tend to cluster together.</p>
+<p>We therefore used a statistical method to identify five broad dietary patterns from 10 food categories. Together, these patterns captured 77 percent of the dietary variation in our sample.</p>
+
+<p>We then created cognition-aligned dietary scores: combinations of those eating patterns that were most closely associated with either crystallized or fluid cognition.</p>
+<p>Crystallized cognition refers roughly to knowledge and skills acquired through learning and experience, including vocabulary. Fluid cognition is the ability to reason, solve new problems, and adapt to unfamiliar situations.</p>
+
+<p>To avoid tailoring each adolescent’s score to that same adolescent’s cognitive results, we used a procedure called family-level cross-fitting. In simple terms, each participant’s dietary score was constructed using relationships estimated from other families - not from that participant or their siblings.</p>
+
+<p>The cognition-aligned dietary patterns were associated with both forms of cognition. A one-standard-deviation increase in the dietary score corresponded to approximately a 0.10-standard-deviation increase in crystallized cognition and a 0.06-standard-deviation increase in fluid cognition.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/brain_mediation_revised_tract_0.png.jpg?itok=2kLyAolP" width="320" height="185" data-insert-type="image" title="Isabelle Brocas / personal collection" alt="Isabelle Brocas / personal collection"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Isabelle Brocas / personal collection</div>
+</div>
+</div>
+</div>
+<p>These are modest associations, not dramatic effects. But they remained after accounting for age, sex, puberty, socioeconomic conditions, income relative to family size, sleep, and body mass index. The results were also similar when ethnicity and waist circumference were included in sensitivity analyses.</p>
+
+<h2>A Small Bridge Deep in the Brain</h2>
+<p>The most consistent brain finding involved the fornix.</p>
+<p>The fornix is a relatively small bundle of white-matter fibers that connects the hippocampus - central to memory - with other regions involved in learning, motivation, and cognitive control. You might think of it as part of the brain’s communication infrastructure for memory.</p>
+
+
+<p>We measured the organization of white matter using fractional anisotropy, or FA. Higher FA can reflect more coherent organization of fibers, although it should not automatically be interpreted as a “better brain.”</p>
+<p>FA in the fornix was related to cognitive performance. More strikingly, it statistically accounted for a small portion of the association between dietary patterns and both crystallized and fluid cognition. The left and right fornix each accounted for about 6 percent of the diet–crystallized-cognition relationship and approximately 8 to 10 percent of the diet–fluid-cognition relationship.</p>
+
+<p>Other brain regions were associated with cognition, especially areas involved in memory and language. However, after correcting for the large number of comparisons, no gray-matter region reliably accounted for the relationship between diet and cognition. The fornix finding was the one that proved most consistent.</p>
+
+
+
+  
+
+
+<h2>What This Study Does—and Does Not—Show</h2>
+<p>These results do not demonstrate that changing an adolescent’s diet will alter the fornix or improve intelligence. Diet, cognition, and brain structure were measured during the same general period. We therefore cannot establish which came first - or whether an unmeasured influence contributed to all three.</p>
+
+<p>Nor did we discover a menu guaranteed to produce better grades. Our dietary scores were derived from this particular sample and need to be tested in other populations.</p>
+<p>What the study does provide is a more detailed map of an intriguing relationship. Diet and cognition were linked even after accounting for body composition and socioeconomic and behavioral factors. Moreover, that relationship was not distributed randomly throughout the brain: it converged most consistently on a memory-related white-matter pathway.</p>
+
+<p>Adolescence is a period of continuing brain remodeling. White-matter pathways are still developing, cognitive demands are growing, and young people are gaining greater control over what they eat. Nutrition may be one piece of this developmental puzzle - but it operates alongside sleep, stress, education, family resources, and many other influences.</p>
+
+<p>The practical message is therefore both promising and restrained. Healthy eating may matter for more than physical health, and the fornix offers a plausible neural clue about how diet and cognition travel together. But a clue is not yet a causal explanation. The next step is to follow adolescents over time and test whether changes in diet precede changes in brain structure and cognitive performance.</p>
+
+<p>For now, we can say that the teenage brain and the teenage diet appear to be connected—and that a small white-matter bridge involved in memory may be part of the story.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/biology-development-and-behavior/202609/what-might-food-have-to-do-with-the-teenage-brain" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/biology-development-and-behavior/202609/what-might-food-have-to-do-with-the-teenage-brain</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/biology-development-and-behavior/202609/what-might-food-have-to-do-with-the-teenage-brain</guid>
+            <dc:creator><![CDATA[Isabelle Brocas Ph.D.]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2474392489.jpg?itok=LfQ4zf2p" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inside the Belly of the Beast]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Inside the Belly of the Beast</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A writer's journey into the depths of artificial intelligence.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">I had to go deep into AI to understand what it was doing to me.</li><li style="margin-bottom:6px;">AI expanded my thinking, but sometimes did too much of it for me.</li><li style="margin-bottom:6px;">I’m still exploring where my thinking ends and the machine begins.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/geralt-digitization-3614386.jpg?itok=rGSbyMTt" width="320" height="180" data-insert-type="image" title="Image by Gerd Altmann from Pixabay." alt="Image by Gerd Altmann from Pixabay."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Image by Gerd Altmann from Pixabay.</div>
+</div>
+</div>
+</div>
+<p>I began writing professionally in 1985, something that feels like a lifetime ago. I was a young copywriter, and the pencil was still very much a tool of my trade. The Macintosh was new, and so was I. In a curious way, we grew up together, and I don't think that's inconsequential.</p>
+<p>I watched the tools of writing change around me. Pencil and paper gave way to point and click, and eventually the internet and search became integral to the mechanics of writing. I embraced most of those changes But the basic relationship remained rather mechanical and the graphical user interface was a tool to write something. That's what I thought.</p>
+
+<p>But Large language models changed that relationship, almost overnight. Here was a technology that could work directly with an unfinished idea and do something with it. I could offer the machine a bit of a thought and get something back that might actually move the thought forward.</p>
+<p><em>I jumped in head first, not realizing that my head (brain) was at the heart (soul) of this transformation.</em></p>
+
+<p>I used LLMs a lot. From the exploration of ideas to a timely debate, I found something that I'd never experienced before. And I wasn't particularly interested in defending the ownership boundaries around writing. More importantly, I wanted to understand what happened when AI entered the process, with me, for me, and at times, without me.</p>
+
+<h2>Knowledge Answers Back</h2>
+<p>Let me be blunt. In the beginning, I was a techno-optimist and maybe even one of those "tech bros" that populated social media. I became fascinated with an LLM's ability to move across tremendous bodies of information to bring distant concepts to my screen (and mind). </p>
+<p>I eventually described this as the <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202311/the-corpus-cognitionis-humanae">Corpus Cognitionis Humanae</a><em>. </em>I described how human knowledge was becoming accessible through a conversational interface. Suddenly, we could engage with knowledge rather than searching for it. From there came <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202409/ai-and-the-emerging-role-of-iterative-intelligence">iterative intelligence</a>, the back-and-forth process through which a person and an LLM can develop an idea. The back-and-forth process, for me, became sort of cognitively hypnotic or even metatative.</p>
+
+<p>I still find this one of the most compelling and fascinating aspects of our interactions with LLMs. We begin with a prompt that is incomplete—by design. Now, what matters next is enlightening. Iteration builds insight and new thinking that can often take us on a journey where neither the path nor destination was previously known</p>
+
+<p><em>AI didn't just hand me an answer, it put an unexpected idea in front of me that changed the direction of my thinking.</em></p>
+<p>I'll argue that this is important and it's why I'm skeptical of those who reduce AI to just <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202509/maybe-ai-was-never-a-tool">a tool for intellectual outsourcing</a>. My experience doesn't support that conclusion at all. And after spending enough time inside that cognitive loop, I began to reject this over-simplification. In fact, I've recently become more interested in what was happening to the (my) thinking itself—the cognitive addition and subtraction and how that was potentially changing me.</p>
+
+<h2>Where Did the Thought Happen?</h2>
+<p>Think about it. When an idea develops through many iterations with an LLM, it becomes difficult to determine where that thought really lives. I may start with the idea, but what comes back changes what I think next. And there you have <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202608/ai-and-the-cognitive-loop">a loop in the spirit of Douglas Hofstadter.</a></p>
+
+<p>I've recently described this as <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202609/when-thought-loses-its-address">thought losing its address</a>. It pushes on the idea that thought has a biological home—there was a thinker somewhere in the process. Now, the recursive relationship with an LLM, particular agentic AI, makes that address less obvious in not downright invisible.</p>
+<p>My long career as a writer gives me a unique comparison. I distinctly remember what it was like to have an idea that couldn't find its way to paper. There was no "second intelligence' waiting in the wings with a logical and coherent completion. So, I had to force ahead, often bound to a deadline.</p>
+
+<p>However, some of that cognitive friction was pointless, and appropriately, technology got rid of it. But I'm no longer convinced that all this friction is something you just throw away in the pursuit of efficiency. The rub of the unfinished sentence against that unfinished thought is the friction of progress. And while LLMs are extraordinarily good at shortening that path, I'm not sure we understand everything that disappears when they do.</p>
+
+
+
+  
+
+
+<h2>An Ongoing Surrender</h2>
+<p>The "displacement" of thought brings me to common claim of <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender">cognitive surrender</a>. The phrase defines itself, but what makes this unusual and powerful is that we often don't notice it happening.</p>
+<p><em>Less cognitive participation can exist along with better cognitive output. </em></p>
+<p>This also connects to another idea I've written about, <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202607/ghost-thought-a-ghostwriter-for-the-mind-not-the-page"><em>ghost thought</em></a>. A traditional (and well accepted) ghostwriter writes for you, but the underlying thinking is generally considered to be yours. Ghost thought pushes that construct further. The machine can become the thinker as well as the writer, even presenting the finished idea for our approval. At that point, we haven't just shortened the cognitive journey but abdicated it.</p>
+
+<p><em>The unsettling part about ghost thought is that the result can still feel like yours.</em></p>
+<h2>Living Inside the Loop</h2>
+<p>Do you sense a struggle here? I hope so, And I guess what I'm trying to articulate here is that the human engagement with AI might be as complicated as the technology itself. I still remain a big fan of AI and I'm sure it has helped me think thoughts that I might never have had. I'm equally certain there have been times when I defaulted to AI's output too quickly. And when that happens, I precariously allow the machine to do the heavy lifting that I should (must) be doing.</p>
+
+<p>After several years of working this way, I'm still not sure where the tool ends and my own cognition begins. And that's the question that keeps me up at night. I started writing when a pencil was still part of my working day. Today I work with a technology that can enter an unfinished thought and help determine where it goes. And I'm still trying to understand what that change means.</p>
+
+<p><em>Nevertheless, my pencil remains sharp.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202609/inside-the-belly-of-the-beast" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202609/inside-the-belly-of-the-beast</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202609/inside-the-belly-of-the-beast</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/geralt-digitization-3614386.jpg?itok=IfPncCL6" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Living With Their Legacy: Understanding Celebrity Losses]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-08/img_0699_crop-removebg-preview_1_.png.jpg?itok=YpPIcgNz" alt="Anthony Colonello M.A., RP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parasocial Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Living With Their Legacy: Understanding Celebrity Losses</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Our parasocial grief over Dolly Parton, Tim Curry, and Peter Cullen.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The loss of a public figures may feel deeply personal, even when we have never met them.</li><li style="margin-bottom:6px;">Celebrity grief may be misunderstood or wrongly minimized by others.</li><li style="margin-bottom:6px;">Connecting with others and finding ways to carry a public figure’s legacy forward can offer meaning amid loss.</li>
+            </ul>
+          </div>
+                    <p>Last week, the world said goodbye to three cultural icons: Dolly Parton, Tim Curry, and Peter Cullen. For many, the news brought a sense of unexpected grief not only for three beloved Hollywood stars but also for the memories, eras, and pieces of our lives that have become intertwined with their legacies.</p>
+
+<p>Dolly’s seven-decade-long career saw her sell over 100 million records and win 10 Grammys. Beyond her music, her fierce personality, philanthropy, and openness about her own adversities touched the hearts of millions of people. Tim Curry’s career spanned over six decades, bringing his light, representation, and magic to the stage, film, and TV. A key part of the imprint he leaves behind includes making <em>The Rocky Horror Picture Show</em> the global cultural craze it is. Peter Cullen was a well-known Canadian voice actor who left his mark through his roles as Optimus Prime and Eeyore in the Transformers and Winnie the Pooh universes, respectively.</p>
+
+<p>Although most of us never knew these figures personally, their voices, music, and characters have accompanied us through decades of our own experiences. Their collective influence transcends cultures, ages, and generations, leaving us grieving something that may feel remarkably personal. The impact of their losses leaves us to question: How can we grieve someone we’ve never personally known? </p>
+
+<h2>Parasocial Loss: Losing Someone You Felt You Knew </h2>
+<p>Our understanding of <a href="https://www.psychologytoday.com/us/blog/mirror-mirror/202109/parasocial-losses-why-it-hurts-when-a-celebrity-dies">parasocial loss</a> helps us make sense of collective and individual grief reactions and why some may feel them more strongly than others. The nature of the parasocial relationship a person has with a celebrity such as Dolly, Tim, or Peter plays a role in how someone may experience grief and loss. Recent <a href="https://doi.org/10.1080/07481187.2023.2276301">research</a> suggests that parasocial relationships can elicit similar grief reactions to personal social relationships, based on someone’s felt sense of closeness to a person. </p>
+
+<p>The sense of closeness is subjective and will be different for everyone. Perhaps one of Dolly’s songs, such as "Jolene," "I Will Always Love You," or "Here You Come Again," sits in your vinyl or CD collection, or is a tune you hum every so often, making her feel like a familiar presence woven into the soundtrack of your life. Or maybe your connection to Tim Curry rests in dressing up as Frank-N-Furter or even Pennywise (from the movie <em>IT</em>) on Halloween or special occasions. Then there is Peter, whose unmistakable voice as Eeyore brings you back to childhood memories of the Hundred Acre Wood, offering a sense of familiarity and comfort. </p>
+
+<p>Each of these sentiments may shape how close or distant one felt to a person and ultimately shape how their respective losses were experienced. </p>
+<h2>A Broader Sense of Community and Advocacy </h2>
+<p>We can’t deny that each of these figures acted as an ally to many marginalized communities. As early as the late 1980s, Dolly lent her production company platform to advocate for <a href="https://www.cbc.ca/news/world/dolly-parton-gay-rights-9.7320874">eradicating the stigma towards gay men</a> during the AIDS crisis through the Oscar-winning film <em>Common Threads: Stories from the Quilt</em>. She preceded legislation in the US by publicly supporting same-sex marriage against the status quo of the time and was consistent in her messages of freedom to love who you love. Similar sentiments about love and free expression were also publicly expressed by Peter Cullen.</p>
+
+<p>In a world where basic human rights continue to be threatened, the strength and allyship echoed through Dolly's and Peter’s advocacy may seem weakened. It is normal to feel a sense of disruption following the loss of an ally. Though the relationships between fans and stars are parasocial, it appears Peter and Dolly had a lasting impact on people, helping them feel safe, loved, and deserving of humanity. </p>
+
+<p>In another way, Tim Curry’s portrayal of Frank-N-Furter <a href="https://nerdist.com/article/tim-curry-rocky-horror-frank-n-furter-lgbtq-hero/">resonated with generations of queer folks</a> through the character’s unapologetic expression of queerness, gender, and sexuality, which stood in stark contrast to mainstream representations in the 1970s media landscape. His performance, and the character himself, offered people an invitation not to hide but to embrace and express their authentic selves. </p>
+
+<p>This message carries particular significance given <a href="https://www.tandfonline.com/doi/full/10.1080/00918369.2024.2378738">research linking authenticity to well-being</a> among lesbian, gay, and bisexual people. Concealing one’s identity has been associated with poorer well-being, a connection particularly pronounced among those reporting lower authenticity. Perhaps part of Tim’s legacy is that the fandom he leaves behind can remain shamelessly authentic, honouring the spirit of a character who so fearlessly embodied that freedom.</p>
+
+
+
+  
+
+
+<h2>Living Beyond Their Legacies</h2>
+<p>Grief is a complicated process, and it can feel omnipresent even when we have never met the person we have lost, and know them only through their art or public image. Some people may feel judged or stigmatized for their reactions to a celebrity’s loss, as others may not understand the significance of a parasocial connection.</p>
+
+<p>Social media is often a useful platform for connecting with others who may be affected by a celebrity's death. Connecting with other fans may offer a sense of recognition and community, particularly when those around you do not fully understand the significance of the loss. At the same time, it may be helpful to notice how engaging with media and ongoing coverage of a death is making you feel and to create some distance when needed.</p>
+
+<p>Grief can also leave room for continuing connection. Listening to a favourite song, revisiting a beloved character, sharing memories with other fans, or carrying forward something the person represented can be ways of living with their legacy. Over time, what began as mourning may gradually give way to new appreciations for what that person and their work have meant in your life.</p>
+
+<p><strong>To find a therapist, </strong><a href="https://www.psychologytoday.com/us/therapists"><strong>visit the Psychology Today Therapy Directory</strong></a><strong>.</strong></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-mental-mosaic/202609/living-with-their-legacy-understanding-celebrity-losses" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-mental-mosaic/202609/living-with-their-legacy-understanding-celebrity-losses</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-mental-mosaic/202609/living-with-their-legacy-understanding-celebrity-losses</guid>
+            <dc:creator><![CDATA[Anthony L Colonello M.A., RP]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/psychtoday_dollytimpeter__1_.png.jpg?itok=c2zFI-i2" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Do We Agree on Anything?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/thumbnail_richarddancsi800fran-removebg-preview.jpg?itok=KwnA5XYw" alt="Richard Dancsi" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trust</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Do We Agree on Anything?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Always question the core assumption.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">When you use a tape measure, you're participating in a chain of trust that tells you how long one meter is.</li><li style="margin-bottom:6px;">We rarely agree on things because they're true—we agree because disagreeing is too expensive.</li><li style="margin-bottom:6px;">Once a social agreement is locked in, we treat our own arbitrary rules like facts of nature.</li>
+            </ul>
+          </div>
+                    <p>Say you need to tell someone over the phone how long something is in your room. It’s easy: You take a ruler, measure the thing, and read the number to the person on the other end of the line. Scientists and much of the world use the metric system for this sort of thing.</p>
+<p>This all <em>sounds</em> very precise, but how does anyone <em>know</em> how long a meter is?</p>
+
+<p>Initially, the definition of a meter was tied to the Earth’s circumference. In the 1790s, the French defined it as exactly one ten-millionth of the distance from the equator to the North Pole. That’s about as objective as it gets, but is almost entirely useless in daily life: A tailor cannot triangulate the globe every time they need to cut a piece of fabric.</p>
+
+<p>To make this whole measuring thing more practical, expeditions spent several years surveying the Earth, did the math, and forged a literal metal bar to represent that distance. For over a century, that was the “meter”: a platinum-iridium bar locked in a vault in France. If your wooden ruler matched the metal bar in Paris, you had a meter.</p>
+
+<p>But a metal bar isn’t perfect either. It can expand in heat, contract in cold, and sustain microscopic scratches. As industrial technology and global communications demanded a higher degree of uniformity, the definition of a meter had to change again. First, it was pegged to the radiation emitted by krypton-86 atoms. Today, it is tied to the speed of light. A meter is officially the distance light travels in a vacuum, or exactly 1/299,792,458 of a second.</p>
+
+<p>Practically speaking, these definitions are once again not super useful for everyday people. If a tailor needs to measure something, they will simply buy a tape measure at the hardware store. But when they do, they are participating in a massive, invisible chain of trust. The tailor trusts the hardware store, the store trusts the factory, the factory trusts the national laboratory’s calibration, and the laboratory aligns its equipment with the physical constants of the universe.</p>
+
+<p>At the very foundation of this social chain of trust is a long history of human institutions having to agree on where the ruler starts, and where it ends. Which brings us to the surprisingly difficult question: How do we agree on anything?</p>
+<h2>Humans in a room</h2>
+<p>When addressing a complex problem, we might assume people will naturally gravitate toward the most accurate or efficient solution. But in reality, we rarely settle on an option solely because it is the “truest.”</p>
+
+<p>Instead, as game theorist Thomas Schelling observed, humans are quite desperate for coordination. We land on an agreement, fundamentally, because the cognitive and social costs of disagreeing are too high. And to do so, we look for focal points, or a default answer that stands out just enough for people to expect everyone else to think of that answer. (For example, if you ask someone in North America to name a fruit, did they say “apple”?)</p>
+
+<p>Once that agreement is locked in, a psychological shift happens: the very human habit of treating our abstractions as though they were a natural feature of the world. The sociologists Peter Berger and Thomas Luckmann called this “reification.” Once a decision is made, it’s water under the bridge. Our “objective reality” today is a bunch of these coordination problems. Once we solve one, we no longer need to think about it.</p>
+
+<h2>The invention of “now”</h2>
+<p>Time is humanity’s ultimate coordination problem. We tend to experience it as an absolute—a universal metronome ticking steadily in the background. But for most of human history, time was intensely local. Before the 19th century, it was “noon” whenever the sun reached its highest point overhead in your specific town. If you traveled from New York to Boston, you had to adjust your pocket watch upon arrival. There was no need for perfect synchronization because we just couldn’t travel fast enough to make the 12-minute difference matter.</p>
+
+
+
+  
+
+
+<p>Then came the railroad, moving people and goods across large distances on complex schedules. You cannot run a continental railway system when every station operates on its own local solar time, so standardized time emerged. But how did we end up with Greenwich Mean Time, and not Your-Hometown Mean Time? When delegates from 25 nations met in 1884 to base global time zones around the Greenwich meridian, that decision was a matter of geopolitical power as much as it was a matter of astronomy.</p>
+
+<p>Even today, we treat time and the calendar as facts, but they regularly yield to economic convenience. This is why the International Date Line doesn’t drop straight down from the North Pole to the South Pole; instead, it zig-zags around political alliances. In 2011, the nation of Samoa literally erased Friday, December 30th, from their calendar, shifting their entire country across the Date Line because being a day behind their biggest trading partners—Australia and New Zealand—was bad for business.</p>
+
+<p>In their research on how categories shape society, the scholars Geoffrey Bowker and Susan Leigh Star observed that every successful infrastructure becomes <em>invisible</em>. We only notice systems when they break down</p>
+<p>Standardized time is a perfect example of invisible infrastructure. The irony is that only a few decades after the world’s governments decided to synchronize everybody’s clocks and create a universal, objective “now,” Albert Einstein proved that a universal “now” doesn’t actually exist: time is entirely relative, bending and stretching depending on speed and gravity. But by that point, people didn’t even blink—at the scale of human movement, Newtonian mechanics worked just fine, and the social infrastructure was already too valuable to abandon. And so, we keep using our clocks like there’s no tomorrow.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/dear-life-please-improve/202609/how-do-we-agree-on-anything" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/dear-life-please-improve/202609/how-do-we-agree-on-anything</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/dear-life-please-improve/202609/how-do-we-agree-on-anything</guid>
+            <dc:creator><![CDATA[Richard Dancsi]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/photo_by_vasilis_chatzopoulos_on_unsplash.jpg?h=37ce55dc&amp;itok=Q18Wyx8b" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Missed Opportunities for Getting Help]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/byeiser_0.jpg?itok=oEu-K_2A" alt="Bethany Yeiser" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychosis</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Missed Opportunities for Getting Help</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: If I'd been identified as mentally ill and treated sooner</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">There were many missed opportunities for getting me help for mental illness.</li><li style="margin-bottom:6px;">I wish I had been required to accept help from friends and family.</li><li style="margin-bottom:6px;">I wish the campus counseling service office would have offered me a counselor.</li><li style="margin-bottom:6px;">I wish that law enforcement would have identified me as in need of help and had the authority to get me help.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/geralt.jpg?itok=Atu7H1-c" width="320" height="226" data-insert-type="image" title="Geralt / Pixabay" alt="Geralt / Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Geralt / Pixabay</div>
+</div>
+</div>
+</div>
+<p>Life radically changed for me at age 20 due to emerging schizophrenia. I experienced delusional thinking, paranoia, and hallucinations.</p>
+<p>Before schizophrenia interrupted my life, I was a biochemistry student at the University of Southern California. My first psychotic break happened during the fall semester of my senior year when I went from a student in good standing to failing all my classes. I never told anyone, but I believed it didn’t matter because I was about to become a prophet. </p>
+
+<p>Looking back, I ask myself what opportunities for intervention were missed during this difficult time of my life.</p>
+<h2>Family and friends</h2>
+<p>One of my first symptoms of schizophrenia was paranoia of friends, family, professors I had known, and most of all, my parents. My parents would have done anything to get me to a doctor, find the best treatment for my erratic behavior, and support me in any way possible, but I was afraid of them. They would have welcomed me to live with them while I was getting back on my feet. Instead, I found myself living outside.</p>
+
+<p>Looking back, had my parents managed to see me while I was ill (which I continually refused), I probably would have thought they were the crazy ones, not me, believing that nothing was wrong with me at all. Furthermore, I probably would have believed that the reason they were getting me psychiatric help was that they wanted “revenge” because I had not finished my college degree. This was wrong, as they never would have wanted to hurt me, but I would have imagined it. I wish they had had legal authority to get me into treatment. But looking back, I really needed someone other than family to tell me I was mentally ill.</p>
+
+<h2>Educational system</h2>
+<p>Almost every university or college in the United States offers counseling for students who are struggling. The problem is, those of us who are the sickest often have no idea that we need help. So how do we help a student who used to be in great standing and is now doing poorly (specifically, without bad decisions like drug use or partying)?</p>
+
+<p>As I was failing my classes, I felt lost. I wanted help from the university, but had no idea how to ask for it. Deep down, I realized I had a problem, but I still didn’t think it was an illness. I was lost in confusion. </p>
+<p>I believe that the university should have had more influence than they did in an effort to help me recover. The problem was that a person must be a danger to self or others, or gravely disabled, for an involuntary hospitalization. I eventually became that person, but it took time.</p>
+
+<p>If a counselor had approached me and told me they deeply cared, they knew something was wrong, and they wanted to help, would it have made a difference? I do not know, but I wish it had been tried.</p>
+<p>I also wish, at the very least, that I had known more about schizophrenia. I thought schizophrenia was a sign of weakness or associated with a low IQ. I did not know it is a treatable brain disorder that anyone can develop. </p>
+
+<h2>Community</h2>
+<p>In January of 2006, after I had been homeless for nearly three years, I began spending every night outside in a churchyard near the university. I felt forgotten by society, and sometimes felt as though the community around me just wanted me to disappear.</p>
+<p>I wish that the first night I did this, I had been approached by a social worker or other professional (ideally not a police officer) who offered me help immediately. In the last couple of years, California has initiated a program called the CARE Act (Community Assistance, Recovery and Empowerment Act) where they do approach people living outside and ask what services they need, such as housing, food, and medicine. </p>
+
+
+<p>I don’t know if the CARE team would have helped me while I was so desperate for help and sleeping outside. I think that I probably would have accepted their help. However, I do not know how long it would have lasted. CARE programs do not require participants to take their prescribed medication or treatment. Without medication, I would have soon been screaming back at the voices, paranoid of the staff, and probably delusional, leading to disruptive behavior. I would probably have been evicted from whatever housing they arranged for me.</p>
+
+<h2>Law enforcement</h2>
+<p>After I had been looking for garbage to eat on the USC campus for a number of years, someone finally did call the police on me. This was an ideal opportunity for me to be evaluated and sent to a facility for treatment. Instead, I was left alone, feeling wrongly accused and misunderstood. </p>
+
+
+
+  
+
+
+<p>I was incarcerated for two days in October 2006 and again briefly over Thanksgiving of 2006. While I was in jail, no one evaluated me. </p>
+<p>It is remarkably common for people with psychosis to end up in jail or prison. We must do a better job of getting them appropriate care at this phase in their lives when they are vulnerable and dependent on the justice system.</p>
+
+<h2>What actually happened</h2>
+<p>On March 3, 2007, I woke up in the churchyard where I was living, screaming back at the voices in my head, and began walking and running in strange patterns. That was when a police officer snuck up on me, and I found myself in handcuffs. This was a terrible day, but a day I am very grateful for, as it led to treatment.</p>
+
+<p>I was one of the lucky ones. I responded to an antipsychotic medication called clozapine (though it took a year to find it) and reclaimed my life, returning to school and working again. But I hope and pray that, for others, these opportunities for intervention will be explored much sooner to avoid so much wasted time.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/recovery-road/202609/missed-opportunities-for-getting-help" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/recovery-road/202609/missed-opportunities-for-getting-help</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/recovery-road/202609/missed-opportunities-for-getting-help</guid>
+            <dc:creator><![CDATA[Bethany Yeiser BS]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/geralt.jpg?itok=fd1QDRvv" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why House Mapping Can Save the ADHD Home]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/Screenshot_20230708-173207-removebg-preview.jpg?itok=FYXtPNcc" alt="Amelia Kelley Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why House Mapping Can Save the ADHD Home</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Designing a home around how your family actually lives can curb the chaos.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A useful house map follows how you and your family naturally move through your space.</li><li style="margin-bottom:6px;">The goal is reducing the amount of work your brain has to do.</li><li style="margin-bottom:6px;">House mapping should include a team approach so as not to overwhelm one person.</li><li style="margin-bottom:6px;">Less friction and less decision-making can mean less mental fatigue.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/istock-2193789511.jpg?itok=x-uHj8QG" width="320" height="213" data-insert-type="image" alt="By working with your natural patterns, even an ADHD home can become well-organized." title="Nicoletaionescu / iStock"></div>
+<div class="caption">By working with your natural patterns, even an ADHD home can become well-organized.</div>
+<div class="insertArea--origin subtext">Source: Nicoletaionescu / iStock</div>
+</div>
+</div>
+</div>
+<p>People believe that homes are supposed to look a certain way. Our counters, closets, desks, and dining tables all have to have a certain order; otherwise, it is chaos. </p>
+<p>This is simply not true.</p>
+<p>Instead of trying to shape your home to fit a perfect picture of what you think a space should look like, <em>house mapping</em>—which means intentionally following the way you live when you design your home—follows your natural rhythms as a family and individual. The goal is to reduce the amount of work your brain must do.</p>
+
+<p>Where do you put things when you are not thinking about it? Why do you put them there? How do you move around your space? When working well, the house map acts as an executive function by reducing demands rather than continually forcing you to override your natural behavior. Less decision-making means less mental fatigue.</p>
+
+<p>As an ADHD specialist and creator of the W-CAT Model—a women-centered ADHD treatment—I once spoke with a woman who was frustrated because her family kept leaving their shoes scattered near the entry doorway. They were partially onto something, as they put their shoes in the right location, but they lacked the contextual cue of the rack, which, surprisingly, was hidden right behind the door they opened to enter.</p>
+
+<p>That is the thing with house mapping: Most of us are not far off from systems that could actually work for our families. Instead of doing what looks best, is most expected, or is most socially acceptable, we can shift toward how we move throughout our homes to curb the chaos without putting more pressure on our family. Something as simple as moving the shoe rack two feet to where everyone already took off their shoes worked for that woman. Their floor is now mostly shoe-free, but on days the shoes do not make it onto the rack she practices compassion, because reshaping habits—and even gendered expectations for housekeeping—takes time and adaptation. </p>
+
+<h2>Five Principles of ADHD-Friendly House Mapping</h2>
+<p><strong>1. Nervous system first.</strong> Your home should help lower activation rather than continually adding to it. Visual chaos, harsh lighting, and sensory discomfort can create moments of stress throughout the day. Research shows that parenting in an environment with clutter and material disorganization, alongside noise and unpredictability, can increase salivary alpha-amylase (sAA), a marker of activation in the body’s stress-response system.</p>
+
+<p><strong>2. Follow the path of least resistance.</strong> The more steps a system requires, the harder it may be to sustain. A hook may work better than a hanger, and a visible basket can work better than a container stacked inside a closed closet. Every extra step adds mental load. You can also use friction intentionally. If you want to interrupt an automatic pattern, place something directly in its path. For example, put a small table and lamp where you usually throw dirty clothes. By changing the physical space, you interrupt the habit and cue a different choice. This makes desired behaviors easier and unwanted patterns slightly harder to continue automatically.</p>
+
+<p><strong>3. Choose function over appearance.</strong> Much like the French culinary concept <em>mise en place</em>, meaning <em>everything in its place</em>—where ingredients and tools are made visible and accessible before cooking begins—our home should function similarly. Open storage, clear bins, and unconventional landing zones can offer ADHD brains the visible cues they need. Take inventory of whether what you need is visible and within reach—and if it is not, remap it.</p>
+
+
+<p><strong>4. Contain where possible.</strong> Our environments interact with our mood, energy, and attention. In feng shui, each piece of clutter is thought of as an unmade decision, meaning every visible object is another thing for the brain to process. Containing items can help with this. When multiple objects are grouped inside a basket, the brain can visually register them as one organized unit rather than many separate items competing for attention.</p>
+
+<p><strong>5. Map as a team.</strong> A house map affects everyone who lives within it, so creating and maintaining it should not be one person’s burden. Explain what is changing, why it matters, and what each person can do to support it. Family habits do not change instantly, so expect repetition, reminders, and adjustments. The goal is a shared system that becomes easier and more natural to use over time.</p>
+
+
+
+  
+
+
+<h2>Getting Started</h2>
+<p>House mapping does not require reorganizing your entire home all at once. Begin with one space that repeatedly creates friction and notice where things naturally land, where tasks tend to stall, and what small change might make the next step easier. Sometimes an ADHD-friendly home just needs one manageable adjustment that helps action happen more naturally. </p>
+
+<p>Here is what that can look like in practice:</p>
+<p><strong>The Entryway: </strong>A typical entryway may rely on a closed coat closet, hangers, and a small decorative table. An ADHD-friendly house map uses open hooks at eye level, a sturdy floor bin, and visible places for shoes, bags, and keys. Mail is another high-friction task in this space. Try immediately ripping up and recycling junk mail, then placing anything requiring attention into one visible container. In my home, we put these items on the coffee maker because we use it every morning and must see and physically move the mail to use it. The landing zone should be where people naturally interact with cues so they cannot easily overlook it.</p>
+
+<p><strong>The Kitchen: </strong>When food and utensils disappear behind doors, they can also disappear from working memory. Wire baskets, accessible shelves, visible produce, or frequently used tools kept within reach can create reminders without requiring someone to search where things are hidden. Remain aware that if everything is visible, too much input can also be overwhelming. The map should help you see what you most often use without turning the entire room into noise. Bonus tip: If you are right-handed, these items may work best to the right of your workspace. Every inch matters.</p>
+
+<p><strong>The Living Room: </strong>A single overhead light may be too intense for some nervous systems. Multiple lower-level lamps give family members more control over stimulation and can help families transition toward rest in the evening. A basket with fidgets, headphones, or blankets helps keep regulation supports within reach. If you are a “living room family” and this is the space where the kids play, consider decorative bins that slide easily into the furniture and feel soothing within the room. Invite children to return their toys “home” each night. Their favorites may naturally stay near the top, making it easier to identify forgotten items at the bottom that can be donated or discarded.</p>
+
+<p><strong>The Bedroom and Laundry: </strong>Deep drawers and highly specific clothing categories can become an ADHD bottleneck. One option is three accessible baskets: one for clean items that do not need folding, one for dirty clothes, and one for clothes that have been worn but are not ready to be washed. This gives the in-between clothes a home and reduces the shame of the familiar “floordrobe” or chair piled with clothing. Also consider whether your bedroom is solely for sleep and rest or whether it serves another purpose, such as a home office. If it's the latter, bring some of the living-room house-mapping principles into this space and follow what is actually happening in a room rather than forcing the space to conform to expectations.</p>
+
+<h2>Work With the Family Nervous System</h2>
+<p>When you live with neurodivergence, are overcoming trauma, are postpartum, menopausal, burned out, or overwhelmed, everything, including clutter, is input. Over time, house mapping can make this input feel more predictable and less stressful. The space may not make sense to anyone else, and that is okay if it follows the map of how you and your family move and live. Don't try to house-map every procedure in your home at once and turn this into a mission for failure. Pick one map at a time: the counter, the mail, the dining table, or the laundry. And if and when systems fail—as they often do—return to the principles with a growth mindset, curiosity, and the willingness to try again.</p>
+
+<p><em>Portions of this article were adapted from Wired and Worthy’s podcast episode </em><a href="https://www.youtube.com/watch?v=5hxv1XvgCoc&amp;t=496s"><em>House Mapping for ADHD: Organize Your Home Around How Your Brain Works</em></a><em>.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/in-your-corner/202609/why-house-mapping-can-save-the-adhd-home" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/in-your-corner/202609/why-house-mapping-can-save-the-adhd-home</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-your-corner/202609/why-house-mapping-can-save-the-adhd-home</guid>
+            <dc:creator><![CDATA[Amelia Kelley Ph.D.]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/istock-2193789511.jpg?h=ca33890d&amp;itok=4HdKh7EQ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Rewards of Slowness]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/663ED81E-51E8-4D11-A545-EB65EE06FD17-removebg-preview.png.jpg?itok=_9EvRi5q" alt="Shahram Heshmat Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotion Regulation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Rewards of Slowness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The benefits of establishing a slower pace.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Going slow may be the fastest way to learn a new skill.</li><li style="margin-bottom:6px;">Slowing down and pacing your experience lets your brain savor positive moments.</li><li style="margin-bottom:6px;">Pausing is essential to the process of reflection.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/ahuanzuishuai111-tea-10266766.jpg?itok=H2Jf4rxq" width="320" height="480" data-insert-type="image" title="Image by coco ROM from Pixabay" alt="Image by coco ROM from Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Image by coco ROM from Pixabay</div>
+</div>
+</div>
+</div>
+<p>A slower pace of life reduces mental and emotional fatigue. By living slowly, we can find life much less stressful and more fulfilling. </p>
+<h2>1. Breaking free from mindless habits</h2>
+<p>Slowing things down and deliberately paying attention to each aspect of our sensory experience can reveal things that we may have never noticed before. For example, mindless eating is an important reason for overeating. When you eat fast, the body doesn’t get a chance to signal to the brain that you have eaten enough. People often reach for their phone automatically to soothe underlying boredom and stress, or awkwardness. Awareness keeps old habits favored by automatic thoughts from having the final say in our choices.</p>
+
+<h2>2. Learning new things</h2>
+<p>Going slow is the fastest way to learn a new skill. When you work slowly, things become simpler. Slowness and speed are interdependent. Mastering a subject requires time and patience before speed becomes possible. For example, slow practice is nearly universal in teaching instrumental music. The term “slow practice” can be described as practicing a piece of music, or section of music, at a dramatically slower tempo than that at which it eventually will be performed. The purpose of slow practice is to put ‘thinking space’ between the notes and to allow for awareness of what is being done. As a player, you become aware of what you’re doing while you’re doing it. You hear sounds clearly and monitor your actions precisely. </p>
+
+<h2>3. Repetition</h2>
+<p>Slow learning relies heavily on repetition because the brain needs multiple exposures to move facts from short-term to long-term memory. Repetition (doing the same thing repeatedly) is essential for learning and mastering new skills. When an experience is complex, it’s a good idea to repeat it. Whether you’re learning to play an instrument, speak a new language, or excel at a sport, repetition is key for building muscle memory and improving your performance. Every repetition brings you closer to your desired outcome.</p>
+
+<h2>4. Joy of repeated experiences</h2>
+<p>You are also far more likely to enjoy something the second time around than you think. We normally miss a substantial part of every new experience. Repetition allows you to dig deeper into a specific experience, such as seeing things that you didn’t see the first time around. </p>
+
+<h2>5. Pacing rewards</h2>
+<p>Oscar Wilde once said that “there are two tragedies in life: not getting what you want and getting what you want.” All pleasurable activities (e.g., a cup of coffee in the morning, an afternoon walk) start out very enjoyable, and, within a few minutes, we get used to it. Slowing down and pacing your experience lets your brain savor positive moments. Pacing reward means to scale back (savoring) stimulation deliberately to prolong enjoyment. Savoring describes the ability to appreciate and enhance the positive experiences in one’s life. </p>
+
+<h2>6. Becoming a better listener</h2>
+<p>Slowing down can help with better listening. To feel more loved requires listening better. However, that kind of genuine, focused listening is rare, although it’s quite powerful. Rather than being good listeners, we tend to impatiently wait our turn to speak or fail to ask follow-up questions. When someone feels deeply understood and valued by you, they become more willing to do the same for you. </p>
+
+<h2>7. The power of pause</h2>
+<p>Slowing the mind down in favor of slow deliberation takes vigilance, willpower, and training. Pausing is a powerful self-control strategy. Psychologist Rollo May (1981) equated pause with freedom. That is, freedom is the capacity to pause in the face of stimuli from many directions at once and, in this pause, to choose our response. The pause momentarily suspends our automatic reaction, and our responses no longer blindly follow stimulus (e.g., we remark before making an important decision, “Let me sleep on it.”). A pause can be created by a walk or 20 minutes of meditation. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/science-of-choice/202609/the-rewards-of-slowness" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/science-of-choice/202609/the-rewards-of-slowness</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-of-choice/202609/the-rewards-of-slowness</guid>
+            <dc:creator><![CDATA[Shahram Heshmat Ph.D.]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/ahuanzuishuai111-tea-10266766.jpg?itok=qaXAH1Uy" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Does Your Therapy Feel Like Expensive Chit-Chat?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-08/db-pt-image-removebg-preview__1_.jpg?itok=UvWbGaEN" alt="Duygu Balan LPCC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Therapy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Does Your Therapy Feel Like Expensive Chit-Chat?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">5 reasons talking about nothing may be more therapeutic than you think</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">What feels like rambling in therapy can reveal how you handle rejection, boundaries, intimacy, and conflict.</li><li style="margin-bottom:6px;">Your therapist may be paying attention to what you laugh off, minimize, avoid, or insist is “not a big deal.”</li><li style="margin-bottom:6px;">Therapy doesn’t need a dramatic breakthrough every session; feeling safe enough to talk is part of the work.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/shutterstock_1337958206.jpg?itok=wfu4DPpg" width="320" height="210" data-insert-type="image" title="New Africa / Shutterstock" alt="New Africa / Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: New Africa / Shutterstock</div>
+</div>
+</div>
+</div>
+<p>You sit down for therapy fully intending to finally dive deep into your psyche. You have thought about it in the shower, rehearsed what you might say in the car, and perhaps even promised yourself that <em>today</em> you are absolutely going there.</p>
+<p>Forty-five minutes later, you have covered your boss’s irritating email, the person who left you on read, and whether you should go to your friend’s birthday party.</p>
+
+<p>As the session winds down, you feel stressed.</p>
+<p>Therapy is supposed to be deep, isn’t it? There should be tears, revelations, breakthroughs.</p>
+<p>It can be easy to assume that when therapy feels like ordinary conversation, nothing therapeutic is happening. However, some of the most important material in session doesn’t arrive with a drumroll or suspenseful music. Often, awareness emerges through gossip, complaints, dating stories, work drama, and the seemingly insignificant details of your week.</p>
+
+<h2>1. Your rambling is more revealing than you think</h2>
+<p>You may think you’re telling your therapist about how your roommate never replaces the toilet paper. However, your therapist may be hearing that you routinely take on more than your share, become resentful, say absolutely nothing, and then insist you’re “fine.”</p>
+
+<p>Everyday interactions contain information about how we handle disappointment, rejection, boundaries, intimacy, anger, and uncertainty.</p>
+<p>The incidents you’re recounting in session may not constitute a crisis, but your reactions to them can reveal the narratives you live by. Maybe someone’s irritation means you have done something wrong. Maybe asking for what you need feels demanding, while accommodating everyone else feels perfectly reasonable.</p>
+
+<p>As a therapist, I’m not trying to determine who was right in the argument or whether your friend’s text was objectively rude. I’m listening for what the interaction evoked in you, the meaning you assigned to it, and why the same themes seem to follow you from one relationship to another.</p>
+<h2>2. Sometimes you need to talk about nothing before you can talk about something</h2>
+
+<p>People don’t necessarily walk into therapy and immediately announce their deepest, darkest secrets.</p>
+<p>Most sessions begin far less dramatically. You might start with traffic, complain about something that happened at work, or recap the never-ending to-do list. Before you know it, you’re analyzing why your best friend’s thumbs-up emoji felt so hostile, only to realize it reminds you of your mother’s curt responses. Suddenly, what seemed like meaningless chit-chat begins to make sense.</p>
+
+<p>In my sessions, I often see people approach vulnerability gradually. We test the room. We tell funny stories about painful experiences. We talk about music, books, films. Sometimes we spend 20 minutes discussing someone else’s behavior before realizing we’re actually talking about ourselves.</p>
+<p>Small talk may be a way of building enough safety to move toward more painful memories. There is no prize for getting to your deepest wound in four sessions. Pacing the work and slowly uncovering what lies beneath are part of the process.</p>
+
+
+<h2>3. Your body may be telling a different story</h2>
+<p>Imagine telling your therapist that someone you’ve been dating hasn’t texted you in three days. You shrug and say, “It’s whatever. I don’t care.”</p>
+<p>But you’re sitting on the edge of the couch, twisting your ring around your finger, and your voice changes every time you mention their name.</p>
+
+<p>That discrepancy between what you’re saying and what your body is communicating is information.</p>
+<p>Therapists listen to what happened, but we also pay attention to tone of voice, body language, facial expressions, changes in energy, pauses, and moments when your words don’t quite match your demeanor.</p>
+<p>I often find one of the most revealing sentences in therapy to be, “Anyway... it’s not a big deal.”</p>
+
+
+
+  
+
+
+<p>In session, the way you tell me something reveals more than the words themselves.</p>
+<h2>4. Chit-chat can reveal how you connect</h2>
+<p>Therapy isn’t only a place where you talk about your relationships. It is also a relationship in itself. The ways you connect with other people may eventually wander into the therapy room as well.</p>
+
+<p>Maybe you worry about boring your therapist. Maybe you perform being the “good client” who is insightful, self-aware, and conveniently healed by Thursday. Or perhaps you wonder whether your therapist secretly thinks you’re ridiculous for checking the Instagram story of someone you swear you are completely over.</p>
+
+<p>You may apologize for crying or agree with an interpretation you don’t actually agree with because disagreeing feels uncomfortable.</p>
+<p>These moments allow you and your therapist to notice how you relate to others while it is actually happening. If you worry about taking up too much space and then apologize to me for “talking too much,” we can become curious about that together, right there in the room.</p>
+
+<h2>5. Not every session needs to emotionally destroy you</h2>
+<p>There is a misconception that good therapy should wreck you. That you should leave emotionally exhausted, choke back tears on the subway ride home, and suddenly understand the origins of your abandonment issues.</p>
+<p>Some days, therapy does feel profound. You make a connection you hadn’t made before, finally say something out loud, grieve a loss you have spent years avoiding, or leave with a different understanding of your childhood. Other times, you leave therapy and buy groceries.</p>
+
+<p>A lighter session can help you regulate, reflect, laugh at yourself, or experience being with another person without having to perform, fix, impress, or take care of them.</p>
+<p>This is particularly important in relational therapy, where change can happen through the therapeutic relationship itself.</p>
+<p>Revealing something you’re ashamed of and being met with curiosity rather than criticism, or expressing anger and discovering that the relationship doesn’t collapse, can offer a different experience of connection.</p>
+
+<h2>But yes, sometimes therapy really is just chit-chat</h2>
+<p>Taking things slowly and unpacking difficult material gently is one thing. Having the same pleasant conversation every week while avoiding everything you came to therapy to address is another.</p>
+<p>If you’re wondering what you’re actually working toward, bring that question into the session.</p>
+
+<p>Advocating for yourself or admitting that something isn’t working can itself become part of the therapeutic process. You can say, “I feel like I keep talking about my week, but I’m not sure we’re getting anywhere.”</p>
+<p>A good therapist won’t be threatened by your feedback. In fact, that conversation may take the work deeper. And if advocating for your needs is something you struggle with elsewhere in your life, telling your therapist what you need may itself become the corrective experience you’ve been longing for.</p>
+
+<h2>The conversation beneath the conversation</h2>
+<p>The goal of therapy isn’t to manufacture a breakthrough every 50 minutes. It is to become increasingly curious about your inner landscape and understand why you chase whom you chase, tolerate what you tolerate, and avoid what you avoid.</p>
+<p>What feels like chit-chat may also be the unfamiliar ease of connecting with someone who is genuinely interested in you. You may be learning what it feels like to show up as you are and trust that you will be met with curiosity and care. Maybe the conversation you thought was going nowhere is actually what you came to therapy for: the experience of genuine connection.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/un-numb/202609/does-your-therapy-feel-like-expensive-chit-chat" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/un-numb/202609/does-your-therapy-feel-like-expensive-chit-chat</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/un-numb/202609/does-your-therapy-feel-like-expensive-chit-chat</guid>
+            <dc:creator><![CDATA[Duygu Balan LPCC]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/shutterstock_1337958206.jpg?itok=UZKdTXpX" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easily Distracted? A Magic Formula That All of Us Can Use]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Susan-Heitler_0.jpg?itok=ZN81c0VX" alt="Susan Heitler Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Attention</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Easily Distracted? A Magic Formula That All of Us Can Use</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">While science validates it, I first learned this wisdom from my mother.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Distractability is normal.</li><li style="margin-bottom:6px;">Do tendencies to move mentally from topic to topic merit being labeled as ADHD?</li><li style="margin-bottom:6px;">What you do after your thoughts have been straying is what matters.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/pexels-erkocphoto-31646744.jpg?itok=_9Z3vdsZ" width="639" height="426" data-insert-type="image" alt="Hmmm , , ," title="erkocphotos"></div>
+<div class="caption">Hmmm , , ,</div>
+<div class="insertArea--origin subtext">Source: erkocphotos</div>
+</div>
+</div>
+</div>
+<p>I still can hear my mother's kindly voice reminding me, "Susan, finish one thing before you go on to another."</p>
+<p>I do not have ADHD. Yet as I look back on the many projects I've had the honor to complete in my 80+ years of life thus far—6 books, 300+ blog posts on this website that have attracted over 27 million reads, lectures across the globe, enabled a cure for vulvodynia, created a name for the phenomenon of adult sibling alienation, not to mention the many clients I've been honored to have been able to help so that they have more satisfying life journeys and marriage relationships—still, I increasingly appreciate my mother's sage advice.</p>
+
+<p>Or maybe I do have ADHD, not of the hyperactive type but rather of the second kind: scattered focus. How easily whatever is in my line of sight can entice me to switch my focus to it and away from whatever task I had been doing. As I'm writing this blog post, the stunning yellow and pink flowers outside my office catch my eye. It's hot outside today. How tempting it is to get up and give the blossoms a much-needed extra watering. Yet if I do, how likely is it that yet another tempting task will enter my consciousness before, and most likely instead of, remembering to return to the writing project? Far too likely.</p>
+
+<p>Psychological researchers may use terms such as mind-wandering, spontaneous thought, thought variability, thought dynamics, off-task thought, or excessive mind-wandering to describe this phenomenon. Whatever the terminology, however, the phenomenon is the same. It's all different ways of labeling violations of my mother's rule.</p>
+
+<h2>New Understandings from Distractability Research</h2>
+<p>A study I found recently on this issue by Kerebel et al. (2024) delights me. Their findings suggested two new perspectives on the tendency to get distracted that my mother's sound advice addressed. </p>
+<ul>
+<li>The heightened variability of spontaneous thought associated with ADHD is also present in the general population as a continuum.</li>
+<li>Stream-of-thought dynamics is linked to a general tendency for exploration.</li>
+</ul>
+
+<p>First, I like very much the idea that the fact that my mind is easily distracted does not necessarily mean that I should give it the pathological-sounding ADHD label. Distractability exists in just about everyone, with a spectrum of the extent to which it is just a normal part of brain function versus a phenomenon that undermines effective functioning. </p>
+
+<p>That is, rather than being either/or, I have ADHD or I don't, this way of regarding the phenomenon normalizes it, validating that everyone tends to be distractible. It's just a matter of how much, and probably also of what one does once distraction occurs. Follow my mother's rule, and distractibility is fine. When your mind wanders, remind yourself, I tell myself, to finish one thing before you go on to the next.</p>
+
+<p>Second, when someone's mind shifts easily from idea to idea, that can be a good thing. It indicates a potential for creative thinking, that is, for the ability to discover new ideas and new ways of seeing whatever lies in front of us. That explains why so many original thinkers are likely to have diagnosable ADHD. Elon Musk, for instance, the creator of Starlink and so many other novel inventions, immediately comes to mind. </p>
+
+
+<p>What about the age factor? Is my mind's habit of leading me astray from what I have been trying to do becoming more pronounced with age? Research by Hoyer et al. on the impacts of aging on the tendency to become distracted says yes. My personal experience definitely validates this possibility. At the same time, however, as their research points out, impulsivity actively declines with age. More thinking creatively plus less tendency to act impulsively may well be a good combination!</p>
+
+<h2>And so...</h2>
+<p>Be kind to yourself. If your mind tends to shift from topic to topic more readily than seems normal, reassure yourself that such shifting can be just fine, and even a source of your creativity. </p>
+<p>Just be sure to remind yourself that thoughts are one thing and actions quite another. If your attention, i.e., your thoughts, are straying from the task you have in front of you, remind yourself of my mother's words. </p>
+
+
+
+  
+
+
+<p>Finish one thing before you go on to the next!</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/resolution-not-conflict/202609/easily-distracted-a-magic-formula-that-all-of-us-can-use" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/resolution-not-conflict/202609/easily-distracted-a-magic-formula-that-all-of-us-can-use</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/resolution-not-conflict/202609/easily-distracted-a-magic-formula-that-all-of-us-can-use</guid>
+            <dc:creator><![CDATA[Susan Heitler Ph.D.]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-erkocphoto-31646744.jpg?itok=xQFD0L0P" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Assessing Psychopathy in Historical Assassins]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/winifred_rule.png.jpg?itok=dYjWxYHW" alt="Winifred Rule" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychopathy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Assessing Psychopathy in Historical Assassins</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Using collateral sources and the PCL-R to assess psychopathy.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Most murderers are not psychopaths; media often conflates the two wrongly.</li><li style="margin-bottom:6px;">Psychopathy diagnosis requires comprehensive evaluation, not just observation of certain traits.</li><li style="margin-bottom:6px;">The PCL-R uses collateral sources and structured interviews to assess psychopathy.</li>
+            </ul>
+          </div>
+                    <p>We have all heard of people who commit horrific crimes. Such people make us shudder. Whenever we think of notorious criminals, especially murderers, we tend to label them psychopaths. Famed psychopathy expert, Dr. Robert Hare, in his book, <em>Without Conscience</em>, has written, "The majority of psychopaths manage to ply their trade without murdering people.”<sup>1</sup> In other words, most murderers are not psychopaths. All too often media conflates criminals and psychopaths.</p>
+
+<h2>Beware of quick labeling</h2>
+<p>We must be careful not to confuse the presence of a few psychopathic traits with the personality disorder itself. Someone’s boss could be abusive at work, but quite the opposite with family. This is not a psychopath. Or she may be charming and manipulative with business associates, but forthright with friends. This is not a psychopath. Or she may feel no guilt or remorse while cheating on taxes but feel terribly guilty about hurting another person. This is not a psychopath. </p>
+
+<h2>The Psychopathy Checklist-Revised </h2>
+<p>To identify if someone is a psychopath, Dr. Hare and his students developed a clinical rating scale for the assessment of psychopathy. Originally published in 1980, the checklist, revised and updated in 1991, became known as the Psychopathy Checklist-Revised (“PCL-R”). The rating scale includes 20 traits that typify psychopathic behaviors rated on a scale of 0, 1 or 2, with 2 signifying high prevalence of the trait. Its methodology requires an interview with the person being examined that follows a written script, along with a comprehensive review of collateral documentation and reports from others who know the person. </p>
+
+<h2>Applying the PCL-R to two assassins</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/booth_5468332941_315ecfbb52_c.jpg?itok=ycW5SNGz" width="320" height="446" data-insert-type="image" alt="John Wilkes Booth" title="Family Tree Magazine/CC BY-SA 2.0"></div>
+<div class="caption">John Wilkes Booth</div>
+<div class="insertArea--origin subtext">Source: Family Tree Magazine/CC BY-SA 2.0</div>
+</div>
+</div>
+</div>
+<p>In his book, <em>The Psychopath Whisperer</em>,<sup>2</sup> psychopathy researcher Dr. Kent Kiehl, a student of Dr. Hare, applied the PCL-R to two notorious presidential assassins and demonstrated how one was most likely a psychopath while the other probably was not. He compares John Wilkes Booth, who assassinated Abraham Lincon in 1865, and Charles Julius Guiteau, who assassinated James Garfield in 1881. </p>
+
+<p>Without the standard PCL-R personal semi-structured interview, Kiehl relied on collateral sources that revealed the background of the two men. He used historical documents and contemporaneous reports from relatives, biographers, diaries, letters and other first-hand sources to assess the likely PCL-R score for each of these two murderers. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/guiteau_9498921976_ec80e2788e_o__1_.jpg?itok=T_li6MUE" width="320" height="320" data-insert-type="image" alt="Charles Julius Guiteau" title="Wystan/CC BY-SA 2.0"></div>
+<div class="caption">Charles Julius Guiteau</div>
+<div class="insertArea--origin subtext">Source: Wystan/CC BY-SA 2.0</div>
+</div>
+</div>
+</div>
+<h2>Comparing Booth and Guiteau </h2>
+<p>Dr. Kiehl found Booth was dedicated to a “cause,” a Southern sympathizer hoping for a resurgence of the South, while Guiteau’s motive was utterly meaningless. “In a note found in his pocket when he was arrested for shooting President Garfield, Charles Guiteau rationalized, minimalizing life and making light of the murder he committed. He wrote, 'A human life is of small value.'”<sup>3</sup></p>
+
+<p>Documentation showed that Booth was a "decent businessman, fair to his family and friends,” and was known to donate to charity.<sup>4 </sup>However, Guiteau was involved in swindles, schemes, fraud, extortion, manipulating people and preying on them, borrowing money and never paying it back. File records and sources revealed that Guiteau’s whole life was dedicated to deception and manipulation and he never evinced shame, guilt or remorse. </p>
+
+
+<p>On the other hand, Booth, “begged his family in his diary to forgive him for the crime he committed.”<sup>5</sup> When Booth attended funerals, he showed “a normal range and depth of emotion. He cared for and left his money and property to his siblings and their children.”<sup>6</sup> Guiteau was described by his father and family relations “as having a wicked temperament.”<sup>7</sup> Not only did he abuse his wife, but he became known in his neighborhood as a “miserable rascal,”<sup>8</sup> while Booth showed no evidence of “aberrant behavior”<sup>9</sup> in his early years.</p>
+
+<p>Guiteau had “threatened to kill his sister with an axe,”<sup>10</sup> and had a grandiose sense of self-worth. His former wife said, “He looked down upon people who did menial work."<sup>11</sup> Booth worked hard in the theatre, stymied by stage fright at first. Nevertheless, he persevered in his career and established a nice following.<sup>12</sup></p>
+
+
+
+  
+
+
+<p>Elder brother, Edwin Booth, “reported that John Wilkes was the parents’ favorite of ten children.”<sup>13</sup> Luther Guiteau wrote privately about his son, “I found he was deceitful, and could not be depended upon in anything, stubborn, willful, conceited, and at all times outrageously wicked, apparently, possessed with the devil.”<sup>14</sup></p>
+
+<p>Applying the 0 to 40 score PCL-R protocol for the 20 psychopathic traits, Kiehl found Booth to score only 8.4 out of 40 on the PCL-R while Guiteau scores 37.5 out of 40.<sup>15</sup></p>
+<p>Both men have gone down in history as horrific murderers. Both were assassins of presidents, and both shocked the nation. However, contrary to what many might think, only one was likely a psychopath … Charles Julius Guiteau.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/surviving-the-female-psychopath/202609/assessing-psychopathy-in-historical-assassins" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/surviving-the-female-psychopath/202609/assessing-psychopathy-in-historical-assassins</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/surviving-the-female-psychopath/202609/assessing-psychopathy-in-historical-assassins</guid>
+            <dc:creator><![CDATA[Winifred Rule]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/guiteau_9498921976_ec80e2788e_o__1_.jpg?itok=FXipgTZJ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Your Mental Health Career Comes Down to a Test Score]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/StaceyP.png.jpg?itok=VPI4zPLn" alt="Stacey R. Pinatelli Psy.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personal Perspectives</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Your Mental Health Career Comes Down to a Test Score</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: On licensing exams in the mental health profession.</h2><p style="font-size:0.9em;color:#666;">Posted September 4, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Licensing exams can create self-doubt and questions about competence even for highly trained clinicians.</li><li style="margin-bottom:6px;">Failing a high-stakes licensing exam does not necessarily reflect a clinician’s competence.</li><li style="margin-bottom:6px;">Resilience can mean learning to separate professional identity and self-worth from an exam score.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/eppp_pass_or_fail.jpg?itok=iJyzReC_" width="639" height="359" data-insert-type="image" alt="Ready to be Licensed? Pass or Fail " title="Candy Candy/ Shutterstock"></div>
+<div class="caption">Ready to be Licensed? Pass or Fail</div>
+<div class="insertArea--origin subtext">Source: Candy Candy/ Shutterstock</div>
+</div>
+</div>
+</div>
+<p>After years of graduate school, clinical training, internship, supervised hours, and countless hours spent learning how to help others, one final hurdle often stands between a mental health professional and independent practice: the licensing exam.</p>
+<p>That exam was the Examination for Professional Practice in Psychology.</p>
+
+<p>I knew this exam was important, but I didn’t fully realize its emotional weight until I sat in front of the computer, knowing that years of work came down to a single score. When I didn't pass on my first try or even my second, the experience challenged me in ways that had little to do with my knowledge of psychology.</p>
+
+<p>I joined online forums and study groups for people preparing for the exam, hoping to find information, encouragement, and reassurance that I wasn’t alone. Reading stories from people who hadn’t passed after several attempts made me realize how easily a test score can become intertwined with our professional identity. </p>
+
+<p>I wasn’t the only one struggling with questions that made passing feel like a huge challenge: </p>
+<p><em>Am I good enough?</em><br><em>Am I really ready?</em><br><em>What does not passing say about me as a clinician?</em></p>
+<p>It’s hard to quiet these questions when so much of your future seems to depend on one exam. </p>
+<p>Those questions weren’t just about passing a test. They started to feel like doubts about whether I could really become the psychologist I had worked so hard to be. </p>
+
+<p>Being a high-achieving student and clinician can make failure particularly hard to accept. After many years of training, you may think, <em>After everything I have done to get here, I should be able to do this. </em>That’s when perfectionism and imposter syndrome can begin to creep in. You might wonder if you made it this far by mistake. Maybe you’re not as capable as you thought. Maybe everyone else is ready, and you're the one who isn't. You begin to compare. You watch classmates, colleagues, or people you trained with get licensed while you are still studying, waiting, or trying again. Even if you’re happy for them, it’s hard not to wonder, <em>Why am I still here?</em></p>
+
+<p>The longer the process drags on, the easier it is to confuse being unlicensed with being unqualified. That distinction matters.</p>
+<p>Not passing an exam doesn’t erase your education, training, client relationships, or growth. Still, it’s hard to remember that when your career, finances, and professional future seem to depend on a single score.</p>
+
+<p>Psychologists aren’t the only mental health professionals who experience this. Social workers, marriage and family therapists, and other mental health professionals face their own licensing examinations, along with the uncertainty, pressure, and emotions that come with a high-stakes test. </p>
+<p>We can spend years learning to care for other people's emotional well-being while struggling to care for our own, even as our professional future feels uncertain.</p>
+
+<p>The road to licensure can be particularly long for psychologists. After years of education, internships, postdoctoral fellowships, and thousands of supervised hours, often for little or no pay, we keep going because we believe the end is finally in sight. </p>
+<p>That meant leaving my home every year, renting a place on top of my mortgage back home, and completing my training away from my family. And after all these years, we finally reach the licensing exam. Strangely for most of us, just one test stands between us and independent practice. </p>
+
+<p>This journey is smooth for some. For others, like me with medical disabilities, it hasn’t been easy. Some exams allow accommodations, which I had, but whether these accommodations level the playing field is another topic. </p>
+<h2><strong>Professional Competence or Test-Taking Ability </strong></h2>
+<p>One of the hardest lessons I learned was that <em>professional competence and test performance aren’t the same thing.</em></p>
+
+
+
+  
+
+
+<p>A licensing exam measures what we can demonstrate on a specific day, under particular conditions. It can’t measure every hour spent sitting with clients, the relationships we've helped build, the crisis we've navigated, or the years of growth that have led us here.</p>
+<p>Still, when so much depends on licensing exams, it’s hard to keep that in mind. </p>
+
+<p>There’s something ironic about this. As psychologists, we help clients work through self-doubt, perfectionism, and the belief that one outcome doesn’t define them. But when my own future was at stake, I found it much harder to apply those lessons to myself.</p>
+<p>I knew intellectually that not passing an exam didn’t mean I wasn't capable. I knew my years of education, training, and experience didn’t disappear because I hadn’t passed. But knowing something and actually believing it when you’re the one facing that score are two very different things.</p>
+
+<p>I spent so much time pushing forward: studying, working, training, and trying again. There wasn't much room to stop and process what this experience was doing to me emotionally, or to my interpersonal relationships. I just kept going because I had to. </p>
+<p>When I finally passed the exam on my third attempt, I broke down in tears. I broke, not because I had passed, but because I could finally release everything I’d been carrying—the exhaustion, the emotions I’d set aside, including the grief I had postponed when I lost family members, and the relief of finishing something that made me question myself.</p>
+
+<p>And somewhere in those tears, I realized I wasn’t worthless. </p>
+<p>I didn’t suddenly become a competent psychologist just because I passed. I was the same person before that score appeared. The difference was that I could finally stop fighting and allow myself to see it.</p>
+<p>The exam changed my professional status, but it didn’t change who I was, what I knew, the clinician I’d become, or the years of work that had brought me here. Maybe that’s something we don't talk about enough with these exams. Sometimes the hardest part isn't just passing; it’s what happens to how you see yourself while you’re waiting to pass.</p>
+
+<p>A licensing exam might decide when we can practice independently, but it doesn’t determine our worth, our potential, or the meaning of everything we’ve already accomplished. A license lets us practice, but it doesn’t create the years of dedication and compassion or the clinical growth that brought us to this moment.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/hope-and-healing/202609/when-your-mental-health-career-comes-down-to-a-test-score" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/hope-and-healing/202609/when-your-mental-health-career-comes-down-to-a-test-score</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/hope-and-healing/202609/when-your-mental-health-career-comes-down-to-a-test-score</guid>
+            <dc:creator><![CDATA[Stacey R Pinatelli Psy.D.]]></dc:creator>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/eppp_pass_or_fail.jpg?itok=eP7NWNYW" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
