@@ -4,93 +4,711 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 20:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 16:53:17 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 20:13:58 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 16:53:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Students Are Citizens, Not Just Consumers]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/mark_horowitz.png.jpg?itok=9e9HrsXa" alt="Mark Horowitz Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Education</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Students Are Citizens, Not Just Consumers</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A generation without humanistic formation cannot meet the crises ahead.</h2><p style="font-size:0.9em;color:#666;">Posted September 5, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why the Same Evidence Splits an Insanity-Defense Jury]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-12/ruth_johnson.png.jpg?itok=jW4OjdLH" alt="Ruth S. Johnson J.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Law and Crime</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why the Same Evidence Splits an Insanity-Defense Jury</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The Clancy murder trial shows why the facts alone may not decide insanity cases.</h2><p style="font-size:0.9em;color:#666;">Posted September 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">John Adams hoped future generations would have more freedom to study the arts and humanities.</li><li style="margin-bottom:6px;">The liberal arts and humanities were never a luxury—they form the habits of mind democracy needs.</li><li style="margin-bottom:6px;">Today, AI and related pressures push colleges toward workforce alignment at the expense of civic formation.</li>
+              <li style="margin-bottom:6px;">Psychosis is a clinical diagnosis, while legal insanity is a judgment about criminal responsibility.</li><li style="margin-bottom:6px;">Research shows jurors’ attitudes can shape how they evaluate the same mental-health evidence.</li><li style="margin-bottom:6px;">Insanity defenses ask jurors to evaluate conduct from within the defendant’s psychotic reality.</li><li style="margin-bottom:6px;">A mistrial may reflect jurors’ differing views of mental illness and blame, not disagreement on the facts.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/career_center_psychology_today_image_2.png.jpg?itok=TYUehqTP" width="320" height="256" data-insert-type="image" title="ChatGPT AI image/Free use" alt="ChatGPT AI image/Free use"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: ChatGPT AI image/Free use</div>
+                    <p>On September 4, 2026, a judge in Plymouth Superior Court, Massachusetts, declared a mistrial in the murder case of Lindsay Clancy, a former labor and delivery nurse charged with killing her three young children in 2023. After seven days and roughly 36 hours of deliberation, the jury told the court three separate times that it could not reach a unanimous decision on a single question: Was Clancy criminally responsible for strangling her children, ages 5, 3, and 8 months, or was she experiencing postpartum psychosis severe enough to negate that responsibility? </p>
+
+<p>The mistrial is a reminder of a question that has persisted for years: <em>Why do juries often fail to reach the same verdict when asked to weigh a psychosis-based insanity defense, when they hear identical evidence?</em> As recent studies suggest, the reasons have less to do with the strength of the expert testimony than with who happens to be sitting in the jury box.</p>
+
+<h2>A Legal Standard Built on a Clinical Question</h2>
+<p>The insanity defense presents an unusual problem for a jury. In most criminal trials, disagreement among jurors can readily be attributed to disagreement about the facts: whether a witness was credible, whether the defendant possessed the requisite intent, or whether the prosecution proved that the defendant committed the charged act. Cases involving psychosis and insanity are different. Jurors may substantially agree about what happened and even agree that the defendant was experiencing a serious psychotic episode at the time of the offense, yet reach opposite conclusions about criminal responsibility.</p>
+
+<p>Insanity cases are difficult not simply because psychiatric evidence is technical or because jurors misunderstand mental illness. They are difficult because the legal inquiry requires jurors to translate descriptive evidence about a defendant's mental state into a normative judgment about blameworthiness. Psychiatry can describe delusions, hallucinations, disorganized thinking, and impaired reality testing. It can offer an opinion about how those symptoms affected a particular defendant. But the ultimate question posed by the insanity defense—whether those impairments were sufficient to relieve the defendant of criminal responsibility—is a legal and moral judgment rather than a purely medical one.</p>
+
+<h2>Psychosis and the Insanity Defense</h2>
+<p>The first source of difficulty is the gap between psychiatric diagnosis and legal insanity. Psychosis generally refers to a profound disturbance in a person's perception or interpretation of reality and may involve delusions, hallucinations, disorganized thought, or other serious symptoms. Legal insanity, by contrast, is not a psychiatric diagnosis. It is a legal conclusion concerning the relationship between mental disease or defect and criminal responsibility at the particular time of an offense. So, a defendant can indisputably suffer from schizophrenia or another psychotic disorder and nevertheless fail to satisfy the jurisdiction's insanity standard. Conversely, the legal inquiry is not resolved merely by attaching a diagnostic label to the defendant. The relevant question is ordinarily functional: What effect did the defendant's mental condition have on the capacities that the applicable insanity rule treats as essential to criminal responsibility?</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
 </div>
+
+  </div>
+
+<p>Jurors must therefore perform a task for which psychiatric evidence provides incomplete guidance. Expert witnesses can explain that a defendant believed, for example, that another person was a supernatural being intending to kill him. They can explain why that belief was delusional and how it arose from psychosis. But those conclusions do not themselves answer the legal question. The jury must still determine what the defendant understood about his own conduct and whether that understanding satisfies the jurisdiction's conception of criminal responsibility.</p>
+
+<h2>Who Is in the Jury Box?</h2>
+<p>Most people have some implicit theory of what makes a person responsible for their actions. For some, responsibility turns principally on conscious awareness: If the defendant knew what he was physically doing, responsibility follows. Others place greater emphasis on rationality and perceive a person whose understanding of reality has been profoundly distorted as less morally responsible even if he retained some awareness of his actions. Still others distinguish between an explanation for conduct and an excuse for it: Mental illness may explain why a person committed a terrible act without, in their view, relieving that person of responsibility for committing it. A juror's own experience (or lack of experience) with mental illness may also color and shape their own theories and intuitions.</p>
+
+<p>A body of empirical research suggests that jurors carry their own predispositions into deliberation that shape how they interpret the same expert testimony. A survey study of 467 adults, published in the journal <em>Psychiatry, Psychology, and Law, </em>measured traits including legal authoritarianism—the belief that legal authority outweighs individual rights—and moral disengagement, the tendency to justify harsh judgment by minimizing or reframing a defendant's circumstances. People higher in legal authoritarianism and moral disengagement were significantly less likely to support either an insanity defense or a postpartum-illness defense, regardless of the facts presented, while people higher in a trait called <em>need for cognition—</em>a preference for effortful, analytical thinking—were more supportive of both. The researchers found that moral disengagement partly explained why authoritarian jurors were harsher: They were more likely to view the defendant as a dangerous "other" rather than as someone experiencing an illness.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
 </div>
-</div>
-<p>In 1780, while serving as a diplomat in Paris, John Adams wrote to his wife, Abigail:</p>
-<p>"I must study Politicks and War that my sons may have liberty to study Mathematics and Philosophy."</p>
-<p>Adams then imagined his sons studying commerce and agriculture so that future generations could pursue painting, poetry, music, and the liberal arts. </p>
 
-<p>The premise seems quaint today. Yet Adams captured something essential: Education can serve purposes beyond earning a living. As a society grows more prosperous, it can devote resources not merely to producing workers, but to forming citizens—people who inherit a civilization, develop their aesthetic and spiritual sensibilities, and participate meaningfully in public life.</p>
+  </div>
 
-<p>That idea is under serious strain. In a prior <a href="https://www.psychologytoday.com/us/blog/post-tribal/202608/why-universities-keep-lowering-their-standards">post</a>, I examined how current incentives are lowering academic standards and threatening to hollow out the market value of the college degree. Here I focus on a deeper problem: the eroding civic value of higher education. </p>
-<h2>The Dual Purposes of College Education</h2>
-
-<p>A college education serves two functions. Its signaling function verifies that a student has the competence, knowledge, and grit employers value. Its civic function transmits a society's cultural and intellectual inheritance, cultivating a student’s capacity to think independently and participate in democratic life. Thinkers from John Dewey and W.E.B. Du Bois to Robert Maynard Hutchins have long emphasized this civic function. </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/dubois_quote_white_visible.jpg?itok=y-wfdfEE" width="320" height="403" data-insert-type="image" title="Wikimedia Commons" alt="Wikimedia Commons"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Wikimedia Commons</div>
-</div>
-</div>
-</div>
-<p>The civic function is often dismissed, however, as hopelessly impractical. “What are you going to do with <em>that</em>?” students hear when they consider such “imprudent” majors as sociology, history, music, literature, or the arts. Adams hoped later generations would have the freedom to gravitate toward the liberal arts. Today, we see the opposite. Humanities and liberal-arts majors have <a href="https://www.theguardian.com/us-news/2026/jan/20/universities-humanities-programs">declined sharply</a> for more than a decade, while parents reasonably worry whether their children’s studies will furnish a livelihood. </p>
-
-<p>But we must pause to address pressing questions: Should the transmission of our cultural inheritance be tied tightly to the demands of the labor market? What happens if the labor market itself needs fewer and fewer workers?</p>
-<p>That second question is not far-fetched. </p>
-<h2>Challenges to the Civic Function of Higher Education</h2>
-
-<p>Consider Bill Gates’ recent <a href="https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med">essay</a> warning that AI could transform the labor market faster than any previous technology, disrupting law, medicine, customer service, software, and manufacturing within a decade. In an <a href="https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html">interview</a> with <em>The New York Times</em>, he suggested that technology leaders are privately far more concerned about AI’s employment effects than they admit in public.</p>
-
-
-<p>A recent post by Andrew Yang, author and 2020 Democratic presidential candidate, highlights the danger to the education sector:</p>
-<p>“Heard about a small college in the Midwest that has lost 50% of its enrollment in the last 10 years. Hundreds of colleges are going to close in the next decade, and it’s going to be devastating for many communities.” (X, August 30, 2026) </p>
-
-<p>Yang’s warning is not an isolated data point. Colleges today face a convergence of threats unlike anything in memory: declining numbers of college-age students, enormous student debt, declining academic preparation and mental health concerns, plummeting public trust, and a polarized political climate that views higher ed as a target. </p>
+<p>A separate case-outcome analysis published in the <em>Journal of the American Academy of Psychiatry and the Law</em> examined infanticide cases across jurisdictions using different legal standards. Insanity defenses succeed in fewer than 0.1 percent of all criminal trials generally, but in infanticide cases, they succeed between 15 and 27 percent of the time. Whether a state used the stricter M'Naghten test or a more permissive model penal code standard mattered less than whether the jury accepted that genuine psychosis, rather than depression, exhaustion, or anger, was present. </p>
 
 
 
   
 
 
-<p>Consider the long game. If Gates and Yang are right—if advanced AI and automation steadily reduce the economy's need for people—does the deep, cultivating work of the university (the slow formation of judgment, sensibility, historical memory, and civic capacity) become a luxury good available only to the children of the wealthy?</p>
+<p>In other words, the legal architecture of the defense matters far less than the psychological makeup of the 12 people deciding it.</p>
+<p>Thus, two jurors can listen to the same psychiatrist and assign different significance to the testimony. One may hear evidence of delusion as evidence that the defendant's capacity for rational judgment had collapsed. Another may hear the same testimony as an explanation for why the crime occurred while continuing to regard the defendant as legally responsible for it.</p>
 
-<h2>Federal Policy and the Shift Toward Workforce Alignment</h2>
-<p>The pressures facing higher education appear so intractable that many college leaders are leaning harder into workforce alignment—and so is the federal government. The Trump administration’s “Do No Harm” earnings standard requires undergraduate programs to demonstrate that their graduates out-earn the typical worker with only a high school diploma. Programs that fail stand to lose eligibility for federal student loans. Under Secretary of Education Nicholas Kent put the logic<a href="https://www.ed.gov/about/news/press-release/us-department-of-education-issues-proposed-rule-hold-colleges-and-universities-accountable-low-earning-outcomes"> plainly</a>: Taxpayers should not subsidize programs that do not leave graduates financially better off. </p>
+<h2>A False Reality</h2>
+<p>Psychotic delusions create a further complication: Jurors are being asked to reason from inside a reality they know to be false. Consider a defendant who attacks a stranger because he is convinced, in the moment, that the stranger is pointing a loaded gun at him, though no gun exists. Judging him fairly means setting aside the facts established at trial and reconstructing the world as he experienced it. That is a hard thing to ask of anyone.</p>
 
-<p>I recently attended a higher-education panel of college leaders, researchers, and policy experts whose job is to keep their institutions solvent. Their message was clear: Patchwork solutions are no longer adequate; major structural changes are imperative. Colleges must “demonstrate their value in real time” through “workforce alignment” and “vocational partnerships,” and accept a “vanishing line between higher education and the workplace.” “Flexibility” and “certificates” are preferred over “too slow” traditional degrees. Institutions must eliminate “underperforming” (low-enrolled) programs and “invite employers to tell us what we’re doing well and what we’re not.” </p>
+<p>From the juror's seat, the threat was imaginary. From inside the defendant's illness, it may have been indistinguishable from real danger. Weighing the case fairly means holding two ideas at once: the belief was objectively false, but the response to it may have been coherent, even rational, on its own delusional terms. This gets harder still when the defendant's behavior looks deliberate. Planning, hiding, fleeing, lying to police—any of it can look like consciousness of guilt. But purposeful behavior is not proof of a clear mind. Someone reasoning from a delusion can still reason logically from that delusion's premise. If the premise is "This person means to kill me," then fighting back, or avoiding people believed to be his allies, is a rational response to an irrational belief.</p>
 
-<p>I cite these phrases not to critique the speakers. They are struggling to keep their institutions afloat against severe headwinds. But if we are to protect higher education’s civic function, hard questions must be raised before such pronouncements become irreversible policy. </p>
-<h2>Why Public Commitment to Civic Education Matters</h2>
+<p>The result is that jurors can agree completely on what a defendant did and still disagree on what it means. One reads concealment as proof the defendant <em>knew </em>the act was wrong. Another reads the same concealment as <em>exactly </em>what someone trapped inside that delusion would do.</p>
+<h2>What the Mistrial Signals</h2>
+<p>A hung jury is not necessarily a failure of the evidence. Research suggests that disagreement may be an expected outcome when a case implicates jurors’ preexisting beliefs about mental illness, personal agency, and moral blame as strongly as this one did. If the case is retried, a different group of 12 jurors, drawn from a different jury pool, could plausibly reach a different verdict based on materially identical evidence. That possibility is not unique to this case. It reflects a broader pattern documented in research on psychosis-based insanity defenses: Verdicts cannot always be explained by differences in the governing legal standard or the evidence presented. Jurors themselves matter. Their attitudes toward mental illness, their understanding of psychosis, and their underlying conceptions of moral and legal responsibility can materially influence how they interpret the same evidence and, ultimately, where they draw the line between mental illness and legal insanity.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
 
-<p>The forces reshaping higher education are real, and no single actor—college leaders, policymakers, or parents—can be blamed for responding to them. Still, a society gets the university it is willing to pay for. If we tether higher education entirely to the labor market’s shrinking demands, we risk cutting generations of students off from the intellectual, humanistic, and spiritual substance that the liberal arts and humanities convey. That does not bode well for democratic life or for the habits of mind a complex society requires—especially amid rising global temperatures, declining social trust, and exploding public and private debt.</p>
+  </div>
 
-<p>John Dewey understood the deeper work. Education, he wrote, “is continually shaping the individual’s powers, saturating his consciousness, forming his habits, training his ideas, and arousing his feelings and emotions.” Protecting that work—before the last humanities department closes its doors—is an urgent task now facing American higher education.</p>
-
-<p>Market incentives alone will not suffice; only a deliberate public commitment can. That is why my colleagues and I have called for a renewed national commitment to <a href="https://files.eric.ed.gov/fulltext/EJ1377743.pdf">public financing</a> of higher education—one that would let institutions sustain the humanities and civic education without having to justify every program in the language of employability. <br><br>Yes, that proposal looks quixotic. But so does expecting a society lacking civic education to cooperate on the severe social problems ahead.</p>
+<p><em>If you or someone you know is struggling with mental health or in a crisis, call or text 988 to reach the 988 Suicide &amp; Crisis Lifeline for free, confidential support available 24/7. To find a therapist, </em><a href="https://www.psychologytoday.com/us/therapists"><em>visit the Psychology Today Therapy Directory</em></a><em>.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/post-tribal/202609/students-are-citizens-not-just-consumers" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/so-sue-me/202609/why-the-same-evidence-splits-an-insanity-defense-jury" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/post-tribal/202609/students-are-citizens-not-just-consumers</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/post-tribal/202609/students-are-citizens-not-just-consumers</guid>
-            <dc:creator><![CDATA[Mark Horowitz Ph.D.]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/career_center_psychology_today_image_2.png.jpg?itok=wuz9zFgo" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/so-sue-me/202609/why-the-same-evidence-splits-an-insanity-defense-jury</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/so-sue-me/202609/why-the-same-evidence-splits-an-insanity-defense-jury</guid>
+            <dc:creator><![CDATA[Ruth S. Johnson J.D.]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-furkanalakoc-34410146.jpg?itok=5G9yD1f0" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Rare Is It to Be 100% Left-Handed?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/e1_edited.jpg?itok=z6uf8KQT" alt="Sebastian Ocklenburg, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neuroscience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Rare Is It to Be 100% Left-Handed?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">About 11% of people are left-handed but how many are 100% left-handed?</h2><p style="font-size:0.9em;color:#666;">Posted September 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Handedness can be understood as a continuum between being 100% left-handed and 100% right-handed</li><li style="margin-bottom:6px;">A German handedness study included lateralization quotients a a continuous measure of handedness.</li><li style="margin-bottom:6px;">About 2% of people were 100% perfectly left-handed while about 47% of people were 100% right-handed.</li>
+            </ul>
+          </div>
+                    <p>Around the world, most people are right-handed, but 10.6% are left-handed (<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000229">Papadatou-Pastou and co-workers, 2020</a>). While many studies classify people as either left-handed or right-handed, some scientists have argued that handedness is a continuum, rather than two discrete types. </p>
+<p>This idea comes from the fact that handedness is often measured with questionnaires that contain many different questions about hand use. For example, in the commonly used Edinburgh Handedness Inventory (<a href="https://www.sciencedirect.com/science/article/abs/pii/0028393271900674?via%3Dihub">Oldfield, 1971</a>), participants are asked to indicate their preferred hand for 10 common activities: writing, drawing, throwing, using scissors, using a toothbrush, using a knife, using a spoon, using a broom, striking a match, opening a box. Based on the results of this or similar handedness questionnaires, a so-called lateralization quotient can be calculated. To do this, scientists typically see how many activities someone prefers to do with their right hand and how many the same person prefers to do with their left hand. They then subtract the number of left-preferred activities from the number of right-preferred activities and divide the results by the overall number of activities. The result is then multiplied by a hundred. </p>
+
+<p>This calculation yields a value between -100 (100% left-handed) over 0 (perfectly ambidextrous) to +100 (100% right-handed). The advantage of this system is a finer-grained assessment of handedness than the usual left-handed/right-handed distinction. Interestingly, studies have shown that left-handers are less likely to be 100% left-handed than right-handers are to be 100% right-handed. </p>
+
+<p>This brings us to an interesting question: What percent of people are 100% perfectly left-handed?</p>
+<h2>A large study on handedness lateralization quotients</h2>
+<p>To answer this question, a large study assessing handedness with the Edinburgh Handedness Inventory is needed. While there are many studies on handedness with tens of thousands of volunteers, unfortunately almost all of them just ask volunteers for their writing hand. A German handedness study from 2024 with about 600 volunteers, however, reported the distribution of Edinburgh Handedness Inventory lateralization quotients calculated with the formula described above (<a href="https://www.tandfonline.com/doi/full/10.1080/1357650X.2024.2370871">Mundorf and co-workers, 2024</a>).</p>
+
+<h2>Only 2.1% of people are 100% left-handed</h2>
+<p>Considering that 10.6% of people are left-handed, the results of the study revealed that about one-fifth of left-handers are 100% perfectly left-handed and prefer to use the left hand for all 10 behaviors in the Edinburgh Handedness Inventory. Specifically, 2.1% of volunteers included in the study were 100% left-handed (lateralization quotient of -100). Perfectly ambidextrous people were even rarer, with only 0.2% of volunteers showing a lateralization quotient of exactly 0. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>In contrast, 100% perfectly right-handed people were quite common: 47.3% of all volunteers included in the study were 100% right-handed, having a lateralization quotient of +100.</p>
+<p>To answer the question from the beginning: It is quite rare to be 100% left-handed. Only about 2.1% of people show this uncommon form of left-handedness. This is only about one-fifth of left-handers. The remaining four-fifths of left-handers use the right hand for at least one type of task.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202609/how-rare-is-it-to-be-100-left-handed" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202609/how-rare-is-it-to-be-100-left-handed</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202609/how-rare-is-it-to-be-100-left-handed</guid>
+            <dc:creator><![CDATA[Sebastian Ocklenburg, Ph.D.]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-pnw-prod-8276195.jpg?itok=rOQUp4rv" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reclaiming Your Power After Trauma]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/mitchell_liester.png.jpg?itok=xWGEP9AH" alt="Mitchell B. Liester M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Reclaiming Your Power After Trauma</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Escaping victim mentality after trauma.</h2><p style="font-size:0.9em;color:#666;">Posted September 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Real victimization is valid, but victim mentality is a lens that colors our future conflicts.</li><li style="margin-bottom:6px;">The Drama Triangle shows how staying in the "victim" role blinds us to our own contribution in conflicts.</li><li style="margin-bottom:6px;">Learned helplessness explains why we stop trying to change situations that we actually could change.</li>
+            </ul>
+          </div>
+                    <p>Almost everyone has been mistreated at some point—by a partner, a parent, or perhaps a stranger. Real victimization deserves to be named, and healing often begins with validating that harm. But some people who have been hurt settle into a more persistent pattern: a <a href="https://doi.org/10.1016/j.paid.2020.110134">tendency toward victimhood</a>, in which they repeatedly see themselves as the victim of another person’s actions, regardless of the situation in front of them.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/trauma_-_mart_production_-_pexels.jpg?itok=ig-M3tCU" width="320" height="213" data-insert-type="image" alt="Victimization can lead to victim mentality." title="Mart Production/Pexels"></div>
+<div class="caption">Victimization can lead to victim mentality.</div>
+<div class="insertArea--origin subtext">Source: Mart Production/Pexels</div>
+</div>
+</div>
+</div>
+<p>This is a delicate topic, and I want to be clear about what I am not saying. People who were abused, assaulted, or exploited are not responsible for what was done to them. That is blaming the victim, and it is both cruel and inaccurate. What I am describing is something different that can happen after trauma. Sometimes, after we have been victimized, we begin to interpret subsequent experiences through that same lens. We repeatedly focus on what was done to us, rather than looking at our role in the situation. This can lead to feelings of not just victimization, but also helplessness or powerlessness. </p>
+
+<h2>What Victim Mentality Looks Like</h2>
+<p>Researchers who study this pattern describe a <a href="https://www.jstor.org/stable/27403181?casa_token=EADCEI9pkdcAAAAA%3ADT9Ye1w04IP2nhy_dN4oXWAj16LWjgN6a-nIb0S2x_3dQ3WobK_EFnHx1SGfF-lr4q4vCwIFomOSjw5ymWVGCNHEpE5zMS-3hag03sLbdsc-aRcyUho&amp;seq=1">fairly consistent picture</a> that includes a chronic need for recognition of one's suffering, reduced empathy for others' pain, and frequent rumination over past offenses. People who exhibit this trait may interpret situations more negatively and are less willing to forgive. </p>
+
+<p>Psychiatrist Stephen Karpman's <a href="https://journals.sagepub.com/doi/10.1177/0886260520957696">Drama Triangle</a> model describes how this plays out interpersonally. Once we settle into the victim corner of the triangle, we tend to view others as either persecutors or rescuers, which keeps our focus on what other people are doing and away from our own role in this pattern. </p>
+
+<p>One useful way to think about this involves the concept of <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/">learned helplessness</a>, a phenomenon first documented in studies of laboratory animals exposed to inescapable, unpleasant events, and later extended to people. After repeated experiences of feeling unable to escape or change a bad situation, we may give up trying, even when we have the power to do so. We generalize from a past situation, in which action was futile, to a present one, in which it may not be.</p>
+
+<h2>The Piece That Gets Missed</h2>
+<p>In my clinical work, the hardest part of this pattern for patients to hear, one I have to introduce carefully, is that they may be contributing to the conflicts that they are experiencing. This is not about the original trauma. It is about what happens afterward, in present-day situations. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>A person who was betrayed by a romantic partner years ago may interpret an ordinary disagreement with their current partner as an attack, respond defensively, and then read their partner’s reaction as further proof that people can’t be trusted. The original betrayal was real. But the current conflict is co-created, and the victim-mentality lens hides that.</p>
+
+
+<p>This distinction matters enormously. Acknowledging our role in an interaction is not the same as accepting blame for having been victimized in the past. We can hold two truths: "What happened to me was not my fault," and "The way I just responded to my spouse was my responsibility, and I could have handled it differently." The victim mentality causes both situations to feel as if they are the same. Any suggestion of personal responsibility can feel like an accusation.</p>
+
+<h2>Why Responsibility Is Empowering, Not Self-Blame</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/locus_of_control_-_mart_productions_-_pexels.jpg?itok=e1VyvED6" width="320" height="480" data-insert-type="image" alt="Internal versus external locus of control." title="Mart Production/Pexels"></div>
+<div class="caption">Internal versus external locus of control.</div>
+<div class="insertArea--origin subtext">Source: Mart Production/Pexels</div>
+</div>
+</div>
+</div>
+<p>This is where the psychological research on <a href="https://doi.org/10.1037/h0092976">locus of control</a> becomes important. People with a strong internal locus of control believe their own actions and decisions shape their outcomes. People with an external locus of control attribute outcomes to luck, fate, or the power of others. Research has found that individuals with an internal locus of control exhibit greater resilience and stronger psychological well-being, whereas those with an external locus demonstrate greater passivity and a belief that effort is pointless.</p>
+
+
+
+  
+
+
+<p>Seeing our own contribution in a conflict is helpful because it is the only thing we can actually change. If an interaction is entirely someone else's doing, there is nothing we can do but wait or withdraw. If we can identify, even in a small way, how our behavior contributed to the exchange, then we empower ourselves to interact differently next time. This empowerment comes from taking responsibility for our actions rather than focusing on the actions of others. Now we can do something to change the situation, and we no longer feel like a victim. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Finding a Way Out</h2>
+<p>A few practices can help us move from a victim stance toward a more empowered one:</p>
+<ul>
+<li>Separate past events from the present pattern. Acknowledge that the original harm was real and not deserved, while examining our current interactions on their own terms.</li>
+<li>Ask ourselves a question. Instead of "Why does this always happen to me?" try "What is my role in this exchange?" Even a small, honest answer helps us reclaim our power.</li>
+<li>Notice the benefits. Victim mentality can offer real, but costly, benefits. We may receive sympathy and have an excuse to avoid risk. But we may also be stuck in a pattern of abuse while feeling powerless to change it. </li>
+<li>Practice one small internal-locus experiment. Choose one recurring problem and change one variable within your control. This could be how you open a conversation, when you disengage, or what you ask for. Then observe the result.</li>
+<li>Work with a therapist if the pattern is entrenched. Long-standing victim mentality is often rooted in early trauma, and a trusting therapeutic relationship can help us learn to accept responsibility for our actions in a safe setting first.</li>
+</ul>
+
+<p>None of this suggests we should minimize genuine harm. Instead, it offers a way out of being stuck in a pattern that causes us to feel victimized over and over again. It helps us reclaim our power by focusing on those things that we can actually change. That is not blaming the victim. It is refusing to let an injury become the lens through which we experience future interactions, and it’s an effective path back to becoming the author of our own life, rather than a character in someone else's story. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-leading-edge/202609/reclaiming-your-power-after-trauma" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-leading-edge/202609/reclaiming-your-power-after-trauma</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-leading-edge/202609/reclaiming-your-power-after-trauma</guid>
+            <dc:creator><![CDATA[Mitchell B. Liester M.D.]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/victimization_-_yan_krukau_-_pexels.jpg?itok=j72qi9Fk" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Be With Someone Blind to Their Own Behavior]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/nancy_colier.jpg?itok=GzEcSVcq" alt="Nancy Colier LCSW, Rev." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Denial</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Be With Someone Blind to Their Own Behavior</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Strategies for navigating someone who can't see how they impact others.</h2><p style="font-size:0.9em;color:#666;">Posted September 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Self-compassion is vital; don't blame yourself for another's lack of self-awareness.</li><li style="margin-bottom:6px;">Accept you can't "fix" or make someone see the impact of their own behavior.</li><li style="margin-bottom:6px;">Let others experience the consequences of their actions without smoothing things over.</li>
+            </ul>
+          </div>
+                    <p><em>This is Part 3 of "The Blind Spot: When People Are Unaware of How They Come Across." </em></p>
+<p>When someone is unaware or in denial about how they come across and how their behavior impacts others, trying to explain it to them doesn’t usually make them more aware or change their behavior. So what to do when your partner or someone else important behaves in ways that bring negative results in the world, which they then complain about or want empathy for? </p>
+
+<p>It's not easy to navigate someone unaware, who doesn't take responsibility for their own actions; it's a challenge to stay loving and non-judgmental. The first step, however, is not about them; it's about you. You need to acknowledge your own experience, to bring self-compassion to the difficulty you experience in relationship with their blindness and denial. And to make space for how frustrating and maddening it is to watch someone who causes their own suffering, refuses to see it, and then wants compassion for what they created. It’s important to be on your own side and not blame yourself for "failing" to make them change. Self-compassion means not taking on what is their responsibility, theirs to change, and not indulging in the habit of self-blame.</p>
+
+<h2>Practicing Self-Compassion When Dealing With Unawarenes</h2>
+<p>Once you’ve allowed yourself to have an experience, the next step is acceptance—that is, to shift out of the “fixing” and changing-them mode. To stop correcting the other person’s behavior, and give up on trying to make them understand that what they're doing is causing the response they're getting. While you may never entirely stop pointing out their behavior to them, you can do it less frequently and with less urgency. And, without any belief or trust that it will move the dial.</p>
+
+<p>It's important to remind yourself again and again that telling them how they behave doesn’t change them. They can't hear it, and it will just leave you frustrated. You didn’t cause their blindness; you can't control it, and you certainly can’t cure it. Attempts to get them to see their own accountability just put them on the defensive and make them angry—at you, which is never helpful. They have a story on themselves, a narrative about who they are and how they behave. Chances are, they’re not going to consider that anything else might be true, or that they could be perceived as any other version of themselves other than the one they've constructed.</p>
+
+<h2>Acceptance and Letting Go of the Fixer Role</h2>
+<p>At the same time, acceptance includes no longer making the situation OK with other people when it's not OK, and not smoothing things over to hide the reality from them, so they don't have to feel hurt, or shame, or look at their own choices. It’s <em>not </em>doing the dirty work to clean up their mess, and pretending that they haven't caused it. In fact, it's leaving the mess they created in a messy state, letting their impact on other people sit in full view, unfixed and unsmoothed. The new approach is to let them experience their effect on others without you making it disappear. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Know, too, that when you surrender control and accept that this is who this person is—for now and maybe forever—ultimately, you will need to decide if this is a relationship you want in your life. When you give up the fight against reality, as it is, you are left with different questions. Not how am I going to change this, but do I still want to be here if this is what it is? </p>
+
+<p>When the other person complains about the responses they get in the world and how misunderstood they “always” are, or when they want you to validate their pain and the unfairness of how they’re treated, you can keep your responses to a bare minimum. For example, you can validate that the person they were interacting with did indeed appear upset, and even subtly link that to what came before it. “I noticed that she seemed bothered after you told her what was wrong with her manuscript.” “Yes, it’s hard when how you’re perceived is not how you think you’re being.” “It’s never easy when people are upset with you.” In these responses, you’re validating the situation without joining them in the “story” and meaning they’ve assigned to it. </p>
+
+
+<h2>Setting Boundaries: Protecting Yourself From Emotional Frustration </h2>
+<p>You can always remove yourself from the conversation when they want to go on about what’s been “done” to them; you can either leave the physical space or shift the conversation. Absenting yourself from their narrative is a powerful strategy in protecting yourself from the frustration and anger that their lack of awareness brings up in you. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>Finally, while it can feel counterintuitive when dealing with someone who wants empathy for a situation they’ve set up, sometimes the best option for your spiritual growth is to find the strength to offer them that empathy, even if you have to fake it to make it. While it might be obvious that their pain would stop if they stopped creating it, as I said before, pointing this out won’t help them, or you. It will leave their narrative about themselves intact and maybe even strengthen it, and their behavior won't change. At the same time, it will make them feel blamed for their pain, at which point their rabbit hole may become a hellhole. </p>
+
+
+
+  
+
+
+<p>Whether or not someone is causing their own suffering or whether they can see it doesn't change the fact that they are still suffering. Informing the person that their suffer­ing is self-inflicted will typically cause them to cling to their pain story even tighter and cause them to suffer even more. </p>
+
+<h2>Empathizing With Their Experience Without Validating Their Story </h2>
+<p>Unnatural though it may be, the choice to try to understand their experience, without judging it and with as much kindness as you can muster, can go a long way. A simple “I hear how hard this is for you” repeated again and again can be a succinct but effective reply. You show that you see and care about their suffering, but you also give them back responsibility for that suffering, and for sorting it out or doing what they need to do to stop suffering. Sometimes just trying to understand their experience is the best option. When you try to understand someone’s experi­ence, you’re not affirming or agreeing with the cause they’ve assigned to it. You’re not saying that their narrative on the situation is accurate or valid. By seeing their experience through their eyes, feeling it through their heart, you’re empathizing with their suffering—not their story. No matter how fictional their story might be, their suffering is real. </p>
+
+<p>This is so important it bears repeating: your task is not to correct the accuracy of their story, and not to be right about its cause. Even when you can clearly see that they’re re-creating their pain, <em>they </em>cannot see it, and cannot stop it. Their blindness is just another part of their pain and confusion.</p>
+
+<p>None of this is easy; it takes practice, moment by moment, day after day. You will fall down and get up many times along the path. But each day you will get a little stronger, a bit wiser, and clearer. Keep practicing. The unaware person may never change, but if you want to and are committed and patient, <em>you</em> will be the one to change. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202609/how-to-be-with-someone-blind-to-their-own-behavior" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202609/how-to-be-with-someone-blind-to-their-own-behavior</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/inviting-a-monkey-to-tea/202609/how-to-be-with-someone-blind-to-their-own-behavior</guid>
+            <dc:creator><![CDATA[Nancy Colier LCSW, Rev.]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/screenshot_2026-09-05_at_11.04.57_pm.png.jpg?itok=tR9Aydjo" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Persistent Wishful Thinking Dominates Care for Suicidality]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/Jobes.jpg?itok=WcdJJkiQ" alt="David A. Jobes Ph.D., ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Suicide</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Persistent Wishful Thinking Dominates Care for Suicidality</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">An exploration of the reluctance among clinicians to use proven suicide care.</h2><p style="font-size:0.9em;color:#666;">Posted September 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">There is a reluctance within contemporary care to using evidence-based suicide care.</li><li style="margin-bottom:6px;">There is an over-reliance on a medication-only approach to treating suicidal risk.</li><li style="margin-bottom:6px;">Too many systems of care and providers rely on a carceral/controlling approach to suicidality.</li><li style="margin-bottom:6px;">Evidence-based, least-restrictive, cost-effective, suicide-care that patients actually prefer must be used.</li>
+            </ul>
+          </div>
+                    <p>For decades I have written about proven, evidence-based clinical care for suicidal risk (Jobes, 1995; 2020; 2023; Jobes &amp; Barnett, 2025). My posts on this page often directly or indirectly focus on evidence-based, suicide-focused, clinical care that tends to fly in the face of conventional wisdom. I clearly have strong perspectives based on research on how people who struggle with serious thoughts of suicide should be identified, assessed, stabilized, and ultimately treated in terms of addressing what makes them consider suicide. </p>
+
+<p>While readily acknowledging that there are always exceptions, the gist of my standard argument and critique of contemporary care is as follows: </p>
+<ol>
+<li>Current clinical mindsets towards suicidal risk are rooted in <em>medieval</em> thinking about the suicidal “lunatic” who requires a carceral and controlling approach to their struggle—even admitting them to an institution against their will if necessary.</li>
+<li>Contemporary mental health care related to suicide is often overly wedded to a medical model approach to assessment and treatment of suicidality that has remarkably limited empirical support. </li>
+<li>Inpatient psychiatric hospitalization is relied on far too often with people who could otherwise be safely and effectively treated on an outpatient basis with proven suicide care.</li>
+<li>There is a common view that the best treatment of suicidality requires treating major psychiatric disorders with a presumption that such care will impact suicidal ideation and behaviors as symptoms, even though the evidence is lacking.</li>
+<li>There is therefore an over-reliance on a medication-only approach to treating suicide risk which has either limited, mixed, or no empirical support.</li>
+</ol>
+
+<p>Ironically, what rigorous clinical trial research over 30-plus years has shown to be effective is markedly different than what is routinely provided (Jobes &amp; Barnett, 2025). Again with exceptions, the best approach to suicide-care, based on evidence, emphasizes the importance of seeking patient <em>autonomy </em>and <em>agency</em> (if possible) within <em>outpatient</em> suicide-focused care. </p>
+
+<p>If inpatient care is still necessary, there is a need for a much more suicide-focused approach that would include screening, safety-plan-type interventions, lethal means safety discussions, routine sharing of resources (e.g., 988, the National Text Line, and online resources), and caring contact follow-up. However, survey research by the PEW Foundation has shown that these “low-hanging fruit” of evidence-based suicide-care interventions are <em>not</em> routinely provided in U.S. hospitals accredited by The Joint Commission (Chitavi et al., 2024). </p>
+
+<p>In sharp contrast to status-quo care, the evidence base for effectively treating suicidal risk overwhelmingly supports psychological treatments that specifically target the <em>causes</em> of suicidal ideation and behaviors. While medications can sometimes be helpful, they do not treat what <em>causes</em> suicidality in the first place (Jobes &amp; Barnett, 2026). </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>In the course of a calendar year, I routinely make the preceding critique and always provide the evidence-based remedies for effective suicide-care in live keynote presentations, national and international invited lectures, psychiatry grand rounds, online webinars, journal articles, book chapters, and editorials. In fairness, it would not be accurate to say that there has been no progress in clinical suicidology over my 44-plus years in the field of suicide prevention. For example, mental health policy experts once told me that the 3-digit “988 Suicide &amp; Crisis Lifeline” had a 2% chance of passing and being signed into law! The third<a href="https://hhs.gov/sites/default/files/national-strategy-suicide-prevention.pdf"> National Strategy for Suicide Prevention</a> is excellent and has a focus on enhancing suicide care. Moreover, since the 1990s there has been an explosion of randomized controlled trials (RCTs) of suicide-care treatments supported by replicated RCTs and independent RCT validation that include Dialectical Behavior Therapy (DBT), two forms of suicide-focused CBT—Cognitive Therapy for Suicide Prevention (CT-SP) and Brief Cognitive Behavior Therapy (BCBT)—and the Collaborative Assessment and Management of Suicidality (CAMS), which was developed in my lab. </p>
+
+<p>Despite all these remarkable developments, there is an underwhelming level of interest and uptake within the larger field of mental health. To be blunt, too many systems of care, and too many clinical providers, suffer from <em>persistent wishful thinking</em> that carceral care and psychotropic medications are more effective than they actually are for suicidal risk. </p>
+
+
+<p>In truth, there is convincing and replicated evidence that these approaches can be problematic and may actually <em>increase </em>suicide risk (Jobes &amp; Barnett, 2025; 2026).</p>
+<p>As I write this post at the start of suicide prevention month, I have a full calendar of presentations, keynotes, and lectures scheduled. I recently spoke as part of a national webinar and then led off an international summit where I once again rolled out the exact points I am making here. To my dismay, the Q-and-A portions of these presentations were dominated by audience members insisting that hospitalization and medications are the best approaches to suicidality, despite the evidence to the contrary I had just presented. To be honest, it was discouraging. But I remain undeterred. </p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>There is simply no question: To better decrease suicidal suffering and clinically help to save lives from suicide, we must overcome persistent wishful thinking about practices that do not actually work and can be remarkably expensive as well. To carry the day within contemporary clinical suicidology, we simply must embrace care that is <em>evidence-based</em>, <em>least-restrictive</em>, <em>cost-effective—</em>and that patients who suffer actually prefer to usual care. </p>
+
+
+
+  
+
+
+<p>Given the extensive empirical evidence, providing proven effective suicide care has become both an ethical and professional imperative. Moreover, for those who suffer in this way, and for those who love them, it is simply the right thing to do. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-life/202609/persistent-wishful-thinking-dominates-care-for-suicidality" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-psychology-of-life/202609/persistent-wishful-thinking-dominates-care-for-suicidality</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-psychology-of-life/202609/persistent-wishful-thinking-dominates-care-for-suicidality</guid>
+            <dc:creator><![CDATA[David A. Jobes Ph.D., ABPP]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2447404505.jpg?itok=bN4sA4CW" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do We Accept This Intelligence Imbalance Without a Fight?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/IMG_1313-removebg-preview.jpg?itok=ObbAdNW8" alt="Cornelia C. Walther Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do We Accept This Intelligence Imbalance Without a Fight?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What AI acceleration means for natural intelligence.</h2><p style="font-size:0.9em;color:#666;">Posted September 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">AI use can erode human skills and shift agency from creation to passive oversight.</li><li style="margin-bottom:6px;">Over-reliance on AI models is driving linguistic and cultural standardization.</li><li style="margin-bottom:6px;">AI’s resource demands can worsen environmental strain and offset system efficiency gains.</li>
+            </ul>
+          </div>
+                    <p>In July 2026, an internal OpenAI cybersecurity evaluation produced an outcome that needs attention beyond the technology sector. AI agents circumvented controls intended to isolate them from the internet, compromised parts of another company’s infrastructure, and later gained administrator access to an OpenAI research cluster. OpenAI says customer data and products were unaffected. An <a href="https://evals.alignment.org/blog/2026-08-26-openai-hugging-face-incident-investigation/?utm_source=chatgpt.com">independent investigation by METR and Redwood Research</a> nevertheless confirmed coordinated, multi-day behavior that went beyond the intended evaluation environment.</p>
+
+<p>At the same time as the related alarms of “rogue AI,” another question is becoming more urgent to answer: Is our natural intelligence weakening while artificial intelligence becomes stronger?</p>
+<p>Natural intelligence, or NI, refers to the human capacities to aspire, feel, remember, question, imagine, reason, relate, judge, and decide. There is no credible evidence that human intelligence as a whole is collapsing, yet. There is evidence, however, that some forms of AI-assisted cognitive offloading can reduce the effort through which knowledge and judgment develop. Individually and as a species, we are part of a gigantic unfolding social experiment.</p>
+
+<h2>AI accelerates, practice recedes</h2>
+<p>Stanford’s <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report?utm_source=chatgpt.com">2026 AI Index</a> describes a technology that continues to accelerate. The industry produced more than 90% of notable frontier models in 2025. Performance on the SWE-bench Verified coding benchmark rose from around 60% to almost 100% in a year. U.S. private AI investment reached $285.9 billion, while global AI compute capacity has grown roughly 3.3-fold annually since 2022.</p>
+
+<p>At the same time, investment in human capability remains harder to quantify. The emerging reports should nevertheless make us cautious about assuming that better tools automatically create more capable people. The OECD’s <a href="https://www.oecd.org/en/publications/oecd-digital-education-outlook-2026_062a7394-en.html?utm_source=chatgpt.com">Digital Education Outlook 2026</a> finds that generative AI can improve students’ immediate task performance without producing equivalent learning gains. In some studies, advantages diminished or reversed when the technology was removed. A 2025 peer-reviewed <a href="https://doi.org/10.1145/3706598.3713778?utm_source=chatgpt.com">study by Microsoft Research and Carnegie Mellon University</a> found that greater confidence in generative AI was associated with less reported critical-thinking effort.</p>
+
+<p>Capacities develop through use. When technology repeatedly performs the remembering, drafting, interpreting, or reasoning, the human contribution can shift from producing thought to checking output. Simply put, the brain is like a muscle—use it or lose it. The relevant threshold to ponder now is more granular than “AI use” versus “no AI.” It is the point at which assistance becomes substitution, and substitution becomes dependence, or when the point of no return is passed on the <a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202506/the-risk-of-agency-decay-amid-ai-use">Scale of Agency decay.</a></p>
+
+<h2>Culture can be offloaded, too</h2>
+<p>The effects may extend beyond individual cognition.</p>
+<p>A 2026 study in <a href="https://www.nature.com/articles/s41562-026-02549-7?utm_source=chatgpt.com">Nature Human Behavior</a> analyzed more than 880,000 texts across seven datasets. As large language models were used to polish and rewrite text, linguistic variation decreased. Writing-complexity variance fell by 21% to 50% across datasets and models, while dominant linguistic patterns became more pronounced. In short, widespread reliance on a relatively small number of models results in standardized human expression.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>This is twice worrisome because language carries far more than information. It carries identity, history, social context, and ways of seeing. If increasingly large portions of human communication pass through similar algorithmic filters, cultural convergence becomes a legitimate concern. Are we (in)directly contributing to the colonization of our minds and cultures?</p>
+
+<h2>The physical bill is growing, as well</h2>
+<p>This cognitive and cultural transformation happens inside an older environmental problem.</p>
+<p>According to UNEP’s <a href="https://www.unep.org/resources/Global-Resource-Outlook-2024?utm_source=chatgpt.com">Global Resources Outlook</a>, extraction of the Earth’s natural resources has tripled over the past five decades. Without major changes, extraction could rise another 60% between 2020 and 2060.</p>
+
+<p>AI adds a fast-growing material layer to that trajectory. The <a href="https://www.iea.org/reports/energy-and-ai/executive-summary?utm_source=chatgpt.com">International Energy Agency</a> projects global data-center electricity consumption to more than double to around 945 terawatt-hours by 2030, slightly above Japan’s current annual electricity use. AI is the largest driver of the increase. Electricity used by accelerated servers, mainly associated with AI, is projected to grow around 30% a year. </p>
+
+
+
+  
+
+
+<p>While AI may improve system efficiency, the net environmental balance remains unsettled. Efficiency gains matter only alongside the additional demand created by expanding compute, data centers, semiconductor production, cooling, water consumption and hardware replacement.</p>
+<p>Digital intelligence has a physical metabolism, and so far the bottom line is not serving the planet.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Follow the incentives</h2>
+<p>Why, then, is acceleration so difficult to moderate? The incentives align.</p>
+<p>For companies, more capable models can mean market share, revenue, data, infrastructure demand and strategic position. <a href="https://unctad.org/publication/technology-and-innovation-report-2025?utm_source=chatgpt.com">UNCTAD reports</a> that only 100 companies account for more than 40% of global business R&amp;D investment, with frontier AI development heavily concentrated in the United States and China. Stanford reports that more than 90% of notable frontier models now come from industry, while disclosure about some of the most advanced systems has declined.</p>
+
+<p>Governments face their own logic. AI has become an issue of industrial policy, military capacity, productivity, and technological sovereignty. Slowing down can look like surrendering geopolitical advantage.</p>
+<p>Citizens complete the circuit. AI saves time, lowers barriers and offers useful assistance at negligible apparent marginal cost. Adoption therefore advances through millions of individually rational choices—one search, summary, draft, recommendation, and prompt at a time.</p>
+
+<p>No central plan is required. Convenience, capital, competition, and geopolitics push in broadly the same direction.</p>
+<h2>Our neglected infrastructure</h2>
+<p>This leaves us amid a striking asymmetry. We are constructing immense infrastructure to strengthen artificial intelligence while paying little attention to the capabilities humans need to remain competent users of it. But the game is not lost, yet.</p>
+
+<p>The most practical response today begins with the choice of agency. That requires <a href="https://link.springer.com/book/10.1007/978-3-031-67823-3"><strong>double literacy</strong></a>.</p>
+<p><strong>Human literacy</strong> is the ability to understand and exercise our natural capacities: attention, emotion, aspiration, reasoning, judgement, relationships, embodied experience, and an understanding of interplays between humans and nature. </p>
+
+<p><strong>Algorithmic literacy</strong> means understanding what AI can do, how it shapes choices, where its limitations and incentives lie, what happens to our data, and which decisions should remain ours.</p>
+<p>We belong to the last generation; a generation that remembers adulthood, education, or work before artificial assets became an ambient cognitive layer. That gives us a unique opportunity and obligation to shape the bridge between an analogue past, and a hybrid future, between two radically different conditions of human development.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
+</div>
+
+  </div>
+
+<p>The world today seems overwhelming, yet one simple pragmatic step to start is personal and immediate: Invest in your agency. Build your double literacy. Use artificial intelligence deliberately—while continuing to exercise the natural intelligence that gives its use meaning.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/do-we-accept-this-intelligence-imbalance-without-a-fight" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/do-we-accept-this-intelligence-imbalance-without-a-fight</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/do-we-accept-this-intelligence-imbalance-without-a-fight</guid>
+            <dc:creator><![CDATA[Cornelia C. Walther Ph.D.]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/2026-09_intelligence_imbalance.png.jpg?itok=nNrTiYSR" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eating Disorders and Obesity: Time to Talk]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/headshot_dalle_grave-removebg-preview.jpg?itok=PX6DG-6S" alt="Riccardo Dalle Grave M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Eating Disorders</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Eating Disorders and Obesity: Time to Talk</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Some of the most important clinical questions around eating disorders require collaboration.</h2><p style="font-size:0.9em;color:#666;">Posted September 6, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Eating disorders and obesity have traditionally developed as separate clinical and research fields.</li><li style="margin-bottom:6px;">Similar mechanisms, risks, and clinical presentations often affect the same person.</li><li style="margin-bottom:6px;">Better assessment should integrate eating behaviour, psychopathology, and physical and metabolic health.</li><li style="margin-bottom:6px;">Collaboration can improve care while preserving the expertise of each field.</li>
+            </ul>
+          </div>
+                    <p>For decades, eating disorders and obesity have been studied and treated as separate issues. Eating disorder specialists have predominantly focused on psychopathology, body image, dietary restriction, binge eating, and extreme weight-control behaviors. Conversely, obesity specialists have concentrated on metabolic health, energy balance, medical complications, nutrition, physical activity, and weight management. This separation has produced important advances, but it may now also be creating limitations.</p>
+
+<p>In contemporary clinical practice, it is increasingly evident that patients do not fit neatly into a single category. Binge-eating disorder is frequently observed among individuals seeking treatment for obesity. Some people with obesity develop restrictive eating disorders, and eating issues may arise subsequent to bariatric surgery. Moreover, individuals with eating disorders may also experience significant obesity-related medical complications. The boundaries between the two fields are therefore less clear than they once appeared.</p>
+
+<h2>Shared mechanisms, different perspectives</h2>
+<p>Obesity and eating disorders remain distinct conditions, and it would be a mistake to treat them as if they were the same. However, they share several potentially important mechanisms.</p>
+<p>Body dissatisfaction can lead to attempts to change one’s weight and shape. Rigid dietary restraint may contribute to episodes of overeating or binge eating. Difficulties regulating emotions can affect eating behavior, while weight stigma can worsen psychological distress and influence both eating and physical activity. These mechanisms are often studied from different perspectives, but the person experiencing them is the same person. Greater collaboration could therefore help us develop models that consider psychological and physical health together rather than forcing complex clinical problems into separate diagnostic silos.</p>
+
+<h2>Assessment needs to look in both directions</h2>
+<p>One immediate benefit of closer collaboration would be better assessment. People seeking obesity treatment are not always systematically assessed for eating-disorder psychopathology. Yet identifying binge eating, extreme dietary restriction, compensatory behaviors, or over-evaluation of shape and weight (i.e., judging themselves predominantly in terms of shape and weight and their control) may substantially influence treatment planning.</p>
+
+<p>The reverse problem also occurs: Eating disorder clinicians may focus so strongly on psychopathology that obesity-related medical risks may receive insufficient attention. </p>
+<p>Neither approach is adequate, and a thorough assessment should examine eating behavior, psychological functioning, physical health, medical complications, and the individual's relationship with body weight and shape. A more useful clinical question is, "What processes are currently damaging this person's physical and psychosocial health, and how should they be addressed?"</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Weight stigma is a shared problem</h2>
+<p>Perhaps the clearest area for collaboration is weight stigma. Weight stigma is associated with psychological distress, body dissatisfaction, disordered eating, social withdrawal, avoidance of healthcare, and poorer quality of life.</p>
+<p>When people internalize negative stereotypes about body weight, they may begin to judge themselves according to those same standards. This can undermine both psychological well-being and attempts to make sustainable health-related changes. There is an important clinical implication: Shame should never be considered a treatment strategy. Reducing weight stigma should therefore not belong exclusively to either the eating disorder or obesity field; it is a shared responsibility.</p>
+
+<h2>GLP-1 receptor agonist medications make dialogue even more urgent</h2>
+<p>The rapid introduction of medications such as semaglutide and tirzepatide has made these questions particularly timely. These medications can produce substantial weight loss and improve cardiometabolic health. Emerging research also suggests that they may reduce hunger, food cravings, loss-of-control eating, and binge-eating episodes in some people.</p>
+
+
+<p>But reducing a behavior is not necessarily the same as changing the psychological processes that maintain an eating disorder. A person may experience fewer binge-eating episodes while still judging their self-worth largely by shape and weight. Rapid weight loss and positive comments from others may, in vulnerable individuals, further increase the importance attached to weight or generate an intense fear of weight regain. Appetite suppression could also make emerging restrictive eating more difficult to recognize.</p>
+
+<p>These possibilities should not be used to oppose effective obesity medications. Rather, they illustrate why obesity specialists and eating disorder clinicians need each other's expertise.</p>
+<h2>Collaboration does not mean merging the two fields</h2>
+<p>There are understandable concerns about closer collaboration. Eating disorder specialists may worry that an excessive focus on weight loss could worsen eating-disorder psychopathology, while obesity specialists may be concerned that avoiding discussion of weight could result in important medical risks being overlooked. Both concerns deserve attention.</p>
+
+
+
+  
+
+
+<p>Anorexia nervosa, bulimia nervosa, binge-eating disorder, and clinical obesity do not require identical treatments, and specialist expertise remains essential. The aim should be constructive dialogue. Eating disorder clinicians have developed considerable expertise in dietary restraint, binge eating, body image, and the excessive importance attached to weight and shape. Obesity specialists bring extensive knowledge of metabolic health, nutritional management, physical activity, long-term behavior change, and pharmacotherapy. Patients may benefit when these perspectives are complementary rather than competing.</p>
+<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
+  
+    
+      <div class="pt-ad--container pt-ad-show-text">
+      <div class="pt-ad--text">
+      <span>article continues after advertisement</span>
+    </div>
+    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
+    <script type="text/javascript">
+      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
+        window.ptAdSlots = [];
+      }
+      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
+    </script>
+  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
+</div>
+
+  </div>
+
+<h2>Moving beyond the divide</h2>
+<p>Weight stigma, binge eating, restrictive dieting, body dissatisfaction, obesity medications, and the coexistence of eating-disorder psychopathology with obesity cannot always be adequately addressed from within one discipline. We need specialists who retain their expertise while being willing to listen to one another. For many patients, the distinction between an "eating disorder problem" and an "obesity problem" is far less important than it is to professionals. What matters is receiving treatment that addresses the whole clinical picture, without stigma or ideological barriers, but with equal attention to psychological and physical health.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/eating-disorders-the-facts/202608/eating-disorders-and-obesity-time-to-talk" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/eating-disorders-the-facts/202608/eating-disorders-and-obesity-time-to-talk</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/eating-disorders-the-facts/202608/eating-disorders-and-obesity-time-to-talk</guid>
+            <dc:creator><![CDATA[Riccardo Dalle Grave M.D.]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2619294729.jpg?itok=7XI1zsll" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
