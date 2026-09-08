@@ -4,986 +4,407 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 18:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 21:37:38 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 18:24:44 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 21:37:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What My Aging Parents Taught Me About an Ordinary Morning]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/Sothy_Eng-removebg-preview.jpg?itok=GbTPG32k" alt="Sothy Eng Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gratitude</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What My Aging Parents Taught Me About an Ordinary Morning</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Gratitude grows when we recognize the abilities available to us today.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Are We Beginning to Sound Like the Chatbots We Talk To?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-04/Kreuz_headshot-removebg-preview.png.jpg?itok=5Y0T9uaw" alt="Roger Kreuz Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are We Beginning to Sound Like the Chatbots We Talk To?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The language used by chatbots and by humans may be converging.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A parent’s aging can make our own distant future vivid and personal.</li><li style="margin-bottom:6px;">Ordinary abilities become visible when we remember they are temporary.</li><li style="margin-bottom:6px;">A calm, crisis-free morning can be a complete form of happiness.</li><li style="margin-bottom:6px;">Mortality awareness can loosen the bond between self-worth and productivity.</li>
+              <li style="margin-bottom:6px;">AI “tells” include em dashes, Oxford commas, negative parallelisms, and trending vocabulary.</li><li style="margin-bottom:6px;">Brief chatbot interactions can cause users to mimic AI language in later conversations.</li><li style="margin-bottom:6px;">Bidirectional influence means human and AI language may over time become virtually indistinguishable.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/bethlehem_sky_118.jpg?itok=ZPBb-Goo" width="320" height="213" data-insert-type="image" title="Sothy Eng" alt="Sothy Eng"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Sothy Eng</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/open_ai___chatgpt.png.jpg?itok=xaKdk05o" width="320" height="320" data-insert-type="image" alt="Changes in chatbot and human language may be bidirectional" title="OpenAI / ChatGPT"></div>
+<div class="caption">Changes in chatbot and human language may be bidirectional</div>
+<div class="insertArea--origin subtext">Source: OpenAI / ChatGPT</div>
 </div>
 </div>
 </div>
-<p>Each morning, I look forward to grinding coffee, brewing it in a moka pot, and making breakfast while it brews. After breakfast, I sip the coffee slowly. This is a small moment of contentment, a chance to keep my mind with the taste, warmth, and calm before the workday begins.</p>
-<p>Watching my parents grow older changed what I see in that ordinary morning.</p>
+<p>A study released last month by the <a href="https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/">Pew Research Center</a> was designed to answer an intriguing question: How much of the internet’s content is being generated by artificial intelligence?</p>
+<p>The Pew researchers randomly selected 10,000 web pages to study. All of these had been written in English and published online during the past five years. The content of these pages was analyzed with Open Pangram, a widely used AI detection tool.</p>
 
-<p>Aging had always seemed like a distant fact of life. Watching my own parents grow older made it immediate and personal. In “A Letter for Mom: Making Time Count With Aging Loved Ones,” I have written here about <a href="https://www.psychologytoday.com/us/blog/relationship-building/202505/a-letter-for-mom-making-time-count-with-aging-loved-ones">staying present with an aging parent</a> through letters and storytelling. That experience continues to teach me something else: My parents’ aging offers a picture of my possible future.</p>
+<p>The results are sobering. Fully 10 percent of the webpages showed “significant signs of AI authorship.” And when the researchers filtered out the older pages, created before the release of ChatGPT in late 2022, the pattern was even more pronounced: 35 percent of the more recent pages—more than one-third—showed signs of having been artificially generated.</p>
 
-<p>During visits home, I helped my mom with daily activities she could no longer manage alone. I lifted her from the hammock, steadied her, and took her to the bathroom for a shower. I listened as she described how her body felt. Her vision had worsened, her knees hurt, her back ached, and discomfort moved from one place to another. Aging was no longer an abstract condition. </p>
+<h2>Linguistic tells</h2>
+<p>What sorts of cues suggest that a given text was generated by AI?</p>
+<p>The Pew study’s authors point out that a great deal of the text used to train large language models (LLMs), like the one that underlies ChatGPT, consists of academic and journalistic writing. As a result, the output of AI-generated text is biased towards a more formal type of prose.</p>
 
-<p>Helping her made me realize how much independence hides inside an ordinary action.</p>
-<p>Consider how much is contained in one cup of coffee. I can stand. I can walk toward the kitchen. I can see the cup, remember the steps, coordinate my hands, grind the beans, smell the coffee, lift it to my mouth, taste it, and swallow. I can afford to buy it. The water and electricity are available. I can sit in a chair and feel the passing air.</p>
+<p>Specifically, the Pew researchers identified four characteristics that are common across AI-generated texts. These features can function like the “tells” of a novice poker player, who gives away the fact that they’ve been dealt a winning hand. For this analysis, the researchers examined 490,000 web pages to identify linguistic changes that have taken place since 2023.</p>
 
-<p>For these few minutes, the weather is calm, the car is working, and my family is carrying on without an urgent call for help. The news may report war, disaster, or crime, but this interval of safety remains real. An uneventful morning contains physical capacity, mental clarity, sufficient resources, and peace.</p>
+<p>The tells for AI-generated texts include em dashes—like these—and the use of Oxford commas, in which punctuation appears after the second-to-last item in a series (as with the comma after “writing” in “Children are taught reading, writing, and arithmetic in school”). In addition, AI-generated text contains a greater number of <em>negative parallelisms</em>. These are constructions like “It’s not a bug, it’s a feature.”</p>
 
-<p>I have started to think of this as <em>gratitude for capacity</em>. Many gratitude practices ask us to notice what we possess or what good event has occurred. Gratitude for capacity asks: What am I able to do and experience at this moment?</p>
-<p>We often reserve happiness for experiences large enough to interrupt ordinary life such as a vacation, promotion, celebration, or achievement. While waiting for them, we may overlook mornings that already contain enough.</p>
+<p>The final tell has to do with vocabulary. The researchers identified nearly 30 words and phrases that have “more than doubled in usage” since 2023. Examples include <em>crucial, enhance, garner, intricate, meticulous, significant, </em>and <em>tapestry.</em></p>
+<p>The findings seem clear enough, but how should they be interpreted? One might conclude that AI-generated language is rapidly taking over the online world. However, the Pew study is correlational, so cause and effect can’t be determined. In fact, the reverse may be true: It could be that the way people speak and write is being influenced by exposure to chatbots.</p>
 
-<p>Research suggests that our relationship with ordinary experiences changes as time feels more limited. Across <a href="https://doi.org/10.1086/674724">eight studies</a>, Amit Bhattacharjee and Cassie Mogilner found that younger adults tended to associate extraordinary experiences with greater happiness. As people grew older, ordinary experiences became increasingly meaningful and eventually produced as much happiness as extraordinary ones. Daily experiences also became more important to how people defined themselves. My parents’ aging may have allowed me to encounter part of that lesson earlier.</p>
+<h2>Drivers of linguistic change</h2>
+<p>Why might this be happening—after all, who wants to sound like a chatbot?</p>
+<p>Think, for a moment, about how slang or colloquial expressions propagate from speaker to speaker. A good example would be the phrase “six seven,” which spread virally on TikTok about a year ago and was embraced enthusiastically by Gen Alpha speakers.</p>
 
+<p>People may consciously adopt certain ways of speaking because they’re in vogue. But these changes can also take place outside of conscious awareness. This phenomenon, long studied by language researchers, is referred to as <em>lexical entrainment</em>. Simply put, we start sounding like others with whom we spend a lot of time, such as friends, classmates, or coworkers. And this may now include the time we spend interacting with chatbots.</p>
 
-<p>Much of adult life is organized around prediction and preparation. We plan as if the future will receive us with the same body, senses, memory, and energy we have today. Aging asks us to plan with humility. We may arrive with different abilities, and some plans may extend beyond the time available to us. Goals still matter, but they do not require us to postpone awareness of being alive.</p>
-
-<p>Mortality can clarify what is already here. In <a href="https://doi.org/10.1080/17439760.2011.558848">one experiment</a>, participants who reflected on their mortality reported greater gratitude than those who reflected on an ordinary day. In my life, mortality awareness works best as a bell that returns my attention to the present.</p>
-<p>Thich Nhat Hanh taught that when we are mindful, we are <a href="https://onbeing.org/programs/remembering-thich-nhat-hanh-brother-thay/">“fully alive” and “fully present.”</a> I understand this less as an escape from difficulty than as a willingness to inhabit the life available now. Presence does not erase my mother’s pain or caregiving fatigue. It lets pain, love, and a warm cup share the same moment.</p>
+<p>Researchers have documented that this <a href="https://arxiv.org/abs/2409.01754">seems to be happening</a>. Hiromu Yakura and his colleagues at the Max Planck Institute for Human Development analyzed over 730,000 hours of conversation, drawn from more than 820,000 podcast episodes. Since most of these interactions are unscripted, podcasts give researchers an excellent opportunity to see whether extemporaneous spoken language is undergoing any sort of linguistic shift.</p>
 
 
 
   
 
 
-<p>This reflection also puts productivity in its place. Every accomplishment depends upon a body and mind able to participate. Work can matter without becoming proof of our worth. A morning has value before it produces anything.</p>
-<p>Gratitude for present abilities belongs beside respect for people whose capacities differ from ours. Human dignity continues through illness, disability, and dependence. Joy and meaning can continue as well. A person remains a person while receiving help. At different stages, each of us gives help, receives help, or does both.</p>
+<p>The changes documented by Yakura's team are remarkably similar to those from the Pew study. They identified 20 words, preferentially used by ChatGPT, that have “increased abruptly in spontaneous human speech.” Their list includes a quarter of the terms that were identified by the Pew researchers: <em>boast, bolster, delve, intricate, meticulous, showcase</em>, and <em>underscore</em>.</p>
 
-<p>My practice now moves beyond coffee. In traffic, I look at what is around me, grateful that I can travel from one place to another and for the chance to notice what I usually miss. When I begin making excuses to skip the gym, I remind myself that I have the physical ability and the time to exercise today. When I feel tempted to leave the dishes in the sink for later, I remember that I can stand at the sink and use my hands to complete the task. Even using the bathroom can remind me that I can still care for myself in privacy and comfort, with running water available. Each of these ordinary moments contains abilities and resources that are easy to overlook.</p>
+<h2>Determining cause and effect</h2>
+<p>Yakura’s results are intriguing, but they are still correlational, so cause and effect can’t be disentangled. </p>
+<p>However, these researchers also conducted an experiment in which “a brief chatbot interaction led research participants to adopt its words as their own." This mimicking behavior persisted in a subsequent task, when the participants were asked to describe a series of images. Because the behavioral change was observed experimentally, the direction of the effect can be identified: The bots were influencing the speech used by humans.</p>
 
-<p>One day, I may need another hand to lift the cup, as my mother needed mine to rise from the hammock. Today, my hand can reach it. Throughout the day, I return to three short reminders: <em>I am here. I can recognize what is available. This ordinary moment counts.</em> For this cup, this breath, and this task, happiness is already here.</p>
+<p>A couple of caveats, however, should be kept in mind. One is that Yakura’s study has not yet been published, so the methodology and results have not been subjected to peer review.</p>
+<p>Another qualification is that this process of entrainment may have already peaked. Both studies found that lexical entrainment increased rapidly from 2023 to mid-2024 but has been holding steady or even declining somewhat since then.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/gratitude-facts-label_0.png.jpg?itok=mo7aLHI0" width="639" height="799" data-insert-type="image" alt="Gratitude Facts" title="OpenAI"></div>
-<div class="caption">Gratitude Facts</div>
-<div class="insertArea--origin subtext">Source: OpenAI</div>
-</div>
-</div>
-</div>
+<p>It may be that, as certain terms become “tainted” in the popular imagination—and the word <em>delve</em> may be the poster child here—people might consciously alter their word choices to avoid terms strongly associated with chatbot-speak.</p>
+<p>It should also be kept in mind that the LLMs are changing too. Companies like OpenAI and Anthropic release new and improved versions every few weeks. These newer iterations are trained on more recent texts that reflect the linguistic shifts already taking place in human speech. Due to this bidirectional effect, it may become virtually impossible, over time, to distinguish between human and AI-generated language.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/relationship-building/202609/what-my-aging-parents-taught-me-about-an-ordinary-morning" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/small-talk-and-big-questions/202609/are-we-beginning-to-sound-like-the-chatbots-we-talk-to" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/relationship-building/202609/what-my-aging-parents-taught-me-about-an-ordinary-morning</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/relationship-building/202609/what-my-aging-parents-taught-me-about-an-ordinary-morning</guid>
-            <dc:creator><![CDATA[Sothy Eng Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/small-talk-and-big-questions/202609/are-we-beginning-to-sound-like-the-chatbots-we-talk-to</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/small-talk-and-big-questions/202609/are-we-beginning-to-sound-like-the-chatbots-we-talk-to</guid>
+            <dc:creator><![CDATA[Roger Kreuz Ph.D.]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/bethlehem_sky_122.jpg?itok=ofpadBjQ" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/open_ai___chatgpt.png.jpg?itok=7x_8YPgS" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Why We’re Fascinated by the Lindsay Clancy Case]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Marlo.png.jpg?itok=U2tijk4o" alt="Marlo" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Health</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why We’re Fascinated by the Lindsay Clancy Case</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why this case grips us, and what it reveals about the maternal shadow.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Stuck in a Relationship Rut?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/cortney_s_warren.png.jpg?itok=Y98urJ2x" alt="Cortney S. Warren PhD, ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Stuck in a Relationship Rut?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Curiosity about your mate can help combat relationship habituation.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Public reactions to Clancy reveal our discomfort with mothers who shatter the ideal of maternal love.</li><li style="margin-bottom:6px;">Maternal ambivalence is common, yet we often idealize mothers as unconditionally loving.</li><li style="margin-bottom:6px;">The Clancy case gives collective voice to the maternal shadow we would rather keep unconscious.</li>
+              <li style="margin-bottom:6px;">Many couples experience phases in which they feel stuck in a rut or bored in their relationship.</li><li style="margin-bottom:6px;">Although common, relationship habituation can leave many feeling uninspired and disconnected.</li><li style="margin-bottom:6px;">Staying curious about how your mate is evolving and growing over time can help couples grow in parallel.</li>
             </ul>
           </div>
-                    <p dir="ltr">Regardless of the eventual outcome of the Lindsay Clancy case—a conviction or acquittal—as a Jungian psychoanalyst, I’m not surprised the case has become organized around a striking binary. Clancy is cast in two opposing roles: either the evil, monstrous mother—because a loving mother could never kill her children—or the victimized, mentally ill mother, once a loving mother like any other, who was overtaken by mental illness and failed by psychiatry and the mental health system. That the jurors struggled to reach a unanimous decision reflects our cultural splitting and society’s struggle with motherhood.</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/mixmike_from_getty_images_signature.png.jpg?itok=pFe-pk7_" width="320" height="180" data-insert-type="image" title="Mixmike/Getty Images Signature" alt="Mixmike/Getty Images Signature"></div>
+<div class="insertArea--origin subtext">Source: Mixmike/Getty Images Signature</div>
+</div>
+</div>
+</div>
+<p>When people find that special someone and commit to a long-term relationship, they often think their future is bright, that they know their mate. They choose them—and the rest of life will unfold into a happy, fulfilled, easy existence.</p>
+<p>Over time, romantic relationships can sometimes fall into boring, stagnant, or uninspired phases in which people feel like they are “going through the motions” of life without any newness. <em>Relationship habituation</em> generally describes when couples become stagnant, stuck in a rut that can feel boring and predictable. In essence, relationships can fall stale and fail to inspire growth because we fall into patterns that neglect growth and change.</p>
 
-<p dir="ltr">A quick summary: Lindsay Clancy admitted to strangling her three children, Cora (5), Dawson (3), and Callan (8 months), on January 24, 2023, before she threw herself out of her bedroom window in a suicide attempt that left her paralyzed from the waist down. Beginning in September 2022, she was seen by at least six clinicians, treated with 14 medications, and sought help at clinics, ERs, and psychiatric hospitals, yet her symptoms became worse. Her legal defense claims she suffered from bipolar disorder and postpartum psychosis that, ultimately, led her to believe she heard a voice telling her to kill the children. </p>
+<p>Of course, it’s easy to let this happen. As we age, our responsibilities in daily life accumulate, and people neglect to connect with their mate because of competing interests or obligations. For example, early in romantic relationships, the mate is often the first priority and garners great attention, time, and effort. Yet, over time, other competing interests like parenting kids, work responsibilities, and even self-care may come before the partner.</p>
 
-<p dir="ltr">The public response mirrors the psychological splitting that surrounds motherhood itself. Perhaps making Clancy either perpetrator or victim is a defense against confronting something disturbing and culturally unspeakable: the shadow side of motherhood and the reality of maternal ambivalence.</p>
-<p dir="ltr">A loving mother can feel deeply devoted to her children while also feeling consumed. She may struggle to separate from them yet desperately need the space. Love coexists with anger and resentment, and fantasies of escape provide some way out of the daily grind of motherhood for many mothers.</p>
+<h2>Getting Curious About Your Mate</h2>
+<p>As anyone who has been in a lasting romantic relationship knows, the journey of life is full of change. <em>We want to grow in parallel with our mate over time if our relationship is going to last. </em>This means that we need to learn about how they are changing—things like what they are learning, what new passions they develop, what preoccupies their mind—over the course of time. In essence, we need to stay curious about who they were, who they are now, and who they are becoming. </p>
 
-<p dir="ltr">Acknowledging this is emphatically not the same as suggesting that ordinary maternal ambivalence leads mothers to kill their children. It overwhelmingly does not. But refusing to acknowledge these challenging experiences is part of motherhood, which wears so many ordinary women down, and is part of the fervor of this case. Minimizing the influence of these factors on mothers perpetuates an idealized, inhuman image of motherhood, making the reality of ordinary maternal stress and aggression harder to acknowledge and integrate, one that is relegated to either the mentally ill or evil mother.</p>
+<p>Research suggests that interpersonal curiosity, or the desire to authentically understand a mate or another person, generally increases feelings of trust and psychological safety, encourages vulnerability and sharing, builds attachment/bonding, promotes empathy, and helps partners stay connected through difficult times (<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1379330/full">Jauniaux &amp; Lawford, 2024</a>). It can create a safe but interesting and engaging space for couples to continue to connect as they evolve and grow over time (<a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.78.2.273">Aron et al., 2020</a>).</p>
 
-<p dir="ltr">Nor am I minimizing or denying Clancy was experiencing mental illness. While I did not assess her, so I cannot know, symptoms of mental illness—severe psychiatric distress and deterioration—are well supported. However, concluding that her actions are fully explained by mental illness is more culturally digestible and certainly more legally defensible than acknowledging how ordinary maternal conflicts that most mothers experience are also an influential part of this story. A loving mother could only do this because of mental illness, and that narrative preserves the idea of the idealized mother.</p>
+<h2>Inspiring Curiosity Through Conversation</h2>
+<p>So, how can you spark a newfound curiosity in a long-term relationship? Engaging in open-ended, exploratory conversations with your mate is key. There are no “bad questions,” as long as they are asked authentically in a nonjudgmental way to understand your mate.</p>
 
-<h2>Maternal Identity, Separation, and the Mother Complex</h2>
-<p dir="ltr">The record documents Clancy’s concerns about being a good mother, intense anxiety about Callan and his sleep, shortchanging her other children, and difficulties separating from her children. Following Cora’s birth, records also report that she had return-to-work anxiety; after Dawson's birth, she exhibited similar difficulty and attended therapy, but did so only briefly; and, finally, she experienced severe anxiety about returning to work, which precipitated psychiatric treatment after Callan, and she ultimately never returned to work.<sup>1</sup> </p>
-
-<p dir="ltr">I raise this as an example of the value of exploring her individual circumstances, beyond her symptoms. From the available public evidence, it appears that the more difficult her separation from her children became, the more her identity seemed to revolve around motherhood, while other parts of her identity became less evident.</p>
-
-<p dir="ltr">This leads us to ask: What happens psychologically when a mother feels she cannot leave her children, and/or what happens for mothers who have no choice but to leave their children, yet they also cannot continue existing entirely for them, whether due to their mental health, psychological choice, life circumstances, or financial need?</p>
-
-<p dir="ltr">Again, I cannot know without treating Clancy, but we know that she was a labor and delivery nurse. This invites speculation that cannot be answered here but could be considered in depth-oriented treatment. For example, returning to work might mean separating from her own children to care for other mothers and babies. It might mean she is surrounded by, and responsible for the care of, vulnerable mothers and babies while she was feeling so destructive towards herself as a mother and towards her own children and baby. </p>
-
-
-
-  
-
-
-<h2>Women’s Fascination: Making the Shadow Speakable</h2>
-<p dir="ltr">When women who are engrossed in this case say, “I could have been Lindsay,” they may be consciously identifying with a vulnerability for experiencing postpartum illness, overwhelm, and a fear of impending collapse. </p>
-<p dir="ltr">However, another, less conscious identification may be, “I recognize and fear Lindsay’s aggression in myself.” I am not talking here about masses of women identifying with murderous aggression, but rather, this case may be capturing such intense fascination because it has become a conduit for acknowledging ordinary, maternal aggression, which is still so taboo. I have routinely heard such feelings in over 30 years of clinical practice:</p>
-
+<p>The easiest topics for many people to explore about everyday preferences and experiences give rise to questions like:</p>
 <ul>
-<li>
-<p dir="ltr">“Sometimes I hate being a mother.”</p>
-</li>
-<li>
-<p dir="ltr">“My child’s personality annoys me—it is not a good fit for me.”</p>
-</li>
-<li>
-<p dir="ltr">“I resent how much my child needs me.”</p>
-</li>
-<li>
-<p dir="ltr">“I wish I had never had this child.”</p>
-</li>
-<li>
-<p dir="ltr">“My child is hard to love.”</p>
-</li>
-</ul>
-<p dir="ltr">Research backs this up. A 2024 study found that nearly 54 percent of mothers participating in the study had unwanted, intrusive thoughts of intentionally harming their babies.<sup>2</sup> While they didn’t act on them as Lindsay Clancy did, they thought about it. Perhaps that’s why so many stories have emerged that express sympathy toward Clancy, expressing that other women may recognize themselves in her.</p>
-
-<p dir="ltr">Of course, destructive fantasies are not equivalent to destructive action. While Clancy enacted an extreme that is not equivalent to the level of maternal aggression that I am talking about, the fascination may be related to how desperately women need permission to acknowledge that being a mother does not extinguish feelings of not liking their child some days, of feeling intense love and hatred for being so responsible, and more.</p>
-
-<p dir="ltr">Clancy makes the unspeakable speakable and gives mothers vicarious permission to recognize the maternal shadow. The diagnosis performs a collective defense function and preserves the archetype of the wholly loving mother: “She didn’t do it; it was all about the mental illness.”</p>
-<p dir="ltr">There’s much more to say about the Clancy case, and I’ll be discussing that in my next blog.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/deeper-dive/202609/why-were-fascinated-by-the-lindsay-clancy-case" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/deeper-dive/202609/why-were-fascinated-by-the-lindsay-clancy-case</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/deeper-dive/202609/why-were-fascinated-by-the-lindsay-clancy-case</guid>
-            <dc:creator><![CDATA[Helen Marlo, Ph.D.]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-pavel-danilyuk-7938079.jpg?itok=a8FfNV5p" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Your Brain Can't Let Go of That Unanswered Text]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/cnw2-removebg-preview.jpg?itok=JhdwNJYO" alt="Cathleen Beachboard MA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Your Brain Can't Let Go of That Unanswered Text</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Uncertainty can feel surprisingly similar to connection.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The brain craves certainty as much as it craves connection in relationships.</li><li style="margin-bottom:6px;">Dopamine keeps a person engaged when outcomes are unknown, making uncertainty feel like desire.</li><li style="margin-bottom:6px;">Emotional relief from a response can be mistaken for actual relationship satisfaction.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">Finally, they text you back. You feel relief, and the tension you have been feeling drops. Suddenly you’re feeling better.</p>
-<p dir="ltr">Everything's fine, right?</p>
-<p dir="ltr">Until the cycle starts all over again.</p>
-<p dir="ltr">Some days you get a reply from your friend, but some days it’s quiet. One day they really want to talk, and the next they seem distant and don’t say a word. You shouldn’t care. They are probably just busy, but your mind can’t stop thinking about the person who didn’t respond. </p>
-
-<p dir="ltr">Immediately, you may start replaying past conversations and interactions with this person. You keep checking your phone to see if they texted. You think this relationship really matters, and the more you wait, the more it matters.</p>
-<p dir="ltr">Psychology may have a different explanation: You may care for this person, but the fixation you feel may be the brain's desire for the uncertainty to end. What you are feeling could reflect two different things going on at once: The desire for the other person and the desire for the uncertainty of not getting a response to end. </p>
-
-<h2>Your Brain Wants to Know What Comes Next</h2>
-<p dir="ltr">The brain is wired to predict circumstances in order to keep you safe. For example, if one of your friends is tired and grumpy and then goes quiet, the brain learns to predict what the quiet from this person means through the patterns it associates with events. Research shows that the brain continuously makes predictions and adjusts expectations to adapt to the challenges it faces in life (Clark, 2013; Friston, 2010).</p>
-
-<p dir="ltr">However, when the brain encounters a person it cannot predict, someone who behaves in unexpected ways without warning, it focuses its attention on this person without responding. The brain generates a signal to learn from the unexpected events, becoming hypervigilant. The brain then uses these signals to update its expectations about any given situation (Schultz et al., 1997). </p>
-
-<p dir="ltr">Erratic behavior creates a problem for your brain to solve. Research suggests that uncertainty about a reward (such as when you will receive a text) can sustain activity in dopamine neurons while the outcome remains unknown, keeping the brain engaged and thinking as it waits to figure out what will come next (Fiorillo et al., 2003). With the brain constantly focusing on one person, dopamine neuron activity can feel like it is signaling a connection, when it could simply reflect uncertainty. </p>
-
-<h2>Uncertainty Can Make Us Feel Stuck</h2>
-<p dir="ltr">The brain tends to stick to things that feel unresolved. Let’s look at the end of two different conversations to understand this process.</p>
-<p dir="ltr">In the first conversation, a friend says, “Great, see you on Saturday!” In the second, the same friend says, “We’ll see.” Which conversation seems to stick out the most? Most likely, the second one.</p>
-
-<p dir="ltr">The brain does not like having an open loop in conversations with uncertainty. It wants to know what will happen to avoid any potential danger and keep you safe, but until that happens, it stays on alert, trying to solve the open puzzles like a sent text message with no reply. When there is an information gap, our brain will keep focusing until it finds out the missing information (Loewenstein, 1994).</p>
-
-
-<p dir="ltr">You might find your mind wandering to messages you sent. What did they mean? Did I say something wrong? Are we OK?</p>
-<p dir="ltr">You may find yourself even replaying conversations in your mind over and over, rereading messages, and attempting to provide explanations, all to predict what will happen next. </p>
-<p dir="ltr">Here is where the connection between you and another person can get confusing: Just because someone occupies your thoughts, you may believe they occupy your heart, but attachment to a person and attention in the brain are not the same thing, even when they may feel the same. </p>
-
-<p dir="ltr">Thinking about a person constantly may not be evidence of a connection but of uncertainty. </p>
-<h2>Ask Better Questions</h2>
-<p dir="ltr">Instead of wondering whether uncertainty or connection is present because of a lack of response, consider asking better questions to figure out where your feelings are coming from. For example: How do you feel when you are around that person? Are you typically unsure of your status with them? Do you receive mixed messages from their actions or words? Do you enjoy the relationship? Or do you spend a lot of time trying to decipher messages and understand where you stand with them?</p>
-
-
-
-  
-
-
-<p dir="ltr">Your answers can help you see that your connection with a person isn’t determined by how much mental space they might occupy; that feeling of connection can be caused by someone who leaves you hanging with the most unanswered questions. </p>
-<p dir="ltr">So, when a person's inconsistency leaves you constantly checking your phone or analyzing their behavior, ask yourself, Do I want this person—or do I just want the uncertainty they cause to stop?</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-hopeful-brain/202609/why-your-brain-cant-let-go-of-that-unanswered-text" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-hopeful-brain/202609/why-your-brain-cant-let-go-of-that-unanswered-text</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-hopeful-brain/202609/why-your-brain-cant-let-go-of-that-unanswered-text</guid>
-            <dc:creator><![CDATA[Cathleen G Beachboard MA]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/text.png.jpg?itok=dctST1Ih" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your Brain Is a Social Butterfly]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-09/karensullivan-removebg-preview_1_.png.jpg?itok=TSdZ-67k" alt="Karen D. Sullivan Ph.D., ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Life</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Your Brain Is a Social Butterfly</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Our brains remind us that being human has always been something we do together.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The human brain evolved in an intensely social environment.</li><li style="margin-bottom:6px;">When interacting. we can become synchronized at behavioral, physiological, and even neural levels.</li><li style="margin-bottom:6px;">Dementia can make connection harder, shifting more responsibility to others.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/shutterstock_2340609537.jpg?itok=n6N0JQYp" width="320" height="213" data-insert-type="image" title="NIKS ADS | Shutterstock" alt="NIKS ADS | Shutterstock"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: NIKS ADS | Shutterstock</div>
-</div>
-</div>
-</div>
-<p>Think about the last time you had a terrible day at work and finally got to see your person. Chances are nothing about the problems of your life changed. The difficult conversation with the irritating co-worker still happened. The demanding to-do list was still waiting. The heartbreaking decision still had to be made tomorrow. And yet something in you changes.</p>
-
-<p>You can feel it when your jaw unclenches, your breathing deepens, and you realize you haven’t laughed all day. Somehow, the world feels a little more manageable simply because another person is now in it with you. The problem hasn’t changed, but your experience of it has. In the presence of someone we trust, we can borrow some of their calm.</p>
-
-<h2>The Brain Is a Social Organ</h2>
-<p>Human brains developed to be in relationship with other human brains. From the beginning of life, other people help regulate our internal world. We learn through faces, voices, touch, imitation, shared attention, play, conversation, and thousands of interactions. For years, much of what we knew about the social brain came from studying one person at a time, often while they looked at pictures or videos of other people inside an MRI scanner. Researchers can now study two people interacting in real time using a technique called hyperscanning, which records brain activity from two or more people simultaneously. One increasingly common method, functional near-infrared spectroscopy (fNIRS), uses light to track changes in blood oxygenation in the brain while people sit together, talk, cooperate, or engage in other social interactions.</p>
-
-<p>A 2025 review in the <em>Annual Review of Psychology</em> described growing evidence for what researchers call interpersonal neural synchrony: patterns of neural activity that become temporally aligned while people interact. This synchrony has been observed during experiences such as conversation, cooperation, shared attention, and learning, and has been associated with communication, social coordination, engagement, and learning.</p>
-
-<p>This does not simply mean that two brains respond similarly because two people are seeing or hearing the same thing. Researchers are increasingly interested in what happens during genuine, reciprocal interaction—when each person is responding to and influencing the other in real time. The emerging picture is that successful social interaction involves coordination not only in what we say and do, but sometimes in patterns of activity across our brains as well (Schilbach &amp; Redcay, 2025). </p>
-
-<h2>We Affect One Another</h2>
-<p>Our nervous systems are continually taking to each other and responding. Walk into a room where two people have just had an argument and you may sense the tension before anyone tells you what happened. Spend an afternoon with someone who makes you feel deeply valued and notice how different your body feels that night before bed. Sit beside someone who is frightened and watch what happens when you lower your voice, slow your movements, and offer calm attention.</p>
-
-<h2>What Happens When Connection Is Missing?</h2>
-<p>In 2024, researchers combined longitudinal data from more than 600,000 people in the largest meta-analysis to date examining loneliness and dementia risk. Loneliness was associated with approximately a 31 percent higher risk of developing dementia. These findings do not prove that loneliness directly causes dementia. People can become lonely for many reasons, and changes in cognition or health may themselves contribute to social withdrawal. But the association remained even when researchers accounted for depression, social isolation, and other modifiable dementia risk factors (Luchetti et al., 2024).</p>
-
-<p>The distinction between loneliness and social isolation is important. Social isolation describes something more objective about the size or frequency of our social connections. Loneliness is subjective; it's the painful experience of not having the connection we need. You can live alone in the woods and feel deeply connected. You can also sit in a room filled with people and feel profoundly lonely.</p>
-
-<p>As a board certified neuropsychologist who specializes in dementia, there is another part of this story that concerns me just as much. Brain change can itself make connection harder to maintain. Conversations become more difficult. Someone may repeat themselves, lose the thread of a story, struggle to find a word, miss a social cue, or no longer be able to participate in familiar activities in quite the same way. </p>
-
-
-
-  
-
-
-<p>And sometimes, other people begin to pull away. Friends aren’t sure what to say, and invitations become less frequent. A person stops attending church, the golf group, book club, or neighborhood gatherings because keeping up has become difficult or embarrassing. Family members may begin talking <em>about</em> the person rather than <em>with</em> them. At the very time someone’s brain is making it harder to independently create and maintain connection, their social world may begin getting smaller.</p>
-
-<p>Connection isn’t about the number of people around us but the lived experience of being known, included, understood, and significant to someone else. And it turns out that even one dependable relationship may matter. Researchers examined a range of social factors, including marriage, living arrangements, children, siblings, participation in recreational groups, and whether someone had a confidant: one person they could trust and talk to. Of those social factors, not having a confidant was the one associated with a higher risk of developing dementia (Camozzato et al, 2015).</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/3_heart-rev1-01_0.png.jpg?itok=MP3lnfJg" width="320" height="414" data-insert-type="image" title="KDS Productions" alt="KDS Productions"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: KDS Productions</div>
-</div>
-</div>
-</div>
-<h2>What This Science Asks of Us</h2>
-<p>Perhaps we should stop treating human connection as something pleasant we add to life after the important things are taken care of, because connection may be one of the important nutrients human beings need.</p>
-<p>That does not mean you need to have a huge social circle. It means paying attention to the relationships in which you feel genuinely present and known.</p>
-
-<p>Call the person whose voice changes your nervous system. Eat with someone instead of always eating alone. Join the choir, walking group, faith community, volunteer project, pickleball game, book club, or neighborhood gathering—not simply to stay “busy,” but because repeatedly sharing life with other people gives the social brain something it was built to receive.</p>
-
-<h2>What Changing Brains Can Teach Us</h2>
-<p>We place enormous value on independence. Growing up is partly a story of needing other people less: feeding ourselves, earning our own money, making our own decisions, managing our own lives. But independence is only one side of the coin. Across a lifetime, we continue to regulate, teach, comfort, challenge, delight, and shape one another. We borrow courage from other people. We can use our calm to effect the experience of another in need. This is interdependence. </p>
-
-<p>Dementia makes this interdependence harder to ignore. When one person’s brain can no longer do everything it once did independently, the people around them become increasingly important not simply for completing tasks or providing care, but for helping to preserve access to the relationships and experiences that make life feel like life.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/still-us/202609/your-brain-is-a-social-butterfly" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/still-us/202609/your-brain-is-a-social-butterfly</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/still-us/202609/your-brain-is-a-social-butterfly</guid>
-            <dc:creator><![CDATA[Karen D. Sullivan Ph.D., ABPP]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2172015181_1_.jpg?itok=uF0ZGULG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evan Seinfeld and the Power of Change]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/michael_friedman.jpg?itok=GH5EznJT" alt="Michael Friedman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gratitude</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Evan Seinfeld and the Power of Change</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Biohazard front man shares his perspective on gratitude and fitness.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Gratitude can often mean openness to new experiences.</li><li style="margin-bottom:6px;">Growing up in Brooklyn, Evan Seinfeld was part of a music and cultural scene that supported openness.</li><li style="margin-bottom:6px;">Embracing impermanence as an opportunity for self-actualization can be a powerful approach to development.</li>
-            </ul>
-          </div>
-                    <p>As a young man growing up in the 1970s and 1980s in Brooklyn, Evan Seinfeld found heavy metal music culture at the legendary venue L’Amours. “The first time I walked into L’Amours… It was like I was home,” Seinfeld told me. “I walked in, and there were people there standing around who weren’t the usual characters. They had long hair. There were people with tattoos. There were people … with different types of style. There was a different kind of music. There was a subculture. And it felt organic for me as part of it … I was home.”</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/img_0814.jpeg.jpg?itok=sRr-1cPz" width="320" height="427" data-insert-type="image" alt="Evan Seinfeld" title="Avril Franco, used with permission"></div>
-<div class="caption">Evan Seinfeld</div>
-<div class="insertArea--origin subtext">Source: Avril Franco, used with permission</div>
-</div>
-</div>
-</div>
-<p>As heavy metal was growing as a culture, New York City was also the home of the developing underground punk rock and hip hop scenes. Seinfeld recounted when the late Pete Steele of Carnivore, for whom Seinfeld was a roadie, took Seinfeld to the birthplace of punk rock, <a href="https://www.loudersound.com/features/10-gigs-that-made-cbgb-famous">CBGBs</a>. “I was a metalhead … I used to roadie for Pete Steele when I was 16,” he recalled. “And then one day, Pete says to me, ‘Bring your car, pick up the equipment. We’re gonna go play CBGBs.’… I’d never been to CBGBs … The only person with long hair was me and Pete … And I’m like, ‘Wow … Eyes open to a new thing.’”</p>
-
-<p>Seinfeld’s openness to new music and culture may have been the initial signs of a developing life philosophy centered around gratitude—particularly appreciating what he could experience in a given moment. “Gratitude … That’s the cheat code for everything you want to get. You want to be successful. You want to be happy. You want to get in shape. Get grateful,” Seinfeld explained. “Get grateful for what you have right here right now.”</p>
-
-<p>Eventually, Seinfeld would manifest his gratitude for the rich musical and cultural experiences he had as a founding member of the band Biohazard, arguably the godfathers of the fusion of heavy metal, hardcore punk, and hip hop. And as time went on, Seinfeld developed additional career paths, particularly as an actor, including his role on the television show <em>Oz</em>. Not only was he open to and grateful for new experiences, but he also actually began to crave change.</p>
-
-<p>“The beauty of impermanence, and not to look at relationships and things ending … but rather an opportunity for a new beginning. If there’s one thing that’s constant in life that I’ve learned is change, so you better learn to love f*cking change, because it’s coming for me,” he described. "I’ve learned to take that scared fear moment and go. I’m breathing it in. I’m taking this like a drug right now. I’m powering up. This is the fuel for my next f*cking decision, my next move. And I need to step into it fearlessly, even though I’m afraid right now.”</p>
-
-<p>Embracing impermanence and the opportunities that arise from new experiences is at the core of Seinfeld’s approach to self-actualization. “So if we want the world to get better, we got to get better,” Seinfeld said. “And how does the world get better? It doesn’t start with saying what those people should do. It starts with us. Starts with me. I got to be better every day. I’m just going to do everything that’s self-development. I’m going to try to become a better version of myself.”</p>
-
-<p>In that spirit, Seinfeld has started a personalized fitness and nutrition program. Seinfeld described the feeling he has when he works out, and how it helps him feel like the best version of himself. “I go to the gym. I snap into this high vibrational character. I got 1000 gym bros. I’m high-fiving people. My f*cking heart rate gets pumped up. I put on my music. I’m fucking moshing around the gym. No one in my gym even knows what that is,” he said, “And I’m in it. I get a great vibe, and I lift other people up. And it makes me feel it’s where I want to be in life.”</p>
-
-
-<p>He believes fitness can improve both physical and mental health. “It took me quite a while to realize the interlinked connection between my physical fitness and my mental health and the hormones involved. And the neuroplasticity that I experience when my heart is pounding out of my chest because I’m doing sprints on the beach or I’m lifting weights and I’m f*cking hyperventilating,” he explained. “The high that I feel from that ... It connects to some neurotransmitter, some endorphin. Something happens here that I become a little more grounded, connected to my body. I become aware of my thoughts a bit more. That they are just thoughts ... And I mean, that’s what meditation really is, right? It’s like separating yourself from the hard drive and recognizing yourself as an energy, recognizing yourself as a soul, as a human being, not a human doing.”</p>
-
-<p>Seinfeld reflected on how he will continue to push his gratitude and openness as he learns more about himself and helps others to do the same. "I’m a bit of a hard head, and I don’t learn easily unless I am in an intention of ‘I am here to learn.’ Otherwise, I am fighting learning, hanging on to my ideas as if I need to breathe," Seinfeld described. “And that’s a terrible place to be. It’s a very lonely place to be. And when you’re not open to change, you’re really stuck. And if you’re not happy and you’re not open to change, well that’s a disaster, right? Because you’re just saying I’m going to stay here. I’m on fire, but I’m not going to do anything ... I’m not going to try to put out the fire. </p>
-
-
-
-  
-
-
-<p>“I’m just going to sit in it.”</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/brick-by-brick/202608/evan-seinfeld-and-the-power-of-change" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/brick-by-brick/202608/evan-seinfeld-and-the-power-of-change</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/brick-by-brick/202608/evan-seinfeld-and-the-power-of-change</guid>
-            <dc:creator><![CDATA[Michael Friedman Ph.D.]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-08/img_0814.jpeg.jpg?itok=TsTT245C" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Hidden Cost of Being the “Good” Partner]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/aigerim_alpysbekova.png.jpg?itok=EM00GDD4" alt="Aigerim Alpysbekova MPH" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Boundaries</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Cost of Being the “Good” Partner</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Kindness needs boundaries; otherwise, it can become self-abandonment.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Kindness does not require sacrificing your boundaries or well-being.</li><li style="margin-bottom:6px;">Healthy relationships can teach us where we need stronger boundaries.</li><li style="margin-bottom:6px;">Saying yes to avoid disappointing others can turn kindness into self-abandonment.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/6653167-door-5384953.jpg?itok=IlXBq_8_" width="320" height="480" data-insert-type="image" alt="Pixabay / Pixabay" title="Pixabay / Pixabay"></div>
-<div class="insertArea--origin subtext">Source: Pixabay / Pixabay</div>
-</div>
-</div>
-</div>
-<p>I used to tell my friends back in the day that even if someone tried to kill me, and years later that same person needed my help, I would probably still help them. No matter how hard I tried to stay mad or angry with someone, I could never bring myself to harm them. I just can’t.</p>
-<p>Many people in my life mistook my kindness for weakness. And for a long time, I let them.</p>
-
-<p>Sometimes, it felt easier to agree with someone’s opinion than to spend my energy convincing them that they were wrong about me.</p>
-<h2>Early Lessons in Self-Sacrifice</h2>
-<p>Looking back, I think this part of me started very early.</p>
-<p>I was 5 years old when my kindergarten teacher asked me to play Baba Yaga in a school performance. In the Soviet Union, Baba Yaga was the legendary ugly old witch, the opposite of the beautiful princess character every little girl wanted to play.</p>
-
-<p>Everyone had already taken the pretty roles. My teacher came to me and basically pleaded, “Please help me. I don’t know what to do with this role.” I felt sorry for her, so I agreed.</p>
-<p>I went home and got yelled at by my mother. She thought my teacher had tricked me and that I had been too kind and naïve. I understand my mother’s point of view now. She wanted to see her daughter dressed as something beautiful, not an old witch.</p>
-
-<p>But I also remember what I saw at 5 years old: a grown woman who needed my help. And I helped her.</p>
-<p>Then, when I was 6, kindness taught me a much more painful lesson. It was my very first day of first grade. I came home wearing my Soviet school uniform, a brown dress with a white apron, long white socks, two white ponytails with white bows, and flowers I had carried for my teacher.</p>
-
-<p>I was happy and excited. My neighbor, who was two years older, had just gotten a new bicycle. He was riding around the neighborhood, showing off his skills on our bumpy roads. When he stopped in front of me, I told him his bike looked very cool.</p>
-<p>He asked if I wanted a ride. I said no. I had never ridden on the back of a bicycle before. I didn't know where to sit, what to hold onto, or how to keep my balance. But he was so excited to show me what he could do that he kept begging me.</p>
-
-<p>Eventually, I said, “Okay. Let’s do it.” One loop around the neighborhood became another, and with every loop he went faster. I started asking him to stop. I was losing my balance, but he was so excited that he didn't want to stop.</p>
-<p>Then it happened. I lost my balance and accidentally put my leg into the wheel. I heard a crack. Something fell onto the ground. It was part of my skin. There was blood everywhere. I was in shock and barely felt the pain. Later, doctors put me under anesthesia. I woke up to discover that I couldn't walk. The wound was so deep that I couldn't stand or walk properly for months.</p>
-
-<p>My first day of school had started with flowers, white bows, and excitement. It ended with a serious injury.</p>
-<p>Looking back, I can see that this was one of the first times I learned to put someone else's feelings ahead of my own discomfort. I didn't know then that this pattern could follow me into adulthood. It took me years to understand that being kind does not mean giving someone unlimited access to you, especially<strong> </strong>in romantic relationships.</p>
-
-<p>My former husband believed that marriage required sacrifice. His philosophy was that if you want something good, you must give something valuable to your heart. He wanted me to stop spending so much time with my friends and family and focus on us as a family and on his friends. My friends were no longer really considered friends. The marriage was supposed to become my priority.</p>
-
-<p>I thought about it. And I agreed. I put my marriage first and slowly neglected other relationships in my life. At the time, I didn't see it as giving up myself. I saw it as being a good wife. I saw it as making a sacrifice for something I believed was important.</p>
-<p>Then there was the phone rule. Every day after work, I had to give him my phone so he could inspect it, who I had talked to, how long we had talked, and what I had been doing. And I gave permission for that too.</p>
-
-
-
-  
-
-
-<p>I told myself I was doing it for family peace. I was choosing peace over conflict. At that time, I did not know that peace created by abandoning your own boundaries is not really peace.</p>
-<p>I am not telling this story to blame him. I am telling it because I can see my own part in it now. I let those boundaries be crossed. I participated in my own self-abandonment because, at the time, I thought that was what love and commitment looked like.</p>
-
-<p>Was it kindness or weakness? I don’t know. But it is not my point. My point is that I had stopped recognizing where my boundaries were, and then allowed other people to cross them.</p>
-<h2>How Relationships Reveal Our Patterns and Boundaries</h2>
-<p>Sometimes the people who come into our lives reveal things about us that we cannot see on our own. They show us where we are strong, where we are weak, what we tolerate, what we fear, what we believe we have to sacrifice, and where we have confused love with losing ourselves.</p>
-
-<p>Relationships can teach us things about ourselves that being alone never could. Not because every person who crosses our boundaries is meant to stay in our lives. But because our relationships bring our patterns to the surface.</p>
-<p>They show us where we give too much. Where we stay silent. Where we say yes when we mean no. Where we confuse kindness with obligation. Where we confuse sacrifice with love.</p>
-
-<p>Some people will still call me weak for being too kind. I'm OK with that. I have finally stopped needing everyone to understand my kindness for it to be real. I know what it is.</p>
-<p>It is a part of who I am. </p>
-<p>The difference now is that I no longer confuse being kind with giving myself away. My kindness has a door. And I get to decide when it opens and when it stays closed.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/trauma-growth-and-the-search-for-meaning/202609/the-hidden-cost-of-being-the-good-partner" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/trauma-growth-and-the-search-for-meaning/202609/the-hidden-cost-of-being-the-good-partner</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/trauma-growth-and-the-search-for-meaning/202609/the-hidden-cost-of-being-the-good-partner</guid>
-            <dc:creator><![CDATA[Aigerim Alpysbekova MPH, PhD]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/6653167-door-5384953.jpg?itok=gRI3uPNg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Gets People to Change?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-11/manu_sidhu.png.jpg?itok=LhadZEhK" alt="Manu Sidhu MBBS" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Control</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Gets People to Change?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">People change when continuing how they are costs them more than it gives them.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Find alternative ways of meeting the same underlying need as the behaviour you wish to change.</li><li style="margin-bottom:6px;">You're likely to fall back into old habits without alternative ways of meeting your needs.</li><li style="margin-bottom:6px;">Writing out benefits vs costs enables your deeper intention to survive impulsivity in a moment of temptation.</li>
-            </ul>
-          </div>
-                    <p>What change have you been desperate to make, knowing that it would improve your life, yet have <em>struggled to execute</em>?</p>
-<p>Whether it’s dropping a bad habit or implementing a good one, why haven’t you succeeded?</p>
-<p>And when you have succeeded, <em>why did it work</em>?</p>
-<p>It’s almost like we’ve accepted that it is our human nature to <em>want</em> to change, yet sometimes we simply won’t. But what if there was a simple framework for change? A framework that most do not know, but could unlock the change they have been seeking.</p>
-
-<p>As a psychiatrist-in-training, I am fascinated by the question, “What gets people to change?”</p>
-<p>Working with people who have overcome addiction recently led me to an answer I believe is worth sharing:</p>
-<blockquote><p>You change when continuing how you are costs you more than it gives you.</p>
-</blockquote>
-<p>This insight is based on research about overcoming alcohol problems without treatment. Fifty-seven percent of people who recovered described their turning point the same way: an honest evaluation of what drinking was giving them and what it was costing them.<sup>[1]</sup></p>
-
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/table_1.png.jpg?itok=339Wer7D" width="639" height="229" data-insert-type="image" title="Dr Manu Sidhu (author)" alt="Dr Manu Sidhu (author)"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Dr Manu Sidhu (author)</div>
-</div>
-</div>
-</div>
-<p>We also need to consider <em>what making the change will give you and cost you</em>, in this case:</p>
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/table_2.png.jpg?itok=FmwU-fyr" width="639" height="264" data-insert-type="image" title="Dr Manu Sidhu (author)" alt="Dr Manu Sidhu (author)"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Dr Manu Sidhu (author)</div>
-</div>
-</div>
-</div>
-<p>Notice how we have two weights on each side of the weighing scales:</p>
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/alcohol_example_for_change_article.png.jpg?itok=ZZNW8p61" width="639" height="426" data-insert-type="image" title="Dr Manu Sidhu (author)" alt="Dr Manu Sidhu (author)"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Dr Manu Sidhu (author)</div>
-</div>
-</div>
-</div>
-<p>Laying the facts out on both sides of the scale does three things:</p>
-<ol>
-<li><strong>It acknowledges why you do the action</strong>—in this case, what drinking alcohol is the solution for, to understand why you do it in the first place.</li>
-<li><strong>It opens the question of whether those same needs could be met another way</strong>, even if it requires more effort. It’s like going to the gym to build muscle: You may prefer to build that muscle naturally—even though it takes more effort and skill—rather than by taking steroids, which come with a whole range of serious side effects (much like alcohol).</li>
-<li><strong>It means you’re not resisting something you want</strong>—instead, you’re declining something you can now see costs you more than it gives you.</li>
-</ol>
-
-<blockquote><p>The temptation stops being one you fight and becomes one you’ve simply lost the appetite for.</p>
-</blockquote>
-<p>Even though we’re learning from the extremes here—using data about those recovering from a substance use disorder—<strong>the framework can be applied to any behaviour</strong>, even the most seemingly innocent ones, like not brushing your teeth at night, buying biscuits from the supermarket, or staying up late to watch TV.</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/table_3.png.jpg?itok=JbkkF1Fn" width="639" height="365" data-insert-type="image" title="Dr Manu Sidhu (author)" alt="Dr Manu Sidhu (author)"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Dr Manu Sidhu (author)</div>
-</div>
-</div>
-</div>
-<p>Ultimately, it’s the realisation that the costs outweigh the benefits that leads to stopping something you’ve been meaning to stop, or that the benefits outweigh the costs for something you’ve been meaning to start.</p>
-<p>Often, <em>realising the cost </em>is more obvious when it’s felt acutely—a health scare, injuring yourself, hurting someone else, or losing something.</p>
-
-<p>And <em>realising the benefits</em> is more obvious when something new becomes contingent on changing—a new job, a mortgage, a child on the way.</p>
-<p>To explain how a decision to change becomes a sustained behaviour, Chip and Dan Heath split the process of change into three dimensions in their book <em>Switch</em>: <em>the Rider, the Elephant, and the Path</em>.<sup>[2]</sup></p>
-
-<ol>
-<li><strong>The Rider—your rational self: </strong>Your rational self will weigh up the pros and cons using a method like the one above, and go further to figure out how you can better meet the needs that the undesired behaviour was meeting. Instead of drinking alcohol for relief, your rational self may think of going to the gym. Instead of watching TV late at night to unwind, you may treat yourself with a massage. </li>
-</ol>
-
-
-<blockquote><p>Taking each "benefit" one by one and listing healthier ways to experience them gives you plenty of better solutions to try—but <strong>without an alternative solution, you’re likely to fall back into old habits to meet those needs.</strong></p>
-</blockquote>
-<ol start="2">
-<li><strong>The Elephant—your emotional self: </strong>It’s not enough to just make the change on an intellectual level—<em>knowing</em> what change will give you and cost you is not the same as <em>feeling</em> it. The change has to be tried and tested so the benefits can be <em>experienced</em> to be truly felt. Likewise, the costs have to be <em>felt</em> for them to be fully internalised. The problem is when we feel<em> </em>the cost, it fades over time. The point of writing the benefits and costs down is that you do it calmly, when nothing is pulling at you—so that it’s there to hold you steady when something is. You’re not removing emotion from the decision—you’re making sure the impulsive emotion doesn’t get its way over the steady emotion simply because it occupies the forefront of your mind in the moment. </li>
-</ol>
-
-<blockquote><p>As Anthony de Mello said in his book "<em>Awareness"</em>: <strong>"It's only when you're sick of your sickness that you'll get out of it." </strong></p>
-</blockquote>
-<ol start="3">
-<li><strong>The Path—your environment: </strong>Your environment either makes it easier or harder to execute your desired behaviour. By removing access to something you want to stop, or making more accessible something you want to start, you determine how much of a fighting chance you give yourself. Your environment also includes the psychological environment within your mind—most lapses happen when this psychological environment is depleted: hungry, angry/stressed, lonely, and tired (known as the HALT states). Preventing these states, or at least being extra mindful when in these states, will help you resist temptation at its most tempting.</li>
-</ol>
-
-
-
-  
-
-
-<blockquote><p>Together, your rational self sets the <strong>direction</strong>, your emotions supply the <strong>fuel</strong>, and your environment determines the <strong>barriers and facilitators</strong> to progress. </p>
-</blockquote>
-<p><em>However, there is something that influences all three</em>: your relationships. Someone you trust can give you the insight that change is needed, the inspiration (or fear!) to change, and the accountability to stick with it.</p>
-
-<p>At a time when we feel increasing pressure to become our best selves, let us leverage the power of relationships to support each other through the process of change. Whether by seeking support from someone to facilitate your own change or offering your support to facilitate another person’s change—<em>be informed</em> about the framework of change,<em><strong> </strong>be empowered</em> to apply it, and <em>be kind</em> enough to help others through it.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/your-recipe-for-a-healthy-mind/202609/what-gets-people-to-change" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/your-recipe-for-a-healthy-mind/202609/what-gets-people-to-change</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/your-recipe-for-a-healthy-mind/202609/what-gets-people-to-change</guid>
-            <dc:creator><![CDATA[Manu Sidhu MBBS]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-gustavo-fring-5163400.jpg?itok=U1I17XDJ" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Betrayal Breaks Your Inner Compass]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/changiz-removebg-preview.jpg?itok=IYUc55oB" alt="Changiz Mohiyeddini Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trust</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Betrayal Breaks Your Inner Compass</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to rebuild confidence in the judgment that betrayal made you question.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Betrayal creates a trust wound: “I cannot trust you.”</li><li style="margin-bottom:6px;">It can also create a judgment wound: “I cannot trust myself to know whom to trust.”</li><li style="margin-bottom:6px;">Most advice addresses the trust wound but leaves the judgment wound largely unaddressed.</li><li style="margin-bottom:6px;">Healing requires recalibration to bring renewed confidence in navigating uncertainty.</li>
-            </ul>
-          </div>
-                    <p>Every so often, a phone’s compass drifts. The arrow still moves. It still looks confident. It still points somewhere. It is simply no longer pointing correctly. It points, but not to the north. The phone does not tell you to trust the reading harder or to stop navigating. Instead, it asks you to wave the device in a figure eight until it recalibrates.</p>
-
-<p>Betrayal can leave a similar problem behind. It does not only damage your trust in another person but your confidence in the judgment you used to decide whom to trust in the first place.</p>
-<p>We could call the first injury the trust wound (<em>I cannot trust you) </em>and the second the judgment wound (<em>I cannot trust myself to know whom to trust).</em></p>
-
-<p>I think much of what we say about recovering from betrayal addresses the first wound but skips the second. We tell people they have to learn to trust again, or to be more careful next time, watch the red flags, and listen to their intuition.</p>
-<p>But what happens when betrayal has made someone suspicious of their own intuition?</p>
-
-<p>Let me give betrayal a face, one that, almost seven years after the events that occurred, still carries the devastation. I will change identifying details, but not the psychological truth of what happened: In the third year of her marriage, almost by coincidence, a woman discovered that her husband—her high school sweetheart—had been having an affair, and not just recently, but for years; in fact, the affair had begun before their wedding.</p>
-
-<p>You may already be asking the obvious question: If he had been involved with somebody else for years, why did he marry her? And yet that was not the part that left me speechless. This was: The woman with whom her husband had been having the affair was her younger sister, who was almost ten years younger than she was. After their mother died, this woman had helped raise her younger sister, so this was not simply a sibling relationship. She had cared for her, protected her, watched her grow up. This sister was her baby, her true baby sister.</p>
-
-<p>I have spent decades studying psychology. I have sat with people through grief, trauma, illness, divorce, abuse, and losses for which ordinary language seemed hopelessly inadequate, and yet when she told me what had happened, I remember feeling that all my degrees, theories, and clinical training had momentarily left me with very little to say.</p>
-
-<p>Sometimes what happened to another human being simply deserves to horrify us, even if we are clinical professionals, before we begin explaining it.</p>
-<p>Her husband had betrayed her, and her sister had betrayed her. But even that does not capture what she lost: She lost her marriage and the future she had been planning inside it. She lost her sister. She lost part of the biography she thought belonged to her. And there was another loss, one that we rarely name after betrayal: the loss of a version of herself.</p>
-
-<p>After betrayal, you do not simply lose a relationship but your confidence in the story you thought the two of you had written together. People begin doing a strange kind of homework, returning again and again to the past: <em>Was that moment real? Did I already know then? Was he lying that night? Was everybody else seeing something I could not see?</em></p>
-
-<p>The sorting rarely finishes because some of the evidence belongs to people whose accounts are no longer trustworthy.</p>
-<p>And then comes the judgment wound: The two people she had misread most catastrophically were the two people she believed she knew best.</p>
-<p>If a stranger deceives you, you may conclude that they were deceptive, but when someone you have loved for years deceives you—successfully, repeatedly, intimately—the question turns inward: <em>How did I not know? What else have I misunderstood? Can I trust my judgment? If I was so wrong about them, what makes me think I will be right about the next person?</em></p>
-
-
-
-  
-
-
-<p>This is how betrayal disturbs the internal system we use to navigate other human beings—and it's why telling someone simply to “trust again” can be meaningless. Distrust after betrayal can be the mind trying to protect itself after discovering that its previous map of reality was terribly wrong.</p>
-<p>But our protective systems can also overcorrect, to the point where kindness begins to look suspicious, a delayed text becomes damning evidence, or a small inconsistency becomes a red flag</p>
-
-<p>The compass is moving again, but it may still not be pointing north.</p>
-<p>This is why I am cautious when forgiveness is presented as a mechanism of recovery: Research does not suggest that forgiveness operates in a vacuum. Karina Luchies and colleagues found that forgiveness was more likely to preserve self-respect and clarity about oneself when an offending partner made amends or behaved in ways suggesting that the injured person was safe and valued. Without those signals, forgiveness could have the opposite effect—a pattern they called the doormat effect.</p>
-
-<p>Other research has similarly suggested that greater forgiveness does not necessarily reduce harmful behavior when the offending partner continues behaving badly. Forgiveness, then, is not in itself bad, but it's not the same as safety.</p>
-<p>Recalibration is not about learning that everyone is trustworthy, or becoming so vigilant that no one can ever deceive you again. Trust has always contained uncertainty. And so the betrayed person can learn to stop demanding impossible certainty from themselves, and to notice, question, verify, and respond without becoming permanently imprisoned by suspicion.</p>
-
-<p>Seven years later, the woman whose story I carry with me is not trying to recover the compass she had before the betrayal, because it belonged to a world that no longer exists. Her task has been harder—learning how to trust a recalibrated one, and to discover where north is now.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-unknown-mind/202609/when-betrayal-breaks-your-inner-compass" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-unknown-mind/202609/when-betrayal-breaks-your-inner-compass</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-unknown-mind/202609/when-betrayal-breaks-your-inner-compass</guid>
-            <dc:creator><![CDATA[Changiz Mohiyeddini Ph.D.]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2485973609.jpg?itok=Q6yJmAw6" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[When Self-Compassion Is a Struggle]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/dan-roberts-white-bg.png.jpg?itok=tvE0RZc4" alt="Dan Roberts MBACP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Self-Compassion Is a Struggle</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Even if you treat yourself unkindly, self-compassion is a skill you can learn.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Many people struggle with self-compassion, especially if they have a trauma history.</li><li style="margin-bottom:6px;">Self-compassion is a skill that can be learned with effortful practice.</li><li style="margin-bottom:6px;">Self-compassion can help with psychological problems like chronic anxiety, depression, or low self-esteem.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/image_-_kindness.jpg?itok=zwqFeP3V" width="320" height="213" data-insert-type="image" title="Anastasiia Krutota / Unsplash" alt="Anastasiia Krutota / Unsplash"></div>
-<div class="insertArea--origin subtext">Source: Anastasiia Krutota / Unsplash</div>
-</div>
-</div>
-</div>
-<p>When you're having a rough time, how do you react? Are you kind, patient, and accepting, recognising that you're human and struggle sometimes, like every other person on this planet? Or do you get frustrated, berating yourself for failing—yet again!—and not measuring up? Sadly, many of us respond in the second way, treating ourselves with harshness and annoyance, rather than kindness and warmth.</p>
-
-<p>This is especially true for those of us with a trauma history, because one of the heartbreaking legacies of childhood trauma is often a loud, harsh, and aggressive inner critic—the part that's laser-focused on everything you say or do, constantly seeking fault. Having this powerful, denigratory voice in your head makes it very hard to respond with perhaps the most important skill we can learn for our mental health: self-compassion.</p>
-
-<h2>Research-backed superpower</h2>
-<p>I devote a whole chapter of <a href="https://geni.us/HealYourTraumaRoberts">my new book</a>, <em>Heal Your Trauma: How to Overcome a Painful Childhood to Become Happy and Whole Again</em>, to self-compassion, because as a trauma therapist, I see so many of my clients struggling to access this healing inner resource. And there is an increasing body of research proving its efficacy as an antidote to adult markers of childhood trauma such as high levels of anxiety, depression, deep feelings of defectiveness and shame, a lack of self-worth, and other forms of psychological distress. </p>
-
-<p>Leading the way in this field is Kristin Neff, associate professor of educational psychology at the University of Texas, Austin. Neff has spent more than 20 years researching self-compassion and has found that it helps people lead happier, more meaningful, and productive lives.<sup> </sup>One of her most important lessons is that self-compassion is a <em>skill</em> we can all learn, like mindfulness, which means, however hard you find it, you can always learn to treat yourself like a beloved friend, not a mortal enemy.</p>
-
-<h2>A childhood blighted by neglect</h2>
-<p>Let's look at this journey through Sally's story. Sally came to see me when she was at her lowest ebb. She had just been made redundant from a job she loved. Her marriage was on the rocks, and she was deeply, profoundly depressed. The stormy clouds of depression had gathered over Sally since her childhood, which was marked by constant rejection, abandonment, and emotional neglect. "My parents barely knew I existed," she explained. "They were so wrapped up with their own problems that for them, the three of us were just inconveniences to avoid wherever possible."</p>
-
-<p>Sally and her two brothers were looked after by one person after the next, from nannies to after-school clubs, summer camps to distant relatives. Sally barely remembers her parents spending time with them when they were kids. "They were always drinking and fighting, then Dad would take her off on fancy holidays to try and fix their relationship. We were never invited," she says tearfully.</p>
-
-<p>Sally never felt loved by her parents, or even that they had much interest in her. Instead, she felt like a problem, an annoyance, a distraction from the turbulent soap opera of their marriage. Unsurprisingly, she struggled to develop any sense of worth or value as a child. Sally recalls her first major bout of depression, which engulfed her at 14. "It was like this blackness creeping over me, and then I couldn't escape it," she says. "All I could hear was this voice in my head telling me I was worthless, a waste of space, that no one would ever love me or want me around."</p>
-
-
-<h2>Learning the skill of kindness</h2>
-<p>In our therapy, I helped Sally learn to calm and quiet her inner critic by speaking directly to this part and helping them see that the more they shouted at her, the worse she felt—and to be the strong, successful person they urged her to be, they had to give her a break. Parts-based therapies like schema therapy and internal family systems (IFS) offer highly effective, transformative methods to help change these well-meaning, but hurtful parts of the psyche.</p>
-
-<p>A parts-based approach also helps overcome the many obstacles that clients like Sally face when learning to treat themselves more kindly. Through an IFS lens, there is a part who <em>needs</em> compassion—the hurt, neglected little girl who lived in Sally's heart and mind—and a resource in her that can <em>offer</em> compassion, called Self in the IFS model. Over time, in our sessions and using practices like my <a href="https://insighttimer.com/danrobertstherapy/guided-meditations/body-breath-touch-talk-ifs-meditation">Body, Breath, Touch, Talk: IFS Meditation</a>, Sally learned the skill of self-compassion, as her Self enveloped Little Sally with all the love, warmth, kindness, and care her parents were unable to provide. This helped Sally heal the childhood wounds of emotional neglect and, over time, feel happier, stronger, and more at peace in her life.</p>
-
-
-
-  
-
-
-<p>If you, like Sally, struggle to treat yourself kindly, please don't give up. Remember that self-compassion is a skill, not some kind of mysterious, magical resource only available to Himalayan monks! And you can learn this skill, as you learned to ride a bike or play an instrument—with a little effort, a great deal of repetition, and the kind, supportive guidance of a partner, close friend, or mental-health professional along the way. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-calm-self/202609/when-self-compassion-is-a-struggle" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-calm-self/202609/when-self-compassion-is-a-struggle</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-calm-self/202609/when-self-compassion-is-a-struggle</guid>
-            <dc:creator><![CDATA[Dan Roberts MBACP]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/image_-_kindness.jpg?itok=va42740O" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why People Cling to 'Things' After a Loved One Dies]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-03/Colour_-_Plain_Background_2-removebg-preview.jpg?itok=GQk60eUB" alt="Nuala G Walsh" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Grief</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why People Cling to 'Things' After a Loved One Dies</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What keepsakes tell us about love, loss, and letting go.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">After losing a loved one, we cling to associated objects.</li><li style="margin-bottom:6px;">These often act as proxy substitutes or reminder cues.</li><li style="margin-bottom:6px;">Item attachment can be really healthy or unhealthy.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/306d5313-4b5c-4983-a085-e4d14b5ccb7e.png.jpg?itok=78FVFY9T" width="320" height="213" data-insert-type="image" title="AI-Generated" alt="AI-Generated"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI-Generated</div>
-</div>
-</div>
-</div>
-<p>When a loved one dies, relatives tend to cling to keepsakes—a pair of glasses, a woolly jumper, a bunny mug, or a gold bangle.<strong> </strong>After all, it's a normal part of grieving. </p>
-<p>Yet the grief-stricken can quickly fixate on items that acquire new significance. Families can argue as easily over an ashtray as a million-dollar inheritance. </p>
-
-<p>Do "things" really help the bereaved to cope?</p>
-<h2>Why We Cling to Things</h2>
-<p>My 82-year-old mother joined our COVID bubble and never left. Like a parent, I woke up every day worrying. Had she taken her tablets? Had she fallen? Was the carer late? When she died last month, that vigilance stopped overnight. </p>
-<p>At that exact moment, we lose human cues and gravitate to what’s left. Objects become one way of maintaining what bereavement researchers call a "continuing bond"—a psychological connection that activates our experiences, feelings, and memories.</p>
-
-<p>You know you won't forget a loved one, yet their signature voice, laugh, and gestures still fade over time.<strong> </strong>While jewelry, clothing, or furniture cannot fill the hole left behind, they serve as retrieval cues. </p>
-<p>We crave something small enough to wear or carry that retrieves something larger and more familiar—the person. </p>
-
-<p>You see the object, then you see your loved one. </p>
-<p>When my grandmother died many years ago, I really wanted her bangle. It wasn’t expensive, but it represented my childhood. Bizarrely, when my mother died, history repeated itself. I spent hours scouring 1960s vintage siteS to find a replica of her bangle, too. </p>
-
-<p>Perhaps I wasn't trying to preserve an object but to recreate a cue—the hand that fed birds, played cards, arranged stamps, and washed dishes. </p>
-<p>Memorial objects sit among proximity-seeking behaviours such as reminiscing, telling stories, looking at photographs, and visiting graves. They trigger memories that may ease the distress of <em>separation anxiety</em>.</p>
-
-<p>Memorial objects can matter in different ways. Research <a href="https://www.researchgate.net/publication/339461209_Objects_of_the_Bereaved_ReligiousSpiritual_Identification_Memorial_Objects_and_Attachment">distinguishes</a> between symbols and relics.<strong> </strong>Relics are connected to the person, something that they wore, owned, or touched. Symbols can be sufficiently similar to the original and include replicas. Both can reactivate a vast network of autobiographical memories. </p>
-
-<p>Craving symbols linked to the past is normal. In a <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13409192/">study</a> of mothers bereaved from sudden infant death syndrome, 98.6 percent kept at least one physical object. Most handled or visited it weekly over the following three years, regardless of whether the parent had prolonged grief disorder or not. </p>
-<p>In hospitals, pastoral care teams often give keepsakes to grieving relatives, like a lock of hair, handprint, or knitted red heart. In an <a href="https://spcare.bmj.com/content/14/Suppl_2/A9.1">analysis</a> of bereaved adults after intensive care<strong> </strong>deaths,<strong> </strong>these keepsakes were found to maintain a sense of positive attachment and comfort, even if temporarily. </p>
-
-
-<p>We cling to what makes us feel better. But this can get out of control.</p>
-<h2>Unhealthy Clinging</h2>
-<p>Maladjustment starts when the line between comfort and distress blurs. Does keeping half-used shampoo bottles help adjustment? Does preserving a bedroom in a time capsule delay coping or maintain a healthy connection? A deceased child’s toy may trigger overwhelming emotion and prevent parental functioning. </p>
-
-<p>Grieving often involves two processes at once. Objects can comfort us that the loved one is close yet also remind us of their painful absence. You twin-track keeping them with you yet trying to move forward. Grief can become complicated and inhibit adjustment, resulting in more severe grief symptoms. </p>
-
-
-
-  
-
-
-<p>As a behavioural scientist, I’m struck by how bereavement seems to invert the classic <em>endowment effect. </em>Normally, ownership of an item increases its perceived value. For instance, you’re convinced that <em>your</em> car or mug is worth more than its retail value simply because it's yours. </p>
-<p>In grief, an object’s value rises not because it’s <em>yours</em> but because it’s <em>theirs</em>. </p>
-
-<h2>Healthy Connections</h2>
-<p>Initially, objects serve as emotional bridges, maintaining proximity to the deceased. Later, they prompt memories of shared birthdays, graduations, holidays, or even casual coffees. You stay connected while trying to adjust to the loss.</p>
-<p>Yet the urge to accumulate can be strong. Few houses can practically store additional contents. And no collection of random items can fully reconstruct a person. Which item is most representative anyway? If not the bangle, what about the watch, the crystal decanter, or the woolly jumper? Is there a limit to how many items make you feel less lonely? </p>
-
-<p>Over time, relationships with objects can change. A lock of hair may initially be treated like a revered artefact yet later offer greater or less comfort. As time passes, some find that fewer external prompts are needed to retrieve memory. </p>
-<p>No single item can compensate for absence. You just learn to live without the person. </p>
-
-<p>Healthy connection may be less about “What should I keep?” than “What does this help me remember and how does it help me live with the loss?”</p>
-<p>The subjectivity of grief means there are no prescriptions. If an object helps revisit a memory, then return to your day, it's likely serving you well. But if it keeps you from facing the reality of loss, that may be worth addressing.</p>
-
-<p>No bangle or brooch can bring my mother back. Spending hours searching for a piece of 1960s jewelry makes little rational sense. But perhaps I wasn't really searching for jewelry, but searching for her. </p>
-<p>That is the value of objects.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/decisions-that-matter/202609/why-people-cling-to-things-after-a-loved-one-dies" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/decisions-that-matter/202609/why-people-cling-to-things-after-a-loved-one-dies</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/decisions-that-matter/202609/why-people-cling-to-things-after-a-loved-one-dies</guid>
-            <dc:creator><![CDATA[Nuala G Walsh]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/306d5313-4b5c-4983-a085-e4d14b5ccb7e_0.png.jpg?itok=Obvg_Rv9" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 10-Second Rule for Reading Health Statistics]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/professional_picture__1___1_-removebg-preview.jpg?itok=2oNRFV78" alt="Stephen Sandelich MD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The 10-Second Rule for Reading Health Statistics</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A ten-sentence letter helped shape three decades of opioid prescribing.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p dir="ltr">I run a journal club every year built around one exercise. I hand residents four published papers, each with a genuinely defensible statistical approach, and ask two of them to debate the same paper. One is assigned to argue that the finding is meaningful. One argues it isn't. Neither is allowed to lie. They pick which numbers to lead with.</p>
-
-<p dir="ltr">That's the trick behind a lot of bad science reporting, and plenty of good science reporting too: Nobody has to fabricate anything. You choose your denominator. Take a drug that cuts your risk of a rare side effect by 50%. That sounds alarming, until you learn the baseline risk was 0.2%, and now it's 0.1%. Both numbers are correct. They tell nearly opposite stories to a reader who never asks which one they're looking at.</p>
-
-<p dir="ltr">This year's session used four papers: one on antidepressant use in pregnancy and autism risk; one on cannabis and psychosis; one on lead exposure and IQ; and one on a pediatric intervention with a far smaller effect size than the press release suggested. Each paper is legitimate work. Each has been cited, in at least one news article, in a way that would probably make its own authors wince.</p>
-
-<p dir="ltr">The session always ends the same way, with reading a letter published in the New England Journal of Medicine in 1980 (Porter and Jick, NEJM, 1980). Ten sentences long, it reported on fewer than 40,000 hospitalized patients and found low addiction rates among those given opioids for pain. That short letter got cited for decades as evidence that opioids carried minimal addiction risk in any setting, including long-term outpatient prescribing it never studied. Ten sentences helped shape a national prescribing culture. Words matter. Context matters more.</p>
-
-<p dir="ltr">Here's what I tell residents afterward: When a headline gives you a percentage, ask what baseline rate that percentage is relative to. Ask how many actual people the number represents. Then, separately, check who funded the study and what got emphasized in the abstract versus the methods section. Ten seconds: That's roughly how long it takes to ask.</p>
-
-<p dir="ltr">I don't think researchers, as a rule, set out to mislead anyone. Incentive structures reward the more dramatic number, and dramatic numbers get grants, get clicks, get cited by people who never open the methods section. Outrage won't lead to a fix but better habits will. For starters, read the methods before the abstract sticks in your head, and check what "significant" means in that specific paper, because it rarely means what a reader assumes.</p>
-
-<p dir="ltr">My residents leave this session a little more suspicious of everything, including me. Good. That's the point.</p>
-
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-adolescent-ed/202609/the-10-second-rule-for-reading-health-statistics" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-adolescent-ed/202609/the-10-second-rule-for-reading-health-statistics</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-adolescent-ed/202609/the-10-second-rule-for-reading-health-statistics</guid>
-            <dc:creator><![CDATA[Stephen Sandelich MD]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2646991799.jpg?itok=sC1DWUhT" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Reassurance Never Feels Like Enough]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/thumbnail_2021.03.28-eldemirefamily-020-removebg-preview.jpg?itok=X9ppJujP" alt="April Eldemire LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Reassurance Never Feels Like Enough</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why reassurance eases relationship anxiety briefly but rarely resolves it.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Reassurance can soothe relationship anxiety, but the relief may fade when new ambiguity appears.</li><li style="margin-bottom:6px;">Repeated reassurance-seeking may lower trust, causing the need for reassurance to grow.</li><li style="margin-bottom:6px;">Responsiveness addresses the underlying fears and helps build lasting security.</li>
-            </ul>
-          </div>
-                    <p>Your partner tells you that they love you. They assure you that they’re not going anywhere and that the distracted, distant expression on their face has nothing to do with you. You believe them, and might even feel better for a while.</p>
-<p>But then their next text seems a little clipped, or their voice sounds “different” when they say goodnight. Maybe they don’t reach for your hand on the couch the way they usually do when you sit down to partake in a Netflix binge.</p>
-
-<p>Suddenly, the reassurance that felt convincing a few hours ago doesn’t feel like enough anymore, and you catch yourself once again searching for signs that everything is still OK (or not).</p>
-<p>For people who struggle with <a href="https://www.couples-thrive.com/what-is-emotional-safety-in-a-relationshipand-why-it-matters-more-than-you-think/">insecurity</a> in relationships, reassurance does provide very real relief, but often only temporarily. Understanding why means looking beyond the <em>amount </em>of reassurance a partner provides to what actually happens next.</p>
-
-<h2>Reassurance Works, but Sometimes Only Briefly</h2>
-<p>When you’re uncertain about a very important relationship, it’s only natural to ask the other person to reassure you. Hearing “I love you” or even “we’re OK” helps quiet fear of rejection or abandonment.</p>
-<p>However, research also links excessive reassurance-seeking with deeper attachment issues. According to <a href="https://pubmed.ncbi.nlm.nih.gov/15657450/">one study</a>, researchers discovered a link between excessive reassurance-seeking and attachment anxiety. This suggests that some people really do attempt to manage insecurity within a relationship via repeated requests for confirmation.</p>
-
-<p>This is normal to some degree, but problems start when reassurance becomes a primary way someone regulates that insecurity.</p>
-<p>Additional research also <a href="https://pubmed.ncbi.nlm.nih.gov/35330852/">links reassurance-seeking</a> with lowered relationship trust. Lower relationship trust is, in turn, associated with even more reassurance-seeking, leading to behavioral loops that eventually do more harm than good.</p>
-
-<p>Here’s what you need to understand to break the cycle (or better understand a partner who may be struggling).</p>
-<h2>The Fear May Be Older Than the Relationship</h2>
-<p>Attachment anxiety stems from heightened concerns surrounding common relationship fears like rejection, abandonment, and emotional unavailability. They can develop via earlier relationship experiences, often following people into new partnerships later.</p>
-
-<p>This doesn’t necessarily mean your childhood determines your entire romantic future or that you automatically have an “attachment problem” if you need reassurance once in a while. It <em>does </em>mean that two people can potentially experience the same relationship very differently.</p>
-<p>One partner may see a quiet evening as exactly that – a quiet evening. But someone worried about abandonment might experience that same evening as evidence that their partner’s affection for them is fading.</p>
-
-<h2>Anxiety and Insecurity Can Change What You Notice</h2>
-<p>A <a href="https://pubmed.ncbi.nlm.nih.gov/25915136/">2015 study</a> published in the <em>Journal of Personality and Social Psychology</em> explored how attachment insecurity actually influences a person’s perception of their partner’s emotions in everyday life, including during conflict discussions.</p>
-<p>Researchers found that people with higher levels of attachment avoidance also overestimated the intensity of their partners’ negative emotions. Those whose perceptions leaned more negative were also more prone to defensive responses and overall hostility.</p>
-
-
-<p>In other words, when you’re already worried about the health of a relationship, ambiguous behavior can intensify those worries. A delayed reply later in the day can seem more significant than an affectionate exchange you had that same morning, or a distracted expression might outweigh multiple recent acts of care.</p>
-
-<p>This is the mind trying to make sense of uncertainty.</p>
-<h2>More Reassurance Isn’t Necessarily the Solution</h2>
-<p>Since reassurance <em>does </em>work to at least some degree, a lot of couples are tempted to simply increase the dose.</p>
-<p>“Do you still love me?”</p>
-<p>“Yes”</p>
-<p>“Are you sure?”</p>
-<p>“Yes.”</p>
-<p>“Are we OK?”</p>
-<p>“Yes.”</p>
-<p>Sound familiar?</p>
-<p>Exchanges like that might put anxiety to bed for a little while, but repeating them every time someone feels a little anxious or insecure can leave both people frustrated. One person wonders why their reassurance never seems to count, while the other struggles to understand why they keep needing it.</p>
-
-
-
-  
-
-
-<p>Of course, withholding reassurance isn’t necessarily the solution, either. People prone to anxiety over a relationship’s future generally benefit more from having a responsive partner than they do from being told to manage their feelings alone. But it’s worth drawing a distinction between reassurance and responsiveness.</p>
-
-<p>Reassurance stops at answering the immediate question – “Are we OK?” Responsiveness takes things a step further by saying, “I understand why you’re upset and care about what you’re experiencing. I’m here with you while we talk about it.”</p>
-<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7578987/">Recent research</a> suggests that people who perceive their partners as more responsive also report greater feelings of security within their relationships. This correlation was particularly important among participants with strong natural tendencies toward insecurity.</p>
-
-<h2>Building Security That Lasts Longer</h2>
-<p>Deep insecurity that eventually hurts relationships develops over time through patterns rather than a partner’s ability to word reassurance perfectly.</p>
-<p>Consistently responsive relationships eventually give both people a cache of repeated experiences where they were heard, cared for, and treated reliably. That can provide concrete evidence that’s available even when relationships go through rough patches or otherwise feel uncertain.</p>
-
-<p>For the person seeking reassurance, it can also be helpful to actively notice what happens internally between the initial fear experience and the actual request for confirmation:</p>
-<ul>
-<li>What actually happened to trigger the anxiety?</li>
-<li>What was the meaning you assigned to what happened?</li>
-<li>Are there other plausible explanations worth considering?</li>
-<li>What additional evidence from the larger relationship pattern is also worth considering?</li>
+<li>What was the best part of your day today?</li>
+<li>The hardest part?</li>
+<li>Do you have any regrets about how you handled something today?</li>
+<li>What made you smile? What surprised you? Disappointed you?</li>
+<li>What is occupying your mind?</li>
 </ul>
 
-<p>Learning to tolerate <em>some </em>level of uncertainty is also essential, as even strong relationships can’t deliver constant proof that everything is fine. Life happens, and even attentive people go through periods where they’re distracted, tired, or just plain quiet. Relationship security means being able to process some degree of ambiguity without always treating it as proof that abandonment is imminent.</p>
+<p>For more of a challenge, expand conversations to include larger life values and priorities that are deeper but also require more vulnerability. Questions like:</p>
+<ul>
+<li>If you could do anything, what would your ideal day look like? Who would be there? How could I help make it exceptional?</li>
+<li>What are you focused on in the coming year? What is on your bucket list? </li>
+<li>What’s something that’s changed about you in the last year? Five years? </li>
+<li>What gives your life purpose or meaning?</li>
+<li>What is a current world issue that you are struggling with understanding or conflicted about? Why? </li>
+<li>What matters to you most in life, and how do you express that?</li>
+</ul>
 
-<p>Those dealing with anxious partners can help by responding to the emotions underneath repeated reassurance requests, rather than simply answering again. Try “You seem worried that I’ve been distant today. Do you want to talk about what’s making you feel that way?” instead of simply repeating “Of course, I love you.”</p>
 
-<p>Occasionally, persistent insecurity stems from issues that make a relationship genuinely hard to believe in (e.g., dishonesty, emotional inconsistency, or active threats of abandonment). But when it’s coming from within, building security that lasts calls for more than hearing the right words often enough.</p>
+<p>The hardest conversations often center around your relationship. Questions like:</p>
+<ul>
+<li>What is different about being married to me than you expected?</li>
+<li>What do you appreciate the most about me as a partner? </li>
+<li>What is something you’d like me to work on?</li>
+<li>What do you wish I understood about you?</li>
+<li>What is most difficult for you when we fight?</li>
+<li>How can I be a better mate to you?</li>
+<li>What do you need to be more fulfilled in this relationship?</li>
+<li>How can we grow together and not drift apart?</li>
+</ul>
 
-<p>It grows via a consistent experience of responsiveness and reliability, as well as an ability to process uncertainty in healthy ways.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/couples-thrive/202609/why-reassurance-never-feels-like-enough" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/couples-thrive/202609/why-reassurance-never-feels-like-enough</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/couples-thrive/202609/why-reassurance-never-feels-like-enough</guid>
-            <dc:creator><![CDATA[April Eldemire LMFT]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-gustavo-fring-7447240.jpg?itok=lYZXtSFF" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Problem With Happiness]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-03/Ceranic_Salinas_Love.png.jpg?itok=uasXb7jN" alt="Tara Ceranic Salinas, Ph.D., and Ed Love Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Happiness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Problem With Happiness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why happy people can’t agree on how they got there.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Perspective is power: True lasting happiness begins with shifting your mindset.</li><li style="margin-bottom:6px;">Mastery fosters meaning: Engaging deeply in lifelong, challenging pursuits helps develop personal growth.</li><li style="margin-bottom:6px;">Connection provides purpose: Shared community creates essential frameworks for long-term fulfillment.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">If you’ve read our most recent posts, you may be concerned that this is turning into a blog about boomerangs. It’s not, we promise.* This is a blog about moral psychology and well-being. At the World Boomerang Championships this summer, Ed learned a few things from the best throwers in the world, who generally enjoyed high levels of psychological well-being to go along with their gorgeous boomerangs. </p>
-
-<p dir="ltr">In such a diverse group (11 countries represented, ages 13 to 70), it was odd to see uniformity, even around a basic trait like happiness. So, as an annoying scientist does, Ed went around asking everyone, “What is the key to lasting happiness?” Speaking in their native languages, 15 competitors responded.</p>
-
-<p dir="ltr">This wasn’t terribly scientific. But it did surface one of the problems with happiness: Everyone wants it, there are decades of research about it, but there is no consensus on how to get there. Case in point: Ask 15 people, and you'll get 15 answers that don't reduce to one. Here's what they told us, in no particular order:</p>
-
-<h2>Throw boomerangs</h2>
-<p dir="ltr">This obviously should be in the latest research.</p>
-<h2>Take charge of your perspective</h2>
-<p dir="ltr">Be <a href="https://psycnet.apa.org/record/2003-02410-012">present</a>, be <a href="https://psycnet.apa.org/record/2014-48826-003">positive</a>, and be grateful. “The simplest or most direct way to be happy is to find the right perspective” (Florin, Germany; a remarkable 15-year-old). </p>
-<p dir="ltr">Loofy, who lives in France and is from “a country called Planet Earth,” finds happiness in the moment. “Always remember the past, never have regrets, and live the present as intensely as possible. Follow the true rule of punk, which is ‘No Future.’ Never think about the future. Make the present magnificent and the future will be magnificent.” Punk, existentialist, optimist. That’s Loofy.</p>
-
-<h2>Challenge yourself and forget yourself</h2>
-<p dir="ltr">Engage with the world. Embrace challenges. Find flow. Seek mastery. <a href="https://www.mdpi.com/1660-4601/18/14/7244">Create</a>. Play.</p>
-<p dir="ltr">“Do something that is difficult enough… maybe easy to start, but difficult to master. And then you have something to do for the rest of your life. I started this boomerang thing when I was 13. And this is over 40 years ago, and I still feel like a beginner on most days” (Günther, Germany). </p>
-
-<h2>Transcendent human connection</h2>
-<p dir="ltr">Forgetting ourselves creates space for <a href="https://www.rivisteweb.it/doi/10.1482/96851">human connection</a>. Junji from Japan believes in the importance of seeing ourselves as parts of continually changing, dynamic networks of personal relationships. </p>
-<p dir="ltr">For others, it is a combination of family, friendship, and community. “For me, happiness is seeing my children flourishing” (Jérôme, France). “What is the key to happiness? It’s love. To be truly loved and to genuinely love” (Adam, UK).</p>
-
-<p dir="ltr">We also connect through culture, food, tradition, and even farming. Indian thrower Arun finds joy in festivals like Pongal, celebrated together with friends and family. “We perform prayers to the sun, asking for blessings of health, prosperity, and abundant harvests so that food will be available for everyone.” </p>
-
-<h2>Agency </h2>
-<p dir="ltr">David, a recently retired Australian thrower, reflected on personal freedom as key to happiness. For him, freedom from the need to work pointed to endless possibilities. </p>
-<p dir="ltr">For Günther, it was about freedom from judgment. “If you do not watch other people too much, and you try not to feel judged, then it's easier to be happy.” Wagner from Brazil reflected that “it is much better to assume your mistakes. It is much better to assume your responsibilities because that makes you grow.” Maybe happiness comes from judging ourselves on our own terms rather than ceding that power to others. </p>
-
-<h2>Fitness</h2>
-<p dir="ltr">Physical well-being is another path to freedom. For example, good health enables Arun to farm, which is a source of happiness in his life. For him, farming and celebrating were on interwoven strands of happiness. As the French thrower and revolutionary designer Sébastien noted, “I think the key to long-term happiness is family stability, having hobbies—like boomerangs—and maintaining good physical health.” </p>
+<h2>The Naked Truth</h2>
+<p>When couples stop trying to explore themselves and their mate, or stop getting curious about who they and their partner are becoming over time, it is much easier to disconnect from each other. Developing a mindset that sparks curiosity about your mate helps couples stay excited, connected, and interested in one another over time.</p>
 
 
 
   
 
 
-<h2>Existentialism</h2>
-<p dir="ltr">“The key to happiness is realizing you’re utterly miserable” (Matt, Australia). Crikey.</p>
-<p dir="ltr">This may seem counterintuitive, but underneath this bleakness lie profound <a href="https://researcherslinks.com/current-issues/Can-Existentialists-be-Happy/9/26/2150/html">existentialist ideas</a>. He elaborated that “Happiness is a job that must come from within. It’s an inner job essentially to achieve a modicum of happiness in view of the tragic impermanence of life.” </p>
+<p>Of course, there are ways to make this negative. If conversations feel accusatory or blaming, they will not build curiosity because a person will become less likely to share. If the information is being gathered to be used against them (e.g., “You said you were jealous, so now I can’t trust you with my deepest fantasies”), to punish them, or to control/manipulate them, it is not a safe space to be curious together. That said, if your relationship is feeling stuck, start asking questions! Maybe lead simply with that statement: “I’m feeling a little uninspired in our life right now—it feels too regimented, and I’d like to talk to you about that.” See where the conversation leads you.</p>
 
-<p dir="ltr">Many others saw a role for struggle in their philosophies of happiness as well. “It is precisely the small traumas of life that forge our character” (Wagner). It may surprise you to learn that the existentialists in our little sample were among the happiest of this happy tribe. You can find it in their philosophies if you squint just right; their acceptance of tragedy makes the experience of happiness more visible, just as a birthday candle stands out in a dark room. Loofy’s rejection of the future means that this moment is everything.</p>
-
-<p dir="ltr">More than one thrower was candid about the personal struggles they have faced, including depression, childhood trauma, and personal health struggles. Perhaps these struggles do more than offer the backdrop that makes the candles of happiness more visible. Perhaps they make the candles more precious. And when those candles are needed, these folks go out of their way to light a few themselves.</p>
-
-<p dir="ltr">To be clear, no one is suggesting trauma as a pathway to happiness. Trauma causes real and lasting suffering. Far too many people struggle with it throughout their lives. </p>
-<h2>Nonsense</h2>
-<p dir="ltr">“Always have enough <a href="http://ithesis-ir.su.ac.th/dspace/handle/123456789/3483">nonsense</a> in your head” (Klaus, Germany). </p>
-<p dir="ltr">Clearly, there is no one key to happiness. There are many proven ways to unlock that door. These boomerang champions arrived at the same end from radically different directions. The takeaway? Our paths will always look different, and comparing your journey to another's is a dead end. We think you need to choose your own way and maybe keep a little bit of nonsense in your head for good measure!</p>
-
-<p dir="ltr">*That said, the world could use another English-language boomerang blog. <a href="https://www.artboomerangclub.fr/pages/Bienvenue_sur_le_Blog_de_lArt_Boomerang_Club-6206481.html">Our favorite</a> is from France.</p>
+<p>Copyright Cortney S. Warren, Ph.D., ABPP</p>
+<p><em>Note: This content is only for informational and educational purposes and should not be considered therapy or any form of treatment. I cannot respond to personal requests for advice over the internet. Best wishes on your continued journey.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-problem-with/202609/the-problem-with-happiness" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/naked-truth/202609/stuck-in-a-relationship-rut" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-problem-with/202609/the-problem-with-happiness</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-problem-with/202609/the-problem-with-happiness</guid>
-            <dc:creator><![CDATA[Tara Ceranic Salinas, Ph.D., and Ed Love Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/naked-truth/202609/stuck-in-a-relationship-rut</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/naked-truth/202609/stuck-in-a-relationship-rut</guid>
+            <dc:creator><![CDATA[Cortney S. Warren PhD, ABPP]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/boomerangs_and_happiness.png.jpg?itok=z8-gx_Sw" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/mixmike_from_getty_images_signature.png.jpg?itok=TcUlcKMZ" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[AI and the Threat of Cognitive Inhibition]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI and the Threat of Cognitive Inhibition</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What if AI changes our propensity to think?</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Choosing Yourself Can Strengthen Bonds With Others]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/paul_dunion.png.jpg?itok=kAwl6EWy" alt="Paul J. Dunion Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Choosing Yourself Can Strengthen Bonds With Others</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How we treat ourselves is what we bring to our relationships.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">AI may actively compete with human thought by taking over cognitive work.</li><li style="margin-bottom:6px;">Repeated AI use may also change our willingness to think for ourselves.</li><li style="margin-bottom:6px;">High affinity is not the same as healthy function, for hemoglobin or cognition.</li>
+              <li style="margin-bottom:6px;">Choosing yourself means giving yourself attention and honoring your needs.</li><li style="margin-bottom:6px;">Self-neglect often hides behind helping others and can lead to burnout and confusion.</li><li style="margin-bottom:6px;">When we choose ourselves, our relationships can improve because we're modeling self-worth.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/mostafa_meraji-psychology-6809886.jpg?itok=t9koqqad" width="320" height="213" data-insert-type="image" title="Image by mostafa meraji from Pixabay" alt="Image by mostafa meraji from Pixabay"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/effing-simple-by-toni-vans-0nyflg8pr0c-unsplash.jpg?itok=X_DJWA8u" width="320" height="427" data-insert-type="image" title="Toni Vans/Unsplash" alt="Toni Vans/Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by mostafa meraji from Pixabay</div>
+<div class="insertArea--origin subtext">Source: Toni Vans/Unsplash</div>
 </div>
 </div>
 </div>
-<p>There is something I find fascinating about carbon monoxide. The gas is molecularly simple (one carbon and one oxygen), colorless, and odorless. Yet once it enters the blood, it takes on a "life" of its own by binding to hemoglobin with more than 200 times the affinity of oxygen. And interestingly, <a href="https://www.ncbi.nlm.nih.gov/books/NBK557888/">carbon monoxide poisoning </a>is generally associated with a cherry-red or pink appearance, which is an almost perverse contradiction where this toxicity can carry a color we associate with health and vitality.</p>
+<p>When I hear clients say they feel lost in their significant relationships, I get more confused looks when I reply, “You might consider choosing yourself.” Self-neglect, or not choosing yourself, is an insidious dynamic, often camouflaged by hard work and helping others. Before exploring what <em>choosing yourself</em> actually is, it might be helpful to say what it’s not. It isn’t excessive narcissism, which is the desperate search for the self, an obsession with acquiring a valued sense of self.</p>
 
-<p>It sounds like something from Gabriel García Márquez, where magical prose combines with bitter almonds, poison, and a touch of unrequited love. There is something beautiful and deceptive about the physiology, which may be why this idea has resonated with me since my days as a firefighter and paramedic. Oxygen is what the body needs, yet carbon monoxide is simply better at the binding site.</p>
+<h2>What Choosing Yourself Looks Like</h2>
+<p>Choosing yourself is similar to choosing anything. Here are some characteristics of choosing ourselves. </p>
+<ul>
+<li><em>Worth your attention</em>. Like most things we choose, when we choose ourselves, we believe we are worth our attention.</li>
+<li><em>Attending</em>. Several aspects of our character are waiting for our attention. We can consider our emotions by feeling them, naming them, and talking about them. Needs and desires also wait to be realized. We also create stories about ourselves, others, places, and things. There are actions to consider.</li>
+<li><em>Allow attention to generate intention</em>. When we give ourselves attention, we begin to intend some form of action that we likely believe will benefit us.</li>
+</ul>
 
-<p>My contention is that there's a simple yet powerful idea here. High affinity does not necessarily mean that something is good for a person or system. Lately, I have been wondering if this has something to teach us about artificial intelligence.</p>
-<h2>When AI Competes With Thought</h2>
-<p>Let's start with the idea of cognitive work. Do I do it—think about it or write it? Or do I hand it off to an LLM and get the answer in seconds? The result may often be similar, but the workflow isn't.</p>
+<h2> Signs That You're Not Choosing Yourself</h2>
+<p>Some degree of self-neglect is inevitable, especially when parenting young children or building a career. The hope is that we don’t lose so much connection with ourselves that we develop a medical condition or lose someone we love. We can experience the following signs of not choosing ourselves.</p>
 
-<p>In this context, AI seems to have an extraordinary affinity for "doing the work" for us. AI is fast and even fun. And in a biological sense, this begins to look a little like a type of <a href="https://www.britannica.com/science/competitive-inhibition">competitive inhibition</a> because AI can occupy that cognitive space where "effortful thought" once was our "cognitive oxygen." Simply put, AI competes with our brains.</p>
+<ul>
+<li><em>Burnout</em>. Severe self-neglect can deplete energy and be accompanied by poor sleep and poor nutrition. </li>
+<li><em>Confusion</em>. It’s easy to lack clarity about what you need and want, and what will truly serve you. </li>
+<li><em>Blame</em>. It can be easy to hold others responsible when we feel expended.</li>
+<li><em>A tendency to be impetuous</em>. We can overreact as we try to show confidence when we actually feel insecure. </li>
+</ul>
 
-<p>It's important to recognize that this doesn't mean that AI always diminishes cognition. I have often had the opposite experience and I expect that you have, too. My idea of <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202409/ai-and-the-emerging-role-of-iterative-intelligence">iterative intelligence</a> came from those exchanges where an answer from AI becomes the start (not end) of a power dynamic.</p>
-<h2>Something Else May Be Happening</h2>
+<h2>Choosing Yourself and Being Chosen by Others</h2>
+<p>I recently worked with George, a 48-year-old entrepreneur who felt neither chosen by his wife nor by his children. It became clear that George expected his family to choose him instead of choosing himself. He began to identify ways in which he did not choose himself. The list included diet, sleep, exercise, dental check-ups, time with friends, and not making business contacts that would likely support his work. Finally, he took responsibility for choosing himself personally and professionally. Soon, George reported that his wife seemed more affectionate and his teenage sons wanted to spend time with him.</p>
 
-<p>Carbon monoxide gives us another interesting perspective. Its effect is broader than just binding tightly to hemoglobin. Once CO is bound, it changes the structure of the hemoglobin molecule, making bound oxygen harder to release to tissues. The interaction of CO with hemoglobin affects the behavior of the larger system.</p>
+<p>Essentially, George was communicating: “I’m worth my own attention and yours.” He experienced renewed respect and involvement. He communicated to his family that he was primarily responsible for choosing himself. He put responsibility in the right place, alleviating others from having to save him.</p>
+<p>George’s story is a good example of how much building relationships with others is an inside job. Choosing ourselves is one of the only aspects of relationships that is in our control. How we treat ourselves as we relate to others is what we bring to the relationship. Our presence can be an invitation to joy, peace, and kindness, or a message that we don’t deserve such things. It doesn’t mean we need to remain on top of the world; it’s only about being honest when we feel stuck. The key is that we’re responsible for choosing ourselves, and that may require asking for help. Also, we don’t fall into excessive people-pleasing as a nonverbal contract that makes the other person responsible for choosing us. We simply commit to do our best, not to abdicate our responsibility, and to choose ourselves.</p>
 
-<p>Could it be possible that our interactions with AI begin to influence how we think? If answers are always there at our fingertips, maybe uncertainty itself finds a new and higher level of intolerance? And if well-crafted solutions arrive at the touch of a button, maybe our human cognitive path begins to feel less critical or even important. </p>
 
-<p>And yes, I'm using biology here as an analogy. I'm not suggesting some hidden receptor deep in our neuroanatomy. Still, this possibility fascinates me because the effect on us could be new—on some fundamental level. It's no longer the "quid pro quo" relationship of handing a task to a machine and getting the answer back. Noncompetitive inhibition describes how the broader and larger function of a system is altered by the battle for a receptor site. I wonder whether there's a cognitive correlate to that idea worth exploring?</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202609/choosing-yourself-can-strengthen-bonds-with-others" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202609/choosing-yourself-can-strengthen-bonds-with-others</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202609/choosing-yourself-can-strengthen-bonds-with-others</guid>
+            <dc:creator><![CDATA[Paul J Dunion Ed.D.]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/effing-simple-by-toni-vans-0nyflg8pr0c-unsplash.jpg?h=697ecdaa&amp;itok=t0gtOznr" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Be the Author of Your Own Life in the Age of AI]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Be the Author of Your Own Life in the Age of AI</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Martin Seligman on the power of agency in the AI era.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p dir="ltr">Martin Seligman, PhD, is widely regarded as the father of positive psychology, making groundbreaking discoveries in the field over the course of his rich and impactful career. As artificial intelligence (AI) takes the world by storm, Seligman’s body of work illuminates AI’s potential to significantly contribute to human progress as we’ve never before experienced, or to steal the very thing that drives humans forward, individually and collectively: <em>agency</em>. </p>
 
-<p>AI can compete with our act of thinking. But repeated interactions may do something more subtle. It may begin to change our propensity to engage in "effortful thought" in the first place. A type of cognitive inhibition.</p>
-<h2>What AI Does With Us</h2>
-<p>Maybe this is part of what makes AI "feel" different from earlier tech. A calculator adds a group of numbers, and search finds information for me to review. Both are more transactional than iterative. But an LLM can enter our thinking while the thought itself is still taking shape.</p>
+<p dir="ltr">Seligman’s latest book, <a href="https://www.simonandschuster.com/books/Agency/Martin-E-P-Seligman/9781982190644"><em>Agency: The Psychological History of Human Progress</em></a>, offers readers an in-depth look into the role agency has played in the advancement of humanity over the course of history, and how we can build our capacity for agency today.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/martinseligman_cmandy_seligman__1_.jpg?itok=d5YLk1Xm" width="320" height="214" data-insert-type="image" alt="Martin Seligman is widely regarded as the father of positive psychology." title="Mandy Seligman/Used with permission"></div>
+<div class="caption">Martin Seligman is widely regarded as the father of positive psychology.</div>
+<div class="insertArea--origin subtext">Source: Mandy Seligman/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><strong>Q: Share a bit about your background and what inspired you to write </strong><em><strong>Agency</strong></em><strong>.</strong></p>
+<p dir="ltr"><strong>Martin Seligman:</strong> In 1964, I watched an animal that had been given shocks it could not control lie down and take the next shock, even after the door to safety was left standing wide open. We called it learned helplessness, and it soon turned out that people do exactly the same thing. That single observation set the course of the next 60 years of my life, first through the study of depression and pessimism, the dark version of the phenomenon, and then through its mirror image, learned optimism, resilience, and the founding of positive psychology.</p>
+
+<p dir="ltr">For decades I was circling something I could not yet name. Late in the arc it finally came clear. Beneath helplessness and optimism alike lay one underlying dimension, and I called it agency: the conviction, and the capacity, that what you do makes a difference, that you are the author of your own life and not a spectator to it. What turned the idea into a book was a discovery I never saw coming. </p>
+
+<p dir="ltr">I set out to measure agency in the actual written record of humanity, millions of words across 3,000 years and a dozen civilizations. What I found stopped me cold. Agency is not a fixed feature of human nature. It flares up at particular moments in history, and wherever it rises, an explosion of human progress follows close behind. Where it collapses, whole civilizations stall. Agency, I became convinced, is the hidden engine of progress, and we have never needed to understand it more than we do right now.</p>
+
+<p dir="ltr"><strong>Q: How do you define agency, and how can readers cultivate it in their own lives?</strong></p>
+<p dir="ltr"><strong>MS: </strong>Agency has three parts, and the good news is that you can build every one of them. The first is efficacy, the belief that your actions can actually move the world in front of you right now. The second is optimism, the belief that you can reach your goals down the road, sometimes very far down the road. The third is imagination, the power to picture a future that does not yet exist and to see the path that gets you there. Put the three together and you have a person who envisions a better world, expects to bring it about, and acts. Take any one away and the whole engine stalls.</p>
+
+<p dir="ltr">None of this is fixed at birth. Efficacy is rebuilt the very way helplessness is reversed, by taking small, controllable actions and letting yourself notice, really notice, that your own effort changed the result. Optimism can be learned. We teach people to catch their catastrophic thoughts in the act, to argue with them the way you would argue with an unfair rival, and to find the more accurate and more hopeful reading of events. Imagination grows through prospection, the deeply human habit of traveling into the future in your mind, trying on possibilities, and rehearsing the plan.</p>
+
+<p dir="ltr">Here is the line I most want readers to carry out of the book: The people who flourish are not the ones to whom good things happen. They are the ones with a hand on the tiller.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/9781982190644_agency__1_.jpg?itok=iRy7ub3Q" width="320" height="483" data-insert-type="image" title="Simon and Schuster/Used with permission" alt="Simon and Schuster/Used with permission"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Simon and Schuster/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><strong>Q: In a time when artificial intelligence (AI) is being promoted as the future of societal progress, what have you discovered about the role of personal agency in human advancement?</strong></p>
+<p dir="ltr"><strong>MS: </strong>Here is what the record showed, and it is not what I expected. In the oldest texts, human beings are essentially puppets. Before roughly 1000 B.C.E., the gods command and mortals obey, and for century after century almost nothing changes. Then the needle jumps. In Persia, the language of human will multiplies nearly fivefold between the old hymns and the new. Across the world, in the narrow window we now call the Axial Age, people suddenly begin to speak as the authors of their own fate, and within a few generations you get the pre-Socratic philosophers, the Hebrew prophets, the Buddha, and Confucius. Progress does not march in step with intelligence. It marches in step with agency.</p>
+
+<p dir="ltr">That is the finding that matters for our moment. No innovation in history has ever come from intelligence sitting on a shelf. It comes from human beings who believed the future was theirs to shape, and who then picked up whatever tools they had and shaped it. Artificial intelligence is one of those tools, the most powerful we have ever built, and like every tool before it, it is inert without agentic people to wield it. So the real question about the future is not how smart our machines become. It is whether we remain the authors of what those machines are for.</p>
+
+<p dir="ltr"><strong>Q: With significant debate taking place the world over regarding the ethics and long-term societal value of AI, what is your take on AI in light of psychological agency and the history of human progress?</strong></p>
+<p dir="ltr"><strong>MS:</strong> I am an optimist about AI. My own history of agency was only possible because these tools let us read and measure the entire written inheritance of humanity at a scale no team of scholars could ever match. That is the good future, and it is a genuinely thrilling one.</p>
 
 
 
   
 
 
-<p>And that can happen before I have decided what I was trying to say in the first place.</p>
-<p>Of course, that can be enormously useful. There are moments when the AI's coherence sharpens and expands our own thinking. But there are also moments when I wonder if AI's answer arrives just too soon. The thought looks finished, yet my cognitive task remains somewhat jilted.</p>
+<p dir="ltr">There is also a bad future, and it is the one that keeps me up at night, because I have spent my life studying it under another name. If we hand our decisions, our judgments, and our very sense of authorship over to our machines, we will have engineered learned helplessness on a civilizational scale. The danger was never that AI becomes too powerful. The danger is that we become too passive, comfortable spectators to a future that something else has chosen for us. </p>
 
-<p>Much of the discussion around AI has focused on what the technology does FOR us. I'm becoming more interested in what happens when AI begins doing things WITH us, participating in thought while it is still emerging and influencing what comes next.</p>
-<h2>The Part We May Not See</h2>
-<p>Cognition adapts to the environment (think neuroplasticity). And AI is, without a doubt, becoming part of that environment. I don't know if repeated use produces anything that deserves the name "noncompetitive cognitive inhibition," but I think the question is worth asking.</p>
-
-<p>What if AI does more than compete with thought and begins to change our propensity to engage it?</p>
-<p>Here's my hyperbolic take-away. CO gives you that rosie look of oxygenation. And AI gives you that look of cognitive authority. But all may not be as it seems. The biology reminds us that the thing that binds most readily is not always the thing the system needs. And that's something worth thinking about.</p>
+<p dir="ltr">We are living at a hinge moment. The choice of whether to remain the authors of our own lives, and of the future we share, is being made right now, by each of us alone and by all of us together. My deepest hope is that a reader closes the book not with a theory but with a decision: to keep a hand on the tiller and to realize the future is theirs to shape. Because the most remarkable finding of a lifetime of research is exactly this: When we believe the future is up to us, it is.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202609/ai-and-the-threat-of-cognitive-inhibition" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/well-read/202609/how-to-be-the-author-of-your-own-life-in-the-age-of-ai" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202609/ai-and-the-threat-of-cognitive-inhibition</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202609/ai-and-the-threat-of-cognitive-inhibition</guid>
-            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/well-read/202609/how-to-be-the-author-of-your-own-life-in-the-age-of-ai</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202609/how-to-be-the-author-of-your-own-life-in-the-age-of-ai</guid>
+            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/mostafa_meraji-psychology-6809886.jpg?itok=rkQg99Sz" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/martinseligman_cmandy_seligman__1_.jpg?itok=OWT5Jpmb" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yes, You Too Can Fall for a Scam]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-03/bonnie_comfort.png.jpg?itok=NqhvvST2" alt="Bonnie Comfort Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Decision-Making</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Yes, You Too Can Fall for a Scam</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Scammers bypass your intelligence by targeting your emotions and trust.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Anyone can fall for a scam. Scammers rely on urgency and scare tactics to bypass your usual sense of caution.</li><li style="margin-bottom:6px;">Your social media can give scammers a way to target you.</li><li style="margin-bottom:6px;">Pause before reacting; use encryption, blocking, and two-factor authentication; limit "training" on AI.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-silverkblack-36713018.jpg?itok=jU6jeeVE" width="320" height="180" data-insert-type="image" alt="Falling for a scam can be devastating." title="Vitaly Gariev/Pexels"></div>
+<div class="caption">Falling for a scam can be devastating.</div>
+<div class="insertArea--origin subtext">Source: Vitaly Gariev/Pexels</div>
+</div>
+</div>
+</div>
+<p>All last week, I felt stupid and ashamed for being duped by a scam. I’d had an ugly argument with someone I love, and it left me demoralized and not sleeping well. So, when an email hit my inbox from Microsoft saying my subscription had been upgraded to “Premium Class,” and my credit card had been charged an extra $397, it upset me, and I took the bait.</p>
+
+<p>Usually when I get unsolicited or suspicious emails, I flag them, categorize them as scams, and report them. I’m a publicized author. My name, photos, and videos are out there, making me vulnerable to scams, some directly targeting authors, some targeting anyone with a bank account. Romance scammers send me praise on my writing and ask me to follow them. Delete, block, flag. That’s my usual response.</p>
+
+<p>But this time, I fell. If I were being charged for something I didn’t order, I wanted to correct it <em>right now</em>. Without stopping to think, I impulsively called the Microsoft number in the email. Had I been in my usual security-vigilant frame of mind, I wouldn’t have called. I would have loaded Microsoft.com into my browser, accessed my account that way, and checked it.</p>
+
+<p>When a man answered my call, a long conversation began in which he engaged me in a very tedious procedure to correct the erroneous charge. Eventually my call was “elevated” to a senior officer who said he was an FBI agent. He sent me a photo of himself over an image of his badge number. The two men were able to look at my bank accounts before alarm bells finally went off in my head, and I ended the call. </p>
+
+<p>I was lucky I came to my senses in time, but the damage was burdensome—close those bank accounts, start new ones, destroy current checks, shore up online security, contact autopay accounts with new bank account numbers. I had to verify that credit reporting agencies indeed had retained a freeze on my accounts, which I had put in place after a credit card of mine was hacked last year. The list goes on. </p>
+
+<h2>How Could I Have Been So Stupid?</h2>
+<p>Stressed and angry at myself, I’ve done some research on why someone as careful as I am takes the bait even once. According to the University of Central Florida, there are <a href="https://www.ucf.edu/cybersecurity/why-do-people-fall-for-online-scams/">three main factors</a>:</p>
+<ol>
+<li>Hackers target human emotions. They do their best to engender fear in the victim or a sense of urgency to fix a problem. They gamble on the human need to trust others.</li>
+<li>There is a situational vulnerability in the victim—the death of a loved one, a new job, information overload (e.g., a busy lifestyle with a constant stream of data to monitor).</li>
+<li>Tech or social factors: Scammers try to trick you into handing over data so they don’t have to break through firewalls. They use urgency or scare tactics to bypass your usual good sense. They can even use AI to make a fake voice call sound like your loved one. Over-sharing by you on routine social media can expose personal details they exploit.</li>
+</ol>
+
+<p>In my case, yes to all three. I felt a sense of urgency. I was already upset and not sleeping well. Posts on my social media offer information about my life.</p>
+<p>It’s a sad fact that trusting to post on social media, believing what you read/see from others, and believing you recognize a familiar voice are all enough to clean out your entire savings. And cryptocurrency is the method used to take your money without any ability to trace it or recover it.</p>
+
+<p>Fortunately, I lost no money, just time, though my self-esteem took a hit, but those intangible losses may be more valuable than money. <a href="https://www.mdpi.com/1660-4601/22/6/938">Research</a> demonstrates that the emotional cost of being hooked into a scam is significant, involving depression, self-criticism, and withdrawal. It takes support from others to recover, and a cognitive switch from self-blame to recognition that scammers are now extremely sophisticated. Software companies are constantly having to provide updates to all of us, which include new security patches. Still, you need time and self-forgiveness to recover.</p>
+
+<h2>What You Can Do to Protect Yourself</h2>
+<ol>
+<li>When you encounter an email, text, or phone call that suddenly disturbs you, and you feel the need to respond immediately, <em>don’t</em>. Instead, <em>pause</em>. Even 15 minutes. Give yourself a chance to calm down. Question whether you’re thinking clearly.</li>
+<li>Verify the source of the email/phone call by using a recognized channel to do so. In my case, I could have keyed in the Microsoft.com website to investigate.</li>
+<li>Make sure you enable two-factor identification. Take advantage of other security measures like call blocking, credit freezes, protective software, online monitoring of accounts, and password management.</li>
+<li>If you’re using AI for ideas, or personal writing, etc., toggle off that website’s ability to save your material and use it for “training.”</li>
+<li>Protect yourself by reducing your reactions to stress, by doing your best to get decent sleep, and by choosing various ways of reducing your anxiety. A tired, worried, and anxious person is more vulnerable to being scammed.</li>
+</ol>
+
+
+
+  
+
+
+<p>Finally, if you have been the victim of a scam, gather all the information you can about it and report it to the FBI Internet Crime Complaint Center (IC3). They need that information to help you and others, and there’s a complaint form you can complete. They also offer a hotline for victims over age 60: DOJ Elder Justice Hotline, 1-833-372-8311.</p>
+
+<p>And to add to feeling foolish, later that day, when I looked more closely at the photo of the FBI Badge sent to me to verify that my scammer was legit, it was a low-res image of David Duchovny’s FBI badge from <em>The X-Files.</em> Wow… </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-complexities-of-relationships/202609/yes-you-too-can-fall-for-a-scam" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-complexities-of-relationships/202609/yes-you-too-can-fall-for-a-scam</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-complexities-of-relationships/202609/yes-you-too-can-fall-for-a-scam</guid>
+            <dc:creator><![CDATA[Bonnie Comfort Ph.D.]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-silverkblack-36713018.jpg?itok=ie8rBBti" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When No Psychiatric Diagnosis Seems to Fit]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/David-Rettew2.jpg?itok=tgBP4-bO" alt="David Rettew M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When No Psychiatric Diagnosis Seems to Fit</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Tips to guide a discussion with your clinician when the diagnosis is elusive.</h2><p style="font-size:0.9em;color:#666;">Posted September 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">It's common in treatment situations that a person's assigned diagnosis doesn't seem like a good fit.</li><li style="margin-bottom:6px;">Psychiatrists may tolerate this ambiguity more readily than clients.</li><li style="margin-bottom:6px;">A good conversation between client and clinician can help resolve some of the tension in this moment.</li><li style="margin-bottom:6px;">Very often, major improvements can still occur even with diagnostic uncertainty.</li>
+            </ul>
+          </div>
+                    <p>In medicine, we try very hard to turn the symptoms that people present with into a diagnosis that can help guide optimal treatment. It’s a system that sounds great but, in reality, often falls short. Despite the approximately 300 different mental health diagnoses contained within the Diagnostic and Statistical Manual (DSM) of Mental Disorders, it is extremely common that the clinical picture a patient/client describes doesn’t fit neatly into any of them. Many of us train for years trying to learn and understand the details and nuances of all these conditions, only to find out that our patients never got the memo and come to us with a mishmash of symptoms that aren’t supposed to go together and span multiple different categories, or none at all.</p>
+
+<p>Clinicians newly out of training are often frustrated and disheartened by this situation. How come nobody looks like the textbook case I learned about? It can feel like trying to put the proverbial square peg in a round hole. Or maybe it is best just to list <em>all</em> the diagnoses that sorta apply, leaving someone with five or more different labels to wear. </p>
+
+<p>Patients and families similarly can be unsettled with a poorly fitting diagnosis. For some people, psychiatric diagnoses are soulless constructions that do more harm than good, but for others they provide an organizing framework to understand their struggles, a community of others navigating similar waters, and a comforting reassurance that caring people know what this is and what to do about it. For these folks, the use of a coarsely applied diagnosis can easily create a feeling that something is amiss, and that they are not well understood. </p>
+
+<p>I’ve come to appreciate that it is an important clinical moment when both a patient and their psychiatrist reach that point of acknowledging that none of the working diagnoses seem to fit a patient’s more complex profile. I’ve also come to learn that, quite frequently, the next step that the psychiatrist and patient want to take is exactly the opposite.</p>
+
+<p>For the psychiatrist, this can often be a moment of acceptance and acknowledgement that the human brain is very complicated and the tidy little boxes we have constructed to try and capture all the variation that exists when it comes to mental health challenges are inadequate. He or she might decide that a particular diagnosis is good enough or that a more vague diagnosis (like all those “not otherwise specified” options) will work at least for the time being while trying to help a patient and their family overcome their most pressing concerns, regardless of what we call it. This point of acknowledgment may be particularly common if the psychiatrist is convinced that the assessment and diagnostic process has been sufficiently thorough and comprehensive. </p>
+
+<p>For the patient and their family, however, this can be a moment to push the diagnostic and treatment process further, even if it means going into less-charted territory. Here, patients and families may voice that they think that “something else” is going on and request that “some tests” be performed, even if they don’t have a good idea what kind of test they want specifically or what the limits of these tests are. From the treatment side, this may be the moment of wanting to try a complementary or alternative treatment or something new and untested that they have seen online.</p>
+
+<p>Complicating the picture on the part of the patient or family might be a reluctance to challenge the authority of the clinician or a worry that expressing doubt about a diagnosis is implying a lack of quality in the care. Most clinicians, however, are happy to have this discussion and won’t take offense if asked in a respectful way.</p>
+
+
+<p>To help those who are questioning their diagnosis, here are a few suggestions to consider when having this discussion with your psychiatrist or other mental health professional. </p>
+<ol>
+<li>Be as specific as you can about your thoughts and concerns. Yes, people might feel a little sheepish admitting that the reason they are wondering about a specific test or diagnosis is that they saw something on TikTok, but having details can really help focus the discussion in a positive way.</li>
+<li>Think through both the potential positive and negative aspects of getting a new diagnosis. While some diagnoses can open the door for more services or accommodations, they can come at the price of increased stigma or, for diagnoses like borderline personality disorder, poorer medical care. Other diagnoses, like autism or bipolar disorder, can limit a person’s ability to, for example, join the military or fly a plane. I’ve been doing this long enough to see families push hard <em>for </em>a specific diagnosis when their child is younger, only to push hard <em>to remove</em> the diagnosis later. This can be difficult to justify.</li>
+<li>Focus on whether or not a diagnosis switch really changes anything. Sometimes a different diagnosis has major implications for things like medications; other times almost nothing different would happen from a practical standpoint. It may still be worthwhile to make a change, but sometimes patients and families are expecting much more from a diagnosis change than what actually occurs.</li>
+</ol>
+
+<p>If after this discussion you still feel unsatisfied, it is fine to ask for a second opinion. These may be hard to find (and pay for), but often some avenues exist. If you do go for a second opinion, keep in mind that many self-declared experts in certain diagnoses tend to make that diagnosis <em>a lot</em> (remember the saying, "To a hammer, everything looks like a nail"), so these folks may not be your best source for an objective consultation. Relatedly, a new diagnosis doesn’t necessarily mean it is the correct one and that the original diagnosis is wrong. In mental health, there is just more subjectivity and clinical judgement that goes into making diagnoses compared to other areas of medicine.</p>
+
+
+
+  
+
+
+<p>Getting the most accurate diagnosis is important when it comes to mental health care. While it is unusual that the ordering of uncommon tests or procedures yields dramatic insights into a person’s diagnosis or treatment plan, exceptions do occur. In many instances, however, major improvements and gains can be made with a good comprehensive treatment approach even if the diagnosis is somewhat vague or uncertain.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/abcs-of-child-psychiatry/202609/when-no-psychiatric-diagnosis-seems-to-fit" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/abcs-of-child-psychiatry/202609/when-no-psychiatric-diagnosis-seems-to-fit</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/abcs-of-child-psychiatry/202609/when-no-psychiatric-diagnosis-seems-to-fit</guid>
+            <dc:creator><![CDATA[David Rettew M.D.]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/aberrantrealities-maze-8436667.jpg?itok=KGrFZhhp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
