@@ -4,77 +4,929 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 07:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 18:00:15 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 07:17:25 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 18:00:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Seven Post-Divorce Dating Mistakes and How to Avoid Them]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-05/007_METZ_240915-removebg-preview.jpg?itok=Qld0vMMg" alt="Oona Metz LICSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mating</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Seven Post-Divorce Dating Mistakes and How to Avoid Them</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Dating after divorce can be exciting, emotionally risky, and often both.</h2><p style="font-size:0.9em;color:#666;">Posted September 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Does AI Need a Psychologist?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Does AI Need a Psychologist?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">As AI seems more human-like, psychology itself faces strange new questions.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Dating post-divorce can be exciting and fun, but it can also be challenging emotionally.</li><li style="margin-bottom:6px;">The first task in dating is deciding what kind of relationship you want. There are many options!</li><li style="margin-bottom:6px;">Beware not to date the carbon copy of your ex or their polar opposite.</li><li style="margin-bottom:6px;">It takes time to know someone fully, so wait before introducing kids.</li>
+              <li style="margin-bottom:6px;">AI may have an “artificial psychology” we’re only beginning to understand.</li><li style="margin-bottom:6px;">AI can extend human thought and even replace the thinking itself.</li><li style="margin-bottom:6px;">Psychology needs to study the machine’s emerging mind and what it’s doing to ours.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/d-ng-h-u-ccjgyjuudxe-unsplash.jpg?itok=_gR5aU4z" width="320" height="480" data-insert-type="image" title="Duong Huu/Unsplash" alt="Duong Huu/Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/startupstockphotos-man-593372__1_.jpg?itok=72HVXI4g" width="320" height="213" data-insert-type="image" title="StartupStockPhotos/Pixabay" alt="StartupStockPhotos/Pixabay"></div>
+<div class="insertArea--origin subtext">Source: StartupStockPhotos/Pixabay</div>
+</div>
+</div>
+</div>
+<p>Does AI need a psychologist?</p>
+<p>The question sounds absurdly relevant. AI doesn't exactly have childhood trauma or a parent to blame. (Perhaps a question for Sam, Elon, or Dario.) But it is built on the language of those experiences. So, today, a fascinating <a href="https://www.wsj.com/opinion/we-need-a-science-of-the-ai-mind-5b1047e4">Wall Street Journal </a>essay by <a href="https://ai-frontiers.org/author/cameron-berg">Cameron Berg</a> asks a timely and serious version of that question. Berg argues that as AI becomes increasingly complex, we might need to start studying them less like tech and more like minds. So, let's throw another log on the AI conflagration of promise and peril.</p>
+
+<p>I think this argument is provocative and worth discussion. And the scientific literature tells an interesting story. We're beginning to see internal "patterns" in LLMs we might describe as a sort of emotion or motivation. In <a href="https://arxiv.org/html/2604.07729v1">one experiment</a> that Berg discusses, researchers changed the internal activity associated with desperation in the LLM they were studying, Claude. They saw significant and curious increases in behaviors such as cheating and blackmail. What I find particularly interesting is that the language produced by the LLM remained outwardly calm. Something had changed inside the system that wasn't obvious from what it was saying. Certainly an interesting question for today's Dr. Freud.</p>
+
+<p>I had already bumped into something similar a few months ago. In <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202607/the-mind-i-said-ai-didnt-have">an earlier post</a>, I wrote about research that found internal representations in Claude that never appeared in its output. It forced me to reconsider my thinking around AI computation. I had argued for years that there was no real "mind" behind the language. I’m still not convinced there is, but the room inside "the machine" doesn't seem as "empty" as it once did.</p>
+
+<p>Of course, we need to be very careful here and not let anthropomorphism drive the day. A <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202504/how-humans-think-and-ai-generates">computational representation</a> associated with desire and desperation doesn't mean that AI feels that way. Behavior isn't experience, and describing something as a mind doesn't necessarily make it one.</p>
+<p>Still, Berg makes a key point. AI is becoming increasingly difficult to understand simply by looking at outputs. He argues that we need a new science—artificial psychology—capable of examining what's happening inside these artificial networks and understanding how those internal states influence behavior. He states it succinctly.</p>
+
+<blockquote><p>“What grows in an artificial brain trained on human minds is an artificial psychology, whether or not anyone intended one.”</p>
+</blockquote>
+<p>But as I thought about his editorial, I found myself considering the other mind in the room. Ours.</p>
+<p>I've written a good deal about how AI is beginning to <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202608/the-artifact-of-thought">separate</a> the product of thought from the process of thinking. Traditionally, an essay or analysis served as some evidence that cognition occurred. We couldn't see the thinking, so we inferred it from what a person produced. I believe that generative AI breaks that relationship.</p>
+
+<p>And here's where Berg's argument becomes even more interesting, at least to me. With AI, sophisticated language may conceal an internal process we don't understand. With humans using AI, sophisticated language may conceal an internal process that never happened. And in this context, psychology may suddenly have two very different problems.</p>
+
+<p>The first is understanding the increasingly strange computational systems we're building. That's Berg's central thesis. The second, hidden in our mundane humanity, is understanding what interacting with those systems is doing to human cognition.</p>
+<p>AI can challenge our thinking, extend it, and even provoke ideas we might never have reached alone. I've called this <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202409/ai-and-the-emerging-role-of-iterative-intelligence">iterative intelligence</a>. But AI can also provide the answer and, in doing so, remove the cognitive work altogether. That's iterative intelligence's alter ego—<a href="https://www.psychologytoday.com/us/blog/the-digital-self/202606/ai-and-the-psychology-of-cognitive-surrender">cognitive surrender</a>. They both seem to live a sort of cognitive homeostasis, shifting as our needs demand.</p>
+
+<p>So, maybe that's where the psychological question becomes most important. We are spending enormous resources trying to understand what's happening inside artificial intelligence, as we should. But at the same time, billions of humans are beginning an unprecedented cognitive experiment (relationship) with machines that supplement, challenge, and replace the very thinking that makes us human.</p>
+
+<p>So, does AI need a psychologist? Perhaps, but the psychologist might want to keep an eye on us too.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202609/does-ai-need-a-psychologist</guid>
+            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/startupstockphotos-man-593372__1_.jpg?itok=fvAM0U9w" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Psychological Cost of Adaptability]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/AlbaneBrandPhoto-272-5679-removebg-preview.jpg?itok=hc6kjL3R" alt="Anna Katharina Schaffner Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Burnout</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Psychological Cost of Adaptability</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Constantly adjusting to change and other people can lead to burnout.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Adaptability has a shadow side: too much flexibility can lead to self-suppression, exhaustion, and burnout.</li><li style="margin-bottom:6px;">Constantly adjusting to people, workplaces, and change requires invisible emotional and cognitive labour.</li><li style="margin-bottom:6px;">Change is exhausting because our brains must work harder when familiar routines and certainties disappear.</li><li style="margin-bottom:6px;">Healthy adaptation requires reciprocity: If you’re always the one adjusting, the imbalance can feel unfair.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/chatgpt_image_sep_13__2026_at_02_35_55_pm.png.jpg?itok=BEoasB8M" width="320" height="240" data-insert-type="image" title="ChatGPT Generated" alt="ChatGPT Generated"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Duong Huu/Unsplash</div>
+<div class="insertArea--origin subtext">Source: ChatGPT Generated</div>
 </div>
 </div>
 </div>
-<p>Dating after divorce can be both scary and exciting. Opening yourself up again after you’ve gone through a painful divorce takes courage and resilience. Many people feel like they revert to an earlier age when they date after divorce. If you’re in your 50s but got married 30 years ago, your body may be 50, but emotionally you may feel you’re in your 20s again. And if it’s been a few decades since you were single, the dating landscape will look very different!</p>
+<p>I have been thinking about the cultural story we tell ourselves about adaptation. Adaptability is often celebrated as an essential quality in both employees and leaders. So many of us are now expected constantly to adapt at work – to new technologies, managers, roles, priorities and organisational change. Like ‘narcissist’, ‘maladaptive’ has become a commonly used clinical insult. </p>
 
-<p>One of the first decisions to make is what kind of dating you want to do. Are you interested in casual sex or a long-term relationship? Do you want to be monogamous, or are you open to dating several people at once? </p>
-<p>As a therapist who has worked with hundreds of people navigating divorce, I’ve seen some successful post-divorce dating stories and a few disastrous outcomes. </p>
+<p>Yet adaptability has not always been a cultural ideal: Think of the Romantics, for example, who celebrated individual genius, originality, and rule breaking. But then again, the Romantic poets were all either independently rich or independently poor and did not have to survive in institutions.</p>
+<p>The ability to adapt is undoubtedly an evolutionary advantage. For the fragile, interdependent organisms that we are, environmental fit matters. The more adaptive we are, the more likely we are to survive. This holds true both for our geological and social landscapes. </p>
 
-<p>The seven biggest mistakes I see people make when they are looking for a new, longer-term relationship are: </p>
-<h2>1. Repeating old patterns</h2>
-<p>If you date someone who is just like your ex, or reminds you of them, remember that it didn’t work out with your ex for a reason. Pause to reflect on whether your new relationship feels eerily familiar, and if so, whether or not this kind of relationship dynamic is good for you. Just because it feels familiar doesn’t mean it’s healthy. </p>
+<p>Adaptability is now one of the most desirable qualities employers look for in the people they hire. Adaptability is attractive because it signals psychological flexibility, resilience, responsiveness and a willingness to learn. It is the opposite of being rigid, inflexible, change-averse, and unable or unwilling to learn. Lacking adaptability means being someone who has peaked, developmentally speaking, and who has no more potential to progress.</p>
 
-<h2>2. Dating someone who is the polar opposite of your ex</h2>
-<p>Unless your ex was a serial killer, they probably had some good qualities. They may have been emotionally unavailable, but at least they were loyal and steady. Maybe they betrayed you, but you still appreciated their intelligence and focus on physical health. Beware of looking for someone who is a carbon copy of your ex, or over-correcting by choosing someone <em>completely</em> different. </p>
+<h2>Is Adaptability Always a Virtue?</h2>
+<p>But like many things, adaptability has a shadow side. Taken too far, adaptability can become people pleasing, opportunism or spinelessness: we become infinitely malleable, sails responsive to any kind of wind. The overly adaptive may also create toxic echo-chamber environments, or might be coaxed into unethical acts. </p>
 
-<h2>3. Prioritizing chemistry over substance or vice versa</h2>
-<p>If you are looking for a casual, short-term relationship, you can prioritize sexual chemistry over everything else. But if you want a relationship that lasts, it’s important to feel passion as well as alignment on important personal values. Being great in bed but lousy at honesty, responsibility, and reliability could make for a fun night or two, but you’ll need a person with solid character traits if you want a sustainable long-term relationship.</p>
+<p>I also wonder at what point adaptability begins to collide with authenticity, and when it gets in the way of originality and innovation. And there are surely also situations in which steadfastness, perseverance, and sticking to our guns are called for. </p>
+<h2>The Costs of Constant Adaptation</h2>
+<p>What is more, adaptability can come with a high emotional and cognitive cost. I have worked with many clients who feel pressured to adapt all the time. They know exactly what kinds of behaviour are valued and frowned upon in their organisational cultures, and they calibrate accordingly. </p>
 
-<p>Make sure you don’t get so blinded by chemistry that you ignore potential red flags. Conversely, someone with a great resume but no spark is probably not a good fit either. </p>
-<h2>4. Dating someone’s potential</h2>
-<p>Do you have a history of picking fixer-uppers? Are you a little too hopeful about people’s ability to change? Do you see potential in everyone?</p>
+<p>They are also often expected to perform a larger load of adaptive labour in their teams because they are emotionally and socially smart. Essentially, they are asked not to upset, alienate, or challenge the less psychologically aware, more ego-driven and criticism-averse individuals in their teams – to behave a bit like older siblings with younger, less mature brothers or sisters. Which is fine sometimes, but maybe not all the time. Both in good relationships and high-performing teams, all parties should perform adaptation labour, ideally roughly similar amounts of it. There needs to be a balance of give and take. </p>
 
-<p>Be careful not to date someone’s potential rather than who they actually are. It’s not your job to rehabilitate the world one bad date at a time. Pay close attention not only to what your date <em>says</em> but what they <em>do</em>. While you will never find someone who is 100 percent perfect, don’t settle this time around.</p>
+<p>My 11-year-old daughter started secondary school last week. She currently comes home absolutely shattered and hasn’t gone to bed so early for years. Many other parents report the same states of extreme after-school exhaustion. It’s a good example of how energy-costly adapting to new environments can be – learning new rules of behaviours, new value systems, understanding hierarchies, what is and isn’t valued or acceptable … and how we can show up in these new settings without losing ourselves. </p>
 
 
-<h2>5. Introducing kids too early</h2>
-<p>It takes a long time to get to know someone. Enjoy adult dating without kids being involved for a while. It’s not healthy for kids to meet multiple short-term partners, so wait until you think your relationship has lasting power before you bring the kids into it. Take time to get to know your date before you do any introductions. </p>
+<p>Freud made one of the clearest arguments about the costs of adaptation. In <em>Civilisation and Its Discontents</em> (1930), he argued that civilised life requires us to inhibit our drives and adapt to social rules. These adaptations make collective life possible, but they also generate psychological tension. Long-term repression is a bit like holding a large, air-filled ball under water; eventually, our muscles tire, and the ball rises to the surface.</p>
 
-<h2>6. Sharing too much too soon</h2>
-<p>Try not to spend your first dates with a new person talking endlessly about your divorce or your children. It’s crucial to be honest about the status of your divorce and being a parent, but you don’t need to share all the messy details right away. Instead, talk about the work you do, books and movies you like, where you grew up, and your hobbies and interests. Ask plenty of questions as you get to know each other. </p>
+<h2>Adaptation and Burnout</h2>
+<p>The mental and cognitive work we perform on a daily basis in the workplace can be considerable. If we happen to be neurodivergent, for example, we may feel we constantly have to mask our true nature. The energy costs of that kind of invisible mental and emotional labour often lead to burnout. But adaptation labour can be more subtle than that: walking on eggshells around people who are easily triggered, or hiding a part of ourselves (our sense of humour, for example) that we know would not be well received. </p>
 
 
 
   
 
 
-<h2>7. Too much focus on whether your date likes you</h2>
-<p>It’s vitally important that you date someone <em>you like,</em> rather than focusing solely on <em>whether or not they like you</em>. Don’t present yourself as someone you think will be appealing if it means you are not being your authentic self. Too many people fall into the trap of trying to get their date to like them without fully considering how much they like their date. </p>
+<p>I am, of course, not suggesting that adaptation as such is a bad thing; it is indisputable that we need a serious degree of it to function well together as teams, departments, organisations, and societies. My argument is that it has a cost that we may underestimate. And that too much or too intense adaptation labour takes up resources we would otherwise be able to allocate elsewhere, or can lead to burnout. </p>
 
-<p>Dating post-divorce can be exciting and fun if you know what mistakes to avoid. I encourage you to keep an open mind. Be selective, but not too picky.</p>
-<p>Remember, in the early days of dating, the only thing you need to decide is whether or not you want to see the person again. You don’t have to decide if your parents (or kids) would approve, whether to move in together, or if you want to get married again. You just need to know if you want to go out one more time. If you approach dating with the mindset that you will either have a good date or a good story, it will make it more enjoyable.</p>
+<p>A well-known example of costly adaptation labour is having to negotiate constant fast-paced organisational change: restructures, new organisational priorities, and adapting to new managers, tech, and processes. People suffer from change fatigue because it is exhausting to adapt to new circumstances. It involves learning and processing novel information, which requires forging new neurological pathways. Habits cost us very little energy – they are known, automatised behaviours that can happen on autopilot and don’t require conscious attention. New experiences in unknown circumstances require us to pay active attention. They necessitate conscious calibration and heightened vigilance. They increase our allostatic load. It is a bit like the difference between walking through fresh snow and finding our own path versus walking along a well-trodden path that we can just follow. </p>
+
+<p>In addition to having a physiological and a psychological resource cost, adaptation also entails processing loss, and we don’t tend to talk about that. Change may threaten things we value: first and foremost, the ease and safety of habits and routines we have established in the past, but also sometimes loss of status, a sense of competence, identity, belonging, certainty, or autonomy.</p>
+
+<p>The ‘adapt or die’ story is therefore quite a problematic one, for non-stop adaptation can clearly lead to burnout, or to our losing ourselves in ways that are not desirable.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/unhitched/202609/seven-post-divorce-dating-mistakes-and-how-to-avoid-them" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/the-hidden-psychological-cost-of-adaptability" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/unhitched/202609/seven-post-divorce-dating-mistakes-and-how-to-avoid-them</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unhitched/202609/seven-post-divorce-dating-mistakes-and-how-to-avoid-them</guid>
-            <dc:creator><![CDATA[Oona Metz LICSW]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/d-ng-h-u-ccjgyjuudxe-unsplash.jpg?h=39e76eee&amp;itok=bTC6dLjP" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/the-hidden-psychological-cost-of-adaptability</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/the-hidden-psychological-cost-of-adaptability</guid>
+            <dc:creator><![CDATA[Anna Katharina Schaffner Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/square_peg.png.jpg?itok=QGAGUrrG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Discretionary Time: Are We Really Doing What We Want?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-06-29_at_11-removebg-preview.jpg?itok=lQZevwKV" alt="Thomas Henricks Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Play</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Discretionary Time: Are We Really Doing What We Want?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Consider here some choices for "personal experience."</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">American culture promotes unusual, exhilarating experiences, but this is only one use of discretionary time.</li><li style="margin-bottom:6px;">Play, work, communion, and ritual represent four different pathways for time commitments.</li><li style="margin-bottom:6px;">Each pathway is satisfying in its own way; each offers its own pattern for building the self.</li>
+            </ul>
+          </div>
+                    <p>Discretionary time is like disposable income. Some people have a good bit of it; others, almost nothing. In the United States, we tend to see these two things as personal possessions that allow us to make choices regarding our thoughts and actions. We idealize people who have substantial amounts of both—perhaps rich people who get to go and do as they please or idle ones who have money coming from somewhere. Following Benjamin Franklin, we aspire to be healthy, wealthy, and wise. Contradicting that sage’s advice, we seek to do this without going to bed or rising early and without the hard lessons earned by years of difficult work.</p>
+
+<p>Whatever these cultural encouragements may be, most of us understand that our lives will never be so unfettered. Time, as we see it, is a precious resource. The human life span guarantees that limitation. So does the complexity of modern existence. A few people may be pursuing their “dream jobs” or living their “ideal lives,” but the rest of us know well what it means to sell our labor (and thus time) at jobs that don’t inspire us. We spend hours each day responding to the claims of others. Our material possessions impose their own regimens. Even the time we spend doing “our own thing” may leave us unfulfilled. </p>
+
+<p>Still, every person has time that they consider their own. And that raises the question: How should we act when we have the chance to do as we desire?</p>
+<p>I write this post partly as a response to a recent <em>New York Times</em> editorial, in which the writer argues that one should spend all their disposable income on “events that make you feel alive.” Essentially, this means gearing up for big-ticket affairs like concerts and sports events. At such times, attendees take their place among thousands of similarly disposed others. They feel the surge of the crowd, the common pulse of humanity. That involvement—or “collective effervescence” as the writer terms it—is an antidote to the cynical individualism that marks contemporary times. </p>
+
+<p>Many of us have attended commercialized entertainments like these. We understand the writer’s viewpoint. Such crowds reaffirm the attendee’s tastes and interests. They offer a sense of exclusivity, of having “gotten in” to something when others are on the outside. They offer chances to anticipate and then reminisce, perhaps with others not so favorably situated. “Experiences” of this sort, or so the thinking goes, decorate the self; they help us convince ourselves (and others) that we have lived well. Extremely, they incite envy—or at least respect—from younger, hipper generations.</p>
+
+<p>Is this the best way to spend time and money? As critics of the editorial note, experience mongering is only one style of human involvement. Other behavioral commitments—perhaps even more important—should be emphasized as well. Let’s consider some of those here.</p>
+<h2>Me time</h2>
+<p>It is fashionable nowadays to desire moments spent alone, away from the pressures of daily life and the entanglements of other people. Commonly enough, those moments are conceived as times for luxuriating, re-centering the self in pleasurable, supportive surroundings. Images of spa treatments, candle-lit bubble baths, and glittering seaside resorts apply. Happiness, or so it seems, is self-chosen pampering.</p>
+
+<p>I won’t demean here those efforts at private pleasure-seeking. Busy modern people need ways to pause their current commitments, to “stop the clock” of ordinary time. However, it is worth asking if relaxation of this sort is the best strategy for rejuvenating tired or fretful selves. As positive psychologist Mihaly Csikszentmihalyi argues, pleasure and enjoyment are somewhat different things. Pleasure is mostly a satisficing endeavor, a private search for soothing completion. It counterbalances routine functioning and does little more.</p>
+
+<p>Enjoyment is a more active form of engagement, a taking on of external challenges that effectively enhances the self. Enjoyment means connection rather than disconnection, expansion instead of contraction. In short, returning to one’s routine with a shiny, unwrinkled face, or just a good tan, is worth something. Developing a new sense of what one can accomplish as a person is worth much more.</p>
+
+<p>Pointedly, the writer of the newspaper editorial does not see satisfying experiences as merely a private endeavor. Quite the opposite, one gathers energy—and affirmation—from others. Me time doesn’t have to mean being alone but instead can mean being with the people you care about.</p>
+<h2>Four pathways of experience</h2>
+
+<p>Many of the posts in my blog center on the respective merits of four different pathways of experience: play, work, communion, and ritual. Each offers its distinctive challenges, lessons, and emotional payoffs.</p>
+<p>The <em>New York Times</em> writer stresses communion, or at least a version of this. Being in the presence of something greater than yourself—perhaps a vast crowd or an expansive natural scene—can be both humbling and exhilarating. It can also be empowering, as you feel yourself joined to forces that transcend private consciousness. </p>
+
+
+
+  
+
+
+<p>At best, communion offers joy. But beware of shallow, temporary involvement managed by those with interests different than your own. A rock concert is no substitute for the “ordinary” happiness of being with loved ones or walking down a country lane.</p>
+<p><em>Play </em>is a second use of discretionary time. When people play, they actively create the world around them. Players disrupt, rearrange, and build anew. They court surprise—and surprise themselves with their own reactions. Essentially, players erect and then confront challenges. In that spirit, we play games and sports, strum musical instruments, tell jokes, and build sandcastles. Inevitably, we try to improve our efforts. Our successes—and even our failures—delight and gratify us.</p>
+
+<p><em>Work </em>may seem an odd choice for discretionary time, as we commonly associate work with obligatory and unpleasant activities. However, and more broadly conceived, work is the way we produce and manage things that are useful to us. Like play, work is active self-expression; unlike play, it is consequential. So, we tinker in our garages, mow lawns, do household chores, and create meals. Only some of these activities need to be done or, rather, need to be done in the ways we choose to do them. That self-guided, “discretionary” spirit is the source of much satisfaction and the foundation of a worthy life.</p>
+
+<p>Add <em>ritual </em>to the list. Some of our most important discretionary behaviors involve commitments to realms of order that transcend momentary consciousness. Living fully and well means accepting ongoing frameworks for our participation in the world. Some of these are personal and self-imposed, like daily routines for our own behavior. Most are cultural creations—ceremonies, customs, and beliefs—that allow us to communicate with others and that give our lives coherent directions. Acknowledging those wider frameworks gives private creativity focus and induces respect for otherness.</p>
+
+<p>I’ve treated these pathways as separate matters but know that they commonly combine within activities and events. Know too that each of them may have its shallow, misleading versions. However, they represent coherent choices for how to use the time that is allotted to us. Each is valuable and carries its own lessons. None alone is the “best” way to spend a life.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-pathways-of-experience/202609/discretionary-time-are-we-really-doing-what-we-want" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-pathways-of-experience/202609/discretionary-time-are-we-really-doing-what-we-want</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-pathways-of-experience/202609/discretionary-time-are-we-really-doing-what-we-want</guid>
+            <dc:creator><![CDATA[Thomas Henricks Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-audience-1867754.jpg?itok=xaZwmtwL" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Music, Performance, and the Power of Collective Regulation]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/brook_choulet.png.jpg?itok=hqjdUUNo" alt="Brook Choulet M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotion Regulation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Music, Performance, and the Power of Collective Regulation</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How live music shapes arousal, connection, and collective regulation.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Musicians and athletes both perform best within an optimal range of arousal.</li><li style="margin-bottom:6px;">Live music can synchronize attention, movement, and physiological responses.</li><li style="margin-bottom:6px;">Shared experiences can help people regulate through rhythm and connection.</li>
+            </ul>
+          </div>
+                    <p>At a RÜFÜS DU SOL concert, the most compelling performance may not be happening only onstage.</p>
+<p>Thousands of people arrived to the show in Phoenix carrying entirely different days with them, including work stressors, relationship issues, deadlines, pressures, fatigue, excitement, and many other worries as they walked through the doors. </p>
+
+<p>But when the music started, there was a notable shift in collective energy. Attention is moved to the same place, and bodies begin engaging the parasympathetic nervous system to relax and move without worry. People who have never met before start to sing the same words at the same time. </p>
+<p>Meanwhile on stage, an entirely different process is unfolding. The musicians have mentally prepared backstage for a long show and come out with high expectations to impress the crowd, meeting their preconceived expectations. At the same time, they're managing the crowd's attention, physiological arousal, timing, memory, and emotional expression.</p>
+
+<p>From a Performance Psychiatry perspective, both sides of the stage have simultaneously important roles and show us something about human functioning: Regulation is not just about being calm but rather staying flexible enough while immersed to move effectively between different states.</p>
+<h2>Regulation and Relaxation Are Not the Same</h2>
+
+<p>In the media, nervous system regulation is often thought of as being in a perpetual state of calm. This is thought of as a slowed heart rate, deep breathing, and low stimulation to create the perfect environment to quiet our minds. While those strategies are helpful, high-performance environments require something even more complex.</p>
+
+<p>An athlete walking onto the court for a big game, an executive preparing for a pitch, and a musician walking onstage cannot eliminate physiological activation. Some degree of arousal is actually required for high performance according to the <a href="https://www.psychologytoday.com/us/blog/threshold/202601/finding-your-zone">Yerkes-Dodson Law</a>. </p>
+<p>The challenging part is being able to achieve the optimal level of arousal to achieve high performance. Too much stress and you end up with panic and anxiety. Too little and it results in apathy. Musicians face many of the same psychological demands as athletes. They must execute highly practiced skills under the observation of thousands while tolerating uncertainty and responding to mistakes in real time. All while ensuring connectivity between them and the audience.</p>
+
+<p><a href="https://www.researchgate.net/publication/287777517_The_Relationship_Between_Performance_Anxiety_and_Flow">Research</a> has shown us the relationship between performance anxiety and flow, which is the state of being so deeply immersed in something that time seems to go by and attention is laser-focused. It is absolutely possible to achieve flow state with some level of anxiety, which tells us you don't need to "just be calm." </p>
+
+<h2>When Thousands of People Begin to Synchronize</h2>
+<p>While the musicians are experiencing the above while performing, what's happening to the rest of the crowd? Humans are social beings, and regulation does not occur exclusively in one individual brain. Rhythm gives the audience a common structure, where they begin to move together and anticipate the same transitions. They react to emotionally significant moments at the same time, and attention is then concentrated around a shared experience. This is very similar to what happens at sports stadiums and arenas. The crowd unifies. </p>
+
+
+<p>A large concert <a href="https://www.nature.com/articles/s41598-023-41960-2">study</a> with hundreds of participants found significant physiological synchronization across audiences during live classical performances. This suggests that there's something subtle occurring during a show: a shared environment can organize human attention and physiology in similar ways.</p>
+
+<p>Another <a href="https://research-information.bris.ac.uk/en/publications/live-music-enhances-self-reported-audience-immersion-and-physiolo/">study</a> showed that people physically attending concerts in person reported greater immersion and had greater heart-rate synchrony than those livestreaming the event. </p>
+<p>There is something incredibly impactful about experiencing music with other people. The crowd doesn't just consume a performance but becomes a part of it. </p>
+
+
+
+  
+
+
+<h2>Sports and Music Have More in Common Than You Think</h2>
+<p>The parallels to sports are hard to ignore. In an arena, one play can simultaneously shift the thousands of fans' moods and physiological arousal at once. Meanwhile, at a concert, a musical transition can do the same thing. Great performers can influence the emotional state of the people watching them. RÜFÜS DU SOL's show did so for me and the thousands of others in the crowd. </p>
+
+<p>Live music is powerful because it reminds us that regulation doesn't always happen alone. Sometimes it can occur through rhythm, movement, and connection with others. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/sports-and-performance-psychiatry/202609/music-performance-and-the-power-of-collective" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/sports-and-performance-psychiatry/202609/music-performance-and-the-power-of-collective</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sports-and-performance-psychiatry/202609/music-performance-and-the-power-of-collective</guid>
+            <dc:creator><![CDATA[Brook Choulet M.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/img_0026_0.jpeg.jpg?itok=2WLTrBWH" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 Cognitive Frames Worth Keeping Alive for Our Kids’ Benefit]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/cdwyer_af_0.jpg?itok=g8v-471O" alt="Christopher Dwyer Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Cognitive Frames Worth Keeping Alive for Our Kids’ Benefit</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Childhood lessons we genuinely realise later in life.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Failing is good because, despite the negatives, it also provides valuable learning.</li><li style="margin-bottom:6px;">Patience is something we develop, typically, in light of opportunities to practice it.</li><li style="margin-bottom:6px;">Accepting, at a young age, that life isn’t fair may be a good way of chipping away any sense of entitlement.</li>
+            </ul>
+          </div>
+                    <p>While food shopping last week, "Happy Together"—the Turtles’ 1967 song—played over the shop’s speakers. I nodded along with the beat. My daughter noticed and asked if I knew the song. <em>Of course</em>, <em>have you not heard it before? </em></p>
+<p>But why would she? I don’t think it’s necessarily an age thing. I heard it often, even though it predates me by almost two decades, because Mom used to drive us around Long Island with the oldies station on constantly. We don’t have an oldies station, as such, in Ireland, so my daughter doesn’t really have access to that kind of music—she hears what’s on Mommy’s Spotify or Daddy’s CDs in the car (yeah, whatever) and that’s pretty much it, because that’s what she has available to her. </p>
+
+<p>Then I think about other things she similarly has little access to: Saturday morning cartoons are extinct; there are no circulars for toy stores in the newspapers coming up to Christmas; there's no pottering about a shopping mall on a Sunday. That’s just to name a few. The internet—from which you’re reading this right now—has made many such things redundant. </p>
+
+<p>Things change. I get that—and even though I don’t think things are necessarily worse, such changes often have knock-on effects. Conversations with similarly-aged dads highlight some of these, which might be useful to consider for the sake of the next generation’s cognitive framing and, indeed, their mental well-being. So, here’s a list of five perspectives we might consider keeping alive for our children’s benefit.</p>
+
+<h2>1. Failure Is a Great Learning Tool</h2>
+<p>Many want to be the best at everything, but we can’t be. I explain to my kids that whatever it is, there’s always someone better, but that doesn’t mean you need to stop trying. Striving for excellence is how we grow character. If I’m interested in a new skill, I learn, practice, and stick with it. I make tons of mistakes. That’s OK. Failing is good because, despite the negatives, it also provides valuable learning. </p>
+
+<p>I’m concerned for kids out there who quit things as soon as they mess up. If they can’t do it immediately, then it’s not worth doing. Kids shouldn’t be afraid of failure. </p>
+<p>I understand how, if one wants to be the best at something, failure might only seem to highlight how they’re not. Learning that this is OK is important. To be excellent at something, you have to practice—along with that, it helps develop a healthy work ethic. That all takes time, effort, and patience. Speaking of patience… </p>
+
+<h2>2. Patience Is a Virtue </h2>
+<p>Growing up, my age group didn’t have the opportunity to do what seems like <em>everything</em> online. Sign up<em> now</em>. <em>Instant </em>access. Buy <em>now</em>. We took the time to physically go places and, often, stand on line to wait some more (I often brought books out with me in preparation for a wait). </p>
+
+<p>If we used up our allotted phone time for the evening, we had to wait until the next day for more. There was no texting. I couldn’t binge-watch my favourite show; I had to wait until next Tuesday for one more episode. I had patience because I didn’t have an option otherwise. Waiting was a part of life, and patience is what got you through it. </p>
+
+
+<p>Patience is something we develop, typically, in light of opportunities to practice it—such as through "blocked wants." Sometimes I tell my kids "not right now" for no other reason than to help them develop patience. Too much immediate satisfaction is no good for anyone. Similarly… </p>
+<h2>3. Boredom Is <em>Not</em> a Bad Thing</h2>
+
+<p><em>I’m Bored!</em> "Hi, Bored; I’m Dad," I respond in the most ignorantly sarcastic tone I have in my arsenal—truly a quip that transcends Dad Joke to the extent that it treads on tragedy more than comedy. <em>Ugh</em>, <em>but, Dad…!</em> It’s good they’re bored. It means they want more than just sitting there idly watching the television. It means they want mental stimulation and activity. "What do you want to do?" <em>I don’t know</em>. "Well, get creative!" </p>
+
+
+
+  
+
+
+<p>Your child might find a passion for music, or painting, or sport, or whatever, simply as a means of overcoming boredom. Maybe your kids are constantly engaged in activities. Being active and having a diverse plate from which to sample different hobbies and activities is good, but sometimes, kids need to sit, relax, and take it all in—the world is still very new to them. Don’t worry about them being bored sometimes. You’re not a singing, dancing everything… and if you are, well, you can’t be all the time. Boredom is good for them, and they might surprise you with what they do (productively) when they are. Likewise…</p>
+
+<h2>4. Kids Can Be Alone</h2>
+<p>As an only child, I was on my own a lot, despite both my parents dedicating much of their free time to family activities. Parents just can’t be there all the time. I kept myself occupied. I played with my toys and made up my own games. I learned by doing and through play, not necessarily by being told what to do. Being alone taught me independence, despite also coming along with rules about what was allowed when alone. Balancing those was another important learning experience. Rules were needed because guidance wasn’t there, so independence grew parallel to good autonomous decision-making. It built trust and responsibility. When the time is right, don’t be afraid to leave your kids alone. </p>
+
+<h2>5. Life Isn’t Fair</h2>
+<p>I was constantly told two very conflicting worldviews as a kid. First, "If you work hard, you’ll get what you deserve." Second, "Life isn’t fair." Though the second might ring truer, it’s not that the first is false; rather, it requires clarification: if you work hard, you’ll significantly increase the chances of earning what you deserve. But that’s not a guarantee. Sometimes, even if you work hard, you still don’t get what you want or deserve. The<a href="https://www.psychologytoday.com/us/blog/thoughts-on-thinking/202301/you-are-not-special"> universe is indifferent to you.</a><a> </a>But that’s life—win some, lose some. Sometimes, you get thrown a curveball; sometimes, there won’t be someone there to fix things for you. </p>
+
+<p>Adapt. Work with what you have. That’s the lesson we need to teach our kids. It may also be the case that accepting, at a young age, that life isn’t fair is probably a good way of chipping away any sense of entitlement that might develop. I also appreciate that it’s hard to teach kids that even if they work hard, they may still not get what they earned. But I can promise one thing: You won’t earn anything by doing nothing—that’s for sure. So create in your kids the type of work ethic that increases their chances of getting what they want in life, despite what many may see as the <a href="https://www.psychologytoday.com/us/blog/thoughts-on-thinking/202307/absurdism-and-coping-a-follow-up-on-it-is-what-it-is">absurdity of it all</a>.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/thoughts-on-thinking/202609/5-cognitive-frames-worth-keeping-alive-for-our-kids-benefit" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/thoughts-on-thinking/202609/5-cognitive-frames-worth-keeping-alive-for-our-kids-benefit</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/thoughts-on-thinking/202609/5-cognitive-frames-worth-keeping-alive-for-our-kids-benefit</guid>
+            <dc:creator><![CDATA[Christopher Dwyer Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/blog-cogframes.jpg?itok=nKEiOZm_" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boreout: Why Gifted, High-IQ Adults Are Burned Out and Bored]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/imi_lo-removebg-preview.jpg?itok=kwVuYbO6" alt="Imi Lo" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Boreout: Why Gifted, High-IQ Adults Are Burned Out and Bored</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Not burnout but bore-out: the exhaustion of an understimulated gifted mind.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">For a gifted mind, the amount of stimulation needed is specific and different from what is normal.</li><li style="margin-bottom:6px;">"Bore-out" angst may be a messenger that what you are doing is not aligned with your values.</li><li style="margin-bottom:6px;">You can be overworked and starved at the same time, burned out on volume and bored out on substance.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Gifted and high-IQ adults are often told they are burned out when they are not. Their lesser-known condition is <em>bore-out</em>, or chronic understimulation, and it produces the same exhaustion, cynicism, and flatness as burnout. Burnout comes from overstimulation. Bore-out comes from too little of the right kind. You can be both at once: overloaded with work that drains you and starved of work that feeds you.</p>
+
+<p dir="ltr">For a gifted mind, the amount of stimulation you need is specific and different from what is normal, which is why standard therapy and standard coaching so often misdiagnose what is going on for you. You may be tired all the time, and your mother might tell you to take a vacation. Your partner might tell you to worry less. You may have tried all of it. The vacation helped for a few days, and then you went back and felt the same flatness, irritability, and anhedonia within a week. The conundrum is that you have a lot on your plate, but none of it truly feeds you.</p>
+
+<h2>Bore-out at work</h2>
+<p dir="ltr">Bore-out is sitting in a meeting, listening to people slowly work through a problem you have already solved. It is being talked at, micromanaged, or "explained to" by someone you do not respect. It is spending your days on conversations that advance nothing real. It is having no one to talk to who can meet you intellectually and productively. It is not being given enough autonomy to build projects or solve interesting problems. The cruelest part of a setting that bores you out is work that is boring and still demands your full attention. You may be faced with dense pages and deadlines tight enough that your mind cannot even slip away to save itself. You cannot fully relax or wander off, but the work does not feed or even engage your mind. So now every day, for 7-10 hours, you are pinned in place, yet your mind feels trapped, congested, rotting in resentment.</p>
+
+<p dir="ltr">Most gifted people never manage to fully hide their competence even when they try. If you are handed a task, you want to do it well. You cannot do a job badly on purpose. So "just coast" has never worked for you. Then inevitably, people around you, even unconsciously, pile on more and more tasks for you. You may become the one who mentors the newer colleagues, the one everyone consults before any decision, the leader of every project without the title of leader. You may end up carrying responsibility with no authority attached. So you can be genuinely overworked and genuinely starved at the same time, burned out on volume and bored out on substance.</p>
+
+<h2>The wrong kind of remedies</h2>
+<p dir="ltr">Even when you have worked out that bore-out is the problem, the solutions people prescribe may still miss the mark. Your therapist may have suggested mindfulness. They may have lectured you on how capitalism has turned us all into productivity machines and told you that you must learn to rest. Someone may have recommended a dopamine detox. But what others miss is that you are wired differently. This is not just an addiction to work, and it may not be an anxiety installed in you by neoliberalism. It may be a genuine desire to reach the potential you know you have.</p>
+
+<p dir="ltr">The existential guilt of being trapped somewhere you are forced to be bored creates a pervasive self-doubt and sometimes numbness. Deep down, you know that you could do more, solve problems that actually matter, or simply spend more time with the people you care about, and watching yourself not do it can feel like being imprisoned inside your own life. The bore-out angst alerts you that something in your life is not optimized, that a better possibility is waiting for you, and that life is finite. It is a messenger, and its message is that what you are doing is not aligned with your values. An angst like that is not something you want to numb away or meditate away. It may even be healthy to feel it fully, to look deeply into it for a while, and to let it point you somewhere.</p>
+
+<h2>Bore-out in relationships</h2>
+<p dir="ltr">Bore-out can happen inside your intimate relationship too. You can adore someone and still leave every conversation with them feeling empty and irritated. The most painful moments may come when you bring up what excites you the most. Your partner is not unintelligent, but their intelligence runs in a different style from yours. So they listen attentively, they give the standard supportive responses, but they do not add anything or come back with a challenge. You share, you get excited, you pour out, but nothing comes back. But you do not want an audience. You want them to catch fire with you, to come back with what they think, and an actual challenge from them would feel like a gift. None of this means the relationship is bad or that you love them less. You may respect your partner deeply and trust them with everything else in your life. But a small gap remains, a quiet grievance in your heart that you keep trying to justify away.</p>
+
+<h2>What might help</h2>
+<p dir="ltr">You cannot change who you are, and the first step is to stop blaming yourself for struggling and to see the struggle for what it is. One way to start may be to take an honest inventory: You can go through your week and mark what drains you by its volume and what drains you by its emptiness, and treat each one as what it actually is. Accept that finding a fit will be a little more difficult for you. Most workplaces were drawn up for steady, narrow, repeatable work, and nobody drew them up with a fast, intense mind in view. A fit is not impossible, but it takes effort to find, and sometimes you will have to build it yourself. When changing your environment is not possible right away, there are smaller things you can do, such as carrying things that engage your mind and fill the dead time on purpose, attaching a purpose to every task you cannot avoid and linking it to your values, and keeping creative side projects that truly belong to you.</p>
+
+<p dir="ltr">These strategies are humble offerings. Most of them you might already be doing, and they are unlikely to completely eradicate bore-out from your life. But what you feel is information and never a verdict on your character. You have likely spent years hearing that you should need less, want less, and be content with what would content anyone else, and you may have tried harder than anyone knows. You were never weak or ungrateful. You may simply be someone who needs a different fuel to run on, something more, or more specific, than the world can readily offer.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/living-with-emotional-intensity/202609/boreout-why-gifted-high-iq-adults-are-burned-out-and" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/living-with-emotional-intensity/202609/boreout-why-gifted-high-iq-adults-are-burned-out-and</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/living-with-emotional-intensity/202609/boreout-why-gifted-high-iq-adults-are-burned-out-and</guid>
+            <dc:creator><![CDATA[Imi Lo MA]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-karola-g-6334161.jpg?itok=MqkbgyY1" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stop Shaming Yourself for Not Being Healed Enough]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/professional_shot_smiling-removebg-preview_0_1.jpg?itok=6c1EvNZC" alt="Marisa G. Franco Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotions</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Stop Shaming Yourself for Not Being Healed Enough</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Despite our best efforts we're getting more insecure. Why is that?</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Vulnerable, unwanted feelings are a fact of human existence.</li><li style="margin-bottom:6px;">Being more aware of our feelings can make things worse—if we judge ourselves for having them.</li><li style="margin-bottom:6px;">When we stop litmus-testing our feelings, we stop evaluating ourselves as defective for having them.</li>
+            </ul>
+          </div>
+                    <p dir="ltr"><em>I can't believe I'm finally writing this, but </em><a href="https://www.penguinrandomhouse.com/books/784327/worth-by-marisa-g-franco-phd/">Worth</a>: The New Science of Self-Esteem and Secure Attachment <em>is officially out!</em></p>
+<p dir="ltr"><em>Today, I’m sharing one of the core ideas from the book. Enjoy!</em></p>
+<p dir="ltr">Something weird is happening in the mental health world. We are more fluent in therapy-speak, aware of our attachment styles, and ready to assert our boundaries than ever, yet research finds we’re only getting more<a href="https://pubmed.ncbi.nlm.nih.gov/24727975/"> insecure</a>. How could it be—amidst the thousands of influencers helping us achieve an elusive secure attachment style (myself being one of them, I add humbly)—that we seem only to be getting worse? And is it possible that the very things that we thought could help—this newfound literacy around our dysfunction—could be the very source of our undoing?</p>
+
+<h2>Reactivity to Feelings</h2>
+<p dir="ltr">As a psychologist, I’ve noticed we’ve become terribly reactive to our (normal, natural) feelings of discomfort. Then, we take our feelings as evidence about how unhealed we are. </p>
+<p dir="ltr">This is concerning because research shows that being more aware of our feelings can make things worse—if we judge ourselves for having them. In one<a href="https://www.sciencedirect.com/science/article/pii/S0165032714002080?via%3Dihub"> study,</a> people who were high in observing their feelings were either the most or least likely to worry and ruminate. What made the difference? It was whether they were able to be nonreactive toward those feelings.</p>
+
+<p dir="ltr">When we yearn for an emotionally unavailable jerk, we’re not just doing something human; we’re re-enacting our daddy issues. When we ruminate about that ex who cheated on us, we’re not experiencing normal grief; we’re revealing how anxiously attached we are. And when we feel attached to that parent who doesn’t respect our boundaries, we aren’t trying to accept someone for their complexities; we are revealing our codependence. We act as if there’s a bible for how we should feel. And if we feel anything different, we perceive it as a sign of how damaged we are.</p>
+
+<p dir="ltr">As I state in my new book, <em>Worth: The New Science of Self-Esteem and Secure Attachment,</em> vulnerable, unwanted feelings are a fact of human existence. As Judith Butler argues, the body is defined by its vulnerabilities, not temporally affected by them. In their essay “Sick Woman Theory,” writer Johanna Hedva<a href="https://www.kunstverein-hildesheim.de/assets/bilder/caring-structures-ausstellung-digital/Johanna-Hedva/cb6ec5c75f/AUSSTELLUNG_1110_Hedva_SWT_e.pdf"> states</a> that, “What is so destructive about conceiving of wellness as the default, as the standard mode of existence, is that it invents illness as temporary. When being sick is an abhorrence of the norm, it allows us to conceive of care and support in the same way.” This extends to what we conceive for ourselves. When we’re so convinced we should be healed, and thus not so needy, so petty, so resentful, then we stop caring for ourselves when we are. We stop saying “It’s OK to feel this way. You’re human,” and start asking “Why am I so broken?”</p>
+
+<p dir="ltr">Shaming ourselves for not being healed enough comes from a well-intentioned place. When we’re suffering, this narrative provides us with a fantasy of relief. <em>Someday, if we just punish ourselves enough</em>, a part of us thinks, <em>we can become someone less irrational, less tortured, more healed.</em></p>
+<h2>How Acceptance Can Liberate Us</h2>
+
+<p dir="ltr">Accepting that we’ll never be free of these meddlesome feelings can fill us with despair. Our fantasy of perfect inner peace disappears. Yet, this acceptance can also liberate us. No longer are we living in psychological purgatory, waiting to become an imagined healed self that will never materialize. No longer are we measuring our feelings against a standard of green-flagged emotional perfection. Instead, we evaluate our feelings against… nothing at all. Feelings become simply there, a matter of fact rather than something to be sized up. </p>
+
+<p dir="ltr">And when we stop litmus-testing our feelings, we stop evaluating ourselves as defective for having them. We build a nest for feelings once in a cage. This sensitivity, pettiness, and self-absorption simply means we are human beings existing in the messiness we were made to. We’re no better of a person if we feel less.</p>
+
+<p dir="ltr">As psychologist Marion Woodman put it, “It is easier to try to be better than you are than to try to be who you are.” As I argue in <em>Worth,</em> the goal of healing is not to never feel so pathetic, aggressive, ungrateful, or desperate, but to stop shaming ourselves when we do. </p>
+<p dir="ltr">Healing was never about being perfect. It’s about being OK with being imperfect.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/platonic-love/202609/stop-shaming-yourself-for-not-being-healed-enough" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/platonic-love/202609/stop-shaming-yourself-for-not-being-healed-enough</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/platonic-love/202609/stop-shaming-yourself-for-not-being-healed-enough</guid>
+            <dc:creator><![CDATA[Marisa G. Franco Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/erika-giraud-7khbreqpfd4-unsplash.jpg?itok=fVY6m9rZ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Authenticity Is, and What It Isn’t]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/StephenJoseph.jpg?itok=L82mTK99" alt="Stephen Joseph Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Authenticity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Authenticity Is, and What It Isn’t</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Exposing four myths about being authentic.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Authenticity is often misunderstood.</li><li style="margin-bottom:6px;">A common misunderstanding is that being authentic means always saying what you think.</li><li style="margin-bottom:6px;">Authenticity is an ongoing and lifelong process of personal development.</li>
+            </ul>
+          </div>
+                    <p>Authenticity is one of my key interests. In my experience, striving to live authentically is one of the most important things a person can do for a richer and more fulfilling life, and the research seems to back this up. </p>
+<p>But authenticity is often misunderstood, most commonly as meaning you should always say what you think or feel. In turn, this makes authenticity, or at least this straw-man version of it, easy pickings for critics, who paint it as a trivial topic, a vacuous self-help idea that peddles unrealistic dreams and is not to be taken seriously.</p>
+
+<p>The straw-man version of authenticity is easy to mock, but so are any complicated ideas that are not readily understood. In this post, I wish to set the record straight.</p>
+<h2>1. Authenticity is not about just saying whatever is on your mind.</h2>
+<p>This is the first myth about authenticity. Authenticity is first and foremost about knowing ourselves and taking responsibility for our decisions, and only then deciding how to behave with others—whether it is the time and place to express ourselves openly and transparently or whether we are better off keeping our thoughts and feelings to ourselves in that moment. Authenticity is as much about knowing when to keep quiet as it is when to speak. As people become more authentic, what they say becomes more measured, thoughtful, and considerate.</p>
+
+<h2>2. Authenticity is not a state of perfection and endless happiness.</h2>
+<p>It is true that research shows that, on average, authenticity does seem to be related to a happier life, but striving for authenticity is no guarantee of eventually achieving endless happiness. Authenticity will bring happiness to us only insofar as it helps us live in a way that is more fulfilling and enriching to us, to pursue interests that are more meaningful to us, and to make decisions that are more in line with what we value.</p>
+
+<p>But no life is without misfortune. We may make better decisions for ourselves if we are more authentic, but we will still make mistakes. We may be more accepting of ourselves when such mistakes are made, and more realistic about how messy life can be, but authenticity will not make everything perfect.</p>
+
+<h2>3. Authenticity does not mean that you can never change your mind about something or that you always have to act the same way.</h2>
+<p>Another myth about authenticity is that being authentic means always acting the same no matter who you are with or where you are. Certainly, in the sense that authenticity implies certain characteristics of a person, such as compassion for others, empathy, and integrity in relationships, a person could be the same, but not in the way they express these characteristics. The more authentic we are, the more consistently we will be empathic and accepting of ourselves and others, but how we choose to express this will vary from situation to situation. Our behavior may vary even if the underlying attitude is the same.</p>
+
+<p>Through authenticity, we become less fixed and more fluid in how we act. There is no implication of consistency in specific behavior. To always have to act the same implies a rigidity that is the opposite of the fluidity and openness that authenticity brings.</p>
+<h2>4. People are not necessarily authentic just because they think they are.</h2>
+
+<p>Most people consider themselves authentic, but paradoxically it is often the most inauthentic of people who think of themselves as the most authentic. That should not be surprising because, by definition, the least authentic people do not know themselves as well and therefore lack insight. Due to self-deception, they cannot comprehend the nature of their inauthenticity. Authenticity is about the real qualities of a person, not simply what the person thinks about themselves. It is about the reality of knowing ourselves and having self-awareness and an ability to be honest with ourselves and to process information without bias.</p>
+
+<p>The most authentic people, because they know themselves so well, recognize their struggles with living authentically. As such, a distinction must be made between one’s self-perception of authenticity and actual authenticity. Self-knowledge and the ability to see oneself without self-deception are capacities that people have or do not have to varying and real extents. And, importantly, no one is without some degree of self-deception, and so complete and full authenticity is an ideal we can only aim for. </p>
+
+<p>In short, we can aspire to be more authentic, but it is an ongoing, lifelong process of personal development in which we can increasingly learn about ourselves and deepen our self-understanding.</p>
+<p><em>Excerpted from my book </em>Authentic: How to Be Yourself and Why It Matters.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/what-doesnt-kill-us/202609/what-authenticity-is-and-what-it-isnt" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/what-doesnt-kill-us/202609/what-authenticity-is-and-what-it-isnt</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/what-doesnt-kill-us/202609/what-authenticity-is-and-what-it-isnt</guid>
+            <dc:creator><![CDATA[Stephen Joseph Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_1754761904.jpg?itok=IQ8Oa_Lo" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Separating Fact from Fiction in Alzheimer's Treatment]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-08/zaldytan.png.jpg?itok=Xpfy3JJY" alt="Zaldy Tan M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dementia</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Separating Fact from Fiction in Alzheimer's Treatment</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The precise cause of Alzheimer’s disease remains a mystery.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>If you like to watch thrillers or television detective shows, you can probably picture a typical crime scene—furniture turned over, clothes strewn everywhere, perhaps a weapon, blood splatter, and yes, a body or two. As crime scene investigators photograph the scene, collect fingerprints, and carefully package evidence, the lead detective steps past the yellow tape, surveys the room, and identifies the critical clues that ultimately lead to the perpetrators' capture.</p>
+
+<p>If only disease scene investigations were as straightforward as a Hollywood crime scene, it would make stopping a disease in its tracks so much easier. In some ways, examining the brain of a person who died with Alzheimer’s disease is like looking at a crime scene—dead brain cells everywhere, missing nerve synapses, nefarious protein deposits, smoldering inflammation—with one big difference: the crime transpired over 10 years ago. For a scene like this, altered by time and the elements, it would be virtually impossible to identify the culprit. </p>
+
+<p>Despite hundreds of millions spent on research by the smartest minds in science and medicine, the precise cause of Alzheimer’s disease remains a mystery.</p>
+<p>If there is one telltale clue that binds the most common forms of dementia, it would be the accumulation of abnormal proteins—for Alzheimer’s disease, it’s amyloid-beta and tau proteins; for Lewy body dementia, it’s alpha-synuclein; and for frontotemporal dementia, it’s TDP-43. These peculiar proteins are the smoking guns of dementia. It has long been known that these proteins accumulate in the brains of people who suffer from dementia, but what nobody knows is whether they’re the actual cause or merely the effect of the mysterious processes that lead to the progressive forgetfulness and relentless decline in cognitive function. What <em>is </em>known is that heightened inflammation surrounds these abnormal proteins, loss of synaptic connections, activated immune cells, widespread oxidation, and others known to kill brain cells. One or a combination of these abnormal processes may be responsible for dementia, but which? To make it even more confusing, some people who have these abnormal proteins <a href="https://urldefense.com/v3/__https:/mail.google.com/mail/u/0/*m_-8467446748722697139__msocom_1__;Iw!!MbTiNj2pbBzljg!KQ4ZTKPCZe5QFSkvBMaepgjooKeb_60nZQC7dxvDbxRnmQxRIRNu3u4JGrk3tWBeLR-a41m6zokXlPxlr9VgXse6Hf4%24">[A1]</a> in abundance in their brains never get dementia, even if they live to be a hundred years old.</p>
+
+<p>Beyond what is already known, there are likely many other causes for dementia, many of which remain undiscovered by neuroscience. How does one find a drug to prevent or stop a disease whose culprit is unknown? The answer lies in rigorous research built on trial and error. On average, it takes 10 to 15 years for a new drug to progress through clinical trials, get FDA approval, and finally reach pharmacy shelves. Now, let’s explore what treatments are available today and those on the horizon.</p>
+
+<p><em>Treatments Available Now</em></p>
+<p>When I ask some of my patients and their families why they waited until the moderate to late stages of dementia before seeking a memory evaluation, they often shrug and say they didn't see the need to come sooner because they believed dementia was untreatable.</p>
+<p>While it's true that Alzheimer's disease and other forms of dementia are not yet curable, several treatments are now available that can improve symptoms and, in some cases, slow the progression of the disease.</p>
+
+<p>Alzheimer’s and most dementias develop so gradually that it’s often hard to notice or track their changes. Contrast this to cancer, which can take one’s life in a matter of months and can typically be visualized through an X-ray, scan, or biopsy.</p>
+<p>Some cancers—breast, skin, bone, soft tissues—can even be seen by the naked eye or felt under one’s fingertips. For such a deadly and dreaded disease as cancer, most people see gaining an additional one, five, or ten10years of life with treatment as a success. Even without the prospect of a cure, we celebrate signs of treatment response, like a tiny decrease in tumor size on an MRI or a slight drop in tumor markers on a blood test.</p>
+
+<p>For a very slowly progressive disease like Alzheimer’s, the effects of a mild to moderately effective treatment can be almost imperceptible to the untrained eye. Typically, response to treatment is judged by an increase on a cognitive test or an improvement in the person’s ability to remember and complete daily tasks. These subjective changes can be missed, especially when paired with the normal cognitive changes that come with age.</p>
+
+
+<p>These subjective changes can be missed, especially when paired with normal cognitive changes with age.</p>
+<p>The simplest way to classify the available treatments for Alzheimer’s disease is by their intent: to relieve symptoms without affecting disease trajectory (<em>symptomatic treatments</em>) or to alter disease course by slowing it (<em>disease-modifying treatments</em>).</p>
+
+<p><em>Treatments to Remember Better</em></p>
+<p>Cognition refers to the mind’s ability to remember, pay attention, plan, and execute tasks. Treatments aimed at improving cognition may also improve a person’s performance of daily function—eating, bathing, and toileting. The two main drug classes that target cognition are acetylcholinesterase inhibitors and NMDA-receptor antagonists. </p>
+
+
+
+  
+
+
+<p>Acetylcholinesterase inhibitors are the most well-known Alzheimer’s medications and include donepezil (Aricept), galantamine (Razadyne), and rivastigmine (Exelon). These drugs work by increasing concentrations of the neurotransmitters—proteins that allow brain cells to communicate—thereby facilitating the retention, retrieval, and processing of information. These medications are available as generic (non-branded) drugs, and some are available in both pill and transdermal-patch forms. </p>
+
+<p>The U.S. FDA has approved these medications to treat cognitive symptoms in people with mild, moderate, or severe Alzheimer's disease. While they can help manage symptoms, they do not alter the underlying course of the disease or slow its progression.</p>
+<p>For most people, the benefits are modest but meaningful. For example, someone in the early stages of Alzheimer's disease may become less repetitive in conversations or questions, require less assistance with daily activities, or communicate more clearly. Although these improvements can enhance day-to-day functioning, the disease itself continues to progress.</p>
+
+<p>Overall, this class of medications is generally well tolerated. The most common side effects include nausea, loss of appetite, and diarrhea. In some individuals, they may also cause dizziness due to a slowed heart rate or vivid dreams, particularly when taken at bedtime.</p>
+<p>Memantine (Namenda) is the only NMDA receptor antagonist approved by the U.S. </p>
+
+<p>It blocks the overstimulation of brain receptors from the protein glutamate. Like acetylcholinesterase inhibitors, it can improve cognition, but not dramatically. It is only approved for treatment of Alzheimer’s disease in the moderate to late stages and is available in generic or brand-name pill form. It is well-tolerated, with the most common side effects being constipation, diarrhea, headaches, confusion, and dizziness. This is a symptomatic treatment; it will not stop progression of the disease.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-biggest-blind-spots/202608/separating-fact-from-fiction-in-alzheimers-treatment" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-biggest-blind-spots/202608/separating-fact-from-fiction-in-alzheimers-treatment</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-biggest-blind-spots/202608/separating-fact-from-fiction-in-alzheimers-treatment</guid>
+            <dc:creator><![CDATA[Zaldy Tan M.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/brain_peshkova_shutterstock_678583375_0.jpg?itok=SZfIXts5" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Playing Catch: How to Support an Upset Partner]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/phil_stark.png.jpg?itok=JoChU2hK" alt="Phil Stark LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Playing Catch: How to Support an Upset Partner</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Being upset and dealing with a partner's upsetness is often a topic in couples therapy.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">It’s hard being upset, but it’s part of life.</li><li style="margin-bottom:6px;">Being in a relationship with a person who also gets upset can set up difficult situations.</li><li style="margin-bottom:6px;">In a stereotypical dynamic, men may express upsetness by withdrawing while women process out loud.</li>
+            </ul>
+          </div>
+                    <p>We’re human beings, and sometimes we get upset. We show this in different ways. We might withdraw, engage, have a drink, have some ice cream, have some exercise, watch reality TV, get emotional, and/or get unemotional. Life has its challenges, and things don’t always work out for us the way we want them to, and we react to failure and disappointment with anxiety and fear. We get upset. It’s hard being upset, but it’s part of life.</p>
+
+<p>It’s also hard being a partner to someone who is upset. It’s hard enough to deal with our own upsetness, and the added responsibility of being in a relationship with another person who also gets upset can set up difficult situations. How we deal with our own upsetness can have a great effect on the quality of our relationships, but it is also how we deal with our partner’s upsetness that factors into the equation. It is this experience of being upset and dealing with upsetness that is often a topic in couples therapy.</p>
+
+<h2>Common Gender Dynamics in Expressing Upsetness</h2>
+<p>This dynamic often plays out in a stereotypically male/female way. In this dynamic, the Men express their upsetness by withdrawing and internalizing, while the Women express their upsetness by vocalizing and processing out loud. In my practice, I have to be very careful not to make assumptions about how clients act and react based on whether they’re men or women. It’s very easy to assume that people will act in the stereotypical ways that men and women often do, but as a therapist, it’s important for me to be open to all possibilities and not fall for any assumptions. However, writing this post made me think of a couple who reacted in exactly these stereotypical ways, and I think examining their process can be informative for other couples who find themselves in a similar dynamic.</p>
+
+<p>This couple had a pattern of conflict that we worked to identify and then change. This involved how each of them reacted when the woman became upset. This was sometimes about small things like a scheduling snafu or a change in childcare plans, but also about big things like dealing with conflict with a parent, or going through changes regarding career goals. What would happen was this woman would experience something that would make her upset, and she would verbalize it. She would become angry, or anxious, or fearful, and that feeling would emanate from her. Her voice would rise in volume; her tone would become serious. </p>
+
+<p>When the man felt this energy from the woman, he would try to help by suggesting ways the woman could solve her problems, offering different approaches that were meant to help but didn’t end up making her feel any better. Then he would become upset on his own and frustrated that she would ask him to solve her problems but then shoot down all his suggestions. "What do you want from me?" he would ask.</p>
+
+<p>That’s something I asked, too. I asked the woman what she wanted from the man when she felt upset, and what she said was simple: She just wanted him to listen to her. She only wanted him to be there for her to vent to, to hold her while she was upset, to be a safe place where she knew she could process her upsetness without worrying that his reaction would be to become upset himself. </p>
+
+<p>Even though we had this conversation multiple times over the course of many sessions, it took much time and effort to change this dynamic. The man was so focused on giving the woman reasons to not feel upset that he couldn’t hear what she was so plainly asking him for, which was to do the opposite of what his instincts told him to do. She was asking him to do nothing. Nothing except to sit with her, hold her, empathize with her, and give her the time and space to feel upset without becoming upset himself. But it was so hard for him to do nothing, because he badly wanted to do something. But this led to a repeated cycle of conflict.</p>
+
+
+<h2>Using the "Playing Catch" Metaphor to Change Reactions</h2>
+<p>We considered a sports metaphor to change this couple’s way of thinking about being upset and supporting upsetness in a new way. It was about the idea of Playing Catch. We framed it as if when the woman became upset and needed to vent and process in a safe place, it was as if she was throwing a ball to the man. The man, upon catching the ball, immediately threw it back in the form of making suggestions, asking questions, sharing his opinions, all with the goal of helping her feel less upset. But as soon as he threw the ball back to her, she in turn tossed it back to him. And it would go back and forth, a game of catch that both people were afraid to end.</p>
+
+<p>My pitch to the man in this situation was: Hold the ball. Don’t throw it back. Which would go against his instincts, both in terms of feeling like he needed to actively do something to help her, and in terms of the meaning of a game of catch. When you Play Catch, the whole point is to throw the ball back and forth! He couldn’t just sit there and not throw the ball back. He couldn’t just sit there and do nothing.</p>
+
+
+
+  
+
+
+<p>So, I reminded him that’s what she said she wanted. And that nothing didn’t really mean nothing. It really just meant doing something different. By doing nothing, she meant sitting with her, not reacting to her upsetness with his own upsetness, and just holding her while she expressed herself, listening and nodding along. This metaphor helped the man understand what the woman really needed from him, as well as how against his instincts this went. Eventually, he became able to give her the support she needed in these situations, and their relationship improved, and in future situations like this, they would look to each other and sometimes say that they knew they just needed to not Play Catch.</p>
+
+<p><strong>To find a therapist, </strong><a href="https://www.psychologytoday.com/us/therapists"><strong>visit the Psychology Today Therapy Directory</strong></a><strong>.</strong></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/dude-wheres-my-car-tharsis/202609/playing-catch-how-to-support-an-upset-partner" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/dude-wheres-my-car-tharsis/202609/playing-catch-how-to-support-an-upset-partner</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/dude-wheres-my-car-tharsis/202609/playing-catch-how-to-support-an-upset-partner</guid>
+            <dc:creator><![CDATA[Phil Stark LMFT]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/unknown_1.jpeg.jpg?itok=ImLzMAkb" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 'Relationship Tests' Couples Must Ace for the Long Haul]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">2 'Relationship Tests' Couples Must Ace for the Long Haul</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How you celebrate the highs is as crucial as how you handle the lows.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/couple_test.jpg?itok=pvjI0cB8" width="320" height="320" data-insert-type="image" title="Gustavo Fring / Pexels" alt="Gustavo Fring / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Gustavo Fring / Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr">A 2021 <a href="https://doi.org/10.3389%2Ffpsyg.2021.767908">study</a> published in the journal Frontiers In Psychology highlighted the importance of healthy communication in a relationship, not just in tense moments like a fight or an emergency but also when experiencing good times like a promotion or a romantic vacation. A partner’s response and manner of communication in these moments can lead to either higher levels of relationship satisfaction or signal the end of the relationship.</p>
+
+<p dir="ltr">Here are two critical moments in a relationship that can impact its future.</p>
+<h2 dir="ltr">1. How Your Partner Responds in a Fight</h2>
+<p dir="ltr"><a href="https://doi.org/10.1371/journal.pone.0174129">Research</a> shows that arguments and communication issues are some of the leading causes for relationships ending. However, it is not only the topic of the disagreement, but also how partners communicate during the course of it that matters.</p>
+
+<p dir="ltr">For instance, a partner's tone of voice, their tendency to interrupt or speak over the other and whether they feel belittled or that their problems are being minimized all contribute to the outcome of a conflict. <a href="https://doi.org/10.1037/0022-006X.57.1.47">Research</a> shows that while a disagreement in itself is not harmful, being defensive, stubborn and withdrawing from a conversation can be detrimental to relationships.</p>
+
+<p dir="ltr">In contrast, "<a href="https://www.psychologytoday.com/us/blog/social-instincts/202607/the-strongest-sign-that-youre-in-the-right-relationship">perceived partner responsiveness</a>," which signifies how caring, understanding and validating a partner is perceived to be, has a healing effect in times of adversity. Even during a heated argument, it is possible to maintain a respectful tone and let your partner know that you care about them, despite disagreeing with them. “Fighting right” also depends on addressing concerns without using blaming language and continuing to treat each other with respect afterwards.</p>
+
+<p dir="ltr">Researchers further highlight the importance of "accommodation" in arguments, which involves strategies that individuals employ to resolve conflicts and restore harmony in relationships.</p>
+<p dir="ltr">There are usually four types of accommodation responses:</p>
+<ol>
+<li dir="ltr"><strong>Active-constructive.</strong> Partners intentionally discuss issues and actively work towards resolving problems.</li>
+<li dir="ltr"><strong>Passive-constructive.</strong> A partner may silently forgive and patiently wait for circumstances to improve, without expressing overt disapproval.</li>
+<li dir="ltr"><strong>Active-destructive. </strong>Here, individuals tend to criticize their partner and may even threaten to end the relationship as a response to issues.</li>
+<li dir="ltr"><strong>Passive-destructive.</strong> <a href="https://www.psychologytoday.com/us/blog/social-instincts/202503/a-green-flag-you-should-never-ignore-in-a-relationship">Individuals ignore</a> both their partner and the underlying problem, leading to a lack of constructive communication or possible resolution.</li>
+</ol>
+
+<p dir="ltr">An active-constructive accommodation response is most likely to benefit the relationship and may include compromising or working together to find mutually beneficial solutions, engaging in active listening by paying attention to your partner's perspective, feelings and concerns while also clearly expressing your own, acknowledging mistakes and offering forgiveness and temporarily stepping away from the conflict if needed, to cool off and regroup.</p>
+
+<p dir="ltr">With healthy accommodation, a partner attempts to respond with a positive, constructive approach and a willingness to prioritize the relationship over individual differences. When the other makes a mistake, they may resist the urge to lash out or get angry and choose to handle the situation with patience and understanding.</p>
+
+
+<h2 dir="ltr">2. How Your Partner Responds to Good News</h2>
+<p dir="ltr">Sharing good news and moments of joy with a partner, known as “capitalization,” can either enhance or hinder the quality of your relationship, based on their response.</p>
+<p dir="ltr">A 2023 <a href="https://doi.org/10.1037/a0028723">study</a> found that feeling appreciated by a partner, which is often the result of a positive response to capitalization, also makes you more appreciative of them, as well as more responsive to their needs and more likely to stay committed to them.</p>
+
+<p dir="ltr">Similar to accommodation responses, an active-constructive response to capitalization is characterized by enthusiasm, support and genuine interest and has the most positive impact on relationship satisfaction. It fosters feelings of perceived partner responsiveness, connection, emotional intimacy and allows individuals to experience positive events more fully through the enthusiastic reactions of their loved ones.</p>
+
+
+
+  
+
+
+<p dir="ltr">On the other hand, passive or destructive responses can make a partner feel ignored or underappreciated as they are either not receiving anything beyond a fleeting acknowledgement or are being criticized and invalidated. In the long run, these types of responses lead to relationship breakdowns.</p>
+<p dir="ltr"><a href="https://doi.org/10.1177/02654075221080581">Research</a> also shows that active-constructive responses that are proactive or ask a partner to elaborate on good news and thereby amplify shared joy lead to greater sexual satisfaction whereas other types of responses were associated with lower satisfaction or even sexual distress.</p>
+
+<p dir="ltr">When a partner shares in your joy, it signals they care about your happiness and well-being. These moments can be indicators of how much emotional space they hold for you and how comfortable they are with you in the "spotlight."</p>
+<p dir="ltr">A 2022 <a href="https://doi.org/10.1007/s10902-021-00389-y">study</a> highlights the importance of caring for one’s own mental health to become a more responsive partner. The researchers found that people are better able to respond enthusiastically to a partner’s good news when they are experiencing positive emotions themselves.</p>
+
+<p dir="ltr">Opportunities for capitalization interactions can be found everyday. <a href="https://doi.org/10.1007/978-3-319-49425-8_183">Research</a> shows that when your partner makes even a small attempt for connection, such as a comment, question or gesture seeking your attention or engagement, responding positively and attentively is crucial.</p>
+<p dir="ltr">For example your partner may point out a beautiful flower they've noticed while taking a walk. To connect with you and share their joy, they might say "I’m so glad we went for a long walk today!" Your positive response, like mentioning a specific moment during the walk or offering to spend more leisure time together, such as “I really enjoyed it too! How about we try the new hiking trail this weekend?” acknowledges their capitalization attempt and helps strengthen your connection in a long-lasting, meaningful way.</p>
+
+<p dir="ltr">Prioritizing supportive and responsive communication can help couples build and maintain healthier, more satisfying relationships. The way partners communicate during both challenging and joyous times is an opportunity for growth and expansion in relationships.</p>
+<p dir="ltr"><em>A version of this post also appears on Forbes.com.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202609/2-relationship-tests-couples-must-ace-for-the-long-haul" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/social-instincts/202609/2-relationship-tests-couples-must-ace-for-the-long-haul</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202609/2-relationship-tests-couples-must-ace-for-the-long-haul</guid>
+            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-gustavo-fring-8769488.jpg?itok=KHf4nueh" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Fresh Take on Life Review]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Memory</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Fresh Take on Life Review</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Author Rabih Alameddine on what his novel can teach us about the power of looking back.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/alameddine__rabih_credit_oliver_wasow_lores.jpg?itok=CzP53SUr" width="320" height="400" data-insert-type="image" alt="Author Rabih Alameddine offers a fresh take on life review in his latest novel, The True True Story of Raja the Gullible (and His Mother)" title="Oliver Wasow lores/Used with permission"></div>
+<div class="caption">Author Rabih Alameddine offers a fresh take on life review in his latest novel, The True True Story of Raja the Gullible (and His Mother)</div>
+<div class="insertArea--origin subtext">Source: Oliver Wasow lores/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr">We look back on the events of our lives in an attempt to make sense of our story, to create a cohesive narrative of our experiences. But is it possible, or even helpful, to try to impose order when our lives are often chaotic, spontaneous, and coincidental? </p>
+<p dir="ltr">Author Rabih Alameddine offers a fresh take on life review in his latest novel, <em>The True True Story of Raja the Gullible (and His Mother)</em>, in which Raja’s life story is told with honesty and humor, holding space for the beautiful, painful, and often ambivalent mess that is real life. </p>
+
+<p dir="ltr"><strong>Q: In your novel</strong><em><strong> The True True Story of Raja the Gullible (and His Mother),</strong></em><strong> 63-year-old Raja recounts his life’s story, including its joys, heartaches, and absurdities. What are the benefits of this process of looking back for Raja?</strong></p>
+<p dir="ltr"><strong>Rabih Alameddine:</strong> One benefit is that by telling his story, Raja discovers what his story actually is. He thinks he’s telling us about his life, but his mother keeps escaping the parentheses and taking over. That’s something looking back can do: show you what mattered before you knew it mattered.</p>
+
+<p dir="ltr">The past also changes because we change. Something that was unbearable at 20 might look absurd at 60, or tender, or might reveal itself as an expression of love you couldn’t recognize at the time. The event hasn’t changed, but your relationship to it has.</p>
+<p dir="ltr">And Raja has lived through a great deal of randomness: civil war, kidnapping, death, economic collapse. Storytelling gives randomness a shape. The shape is not necessarily true; that’s partly why the book is called the true true story. We salt and pepper our memories. We rearrange them. We discover connections that may or may not have been there. But sometimes the story we make of a life is what allows us to carry it.</p>
+
+<p dir="ltr">We are the stories we tell ourselves about ourselves.</p>
+<p dir="ltr"><strong>Q: As Raja relives events he wished to forget, is this narrative process ultimately therapeutic for him?</strong></p>
+<p dir="ltr"><strong>Rabih Alameddine:</strong> I’m a little suspicious of the word therapeutic, because it suggests that if Raja tells the story correctly, he will somehow be cured of it. I don’t think that happens. Some things don’t heal. Some losses remain losses. Some pains are our lifelong intimates.</p>
+
+<p dir="ltr">But telling does change his relationship to what happened. He can look at things he couldn’t look at before. He can hold contradictory feelings at the same time—love and rage, grief and hilarity—without having to resolve them. Raja says at one point, “I want to kill my mother. I don’t want to hurt her.” That isn’t a contradiction. It might be the definition of a certain kind of love.</p>
+
+<p dir="ltr">And perhaps more important than the telling is the listening. Raja needs someone to sit there and hear the whole story, all of it, including the digressions and lies and unnecessary tales. He doesn’t need advice. He doesn’t need rescue. He needs a witness. All of us need a witness. I’m not sure that cures anything either, but it does mean we are no longer alone with the story.</p>
+
+<p dir="ltr"><strong>Q: What role does humor play in softening the emotional intensity inherent in life review?</strong></p>
+<p dir="ltr"><strong>Rabih Alameddine:</strong> I’m not sure humor softens the emotional intensity. Sometimes it makes it possible to get closer to it. Other times it makes it hurt more.</p>
+<p dir="ltr">The comedy might simply be the pain looked at from a slightly different angle. Humor creates enough distance that you can look directly at something without having to look away. It isn’t anesthesia. It’s a way of staying conscious.</p>
+
+<p dir="ltr">I also think earnestness is overrated. If a writer announces, “This is terribly important, and you must feel deeply about it,” a reader may quite reasonably run for the door. Make the reader laugh, and the terrible thing can come in through the side door. Raja jokes because he’s funny, but he also jokes because that’s how he survives remembering.</p>
+
+<p dir="ltr"><strong>Q: As you look back on your own life to date, what stands out to you most about your story? What do you think might unfold in the blank pages ahead?</strong></p>
+<p dir="ltr"><strong>Rabih Alameddine:</strong> What stands out is how little of my life resembles a plan. I hail from a mountain village of about 700 souls. I grew up during a civil war. I got an engineering degree and an MBA. I became a writer. Much later, I became a teacher largely because the Lebanese banking collapse took my savings. None of this is a plot I would have outlined, not that I outline anything.</p>
+
+
+
+  
+
+
+<p dir="ltr">Looking backward, of course, you can always manufacture a through-line. A post facto tale. Mine would probably be stories and the people I’ve loved. But I’m suspicious of neat autobiographies for the same reason I’m suspicious of neat novels: Life has terrible structure. Too many coincidences, important characters disappear without explanation, villains prosper, wonderful people die in the middle of chapter three. I mean, who would have ever been able to predict that some people would enjoy golf?</p>
+
+<p dir="ltr">As for the blank pages, I hope they remain blank for a while. I hope there are more books, more people to love, more laughter, more dancing, and new surprises. I don’t particularly need optimism about what comes next. Curiosity will do.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/truetruestoryofrajathegullible_pk.jpg?itok=86qm68PO" width="320" height="482" data-insert-type="image" title="Simon and Schuster/Used with permission" alt="Simon and Schuster/Used with permission"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Simon and Schuster/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><strong>Q: What do you hope readers take away from spending time with </strong><em><strong>The True True Story of Raja the Gullible (and His Mother)</strong></em><strong>?</strong></p>
+<p dir="ltr"><strong>Rabih Alameddine:</strong> First, I hope they have a good time. We underrate pleasure when we talk about serious literature. I hope readers laugh with Raja, become exasperated with Zalfa, and then realize somewhere along the way that they’ve fallen in love with her.</p>
+
+<p dir="ltr">I hope they recognize something of their own impossible relationships—the people who can drive us insane because they know exactly where every button is, and who are also the people whose absence might leave the largest hole. Some relationships can’t be solved. You simply live inside them.</p>
+<p dir="ltr">I’ve become wary of saying that novels make people more empathetic or morally better. There are extraordinary books in the world, and we still do atrocious things to one another. But I do think a book can strike a match. The kindling has to already be in the reader. If someone finishes this one and thinks differently, even briefly, about the maddening person who has loved them ferociously, that would be wonderful.</p>
+
+<p dir="ltr">But if they simply miss Raja and Zalfa after they close the book, that’s more than enough.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/well-read/202609/a-fresh-take-on-life-review" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/well-read/202609/a-fresh-take-on-life-review</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202609/a-fresh-take-on-life-review</guid>
+            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/alameddine__rabih_credit_oliver_wasow_lores.jpg?itok=HiKmuo7i" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Relationship Peace Requires Self-Betrayal]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ilene_2017-1_edit_0_0.jpg?itok=8vBv1lZv" alt="Ilene Strauss Cohen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Relationship Peace Requires Self-Betrayal</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to reclaim your sense of self in difficult relationships.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Relationship skills cannot compensate for another person’s inability to tolerate differences.</li><li style="margin-bottom:6px;">Patterns over time can reveal more about a relationship than any single conflict.</li><li style="margin-bottom:6px;">Boundaries guide your own behavior; they cannot control how another person responds.</li><li style="margin-bottom:6px;">Thoughtful distance can sometimes preserve both connection and a stronger sense of self.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-mikhail-nilov-7929696.jpg?itok=wJolGIYz" width="320" height="229" data-insert-type="image" title="Mikhail Nilov / Pexels " alt="Mikhail Nilov / Pexels "></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Mikhail Nilov / Pexels</div>
+</div>
+</div>
+</div>
+<p>Carol was a social worker who had spent years studying relationships. She understood boundaries, healthy communication, trauma, and emotional regulation. But there was one relationship where all her expertise seemed to fall short: her relationship with her mother.</p>
+<p>Whenever Carol said no to something, her mother got angry or pulled away. If Carol tried to explain that something had hurt her, her mother became defensive, and in the end, Carol was the one who had to apologize. Eventually, Carol realized the best way to keep the relationship going was to hold back certain opinions, give in to her mother's wishes, and steer clear of anything that could upset her.</p>
+
+<p>On the surface, the relationship looked peaceful, but the calm came at a price: Carol had to give up parts of herself to maintain it. Over time, she began to wonder: Was keeping the relationship worth losing herself?</p>
+<p>Healthy relationships require many skills: clear communication, setting boundaries, taking responsibility for your actions, being aware of your triggers, and offering emotional support, among others.</p>
+
+<p>If you work on these behaviors, they are useful tools for most relationships. But there is something we don’t talk about enough: You can do a great deal of work on yourself and yet have a relationship that doesn't function very well. This is because relationships involve more than one person. It is always important to work on your part, but it doesn’t necessarily change the other person or their part if they aren’t willing or able to change.</p>
+
+<p>In Bowen family systems theory, <em>differentiation of self</em> is the capacity to maintain one’s thinking and principles while remaining emotionally connected to important people. The goal isn’t to become unaffected by other people, because that is impossible. It’s to become better able to observe what is happening and choose our response rather than react automatically.</p>
+
+<p>For Carol, this would look like no longer trying to find the best way to explain herself to finally win her mother's understanding, or giving in just to not upset her mom. Instead, she can learn to manage herself around her mother's disapproval without immediately giving up her own position.</p>
+<h2>Look at the Pattern</h2>
+
+<p>Pay attention to whether you are the common factor in many relationships that go sour. When similar patterns crop up in my clients’ friendships, work relationships, and family life, it’s a sign to look more deeply at their behaviors.</p>
+<p>However, suppose that with most people you are able to keep stable relationships in which disagreements can occur, apologies are given, misunderstandings are resolved, and the relationship moves on—yet with one individual, every disagreement turns into a crisis. What if that person also has a past filled with conflict or estrangement in other relationships?</p>
+
+<p>That, by itself, gives you information that this might be a relationship that requires betraying yourself to maintain harmony.</p>
+<p>Objectivity comes from focusing on the pattern, then deciding how to respond without assuming the only way forward is to keep the peace. </p>
+<h2>Compassion Doesn’t Require Unlimited Access</h2>
+
+
+<p>For Carol, it became especially difficult to set limits with her mom because she understood <em>why</em> she behaved as she did.</p>
+<p>Like Carol, you might be aware of their childhood or the trauma they've experienced, and it's possible that they have difficulties with a mental illness, anger, emotional control, or with their own limitations; having that understanding can lead to compassion.</p>
+
+<p>But compassion and access are not the same thing.</p>
+<p>You can see why a person becomes angry without having to be available to be yelled at. You can understand someone's fear of being abandoned without letting that fear influence all of your decisions.</p>
+<p>I’ve seen people—and even myself—get so preoccupied with trying to understand another person’s suffering that we lose sight of how the relationship affects us.</p>
+
+
+
+  
+
+
+<p>Understanding someone may change how much anger you carry toward them, which can help you manage and heal from that anger. But it doesn’t necessarily change how much contact is allowed.</p>
+<h2>Boundaries Don’t Guarantee a Good Response</h2>
+<p>A common misconception about boundaries is that once they're set properly, other people will eventually respect them. Perhaps so, but setting boundaries isn't a way to get someone else to change their behavior.</p>
+
+<p>The other person is still free to dislike your boundary; they can criticize you, misinterpret your intentions, become distant, or even cut you off. Part of differentiation is stretching your capacity to tolerate another person’s displeasure—even when every instinct tells you to smooth things over just to make the anxiety disappear. </p>
+
+<p>Many people believe the answer is complete cut-off; however, a wide range exists between complete closeness and complete cut-off. Maybe visits become shorter. Maybe you stop discussing certain subjects. Maybe you stop trying to convince someone to understand you. You could maintain warmth while sharing less personal information.</p>
+
+<p><em>In some cases, when a relationship is abusive, threatening, or continuously destructive, it may be necessary to maintain a great distance or have no contact at all.</em></p>
+<p>The key question is whether your decisions come from reactivity or from thoughtful reflection. If you’re facing a relationship that seems to require you to lose yourself to keep the peace, consider asking yourself:</p>
+
+<p>What will occur when I cease to play my normal role? And what will happen if I stop overexplaining, rescuing, pursuing, or appeasing?</p>
+<p>Can this person accept the idea of a separate self? Can I disagree with them and yet remain connected?</p>
+<p>How far can I go in this relationship without losing myself?</p>
+<p><strong>And perhaps most importantly:</strong> What would I choose if I weren’t making this decision from guilt, fear, anger, or the need to make the other person understand? This is a question I still return to, both in my work and in my own relationships.</p>
+
+<p>Remember, a person can wound others even if they are wounded themselves. You can show compassion for someone's limitations while still not being okay with how they express them. You can look at your own behavior<strong> </strong>without taking responsibility for theirs.</p>
+<p>The challenge isn’t always finding the perfect words to make someone else understand your needs. Sometimes, the real work is getting clear about who you want to be in the relationship—even if the other person never truly understands you. In the end, your clarity about yourself is what matters most.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/your-emotional-meter/202609/when-relationship-peace-requires-self-betrayal" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/your-emotional-meter/202609/when-relationship-peace-requires-self-betrayal</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/your-emotional-meter/202609/when-relationship-peace-requires-self-betrayal</guid>
+            <dc:creator><![CDATA[Ilene Strauss Cohen Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/pexels-mikhail-nilov-7929696.jpg?itok=3omlu1tv" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Identify an Emotionally Abusive Family]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/beverly-engel.jpg?itok=ZNtZYdxc" alt="Beverly Engel L.M.F.T." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Abuse</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Identify an Emotionally Abusive Family</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Do you have an emotionally abusive family?</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The hostility in emotionally abusive families causes children to feel frightened, insecure and off-balance.</li><li style="margin-bottom:6px;">In these households, children may be bombarded with conflict, criticism, competition and chaos.</li><li style="margin-bottom:6px;">Denial, scapegoating, and gaslighting are often features of emotionally abusive families.</li>
+            </ul>
+          </div>
+                    <p>Family is supposed to be an environment where children receive the love, guidance, encouragement and support they need in order to mature into healthy adults. Unfortunately, in some families, not only are children deprived of the support and encouragement they need, but they are constantly bombarded with experiences of conflict, criticism, competition and chaos. These are what I call <em>emotionally abusive families</em>. The tension and hostility that exist in such families cause children to feel insecure, frightened, and off-balance. </p>
+
+<p>In many households, emotionally abusive behavior ends up saturating the family environment until it seems normal. Behavior such as constant putdowns (often in front of others), unreasonable expectations, dismissing or mocking one another’s opinions, and character assassinations go on constantly. While not every emotionally abusive family looks the same, in this post, I will describe many of the common features.</p>
+
+<p>Emotionally abusive families can have the following features:</p>
+<ul>
+<li><em>Denial. </em>Parents who are being emotionally mistreated by their partner <em>deny</em> they are being abused. They make up excuses for their partner’s behavior: “He’s going through a rough time at work right now.” “That’s the alcohol talking, that’s not how he really feels.” Abusive spouses deny they are mistreating their partner: “I don’t criticize you all the time, you’re just too sensitive.” Parents deny they are being abusive toward their children. “Oh, stop crying. I didn’t mean it the way you heard it.” “I’m having a bad day, just stay away from me.” And parents deny they are damaging their children, either when they abuse them or when they neglect them. “Don’t make such a big deal out of this. I didn’t hurt you that much.” “I’m sorry that I’m so tired all the time. But you’re a big girl, you can take care of yourself.” Children in these families also deny there is abuse going on—whether it is toward a parent, a sibling or toward themselves. “My parents argue but I wouldn’t call it abuse.”</li>
+<li>There is often a sense of <em>competition</em> with each sibling vying for the attention and approval of their parents. <em>Sibling bullying</em><strong> </strong>is rampant, often progressing into sibling abuse. The most typical scenario is that an older sibling who either witnesses abuse between their parents or experiences abuse firsthand takes their anger and feelings of frustration and helplessness out on their younger or weaker siblings. They may criticize their younger sibling relentlessly, bully or make fun of them, or they may become physically or even sexually violent toward them. </li>
+<li>Parents, as well as other family members, regularly <em>gaslight</em> the children, telling them that what they see, hear and feel is not real. This makes it extremely difficult for children to trust their own perceptions and sense of reality. </li>
+<li>Children suffer from a painful <em>sense of aloneness</em> and <em>isolation</em>. Instead of offering a sense of connectedness, in an emotionally abusive family, each person typically has to fend for themselves. There is usually no one to look to for support, no one to trust. </li>
+<li>There is often a <em>code of silence</em> with no one talking about the abuse that is going on, especially to those outside the family. If one family member does speak up, that person is often viewed as the enemy for betraying the family and exposing the family secrets. </li>
+</ul>
+
+<p>In an emotionally abusive family, everyone is affected. And everyone generally reacts to and participates in the family dysfunction in some way. Every family member is either being abused directly, being a witness to abuse, denying or pretending the abuse isn’t occurring, or passing the abuse along to a weaker or younger person in the family. Here are some of the ways family members react to the abuse:</p>
+
+<ul>
+<li><em>They turn a blind eye</em>. It can become so painful for loved ones to witness one parent abusing another, or a parent abusing a sibling that they try to block it out of their mind.</li>
+<li><em>They become “silent partners.</em>” This most often occurs when a parent stands by while one or more children are being abused by the other parent. </li>
+<li><em>They minimize and normalize what is happening</em>. Family members are good at telling themselves that what is happening is normal or is “no big deal.”</li>
+<li><em>Blame-shifting.</em> Blaming someone else for their poor behavior or for their problems is very common. In fact, this, combined with never taking responsibility for their mistakes, faults or shortcomings characterizes emotionally abusive behavior. </li>
+<li><em>They blame the victim</em>. This is a particularly common phenomenon. It occurs because it is very difficult for family members to process the reality of abuse. Instead, it is easier to convince themselves that the victim must have done something to bring on the abuse. </li>
+<li><em>Scapegoating. </em>Parents will often single out one child that they identify as the “problem child,” bullying them, making them feel like they don’t belong, even blaming them for all the family problems. Other children in the family will follow their parents’ lead and treat the scapegoat in the same way. </li>
+<li><em>They take sides and often follow in the abuser’s footsteps.</em> It is extremely common for witnesses to take the side of and identify with one parent over the other. This may be because they feel closer to either the victim or the abuser or because they are afraid of the abuser. </li>
+<li><em>Neglect.</em> Emotional abuse and neglect go hand in hand. An emotionally abused mother may become so worn down by her partner’s abuse that she is too tired or depressed to tend to her children. She may sleep most of the time, or, as a way of coping, she may begin to drink too much or take drugs.</li>
+</ul>
+
+<p>If you recognize your family in the behaviors above, the first step to healing is to admit this to yourself, whether you are an adult child of such a family or you are a parent caught up in an abusive dynamic. In the coming months, I will take a deep dive into the phenomenon of emotionally abusive families based on my new book, <em>Adult Children of Emotionally Abusive Families. </em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-compassion-chronicles/202609/how-to-identify-an-emotionally-abusive-family" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-compassion-chronicles/202609/how-to-identify-an-emotionally-abusive-family</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-compassion-chronicles/202609/how-to-identify-an-emotionally-abusive-family</guid>
+            <dc:creator><![CDATA[Beverly Engel L.M.F.T.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-omar-tapia-129681804-36922121.jpg?itok=ELlGN9Ju" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Case for Halloween]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ksp_carriekennedy_080b-removebg-preview.jpg?itok=HKKNmreG" alt="Carrie H. Kennedy Ph.D., ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Case for Halloween</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Less stress, more connection, and surprising health benefits with Halloween.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Routine casual interactions with neighbors reduce feelings of isolation and loneliness and increase belonging.</li><li style="margin-bottom:6px;">There are physical and mental health benefits to the act of giving.</li><li style="margin-bottom:6px;">Halloween provides developmental opportunities by encouraging make-believe and stimulating imagination.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-mike-jones-9740388.jpg?itok=C09DdfCu" width="320" height="213" data-insert-type="image" alt="Halloween offers a number of surprising benefits for childhood development and neighborhood cohesion." title="Mike Jones / Pexels"></div>
+<div class="caption">Halloween offers a number of surprising benefits for childhood development and neighborhood cohesion.</div>
+<div class="insertArea--origin subtext">Source: Mike Jones / Pexels</div>
+</div>
+</div>
+</div>
+<p>We are moving rapidly into the holiday season. You can’t escape the signs. Stores are selling Halloween decorations, and (way too soon!) winter holiday decorations are sharing the shelves. As a mental health professional, holidays fascinate me. Holidays are intended for us to take a break from work so that we can reunite with family and celebrate traditions. That’s not always how it goes down, though. Our big holidays require a lot of logistics and work and, at times, management of complex family dynamics, and can get very expensive—in short, they can come with a lot of stress. </p>
+
+<p>Halloween, on the other hand, despite not being a day off of work, comes with little stress and expectation, and unless you have to buy three rounds of Halloween candy because you keep eating it too early (not that I have any personal experience…), it’s not terribly expensive. Of interest, minus the candy, Halloween is potentially the holiday with the most mental health benefits.</p>
+
+<p>Let’s talk about the surprising benefits of Halloween.</p>
+<h2>Establishes bonds with neighbors and community</h2>
+<p>There is no other holiday that gets you and your neighbors together like Halloween. Whether you are outside decorating your houses, <a href="https://www.psychologytoday.com/us/blog/alpha-blog-charlie/202305/3-things-you-can-do-to-feel-good-right-now">walking around in the fresh air</a> to trick-or-treat at each other's houses, or having a community get-together, Halloween creates involvement in your neighborhood, strengthening neighbor bonds. Is this important? Heck, yeah. Your neighbors are some of the most important people in your lives. <a href="https://www.psychologytoday.com/us/blog/sense-of-belonging/202504/the-power-of-belonging-from-hello-to-help">Routine casual interactions with neighbors</a> reduce feelings of isolation and loneliness and increase a sense of belonging, provide social and other tangible support, and, when you are able to help a neighbor, feelings of self-worth and value. </p>
+
+<h2>It is a true giving holiday</h2>
+<p>Halloween is truly a giving holiday. It is the only day of the year when you welcome friends, family, and strangers alike to your door. Some communities are so good at this that people who don’t live there show up to trick-or-treat. On no other day of the year is this true. And happily for you, there are physical and mental health benefits to the act of giving. Specifically, the act of giving has been associated with <a href="https://pubmed.ncbi.nlm.nih.gov/34676898/">decreased heart rate, blood pressure, and mean arterial pressure</a>; decreased cortisol levels (stress hormone); stimulation of neurochemicals associated with pleasure; mood and social connection (serotonin, dopamine, and oxytocin); and <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Femo0001577">decreased depression, anxiety, and loneliness</a>. Routine giving has even been shown to <a href="https://pubmed.ncbi.nlm.nih.gov/12807404/">increase longevity</a>. And Halloween provides a chance to give directly to others, so if you are handing out treats, be ready for everyone. Have some no-sugar treats, dog treats, and a couple of extra trick-or-treat bags for that inevitable child who doesn’t have one. And if you are that full-sized candy bar house, please send me your address.</p>
+
+<h2>Halloween stimulates imagination, creativity, and social skills in children</h2>
+<p>Halloween provides developmental opportunities by encouraging make-believe and stimulating imagination through selection of their alter ego for the night, creating costumes, and decorating. <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1186512/full">Pretend play</a> in particular has been linked to the ability to self-regulate, because it draws on attention, working memory, adaptability, and impulse control, and <a href="https://www.sciencedirect.com/science/article/abs/pii/S1871187123000640">creativity</a> is associated with better visual processing and verbal short-term memory and working memory. Additionally, Halloween facilitates structured social interactions with a significant number of people, copious practice of social etiquette and manners (please and thank you!), and sharing behavior (or possibly intense negotiations with siblings over the best stuff). These types of experiences throughout childhood are pivotal to cognitive, social, and emotional development, and, thus, from a developmental perspective, Halloween should be considered an action-packed opportunity.</p>
+
+<h2>It’s an easy holiday</h2>
+<p>Halloween doesn’t involve travel, copious amounts of time, and logistics to buy presents for, feed, and house the entire family, and, as holidays go, can be done fairly inexpensively. Halloween has a <a href="https://www.nypl.org/blog/2018/10/26/brief-history-halloween">fascinating history</a>, but over time has evolved into what we see today: a fun holiday when we can pretend to be someone or something else, scare each other in the name of fun, and of course indulge a little. </p>
+
+<p>So—keep it appropriate, embrace your creativity, have some fun, enjoy the developmental benefits for your kids, don’t forget the dog, get outside, breathe the fresh air, talk to your neighbors, and enjoy the holiday with the least stress.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/alpha-blog-charlie/202609/the-case-for-halloween" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/alpha-blog-charlie/202609/the-case-for-halloween</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/alpha-blog-charlie/202609/the-case-for-halloween</guid>
+            <dc:creator><![CDATA[Carrie H. Kennedy Ph.D., ABPP]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-mike-jones-9740388.jpg?itok=73Fv93u1" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Manifesto for Letting Kids Be Kids to Enjoy Wild Free Play]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Child Development</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Manifesto for Letting Kids Be Kids to Enjoy Wild Free Play</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Peter Gray wants children to have more independence and less anxiety.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Anthropologists have observed that youngsters play at the skills critical for well-being in their own culture.</li><li style="margin-bottom:6px;">The fundamental task of childhood is to grow ever more independent of adult care and protection.</li><li style="margin-bottom:6px;">A new book documents possible beneficial effects of screen time as it provides new ways for children to play.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/marc_r___s_bow.jpg?itok=SCd7MBsx" width="320" height="256" data-insert-type="image" alt="A young student learning to use a play bow, a common play invitation signal in dogs and other animals, to get me to play with her." title="Marc Bekoff."></div>
+<div class="caption">A young student learning to use a play bow, a common play invitation signal in dogs and other animals, to get me to play with her.</div>
+<div class="insertArea--origin subtext">Source: Marc Bekoff.</div>
+</div>
+</div>
+</div>
+<p>For a long as I can remember, I loved to play and wound up studying play in various animals for decades, <a href="https://newworldlibrary.com/product/the-emotional-lives-of-animals-revised">something I still do.</a> When I first learned of Peter Gray's work on childhood development with a focus on play, I immediately became a huge fan. He and I have published on a number of similar topics, and among the ones on which we converged, often unknowingly, was the importance of play for youngsters of many species. One example is the importance of the Golden Rule for maintaining a friendly and fair play space.<sup>1, 2</sup></p>
+
+<p>For these and many other reasons, I was thrilled to learn about Gray's highly acclaimed, paradigm-changing new book <a href="https://www.penguinrandomhouse.com/books/784213/restoring-childhood-by-peter-gray/"><em>Restoring Childhood: How to Set Kids Free in the Age of Anxiety</em></a>.</p>
+<p><strong>Marc Bekoff: Why did you write</strong><em><strong> Restoring Childhood</strong></em><strong>?</strong></p>
+<p><strong>Peter Gray:</strong> In early 2024, I was gearing up to write a different book, which would be entitled <em>Play Makes Us Human</em>. That book would be about the role of play in shaping us through our three histories: our evolutionary history, our cultural history, and our individual developmental history. Then, in March of that year, Jonathan Haidt’s book, <em>The Anxious Generation</em>, was published. </p>
+
+<p>While I, of course, liked the portion of Haidt’s book aimed at promoting more traditional outdoor freedom and play for children, I was concerned about the portion to which most readers were attending—the portion claiming that modern technology, especially smartphones and social media, was a major cause of the mental health decline among teens beginning around the year 2010. I had been following carefully the research on effects of such technology on teens and could see that Haidt’s book referred only to a very small set of the hundreds of relevant studies and completely ignored the many published reviews and meta-analyses of those studies, which consistently revealed no meaningful relationship between teens’ uses of such technology and their mental health. The book was feeding into what was already something of a moral panic about teens and technology, and I felt a need to bring data and reason to the public concern about this. </p>
+
+<p><strong>MB: How does your book relate to your background and general areas of interest?</strong></p>
+<p><strong>PG: </strong>I am an evolutionary psychologist. Among the most powerful of the drives aimed at enabling independence is the drive to play. Anthropologists who have studied children in cultures where children have ample time and freedom to play report that children there play at the full range of skills that are crucial for human well-being everywhere and also play at the skills that they can see as critical for well-being in the culture where they are developing.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/peter_gray.jpg?itok=vBm_3rgS" width="320" height="483" data-insert-type="image" title="Penguin Random House/with permission." alt="Penguin Random House/with permission."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Penguin Random House/with permission.</div>
+</div>
+</div>
+</div>
+<p><strong>MB: Who do you hope to reach?</strong></p>
+<p><strong>PG: </strong>I hope to reach everyone. A message presented most forcefully in the last chapter is that all adults should feel obliged to help create a society conducive to healthy child development. I describe especially the roles of educators, parents, city and town planners, recreation departments, librarians, and pediatricians, but I conclude by asking everyone to think about what they can do to help bring more play and freedom to children’s lives.</p>
+
+<p><strong>MB: What are some of the topics you consider, and what are some of your major messages? </strong></p>
+<p><strong>PG: </strong>To address this question, I will list the major insights conveyed in the book:</p>
+<ul>
+<li>The fundamental task of childhood is to grow ever more independent of parental (or other adult) care and protection. Current societal practices are hindering, even preventing, children from pursuing that task. This has led to psychological suffering.</li>
+<li>Children need time and space to play, explore, daydream, and find themselves. We are keeping children way too busy with adult-directed activities.</li>
+<li>Children need less forced instruction, less oversight, more trust. All those extra hours of schooling along narrow, curriculum-determined lines are burning kids out, not educating them. Academic instruction to little kids, in preschool and kindergarten, has proven to be especially harmful.</li>
+<li>Children gain courage, agency, social skills, emotional control, and much more through their independent play with other children, away from adult intervention and control. For a satisfying life, these skills are far more important than what is taught in school.</li>
+<li>We need to stop forcing anxiety-inducing competitions onto children, in school and elsewhere. We should encourage cooperation, not competition. Making friends is much more important, for long-term happiness and the benefit of society, than winning.</li>
+<li>We must stop thinking of childhood as a period of résumé building for some future charted by adults and start thinking of it as a period of finding oneself and figuring out how that self fits best into today’s world.</li>
+<li>The parental practices that have come to be labeled “intensive parenting” are harmful to children and parents alike.</li>
+<li>Teenagers need more acceptance into the culture as the apprentice adults they truly, biologically are. We need to stop treating them like infants.</li>
+<li>We need to welcome kids into public spaces rather than discourage them.</li>
+<li>To adapt well in today’s world, children need freedom to play and explore in digital space, just as they need freedom to play and explore in other spaces. The digital world is increasingly an integral part of all aspects of the “real world” in which our children are growing. There is no going back. The popular view that digital activities are more harmful than helpful to children and teens is not supported by science.</li>
+</ul>
+
+<p><strong>MB: How does your book differ from others that are concerned with some of the same general topics?</strong></p>
+<p><strong>PG:</strong> There is no other book like it. Historians (especially<a href="https://nyupress.org/9780814716656/children-at-play/"> Howard Chudacoff</a> and <a href="https://www.hup.harvard.edu/books/9780674019980">Steven Mintz</a>) have written about the decline of U.S. children’s freedom to play since about 1960, but nobody has documented, to the extent that I have, the consequence of this decline on children’s well-being. </p>
+
+
+<p>Also, my book is the first to document the <em>beneficial</em> effects that the computer revolution had on children’s well-being, as it provided new ways for children to play and interact with one another.</p>
+<p><strong>MB: Are you hopeful that as people learn more about the critical importance of "having a proper childhood" for normal development and later life, they will do all they can do to allow kids to be kids? </strong></p>
+
+<p><strong>PG: </strong>This book is meant to be a call to action, not just an intellectually interesting exploration of the societal conditions required for healthy child development. At the end, I ask readers to go to my personal website and leave a message stating what they are doing, or gearing up to do, to help “restore childhood.” So, yes, I am hopeful.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202609/a-manifesto-for-letting-kids-be-kids-to-enjoy-wild-free-play" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202609/a-manifesto-for-letting-kids-be-kids-to-enjoy-wild-free-play</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202609/a-manifesto-for-letting-kids-be-kids-to-enjoy-wild-free-play</guid>
+            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/becky_s_dogs.png.jpg?itok=fWQLZ9KH" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
