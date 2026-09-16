@@ -4,355 +4,329 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 21:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 04:40:17 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 21:12:10 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 04:40:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Should You Trust the Algorithm or Your Gut?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-06/image001-removebg-preview.png.jpg?itok=_gPb2Luk" alt="James R Langabeer Ph.D., Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Should You Trust the Algorithm or Your Gut?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Knowing when to trust AI in decision-making.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[If Your Therapist Gets Sick, Do You Want to Know?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-09/martha_sweezy__1_.png.jpg?itok=oUv3EMll" alt="Martha Sweezy Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Boundaries</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">If Your Therapist Gets Sick, Do You Want to Know?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When the therapist gets a serious health diagnosis, what should they disclose?</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Know what your AI tool is optimized for. Engagement or speed isn't the same as your best outcome.</li><li style="margin-bottom:6px;">People default to one failure mode, either algorithm aversion or automation bias, and rarely calibrate.</li><li style="margin-bottom:6px;">Track your tool's track record for your specific situations, not just its general reputation.</li><li style="margin-bottom:6px;">When the algorithm and your gut disagree, let that friction prompt reflection.</li>
+              <li style="margin-bottom:6px;">Therapists model good boundaries, but illness puts self-disclosure of highly private information on the table.</li><li style="margin-bottom:6px;">Clients talk about themselves; therapists don't, on the whole. That may change with illness.</li><li style="margin-bottom:6px;">Although confidentiality is a cornerstone of psychotherapy, it doesn't apply to the therapist.</li><li style="margin-bottom:6px;">A serious health diagnosis is one of those terrible therapeutic opportunities.</li>
             </ul>
           </div>
-                    <p>Imagine you're one of the estimated <a href="https://stories.td.com/us/en/article/2026-ai-insights-report-artificial-intelligence-at-the-consumer-inflection-point">55 percent of Americans</a> who rely on artificial intelligence (AI) to help manage your finances, select an investment portfolio, or create a financial plan (TD Bank, 2026). Or you’re a human resources manager who relies on an AI algorithm to rank your candidates to streamline the search process. In both cases, you are probably saving a ton of time, but at what cost? More importantly, do you trust the machine to create that plan or make the new hire, or do you trust your gut?</p>
+                    <p><em>Co-authored by Martha Sweezy and Roberta Omin</em></p>
+<p>Imagine you are a therapy client arriving for a session. You watch your therapist walk across the room with a limp. He seems to be in pain; he looks tired and preoccupied. Part of you feels concerned and wants to ask if he’s okay. Another part admonishes internally, “It’s none of your business! That’s how it goes in therapy.”</p>
 
-<p>As artificial intelligence continues to dominate headlines and adoption among consumers and industrial companies is at an all-time high, this is an important area of inquiry and an under-examined category of decision science. It’s not fully intuitive, and it’s not fully rational. Seymour Epstein’s <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/0471264385.wei0507">cognitive-experiential self theory</a> (CEST) holds that two systems drive how people take in and act on information: One is explicit and reasoned, operating mostly in conscious, verbal terms. This is the fully rational perspective. The other is implicit and reflexive, built up over time through experience rather than analysis. This is the intuitive side of decision-making, relying on gut or judgment. Yet in between the two sits a mediating third party: something that feels objective, but isn't always right.</p>
+<p>Now imagine being the therapist. Your limp is a big tell. You’re not sleeping well, you feel exhausted, and it's no wonder – you just got a troubling diagnosis. You are scared, and when you woke up this morning, you felt overwhelmed. You are aware of being deeply vulnerable. No part of you wants to share this information with clients. As you sit down, you hear some inner reassurance, “Don’t worry. We don’t have to talk about it.” </p>
 
-<h2>AI Decision Failure Modes</h2>
-<p>With decision-making, there are often multiple modes of failure specifically relating to the incorporation of AI. One of these is <a href="https://psycnet.apa.org/record/2014-48748-001">algorithm aversion</a>, in which people who have been burned once by an AI error swing reflexively to the opposite side, distrusting future recommendations. Dietvorst and colleagues (2015) found that people lose confidence in an algorithm faster than in a human after seeing the same mistake. Practically, even though evidence-based algorithms more accurately predict outcomes than human forecasters do, when people choose between the two, they often pick the human anyway.</p>
+<h2>A Therapeutic Dilemma</h2>
+<p>Internal Family Systems therapy (IFS) maintains that the mind — the arena of subjective experience — is peopled with <em>parts</em>, or subjectively experienced individuals of all ages who live in an inner community but, just like people, are motivated by different perspectives and concerns. In IFS therapy, we get curious and question the parts who show up. Each one has a backstory. Take Sabra, the client in this example.</p>
 
-<p>Another failure is related to automation bias. This is when we over-trust AI output because it feels more objective and data-driven. There is a common assumption that AI systems are inherently more accurate, given the large language models and sheer volume of data supporting them. This is true even when the person has more contextual information than the model.</p>
+<p>Her parts are in an uproar: </p>
+<ul>
+<li>What if this is serious? What will I do if he’s really sick? And I can’t even ask him.</li>
+<li>I’ve been noticing little changes, but this is clearer today.</li>
+<li>Look, he’ll tell you if he thinks it’s important. Trust him!</li>
+<li>Yeah right! Whenever anyone gets sick, I’m the last one to know. Secrets are always kept from me. </li>
+<li>Why does this keep happening to me? As usual, I’m always treated like the baby. </li>
+<li>Let’s get a new therapist. </li>
+<li>If we can’t trust Daniel to be honest, who can we trust?</li>
+<li>Why should we trust anyone?</li>
+</ul>
 
-<p>These two failure modes can be<em> </em>framed as two ends of a continuum. Yet, most people don't calibrate. Rather, they pick one mode and stick with it regardless of the AI's actual track record.</p>
-<h2>The Trust Gap</h2>
-<p>So what is psychologically new here? With<strong> </strong>human advice, we intuitively weigh the source's expertise, incentives, and past reliability. With algorithmic advice such as agentic AI, that calibration muscle often doesn't engage at all. The recommendation arrives without a visible source of who made the choice and why you should trust them. This is more than the “black box” problem, where you can’t see the reasoning or evaluate the logic behind it, the way you might contest a colleague’s point of view. So, people resort to shortcuts or heuristics (e.g., trusting it completely or dismissing it completely) instead of conducting a proper evaluation.</p>
+<p>And so on. Meanwhile, the therapist, Daniel, is also hearing from many parts: </p>
+<ul>
+<li>Sabra is noticing my walk. I thought I could keep it hidden. What do I do now if she asks me about it?</li>
+<li>I can’t bear to talk about what is really happening to me right now. I’m so vulnerable. I’m terrified and overwhelmed.</li>
+<li>You buck up and do your job.</li>
+<li>And besides, this is strictly private. You don’t owe your clients explanations about your health, and you have to maintain professional boundaries. </li>
+<li>Right, it’s not her job to take care of <em>me</em>. </li>
+<li>Be realistic! This isn’t going to go away. We don’t even know if you’ll be able to go on working. Everyone’s going to know at some point. </li>
+<li>Oh, so you’re ready to talk about this?</li>
+<li>Look, just take care of yourself like you always do. You’ll find a way to handle this. </li>
+</ul>
 
-<p>Bias has real consequences in the domains where getting the decision wrong is most costly. In healthcare, <a href="https://academic.oup.com/jcr/article-abstract/46/4/629/5485292">research</a> by Chiara Longoni, Andrea Bonezzi, and Carey Morewedge (2019) found that patients are less likely to use AI-delivered care, price it lower, and report negative feelings toward it compared to identical care from a human provider. This is driven largely by "uniqueness neglect," the belief that an algorithm can't account for what makes their case different from anyone else's, even when the AI's accuracy is equal to or better than a human's. In recruitment or human resources, algorithmic aversion plays out the opposite way. Organizations often over-trust automated screening tools precisely because they seem more "objective" than a human reviewer, even when the model might quietly encode <a href="https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/">recruitment biases</a> based on gender or race (Dastin, 2018). And in finance, robo-advisors face a similar credibility gap (Niszczota &amp; Kaszás, 2020). Clients frequently trust an automated portfolio recommendation less than an equivalent one from a human advisor, even when the algorithm's track record is stronger, because a single visible misstep feels more damaging when it comes from a machine.</p>
+<p>While going through the ritual beginning of a therapy session, Sabra and Daniel are experiencing parallel inner hubbubs. Over the next few weeks, as they don’t talk about it and he remains visibly symptomatic, the hubbubs grow louder. The elephant is in the room. How does this affect therapy? Everything changes. Rather than exploring, they both inhibit, each for their own reason. Without conscious intention, they call their protective parts to the battlements and send their vulnerable parts to the castle depths. </p>
 
-<p>The common thread across domains is the <em>emotional register</em> of the decision (how personal, high-stakes, or identity-relevant it feels). This register determines whether people over- or under-trust the algorithm, regardless of its accuracy. That's precisely why calibration, not blanket trust or blanket suspicion, matters most where the stakes are highest.</p>
+<h2>Who Are These Vulnerable Parts? </h2>
+<p>Sabra’s vulnerable parts were infantilized, uncherished, unsafe, and over-and-under-protected from the behaviors of authority figures who did one thing and said another. </p>
+<p>Daniel’s vulnerable parts don’t want to be exposed. They feel inadequate and shamed, particularly compared to smarter, more valued people at home and in school.</p>
 
-<h2>Focus on Decision Calibration</h2>
-<p>None of this means treating every algorithmic recommendation with suspicion, or accepting things at face value. It means building the same kind of calibrated trust you'd extend to any new source of advice. You earn trust through evidence; it should not be granted or denied by default. Here's what that looks like in practice:</p>
+<h2>Do Therapists Need Privacy? Do Clients Need to Know?</h2>
+<p>Yes.</p>
+<p>If the therapist wants privacy but believes the client needs to know, whose needs come first? </p>
+<p>When it gets complicated, the therapist needs a therapist — and supervision — to sort it out. Though painful, this process is their opportunity to engage in what IFS calls a U-turn — a pivot to their inner world, their vulnerable parts, and seminal experiences of early shaming. The best guide through the Minotaur’s maze is the one who has already gone through it — if they’ve paid kind attention to the experience their parts had in the maze.</p>
 
-<ol>
-<li><strong>Ask what the tool is optimized for, not just what it recommends.</strong> A recommendation engine built to maximize engagement, or approval speed, isn't the same as one built to maximize your outcome. You should always know which one you're using.</li>
-<li><strong>Track its track record specifically for you.</strong> Instead of a blanket trust/distrust stance, keep a log of when it's been right or wrong for your situation, the way you'd size up a new financial advisor over several meetings.</li>
-<li><strong>Treat disagreement as a prompt to explain, not a verdict.</strong> If the algorithm's recommendation contradicts your gut, that's a cue to articulate <em>why</em> you feel differently. Sometimes that surfaces a bias in your own reasoning; sometimes it surfaces something the model is missing.</li>
-<li><strong>Separate the decision from the deference.</strong> Using AI input doesn't mean abdicating any decisions. The goal is an informed choice, not letting a tool make the choice for you by default.</li>
-</ol>
+<h2>Sorting the Personal and Professional</h2>
+<p>Therapists are taught to be cautious about sharing personal information with clients for good reason. Therapists also prefer to keep what is personal out of their professional realm. It’s the job of therapists to model good boundaries. We can’t mean “yes” or “no” without clear boundaries. A genuine “yes” and a genuine “no” are essential relational tools. At the same time, life requires flexibility. Generalized rules can’t cover every contingency. </p>
 
 
 
   
 
 
-<h2>Reframing AI-Based Decision-Making</h2>
-<p>Given the rapid adoption of AI, we need to move past the question of “should you trust AI?” Instead, focus on how you are calibrating trust with your chatbot or AI tool. As I covered in a previous post, overthinking can lead people to <a href="https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202602/why-people-regret-decisions-they-think-about-the-longest">regret decisions</a> they think about the longest, less because of the outcome and more because they never developed confidence in “the how” of their decision. AI-assisted decisions are especially vulnerable to this because people rarely feel ownership over a choice they partly outsourced.</p>
+<p>When an illness or accident disrupts our personal lives, it will likely affect our professional lives. Since therapy is a “relationship” profession, the illness of the therapist puts self-disclosure on the table, sometimes of necessity (due to medical treatment, absence, abrupt cancellations, or forced retirement), and sometimes because the illness is noticeable. </p>
 
-<h2>Summary</h2>
-<p>As AI tools become embedded in more everyday decisions, the skill of calibrated trust will matter as much as the tools themselves. Pay attention next time an algorithm gives you a recommendation, and note which failure mode you tend to default to. Treat that awareness as the first step toward better-calibrated decisions.</p>
+<p>How we handle that disclosure can have a profound impact on the therapeutic relationship, especially when it touches on a client’s traumatic past or current problem. Sabra’s mother, for example, died of cancer when she was 12 years old. Beyond informing the client, disclosure is often a therapeutic opportunity, a potential for a corrective relational experience, and a chance to help the client with their fear of loss and abandonment, inhibited grief, and penchant for self-sacrifice. </p>
+
+<h2>Do the Right Thing</h2>
+<p>In IFS, we build relationships on multiple levels at once, both inside and out. Therapy is a co-creation, carefully nourished and tended by relational attunement. The goal of IFS therapy is to come to <em>parts</em> from the zoomed-out perspective of the <em>Self</em>, the “I” in all of us that’s characterized by compassion, courage, curiosity, and love, among many other fine qualities. When therapist and client can both access these resources, they find their way to doing the right thing. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202609/should-you-trust-the-algorithm-or-your-gut" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/internal-family-systems-therapy-for-shame-and-guilt/202609/if-your-therapist-gets-sick-do-you" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202609/should-you-trust-the-algorithm-or-your-gut</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/how-to-make-better-choices/202609/should-you-trust-the-algorithm-or-your-gut</guid>
-            <dc:creator><![CDATA[James R Langabeer Ph.D., Ed.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/internal-family-systems-therapy-for-shame-and-guilt/202609/if-your-therapist-gets-sick-do-you</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/internal-family-systems-therapy-for-shame-and-guilt/202609/if-your-therapist-gets-sick-do-you</guid>
+            <dc:creator><![CDATA[Martha Sweezy Ph.D.]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-googledeepmind-18069697.jpg?itok=JjXQ6YZ8" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/when_the_therapist_gets_sick_stef_-b._pexels-titus-fr-11081177_copy.jpeg.jpg?itok=hlYltNgk" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Should Couples Save Their Tough Conversations for Therapy?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/rick_miller.png.jpg?itok=6mi-djOs" alt="Rick Miller LICSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Should Couples Save Their Tough Conversations for Therapy?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Handling hot-button topics inside and outside the therapist's office.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Tricky Business of Calculating Risks and Rewards]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Glenn-Altschuler.jpg?itok=gBo2fyvc" alt="Glenn C. Altschuler Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Help</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Tricky Business of Calculating Risks and Rewards</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Does a social safety net reduce risk tolerance?</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>Psychologists define risk tolerance as a relatively stable <a href="https://rpc.cfainstitute.org/research/foundation/2018/risk-tolerance-and-circumstances">characteristic</a>, reflecting core personality traits. Risk tolerance is, nonetheless, subject to change, as individuals age and respond to recent events, set in the context of their past and present life circumstances, their behavioral biases, and their assessment of risk and reward. And risk tolerance is domain-specific. The same person can have a high tolerance for risk in investments, while prioritizing safety when arranging a blind date.</p>
+
+<p>In <em>Worth the Risk: The Seven Myths That Keep Us from Taking the Chances We Need To Take</em>, Allison Schrager (a senior fellow at the Manhattan Institute and author of <em>An Economist Walks Into A Brothel: And Other Unexpected Places To Understand Risk</em>) argues that Americans have become increasingly risk-averse, a development that portends diminished returns and higher costs for them and the United States. The world, she declares, “has never been safer, and there has never been a better time to take risks.”</p>
+
+<p>Focused mostly, but not exclusively, on financial and investment decisions, Schrager’s book is adorned with thumbnail sketches of risk-takers, including Harland Sanders, the founder of Kentucky Fried Chicken, and the Wallenda family of tightrope walkers.</p>
+<p>An informative and engaging examination of an important topic, <em>Worth the Risk</em> is provocative, but not always persuasive.</p>
+
+<p>Schrager acknowledges daunting challenges to her thesis. “Without a common definition of safety,” she writes, “it is hard to know what should be considered risky behavior. And because risk is a nebulous concept, many of us define it based on emotion, not rational probability.”</p>
+<p>Schrager speculates that the federal government reforms of the 1960s and ‘70s — Medicare, Medicaid, Food Stamps, school lunch programs, disaster relief, consumer and environmental protection laws — convinced many Americans that risk “was something to be reduced or eliminated.” In the ensuing decades, she indicates, the word risk has taken on “negative connotations.”</p>
+
+<p>One might theorize, just as credibly, however, that the social safety net provides a financial foundation that encourages risk-taking.</p>
+<p>Moreover, Schrager assesses alternative explanations of the decline in risk tolerance in passing or not at all. Americans over 65, who are less willing to take <a href="https://cepr.org/voxeu/columns/identifying-effect-age-willingness-take-risks">risks</a>, regardless of macroeconomic developments in the United States, for example, now comprise almost 20% of our nation’s <a href="https://www.statista.com/statistics/457822/share-of-old-age-population-in-the-total-us-population/?srsltid=AfmBOooOtgv0gFYGGrxZZb3fsXIhKvTTVlWffeLD7lQ4GC8-S7UKlujR">population</a>, up from 10% in 1970. More than three-quarters of Americans, including a high proportion of 40-somethings, have grown more financially <a href="https://www.fglife.com/research">cautious</a> in response to the Great Recession, the COVID-19 pandemic, inflation, rising health care costs, and the potential impact of A.I. on jobs. The growing unwillingness of Americans to start small businesses reflects a grim <a href="https://www.sellerscommerce.com/blog/small-business-statistics/">reality</a>: 9 out of every 10 of them fail.</p>
+
+<p>Schrager endorses claims that the risk aversion of <a href="https://psycnet.apa.org/fulltext/2018-40992-001.html">adolescents</a> that has manifested itself in declines in substance abuse, unprotected sex, crime, and dangerous automobile driving is due to “helicopter parenting” and social media use, which has resulted in less unstructured time with friends and acquaintances. She cites a study by cultural psychologist Yulia Chentsova-Dutton, which asserts that less exposure to risk at this age is changing brain development in ways that make it more difficult to deal with setbacks in adulthood.</p>
+
+<p>And Schrager notes a recent phenomenon that doesn’t fit the thesis of rampant risk aversion: the decision of many Gen Z Americans to bet lots of money on sports contests and crypto <a href="https://news.northwesternmutual.com/planning-and-progress-study-2026">stocks</a>.</p>
+<p>In the end, <em>Worth the Risk</em> is mostly hortatory. Shrager knows that a third of Americans do not have sufficient savings to sustain them for a <a href="https://finance.yahoo.com/personal-finance/banking/article/state-of-savings-report-110009028.html">month</a>, but doesn’t think “anyone can argue that people with less means need to take fewer risks.” She seconds the proposal of psychologist Abigail Baird that the best time to train your brain to take risks “is when it’s still forming,” even though things may still feel unstable. Schrager exhorts her readers to “find the courage to change jobs more frequently.” She insists “you never age out of risk-taking.”</p>
+
+
+<p>“Maintain a healthy perspective,” Schrager concludes. “The downside to risk-taking is probably not as bad as you think, because the world has never been safer. Odds are you will bounce back even if a risk goes badly. We have more options and second chances than any other time in history.”</p>
+<p>What, then, should one make of Schrager’s paean to risk-takers and risk-taking? Perhaps Robert Oppenheimer had it right: “The optimist thinks that this is the best of all possible worlds,” he wrote, “and the pessimist knows it.”</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/this-is-america/202609/the-tricky-business-of-calculating-risks-and-rewards" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/this-is-america/202609/the-tricky-business-of-calculating-risks-and-rewards</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/this-is-america/202609/the-tricky-business-of-calculating-risks-and-rewards</guid>
+            <dc:creator><![CDATA[Glenn C. Altschuler Ph.D.]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-ch-jawad-224803663-36933234.jpg?itok=Qa1B64cs" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Do I Keep Replaying Conversations in My Head?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/CSW_2817-Edit-Edit-2-removebg-preview.jpg?itok=c_AiFAuB" alt="Carolyn Karoll LCSW-C, CEDS-S" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anxiety</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Do I Keep Replaying Conversations in My Head?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What we are trying to figure out after the conversation is already over.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Early in therapy, saving tough topics for sessions can prevent explosive arguments at home.</li><li style="margin-bottom:6px;">Many couples who make progress in therapy begin to have healthier conversations outside of sessions.</li><li style="margin-bottom:6px;">Difficult issues can be discussed outside of therapy once couples have some experience.</li><li style="margin-bottom:6px;">Therapy may also be an appropriate use of time to have the most challenging conversations.</li>
+              <li style="margin-bottom:6px;">Fear of rejection can make small details feel much more meaningful than they are.</li><li style="margin-bottom:6px;">You can spend hours replaying a conversation without getting any closer to knowing what someone thought.</li><li style="margin-bottom:6px;">Reassurance may bring temporary relief, but repeatedly seeking it can keep the anxiety going.</li><li style="margin-bottom:6px;">Feeling embarrassed afterward does not necessarily mean you did something wrong.</li>
             </ul>
           </div>
-                    <p>John and his partner Mark are in couples therapy with me, and John always saves up conversations about money—their hot-button issue—until they're safely ensconced in my office. There are plenty of opportunities for them to discuss financial decisions and complaints at home, but John refuses to because "I know we'll end up in an argument," he says.</p>
+                    <p>You had dinner with your girlfriends. It was a fun night. You laughed a lot, as usual, and even put a date on your calendars for the next night out. Later that night, as you wash your face before bed, something you said at dinner comes back to you. You noticed it at the time but didn’t think much of it, and the uneasy feeling quickly passed. Now you’re replaying the interaction and wondering whether you came across as rude. Did you interrupt someone? You know you tend to do that. Was the joke you told actually funny? What was that look on one friend’s face? Was she irritated that you asked about her marriage? </p>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/getty-images-p8wil5cmhio-unsplash.jpg?itok=gpyvXvV0" width="320" height="206" data-insert-type="image" title="Getty Images/Unsplash" alt="Getty Images/Unsplash"></div>
-<div class="insertArea--origin subtext">Source: Getty Images/Unsplash</div>
-</div>
-</div>
-</div>
-<p>John and Mark aren't alone; to my surprise, another couple asked me recently whether they should wait until their session to talk about challenging subjects, or discuss them together first outside of therapy. It's an interesting question. It's true that many couples come to therapy in the first place because they're having difficulty working through a challenging scenario and perceive it as a safe space in which to voice their problems and work out a solution. But which comes first?</p>
-
-<p>It's important for me to note here that I (and this is true for other clinicians I know) don't advocate for any one "side" of an issue. I'm here to moderate the conversation, to facilitate the process between the two partners to help them hear and understand each other and to communicate. I don't offer solutions; I help them find their way to <em>their</em> solution. So if they come looking for easy answers, they won't find them.</p>
-
-<h2>Start where you are</h2>
-<p>In the early stages of therapy, many couples save hot-button topics for actual sessions, often because the conflict between them is extreme and one or both of them feel it's safer to have a moderated discussion. And sometimes they're right: I can advocate for each of them to listen to and understand each other fully while expressing their own views.</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/sed-creatives-sardar-meut4tdvabc-unsplash.jpg?itok=klI74KvP" width="320" height="400" data-insert-type="image" title="Sed Creatives Sardar/Unsplash" alt="Sed Creatives Sardar/Unsplash"></div>
-<div class="insertArea--origin subtext">Source: Sed Creatives Sardar/Unsplash</div>
-</div>
-</div>
-</div>
-<p>When couples first seek help, a lot of them are highly conflictual—that may be why they sought me out in the first place. No matter what they do, they end up in an argument—frequently even in my office!—and then I encourage them to not discuss whatever volatile situation they're in until their session. Often these early fights devolve into one partner threatening to leave the other, which I absolutely discourage: It's no way to communicate. </p>
-
-<p>The therapy environment is by its nature safe: The couple has committed to not walk out on each other during a session. Having a skilled, empathetic third party who is not involved in the conflict provides a moderating influence that the two partners might be incapable of reaching on their own.</p>
-<p>On the other hand, one result of this practice is that they can fall into the habit of saving things up. A habit like that means that the couple has come to rely on that one hour as a conflict-resolution time—and then sometimes they don't try to do it at home. That doesn't mean they won't eventually be able to resolve conflicts away from the office, of course; every couple has to start somewhere.</p>
-
-<h2>Talking together</h2>
-<p>One of the goals of couples therapy is to improve partners' communication skills: how they bring issues up with each other, the wording they choose, the tone they employ. These can be learned, together, in the safe environment of the session. They can practice making positive "I" statements (i.e., "I feel rejected when you don't call" versus "I think you're selfish") and being gentle rather than aggressive.</p>
-
-
-<p>Part of good communication is to become a good listener, so I can teach the couple to forgo being reactive to their partner's comments or questions and instead hear what the other person is saying from a different vantage point. </p>
-<p>Frequently, as a therapist, I ask them to talk further on issues that haven't been resolved by the end of the session, with confidence that they can do it. Of course, that's a great idea if their communication strengths have grown and they feel confident bringing up the issues and in their partner's responses.</p>
-
-<h2>The ultimate goal</h2>
-<p>While there's nothing wrong with getting in the habit of saving things for sessions, the ultimate growth of a couple means feeling more confident with what they discuss <em>outside</em> of sessions and practicing their skills together. That's how they recognize that true change is taking place. </p>
-
-
-
-  
-
-
-<p>So I challenge couples to consider when and where communication can best happen for them. What time of day? How much time is needed? I urge them to allow these conversations to inhabit their own space, rather than just throwing out an issue when they're on their way out to dinner.</p>
-<h2>Communicate in person or online?</h2>
-
-<p>One place where I really discourage bringing up difficult issues is via text. Many couples seem to prefer having long text conversations as a way of arguing, and the loss of nuance and ease of accusations without a filter can make these arguments last for days instead of being contained and resolved.</p>
-
-<p>If you're using texting, then for <em>sure</em> save it up for your next therapy session.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/andrej-lisakov-trcz9zncrvw-unsplash.jpg?itok=N1ETijEM" width="320" height="213" data-insert-type="image" title="Andrej Lisakov/Unsplash" alt="Andrej Lisakov/Unsplash"></div>
-<div class="insertArea--origin subtext">Source: Andrej Lisakov/Unsplash</div>
-</div>
-</div>
-</div>
-<h2>One size doesn't fit all</h2>
-<p>My own personal preference? To be honest, I don't really care: Couples can use their time with me for conflict resolution or just for checking in and discussion. A lot of couples look forward over time to having this space to use for topics that are uncomfortable or impractical to talk about at home.</p>
-
-<p>Sometimes it's the subject matter that dictates the timing: Intimacy, sex, family of origin, trauma, marriage—these are all really big topics that many couples feel more comfortable discussing in my presence, and they then have the opportunity to continue the conversation outside of my office.</p>
-<p>Many therapists give couples a lot of direction: between now and next week, try doing such-and-such. And while I've also occasionally given "homework" assignments, by and large I've found that a great deal of growth actually does happen in my office.</p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/zahra-omer-zd3a2qjvnd8-unsplash.jpg?itok=BQtu0JIU" width="320" height="213" data-insert-type="image" title="Zahra Omer/Unsplash" alt="Zahra Omer/Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/alexandra-gorn-smus_juza9i-unsplash.jpg?itok=6Shuu01e" width="320" height="320" data-insert-type="image" title="Photo by Alexandra Gorn on Unsplash" alt="Photo by Alexandra Gorn on Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Zahra Omer/Unsplash</div>
+<div class="insertArea--origin subtext">Source: Photo by Alexandra Gorn on Unsplash</div>
 </div>
 </div>
 </div>
-<p>And many couples will use their therapy sessions as an opportunity for defining their differences and finding commonality or compromise; it becomes a metaphor for their relationship and how they understand and resolve things in other circumstances.</p>
-<p>So—save it up or try it on your own? The answer is always a qualified "yes"! It depends on where each couple is in terms of volatility and communication, what they want to achieve, and how I can best help them get there.</p>
+<p>This is where an ordinary interaction can take on outsized importance. Everything someone does starts to feel like a judgment, criticism, or a sign they're upset with you. You remember one friend eyeing the server for the check while you were in the middle of a story, and you wonder if she was bored. Soon, you’re wondering whether you bored the whole table and whether they texted each other afterward to talk about you. You may even start imagining them figuring out how to avoid the next dinner or planning when they can get together without you.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/unwrapped/202609/should-couples-save-their-tough-conversations-for-therapy" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/unwrapped/202609/should-couples-save-their-tough-conversations-for-therapy</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unwrapped/202609/should-couples-save-their-tough-conversations-for-therapy</guid>
-            <dc:creator><![CDATA[Rick Miller LICSW]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/getty-images-hjskw973xg0-unsplash.jpg?itok=B41onKPU" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Sacrifices of Parenting a Child With Schizophrenia]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/sarah_myers.png.jpg?itok=uuTys-8l" alt="Sarah An Myers" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Sacrifices of Parenting a Child With Schizophrenia</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A father tells of his sacrifices while caring for his daughter.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Parenting a child with a schizophrenia disorder comes with enormous sacrifices.</li><li style="margin-bottom:6px;">Some of those sacrifices may involve your career, family neglect, and even divorce.</li><li style="margin-bottom:6px;">The reward of seeing a loved one thrive with their disorder can offset these negative effects.</li>
-            </ul>
-          </div>
-                    <p dir="ltr"><em>This is Part 2 of a series. Read Part 1 </em><a href="https://www.psychologytoday.com/us/blog/living-as-an-outlier/202609/how-to-parent-an-adult-child-with-schizophrenia"><em>here</em></a><em>.</em></p>
-<p dir="ltr">This is the second part of an interview I had with my father, who was my sole caregiver while I experienced the worst days of my diagnosis of schizoaffective disorder in my teens and early 20s. His help and sacrifices allowed me to live a fully functioning life with the full range of joy, adventure, and failure, in addition to my own pain. I now have two master’s degrees, enjoy exploring the city of New York where I live, have owned two dogs, and work as a writer and photographer. </p>
+<p>In my private practice as a psychotherapist, I see this often. Rather than simply calling it “overthinking” and focusing only on how to stop, I am interested in what someone is trying to accomplish by replaying the interaction. The reality is, you probably remember what happened. What you don’t know, and what you’re trying to figure out, is what the other person thought of you.</p>
 
-<p dir="ltr">This part of the interview details the deep sacrifices my father and my family had to make to ensure I led as “normal” a life as I could. If you’ve wondered what it takes to help a family member living with a schizophrenia disorder, his perspective may help.</p>
-<p dir="ltr">Jim Myers is a father and sibling of three family members who lived and live with a schizophrenia disorder. He has been my mental health advocate for 20 years. He often told me that his childhood experience with his siblings prepared him for caring for an adult child with the same illness. Professionally, he has a Ph.D. in electrical engineering, worked as the director of engineering at a small company making security cameras, and loves the outdoors, animals, and instilling a sense of childlike joy in his children. He is now retired and enjoys simple things like sitting on the backyard patio with the cats and playing handball with his friends. This is some of his wisdom.</p>
+<h2>What Are You Really Trying to Find Out?</h2>
+<p>When you’re trying to work out what someone thinks of you, almost anything can become a clue. Your friend asking for the check might mean she was offended and couldn’t wait to leave. It might also mean she was tired after a long week, didn’t like driving at night, or had to get up early. Once you’re embarrassed or worried, those explanations don’t tend to get equal consideration.</p>
 
-<p dir="ltr"><strong>Q: Many people may look at schizophrenia advocates and see their individual success story. But what is often not shown is the suffering and sacrifices that made that possible. What have you, as the parent, sacrificed, and what motivated you to make the sacrifices that you did?</strong></p>
-<p dir="ltr"><strong>A: </strong>Sacrifices are mainly time, money, and mental stability. A great deal of time is required to care for the person affected, line up appropriate professionals, and take the person to their appointments or make sure they get there. </p>
+<p>Confirmation bias can take over from there. If you’re afraid that you interrupt too much, you remember every time you started speaking before someone had finished. You may even question whether you listened to the rest of your friend’s story. If you worry that people find you annoying, someone checking her phone suddenly seems important. The laughter, the parts of the conversation that flowed easily, and the plans for another dinner begin to count for less. None of that proves that nobody was ever irritated, but anxiety tends to treat anything that might signal rejection as evidence and everything else as inconclusive.</p>
 
-<p dir="ltr">Even with insurance, the medical bills can become overwhelming. Depending on your personal or financial situation, you may not have the resources to get appropriate care. This can lead to personal and additional stress while interacting with the affected individual, who may be erratic or unstable due to a lack of diagnosis and appropriate medication. It is very helpful to get a diagnosis of being disabled to receive government benefits.</p>
+<p>Wanting to know whether your friend was annoyed is usually not just about her mood at dinner. Another question often lies underneath: What would it mean about me if she was? “I said something awkward” becomes “I am awkward.” “She seemed annoyed” becomes “People find me annoying.” The replay is no longer about one conversation. It gets mixed up with older fears and, in some cases, lived experiences that led to core beliefs that you are unlovable, unworthy, too much, or not someone other people will want to keep around.</p>
 
-<p dir="ltr">I am not sugarcoating it when I say it is very stressful to interact with someone who does not have a grasp of reality and may be behaving in disruptive ways. Often, they will deny they are sick and refuse medication. You must be resolute and calm, and avoid insisting that the medicine is the only thing that can help them and that their current thoughts are not reality. I had a background in dealing with problems as an engineer and approached the situation in a "problem-solving" manner. </p>
-
-<p dir="ltr">Even so, there is really nothing you can do except support the person as best as possible and seek help when needed. It is very helpful to understand their condition as an illness that you cannot control and that the person cannot help. Always keep in mind that the person has a disease. The National Alliance on Mental Illness can help with that and also connect you to other people in similar situations who may have insight. The affected individual may lie or may tell tales based on psychosis, and you have to be on the lookout for these behaviors so you can act appropriately in each situation.</p>
-
-<p dir="ltr">My motivation has always been to help the person achieve their best ability to function on their own. I have dealt with several family members with mental illness, and it is my belief that each of them wanted to be a regular person and do things everyone else does. Let them have their own life as much as they can handle. This not only helps them but frees you up from some responsibility and caregiving. It takes money and time, but it is satisfying to help and to see improvement, even though it can be very slow at first. The difference may be as little as them being constantly in bed for five days instead of seven or even longer. If you want to know why I do it at all, well, it just seems like the right thing to do. Help those close to you if you can, above all else.</p>
+<p>Rumination can be a way of trying to protect yourself from having those fears confirmed and feeling the pain you may have felt in the past. If you can identify the exact moment when you “messed up,” maybe you can correct it, avoid doing it again, and keep anyone from rejecting you. You try to become beyond reproach, as if getting every interaction right could spare you from criticism, misunderstanding, or hurt. Since nobody can do that, you end up watching yourself and everyone around you even more closely. By then, a lot more is riding on the dinner than anything that actually happened at the table.</p>
 
 
-<p dir="ltr"><strong>Q: One person's success story can also come at a cost. How would you describe the impact that a schizophrenia diagnosis has had on other family members who are not the sole caregiver?</strong></p>
-<p dir="ltr"><strong>A: </strong>The diagnosis itself can carry a stigma. Some people may not even accept the diagnosis. This was the case with my spouse at the time, and their approach was to just tell our child to get over it—as though these were just behaviors of disobedience or something troubling but not serious. This led to conflict and eventually resulted in our divorce so I could get custody of our sick child and seek appropriate treatment. I have talked to other caregivers who had to get a divorce due to having a sick child and the other parent denying the illness or not wanting to deal with it. This has a very negative impact on other children in the family. Divorce is stressful in itself and is compounded by the disagreements and recriminations.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/toa-heftiba-fv1lunshcaw-unsplash.jpg?itok=YIqQ8b8I" width="320" height="480" data-insert-type="image" title="Photo by Toa Heftiba on Unsplash" alt="Photo by Toa Heftiba on Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Photo by Toa Heftiba on Unsplash</div>
+</div>
+</div>
+</div>
+<h2>The Conversation You Wish You Had </h2>
+<p>I suspect most of us have had this experience. Several hours, or even days, after a conversation, we know exactly what we should have said or done differently. In the revised version, you are more confident, less awkward, and know exactly when to stop talking. It is remarkable what you can pull off once the other person is no longer in the room, you have had three hours to prepare, and hindsight is doing some of the work for you.</p>
 
-<p dir="ltr">Other children also do not get the attention they would otherwise receive and may feel like they are unimportant or rejected by their parent(s). This is especially true of younger siblings, and they may (and probably will) develop resentments both toward the sick individual and any parent they believe spends too much time on the other sibling and doesn't give them the same level of attention. It is difficult, but try to give more attention to other siblings. This can be exhausting, trying to take care of everyone when you may need your own help to deal with what seems like an impossible situation. It is even more so when the other spouse refuses to help or actively hinders your efforts.</p>
+<p>Of course, looking back can be useful. Heck, that is often part of what you get to do in therapy. It can help you notice patterns or plan how to respond if something similar happens again. Sometimes you realize you were insensitive or defensive, or that you missed what someone was trying to tell you. If thinking about an interaction leads to insight, an apology, or a decision to do something differently next time, it has served a purpose.</p>
 
 
 
   
 
 
-<p dir="ltr">There will probably be times when your career is affected by your caregiving activities. This is unfortunate because you may have to adjust your work schedule to accommodate your child's needs. This may result in not getting a promotion or not being able to work longer hours to make more money. Since money is needed to pay psychologists and psychiatrists, this can become a problem. Having a well-paying job with good insurance can alleviate a lot of stress. But you will be spending more time outside of work than your colleagues and may not get a promotion. Obtaining a low-stress job is helpful when you have a high-stress home situation.</p>
+<p>Then again, embarrassment is not always a sign that you did anything wrong. You may have rambled, lost your train of thought, made a joke that didn’t land, or heard yourself say something and immediately wished you had worded it differently. It may bother you afterward, but that does not necessarily mean you hurt someone or need to go back and “fix” the conversation.</p>
 
-<p dir="ltr"><strong>Q: How do you go about making the decisions you do, even when others disagree, may find the decisions strange, or outright protest the decisions?</strong></p>
-<p dir="ltr"><strong>A: </strong>My approach was to listen to the professionals and follow their guidance. I concentrated on the needs of the affected person, and this gave me insight that others may not have. After a while, talking to the psychologists and other professionals, I came to realize my decisions were on the mark. One of the longtime therapists we had worked with even told me to trust my instincts. My approach was that if I made a mistake, I wanted the mistake to be providing too much help instead of risking not providing enough help—not in an overbearing way, but by getting therapists or other professionals involved, or letting the person do their own thing. There is a lot of judgment required, and I came to trust my own decisions. It's not that I wouldn't listen to other opinions, but I integrated their ideas into what I knew was helpful.</p>
+<h2>When Reassurance Turns Into Another Round</h2>
+<p>When you can’t decide whether you did something wrong, you may ask someone you trust what they think. Their answer may quell your anxiety at first. If you have what I call a sticky brain, however, it soon finds a detail you forgot to mention or a reason their reassurance may not count. Before long, you’re asking the same question again just in a slightly different way.</p>
 
-<p dir="ltr"><strong>Q: Overall, what can be done to balance harmony within the entire family? Do you think it's possible?</strong></p>
-<p dir="ltr"><strong>A: </strong>I think it is a possibility if both parents are on the same page. I do not know how often this would occur since there is such a drastic difference between perspectives in our culture on mental illness. No one is prepared when it happens to them, and the family disruption is enormous. This means that a lot of communication must take place amongst all family members, even younger ones so they know they are loved and not being ignored. I think it is possible if there is a lot of communication and effort put toward integrating everyone into an environment that is not centered around illness.</p>
+<p>You might recount what happened at dinner and ask whether you sounded rude. When they say they don’t think so, you feel better for a moment. Then you remember that they didn’t hear exactly how you made a particular comment, so you act it out, trying to recreate your inflection and body language. When they still aren’t convinced that you were rude or that your friends were offended and planning to exclude you, you push back harder. They didn’t see the way the others looked at one another while you were talking. They weren’t there to catch the small shifts in their expressions.</p>
+
+<p>There is nothing wrong with asking someone you trust for perspective. Again, that’s often what happens inside the therapy room. It becomes a problem when every answer leads to another worry. At that point, you’re no longer asking what the person thinks. You’re hoping they can give you certainty that what you fear is not true: a certainty that no one can give.</p>
+
+<p>Reassurance can feel satisfying in the moment, which is why you return to it. It may also teach your brain that you need someone else to settle the question each time it comes up. Since its effects are short-lasting, it can leave both people frustrated. You ultimately don’t feel sure, and the person trying to help has run out of ways to answer you.</p>
+
+<h2>What If You Did Get It Wrong?</h2>
+<p>Relationships leave room for people to be awkward, misunderstand one another, and have moments they do not handle perfectly. You can care about how you affect people and make repairs when needed without treating every misstep as proof something is inherently wrong with you. The bigger issue is believing you have to get every interaction right to remain worthy of love and connection.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/living-as-an-outlier/202609/the-sacrifices-of-parenting-a-child-with-schizophrenia" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202609/why-do-i-keep-replaying-conversations-in-my-head" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/living-as-an-outlier/202609/the-sacrifices-of-parenting-a-child-with-schizophrenia</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/living-as-an-outlier/202609/the-sacrifices-of-parenting-a-child-with-schizophrenia</guid>
-            <dc:creator><![CDATA[Sarah An Myers]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202609/why-do-i-keep-replaying-conversations-in-my-head</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/eating-disorder-recovery/202609/why-do-i-keep-replaying-conversations-in-my-head</guid>
+            <dc:creator><![CDATA[Carolyn Karoll LCSW-C, CEDS-C]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-pavel-danilyuk-8057360.jpg?itok=wCKO1ODB" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/annie-spratt-yz7845md44c-unsplash.jpg?itok=BoF__Xa3" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[When Trauma Responses Show Up in Daily Conversations]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/headshot-_rodney_luster_2_psd_-removebg-preview.jpg?itok=s6gozbO7" alt="Rodney Luster Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Trauma Responses Show Up in Daily Conversations</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A simple question can trigger a response rooted in trauma.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Using Neuroscience to Understand and Teach Rhythmic Meters]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Markind.png.jpg?itok=dx-fAGGz" alt="Markind" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neuroscience</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Using Neuroscience to Understand and Teach Rhythmic Meters</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">One person's enduring engagement with musical pedagogy Down Under.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Benign social encounters and interactions may trigger older response-narrative scripting in trauma survivors.</li><li style="margin-bottom:6px;">These triggered trauma-altered responses may eclipse healthier narratives.</li><li style="margin-bottom:6px;">Slowing down, offering safety, and respecting agency can help survivors regain their voice.</li>
+              <li style="margin-bottom:6px;">Meter is typically thought of as the repeating pattern of strong and weak beats in a piece of music.</li><li style="margin-bottom:6px;">In a newer view of meter, it’s a relationship of pulses we experience, felt in time in our brains and bodies.</li><li style="margin-bottom:6px;">An awareness of these ideas may lead to methods that improve how meter is taught.</li>
             </ul>
           </div>
-                    <p>Our existing narratives, created with wisdom, meaningful introspection, and reasoning, can change quickly if triggered by stressful contexts created by past trauma. The residue of a former trauma can shape the global nature of a survivor's response-narrative and their response-content during benign encounters (Crawford, 2023). In my experiences with this phenomenon, survivors may describe a typical encounter like a routine doctor's visit, renewing a license, talking with a friend, or something else, and suddenly an innocuous question triggers an old response-narrative script from long ago. Some survivors have described it as living an old plot in a new moment, finding themselves dialoging in a way that sounds starkly reminiscent of an older narrative. This triggered chronological time disruption may place a survivor back in a time shortly after a previously experienced trauma (Lutgen-Sandvik, 2007). </p>
+                    <p><em>Several months ago, an email from Australia arrived in my inbox—it’s not every day I receive a letter from Down Under—and this is how our across-the-globe conversation got started. Andrea Calilhanna, a doctoral candidate in music education, introduced herself. She explained that she had read my book, </em>Music Between Your Ears,<em> and invited me to be a guest on her “Let’s Talk” music podcast.<sup>1</sup> As we planned and recorded the podcast, I learned that Andrea has a keen interest in rhythm, especially musical meter. After the interview, I returned the favor by asking if I could interview her for my blog about her background and her research. This post is the result.</em></p>
+
+<h2>A Fascination With Meter</h2>
+<p>Music has played a central role in Andrea Calilhanna's life for many years. She studied piano, saxophone, and music theory at the Queensland Conservatorium, earning a diploma in piano performance; she then completed a teacher training program. While raising her family, she performed with various chamber ensembles, rock bands, and jazz groups. She has also taught piano for over 40 years. As a teacher, she noticed that many students struggle with timing and expression, so she began to search for better ways to teach this essential skill. </p>
+
+<p>As her children grew up, she returned to school to earn a master's degree in music at the University of Sydney. Attending lectures on meter by Professor Richard Cohn, visiting from Yale University, she found the answer to her search. Cohn’s meter classes led Andrea to rethink how she taught meter. She began applying his theories with school-age students, helping them recognize and perform meter accurately. The positive results marked a turning point for her teaching and research. Her master’s thesis examined how students learn meter as a relationship among pulses, rather than simply as a notation system of time signatures and written music.<sup>2</sup></p>
+
+<p>Andrea’s desire to teach meter more effectively gradually led her to an important realization: “I needed to know about neuroscience.” This work led her to develop Ski-Hill Graph Pedagogy Meter Fundamentals, which is the focus of her current doctoral-candidate research at the University of Adelaide.<sup>3</sup></p>
+<h2>What Is Meter?</h2>
+
+<p>Meter classically refers to the recurring patterns of strong and weak pulses within a piece of music. Most musical meters are built upon multiples of 2 (duple meter) or 3 (triple meter) beats per measure. The foundational meter of a march, for example, is 2:1 (2 beats per measure) in a strong-weak pattern; for a waltz, it’s 3:1 (3 beats per measure) in a strong-weak-weak pattern.</p>
+
+<p>Typically, each beat lasts the same amount of time, and the strong beat is emphasized by being played louder. Expression, however, is not created by volume alone. Musicians can also shape meter by slightly lengthening strong pulses and shortening weak pulses. These subtle timing shifts enhance music’s expressive interest.</p>
+
+<h2>Mapping Meter</h2>
+<p>Cohn’s lectures introduced Andrea to the concept that meter is something we experience as pulses rather than simply count as beats. He also demonstrated how these pulses can be displayed in a pyramid-shaped diagram called a ski-hill graph. This visual map displays the various repeating pulse patterns contained in a piece of music.</p>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/vecteezy_mysterious-half-lit-portrait-young-man-in-black-turtleneck_68646669.jpg?itok=4g5pgZiK" width="320" height="175" data-insert-type="image" alt="Two voices, two systems" title="Yudhie Yuhdillah Alfurqoni Valentino/Vecteezy"></div>
-<div class="caption">Two voices, two systems</div>
-<div class="insertArea--origin subtext">Source: Yudhie Yuhdillah Alfurqoni Valentino/Vecteezy</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/ski-hill_graph.jpg?itok=-Sy63imw" width="320" height="240" data-insert-type="image" alt="Ski-hill graphs help students better understand and appreciate meter" title="Photo from Clap, Tap and Map: Meter Fundamentals through Ski-hill Graph Pedagogy by Andrea Calilhanna (2025) ISBN: 979-8266573109. Used here with the author’s permission."></div>
+<div class="caption">Ski-hill graphs help students better understand and appreciate meter</div>
+<div class="insertArea--origin subtext">Source: Photo from Clap, Tap and Map: Meter Fundamentals through Ski-hill Graph Pedagogy by Andrea Calilhanna (2025) ISBN: 979-8266573109. Used here with the author’s permission.</div>
 </div>
 </div>
 </div>
-<h2>Old responses, new experiences</h2>
-<p dir="ltr">A survivor's current day responsive language, according to Anzaldua (1999), can be impacted under specific contexts where traumatic memory can seep into a communication borderland where there are no boundaries. In other words, sometimes the impact of a traumatic experience, although far relegated to the past, may inadvertently arise years later in ways not considered, aside from more common PTSD symptoms. Rebekah Perkins Crawford (2023), a researcher at Ohio University, believes there is insufficient understanding of how a former trauma can overwhelm one's present-day capacity to communicate. Lutgen-Sandvik (2007) views trauma-altered responses as those where memory and processing mechanisms relied upon for re-storying our experiences through more accurate, truthful, and meaningful introspection can become temporarily eclipsed by older, obfuscated, post-traumatic triggered narratives (Lutgen-Sandvik, 2007).</p>
+<p>Since musical meters are built upon multiples of 2 or 3 beats per measure, using a ski-hill graph (see picture) helps students identify these repeating patterns as fractions, making it easier to understand and appreciate rhythmic structures for timing and expression within a piece of music. Experiencing meters as pulses that are felt in time is helpful because not all beats are heard: In syncopation, for example, a rest falls on the beat while the note is played off the beat. </p>
 
-<p dir="ltr">Consider the scenario where a young woman sits in a doctor's office with an accompanying parent for a routine first visit, and the physician asks, "Have you ever had any past mental health issues?" There is nothing uncommon in the doctor's question; however, the young adult's posture suddenly grows rigid and tense, and a glimmer of fear crosses their eyes as they briefly look at their parent, who is also in the room. The parent nervously observes as the young woman's demeanor changes, her response marked by nervous hesitation, contours of self-blame, and over-owning.</p>
-
-<p dir="ltr">What is happening here is a chronologically out-of-order <em>relived response narrative</em> (Ripley, 2009). Unknown to the physician is that the patient, years ago at college, experienced a deeply traumatizing event. When she was eventually able to report it to the school, she encountered cold procedure, blank stares, attributional inquiry, and doubt that superseded care and safety. When she tried articulating her experience to a close friend, she encountered overtones of judgment and empty platitudes. Her parents, although caring, at the time attempted to soften things by editing the narrative to avoid discomfort. The patient was essentially met with a lack of necessary empathic messaging that could have helped tremendously. Research has consistently shown that when a survivor's early communicative disclosures are safely respected, and their responses are listened to, received in a non-reactive manner, and believed, this fosters stronger potential for better self-introspection, reflection, and healing, as well as healthier future narratives (Ullman, 1996). </p>
-
-<h2>What's happening</h2>
-<p dir="ltr">Stanovich and West (2000), alongside earlier work by Daniel Kahneman, help clarify the behind-the-scenes neurological work going on when altered communicative responses are triggered in survivors. The process occurs along one of two tracks of neurological systems processing. System 1 thinking/responding is where thoughts (and their cascading communicative responses) happen reflexively, automatically, and swiftly, mostly at an unconscious level; these responses are computationally undemanding, thus removing analytics from the interaction. In System 1<em>,</em> a familiar experience may brush up against traumatic memory, destabilizing current narratives and undermining a survivor's current real-time communication capacity (Stanovich &amp; West, 2000). Another implicated neurological lever here is something Levinson (1995) termed <em>interactional intelligence,</em> the mechanism that lets us make split-second moves in conversation without consciously working out their consequential effects. So in System 1 trauma-cued thinking, the survivor's responses may alter and shift, communicating from a formerly experienced post-traumatic, defense-based response-script.</p>
-
-<p dir="ltr">System 2 thinking/responding, however, is where we consider experiences more carefully and through more meaningful applied analytical lenses. System 2 responding would be where a survivor can safely articulate and make sense and meaning from the events of their lives with <a href="https://www.psychologytoday.com/us/blog/feeling-good/202602/when-trauma-still-hurts-memory-rescripting">healthier scripting.</a></p>
-<h2>What to know</h2>
-
-<p dir="ltr">If triggered, a survivor may feel under attack, with responses in service of getting past the current experience. In these circumstances, the survivor can only assess what feels unsafe and may provide verbal responses from older scripts that may sound distorted or self-incriminating, thereby reinhabiting old affects. This is an outdated survival reflex that is involuntary and reflexive, and should not depict any kind of newer moral truth or insight. This is not their fault.</p>
+<p>Cohn’s contemporary definition of meter and ski-hill graph visualization helps students keep meters’ temporal pulses in mind, acknowledge each pulse division, and develop meter listening skills. In addition, whereas conventional meter theory only focuses on the foundational pulse, ski-hill graphs enable students to see and experience multiple rhythmic patterns. As a result, their timing and understanding of rhythm improve.</p>
 
 
-<h2>Recognizing triggered communication</h2>
-<p dir="ltr">If you are experiencing this phenomenon, or if a loved one witnesses a situation where they may be re-experiencing something, there are a few signs to note. A triggered context-collapse will usher in things like overly apologetic language, appeasement in answering, over-response attempts to restore approval, disproportionate responding, vague or over-owning language, or recessive responses where their voice becomes quieter, tentative, deferential, or withdrawn. There may also be reduced inquiry to questions, answers that lack deeper reflection, responses that seem as if they already know what the interaction will mean, or difficulty updating communication in real time even when things may feel safe. </p>
 
-<h2>What to do</h2>
-<p dir="ltr">Slow the moment down for you or the loved one. Create enough safety so that the thinking voice can slowly come back online and respond. Space and helping language can be as clear as, “I’m right here. Whatever this is you’re feeling, you're safe now with whatever words you want to use, or not.” Important to remember is that we can't talk a survivor out of their own feelings of guilt, over-ownership, or shame in the moment, and we don't want to deepen a survivor's trauma experience. Also, telling a person "it's not their fault” rarely reaches deep enough to alter the core emotional underlayment on its own. If self-agency and time are respected, the person will eventually incorporate this knowledge. The real work of self-understanding and insight always belongs to the survivor, and in that, there is empowerment.</p>
+  
+
+
+<h2>Rhythm and Movement Are Inseparable</h2>
+<p>Functional imaging studies show that the components of rhythm, including meter, are processed by both the brain’s hearing (auditory) and movement (motor) systems. Even when people stay still and listen to music, the motor system is active as it helps the brain recognize rhythm as well as produce rhythmic movements.<sup>4</sup></p>
+
+<p>How does this happen? Does the hearing system learn over time to communicate rhythmic patterns to the movement system, or are the two systems naturally linked from birth and pulse directly with the music’s rhythm?</p>
+<h2>Neural Resonance Theory to Explain Rhythm</h2>
+<p>Calilhanna favors the latter option and is a fan of Neural Resonance Theory (NRT). According to NRT, “pulse and meter arise as a result of neural oscillations resonating to rhythmic stimulation.”<sup>5</sup> In other words, groups of brain cells naturally synchronize their activity with the rhythm of the music, initiating meter. For example, a song played at 180 beats per minute produces a primary beat at 3 hertz (Hz)—i.e., three beats per second. NRT holds that certain brain cells fire at that same frequency. And, because most music contains several rhythmic layers, different groups of brain cells may synchronize with different pulse rates simultaneously.<sup>6</sup></p>
+
+<p>Other rhythmic bursts of brain activity enable the hearing and movement systems to communicate with one another. This allows us to perceive rhythm as well as move in time with it.<sup>7</sup> NRT asserts that this communication occurs through neural activity at frequencies higher than the rhythms pulsing within a piece of music.<sup>8</sup></p>
+
+<p>Since these brain cell firing patterns are biologically based, they occur synchronously in everyone listening to the same piece of music. For NRT, this shared brain activity explains entrainment, the tendency of people to move together naturally when listening to the same song.</p>
+<h2>The Musical Human</h2>
+<p>Curious about how she communicates these ideas in a nontechnical manner, I asked Andrea how she explains these complex scientific concepts to people without a background in neuroscience. How, for example, does she describe them to the person sitting next to her on a bus listening to music? “I point out to them that, even without knowing what it is, they’re engaging with meter when they bob their head or tap their feet. I also tell them, 'You’re musical because you’re human.'"</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/more-than-a-feeling/202608/when-trauma-responses-show-up-in-daily-conversations" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/music-between-your-ears/202609/using-neuroscience-to-understand-and-teach-rhythmic-meters" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/more-than-a-feeling/202608/when-trauma-responses-show-up-in-daily-conversations</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/more-than-a-feeling/202608/when-trauma-responses-show-up-in-daily-conversations</guid>
-            <dc:creator><![CDATA[Rodney Luster Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/music-between-your-ears/202609/using-neuroscience-to-understand-and-teach-rhythmic-meters</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/music-between-your-ears/202609/using-neuroscience-to-understand-and-teach-rhythmic-meters</guid>
+            <dc:creator><![CDATA[Samuel H. Markind, MD]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/caihuuthanh-beautiful-6126170.jpg?itok=uXu0iZAP" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/bhautik-patel-4r8clj_mf2a-unsplash.jpg?itok=f6iUh5Qw" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The Psychology of Singlehood, Revealed Through 5 Films]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/kendall_morgan__1_-removebg-preview_1_.png.jpg?itok=cspgSzlU" alt="Kendall  Morgan M.F.A., M.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Singlehood</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Psychology of Singlehood, Revealed Through 5 Films</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Research shows it's not being single that makes you happier; it's believing that it can.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Safety-Seeking and Chronic Illness]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/katie_willard_virant.png.jpg?itok=TjSml4ti" alt="Katie Willard Virant MSW, JD, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Chronic Illness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Safety-Seeking and Chronic Illness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">To live with chronic illness is to have extended experiences of not feeling safe.</h2><p style="font-size:0.9em;color:#666;">Posted September 15, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Nearly one in four U.S. adults may remain single for life, and half of all singles aren't looking to date.</li><li style="margin-bottom:6px;">Men under 30 are single at higher rates than women in the same age group.</li><li style="margin-bottom:6px;">Research shows the value of believing that singlehood is an opportunity for growth.</li>
+              <li style="margin-bottom:6px;">Chronic illness can cause us to highly value safety.</li><li style="margin-bottom:6px;">Safety-seeking behaviors can be both adaptive and limiting.</li><li style="margin-bottom:6px;">Expanding life to include exploration as well as safety is a highly individual process.</li>
             </ul>
           </div>
-                    <p>Being single in the U.S. seems to be steadily on the rise since 2020. About 41 percent of U.S. <a href="https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/">adults aged 18 to 29 are single</a>. About 51 percent of men under 30 are single, compared to 32 percent of women in the same age bracket. <a href="https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/">Half of U.S. women</a> who are 65 and older are single, frequently as a result of being divorced or widowed. Overall, the <a href="https://www.pewresearch.org/social-trends/2020/08/20/a-profile-of-single-americans/">data suggest that</a> nearly one in four U.S. adults today may remain single for their entire lives, and half of all singles are not even looking to date.</p>
-
-<p>While most people feel that dating has become<a href="https://www.pewresearch.org/social-trends/2020/08/20/public-attitudes-about-todays-dating-landscape/"> harder over</a> the last 10 years, women seem to be having a more difficult time finding someone who meets their relationship standards. As a result, many are embracing singlehood as an opportunity <a href="https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202605/solo-maxxing-and-the-embrace-of-singlehood">to maximize</a> their personal happiness, careers, and mindfulness. Singlehood can have many benefits, such as fostering autonomy and independence. Singlehood can allow individuals to pursue their personal goals, put their careers first, and embrace personal interests such as travel, education, hobbies, dogs, or family.</p>
-
-<p>In a <a href="https://journals.sagepub.com/doi/10.1177/01461672261462978">new study</a> on what it means to “ride solo,” researchers found that<em> </em>being single does not necessarily make you happier or more fulfilled, but<em> believing it does</em> can<em>. </em>Believing that being single is an opportunity to grow leads us to pursue more growth-oriented activities, such as workshops, travel, yoga, or book clubs. Unfortunately, we cannot just convince someone that being single is good for them, according to this research. Just as we cannot make someone optimistic, you cannot make someone believe that being single is good for them. Feeling fulfilled when we are single is something we develop on our own. </p>
-
-<h2>5 films to help you embrace the growth mindset of singlehood </h2>
-<div class="insertArea ck-widget">
+                    <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/stella.jpeg.jpg?itok=AkVRJ5qu" width="320" height="240" data-insert-type="image" alt="&quot;How Stella Got Her Groove Back&quot;" title="20th Century Fox"></div>
-<div class="caption">"How Stella Got Her Groove Back"</div>
-<div class="insertArea--origin subtext">Source: 20th Century Fox</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/img_0874.JPG.jpg?itok=8XaXDpDG" width="320" height="320" data-insert-type="image" title="Katie Willard-Virant" alt="Katie Willard-Virant"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Katie Willard-Virant</div>
 </div>
 </div>
 </div>
-<p><strong>How Stella Got Her Groove Back (1998):</strong> If you are feeling stressed and maybe down after a hard breakup or a divorce, this film is for you. Stella (Angela Bassett), 40, jets to Jamaica and has an island fling with Winston (Taye Diggs), a handsome 20-something. In this film adapted from Terry McMillan's best-selling 1996 novel of the same title, Stella reclaims her desire and aliveness on her own terms.</p>
+<p>To live with chronic illness is to have frequent and extended experiences of not feeling safe. Managing this felt lack of safety necessitates the expenditure of a significant amount of psychic energy. We become highly attuned to our bodies, monitoring our health closely. We associate certain activities with symptom improvement (e.g., heating pad, rest) and others with symptom exacerbation (e.g., eating certain foods, disrupted sleep). We learn to “read” our bodies in order to make decisions about what we need to do — and avoid — to stay as healthy as possible.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/frances_ha.jpeg.jpg?itok=wqdKz6jI" width="320" height="180" data-insert-type="image" alt="&quot;Frances Ha&quot;" title="IFC Films"></div>
-<div class="caption">"Frances Ha"</div>
-<div class="insertArea--origin subtext">Source: IFC Films</div>
-</div>
-</div>
-</div>
-<p><strong>Frances Ha (2012): </strong>If you see being single as a legitimate, authentic life stage rather than just a period spent waiting for romantic love, this is the film for you. Aspiring dancer Frances (Greta Gerwig) meanders through the thrills and humiliations of her late 20s in New York City alongside her best friend, Sophie. Frances’ real love story is her own actualization into her self and her friendship with Sophie.</p>
+<p>In the treatment of anxiety disorders, there is a recognition that anxiety causes people to act in ways that manage their distress. For example, someone who is afraid of flying may avoid airline travel. Someone afraid of the dark may sleep with a light on. Clinicians call these behavior modifications “safety-seeking behaviors” (Thwaites &amp; Freeston, 2005). Safety-seeking behaviors are highly adaptive: We identify what we fear, and we change our behavior as a means of keeping anxiety at bay.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/thelma__louise__22like_that22_.jpg?itok=-bOk2qtM" width="320" height="168" data-insert-type="image" alt="&quot;Thelma and Louise&quot;" title="Metro-Goldwyn-Mayer (MGM)"></div>
-<div class="caption">"Thelma and Louise"</div>
-<div class="insertArea--origin subtext">Source: Metro-Goldwyn-Mayer (MGM)</div>
-</div>
-</div>
-</div>
-<p><strong>Thelma and Louise (1991): </strong>If stepping out of the role of wife, mistress, or even victim in a relationship seems scary to you, then this is the film for you. Thelma (Geena Davis) joins her friend Louise (Susan Sarandon) on a short fishing trip. However, their trip becomes a flight from the law, and when Louise decides to flee to Mexico, Thelma joins her, choosing their friendship over the men they leave behind.</p>
+<p>This is great, right? We orient our behavior to keep us as close to homeostasis as possible. However, we humans are not just wired to seek safety; we also are wired to grow and explore. Paradoxically, we are meant not only to adapt to our environment, but also to act upon it. This raises an important question: When does safety-seeking give us a secure launch pad from which to explore, and when does it impede exploration?</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/high_fidelity.jpeg.jpg?itok=diG-Awrh" width="320" height="180" data-insert-type="image" alt="&quot;High Fidelity&quot;" title="Touchstone Pictures"></div>
-<div class="caption">"High Fidelity"</div>
-<div class="insertArea--origin subtext">Source: Touchstone Pictures</div>
-</div>
-</div>
-</div>
-<p><strong>High Fidelity (2000): </strong>If you are playing your breakup on repeat, this film shows the importance of taking time to sit with your relationship history rather than rushing past it. Rob Gordon (John Cusack) is the owner of a failing record store in Chicago when his long-time girlfriend, Laura (Iben Hjejle), walks out on him. As he examines his failed attempts at romance and happiness, the process drags him, kicking and screaming, into adulthood.</p>
+<p>Safety is an important need for all people. Because illness continually threatens safety, safety-seeking can be especially prominent in people living with chronic illness. We are meticulous about following our medical regimen. We carefully attend to diet, exercise, and rest. We plan our days cautiously to avoid symptom exacerbation. These are positive coping behaviors. Why is it, then, that we still feel unfulfilled, anxious, and depressed? Certainly, there is the grief of the unchangeable limitations imposed by illness. But might there also be the grief of self-imposed limiting beliefs and behaviors?</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/private-benjamin.jpg?itok=JiUBR56I" width="320" height="213" data-insert-type="image" alt="&quot;Private Benjamin&quot;" title="Warner Bros. Pictures"></div>
-<div class="caption">"Private Benjamin"</div>
-<div class="insertArea--origin subtext">Source: Warner Bros. Pictures</div>
-</div>
-</div>
-</div>
-<p><strong>Private Benjamin</strong> <strong>(1980):</strong> If you have previously defined yourself through your relationships, this film is about discovering who you are once that is all stripped away. In this '80s classic comedy, Judy Benjamin (Goldie Hawn) is devastated when her husband (Albert Brooks) drops dead on their wedding night. While she grieves, she decides to enlist in the army. As Judy goes through basic training, she learns how to rebuild her own life.</p>
+<p>The spoon theory is a terrific way of explaining the difficulty of life with chronic illness. The premise is that chronically ill people have a limited number of “spoons” (energy) that get used up very quickly. The battery metaphor is another apt description: People who live with illness have an energy battery that is never full and depletes quickly. Consequently, spoons/charge must be fiercely protected. People living with illness continually have to make judicious choices about how to expend their energy. “No” becomes a familiar stance: “I cannot take on that extra project at work; I cannot wash my hair tonight; I cannot attend that party.” I want to emphasize how important this “no” stance is to maintaining optimal health.</p>
+
+<p>However, “no” can become so embedded that it takes on an automatic quality. We say “no” to everything because we believe our “no” is what keeps us safe. We become fearful of expending energy, and we hoard our limited spoons in case we need them later. We are investing so much energy into keeping ourselves safe that we have little left over for experiencing new things, for taking chances, for growing.</p>
+
+<h2>Adaptive coping or anxious safety-seeking?</h2>
+<p>You may be asking: How the heck can I tell the difference between saving spoons and hoarding spoons, between protecting my health and wrapping my body in bubble wrap? It’s an ever-shifting calculus that only you can evaluate. I invite you to sit with the following questions:</p>
+
+
+<p><em>Am I fulfilled? </em>You might think, “Well, no, I’m not fulfilled because I live with this illness.” Fair enough. But go deeper. Ask yourself what you would do if you did not live with illness. Would you travel? Pursue a particular work path? Be more social? What would you like your life to be like if the limits of your illness were taken away?</p>
+
+<p><em>Are there ways of moving closer to the fulfillment I seek? </em>Perhaps you would be an astronaut if your illness didn’t make that impossible. What would it feel like to watch films and read books about space? To visit your local Science Center? To follow astronauts on social media?</p>
+<p><em>Do my baseline days look different from my flare days?</em> Most of us know that on flare days we’re treading water at best. When you are not flaring, are you swimming at all — even a little dogpaddle? Our baseline days should not exhaust us, but arguably should feel different from flare days. What would it look like to spend some spoons on baseline days in ways that expand fulfillment?</p>
+
+
+
+  
+
+
+<p><em>Am I saying “no” to experiences because I am too ill or because I am afraid of becoming too ill?</em> Protection instincts tend to run high in people living with illness. Is our fear of flaring so great that it causes us to automatically say no, without considering whether or not we actually have the spoons to say yes?</p>
+
+<h2>No shame, no blame</h2>
+<p>I’m aware that many people with chronic illness berate themselves (and are berated) for the ways they live cautiously in the service of managing their illness. This post is not meant to add distress. You, and only you, have the capacity to determine how you need to protect and optimize your health. I simply invite you to consider whether and how there may be room in your life to move (safely) beyond safety-seeking.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/reel-therapy/202609/the-psychology-of-singlehood-told-through-5-films" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/chronically-me/202609/safety-seeking-and-chronic-illness" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/reel-therapy/202609/the-psychology-of-singlehood-told-through-5-films</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/reel-therapy/202609/the-psychology-of-singlehood-told-through-5-films</guid>
-            <dc:creator><![CDATA[Kendall  Morgan M.F.A., M.A.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/chronically-me/202609/safety-seeking-and-chronic-illness</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/chronically-me/202609/safety-seeking-and-chronic-illness</guid>
+            <dc:creator><![CDATA[Katie Willard Virant MSW, JD, LCSW]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/thelma__louise__22like_that22_.jpg?itok=MLA0xHbn" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/img_0874.JPG.jpg?itok=GdTXbc1P" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
