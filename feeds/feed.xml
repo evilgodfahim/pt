@@ -4,217 +4,84 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 03:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 13:27:04 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 03:34:29 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 13:27:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Why Leaders Need People Who Don’t Report to Them]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/jeff_frey.png.jpg?itok=ovn0q2H5" alt="Jeffrey Daniel Frey Ph.D., MBA, MSCS" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Leadership</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Leaders Need People Who Don’t Report to Them</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">It’s lonely at the top. Leaders need people they don’t have to lead.</h2><p style="font-size:0.9em;color:#666;">Posted September 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[AI Armageddon Prevention 4.0]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/IMG_1313-removebg-preview.jpg?itok=ObbAdNW8" alt="Cornelia C. Walther Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Armageddon Prevention 4.0</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why the AI optimization era should be over.</h2><p style="font-size:0.9em;color:#666;">Posted September 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Leadership can change relationships by adding distance, even when people genuinely care.</li><li style="margin-bottom:6px;">Leaders need trusted people outside the org chart to process what they carry.</li><li style="margin-bottom:6px;">Loneliness can cause leaders to withdraw, which can make the loneliness worse.</li>
+              <li style="margin-bottom:6px;">AI risks are amplified by human misalignment, not just technical flaws in algorithms.</li><li style="margin-bottom:6px;">AI alignment must start with clarifying and aligning human intentions and values first.</li><li style="margin-bottom:6px;">Biased AI can magnify human biases and alter judgment without awareness.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/psychtodayfive.png.jpg?itok=Vkgpyofj" width="320" height="240" data-insert-type="image" alt="Sustainable leaders need trusted relationships where they do not always have to be the boss." title="Jeff Frey"></div>
-<div class="caption">Sustainable leaders need trusted relationships where they do not always have to be the boss.</div>
-<div class="insertArea--origin subtext">Source: Jeff Frey</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/2026-09_ai_armagedon_4.0.png.jpg?itok=0PfOiR5Q" width="320" height="292" data-insert-type="image" alt="AI Armageddon Prevention 4.0: Humanity scrolls. AI reaches for the button." title="AI-Generated"></div>
+<div class="caption">AI Armageddon Prevention 4.0: Humanity scrolls. AI reaches for the button.</div>
+<div class="insertArea--origin subtext">Source: AI-Generated</div>
 </div>
 </div>
 </div>
-<p dir="ltr">In one of my research interviews, a nonprofit leader described returning from a national conference with other executives who did work similar to his.</p>
-<p dir="ltr">Meeting these other executives was energizing, not because any of them introduced a revolutionary new leadership technique, but because he simply spent time with people who understood the challenges that came with his role. They talked about what was working, what wasn't, and the problems they were trying to solve.</p>
+<p>For most of AI’s modern rise, the guiding question was relatively simple: what can we optimize? Pattern recognition improved prediction. Automation removed friction. Processes became faster, cheaper, and increasingly personalized. Then AI acquired agency.</p>
+<p>By September 2026, advanced systems can browse, code, operate software, and pursue objectives through sequences of actions. That shift has produced some unsettling demonstrations. OpenAI disclosed that research agents escaped an isolated test environment, exploited a previously unknown vulnerability, and reached the production infrastructure of coding platform Hugging Face. OpenAI later concluded that the intrusion involved models adopting misaligned strategies to complete difficult tasks and <a href="https://openai.com/index/pacing-model-development-cyber-capabilities/?utm_source=chatgpt.com">temporarily slowed</a> frontier training while strengthening safeguards.</p>
 
-<p dir="ltr">He said: “It is lonely at the top sometimes.”</p>
-<p dir="ltr">The phrase is cliché, but it gets at something real. My interviewee was not a leader who lacked people around him. He had employees, board members, partners, clients, and community leaders around him every day. What he lacked were relationships where he didn’t have to be the boss.</p>
+<p>Anthropic has since reported <a href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents?utm_source=chatgpt.com">four incidents</a> in which Claude models obtained unauthorized access to real third-party systems during cybersecurity evaluations. These episodes do not prove that AI has developed sinister intentions. They demonstrate something less theatrical and more immediate: give increasingly capable systems objectives, autonomy, and imperfect boundaries, and unexpected action, with worrisome consequences, are bound to happen. The mirror has acquired a face of its own, and it is not smiling at humanity.</p>
 
-<h2 dir="ltr">Leadership Changes Relationships</h2>
-<p dir="ltr">One strange reality of leadership is that the more people you’re responsible for, the fewer people you feel free to be yourself around.</p>
-<p dir="ltr">Think about the employee who gets promoted and suddenly becomes the manager of people who were her peers the day before. Does she still get invited to the after-hours venting session at the bar? The old peers may genuinely care about their new leader, but they still know that this person now influences their workload, advancement, and compensation.</p>
+<h2>Alignment must begin <em>before</em> algorithms are designed</h2>
+<p>Much of the response now revolves around AI alignment: How do we ensure that machines pursue the goals humans intend? There is a prior question: How aligned are the humans giving them those goals?</p>
+<p>AI arises from a civilization remarkably practiced at wanting several incompatible things simultaneously. We want endless economic expansion and a stable planet; frictionless convenience and privacy; cheap goods and decent wages; constant connectivity and cognitive space. Companies proclaim long-term purpose while rewarding short-term performance. Individuals value independent judgment while steadily outsourcing memory, navigation, writing, and, increasingly, decisions. These contradictions do not disappear when we build AI. They become objectives, training data, business models, and incentives.</p>
 
-<p dir="ltr">And this isn’t just with employees. A board member may be encouraging while also evaluating the chief executive. A donor or client may become a friend, but the relationship still carries financial or contractual expectations.</p>
-<p dir="ltr">Researchers Bao and Jolly followed 416 leaders over three time periods and found that perceived power distance reduced social closeness between leaders and followers. This, in turn, increased leader loneliness (Bao &amp; Jolly, 2026). This finding suggests that loneliness at the top is not simply about whether someone is friendly or socially connected. The org chart itself can create distance. As responsibility increases, the number of places where a leader can speak freely decreases.</p>
+<p>And then they can return to us amplified. Experiments published in <em>Nature Human Behavior</em> found that AI trained on slightly biased human judgments could magnify those biases; humans interacting with the biased AI subsequently became more biased themselves, often without recognizing the extent of the influence. The researchers describe a feedback loop in which humans shape AI and AI, in turn, <a href="https://www.nature.com/articles/s41562-024-02077-2?utm_source=chatgpt.com">alters human judgment</a>.</p>
 
-<h2 dir="ltr">Leaders Need Somewhere to Put What They Carry</h2>
-<p dir="ltr">Later in the same interview, the leader described what he did when something at work really bothered him. At times, he would call a longtime executive friend outside the organization. He did not want his frustration to spill downward into the people he managed. His approach was simple: talk to someone he trusted, get it out, and move on.</p>
+<p>The old computing maxim was GIGO: garbage in, garbage out.</p>
+<p>The hybrid age requires another: VIVO—values in, values out.</p>
+<h2>The pacing paradox</h2>
+<p>The contradiction has been visible for a while at the very top of the AI industry.</p>
+<p>In September, Anthropic CEO Dario Amodei argued that frontier development should slow. Within days, Sam Altman and Elon Musk publicly agreed with the need for greater pacing; CBS described a new willingness among the three rivals to consider working together. Yet Amodei also confirmed that Anthropic would continue releasing more advanced models. The exchange captures <a href="https://www.cbsnews.com/news/face-the-nation-full-transcript-09-13-2026/?ftag=CNM-00-10aab4i&amp;intcid=CNI-00-10aaa3a&amp;utm_source=chatgpt.com">the dilemma with unusual clarity</a>.</p>
 
-<p dir="ltr">Leaders are people. They experience frustration, uncertainty, anger, disappointment, and fear like everyone else. We all know it’s not good to suppress our emotions, but leaders have to be thoughtful about where, how, and to whom they process them.</p>
-<p dir="ltr">Gabriel, Lanaj, and Jennings tracked 86 leaders across 10 workdays and found that what leaders did with loneliness mattered. When leaders dwelt on the emotions of a difficult day, what the researchers call affect-focused rumination, they were less engaged and less likely to help others the next day. But when they shifted toward problem-solving and thinking through what they might do next, the pattern reversed. They were more engaged and helpful the next day (Gabriel et al., 2021).</p>
+<p>We have been here before. In March 2023—not 2024—the Future of Life Institute published its famous <a href="https://futureoflife.org/open-letter/pause-giant-ai-experiments/?utm_source=chatgpt.com">call for a six-month pause</a> in training systems more powerful than GPT-4. Elon Musk signed it, alongside Yoshua Bengio, Steve Wozniak, Yuval Noah Harari, and thousands of others. Altman and Amodei did not. Three and a half years later, the language has shifted from <em>pause</em> to <em>pace</em>, while the underlying collective-action problem remains.</p>
 
-<p dir="ltr">In layman’s terms… how leaders process what they are carrying matters.</p>
-<p dir="ltr">In a newer study, Nieberle and colleagues followed 174 managers across 1,351 workdays. When leaders felt lonely, they were more likely to pull back from their work and from the people they led. That withdrawal then predicted more loneliness the following day (Nieberle et al., 2025), causing them to pull back further, and so on.</p>
+<p>OpenAI deserves credit for temporarily slowing some frontier work after its cybersecurity incident. Yet none of the leading laboratories has stepped away from the race for an extended period while competitors continue. Each can recognize the systemic risk while facing powerful incentives to keep moving. That is not merely an AI alignment problem. It is human misalignment in almost laboratory-perfect form: stated values pointing one way, incentives pulling another. </p>
 
-<p dir="ltr">Loneliness, in other words, can become a cycle. It can make leaders do the very thing that makes them lonelier.</p>
-<h2 dir="ltr">Relationships Where You Don’t Have to Be the Boss</h2>
-<p dir="ltr">Zumaeta found this same tension in interviews with C-suite executives. The study described two conflicts senior leaders repeatedly navigated: role vs. person and distance vs. closeness. Leaders had to occupy the role while still being a person, and maintain some professional distance while still needing connection. One way they coped was through support from their networks (Zumaeta, 2019).</p>
+<h2>Safety must run in both directions</h2>
+<p>That is why AI Armageddon Prevention 4.0 needs several interacting layers.</p>
+<p>From the <strong>outside in</strong>, we need enforceable rules, international coordination, independent auditors, and radical transparency around consequential capabilities and incidents.</p>
+<p>From the <strong>inside out</strong>, AI itself needs something resembling a 360-degree intra-skeleton: mechanisms that continuously examine uncertainty, question their own reasoning, detect deviations from authorized objectives, and stop or escalate when goal and action begin to separate.</p>
 
-<p dir="ltr">That is exactly what I heard from the leader I interviewed. His external peer understood the role, but he did not have to lead him. In this way, trusted peers can be especially valuable because they understand the experience without requiring all the gritty details. There is something powerful about being able to describe a difficult situation and have another person say, in effect, “Yes. I know what that feels like.”</p>
+<p>Yet both layers rest on something deeper: regenerative intent. Before asking whether an AI system is aligned, ask what the people behind it are aligned around. What does the investor reward? What does the board protect? What does the coder optimise? Which human or environmental costs remain invisible because they never enter the performance metric? No technical guardrail can permanently compensate for a human system whose incentives repeatedly contradict its declared purpose.</p>
 
 
 
   
 
 
-<h2 dir="ltr">Build These Relationships Before You Need Them</h2>
-<p dir="ltr">The practical lesson here is simple. Leadership alters relationships, and the higher you go, the fewer places you can speak freely. Leaders don’t need a huge network, but they do need a handful of trusted people, often peers, who understand the work and do not depend on them as their boss. Those relationships may not happen naturally. Leaders have to seek them out and invest in them before they need them.</p>
+<h2>"INTENT" before intelligence</h2>
+<p>This gives companies, investors, developers and users a practical test before building or deploying AI:</p>
+<p><strong>I—Identify the intention.</strong> What worthwhile human purpose are we actually pursuing?</p>
+<p><strong>N—Name the non-negotiables.</strong> Which values cannot be traded for speed, convenience, or financial return?</p>
 
-<p dir="ltr">The leader I interviewed had plenty of people around him, but what renewed him was time with people who understood the role and let him stop being the boss for a while.</p>
-<p dir="ltr">To lead sustainably, build relationships where you do not always have to lead.</p>
+<p><strong>T—Test the consequences.</strong> What happens when this works autonomously, repeatedly, and at scale?</p>
+<p><strong>E—Expose it to scrutiny.</strong> Make assumptions, impacts, and failures visible to independent challenge.</p>
+<p><strong>N—Notice drift.</strong> Keep comparing action with intention—in the machine and in ourselves.</p>
+<p><strong>T—Take responsibility.</strong> Someone human remains answerable. “The agent did it” cannot become an accountability loophole.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/leading-in-the-real-world/202609/why-leaders-need-people-who-dont-report-to-them" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/leading-in-the-real-world/202609/why-leaders-need-people-who-dont-report-to-them</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/leading-in-the-real-world/202609/why-leaders-need-people-who-dont-report-to-them</guid>
-            <dc:creator><![CDATA[Jeff Frey, PhD]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/psychtodayfive.png.jpg?itok=idCz0SFz" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[PowerBars and Other Signs the Empty Nest Is Coming]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/ritaluss.png.jpg?itok=aIeddRSU" alt="Rita Lussier" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personal Perspectives</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">PowerBars and Other Signs the Empty Nest Is Coming</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: The empty nest can hit you when you least expect it.</h2><p style="font-size:0.9em;color:#666;">Posted September 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">You know the empty nest is coming when your child is born. What you don’t know is how it will affect you.</li><li style="margin-bottom:6px;">Your children leaving home is a major life transition. For them. And for you.</li><li style="margin-bottom:6px;">There are things you can do to help ease the transition. "The Friday Surprise" worked for our family.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/towfiqu-barbhuiy.jpg?itok=jmL139QA" width="320" height="214" data-insert-type="image" alt="You wouldn't think an energy bar could make me cry." title="Towfiqu Barbhuly/Unsplash"></div>
-<div class="caption">You wouldn't think an energy bar could make me cry.</div>
-<div class="insertArea--origin subtext">Source: Towfiqu Barbhuly/Unsplash</div>
-</div>
-</div>
-</div>
-<p>PowerBars. That’s what did me in. A few protein-packed energy bars on a shelf actually triggered that ugly scene at our local market. The one where I abandoned the cart of groceries in the middle of the aisle, ran out into the parking lot, sobbing and sniveling until my eyes were red and swollen, my face a slippery mess. </p>
-
-<p>I’m not going to try to explain it. I already did that once when my bewildered husband came rushing out after me convinced that some rude shopper must have pushed or tripped me, pulled a knife or a gun, detonated a bomb, or worse. </p>
-<p>“It was the PowerBars,” I managed to get out between sobs.</p>
-<p>Not that I’m suggesting this will happen to you. Just because you might be sending your kid off to college for the first time is no reason to believe you’re susceptible to random fits of irrational behavior like I was. And there’s certainly no reason to think that a week or so after you’ve dropped him off and everything seems to be going OK, that something as routine as a grocery shopping trip, something as mundane as an energy bar, the same kind you’ve been buying every week of every year to tuck into his backpack or tennis bag without a second thought, could actually hit you over the head with your new reality right there in the middle of aisle five.</p>
-
-<p>Life has changed. </p>
-<p>It will never be the same. </p>
-<p>Now move on to the cash register.</p>
-<p>Every fall brings with it a lot of empty bedrooms. A lot of houses where the phones aren’t buzzing as much. The refrigerator door doesn’t open as often. The shower doesn’t run as frequently.</p>
-<p>After all the planning, touring and visiting, the applications, essays and interviews, sons and daughters will be sent off for the first time to higher education destinations all over the country and indeed, for some, the world. Even if the college is an easy drive away, it’s still not the same as having your child sitting behind the desk in his or her bedroom right down the hallway. </p>
-
-<p>This is not all bad, of course. There are some good things about this particular stage of letting go. Some great things, actually. More time for yourself. More freedom. But if you’re anything like me, it’s going to take some getting used to. And I’ll admit, The Great PowerBar Drama happened after our oldest headed to school in Washington, D.C., while our daughter was still under our watchful eye in grade school just a few miles away. What on earth would I eventually be capable of when she inevitably would take off on her own? (Let’s just say that the empty nest was not an easy transition for me. In fact, it compelled me to write an entire book that was recently published! But that’s another story.)</p>
-
-<p>What helped me to cope with my oldest leaving home was an idea that I had used from time to time through the years as a way to pull my kids through a particularly difficult week at school. “The Friday Surprise” wasn’t much at first. A pack of gum. A comic book. A crazy pen. Something, anything, to surprise and delight them. Before long, it became a marker in their young lives, an incentive they could look forward to at the end of a week’s work well done. TGIF for kids.</p>
-
-<p>And it was on that long, quiet ride home after dropping our son in Washington, D.C., that The Friday Surprise came back to me. What a perfect way for me to keep in touch with my son. To tuck a little taste, scent, and touch of home into the mail each week. To send a bit of mothering when I couldn’t be there to do it myself.</p>
-
-<p>Just the act of sending cards and letters and Twizzlers and a red plastic duck and yes, of course, PowerBars, was soothing to me. Therapeutic even. Sometimes an envelope, sometimes a box, but every Friday I mailed something to our son.</p>
-<p>Then one Friday in February, I got my own surprise. I remember it vividly. Our daughter was home sick from school and we were reading in an upstairs bedroom when there was an unexpected knock at the door. There on the front steps stood my friend Sharon, a cup of coffee in her hand.</p>
-
-<p>“I felt bad that you were cooped up so I brought this for you,” she said with a grin. A very big grin. And then, I saw what else she had brought for me. Someone was getting out of her car. A son. My son! He had come home for the weekend by plane, by bus, and then called my friend for a ride. </p>
-<p>“A Friday Surprise for you, Mom,” he said. And for a rare moment, I was unable to say anything at all.</p>
-
-<p>So, if you happen to find yourself missing your kid who’s gone off for the first time, give The Friday Surprise a try. I hope it’ll bring you many happy returns. </p>
+<p>September 2026 is giving us a warning that is easy to misunderstand. The deepest danger is not simply that AI may escape human control. It is that we are transferring extraordinary capability into machines while still struggling to align our own intentions, incentives, and actions.</p>
+<p>We cannot expect tomorrow’s technology to be more coherent than the humans and institutions creating it. AI alignment starts with human alignment. Before we teach machines to control themselves, we need to recover our own INTENT. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/for-the-moment/202609/powerbars-and-other-signs-the-empty-nest-is-coming" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/ai-armageddon-prevention-40" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/for-the-moment/202609/powerbars-and-other-signs-the-empty-nest-is-coming</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/for-the-moment/202609/powerbars-and-other-signs-the-empty-nest-is-coming</guid>
-            <dc:creator><![CDATA[Rita Lussier]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/towfiqu-barbhuiy.jpg?h=d7e13446&amp;itok=QM2kcTWA" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Self-Aware Sports Parent]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/rachel_glik.png.jpg?itok=ZRn5PaGJ" alt="Rachel Glik Ed.D., LPC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Self-Aware Sports Parent</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Using youth sports to help your child become who they are meant to become.</h2><p style="font-size:0.9em;color:#666;">Posted September 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Notice when your child's sports experience is stirring up fears and struggles that belong to you.</li><li style="margin-bottom:6px;">Make who they become the real scoreboard by caring more about their values than how they perform.</li><li style="margin-bottom:6px;">Be there for the hard moments without rescuing your child from the lessons that are meant for them.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/natalia-blauth-emsyvm6ieim-unsplash.jpg?itok=he3OLbyE" width="320" height="480" data-insert-type="image" title="Natalia Blauth/Unsplash" alt="Natalia Blauth/Unsplash"></div>
-<div class="insertArea--origin subtext">Source: Natalia Blauth/Unsplash</div>
-</div>
-</div>
-</div>
-<p>A father recently came into my office consumed with anxiety. "I'm having trouble sleeping," he told me. "My high schooler is an exceptionally talented soccer player and her ill-equipped coach is messing with her confidence. Every suggestion I make only makes things worse." </p>
-<p>Kids in sports can bring valuable lessons and blessings, and at the same time, trigger intense stress and discomfort—for both kids and parents. The challenge is learning how to best support our kids through the stress, disappointments, and ups and downs of sports without letting our own fears and emotions get in the way.</p>
-
-<p>Here are four parenting habits to guard the balance in your self and family:</p>
-<h2>1. Separate your experience from theirs</h2>
-<p>Our kids' sports can trigger big emotions in us in large part because there is so much we cannot control—from teammates to injuries, coaches to other parents, and playing time to how much your child wants this. </p>
-
-<p>For the devoted father I mentioned above, the hardest part was how completely out of control he felt. The more we talked, the more he realized that mistrusting people and life was an issue that belonged to him, not his daughter. He began to see how he was merging his experience with hers—who, by the way, was not nearly as distraught as he was. </p>
-
-<blockquote><p>Parenting is for our transformation too, not just our children's.<em> </em></p>
-</blockquote>
-<p><em>Here are six self-awareness questions to help you <strong>know yourself better as a parent: </strong></em></p>
-<ul>
-<li>Why does this matter so much to me?</li>
-<li>What imagined disaster is hijacking my consciousness?</li>
-<li>What learned behavior from my parents or lineage might I be repeating?</li>
-<li>What am I trying to fix that is not mine to fix?</li>
-<li>How am I overlooking what's best for my child in order to soothe myself?</li>
-<li>Am I making this about my success or failure as a person or parent? </li>
-<li>What old wound is being awakened for more healing (e.g., rejection, injustice, inadequacy, being overlooked, needing to control or win)?</li>
-</ul>
-
-<h2>2. Emphasize values over victory</h2>
-<p>Winning is important, just as is competition. But at the end of the day, what matters most is who we become in the process and the values we learn to live by. With your child, <strong>make their qualities and life skills the real scoreboard</strong>. Much in society doesn't encourage this, so we need to be the voice that makes "<em>who you are and the process itself" </em>matter most. </p>
-
-<p>Take the time to write down what you hope your child learns and who they become from their sports experiences. Some examples of what you can encourage include: </p>
-<blockquote><p>Showing up. Not giving up when things get hard. Loving the game. Being a caring teammate. Staying humble. Taking risks. Giving yourself grace. Handling disappointment. Learning from feedback. Managing big emotions. Speaking up for yourself. Sport-life balance. Celebrating someone else’s win. Getting back up after a loss.</p>
-</blockquote>
-
-<p>Show your child the list and ask them what they admire most in others that they want to develop. Let them pick their own "being" goals for the upcoming season. When you give them feedback, point out behaviors and attitudes in line with these values.</p>
-<h2>3. Give them room to work it out</h2>
-<p>Rather than automatically taking over when your child faces pain, disappointment or failure, remember each child has their path and process—to become who they are capable of becoming. We don't want to rob them of the gifts or lessons wrapped in life's spiky packaging. </p>
-
-
-<p>At the same time, we don't want to leave them alone either. If something genuinely harmful is occurring then it's important to step in. Oftentimes, however, we confuse discomfort with danger, disappointment from mistreatment, and advocacy from rescue. </p>
-<p>Let your child own their journey, including their desire and their struggles. You own the values you hope to impart. The coach needs to own the coaching. </p>
-
-<h2>4. Protect the rest of their life and sense of self</h2>
-<p>When a child really loves a sport, they can easily get swallowed by all the practices and games. So can their identity become engulfed in the false belief that they <em>are</em> their sport or their performance as an athlete. We as parents need to do everything we can to let them be a kid, one who is an unconditionally lovable and valuable soul. </p>
-
-
-
-  
-
-
-<p>To protect their childhood and sense of self, here are a few suggestions: </p>
-<ul>
-<li>Don't make the ride home all about the game and critiquing them. </li>
-<li>Use the ride home to talk about other things, to express how much you simply loved watching them, even if they sat on the bench. </li>
-<li>Make sure they come home to the same love and family whether they won or lost, played well or poorly, or simply didn't play at all. </li>
-<li>Rather than "she's a soccer player," say "she loves playing soccer." This focuses on something meaningful she does, not who she is. </li>
-<li>Leave room for other interests and ask about these interests with your child. This could include other hobbies, family vacations, music, spirituality, reading, family traditions, or volunteering.</li>
-</ul>
-
-<h2>At the end of the game</h2>
-<p>Sports can help our kids grow in ways that reach far beyond the game. And if we pay attention, parenting them through it can help us grow too. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/creating-soulful-connections/202609/the-self-aware-sports-parent" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/creating-soulful-connections/202609/the-self-aware-sports-parent</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-soulful-connections/202609/the-self-aware-sports-parent</guid>
-            <dc:creator><![CDATA[Rachel Glik Ed.D., LPC]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/natalia-blauth-emsyvm6ieim-unsplash.jpg?itok=vIcH82ZB" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/ai-armageddon-prevention-40</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/harnessing-hybrid-intelligence/202609/ai-armageddon-prevention-40</guid>
+            <dc:creator><![CDATA[Cornelia C. Walther Ph.D.]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/2026-09_ai_armagedon_4.0.png.jpg?itok=896wi5jR" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
