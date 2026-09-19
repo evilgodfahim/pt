@@ -4,198 +4,267 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 12:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 16:16:57 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 12:55:45 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 16:16:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Do You Want to Be Cared For—or Desired?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/authors/aaron_ben_zeev.jpg?itok=m8mK2epE" alt="Aaron Ben-Zeév Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do You Want to Be Cared For—or Desired?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Is caring the essence of romantic love?</h2><p style="font-size:0.9em;color:#666;">Posted September 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[2 Ways the Cerebellum Uses Dopamine to Drive Motivation]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Christopher-Bergland.jpg?itok=_mPjqSpT" alt="Christopher Bergland" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dopamine</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">2 Ways the Cerebellum Uses Dopamine to Drive Motivation</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">New research shows how cerebellar cells anticipate and reinforce rewards.</h2><p style="font-size:0.9em;color:#666;">Posted September 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Caring, desire, reciprocity, and shared activities are central features of romantic love.</li><li style="margin-bottom:6px;">Desire is more distinctive to romantic love; caring is more important for its endurance.</li><li style="margin-bottom:6px;">Profound romantic love is strongest when caring and desire reinforce one another.</li>
+              <li style="margin-bottom:6px;">The cerebellum actively processes dopamine rewards, expanding its role from movement to motivation.</li><li style="margin-bottom:6px;">Granule cells sustain anticipation across delays; climbing fibers fire after reward as instructive signals.</li><li style="margin-bottom:6px;">Use your conscious cerebrum to design cues and rewards that your automatic cerebellar networks can learn.</li>
             </ul>
           </div>
-                    <p>Romantic love involves several characteristics, including caring, shared activities, desire, admiration, and reciprocity. Ideally, a flourishing relationship contains all of them. But if you had to choose between being cared for and being desired, which would matter more? And which is more fundamental to romantic love?</p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/shutterstock_103381400.jpg?itok=_FGxFKlY" width="320" height="384" data-insert-type="image" alt="Cerebellum anatomy - cross section. Cerebellar means &amp;quot;relating to the cerebellum.&amp;quot;" title="CLIPAREA l Custom media"></div>
+<div class="caption">Cerebellum anatomy - cross section. Cerebellar means "relating to the cerebellum."</div>
+<div class="insertArea--origin subtext">Source: CLIPAREA l Custom media</div>
+</div>
+</div>
+</div>
+<p dir="ltr">For decades, traditional neuroscience cast the cerebellum strictly as a mechanical movement coordinator, leaving reward-seeking drive and reinforcement entirely to deep midbrain dopamine-driven hubs like the ventral tegmental area (<a href="https://www.psychologytoday.com/us/blog/the-athletes-way/201901/cerebellum-may-drive-addictive-behavior-dopamine-release">VTA</a>) and <a href="https://www.psychologytoday.com/us/blog/the-athletes-way/202107/the-neuroscience-motivation-and-persistence">striatum</a>. In recent years, however, our understanding of how dopamine fuels motivation has begun to shift.</p>
 
-<h2>The Care Model of Love</h2>
-<p><em>"I love my house too much to leave my husband." —A married woman</em></p>
-<p>Love is often defined in terms of caring for the beloved's needs. Caring goes beyond positive feelings or simply wanting to be together. It involves genuine concern for another person's well-being and flourishing. As Erich Fromm (1956) wrote, love is "the active concern for the life and growth of that which we love." Emmanuel Levinas (1998) similarly emphasized unconditional concern for the other, even without reciprocity. The care model is especially relevant to unequal relationships, such as parental love, love of God, or caring for a seriously ill partner. In such relationships, one-sided devotion may be entirely appropriate.</p>
+<p dir="ltr">A <a href="https://doi.org/10.1038/s41593-026-02449-z">study</a> published September 16, 2026, in <em>Nature Neuroscience</em> found that cerebellar circuits encode dopamine-related rewards in two complementary ways: one that predicts the coming reward and another that responds after the reward arrives.</p>
+<p dir="ltr">This one-two punch is immensely valuable because it concretizes how motivation actually functions. Instead of abstractly stating that "the cerebellum encodes dopamine," this framework provides a tangible, systematic blueprint: first, something must build the expectation of a payoff; second, once the payoff arrives, your brain must register that the preceding action was worth repeating.</p>
 
-<p>Romantic love, however, is typically a relationship between equals. Here, caring is crucial, but reciprocity, shared experiences, desire, positive responsiveness, and mutual flourishing also matter. Caring alone may therefore be neither the essence nor a sufficient condition of romantic love. The question, then, is whether romantic love should be understood primarily as caring—or whether desire and other romantic elements are equally central. One way to approach this question is to distinguish between being cared for and being desired.</p>
+<p dir="ltr">While this study doesn't show that mice consciously look forward to anything, nor does it establish that humans use the exact same cellular mechanics, it offers a powerful model: We can use our conscious cerebrum to set up structured patterns that allow our more <a href="https://www.psychologytoday.com/us/blog/the-athletes-way/201801/how-does-the-brain-unconsciously-master-automatized-skills">automatic</a> cerebellar networks to learn them.</p>
 
-<h2>Being Desired and Being Cared For</h2>
-<p><em>"To love is nothing. To be loved is something. But to love and be loved, that's everything." —T. Tolis</em></p>
+<h2 dir="ltr">How Granule Cells and Climbing Fibers Encode Dopamine</h2>
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-2997777-4699299.jpg?itok=gj5JoauE" width="320" height="216" data-insert-type="image" alt="A loving couple" title="pexels-29997777-4699299"></div>
-<div class="caption">A loving couple</div>
-<div class="insertArea--origin subtext">Source: pexels-29997777-4699299</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/shutterstock_1294151767.jpg?itok=lk4ecT9f" width="320" height="240" data-insert-type="image" alt="Dopamine molecule formula and 3D diagram." title="Andrea Danti / Shutterstock"></div>
+<div class="caption">Dopamine molecule formula and 3D diagram.</div>
+<div class="insertArea--origin subtext">Source: Andrea Danti / Shutterstock</div>
 </div>
 </div>
 </div>
-<p>Falling in love and staying in love involve two broad forms of positive evaluation: attractiveness and praiseworthiness. Attractiveness functions like a magnet. It draws us toward another person and often sparks the wish to establish or deepen a romantic bond. Praiseworthiness reflects qualities we admire, respect, or value, such as wisdom, kindness, integrity, or achievement. These dimensions overlap, but they are not identical.</p>
+<p dir="ltr">To separate reward processing from the physical movements involved in eating or drinking, researchers trained mice to push a robotic handle for delayed activation of dopamine-related reward pathways. They used optogenetic stimulation of dopamine neurons in the VTA and electrical stimulation of the medial forebrain bundle, while using two-photon imaging to watch cerebellar activity at the cellular level.</p>
 
-<p>Being desired primarily reflects attraction. Being cared for primarily reflects concern for one's well-being. Caring is generally broader and more stable, whereas desire tends to be more sensitive to circumstances and more difficult to sustain at the same intensity. Caring is also characteristic of friendship and parental love. Desire—especially sexual desire—is far more distinctive to romantic relationships.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p dir="ltr">The first half of the sequence involved granule cells (GrCs). Many GrCs showed sustained activity during the delay before reward. When researchers changed the delay from 1 second to 2 seconds, the activity pattern stretched to match the new timing and then terminated when the reward arrived. In other words, these cerebellar neurons appeared to encode not simply that a reward was coming, but when it was expected.</p>
 
-  </div>
+<p dir="ltr">Then came the second half. Most climbing fibers (CFs) spiked just after dopamine-reward delivery. Chronic inhibition of granule cells disrupted learning of the self-stimulation task, while using climbing-fiber stimulation as the reward produced moderate operant learning in previously untrained mice. These causal experiments support the idea that the predictive and instructive signals are not merely passive correlates of behavior.</p>
 
-<p>This distinction reveals an important paradox: desire may be what makes love uniquely romantic, while caring may be what helps it endure. Desire often fuels the initial bond between partners. Yet desire frequently diminishes with familiarity and time. Caring, by contrast, can remain stable and even deepen throughout a relationship. Caring without desire may gradually transform romance into companionship. Desire without caring may generate passion without creating a profound bond. Romantic love lies between these extremes, combining attraction, concern, reciprocity, and a shared life (Ben-Ze’ev, 2019).</p>
-
-<h2>What People Say</h2>
-<p>People discussing on <a href="https://www.reddit.com/r/AskWomenNoCensor/comments/1qcm4rc/i_think_i_want_to_be_desired_more_than_i_want_to/be%20loved"><em>Reddit</em> </a>the difference between being desired and being loved often capture this tension:</p>
-<p>"I would prefer to be loved than to be desired. I've had many men put me on pedestals, projected their fantasies onto me, seen me as someone to be desired, and it's not all roses."</p>
+<p dir="ltr">The researchers also found that cerebellar encoding of dopamine rewards was at least as strong as encoding of water rewards in these mice. That makes it harder to explain the findings simply as a reflection of the physical movements used to consume food or water.</p>
+<p dir="ltr">Think of it as a neural one-two punch:</p>
 
 
-<p>"There is something sexy and carnal about pure desire. Being loved and valued is end game, but don't we all want to be desired, especially by our partner?"</p>
-<p>"I've been desired, and it's nice, but desire in the absence of love feels empty to me. You need both!"</p>
-<p>"Once you've experienced love and lust together, one without the other sounds hellish."</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
+<ol>
+<li dir="ltr">Anticipation (Granule Cells): "The reward is coming."</li>
+<li dir="ltr">Reinforcement (Climbing Fibers): "That action produced the reward. Remember it."</li>
+</ol>
+<h2 dir="ltr">Bridging the Gap: Mouse Models to Human Brain Networks</h2>
+<p dir="ltr">Here's where scientific context bridges the divide, provided we keep one foot firmly planted in the evidence.</p>
+<p dir="ltr">Of course, it's impossible to know what the mice subjectively experienced, and fMRI can't confirm that humans have the exact same granule-cell and climbing-fiber choreography. That said, recent human research suggests that the cerebellum heavily participates in reward learning and is highly sensitive to the timing of feedback.</p>
 
-  </div>
-
-<p>These comments point to a fundamental tension. Being desired can make us feel attractive and alive; being cared for can make us feel valued, secure, and significant. Most people want both, even if their relative importance changes over time.</p>
-<h2>The Connection Between Desire and Caring</h2>
-<p><em>"We sapiosexuals are sexually attracted to highly intelligent people, regardless of looks." —Marlène Schiappa</em></p>
+<p dir="ltr">In a July 1, 2026, <em>Journal of Neuroscience</em> <a href="https://doi.org/10.1523/JNEUROSCI.2313-25.2026">study</a>, 32 adults performed a probabilistic reinforcement-learning task while undergoing fMRI. Cognitive regions of the cerebellum, particularly Crus I and Crus II, showed reward and reward-prediction-error signals. </p>
+<p dir="ltr">These cerebellar signals were detectable when feedback arrived 0.8 seconds after a choice but not when feedback was delayed for 3 seconds. The cerebellum also became functionally coupled with prefrontal and caudate regions involved in learning and decision-making.</p>
 
 
 
   
 
 
-<p>Although desire and caring are distinct, they can reinforce one another. Research on the attractiveness halo suggests that physically attractive people across cultures are often perceived as more intelligent, sociable, and morally admirable (Batres &amp; Shiramizu, 2023). The reverse process can also occur. Qualities such as intelligence, kindness, humor, and wisdom can enhance a person's attractiveness. In this sense, attraction and positive evaluation can mutually strengthen each other. The phenomenon of sapiosexuality illustrates this dynamic: for some people, intelligence itself becomes a significant source of sexual attraction. The boundaries between being desired and being cared for are therefore more fluid than they may initially appear.</p>
+<p dir="ltr">Another July 2026 <a href="https://doi.org/10.7554/eLife.105399.3">study</a> of 43 adults found functional interaction between the cerebellum and VTA during fear-extinction learning, including responses associated with prediction errors.</p>
+<p dir="ltr">Taken together, these studies make the cerebellum look less like a purely mechanical movement coordinator and more like an active participant in broader learning networks.</p>
 
-<h2>So, Which Matters More?</h2>
-<p><em>"If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you." —A. A. Milne</em></p>
-<p>If love means concern for another person's flourishing, caring is indispensable. Without genuine caring, desire can become shallow or self-serving. But if we ask what makes love specifically romantic, desire assumes a distinctive role. Caring for a romantic partner is not fundamentally different from caring for a close friend or family member. Romantic desire introduces something distinctive: the longing for intimate connection with this particular person.</p>
+<p dir="ltr">Your cerebrum is heavily involved in conscious planning, deliberation, and deciding what you're going to do. Your cerebellum, by contrast, is exceptionally good at learning patterns and making repeated sequences increasingly automatic that don't require much thinking. Imagine your conscious brain acting as the architect: "I'm going to create the structured conditions that allow my automatic brain to perpetuate this habit."</p>
 
-<p>This does not mean that desire must remain as intense as it was at the beginning. Profound romantic love can survive fluctuations in sexual passion. Indeed, enduring love often transforms early desire into a broader and deeper form of intimacy. The strongest romantic relationships may therefore not require choosing between being cared for and being desired. Instead, they involve finding ways for the two to coexist and reinforce each other.</p>
+<h2 dir="ltr">How to Harness Your Anticipation-Reinforcement Loop</h2>
+<p dir="ltr">We can't use free will to activate cerebellar granule cells or climbing fibers and release a hit of dopamine the way researchers manipulated them in mice. Instead, you can borrow the architecture of this experiment: create a predictable action, a clear expectation, and a reward that follows closely enough for your brain to connect the dots.</p>
 
-<h2>Concluding Thoughts</h2>
-<p><em>"If you love without lust, you have a best friend. If you lust without love, you have a friend with benefits. If you have both, you have a long-term romantic relationship." —A woman</em></p>
-<p>Caring is present in almost every form of love. What makes romantic love distinctive is the addition of romantic and sexual desire directed toward a particular person. Yet neither caring nor desire is sufficient on its own. Profound romantic love ideally combines both.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-16">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1468856734952-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1468856734952-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_In-Content3_0__container__"></div></div>
-</div>
+<p dir="ltr"><strong>1. Create a Predictable Anticipation Window</strong></p>
+<p dir="ltr">Suppose you want to make going to the gym more automatic. Rather than negotiating with yourself from scratch every day, establish a repeatable sequence.</p>
+<p dir="ltr">The goal is to give your brain a reliable temporal structure in which the behavior predicts what comes next. The mouse study found that cerebellar granule-cell activity adapted to the expected timing of reward, while human research suggests cerebellar reinforcement-learning signals are particularly sensitive to short delays between actions and feedback. You're using your conscious brain to create a repeated pattern that unconscious, automatic learning systems can gradually hardwire.</p>
 
-  </div>
+<p dir="ltr"><strong>2. Close the Loop With an Immediate Reward</strong></p>
+<p dir="ltr">The second move is reinforcement. Give yourself something genuinely enjoyable during or immediately after completing the behavior. It could be a favorite podcast that you reserve for workouts, enjoying a refreshing post-workout beverage, or another small reward that gives you that "ding, ding, ding" feeling by tapping into a hedonic reward loop that makes a motivated behavior deeply satisfying.</p>
 
-<p>The challenge is that they do not always develop at the same pace. Desire often begins intensely and may weaken with familiarity, whereas caring frequently grows deeper over time. The task of enduring romance is therefore not to choose between being cared for and being desired, but to sustain a relationship in which partners remain both deeply cared for and genuinely desired as their love matures.</p>
+<p dir="ltr"><strong>3. Let Repetition Do the Heavy Lifting</strong></p>
+<p dir="ltr">At first, your cerebrum may have to consciously dictate the plan. Eventually, the sequence can become so familiar that the first step (e.g., putting on your workout gear) triggers the following steps (e.g., pushing through a HIIT session and rewarding yourself afterwards) automatically. </p>
+
+<p dir="ltr">The latest (2026) cerebellar research reaffirms that repeated behaviors become increasingly automatic via "practice, practice, practice" and that the cerebellum plays a major role in hardwiring motivated behaviors.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/in-the-name-of-love/202609/do-you-want-to-be-cared-for-or-desired" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-athletes-way/202609/2-ways-the-cerebellum-uses-dopamine-to-drive-motivation" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/in-the-name-of-love/202609/do-you-want-to-be-cared-for-or-desired</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/in-the-name-of-love/202609/do-you-want-to-be-cared-for-or-desired</guid>
-            <dc:creator><![CDATA[Aaron Ben-Zeév Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-athletes-way/202609/2-ways-the-cerebellum-uses-dopamine-to-drive-motivation</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-athletes-way/202609/2-ways-the-cerebellum-uses-dopamine-to-drive-motivation</guid>
+            <dc:creator><![CDATA[Christopher Bergland]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-evgeniya-litovchenko-1718484-7008889_0.jpg?h=176072cb&amp;itok=HdocDkNZ" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_1294151767.jpg?h=87136cbf&amp;itok=y8R5bRO1" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Why Your Apologies Are Not Enough for Your Adult Child]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image0_1_-removebg-preview.png.jpg?itok=9LsLSHnF" alt="Jeffrey Bernstein Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Forgiveness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Your Apologies Are Not Enough for Your Adult Child</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">3 ways your apologies can make things worse.</h2><p style="font-size:0.9em;color:#666;">Posted September 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[What to Do When You Suspect Elder Financial Abuse]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/staceywoodedit.jpg?itok=GGMBS-N8" alt="Stacey Wood, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Aging</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What to Do When You Suspect Elder Financial Abuse</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Learn how to raise concerns about financial exploitation without overstepping.</h2><p style="font-size:0.9em;color:#666;">Posted September 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">With relief-driven apologies, the "I'm sorry" reads as "please forgive me so I can stop feeling bad."</li><li style="margin-bottom:6px;">The moment that dreaded "but" shows up, the apology is over in your adult child's ears and mind.</li><li style="margin-bottom:6px;">A better apology is shorter, undefended, and asks for nothing back.</li>
+              <li style="margin-bottom:6px;">Financial vulnerability usually appears years before any diagnosis of cognitive decline.</li><li style="margin-bottom:6px;">Undue influence comes with key signs that include isolating adult children from parents.</li><li style="margin-bottom:6px;">Normalizing money talk, not confrontation, keeps parents engaged instead of defensive.</li>
             </ul>
           </div>
-                    <p>Every week I hear the same story from parents of struggling adult children: "I've apologized. Nothing changes." These parents admit (often readily) that they were too strict, too controlling, or perhaps too permissive. They may have missed identifying (or following up on) their adult child’s anxiety when they were younger, or maybe did not follow up on addressing depression, ADHD, or learning problems. Parents who divorced also acknowledge that the divorce left scars. So why do these parents who say they are sorry (often many times) find their apologies only make things worse?</p>
+                    <p>Adult children often feel caught in the middle as their parents age—torn between wanting to protect them and wanting to respect their autonomy. This tension is especially acute for parents who are widowed or single and going through life transitions, since these are exactly the circumstances that can make someone more vulnerable to exploitation.</p>
 
-<h2>Leah Apologized to No Avail</h2>
-<p>Let's take a quick look at a mother that we can call Leah. She apologized to her 27-year-old son, Dan, three times in one year for how strict she'd been growing up. To Leah's dismay, each apology (I'm sorry I made you feel that way") made Dan more distant and quieter, not warmer. After the third one, he stopped responding to her texts and calls for a few weeks. What didn't help was that Leah went into what I call "constantly taking the temperature mode," flooding Dan with even more repeated messages, essentially the same, "just checking to see if you are okay." </p>
+<p>If you're noticing red flags in real time and aren't sure what to do, you're not alone. In my forensic practice, I hear from families in exactly this position on a regular basis—usually after they've already sensed something is wrong but before they know whether, or how, to intervene.</p>
+<h2>Early warning signs</h2>
 
-<p>Leah wasn't wrong to apologize, but she was wrong about what an apology needs to do, and who it's actually for. When Dan finally responded, he told Leah the apologies felt artificial (Mom, "I'm sorry you feel that way does not cut it). Dan elaborated, saying it was like a performance she needed him to watch. In other words, Leah's apologies didn't land well because Dan felt they didn't match what he saw as a legitimate apology. </p>
+<p>Some of the most significant red flags are also the easiest to miss, because they look like ordinary aging rather than a crisis. Even modest declines in memory or day-to-day cognitive functioning are worth paying attention to. </p>
+<p>Watch for things like: </p>
+<ul>
+<li>Dressing more simply than usual (skipping nail or hair appointments, not updating their wardrobe)</li>
+<li>Preparing simpler meals or relying on take-out/leftovers more often</li>
+<li>Unexplained weight loss</li>
+<li>Leaning on others for rides (even when they're legally capable of driving)</li>
+</ul>
 
-<p>This is the pattern of problematic apologies I write about in my book <em>You Ruined My Life—Now You Owe Me! </em> From the parents' perspective, they are doing all the work in the relationship and get none of the change back. A faulty apology is often part of that pattern, repeated for years without anyone noticing it isn't working. My point here is that if you are going to apologize to your adult child, then make it count. </p>
+<p>These are signs of decline in Instrumental Activities of Daily Living (IADLs), which decline earlier than more basic self-care. Cornell researchers Mark Lachs and Karl Pillemer, whose longitudinal work helped define the field of elder mistreatment, have shown that financial vulnerability tends to show up well before any of the more visible markers of decline—which is exactly why it's so often missed until money has already changed hands.</p>
 
-<p>Here's what usually goes wrong when parents go down the "Bad Apology Expressway:"</p>
-<h2>1. The Apology Secretly Asks for Something Back</h2>
-<p>When I coach parents of adult children and help them unpack their failed apologies, they learn that most apologies aren't apologies; they're requests. Your adult child hears "please forgive me" as a way to take away your pain, not theirs. I get that parents want relief and even want their adult child to say it's okay, to soften, to move on. But in these types of relief-driven apologies, the"I'm sorry" reads as "please forgive me so I can stop feeling bad," and now the emotional messiness lands right back on the parents.</p>
+<h2>A more troubling warning sign</h2>
+<p>A more serious red flag is a new person repeatedly showing up repeatedly in your parent's conversations — someone you haven't met and aren't sure about. Most of the time these relationships are entirely innocuous. But if the connection started online, it's worth paying closer attention to the other person's motivations. </p>
 
-<h2>2. The Apology Explains More Than It Owns</h2>
-<p>When you tie the apology to explaining (usually it's overexplaining) the circumstances, it convolutes, dilutes, and outright refutes the apology you are trying to give. For example, "I'm sorry I was so strict, but I was scared for you." Or, "I'm sorry about the divorce, but your father and I tried everything we could." </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
+<p>Undue influence rarely arrives all at once. It tends to build through a pattern of cutting someone off from their existing relationships, making them dependent on the new person, manipulating them emotionally, securing their compliance, and finally extracting money or property. Families that can describe these patterns are in a better position to get assistance from Adult Protective Services (APS) than less specific calls alerting to general concerns. </p>
+
+<h2>How to talk to your parents without overstepping</h2>
+<p>Part of what makes these conversations hard is that they feel taboo. It's not unusual for adult children to avoid the subject of finances or health decline with their parents altogether—these topics just don't come up naturally in most families. Normalizing them is the first step, and sharing your own financial or health information first can lower your parent's defenses and help the conversation feel collaborative rather than like an intervention.</p>
+
+
+<p>Peter Lichtenberg's research has examined exactly these barriers. His work suggests that while these conversations feel unnatural between parents and adult children, they aren't actually forbidden topics for older adults in general—people are often more willing to discuss finances with friends or acquaintances than with their own children. That's a useful reframe: The awkwardness is about the relationship, not the topic itself.</p>
+
+<p>It also helps to know the timeline. Financial vulnerability typically emerges well before a diagnosis of mild cognitive impairment or the need for a caregiver. It's an early-stage phenomenon, and most people—including the older adults experiencing it—have little insight that it's already happening.</p>
+<h2>What families ask me when it's already underway</h2>
+
+
+
   
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content ad--content-loaded" data-google-query-id="CN774sbY-pYDFQfJPAUdY8ovmA">
-    
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" name="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption" data-load-complete="true" data-google-container-id="7"></iframe></div></div>
-</div>
-
-  </div>
-
-<p>The moment that dreaded "but" shows up, the apology is over in your adult child's ears and mind. They stop hearing remorse, and because it starts screaming as a case for your own defense. Once it feels like your apology is about proving a point, then they check out, and the next apology starts from a deeper hole.</p>
 
 
-<h2>3. It's Timed for Your Guilt, Not Their Readiness</h2>
-<p>You apologize after the hard phone call, the sleepless night, that enduring memory that won't quit. That's your timeline, but it may not be your adult child's. Dropped on them uninvited, an apology becomes one more thing they now have to manage on your behalf, on top of whatever they were already carrying that day. A better apology is shorter, undefended, and asks for nothing back. For example, you could say, "I've thought about how strict I was when you were growing up. I was wrong, and I understand if it still affects you." Then stop talking (the hardest part for all of us as parents). So please do yourself a huge favor: don't fill the silence, and don't ask what they're thinking.</p>
+<p>By the time a family calls me, they've often moved past "Should I be worried?" and into "What do I do now?" The honest answer is that it depends on what's already happened—whether money has moved, whether a document has been signed or changed, and whether the older adult can still meaningfully understand and resist the influence at play.</p>
 
-<h2>Final Thoughts</h2>
-<p>You can't out-explain or over-apologize your way out of the past. You can only demonstrate, consistently and without announcing it, that you've changed, and let your adult child decide, on their own timeline, when to believe it.</p>
+<p>A consult with a probate attorney may be a good first step. A capacity evaluation can clarify that last piece, and in California, families and attorneys also have civil remedies available under the Elder Abuse and Dependent Adult Civil Protection Act for financial exploitation that's already occurred. But the earlier a family raises the concern—even just informally, even before anything has been taken—the more options everyone has. A close call could lead to the ability to put some informal protections in place, like adding a family member as a “trusted other” to accounts who can be contacted if there is suspicious activity.</p>
+
+<h2>If the conversation doesn't go anywhere</h2>
+<p>Don't retreat entirely, but don't force it, either. Keep up regular check-ins on other topics so the door stays open. Sharing stories about friends or acquaintances who've been scammed or lost money can be a low-pressure way to keep the subject alive without pointing directly at your parent. Over time, these check-ins can also help you and your parent build an actual plan together for protecting their finances as they age.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202609/why-your-apologies-are-not-enough-for-your-adult-child" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-fraud-crisis/202609/what-to-do-when-you-suspect-elder-financial-abuse" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202609/why-your-apologies-are-not-enough-for-your-adult-child</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/liking-the-child-you-love/202609/why-your-apologies-are-not-enough-for-your-adult-child</guid>
-            <dc:creator><![CDATA[Jeffrey Bernstein Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-fraud-crisis/202609/what-to-do-when-you-suspect-elder-financial-abuse</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-fraud-crisis/202609/what-to-do-when-you-suspect-elder-financial-abuse</guid>
+            <dc:creator><![CDATA[Stacey Wood, Ph.D.]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/mother-adult_child_conflict_pexels-karola-g-6134958.jpg?itok=DSaRrOIg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-kampus-7551618.jpg?itok=RDq8aiYU" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Shapeshifting Functions as a Survival Mechanism]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-09/gillian__2_.png.jpg?itok=mwIOgeEd" alt="Gillian O'Shea Brown LCSW, DSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Defense Mechanisms</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Shapeshifting Functions as a Survival Mechanism</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Mestra’s shapeshifting reveals how survival can fracture—and reclaim—the self.</h2><p style="font-size:0.9em;color:#666;">Posted September 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Shapeshifting is not only myth—it exists in the real world as a psychological survival tactic.</li><li style="margin-bottom:6px;">Psychological masking, a form of shapeshifting, is driven by a deep fear of rejection and poor sense of self.</li><li style="margin-bottom:6px;">Far from being a magical gift, psychological shapeshifting usually comes at a steep emotional cost.</li>
+            </ul>
+          </div>
+                    <p>To read Madeline Miller’s <em>Mestra</em> simply as a fantasy is to miss its point; we must look past the magic of her shapeshifting to map the real-world psychological survival tactics hidden underneath.</p>
+<p>In Greek mythology, <a href="https://www.harpercollins.com/products/psyches-awakening-dr-gillian-oshea-brown-lcsw?variant=44639204999202"><strong>Mestra is a shapeshifter</strong>,</a> gifted by Poseidon, the god of the sea, with the ability to transform into any animal, figure, or form at will. She uses this power tactically: Her starving father sells her into slavery; she endures assault, abuse, and a loss of her sovereignty. However, with powers gifted to her by Poseidon, she transforms into a fisherman to escape, returns home, and repeats the cycle to survive. </p>
+
+<p>To the outside world, shapeshifting looks like the ultimate superpower. However, when brought into the realm of psychology, "shape-shifting" is a defense mechanism and a survival strategy, not a superpower. </p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/screenshot_2026-09-13_at_11.55.29_am_0.png.jpg?itok=V8S0IB5h" width="639" height="485" data-insert-type="image" alt="Gillian O' Shea Brown, photographed by Zeeshaan Shabbir" title="Zeeshaan Shabbir / Used with Permission"></div>
+<div class="caption">Gillian O' Shea Brown, photographed by Zeeshaan Shabbir</div>
+<div class="insertArea--origin subtext">Source: Zeeshaan Shabbir / Used with Permission</div>
+</div>
+</div>
+</div>
+<h2>Masking</h2>
+<p>Far from being a magical gift, psychological shapeshifting usually comes at a steep emotional cost. For many people, changing who they are isn't a choice made from a place of power—it is a mandatory response to a world that feels unsafe. </p>
+<p>In psychology, shapeshifting is closely related to behavioral mimicry, often called the "chameleon effect." This is the unconscious habit of mimicking the postures, mannerisms, and expressions of those around us to fit in. Taken to an extreme, it becomes masking. </p>
+
+<p>True superpowers are driven by the user's will. Psychological masking, however, is driven by a deep fear of rejection and a poor sense of self. A weak or unclear sense of self is problematic, associated with personality disorders and other psychiatric conditions, insecure attachment, difficulty with personal and professional relationships, and personal development hitches. A poor sense of self in psychology often stems from unresolved childhood trauma and usually means a person has an underdeveloped, unstable identity. They will lack a clear understanding of their own preferences, values, strengths, and boundaries outside of others. Over time, they become a "shapeshifter" with a rapidly shifting, poor sense of self. </p>
+
+<p>Individuation is an ongoing process that involves developing a deep sense of self—truly knowing who you are and what you like, separate from other people. As Carl Jung described it, individuation is your journey toward true alignment with your soul’s blueprint, leading to profound wholeness and the realization of your unique potential and highest purpose. It’s about becoming the most complete and authentic version of yourself by integrating all parts of who you are. </p>
+
+<p>Having your own unique thoughts, feelings, needs, and boundaries is essential for cultivating a strong sense of self. Trauma often leaves behind clues, and over time, the so-called shapeshifter may have learnt to base their self-esteem and self-worth on the expectations or influences of others. However, no identity quite feels like home. </p>
+
+<h2>The "Fawn" Response</h2>
+<p>Children who grow up in volatile, unpredictable, or abusive environments often become expert psychological shapeshifters. They learn to read the emotional temperature of a room instantly and alter their entire demeanor to avoid conflict—a survival mechanism known as the "fawn" response. </p>
+
+<p>While this functions as a brilliant tool to survive childhood, it becomes deeply maladaptive in adulthood. The individual compulsively shifts into whatever version of themselves a partner, boss, or friend wants them to be, completely erasing their own boundaries just to keep the peace. The constant psychological shapeshifting leads to identity diffusion, a painful state where a person genuinely does not know who they are when they are alone. They can not imagine existing outside of others' orbit and continuously shapeshift to feel safe and accepted. </p>
+
+
+<p>But ultimately, a sense of security and self-esteem can only come from within. When you lack self-love and need it from your partner, you inadvertently push that partner away. For those with a lack of ego, embarking on a new relationship can create fear and uncertainty. For this reason, one may feel tempted to go into a rapid merging phase—losing the sense of self and having their identity become eclipsed by the other. True confidence is interior, not exterior. You become vulnerable when your sense of security and happiness is contingent on the actions of others. </p>
+
+<h2>The True Superpower</h2>
+<p>A mythological shapeshifter like Mestra always retains her true core identity when she shifts back into human form. A psychological shapeshifter, however, often looks in the mirror and feels "blank." They have a poor sense of self and have lost touch with their own genuine desires, values, and emotions. </p>
+
+
+
+  
+
+
+<p>Miller’s reimagining of Mestra reminds us that transforming yourself to survive a demanding world is an act of incredible resilience. But psychology reminds us of the ultimate goal: The true superpower isn't the ability to keep changing shapes, but the freedom to finally stop shifting and exist as you truly are.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/psyches-awakening/202609/how-shapeshifting-functions-as-a-survival-mechanism" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/psyches-awakening/202609/how-shapeshifting-functions-as-a-survival-mechanism</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psyches-awakening/202609/how-shapeshifting-functions-as-a-survival-mechanism</guid>
+            <dc:creator><![CDATA[Gillian O'Shea Brown LCSW, DSW]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-eyupcan-timur-424989336-30578727.jpg?itok=4Etvenvo" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Has the Narcissism Epidemic Really Come to an End?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/susan_krauss_whitbourne.png.jpg?itok=LcxtEHRt" alt="Susan Krauss Whitbourne PhD, ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Narcissism</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Has the Narcissism Epidemic Really Come to an End?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">There’s good news about a farewell to the narcissism epidemic.</h2><p style="font-size:0.9em;color:#666;">Posted September 19, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The so-called Narcissism Epidemic led to the writing off of the entire Millennial generation.</li><li style="margin-bottom:6px;">An analysis of international data using statistically rigorous methods showed the Epidemic never existed.</li><li style="margin-bottom:6px;">Narcissism findings may reflect more than generational effects and instead life’s influence on self-esteem.</li>
+            </ul>
+          </div>
+                    <p>The idea that the generations who reached young adulthood in the last decades of the 20th century were exceptionally narcissistic always rested on a weak foundation. This proposal asserted that the “Generation Me” was overly self-centered, entitled, and egotistical. Never mind that the findings were hardly universal, or that they were limited to data drawn from a single questionnaire measure (Twenge et al., 2008). However, the idea took hold and before they knew it, an entire cohort of young people became smeared with the same derogatory stereotype.</p>
+
+<p>If you have or had children who reached adulthood during this period or worked with members of this generation in schools or industry, it’s likely you didn’t have to think too hard before concluding that writing off an entire generation as selfish and self-interested seemed a bit simplistic. How many young people did you know (or are you, yourself) who volunteered in their communities, helped their families, and worked hard to overcome challenging circumstances? You would hardly call them (or yourself) narcissistic.</p>
+
+<h2>Was the Narcissism Epidemic Real?</h2>
+<p>Anytime someone comes up with a simple label to describe the entirety of a group’s characteristics, it doesn’t take long for that label to take hold in the public imagination (OK, Boomer, anyone?) With the narcissism epidemic, it seemed all too easy to make this cognitive error known as confirmation bias. This means that once an idea has been floated, people will make all the data available to them fit into this idea, ignoring counter-evidence. </p>
+
+<p>According to University of Vienna’s Sandra Oberleiter and colleagues (2025), there was plenty of counter-evidence to undercut the narcissism epidemic claim based on some uncertainty about whether even the original findings were a fluke. They decided to dig into this issue using a meta-analysis, or a study of studies on historical trends in narcissism. Importantly, the team went beyond U.S. data to international samples. They used the original narcissism measure (the Narcissism Personality Inventory; NPI) in order to be sure they were gathering comparable information as the original team. A more in-depth measure would have been preferable, but for the sake of consistency, this was the right choice.</p>
+
+<h2>A New Look at Narcissism in Young Adults</h2>
+<p>From an original pool of nearly 7,900 studies, Oberleiter et al. narrowed their analysis to 1,105 that met their inclusion criteria (amounting to nearly 550,000 participants and over 1,600 comparisons). They began by trying to replicate the original findings on U.S. samples with data subsets organized by geographic region. Then, they divided the data into pre- and post-2008 years, and also included comparisons according to sex and age. </p>
+
+<p>Putting all these factors into one large analysis, the authors reported results that revealed, well, basically nothing. As they concluded, “there remains only little support for a Narcissism Epidemic over the past decades on a global scale”. Splitting the scores into pre- and post-2008 made no difference either. Any effects that turned up in the analyses were, in the words of the authors, “trivial”.</p>
+
+<h2>The Good News in the No News Findings</h2>
+<p>The conclusion that the Narcissism Epidemic was an artefact of earlier studies failing to expand beyond U.S. college students should be heartening if you are one of those who’s had this pejorative label placed on you (or your children). </p>
+<p>Several theories could be in play to explain why narcissism scores didn’t change or, if they did, showed ever so slight a decline. One is an increase in volunteerism among current generations of young adults along with other positive social behaviors. It is also possible that some social trends have eroded whatever might have produced higher narcissism scores in the first place (again, though, with the caveat that those scores weren’t any higher before 2008). Social media comparisons could make young adults feel worse about themselves if they engage in a great deal of downward judgments of themselves. There may also be a trend toward greater anxiety and depression among current young adults; these would also erode the feelings that bolster narcissism (i.e., high self-esteem).</p>
+
+
+<p>In any case, all of this becomes moot when looking at data curves from year to year that are essentially flat. The more appropriate question should shift to what happens to narcissism within the life of a given individual. Generations based on year of birth don’t share entire personality profiles. However, over time, individuals themselves may learn to shave off a bit of their pride and self-absorption. Age was found to be negatively associated with narcissism scores across all samples, particularly in the U.S. and sections of the world in Oceania (Southeast Asia and Australia). Although these do not reflect changes within the same people over time, these overall age trajectories provide an alternative explanation for the Narcissism Epidemic. Maybe the college students who provided the original data for the Twenge et al. research team just weren’t old enough when tested to have gone through some of those hard knocks.</p>
+
+<p><strong>To sum up</strong>, being able to peek under the hood of a generational epithet with the large and carefully constructed dataset used by the U. Vienna team provides a unique opportunity to see where the original idea was flawed. Narcissism was and always will be around, whether at epidemic proportions or not.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202609/has-the-narcissism-epidemic-really-come-to-an-end" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202609/has-the-narcissism-epidemic-really-come-to-an-end</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202609/has-the-narcissism-epidemic-really-come-to-an-end</guid>
+            <dc:creator><![CDATA[Susan Krauss Whitbourne PhD, ABPP]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/narcissism_pexels-feyzayildirimphoto-14154060.jpg?itok=eSYu64ss" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
