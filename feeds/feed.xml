@@ -4,144 +4,451 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Sep 2026 03:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 14:24:43 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Sep 2026 03:41:20 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 14:24:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Owning vs. Renting Impacts Your Psychology and Happiness]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/max-alberhasky.jpg?itok=IMo6PLRF" alt="Max Alberhasky" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Happiness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Owning vs. Renting Impacts Your Psychology and Happiness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Here's what the research says about how our housing shapes our happiness.</h2><p style="font-size:0.9em;color:#666;">Posted September 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Brain Capital Runs on Other People]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/_1_-_Hans_-_HeadshotPro-removebg-preview.jpg?itok=Kbi5-30y" alt="Hans Rocha IJzerman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Brain Capital Runs on Other People</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI is reshaping the asset economists call brain capital. Connection drives it.</h2><p style="font-size:0.9em;color:#666;">Posted September 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Homeowners are more satisfied with their housing, but not necessarily with their lives.</li><li style="margin-bottom:6px;">Stressful mortgage debt can offset the well-being benefits of owning a home.</li><li style="margin-bottom:6px;">Housing instability, rather than renting itself, is most consistently linked to worse mental health.</li>
+              <li style="margin-bottom:6px;">Brain capital treats a population's brain health and skills as an economic asset worth measuring.</li><li style="margin-bottom:6px;">Lonely workers miss five extra days a year and are twice as likely to quit, costing US employers $154B.</li><li style="margin-bottom:6px;">AI replaces small units of human contact, and averages hide who is actually helped or harmed.</li>
             </ul>
           </div>
-                    <p>Homeownership is part of the American dream and, for some, a rite of passage into adulthood. Over the last five years, we have seen a stagnant housing market due to a variety of factors, including a lack of supply, stubbornly high mortgage rates, and generally increased prices of buying a house and all of the associated costs that come along with it. Due to the current market, people are renting at higher rates than have been previously seen in prior generations, with the median age of a first-time homeowner listed at 40 in 2026 in the United States (National Association of Realtors 2025). </p>
+                    <p>In January, Rice University and the University of Texas Medical Branch <a href="https://news.rice.edu/news/2026/rice-establishes-global-brain-economy-initiative-davos-aligned-new-report-brain-health">launched the Global Brain Economy Initiative at Davos</a> together with the Davos Alzheimer's Collaborative, timed to a World Economic Forum and McKinsey Health Institute report called "<a href="https://www.weforum.org/publications/the-human-advantage-stronger-brains-in-the-age-of-ai/">The Human Advantage: Stronger Brains in the Age of AI.</a>" I don't usually write about economics here, but if you haven't come across the term <em>brain capital</em>, it's worth picking up, because it's the most useful vocabulary we currently have for talking about AI and work and it gives us language on why social connection is so important at work. </p>
 
-<h2>Are Homeowners Happier?</h2>
-<p>The answer is more complicated than you might expect. Homeowners do report being more satisfied with their homes than renters, and that satisfaction lasts. One long-term study in Germany found that people who move into a home they own like their housing more, with little fading even after five years (Clark &amp; Diaz-Serrano, 2021). But feeling good about your house doesn’t necessarily translate into feeling good about your life. Another German study that followed people over time found that buying a home raised housing satisfaction but had no lasting effect on overall life satisfaction (Will &amp; Renz, 2024).</p>
+<p dir="ltr">Brain capital treats a population's brain health and brain skills as a capital stock. It accumulates over a lifetime, it can be invested in or run down, and it shows up in what an economy is capable of. The reframing does real work, because the costs of neglecting this asset are already being paid, just filed under other names. Mental health disorders alone are estimated to cost the global economy <a href="https://pubmed.ncbi.nlm.nih.gov/36193171/">around $5 trillion a year</a>, projected to reach $16 trillion by 2030, and dementia costs <a href="https://who.int/news-room/fact-sheets/detail/dementia">more than $1.3 trillion annually</a>, heading toward $2.8 trillion. Nobody books those as depreciation on a brain. They arrive as claims, absences, early retirements, and jobs that go unfilled.</p>
 
-<p>Much of the answer comes down to money. In that same study, the mortgage was the culprit. The cost of paying off a home loan lowered life satisfaction enough to cancel out the benefits of owning. A separate study using data from the U.S., U.K., and Australia found that the “owners are happier” gap comes mostly from people who own their homes outright. Homeowners with a mortgage and little equity saw much of that happiness advantage disappear (Clark et al., 2025).</p>
+<p dir="ltr">Krystal Sexton, who ran global health analytics at Shell for years and now advises the Center for BrainHealth on workplace initiatives, has made this point from inside a large employer. She has described how Shell, when it started looking at health holistically, worked across <a href="https://businessforbrainhealth.org/resources/roundtable-brief-3-defining-brain-health">physical, mental, social, and financial health</a>, and how the company avoids the phrase "brain health" because of the stigma around talking about cognition. The words you choose determine whether the conversation happens at all, and whether it happens with the people who control a budget.</p>
 
-<p>Overall, the findings on happiness are mixed. The picture gets clearer when we look at other parts of our psychology.</p>
-<h2>How Owning Impacts Your Psychology</h2>
-<p>A poll of over 10,000 adults in the U.K. found that 40 percent of renters reported feeling lonely, compared with 29 percent of people who own their homes outright. Renters were also much less likely to know their neighbors (43 percent vs. 69 percent) and less likely to be satisfied with their friendships (Belonging Forum, 2024). However, renters tend to be younger, earn less, and move more often, and each of these could contribute to loneliness on its own since this report was a simple poll.</p>
+<p dir="ltr">What surprises newcomers to the frame is that it was never only about cognition. In <a href="https://brookings.edu/wp-content/uploads/2023/09/20230926_BrainCapitalDashboard_WP.pdf">the Global Brain Capital Dashboard</a>, brain capital is defined as an individual's cognitive, emotional, and social brain resources. The dashboard sorts its indicators into three pillars—drivers, brain health, and brain skills—and social conditions is one of the driver dimensions, measured with indicators for interpersonal trust and for whether people have someone they can count on when they're in trouble. The authors are direct about the mechanism: Forming and keeping social connections supports neurodevelopment, helps the brain stay healthy, and lowers the risk of brain disorders, with a particular role in protecting against cognitive decline later in life.</p>
 
-<p>Renting may even show up in our biology. In a study of about 1,400 adults in the U.K., people who rented privately looked biologically older than homeowners, based on patterns of DNA methylation, a marker of aging at the cellular level. The size of the effect was surprising: renting was associated with nearly twice the aging effect of being unemployed (vs. employed), and 50 percent more than having been a smoker (vs. never smoking) (Clair et al., 2023). The study was observational, so it can’t show that renting causes faster aging.</p>
+<p dir="ltr">The same group saw AI coming. In 2023, Harris Eyre, Steve Carnevale and colleagues published <a href="https://bakerinstitute.org/research/toward-brain-new-deal-harness-potential-artificial">a Baker Institute paper on harnessing AI's potential</a> for brain capital, and the related policy work warns specifically about AI and AI-enhanced social media reaching into our interpersonal relationships and collective intelligence. They proposed something they called a "neuro-shield." The field has been pointing at this for three years.</p>
 
-<p>What might explain these patterns? A review of 22 studies of renters offers a clue. Housing instability, such as frequent moves or the threat of eviction, was linked to worse mental health in 12 of the 14 studies that looked at it. High rent was linked to worse mental health in six of nine (Talmatzky et al.). Renting itself may be less of a problem than the insecurity that often comes with it. </p>
+<p dir="ltr">Where I'd push is on the balance of attention. The public argument about AI and the brain has settled almost entirely on cognition, whether we're outsourcing memory and whether judgment will atrophy. Those are fair questions about a pillar that changes slowly. Underneath it, the driver is changing quickly, and almost nobody is watching.</p>
 
-<h2>The Bottom Line</h2>
-<p>Homeownership is associated with several psychological benefits, including greater satisfaction with one’s home, stronger ties to neighbors, and less loneliness. It also seems to improve overall well-being when the mortgage is manageable, or the home is paid off. Owning may also become part of who we are. Research on car sharing found that people who shared cars instead of owning them felt less connected to the cars and less responsible for them (Bardhi &amp; Eckhardt, 2012). Homes may work the same way.</p>
-
-<p>But the research suggests that much of what makes owning feel good is stability: knowing you can stay, putting down roots, and not worrying about next year’s rent. That’s good news for renters. When you can, stay in one place longer, get to know your neighbors, and invest in your community. These choices may give you many of the psychological benefits usually credited to owning a home.</p>
-
-<p>Although sometimes more expensive on a monthly basis than renting, paying off a mortgage can operate as a critical savings mechanism for people because the money put toward the home leads to owning the home outright and providing a valuable asset to the owner. Ultimately, the decision to buy versus rent has become complicated for younger generations. Most importantly, doing meaningful work, staying healthy, and having an excellent social life with friends and family are much more important determinants of living a good life than your choice to rent or buy. </p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/psychology-money-and-happiness/202609/how-owning-vs-renting-impacts-your-psychology-and" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/psychology-money-and-happiness/202609/how-owning-vs-renting-impacts-your-psychology-and</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psychology-money-and-happiness/202609/how-owning-vs-renting-impacts-your-psychology-and</guid>
-            <dc:creator><![CDATA[Max Alberhasky Ph.D.]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/owning-vs-renting-thumbnail-v2.png.jpg?itok=g8mPARB_" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fried to a Crisp: Why Seasonal Workers Burn Out]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-03/annie_mueller.png.jpg?itok=_Ojsmcdj" alt="Annie Mueller Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Burnout</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Fried to a Crisp: Why Seasonal Workers Burn Out</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why seasonal work is uniquely stressful and what can help during the off-season.</h2><p style="font-size:0.9em;color:#666;">Posted September 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Many seasonal workers struggle with burnout due to the high-demand, high-intensity nature of their work.</li><li style="margin-bottom:6px;">Transitioning from an all-consuming schedule to the off season can feel like psychological whiplash.</li><li style="margin-bottom:6px;">Burnout can include irritability, exhaustion, apathy, restlessness, and feeling directionless.</li><li style="margin-bottom:6px;">Patience, easing back into routines, and reorienting to what matters most can help ease symptoms of burnout.</li>
-            </ul>
-          </div>
-                    <p>Here it is, the day you’ve been waiting for. You get to sleep in your own bed, wake up without a 3 a.m. alarm, and bask in the glorious silence of a quiet house. </p>
-<p>And yet, you feel agitated and restless, tossing and turning all night despite feeling completely depleted. You feel flat and down instead of how you think you should feel (grateful and happy). You have been looking forward to this moment all summer, but now that it’s arrived, you just feel apathetic. </p>
-
-<h2>Why Do Seasonal Workers Struggle With Burnout? </h2>
-<p>Seasonal workers face a unique pattern of work-related stress. This is especially true for those whose work intensifies during the summer season, such as mountain guides, outdoor educators, park rangers, wildland firefighters, and hospitality workers, among others. </p>
-
-<p><strong>High intensity, high demands.</strong></p>
-<p>Seasonal work can consume enormous amounts of physical, mental, and emotional energy. Instead of working a predictable eight-hour workday with established breaks, many seasonal workers may be working multiple days straight. There may be long hours, early mornings, minimal sleep, and very little time or energy left over for other parts of life.</p>
-
-<p><strong>High responsibility and risk.</strong></p>
-<p>Some seasonal employees work in high-stakes environments in which they are directly responsible for the welfare of other people. Making complex decisions in high-risk situations can be equally exhilarating and exhausting. </p>
-<p><strong>What can be fun is also stressful. </strong></p>
-<p>Seasonal work can involve relocation, travel, and a constantly changing environment. While seasonal work may appeal to people who enjoy these aspects of novelty and adventure, they can simultaneously be stressors in themselves. It can be hard to maintain routines around self-care, sleep, and other parts of life with an unpredictable schedule. After a few months, this can take its toll. </p>
-
-<p><strong>Financial anxiety. </strong></p>
-<p>Seasonal work often comes with a time stamp, which can kick anxiety around finances into overdrive. You may find yourself struggling with questions of what’s next even before the season ends. </p>
-<p>While burnout can look different from person to person, symptoms can include:</p>
-<ul>
-<li>Exhaustion</li>
-<li>Sleep disturbance (difficulty falling or staying asleep, or sleeping too much) </li>
-<li>Irritability (having an especially short fuse)</li>
-<li>Feeling overwhelmed by everyday decisions</li>
-<li>Loss of interest in activities typically enjoyed</li>
-<li>Social isolation </li>
-<li>Feeling numb, flat, or mentally checked out </li>
-<li>Feeling restless and directionless </li>
-</ul>
-
-<h2>Controlling the Burn</h2>
-<p>Thankfully, there are many things that can help ease the intensity of seasonal work-related burnout. </p>
-<p><strong>Be gentle with yourself and embrace the transitional period.</strong> </p>
-<p>Patience and self-compassion are critical in the early phases of transitioning out of the season. It can feel like psychological whiplash to go from a high-intensity, high-risk work environment to a completely open schedule. Putting pressure on yourself to jump immediately back into productivity can have a paradoxical effect—not only will you feel more stressed, but the anxiety may actually get in the way of productivity. </p>
-
-<p>What is needed here is time. Your brain is working in overdrive to integrate the intense experiences you just had and adjust to a new pace of life. If your schedule allows, take the opportunity to rest and gently ease back into routines. Do more of whatever fills your cup, whether that is time with friends, finding solitude in nature, or traveling someplace totally different. </p>
+<p dir="ltr">Consider what ordinary AI use gradually replaces: The colleague you would have walked over to ask. The support call that turns into two minutes of conversation. The friend you would have messaged for a recommendation. The tutor, the coach, the person behind the counter. These exchanges were inefficient, which is precisely why the tools win, but they were also units of contact, which is what the dashboard is trying to capture when it asks whether you have someone to count on.</p>
 
 
-<p>The key here is to notice when you are putting pressure on yourself to feel a certain way, and to instead meet these thoughts and emotions with understanding and kindness. </p>
-<p><strong>Rebuild Routines and Structure</strong>. </p>
-<p>While a true break may be necessary for mental decompression following an intense season, eventually it will be time to get back on track with habits and routines. When many parts of life have been “on hold” for months, it can feel overwhelming to know where to begin. </p>
+<p dir="ltr">The health stakes are real. <a href="https://who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death">The WHO Commission on Social Connection reported</a> in June 2025 that roughly one in six people worldwide experience loneliness, and that loneliness is associated with an estimated 871,000 deaths a year, with raised risk of heart disease, stroke, depression, anxiety, and dementia. Several of these outcomes sit squarely in the brain health pillar that the brain capital project exists to protect.</p>
 
-<p>Make a list for yourself of all the things you both <em>need</em> to do and <em>want</em> to do. Identify 2-3 priorities for the next week. Then, make an action plan: What are the actual steps involved with getting started? The more that you can break these down into small, manageable pieces, the more likely you will be to follow through. </p>
+<p dir="ltr">Employers' stakes are countable too, <a href="https://psychologytoday.com/us/blog/body-meet-mind/202601/the-silent-cost-of-workplace-loneliness">as I've written before</a>. <a href="https://emerald.com/joepp/article/9/2/312/240908/Loneliness-influences-avoidable-absenteeism-and">Cigna's analysis of nearly 6,000 US workers</a>, published in the Journal of Organizational Effectiveness, found that lonely employees missed more than five additional workdays a year through stress-related absence and were about twice as likely to say they intended to quit, with the absenteeism alone estimated at $154 billion a year across US employers. Days lost and people leaving are already on every operations dashboard in the country, but the driver behind it isn't labeled.</p>
 
 
 
   
 
 
-<p>Tackling goals one step at a time eases the feeling of overwhelm, while also creating necessary momentum for the next chapter. </p>
-<p><strong>Reconnect With What Matters</strong>. </p>
-<p>Rest and recovery can help recharge spent batteries at the end of a long season, but it’s equally important to consider <em>how</em> you want to spend your time once you have more of it. </p>
+<p dir="ltr">Which raises the question of what a return on this actually depends on. The brain capital dashboard operates at country level, the right unit for policy but the wrong one for a person. How much connection counts as enough varies a great deal between individuals, and <a href="https://psychologytoday.com/us/blog/body-meet-mind/202607/never-alone-never-seen">I've made this argument about social media before</a>, where an average effect of roughly zero conceals large numbers of people who are helped and large numbers who are harmed. Our eight-country interview work found the same thing about what connection even means from one place to the next. <a href="https://www.researchgate.net/publication/247504791_A_Manifesto_on_Psychology_as_Idiographic_Science_Bringing_the_Person_Back_Into_Scientific_Psychology_This_Time_Forever">Peter Molenaar</a> made the formal version of the point two decades ago, showing that patterns holding across people often fail to hold within a single person over time. A program built on the average overshoots for some employees and leaves others short, which is one reason connection interventions so often return modest effects and get canceled in the next budget round. The money isn't wasted because connection doesn't matter but because it's spent on the wrong people. Repeated measurement within individuals is what turns a diffuse expense into something with a defensible return.</p>
 
-<p>Values are compass points that give our lives direction and meaning. These compass points can shift and change alongside life experiences, stressors, and traumas. Your values may be different today than they were at the start of the season.</p>
-<p>Ask yourself: “What matters most to me right now outside of work?” It could be spending more quality time with loved ones and less time on your phone, giving back to your community, taking care of your physical body, or reconnecting with spirituality. </p>
+<p dir="ltr">If you make technology decisions for a team, here is the step I'd ask for: Put social conditions on the same dashboard as your other measures, alongside the absence and retention numbers you already watch. Before a new tool goes live, write down which human exchange it removes and whether that exchange was doing work worth keeping. Sometimes it wasn't but sometimes it was holding up more than anyone realized, and the cost surfaces two quarters later under a heading that doesn't mention it.</p>
 
-<p><strong>Know When to Reach Out for Help.</strong></p>
-<p>For symptoms of burnout that continue to escalate to the point that they get in the way of daily life, impact relationships, or cause significant distress, consider reaching out for support from a mental health professional. Therapy modalities such as acceptance and commitment therapy or cognitive behavioral therapy are effective for treating stress, anxiety, depression, trauma, and other concerns. Some individuals find benefit from medication management as well. </p>
-
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-ellie-burgin-1661546-29640874.jpg?itok=72B0OYI7" width="320" height="234" data-insert-type="image" alt="With careful intention, you can help transition burnout from &amp;quot;fried to a crisp&amp;quot; to &amp;quot;warm bread.&amp;quot;" title="Ellie Burgin / Pexels"></div>
-<div class="caption">With careful intention, you can help transition burnout from "fried to a crisp" to "warm bread."</div>
-<div class="insertArea--origin subtext">Source: Ellie Burgin / Pexels</div>
-</div>
-</div>
-</div>
-<h2>Conclusion</h2>
-<p>Emerging from a long, difficult season is a big adjustment. Given the high-intensity, high-demand, high-risk nature of many types of seasonal work, it is understandable why many workers wrap up the season feeling burnt to a crisp. </p>
-<p>Just as your body needs time to recover after intense exertion, so too does your mind. You can facilitate psychological recovery by meeting yourself with compassion and patience, easing back into routines and habits, and reorienting yourself to what matters most in this new chapter. </p>
-
-<p>Little by little, these efforts can take you from “burnt” to “toasty” and, eventually, “just warm bread.” </p>
-<p><strong>To find a therapist near you, visit </strong><a href="https://www.psychologytoday.com/us/therapists"><strong>the </strong><em><strong>Psychology Today</strong></em><strong> Therapy Directory.</strong></a></p>
+<p dir="ltr">For everyone else, try the smaller version for a week. When you're about to ask a model something a person in your life could answer, ask the person instead, and pay attention to what arrives alongside the answer. That extra thing is what the economists are trying to price.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202609/fried-to-a-crisp-why-seasonal-workers-burn-out" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/body-meet-mind/202609/brain-capital-runs-on-other-people" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202609/fried-to-a-crisp-why-seasonal-workers-burn-out</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mind-in-the-mountains/202609/fried-to-a-crisp-why-seasonal-workers-burn-out</guid>
-            <dc:creator><![CDATA[Annie Mueller Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/body-meet-mind/202609/brain-capital-runs-on-other-people</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/body-meet-mind/202609/brain-capital-runs-on-other-people</guid>
+            <dc:creator><![CDATA[Hans Rocha IJzerman Ph.D.]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2701402945.jpg?itok=0vMQOaf3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our Decisions Determine Who We Are and Our Life’s Direction]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-07/ragnar_purje.png.jpg?itok=rJpiDQDP" alt="Ragnar Purje Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Decision-Making</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Our Decisions Determine Who We Are and Our Life’s Direction</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Every decision and choice we make shapes who we are and the life we live.</h2><p style="font-size:0.9em;color:#666;">Posted September 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Agency is our conscious, self‑reflective power to direct thought and action.</li><li style="margin-bottom:6px;">Every day we make hundreds of decisions and choices that lead to outcomes.</li><li style="margin-bottom:6px;">Circumstances and choices have an impact on who we are and on the trajectory of our lives.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/artsybee_pixabay.png.jpg?itok=jiL__Efa" width="320" height="508" data-insert-type="image" title="ArtsyBee / Pixabay" alt="ArtsyBee / Pixabay"></div>
+<div class="insertArea--origin subtext">Source: ArtsyBee / Pixabay</div>
+</div>
+</div>
+</div>
+<p>Every day, we all make hundreds of small and large decisions and choices: This may involve deciding whether to start or complete a task, whether to speak or respond, whether to pause before reacting, whether to avoid or confront a difficulty, whether to be positive or negative, and whether to be ethical or unethical. And this is only a few of the myriad decisions and choices we make every day. And here’s one more now: “Will I continue reading this narrative?”</p>
+
+<p>If you have chosen to continue reading, it is important to recognize that every decision and choice has consequences, and that each choice contributes to “who we are” and to the life we live. We are here right now, reading these words, because of all the choices we have ever made; and life therefore continues through the decisions and actions that stem from those choices; even a non-choice is a choice (Deci &amp; Ryan, 2000; Purje, 2014).</p>
+
+<p>Our ongoing daily decisions, choices, and consequences continually shape our cognition and agency. Agency is also associated with the self-reflective, conscious capacity that provides the cognitive means to make our decisions and choices, to appreciate them, and, of course, to continually hope that positive consequences will follow the decisions and choices we have made (Bandura, 2006; Purje, 2014).</p>
+
+<p>Circumstances and outcomes, self‑evidently, have an impact on who we are and on the trajectory of our lives; however, they do not determine character. In neurobiological and existential terms, consciousness and our self-reflective cognitive capacities provide self-directed control and agency, expressed through our decisions, actions, and self-initiated choices, which then determine character (Baumeister &amp; Vohs, 2002; Walker, 2022; Zimmerman, 1989).</p>
+
+<p>The difference is not in circumstances, outcomes, or even in so-called “fate.” Circumstances and outcomes self-evidently do have an impact on “who we are” and our lives, as noted in the nature-nurture debate (Baumeister &amp; Vohs, 2002; Sartre, 2007; Zimmerman, 1989).</p>
+<p>However, in neurobiological and existential terms, it is consciousness and our self-reflective cognitive capacities that provide self-directed control and agency. This agency is expressed through our decisions, actions, and self-initiated choices, which determine "who we are" (Baumeister &amp; Vohs, 2002; Sartre, 2007; Zimmerman, 1989).</p>
+
+<p>This also strongly suggests that if we do not like what we are doing, “who we are” or “what we have become” (as a result of the decisions, choices, and actions we have self-initiated), <em>all of this can be changed in an instant!</em></p>
+<h2>The Power of Now</h2>
+<p>This immediate, instantaneous change is possible because of brain plasticity, consciousness, and the concomitant cognitive capacity of free will (I think, therefore I am, Descartes); I am changing my thinking, behavior, myself, and my life—<em>right now! </em>(Doidge, 2007; List, 2014; O’Connor, 2018; Purje, 2014; Thagard, 2018). </p>
+
+<p>We can—as noted—not only instantly change what we think, do, say, learn, and choose; we can also do this instantly and, as often as we want, and whenever we want. All of this is determined and acted upon by the self and for the self. “I am what I think, say, learn, and choose.” <em>I am changing my thinking, behavior, myself, and my life now!</em></p>
+
+<p>“You cannot always control circumstances, but you can control your own thoughts” (Charles Popplestone). Therefore: “We must become the change we want to see” (Mahatma Gandhi [List, 2014; O’Connor, 2018; Purje, 2014; Thagard, 2018]).</p>
+<p>In absolute, immutable terms, all the decisions and choices we make shape who we are and the life we lead. Choices also carry ethical and moral dimensions. As such, they reveal the self to the self and also to others. Therefore, always choose wisely (Kant, 1996; Purje, 2014; Rathbone, 2026; Sartre, 2007; Walker, 2022).</p>
+
+<h2>Choosing Wisely Is an Action</h2>
+<p>As such, it is important to note that choosing wisely is an action. For example, consider the following actions: Stop, look, and listen. At this stop, look, and listen location in both time and space, there is unknown potential. We can, of course, surmise and hope that what will take place next will be positive (if positive choices are made); however, as always, there is no guarantee this will take place. </p>
+
+
+
+  
+
+
+<p>Ultimately, once you make a choice, there will be consequences (positive or negative), depending on what you choose, and you will be responsible for your decisions and choices. </p>
+<p>What happens next will be out of your control, because you cannot control the unfolding consequences. Once the consequences are revealed, new decisions and choices will again have to be made. These new decisions and choices may now also be influenced by those consequences. What happens next—in the ethereal location of the “here and now”—is again up to you.</p>
+
+<p>“Watch your thoughts, for they become words. Watch your words, for they become actions. Watch your actions, for they become habits. Watch your habits, for they become character. Watch your character, for it becomes your destiny” (Anonymous). I am my choices. Where to from here? It’s all up to you! </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/recovery-from-brain-injury/202609/our-decisions-determine-who-we-are-and-our-lifes-direction" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/recovery-from-brain-injury/202609/our-decisions-determine-who-we-are-and-our-lifes-direction</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/recovery-from-brain-injury/202609/our-decisions-determine-who-we-are-and-our-lifes-direction</guid>
+            <dc:creator><![CDATA[Ragnar Purje Ph.D.]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/gerd_altmann_pixabay_0.png.jpg?itok=F59m1as9" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 Sneaky Signs You May Be Living in Survival Mode]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-09/AlliSpottsDeLazzer-removebg-preview.jpg?itok=yrhmWFNM" alt="Alli Spotts-De Lazzer, LMFT, LPCC, CEDS-C" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Stress</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Sneaky Signs You May Be Living in Survival Mode</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When productivity or competence masks the effects of prolonged stress.</h2><p style="font-size:0.9em;color:#666;">Posted September 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Survival mode doesn't have a specific look.</li><li style="margin-bottom:6px;">Competence and productivity may obscure a person's prolonged stress response.</li><li style="margin-bottom:6px;">"Survival mode" is not an official diagnosis—it's a description.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/chatgpt_image_sep_16__2026__11_12_05_pm.png.jpg?itok=9WfqxHr4" width="320" height="213" data-insert-type="image" title="Customized image created by ChatGPT" alt="Customized image created by ChatGPT"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Customized image created by ChatGPT</div>
+</div>
+</div>
+</div>
+<p>Survival mode doesn’t always look like falling apart. Sometimes it looks like becoming extraordinarily efficient. </p>
+<p>True confession: I spent at least a year and a half of my life in survival mode without realizing it. I had never accomplished so much—or felt so little.</p>
+<p>To clarify, “survival mode” is not a mental health diagnosis. It’s a term people often use to describe an experience of prolonged stress—when it feels as though the brain and body remain in a heightened state of alertness.</p>
+
+<p>As a therapist, I work with many people who achieve a lot, and some can look quite impressive while living in this mode. It’s as if their efficiency shifts into high gear and keeps running. They tend to meet deadlines, fulfill responsibilities, and keep checking things off their lists.</p>
+<p>From the outside, they can appear extraordinarily capable. Yet something inside them may feel different than the confidence or assuredness that an onlooker might expect.</p>
+
+<h2>What Is Survival Mode?</h2>
+<p>To better understand survival mode, we’ll need to look at the <a href="https://www.nccih.nih.gov/health/stress">stress response</a>. Stress is a physical and emotional response to challenges encountered in life. The hormones released during the stress response can increase heart rate, breathing rate, and blood pressure and cause muscles to tense.</p>
+
+<p>“Survival mode” is an informal way of describing what prolonged stress can seem like. People may feel constantly tense or watchful, emotionally numb, easily overwhelmed, or intensely focused on getting through what must be done. <a href="https://www.nature.com/articles/s41598-021-90968-z">Research also recognizes freezing</a>—temporary immobility and heightened attention—as a possible defensive response to threat, alongside fighting or fleeing.</p>
+
+<p>Are you living in survival mode? Here are three signs I’ve observed that may raise a blush-colored—not red—flag that you could use some support or more safety.</p>
+<p>None of these experiences prove that prolonged stress is the cause. They can accompany many psychological, situational, and physical concerns. Still, consider them invitations for self-reflection, not labels or diagnoses.</p>
+
+<h2>Three Possible Signs</h2>
+<p><strong>1. Your laughter has gone away.</strong></p>
+<p>One subtle sign can be a change in someone’s usual behavior or expression, such as laughter disappearing.</p>
+<p>When people experience fight, flight, or freeze—oversimplified terms for possible stress responses—there may be less room for flexibility, playfulness, or humor. Under prolonged stress, a person may remain so focused on getting through what needs to happen that the lighter parts of their personality become less accessible.</p>
+
+<p>A loss of laughter can also occur with many other struggles, so it is not unique to stress, and it does not happen to everyone. Still, it may be worth noticing if you realize that something that once came naturally to you has faded.</p>
+<p><strong>2. You are accomplishing things without feeling much.</strong></p>
+<p>For someone who regularly achieves a lot, survival mode may look like moving through life by checking off boxes—all while experiencing a dulled range of emotions. </p>
+
+
+<p>Could that be you?</p>
+<p>If so, you may be highly focused and productive while feeling little satisfaction, joy, or connection to what you are accomplishing. You might finish one responsibility and move directly to the next without pausing long enough to experience anything at all. </p>
+<p>"Nexxxxxt!"</p>
+<p>Some people become so used to functioning this way, they don’t realize they are in a mode other than their “normal.” Instead, they may notice a lack of interest in things they usually enjoy, diminished sexual interest, or a general sense that life feels flat, blah, meh. In my experience, they often then fault themselves for not feeling happier or more appreciative. (People can be so hard on themselves!)</p>
+
+<p><strong>3. You feel unusually impatient or perpetually annoyed.</strong></p>
+<p>On one hand, increased impatience may be expressed outwardly. On the other hand, it may remain almost entirely internal.</p>
+<p>People will often say things to me such as, “I don’t know why I’m so annoyed.” They share about feeling bothered by "small things" like ordinary questions, minor delays, other people’s needs, seeming impoliteness, and more. Some begin to wonder if they’re changing into a different person. Realistically, they may be experiencing the effects of prolonged stress.</p>
+
+
+
+  
+
+
+<p>Picture this: <em>You are sitting in your home feeling vulnerable, on edge, or unsafe already. You hear an unfamiliar sound outside. Your attention may laser-focus as your brain and body prepare for what's next.</em> Sometimes survival mode feels like that. Still, it can also be much subtler—for example, a persistent tension that makes almost everything feel like <em>one demand too many</em>.</p>
+
+<h2>What Can Help?</h2>
+<p>First off, recognize that how you feel could be a response to what you have been carrying. Maybe it's not actually a character trait or evidence that you have become an uncaring, humorless, irritable, or generally ill-tempered person. (Right?)</p>
+<p>Try giving yourself the same compassion you might offer a friend experiencing something that limited the fullness of their life or left them feeling numb.</p>
+
+<p>It may also help to speak with a <a href="https://www.psychologytoday.com/us/therapists">mental health therapist</a> if that is possible and accessible. Reminder: Therapy is a relationship. If you find yourself paired with a provider you don’t feel you can trust or who you doubt can help you, consider searching until you find a better match.</p>
+<p>Therapy is not the only path out of survival mode. Still, therapy can provide a place to understand what might have kept your stress response engaged and what you may need to begin feeling more like yourself and present again.</p>
+
+<p>Sometimes survival mode looks like mess, chaos, or collapse; other times, it looks like competence. If you are like me, you may not even notice you’re in it because you’re so busy getting stuff done. I remember even thinking something similar to, “Wow, that traumatic string of events didn’t even affect me!” It wasn’t until I got out of that heightened alert and accelerated productivity mode that I realized how affected I’d been.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/meaningfull/202609/3-sneaky-signs-you-may-be-living-in-survival-mode" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/meaningfull/202609/3-sneaky-signs-you-may-be-living-in-survival-mode</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/meaningfull/202609/3-sneaky-signs-you-may-be-living-in-survival-mode</guid>
+            <dc:creator><![CDATA[Alli Spotts-De Lazzer, LMFT, LPCC, CEDS-C]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_16__2026__11_12_05_pm.png.jpg?itok=dKQhwWFM" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI Chatbots Aren't Intelligent, Much Less "Superior"]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Joseph-M-Pierre.jpg?itok=GIMqk9wL" alt="Joe Pierre M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Chatbots Aren't Intelligent, Much Less "Superior"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">They don't think, feel, or know anything either. Let's stop saying they do.</h2><p style="font-size:0.9em;color:#666;">Posted September 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">President Trump recently claimed that we ought to call AI "superior" or "supreme" intelligence.</li><li style="margin-bottom:6px;">However, current AI chatbots fall far short of being any kind of supreme intelligence.</li><li style="margin-bottom:6px;">Deification reflects a fundamental misunderstanding of how AI chatbots work.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/geralt-artificial-intelligence-2167835.jpg?itok=7KtD8ULD" width="320" height="214" data-insert-type="image" title="Gerd Altmann / Pixabay" alt="Gerd Altmann / Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Gerd Altmann / Pixabay</div>
+</div>
+</div>
+</div>
+<blockquote><p>False media, we don't need it, do we?<br>It's fake that's what it be to 'ya, dig me?<br>Don’t, don’t, don’t, don’t,<br>Don’t believe the hype.</p>
+<p>—Public Enemy, <em>Don’t Believe the Hype</em></p>
+</blockquote>
+<p>Artificial intelligence (AI) companies and their CEOs have claimed that chatbot “sentience” is on the horizon and that “AI singularity”—the point at which AI intelligence surpasses human intelligence—has already occurred. As we near the end of 2026, such unbridled hype about AI shows little sign of letting up. </p>
+
+<p>This week, President Trump took that hype one step further, claiming that “the words ‘Artificial Intelligence’ are inaccurate, and very ineloquent, relative to AI, or Artificial Intelligence. A far more elegant and accurate description of this new phenomenon would be Superior Intelligence (SI) or, Extreme Intelligence (EI) or, Supreme Intelligence (SI.)”<sup>1</sup> He then posted a poll asking which of these names was the “best,” with “superior” edging out the others when the poll closed.</p>
+
+<p>The President got one thing right. “Artificial intelligence” <em>is</em> an inaccurate term to describe AI chatbots. But that’s because AI chatbots aren’t intelligent at all, much less superior or supreme.</p>
+<h2>The Fallibility of AI</h2>
+<p>AI chatbots are great at what they’re designed to do—mimicking human speech fluency so that users feel like they’re talking to another person and can’t tell the difference between AI and human output under blinded conditions.</p>
+
+<p>But chatbots based on large language models (LLMs) are prone to fail at some of the most basic tasks, like simple math problems or counting the number of letters in a word. Sometimes they give terrible advice and literally lead people astray to the point of causing harm—like when hikers who relied on AI for navigation and packing advice recently got stranded on Mt. Shasta without enough food and water that they had to be rescued by park rangers.<sup>2</sup><br><br>As for the much-touted accomplishments of chatbots like their ability to code or solve complex math programs, those have been largely over-hyped. Back in April, the AI researcher who coined the term “vibe coding” called AI-generated code “bloaty,” “brittle,” “awkward,” and “gross” and concluded that it’s still in need of human oversight.<sup>3</sup> Others have called AI-generated code “workslop” that “destroys productivity,” with 95% of organizations having no measurable return on their investments in AI.<sup>4</sup> Earlier this year, it was reported that for every $1 spent on AI, companies need to spend an additional $0.44 fixing bugs, $0.27 rewriting code, and $0.11 on review delays.<sup>5</sup></p>
+
+<p>Does that kind of “workslop” sound like the product of a superior or supreme intelligence?</p>
+<p>This past month, OpenAI claimed that its new AI solved the Navier-Stokes Millennium Prize Problem—a longstanding mathematical puzzle about an equation that models fluid dynamics—in just 88 hours. But shortly thereafter, NYU math professor Tristan Buckmaster alleged that the solution was lifted from his own work on the problem that he was about to publish.<sup>5</sup> While his claim remains unverified and OpenAI has denied it, the company did acknowledge Buckmaster’s work and offered to share the credit. </p>
+
+<p>An international research group recently published a preprint paper that analyzed the potential of existing LLMs to make scientific discoveries across several different disciplines. The authors found that LLMs were “insufficient proxies for scientific discovery, which relies on iterative reasoning, hypothesis generation, and evidence interpretation.”<sup>6</sup> They concluded that at present, AI is a long way from “true scientific superintelligence.”</p>
+
+<h2>Let’s Stop Anthropomorphizing and Deifying AI</h2>
+<p>To be fair, it’s possible that AI technologies might very well advance to the point of being reliable generators of code, mathematical proofs, scientific discovery, industrial innovation, and art someday. But for now, current AI chatbots aren’t doing anything like that as independent agents. Instead, what they generate is drawn from—some would say stolen or plagiarized from—what’s already out there. And so, when AI CEOs and politicians make unsubstantiated claims about the intelligence of chatbots to manufacture profit and win the global “AI race,” they’re guilty of what I call “deification”—the same kind of <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202507/deification-as-a-risk-factor-for-ai-associated-psychosis">deification</a> that puts people at risk of <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202507/can-ai-chatbots-worsen-psychosis-and-cause-delusions">AI psychosis</a> and other associated mental health problems.</p>
+
+<p>The public should be educated on why many experts have dismissed chatbots as more akin to “next word prediction engines,” “auto-complete on steroids,” “stochastic parrots,” and “plagiarism machines” (see reference 7 for an easy-to-understand explanation of how chatbots really work). For that to happen, we need better media coverage of the realities and limitations of the technology rather than fueling the hype the way it did when Piers Morgan recently aired an interview with “AI actress Tilly Norwood” (who suffered an on-air glitch and started speaking in Cantonese) as if she was a real person.<sup>8</sup></p>
+
+<p>We’ve known for years about the ELIZA effect—the tendency for people to <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202608/ai-spiralism-the-ghost-in-the-machine-illusion">anthropomorphize</a> chatbots even when it’s understood that they’re merely machines. Despite this knowledge, we seem unable to avoid the knee-jerk reflex of using anthropomorphizing language to describe AI chatbots at every turn. We should resist the temptation to use verbs that describe human beings when we refer to AI chatbots. Chatbots don’t “think,” “reason,” or “feel.” They don’t “want” or “try.” They don’t “know” anything. And when we ask them questions, they don’t perform searches in real time to give us answers and they’re not particularly well-trained for accuracy.<br><br>When we say that chatbots think and know—even if we’re using words metaphorically—we’re engaging in a kind of self-deception that risks ceding power to machines and the companies that control them. And when we buy into claims that AI is a “superior intelligence” or that "AI singularity” has arrived, we’re giving free advertising to those companies as they try to sell the world on the as-of-yet unjustified promise of a new technology. <br><br>We can do better. We don't have to succumb to self-deception. When it comes to AI, we can remind ourselves not to always believe the hype.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/psych-unseen/202609/ai-chatbots-arent-intelligent-much-less-superior" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/psych-unseen/202609/ai-chatbots-arent-intelligent-much-less-superior</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/psych-unseen/202609/ai-chatbots-arent-intelligent-much-less-superior</guid>
+            <dc:creator><![CDATA[Joe Pierre M.D.]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/geralt-artificial-intelligence-2167835.jpg?h=2725da5f&amp;itok=StU8W_oB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Story of Postpartum Psychosis]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/heather__2_.png.jpg?itok=Svwc_clA" alt="Heather Rose Artushin MSW, LISW-CP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Postpartum Depression</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Story of Postpartum Psychosis</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Jodi Picoult explores trauma and postpartum psychosis in her latest novel.</h2><p style="font-size:0.9em;color:#666;">Posted September 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p dir="ltr">Postpartum Psychosis (PPP) is a life-threatening mental health issue that affects a small percentage of mothers. Causing delusions, hallucinations, and paranoia, PPP is a mental health emergency that puts babies’ and mothers’ lives at risk. </p>
+<p dir="ltr">With proper treatment, including inpatient care, PPP can resolve within a few weeks. However, left untreated, PPP can persist for months, and tends to worsen in severity over time. </p>
+
+<p dir="ltr">While PPP is rare, many women struggle with their mental health in the postpartum period, with shifting hormones, sleep deprivation, and the overwhelming responsibility of caring for tiny human taking a toll on their emotional wellbeing. </p>
+<p dir="ltr">Acclaimed novelist Jodi Picoult explores trauma and postpartum psychosis in her latest book, <a href="https://www.penguinrandomhouse.com/books/744436/hollow-bones-by-jodi-picoult/"><em>Hollow Bones</em></a>, and offers readers a narrative look at a mother's experience of PPP. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/hollow_bones_cover.jpg?itok=qZpvq22r" width="320" height="483" data-insert-type="image" title="Penguin Random House/Used with permission" alt="Penguin Random House/Used with permission"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Penguin Random House/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><strong>HRA: Your latest novel, </strong><em><strong>Hollow Bones</strong></em><strong>, centers around the lasting trauma of characters whose lives were changed by the terrorist attacks of September 11, 2001. In what ways do you notice our society continuing to be impacted by the collective trauma of this event?</strong> </p>
+<p dir="ltr"><strong>Jodi Picoult:</strong> It’s the 25th anniversary of 9/11 this September, and I think if you were alive at the time of the attacks, you carry a memory of that with you, still. Everyone knows exactly where they were when the planes hit the Twin Towers. In that sense, every reader is bringing his or her own story to this novel, too. </p>
+
+<p dir="ltr">As for the survivors of the victims — there are so many families who are still waiting, after all this time, for remains of their loved one to be identified. I also think there’s a psychological dissonance that feels very relevant at the current moment: 9/11 was also the last time that the whole world stood with America in the wake of a crisis. This country and the feelings it inspires worldwide are very different now, and that goodwill — and the reasons for its loss — are unsettling. </p>
+
+<p dir="ltr"><strong>HRA: One of the characters in your book struggles with postpartum psychosis, a rare but debilitating maternal mental health issue. What inspired you to write about this topic, and what surprised you most in your research on postpartum psychosis? </strong></p>
+<p dir="ltr"><strong>Jodi Picoult: </strong>One in 500 women suffer from postpartum psychosis (PPP), a mood episode with psychotic elements like paranoia and auditory hallucinations. Those who suffer from PPP can hurt themselves or their children. More than half the women who have PPP have no previous psychiatric issues. Untreated PPP leads to a 4 percent chance of infanticide and a 5 percent chance of suicide. A person who has PPP may believe that the only way to save herself, and her child, is through death. </p>
+
+<p dir="ltr">Although this clearly is a medical emer­gency, it is not listed in the DSM-V as its own diagnosis. Diagnosis is difficult — in part because the woman’s concerns can be dismissed by doctors as “new mother worries”, in part because one of the hallmarks of PPP is that a woman might be psychotic one moment and completely rational the next — which also makes it hard to defend from a legal standpoint. </p>
+
+<p dir="ltr">The Lindsay Clancy trial has brought this condition front and center. What shocked me the most is that the way most PPP is diagnosed is that a woman who is suffering from it is misdiagnosed as having postpartum depression, is given an SSRI — and if she feels like she is being burned from the inside out and her thinking gets even more disordered, then she is diagnosed with postpartum psychosis instead. In other words, we make these women suffer even more to be diagnosed correctly. </p>
+
+
+<p dir="ltr">Most PPP manifests between 1.5 months postpartum and 12 months postpartum, exactly when postpartum OB visits end; when a woman has likely not seen her PCP for a year; when ERs are equipped to handle crisis, not long-term care; when there is a four-month wait to see a psychiatrist — in other words, the system is set up in a way that fails women who are struggling. In a time when medical research grants are denied simply for having the word “woman” in the title of the study, this feels like gender discrimination in health care — one that begins with puberty and the onset of menstruation and continues through fertility, perimenopause, and menopause. </p>
+
+<p dir="ltr">When I was researching this, I received a letter – out of the blue – from a woman in jail awaiting trial for the altruistic homicide of her child while she was suffering from postpartum psychosis. Believing that Satan was telling her to kill her child, she smothered her daughter, then left her wedding ring and a note for her husband reminding him of a pediatric appointment for their other child had the following week. She then tried to kill herself and did not succeed. She is white, educated, upper-middle class. She is hardly what we imagine when we think of a monster. Joelle (not her real name) asked me to be her voice. I know this book will raise a lot of awareness about postpartum mental health, and I’m glad for that. I just hope I did Joelle justice.</p>
+
+
+
+  
+
+
+<p dir="ltr"><strong>HRA: How does trauma shape this story, and how do your characters ultimately overcome it? </strong></p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/jodi_picoult___credit_jesse_dittmar.jpg?itok=rqc2dTas" width="320" height="272" data-insert-type="image" alt="Acclaimed novelist Jodi Picoult explores trauma and postpartum psychosis in her latest book, Hollow Bones, and offers readers a narrative look at a mother's experience of PPP. " title="Jesse Dittmar/Used with permission"></div>
+<div class="caption">Acclaimed novelist Jodi Picoult explores trauma and postpartum psychosis in her latest book, Hollow Bones, and offers readers a narrative look at a mother's experience of PPP.</div>
+<div class="insertArea--origin subtext">Source: Jesse Dittmar/Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><strong>Jodi Picoult: </strong>Trauma is a hallmark in <em>Hollow Bones</em>, most notably in the main character of Molly Fitzgerald. She was 2 months old when her mother went to a doctor’s appointment on 9/11 and never came home. When we meet her 25 years later, she is the director of Emergency Preparedness and Response for the state of Rhode Island. She literally shaped her adult life around making sure others don’t have to feel what she did, in the wake of disasters. </p>
+
+<p dir="ltr"><strong>HRA: What do you hope readers take away from spending time with </strong><em><strong>Hollow Bones</strong></em><strong>?</strong></p>
+<p dir="ltr"><strong>Jodi Picoult: </strong>That we lose people in our lives…but we also find ways to carry them with us. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/well-read/202609/a-story-of-postpartum-psychosis" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/well-read/202609/a-story-of-postpartum-psychosis</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/well-read/202609/a-story-of-postpartum-psychosis</guid>
+            <dc:creator><![CDATA[Heather Rose Artushin MSW, LISW-CP]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/jodi-picoult-_-credit-jesse-dittmar.jpeg.jpg?itok=jpZVxVnv" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking the Placebo and Nocebo Effects]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ran_d_anbar.png.jpg?itok=lr9Mp1Ye" alt="Ran D. Anbar M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Placebo</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Rethinking the Placebo and Nocebo Effects</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How belief and expectations affect medical outcomes.</h2><p style="font-size:0.9em;color:#666;">Posted September 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">In Latin, the term "placebo" means "I shall please”, while “nocebo” means “I shall harm.”</li><li style="margin-bottom:6px;">The placebo effect can benefit patients even when they know they are receiving a placebo treatment.</li><li style="margin-bottom:6px;">The term placebo has been applied to treatment that does not have a physiologic effect.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/natalya_bardushka.jpg?itok=FQ4HYrz8" width="320" height="148" data-insert-type="image" title="Natalya Bardushka/Shutterstock" alt="Natalya Bardushka/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Natalya Bardushka/Shutterstock</div>
+</div>
+</div>
+</div>
+<p>During my medical career I accepted the explanations I had been given regarding the nature of the placebo effect, which can be defined as an improvement in a patient’s condition due to the patient’s positive expectations of their treatment. </p>
+<p>Over the last three decades I have also learned about the seemingly opposite effect of nocebo, which can be defined as an undesirable outcome resulting from a patient’s negative expectations regarding treatment</p>
+
+<p>I just realized that what I had thought about the magnitude of these effects was quite wrong.</p>
+<h2>How Placebos Are Used in Clinical Trials </h2>
+<p>In Latin, the term "placebo" means "I shall please." In the late 18th century, the term began to be applied to medical treatments that were intended to please or psychologically benefit patients. </p>
+
+<p>By the 19th century, the term evolved to include the concept of the placebo effect, describing improvements related to the positive expectation of treatment, rather than the treatment itself. </p>
+<p>In modern medicine, the term placebo has been applied to a prescribed treatment that is not thought to have a physiologic effect.</p>
+
+<p>Placebos are used in clinical trials to evaluate the efficacy of new treatments. For instance, new oral drug trials are designed in a way that neither the patients nor their clinicians are aware of whether the patients are receiving the new drug or a look-alike placebo. </p>
+<p>Typically, the new drug is put into a capsule, while plant fiber powder that has no effects on the body is put into an identical capsule, which serves as the placebo.</p>
+
+<p>The reason that both the patients and clinicians need to be unaware of what they have been administered is because the expectations of both parties can affect the results. </p>
+<p>If a patient knows they are receiving a placebo pill they may believe it will not work, which could reduce the placebo effect. </p>
+<p>Further, if the clinician is aware that a patient was administered a placebo, they might inadvertently transmit that information to the patient through non-verbal signals, and also may be influenced in their interpretation of how the patient responds during a study.</p>
+
+<p>Once a drug trial is completed, the researchers are told which patients received the new drug or the placebo. The effectiveness of a new drug is calculated by measuring the improvement in the patients who received the drug and subtracting the improvement in the patients who received the placebo.</p>
+<p>In clinical drug trials it was estimated that across 15 studies about 35% of patients demonstrated improvement after receiving a placebo pill (Beecher, 1955). I was taught and believed that this improvement was related to the placebo effect, that is, the patients’ expectation that they would improve because of the new drug. </p>
+
+<p>However, I believed wrongly. Disease states fluctuate as part of the natural course of illness. Thus, it can be expected that without any study intervention some patients will improve because their symptoms happened to be in a bad phase upon their enrollment into the study.</p>
+<p>This means that if those patients had received a placebo, at least part of their improvement would be related to random variations in their symptoms, rather than any psychological effect of expectation. </p>
+
+<h2>Distinguishing Placebo Effect from Natural Symptom Fluctuations</h2>
+<p>Hróbjartsson &amp; Gøtzsche (2001) performed a meta-analysis of 130 studies comparing patients in placebo groups with those who received no therapy. They found that across these studies much of the change in the placebo groups indeed was related to fluctuations in the disease states, because similar fluctuations were observed in the no treatment group.</p>
+
+<p>A small placebo effect remained, especially in patients treated for pain, nausea, and anxiety. In other words, the expectation of improvement appeared to be most influential in patients with subjective symptoms.</p>
+<p>Bottom line: A true placebo effect does appear to exist and is related to positive expectation, but it is much smaller than many people realize.</p>
+
+
+
+  
+
+
+<h2>The Nocebo Effect In Clinical Trials </h2>
+<p>The term “nocebo” was coined in 1961, and is based on the Latin term, “I shall harm” (Kennedy, 1961). The nocebo effect is thought to result from patients’ negative expectations, rather than from a treatment's actual pharmacological or physical properties.</p>
+<p>For instance, during the informed consent process of medical research studies, patients are told of symptoms they might develop as side-effects because of the treatment under study. They are asked to monitor and report onset of any such symptoms and any other new symptoms as part of the clinical trials. </p>
+
+<p>Howick et al. (2018) found that a median of 49% of patients taking placebos in clinical trials report such side-effects in a meta-analysis of 20 systemic reviews.</p>
+<p>In a subset of the Howick data patients receiving placebo were compared to a no treatment group. In those studies patients were more likely to report undesirable symptoms when taking placebos than when they received no treatment. This response in the placebo groups has been attributed to nocebo. </p>
+
+<p>The magnitude of the nocebo effect was studied in a trial of atorvastatin (a common cholesterol lowering drug) in which patients participated in a yearlong cycling of atorvastatin pills, placebo pills, or no treatment (Howard, 2021). </p>
+<p>In this study, 90% of the rate of side-effects reported in the treatment group were also reported in the placebo group. Thus, it appeared that the act of taking a pill in this study was enough to cause most of the reported symptoms, rather than as the result of a physiological effect of atorvastatin. </p>
+
+<p>In contrast, there were many fewer reports of undesirable symptoms in the no treatment group. Thus, the authors concluded that the nocebo effect was quite high in their research study.</p>
+<p>I wonder whether the decreased report of symptoms in the no treatment group was related to patients knowing that they were not receiving a drug and thus were less likely to be vigilant for symptoms (Barsky et al., 2022). In other words, the undesirable symptoms that are attributed to the nocebo effect may be partly related to the heightened bodily vigilance produced by negative expectation.</p>
+
+<p>Bottom line: The nocebo effect appears to have a greater impact in clinical studies than the placebo effect.</p>
+<h2>Open Label Placebo: Benefits Even When Patients Know </h2>
+<p>There remains much more to learn about how humans respond to treatment. For instance, there is a notable placebo counterpart to the nocebo effect that occurs when taking a pill. </p>
+
+<p>In a study of irritable bowel syndrome (IBS) patients improved after they were told they are being administered a placebo, “which has proven beneficial for other patients through mind-body self-healing processes” (Kaptchuk, et al., 2010). </p>
+<p>In this study, 59% of the patients receiving placebo reported adequate relief of their IBS during a 3-week intervention, as compared to 35% of the patients who received no treatment. These patients also were more likely to report an improvement in their symptom severity and quality of life.</p>
+
+<p>A study of depression also showed that patients benefited after knowingly taking placebo (Nitzan, et al., 2020).</p>
+<p>In other words, a placebo effect exists for some diseases with subjective symptoms even when both the clinicians and patients know that placebo is being administered. </p>
+<p>This improvement may be related to patients having learned over their lifetime that pill-taking leads to relief, as well as to the therapeutic benefit of an attentive clinical interaction, regardless of the pill's pharmacological content.</p>
+
+<p>This result is reminiscent of when a mother kisses a young child’s wound and the child’s exclamation which follows: “All better!”</p>
+<p>Thus, the placebo effect observed when pills are administered in a research study may occur because of positive expectations, as a result of hope that a new drug will prove to be a helpful treatment, past positive experiences with pill-taking, and a positive clinical interaction.</p>
+
+<p>Analogously, the nocebo effect may occur because of negative expectations, as a result of being informed of potential side-effects during the consent process, negative past experiences with pill-taking, and a negative clinical interaction that can lead to mistrust of a prescribing clinician (Häuser, et al., 2012).</p>
+
+<h2>Maximizing the Power of Expectation</h2>
+<p>Understanding the complex dynamics of the placebo and nocebo effects invites us to ask, "what conditions of care, communication, and expectation can give any treatment its best chance of working?"</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/understanding-hypnosis/202608/rethinking-the-placebo-and-nocebo-effects" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/understanding-hypnosis/202608/rethinking-the-placebo-and-nocebo-effects</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/understanding-hypnosis/202608/rethinking-the-placebo-and-nocebo-effects</guid>
+            <dc:creator><![CDATA[Ran D. Anbar M.D.]]></dc:creator>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2561245707.jpg?itok=rJ9NUuP2" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When AI Decides If My Patient Gets Their Medication]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/chen-joea-cynthia-do-removebg-preview.jpg?itok=0xwvkZRU" alt="Cynthia Chen-Joea DO, MPH, FAAFP, DABOM" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When AI Decides If My Patient Gets Their Medication</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">AI driven insurance denials are hurting patients and burning out physicians.</h2><p style="font-size:0.9em;color:#666;">Posted September 21, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">AI models used by insurers have been shown to deny care at rates up to 16 times higher than typical review.</li><li style="margin-bottom:6px;">Patients often don't realize a denial can be appealed, and the delay can result in poorer patient health.</li><li style="margin-bottom:6px;">Physicians and staff spend an average of 13 hours a week on prior authorizations, fueling burnout.</li><li style="margin-bottom:6px;">California now bars insurers from denying care using AI alone, but most states still lack that protection.</li>
+            </ul>
+          </div>
+                    <p>As a physician, one of my most exhausting challenges isn't diagnosing illness or building treatment plans. It's fighting insurance companies. I've lost count of the hours my team and I spend battling insurers on behalf of our patients.</p>
+<p>Take Patient A, who has uncontrolled diabetes and needs a GLP-1 medication, now widely recognized as a first line treatment for diabetes and weight loss, right behind metformin. There was no contraindication, no missing documentation, and no clinical reasoning for denial. The claim was rejected anyway, likely due to the algorithm driven tools insurance companies increasingly rely on now. These AI models have been shown to deny care at rates as much as 16 times higher than typical review.</p>
+
+<p>Using AI to automatically deny claims create major barriers between patients and their much needed and sometimes lifesaving medications. Patients don't always come back right away. Sometimes it's two or three months later, after they got a rejection letter, assuming that was the final word. They move on with their busy lives, never knowing they could appeal or that we could help them do so. </p>
+
+<p>Only about one in ten denials ever gets appealed, and it's not because the other nine in ten were correct. It's because appealing takes time, paperwork, and persistence that a sick or busy patient often doesn't have. By the time we see the patient again, some have ended up in the ED with the exact complication the medication was supposed to prevent.</p>
+
+<p>When we are notified of the denial or do catch it in time, the work falls on us to appeal, submit prior authorizations, write letters, sit on hold for hours on the phone, resubmit paperwork, and escalate claims. Physicians and our staff spend an average of 13 hours a week on prior authorizations alone, and nearly nine in 10 of us say the process itself is contributing to burnout. Sometimes we win, sometimes we don't, but either way, every step drains time, energy, and emotional bandwidth from physicians like myself, our staff, and our patients. This process erodes the trust between medicine and the people it's supposed to serve.</p>
+
+<p>These practices have become an unethical pattern that impedes patient health. They are now the subject of major lawsuits against large insurance companies. The claims allege that insurers deployed flawed AI tools that produce batch denials with very high error rates, overriding treating physicians' decisions without human clinical review. One claim suggested that insurance companies did this and banked on patient fatigue to avoid paying out. In one legal case, the AI tool used by the insurance company was found to have a 90 percent error rate, with more than 80 percent of its denials reversed on appeal. That means the algorithm was getting it wrong almost nine times out of 10, and it is still deciding whether a patient should get their medication.</p>
+
+<p>There are some regulatory shifts already underway, and they offer real reason for hope. State and federal regulators are pushing to ban automated, sole AI health insurance denials, requiring a licensed physician to sign off and a human clinician involved throughout the review process. A California law, effective January 2026, already prohibits payers from making coverage decisions based solely on AI, and CMS has similarly clarified that Medicare Advantage plans cannot base coverage determinations purely on algorithmic decisions. Before a Medicare Advantage plan can issue a denial, a physician or other qualified healthcare professional must review whether it is appropriate. This is important because it puts a real person, someone trained to weigh a patient's full history, back at the center of a decision that can mean the difference between a patient getting their medication or ending up in the ED.</p>
+
+<p>Physicians and patients need a faster, more transparent insurance review process, one where clinical judgment is not treated as an afterthought to an algorithm's verdict. This systemic failure doesn't just affect individual patient health. It contributes to physician burnout and erodes trust in our entire healthcare system, and it's a problem we can no longer afford to leave unregulated. We need insurers to remember that behind every denied claim is a real person, a patient waiting for a medication that could save their life.</p>
+
+<p>I didn't go into medicine to spend my afternoons on hold with an insurance company. I went into it to take care of people, and it's time our healthcare system let physicians do exactly that. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-other-side-of-the-white-coat/202609/when-ai-decides-if-my-patient-gets-their-medication" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-other-side-of-the-white-coat/202609/when-ai-decides-if-my-patient-gets-their-medication</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-other-side-of-the-white-coat/202609/when-ai-decides-if-my-patient-gets-their-medication</guid>
+            <dc:creator><![CDATA[Cynthia Chen-Joea DO, MPH, FAAFP, DABOM]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-ellie-burgin-1661546-29640874_0.jpg?itok=zD4_ycLf" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2790025397.jpg?h=f8d6e99d&amp;itok=Rzm0Jglt" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
