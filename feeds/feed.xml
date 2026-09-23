@@ -4,693 +4,477 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 19:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 22:45:28 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 19:30:53 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 22:45:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[What Your Addiction Is Translating for You]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/patrick_william_kelly.png.jpg?itok=newLmW7b" alt="Patrick William Kelly Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Addiction</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Your Addiction Is Translating for You</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Drugs were crude interpreters of pain that no one else was listening to.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[What Does PTSD Sound Like?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-11/210514_Djalilian_0288_szsmaller_head_and_shoulders-removebg-preview.jpg?itok=TpTpo4JF" alt="Hamid Djalilian M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Post-Traumatic Stress Disorder</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Does PTSD Sound Like?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How trauma alters auditory processing.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Substance use functions as crude self-regulation, translating pain that has no other outlet.</li><li style="margin-bottom:6px;">Treating addiction and mental illness in separate silos leaves each team holding half the story.</li><li style="margin-bottom:6px;">Recovery depends on both neurobiological stability and relational witnessing; neither works alone.</li><li style="margin-bottom:6px;">The clinical question should shift from "What are you using?" to "What is the substance doing for you?"</li>
+              <li style="margin-bottom:6px;">Sensory dysregulation is a central feature of PTSD, not simply a secondary consequence.</li><li style="margin-bottom:6px;">PTSD can impair auditory filtering, making irrelevant sounds difficult to suppress.</li><li style="margin-bottom:6px;">Trauma can alter how sounds are assigned threat, salience, and emotional meaning.</li><li style="margin-bottom:6px;">Auditory processing in PTSD can shift from sensory hyperreactivity to sensory shutdown.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/andrew-seaman-389u-qjpgty-unsplash.jpg?itok=BaKJLb3S" width="320" height="400" data-insert-type="image" title=" Andrew Seaman/Unsplash" alt=" Andrew Seaman/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Andrew Seaman/Unsplash</div>
-</div>
-</div>
-</div>
-<p dir="ltr">There was a time in my life when I could not stop drinking. I would wake up with a pounding hangover and continue to drink—taking long swigs from a massive bottle of Bulleit bourbon—until I passed out again. In the darkness of my untreated mental illness, I lost the ability to inhabit my body without substances. I checked myself into an emergency room one fall on three separate occasions because I could not retain liquids without vomiting. Each time, once I was medically cleared, I was discharged. No doctor ever paused to assemble the full picture: the multiple involuntary commitments to psychiatric wards, the brain infection that had inflamed my frontal cortex, or the bipolar disorder whose diagnosis would not arrive for another two years. </p>
+                    <p>Post-traumatic stress disorder (PTSD) is usually conceptualized in terms of its psychological impact. But Van der Kolk and McFarlane recently reminded us that beneath this affective/cognitive layer is a fundamental disruption in how the brain processes the sensory world. </p>
+<p>In <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13176846/">their article</a>, they note that "little attention has been paid to the central role of sensory processing", that "critical elements of the phenomenology and neurobiology of traumatic stress" have been ignored, and that "somatic symptoms and lack of sensory regulation are central, not peripheral, to the clinical presentation of PTSD" [1]. </p>
 
-<p dir="ltr">While every doctor encouraged me to stop drinking, no one seemed particularly interested in the deeper question: Why did I keep turning to the bottle for relief?</p>
-<p dir="ltr">Psychiatrist Edward Khantzian proposed that essential question when he reframed addictions not as moral failures but as adaptive responses to escape psychological suffering. “Persons with substance use disorders suffer in the extreme with their feelings,” Khantzian observed. "Either being overwhelmed with painful affects or seeming not to feel their emotions at all.” The choice of drugs matters, too, because it hints at the shape of the suffering it seeks to regulate. </p>
+<p>With this in mind, we decided to ask the somewhat peculiar question: <em>What does PTSD sound like?</em></p>
+<p>To find out, we examined over 200 first-person accounts of sound and hearing from public PTSD communities. From these, we identified four canonical features that can be tethered to specific findings from auditory neuroscience in PTSD populations.</p>
 
-<p dir="ltr">I turned to a variety of drugs for a variety of reasons. Alcohol was easily accessible, socially acceptable, and it muted the dread. Cocaine and Adderall propelled me into a frenzied swirl of motion, elevating the flatness of depression into a beguiling belief that I was still the best version of myself. When I came down from their high, weed turned the shame I felt into a numbing kind of atmospheric warmth. Every drug ventriloquized what I had no language for: They were crude interpreters that concealed far more than they revealed. </p>
+<h2>Auditory Disinhibition</h2>
+<ul>
+<li><em>"Background noise never becomes background. I hear all of it."*</em></li>
+<li><em>“I hear everything, all at once, and my brain doesn't decide what I don't need to hear.”</em></li>
+<li><em>"Every little sound gets my attention. Nothing seems to get filtered out."</em></li>
+</ul>
+<p>Normally, the brain performs a remarkable audiological task — <em><strong>not hearing.</strong></em> </p>
 
-<p dir="ltr">I now see the ruse of their false interpretations. While they regulated me, they did not relate to me; while they soothed me, they never saw me. They were sublimely effective at taking unbearable emotion and converting it into a palatable reality while ignoring the unbearability's source. This trick that drugs play on users is clinically significant because it shapes what effective treatment should look like. </p>
+<p>Repetitive, irrelevant sounds are suppressed so attention can be directed toward what matters — a process called sensory gating. In PTSD, this system can become less effective, leaving far more of the auditory environment competing for attention. This is not simply heightened sensitivity to sound, but a collapse of the distinction between what should be heard and what should be filtered. </p>
 
-<p dir="ltr">Many intensive outpatient programs are built on cognitive behavioral therapy (CBT). In the first year of my crisis, I attended one in Wisconsin where we were taught to recognize distorted thoughts and practice skills to stop harmful behaviors. However helpful for some, the framework can obscure the roots of psychic pain. In my case, no one took the time to piece together a life history or offer a comprehensive STI exam. Had they done so, they might have identified how a manic period preceded my depression and how my self-destructive actions were the product of an undiscovered neurosyphilitic brain infection. The drug use was downstream of a biological reality that no worksheets on distress tolerance or cognitive distortions would ever reach. In compressing my addiction and psychiatric symptoms into one CBT framework, the program turned a blind eye to the origins of my psychological chaos. </p>
+<p>Perhaps the most striking finding across the literature is the consistency of subjective sensory gating deficits, despite considerable heterogeneity in where the processing failure occurs. Across electrophysiological studies, PTSD is associated with weaker filtering of repetitive or irrelevant sounds, heightened automatic attention to unexpected auditory changes, and reduced inhibitory control over sensory processing. At the same time, the brain appears to preferentially process salient or emotionally meaningful information while giving less priority to neutral input [2–5]. </p>
 
-<p dir="ltr">Far too often, the design of the mental health system perpetuates this divided strategy. The Substance Abuse and Mental Health Services Administration highlights the value of an integrated approach to co-occurring disorders. But most programs lack resources, time, and a holistic vision, ensuring that the mental health and substance use teams operate in separate silos, each holding a piece of the puzzle that neither can complete alone. </p>
+<p><em>In PTSD, the auditory baseline is cacophony.</em></p>
+<h2>Auditory Threat Reactivity</h2>
+<ul>
+<li><em>"A door slams and my whole body jumps before I even know what happened."</em></li>
+<li><em>"A knock at the door can send my heart racing instantly."</em></li>
+<li><em>"I still jump at loud noises every time — no matter how many times I remind myself I'm safe.”</em></li>
+</ul>
+<p>The auditory system doesn't wait for conscious recognition before mounting a defensive response. Fast subcortical pathways route sudden sound straight to brainstem startle circuitry, while the amygdala regulates how strongly the body reacts — which is why a jolt, a racing heart, or a surge of adrenaline can arrive before the sound has even been identified [6, 7].</p>
+
+<p>In PTSD, this reflex isn't simply turned up across the board. It's especially sensitive to context: Startle responses become most abnormal specifically under unpredictable threat, which is why the same sound can barely register one day and set off a full reaction the next, depending on stress, perceived safety, and expectation [8]. The body responds to sound before the mind can decide if it's dangerous. </p>
+
+
+<p><em>In PTSD, the fear circuit turns up the gain on an auditory startle reflex.</em></p>
+<h2>Conditioned Auditory Salience</h2>
+<ul>
+<li><em>“The sound of dishes being handled aggressively makes me freeze. It used to come right before an argument.”</em></li>
+<li><em>“Whenever I hear a hint of frustration in someone’s voice, I immediately start bracing for what comes next.”</em></li>
+<li><em>“A car pulling into the driveway still makes me tense. That sound used to mean they were home.”</em></li>
+</ul>
+
+<p>In PTSD, the importance of a sound may have surprisingly little to do with its volume. Through fear conditioning, an otherwise ordinary sound can acquire predictive meaning because it was repeatedly associated with danger [6].</p>
+<p>The effect is especially interesting with the human voice. Studies of affective prosody, the emotional information carried by tone and rhythm rather than words, find altered processing in PTSD [9]. In women with childhood-abuse-related PTSD, identification of several emotional tones was slowed, while recognition of anger was relatively preserved, suggesting preferential processing of threat-relevant vocal information [10].</p>
+
+
+
+  
+
+
+<p>This may also explain why predictability and control matter so much. PTSD studies find particularly abnormal responses to unpredictable threat [8] and impaired use of contextual safety signals [11]. The auditory system is responding not simply to how loud a sound is, but to what that sound has been learned to mean.</p>
+
+<p><em>Just as the body keeps the score, so does the ear.</em></p>
+<h2>Dissociative Auditory Attenuation</h2>
+<ul>
+<li><em>"People are talking to me, but suddenly their voices sound far away."</em></li>
+<li><em>"Everything becomes muffled, like I'm hearing it underwater."</em></li>
+<li><em>"I can see someone speaking, but the words stop registering."</em></li>
+</ul>
+<p>PTSD can present along two broad response patterns: a hyperaroused presentation, in which threat-response systems remain highly engaged, and a dissociative presentation, characterized by greater shutdown and disengagement. </p>
+
+<p>Interestingly, auditory processing appears to track this divide. In combat veterans, intrusive re-experiencing was associated with larger neural responses to startling sounds, while maladaptive avoidance was associated with reduced neural responses to the same sounds [12]. The auditory system in PTSD, then, is not simply turned up. Its regulation can move in either direction, from sensory flooding to sensory shutdown.</p>
+
+<p><em>In PTSD, psychology and neurobiology are coupled.</em></p>
+<h2>What PTSD Sounds Like</h2>
+<p>Taken together, these accounts support a broader idea now emerging in PTSD research: Sensory dysregulation is not simply a byproduct of PTSD, but part of the disorder itself. Understanding PTSD requires asking not only what happened, how it is remembered, and what it means, but also how that experience has changed the way the brain processes the sensory world. </p>
+
+<p>This becomes especially important when PTSD occurs alongside disorders such as tinnitus and hyperacusis, where the auditory system is already central to the patient’s symptoms. At our <a href="https://neuromedcare.com/">tinnitus clinic</a>, trauma-informed care means addressing both the psychological and auditory-processing elements of PTSD. It means that, in addition to the psychiatric history, we need to ask: <em>What does the world sound like to you?</em></p>
+
+<p><em>*These are composite examples, not direct quotes, in order to preserve the anonymity of the individuals whose experiences informed them.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/sound-mind/202609/what-does-ptsd-sound-like" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/sound-mind/202609/what-does-ptsd-sound-like</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sound-mind/202609/what-does-ptsd-sound-like</guid>
+            <dc:creator><![CDATA[Hamid Djalilian M.D.]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/ptsd_and_auditory_processing.jpg?itok=p1MPfeKo" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Hidden Problem With Positive Thinking]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/loren_soeiro.png.jpg?itok=4xoKINjE" alt="Loren Soeiro, Ph.D. ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Motivation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Problem With Positive Thinking</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Sometimes, imagining success can block you from achieving your goals.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Positive fantasies can feel motivating while actually reducing the effort you make.</li><li style="margin-bottom:6px;">Believing a goal is achievable is very different from imagining you've already achieved it.</li><li style="margin-bottom:6px;">Self-confidence helps you the most when it's paired with a realistic view of obstacles and difficulties.</li><li style="margin-bottom:6px;">With mental contrasting, you can connect a positive view of your future to the steps necessary to get there.</li>
+            </ul>
+          </div>
+                    <p>You have an important interview coming up, and you need to prepare. So you spend twenty minutes imagining yourself walking into the office looking great, impressing everyone you speak to, and immediately getting the job. The visualization is easy because you’ve already scripted it, too: To firm it up in your mind, you wrote out a detailed narrative of how much you impressed your interviewers. And this morning, just after you brushed your teeth, you looked yourself in the eye and declared, “I have everything I need to win, and my success is inevitable.” You repeated this fifteen times. As you drive to the interview, you’re feeling great — although a nagging voice in the corner of your awareness is asking you why you haven’t looked over your resume, even once. </p>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-ron-lach-9485848.jpg?itok=B_d2A37A" width="320" height="213" data-insert-type="image" title="Ron Lach/Pexels" alt="Ron Lach/Pexels"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/chatgpt_image_sep_23__2026_at_09_57_00_am.png.jpg?itok=3gAep2Wx" width="320" height="213" data-insert-type="image" title="Image created by ChatGPT" alt="Image created by ChatGPT"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Ron Lach/Pexels</div>
+<div class="insertArea--origin subtext">Source: Image created by ChatGPT</div>
 </div>
 </div>
 </div>
-<p dir="ltr">Later in my years of crisis, I spent time at Wisconsin’s state forensic hospital, and I experienced the bifurcated method firsthand. I will never forget the empathetic eyes of a substance use counselor who helped me to mine the past of my addictions through a life history assignment, dropping a plumb line from my father’s alcoholism to the shame I felt when I failed in life, to identify a schema I had never spoken aloud: “I need to achieve to be loved.” For the first time in my life, in the absence of judgment, I saw my addictions as a repressed form of somatic speech. </p>
+<p>But you mean to manifest success, no matter what, even if some people might call it delusional — <em>delulu is the solulu</em>, you once heard. So as you wait to be called in to the interview room, you browse a couple of TikToks about visualizing your financial future. You can imagine quite a bit of wealth. It’s a lot more fun doing that than explaining your departure from your last job, or the gap in your employment history — and less of a drag than doing research into the company you’re applying to. Of course it is; dwelling on potential problems could just drag you down, you think, as you stand up to meet your interviewer. </p>
+
+<p>OK, end of scenario. I’ve painted with a pretty broad brush, so it’s easy to see that the “you” character above is leaving quite a lot on the table. In the example, “you” are full to the brim with optimism or ambition. It’s a form of motivation that other people will probably notice immediately, and it might be a really good look — at least at first. You’re trying to<em> manifest</em> good fortune — to use focused belief to bring something positive into the world. </p>
+
+<p>And you can learn a lot about manifestation on social media. In 2025, an article in <em>Religion Compass</em> reported that TikToks about it had accumulated more than 62.8 billion views in the preceding few years. If you’ve been watching, you might have been encouraged to use affirmations<strong> </strong>(talking to yourself in the mirror), scripting (writing a story about your success, as if it has already happened), or vision boards<strong> </strong>(cutting-and-pasting images of things you want). Manifestation also informs “lucky girl syndrome” (repeating mantras about your own good fortune) as well as the more recent idea of the “17-second rule,” which claims that holding a positive thought in your mind for seventeen uninterrupted seconds can activate its power. </p>
+
+<p>All of these techniques involve <em>positive fantasies</em> — efforts to experience the future you want, as if it’s real already — but, as Oettingen and Mayer pointed out in a 2002 paper, those positive fantasies aren’t the same as <em>positive expectations</em>. When you have positive expectations, you’re telling yourself that your goal is achievable — that <em>you can do it.</em> According to Oettingen &amp; Mayer, believing this can help motivate you to put forth more effort and to try harder to achieve your goal, while simply fantasizing about the goal itself was associated with less effort and worse outcomes. In other words, when you believe something is possible, you’re more likely to work for it, but believing that you’ll achieve your goal no matter what doesn’t encourage any extra effort. </p>
+
+<p>Why would imagining success make it less likely that you’ll prepare for it? Because creating a vivid mental picture of your outcome may help you experience, at least temporarily, some of the great feelings associated with goal attainment. Imagine yourself in a bigger office, after you get the promotion. Imagine getting an A because you’ve aced the exam. Imagine seeing the results of a deliberate change to your diet — you’ve managed to lose the weight, or to gain it. Although these images and fantasies might be pleasant to indulge in, research suggests that they might actually reduce the motivation to try as hard as you can. In a 2011 experiment, Kappes &amp; Oettingen found that participants who fantasized about their futures put less energy into a task than participants in control conditions. </p>
+
+<p>The central idea of “manifestation culture” thus seems to be that success will happen <em>just because you think about it</em>, which isn’t miles away from telling yourself that actual, real-world effort doesn’t matter. The research on manifestation, however, tells a different story. A 2025 study by Dixon et al. found that strong manifestation-related beliefs were associated with greater perceived success and aspirations, but also with a greater willingness to take risks — and even with bankruptcy. Maybe manifestation will increase your confidence as it helps you perceive success in detail, but what happens after your visualization is complete? If you’re making risky bets with your money, you’re leaving yourself more vulnerable to a loss. </p>
 
 
-<p dir="ltr">If those insights ever made it to my psychiatrist and mental health team, I never heard a word about it. Treatment team meetings revolved around the mechanical recitation of safety questions: <em>Do you have thoughts of harming yourself? Do you have thoughts of harming others?</em> Each group of experts held vital parts of my story, but the institution seemed not to provide a mechanism to ensure they spoke to each other.</p>
+<p>But there is a more practical way to incorporate visualization into your striving for success. It’s called <em>mental contrasting, </em>and it incorporates manifesting your desired outcome in addition to envisioning the obstacles that stand between you and that outcome. As Gabriele Oettingen puts it: First, ask yourself what you want and what it would feel like to achieve it; then, identify and acknowledge the barriers or challenges in your way. Envision your positive future <em>alongside</em> those obstacles, as a kind of contrast. To accomplish X, you’ll have to get through Y. Then, make a decision about how to act on that obstacle. In so doing, you’re firming up your motivation and commitment to a useful, strategic course of action, and you’re activating the practical problem-solving side of your brain. So, while positive fantasies alone can sap your motivation, strategic and balanced fantasies may help you aim your energy in the right direction. </p>
 
-<p dir="ltr">Over the years, I have learned that recovery has two parts: neurochemical stability and relational witnessing. The first consisted of lithium that cemented a chemical floor beneath the ebbs and flows of my moods, complete sobriety from substances that forced the fog of <a href="https://www.psychologytoday.com/us/blog/minds-at-war/202606/the-illness-that-hides-itself">anosognosia </a>to lift, and the correct diagnosis of bipolar disorder that gave me a lens to see clearly my suffering. This allowed me to listen to myself and others. The second consisted of the counselor who was present with my pain, and the mother who diligently answered my phone calls every morning with a compassion that survived the cruelty of my manic insults. This allowed me to be seen. </p>
-
-
-
-  
-
-
-<p dir="ltr">When not acting as a ventriloquist, my drug use was a mimic of each aspect of recovery: It chemically simulated the stability my brain was lacking, while it seduced me with its own form of artificial intimacy. Only once the static of psychic suffering diminished was the signal of relationships able to reach me. </p>
-
-<p dir="ltr">For clinicians, Gabor and Daniel Maté invite the heartfelt reversal that humanizes every conversation with someone floundering: Not why the addiction, but why the pain? We will likely struggle to find that answer if we continue to keep the addiction and mental health experts in separate rooms. </p>
-<p dir="ltr">I have since come to see the breakthrough of recovery in a new light. Rather than seeking an endpoint, I invite a conversation with my body and emotions before the hand reaches in the dark of the night for the glass or the phone. The space for that conversation requires a stable brain and relationships that reflect reality to me—both honest interpreters in dialogue with each other. </p>
-
-<p dir="ltr">For far too long, nobody asked what the drugs were translating for me. When someone finally did, my journey toward insight and healing could begin. </p>
+<p>So it’s not that positive thinking, or envisioning a great future, is a problem on its own — it only becomes counterproductive when it draws your attention away from the path you’ll take to get to that future. Don’t stop picturing your goals, and don’t give up believing in yourself. As you visualize success, though, make sure that you spend at least as much time thinking and strategizing about what might get in your way. Instead of picturing tomorrow’s interview as an automatic lock — a job you’ll definitely, definitely get — remind yourself that you do have a genuine chance to get it, and ask yourself what you realistically have to do to get ready. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/minds-at-war/202609/what-your-addiction-is-translating-for-you" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/i-hear-you/202609/the-hidden-problem-with-positive-thinking" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/minds-at-war/202609/what-your-addiction-is-translating-for-you</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/minds-at-war/202609/what-your-addiction-is-translating-for-you</guid>
-            <dc:creator><![CDATA[Patrick William Kelly Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/i-hear-you/202609/the-hidden-problem-with-positive-thinking</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/i-hear-you/202609/the-hidden-problem-with-positive-thinking</guid>
+            <dc:creator><![CDATA[Loren Soeiro, Ph.D. ABPP]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/andrew-seaman-389u-qjpgty-unsplash.jpg?itok=DETyq9-T" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_23__2026_at_09_55_51_am.png.jpg?itok=EBvgCYk8" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Can Ableism Contribute to Suicidality?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/kathleen-bogart-headshot-cropped.jpg?itok=acZkr-aw" alt="Kathleen R. Bogart Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Suicide</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can Ableism Contribute to Suicidality?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Among disabled people, internalized stigma is linked to suicide attempts.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Work Doesn’t Need a Mission to Be Meaningful]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/matt-grawitch_1.jpg?itok=XyCWuAg0" alt="Matt Grawitch Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Work Doesn’t Need a Mission to Be Meaningful</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Engagement can emerge from more than social purpose.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Internalized disability stigma was associated with lifetime suicidal thoughts and attempts.</li><li style="margin-bottom:6px;">Feeling like a burden helped explain the association with suicide attempts.</li><li style="margin-bottom:6px;">Suicide prevention efforts should address ableism and affirm the value of disabled lives.</li>
-            </ul>
-          </div>
-                    <p dir="ltr"><em>Coauthored by Melissa Shang and Kathleen Bogart</em></p>
-<p dir="ltr"><a href="https://www.psychologytoday.com/us/blog/disability-is-diversity/202312/what-is-ableism-a-social-psychological-perspective">Ableism</a>—or disability stigma—is pervasive in our society, from movies that portray disability as a tragedy to employers who assume a disabled applicant cannot do the job. But what happens when these negative messages begin to shape how disabled people see themselves? Our <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Frep0000694">newly published research</a> examines whether internalizing negative beliefs about disability is associated with suicidal thoughts and attempts.</p>
-
-<h2>Understanding minority stress</h2>
-<p dir="ltr">Our research centered on minority stress theory, which proposes that people in stigmatized groups experience additional stress because of prejudice and discrimination, and that this stress can have serious consequences for mental health.</p>
-<p dir="ltr">For disabled people, this may include being bullied or abused or hearing comments that minimize the challenges associated with their disability. These are external stressors: experiences that come from other people or institutions.</p>
-
-<p dir="ltr">Internal stressors involve how disabled people respond to those external stressors. Someone may conceal a disability to avoid being judged or discriminated against. They may also begin to believe negative stereotypes about disabled people and apply those beliefs to themselves. For example, a person who repeatedly encounters the idea that needing assistance makes someone less valuable may begin to feel ashamed of their own support needs. This is known as internalized stigma.</p>
-
-<h2>What our study found</h2>
-<p dir="ltr">In our study, 279 U.S. adults with disabilities or chronic conditions completed an online survey. Participants reported a range of disabilities, including mobility, sensory, psychiatric, and health-related disabilities. Some had multiple disabilities, and their disabilities varied in how noticeable they were to others.</p>
-
-<p dir="ltr">We examined four minority stressors: overt discrimination, microaggressions, internalized stigma, and disability concealment. We also asked whether participants had ever experienced suicidal thoughts or made a suicide attempt.</p>
-<p dir="ltr">People who reported greater internalized stigma were more likely to report having experienced suicidal thoughts and at least one suicide attempt during their lifetime. This finding is important because it suggests that the effects of disability stigma may extend beyond experiences of discrimination themselves. When negative messages about disability become incorporated into how people understand their own worth, they may be particularly harmful to mental health.</p>
-
-<p dir="ltr">Overt discrimination, microaggressions, and disability concealment were not associated with suicidal thoughts or attempts in our study. This does not mean that experiencing discrimination or concealing a disability never affects mental health. Instead, certain forms or experiences of discrimination and concealment may be more harmful than others in ways that were not captured by our measures. External stressors may also contribute indirectly to mental health struggles by shaping the negative beliefs people develop about themselves.</p>
-
-<h2>The danger of feeling like a burden</h2>
-<p dir="ltr">We also examined two experiences that might help explain the connection between internalized stigma and suicidal thoughts or attempts: feeling like a burden to others and feeling socially disconnected. According to the interpersonal theory of suicide, both experiences can contribute to suicidal thoughts.</p>
-
-
-<p dir="ltr">We found that feeling like a burden helped explain the association between internalized stigma and suicide attempts, but not the association between internalized stigma and suicidal thoughts. Feeling socially disconnected did not significantly explain either association.</p>
-<p dir="ltr">These findings highlight the potential harm of messages implying that disabled people are burdens, whether through caregivers expressing resentment about providing support or films like <em>Me Before You</em> suggesting that disability is a fate worse than death. When people internalize the idea that needing support makes them less valuable to others, those beliefs may contribute to serious psychological distress.</p>
-
-<h2>What can we do?</h2>
-<p dir="ltr">Our findings highlight the importance of mental health care that addresses disability-related stigma. Clinicians should consider how ableism may contribute to a client’s distress and help clients recognize and challenge beliefs that equate having a disability or needing support with having less worth.</p>
-
-
-
-  
-
-
-<p dir="ltr">Doing this effectively requires training. Mental health education should include information about the minority stressors disabled people face, as well as strategies for making mental health services more accessible. Professionals who regularly work with disabled people, such as educators and caregivers, should also receive suicide gatekeeper training so they can recognize signs of suicidal thoughts and connect people with appropriate support.</p>
-
-<p dir="ltr">Families and friends have a role, too. When someone says they experienced ableism, listen to and support them. Avoid treating accommodations or assistance as things they should feel guilty or unsafe asking for. Making spaces and activities accessible is one way to put inclusion into practice.</p>
-<p dir="ltr">Disability is part of human diversity, and a person’s value should never depend on how their body or mind functions.</p>
-
-<p dir="ltr"><em>Melissa Shang is a Clinical Psychology Ph.D. student in the School of Psychological Science at Oregon State University. </em></p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/disability-is-diversity/202609/can-ableism-contribute-to-suicidality" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/disability-is-diversity/202609/can-ableism-contribute-to-suicidality</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/disability-is-diversity/202609/can-ableism-contribute-to-suicidality</guid>
-            <dc:creator><![CDATA[Kathleen Bogart Ph.D.]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-karola-g-7588315.jpg?h=e388f1ea&amp;itok=y1ZOm5F8" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking Trying to "Find Your Purpose"]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-02/irabed.png.jpg?itok=kx88pDk0" alt="Ira Bedzow Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Happiness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Rethinking Trying to "Find Your Purpose"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Instead of discovering your end “goal,” learn how to pursue life purposefully.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Purpose is not a single goal to achieve, but an orientation for how we choose to engage in life.</li><li style="margin-bottom:6px;">Living purposefully means making deliberate choices about what matters to you and how you want to pursue it.</li><li style="margin-bottom:6px;">If you don't know your purpose now; you can begin by practicing how to live more purposefully.</li>
-            </ul>
-          </div>
-                    <p>When Joseph Campbell was a popular name, people would say, “<a href="https://www.jcf.org/learn/joseph-campbell-follow-your-bliss">Follow your bliss</a>.” Then, as a career-development and self-help mantra, we moved to “<a href="https://www.inc.com/marcel-schwantes/mark-cuban-debunked-the-follow-your-passion-myth-and-his-advice-is-a-wake-up-call-for-leaders/91188895">Follow your passion</a>.” Today, it seems like we have moved again. This time to “Follow your purpose.”</p>
-<p>We are constantly told that a meaningful life requires us to “find our purpose.” College students are encouraged to identify it so that they can choose careers that speak to them. Professionals are told to connect their work to it. People facing transitions are advised to rediscover it, so that they can figure out what to do next. </p>
-
-<p>“What is your purpose in life?” sounds like an inspiring question, but I think it is the wrong question to ask.</p>
-<p>It’s not that purpose is unimportant. The problem lies in the assumption that your purpose is either hidden somewhere inside you or somewhere out there in the world. If you only searched hard enough, you could discover the one thing you were meant to do. Not only does this assumption place an enormous burden on you, but it is also unrealistic. </p>
-
-<p>Here is a more useful approach: <strong>Stop trying to find your purpose and start trying to become more purposeful.</strong></p>
-<h2>Purpose is not a goal</h2>
-<p>We often talk about purpose as if it were a particularly ambitious goal. I hear people say their purpose is to become a doctor, start a company, raise a family, or change the world. These are things that we may be able to attain, but they are not wholly in our control to accomplish. When these goals become our purpose, we are left in a double bind. If we <em>don’t</em> achieve them, we feel like we haven’t lived up to what we’re meant to do. If we <em>have</em> achieved them, we ask ourselves, “What now?”</p>
-
-<p>Purpose works differently. I think of purpose as a self-defined, long-term intention that is both meaningful to you and impactful for your world. It can guide your decisions and goals, give your life direction, and help create a sense of meaning and coherence. </p>
-<p>Unlike a goal, an intention is never completed nor something we check off a list. It is more like an orientation for how we want to engage the world around us. It helps us determine the choices we make and what goals are worth pursuing. As our circumstances change, the way we express that intention may change as well. If we don’t accomplish a goal, we can still find ways to fulfill our general intention for how we want to engage and what we want to pursue. When we do accomplish the goals we set, we can always find additional ways to pursue our intentions.</p>
-
-<p>For example, someone who wants to spend their life helping others develop their potential might become a teacher, manager, parent, coach, physician, entrepreneur, or something else entirely. They may be all those things at different times in their life. Even when the role changes, the underlying orientation remains constant.</p>
-
-<p>When purpose is about how we engage in life rather than the one thing we must accomplish, we no longer face the pressure to find the perfect career or make the perfect decision. Options open, and we can be more creative and flexible to pursue things that give our life meaning.</p>
-<h2>Being purposeful is something we practice</h2>
-
-<p>We can get better at living purposefully by developing the skills to make deliberate choices and pursue our intentions strategically.</p>
-<p>Our experiences might reveal commitments we did not know we had or priorities we didn’t appreciate until they were tested. We might begin to examine our beliefs rather than simply taking them for granted. We learn to consider how our values are put into action and whether our goals actually express them. We develop a fuller sense of who we are, while still having the humility to recognize that our identity may change as we live our lives.</p>
-
-<p>Because being purposeful gives us direction rather than a fixed destination, we also become better able to adapt. When a plan fails, we can pursue our intention another way. When pursuing something meaningful requires sacrifice, we learn to become better at regulating our immediate wants.</p>
-<p>Because what we pursue purposefully is not simply an individual project, we work to develop interpersonal capacities as well, such as listening to others who may disagree with us, building relationships with those we hope to impact, collaborating with people who see the world differently, and articulating what matters to us without assuming that everyone else must care about the same things. </p>
-
-<p>In practicing these intellectual, emotional, and interpersonal capabilities, we develop what I call a purpose mindset. </p>
-<h2>Changing the question</h2>
-<p>There is something appealing about believing that somewhere out there – or inside us – there is a clear answer to the question of what we should do with our lives. If such an answer exists, our task is simply to find it, and finding something that exists feels far more comfortable than accepting that we may have to create something for ourselves.</p>
-
-
-
-  
-
-
-<p>Yet, this is not how purpose works. We do not discover our purpose and then begin living according to it. Rather, we begin making intentional choices about what matters to us, and, over time, we recognize how we want to live through the choices we have made. </p>
-<p>This means that – at any age – it is okay not to know your purpose right now. All we have to do is start living more purposefully, paying attention to what we value, how we contribute, and who we are becoming through the choices that we make. Over time, we may stop asking, “What is my purpose?” because we have become people who are already living purposefully.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/life-well-lived/202609/rethinking-trying-to-find-your-purpose" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/life-well-lived/202609/rethinking-trying-to-find-your-purpose</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/life-well-lived/202609/rethinking-trying-to-find-your-purpose</guid>
-            <dc:creator><![CDATA[Ira Bedzow Ph.D.]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-olly-3771843.jpg?itok=nI7EpiYm" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[3 Fatal Relationship Mistakes That Can Kill Passion]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-04/CherylFraser_headshot-removebg-preview.png.jpg?itok=VGmsyf2q" alt="Cheryl Fraser Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Fatal Relationship Mistakes That Can Kill Passion</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Here's how to rebuild long-term love and passion.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">“I love them, but I’m not in love with them anymore” is often a symptom—not the whole problem.</li><li style="margin-bottom:6px;">Great relationships are created. They’re not an accident.</li><li style="margin-bottom:6px;">The thrill isn’t necessarily dead. It may just be slumbering.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">There are three fatal relationship mistakes I see again and again in long-term couples. And before you think I’m pointing fingers, relax. I have a husband, and I make some of these mistakes too. The point is not to be perfect, but to take an honest look at your behavior in your relationship, notice what isn’t working, and then actually do something about it.</p>
-
-<p dir="ltr">Great relationships are created, they are not an accident. I teach a model I call the <em>three keys to passion,</em> or the three areas that great couples cultivate. I call these intimacy, thrill, and sensuality. Relationship passion, connection, and happiness do not simply continue because you once fell in love or had fabulous chemistry. Long-term love requires attention, intention, and effort. When couples repeatedly neglect these three keys to passion, they make what I call the three fatal relationship mistakes: the relationship can slowly lose its warmth, excitement, and erotic connection. I speak more about this more in the video below.</p>
-
-<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="42" height="42" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/GyENnQspJ9M?autoplay=0&amp;start=0&amp;rel=0"></iframe>
-</div>
-<h2 dir="ltr">Fatal Mistake #1: Lousy Conflict Resolution</h2>
-<p dir="ltr">The first fatal mistake is ugly fighting. Do you have any of the following bad habits? Criticizing, blaming, or refusing to take any responsibility for the problem? Or maybe you never apologize, or you run away from conflict or shut down the minute things get uncomfortable. Overall, most of us are not nearly as good at conflict as we think we are, and yes, I include myself in that statement.</p>
-
-<p dir="ltr"><strong>The antidote: intimacy, the first side of my passion triangle. </strong>Intimacy certainly includes talking about your hopes, dreams, fears, and inner world, but it also means learning how to disagree without emotionally demolishing each other. Can you listen instead of preparing your next comeback? Can you take responsibility for your part in the problem, even if you truly feel this particular issue is mainly your partner’s doing? Can you genuinely try to understand your partner’s point of view even when you don’t agree with it?</p>
-
-<h2 dir="ltr">Fatal Mistake #2: The “Ho Hum” Problem</h2>
-<p dir="ltr">The second fatal mistake is what I call the Ho Hum problem. You’re bored with your relationship, and perhaps—cringe—you’ve become a little boring yourself. There are no dates, no romance, no surprises, no flirting, and very little sense of adventure. You watch television, manage the house, coordinate schedules, discuss groceries and appointments, and slowly become excellent business partners who happen to sleep in the same home. Don't get me wrong—you may love your partner deeply and be great at running the business of us—but where is the playfulness and connection and deeper happiness you used to share? Then comes the sentence I really hate hearing (because it breaks my heart), “I love them, but I’m not in love with them anymore.” </p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content ad--content-loaded" data-google-query-id="CPDj2pW4hZcDFRJEwAYdL-kcPA">
-    
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" name="google_ads_iframe_/1032688/300x250_Mobile_Content1_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption" data-load-complete="true" data-google-container-id="7"></iframe></div></div>
-</div>
-
-  </div>
-
-<p dir="ltr"><strong>The antidote is thrill, the second side of the passion triangle. </strong>Thrill is the anti-ho hum. Think about when you were dating. You were excited to see your sweetheart, and put a great deal of effort and thought into planning the dates, impressing them with your thoughtfulness, even what you wore. You made an effort to make them feel like the most important person in your world. </p>
-
-<p dir="ltr">I have good news for you: that thrill is not necessarily dead. It may simply be slumbering. So I encourage you to make an effort and wake it up. How? Make love intentional again. Long-term love needs investment of energy, time, curiously and kindness—and if you want more excitement in your relationship, somebody has to start creating it. Change may well start with you.</p>
-
-
-<h2 dir="ltr">Fatal Mistake #3: Neglecting Your Sexual Life</h2>
-<p dir="ltr">The third fatal mistake is not taking care of your sex life, and wow, this is a big one. I recently surveyed more than 2,000 couples and asked how often they make love. Forty-two percent said they didn’t make love at all, many of them not for years, while only about 13% said they made love at least once a week. In another poll, only 3% of the 2,000 couples I surveyed said they had an excellent sexual life.</p>
-
-<p dir="ltr">Three percent. People, we can do better. And even if you are having sex, maybe it has become what I jokingly call the typical North American sex life: “Nipple, nipple, crotch, good night.” You touch me here, I touch you there, we follow the same predictable script, maybe somebody has an orgasm, and that’s that. But come on—are you bringing curiosity, attention, playfulness, and imagination into the experience?</p>
-
-
-
-  
-
-
-<p dir="ltr"><strong>The antidote is sensuality, the third side of the passion triangle.</strong> Sensuality includes everything sexual, sensual, and erotic between you. It is not simply whether intercourse happens or whether somebody has an orgasm; it is the quality of your physical connection and whether that part of the relationship is being treated as something worth cultivating. It can be as simple as snuggling on the couch while you watch a movie, kissing hello, hugging often, or showering together. In my couples program, we work a lot on how a couple can redefine their sensual life and even move from sexless to sensual. Is it easy? No. But change is possible.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content ad--content-loaded" data-google-query-id="CO7j2pW4hZcDFRJEwAYdL-kcPA">
-    
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"><iframe id="google_ads_iframe_/1032688/300x250_in-content_0" name="google_ads_iframe_/1032688/300x250_in-content_0" title="3rd party ad content" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" aria-label="Advertisement" tabindex="0" allow="private-state-token-redemption" data-load-complete="true" data-google-container-id="5"></iframe></div></div>
-</div>
-
-  </div>
-
-<h2 dir="ltr">The Solution: Practice the 3 Keys to Passion</h2>
-<p dir="ltr">The three fatal relationship mistakes have three corresponding antidotes. Intimacy means communicating better, learning to fight more fairly, taking responsibility, and treating each other with kindness. Thrill means deliberately creating novelty, dates, romance, surprise, fun, and the sense that your partner is still someone worth discovering. Sensuality means actively caring for your sexual and erotic connection instead of hoping passion will somehow take care of itself.</p>
-
-<p dir="ltr">So take an honest look at your own relationship. Where are you strong, and where are you weak? Maybe one side of your passion triangle needs attention. Maybe two. Or, uh-oh, maybe all three. That is not a reason to despair; it is useful information, because once you can clearly see where your relationship is struggling, you finally know where to begin.</p>
-
-<p dir="ltr">Great relationships are not created by two perfect people who never fight, never get bored, and somehow remain wildly passionate without trying. They are created by two people who are willing to notice when they have drifted, take responsibility for their part, and choose to move toward each other again. Pay attention to intimacy. Create thrill. Protect sensuality. These are not extravagant extras; they are essential ingredients in keeping a long-term relationship alive.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/falling-in-love-is-easy/202609/3-fatal-relationship-mistakes-that-can-kill-passion" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/falling-in-love-is-easy/202609/3-fatal-relationship-mistakes-that-can-kill-passion</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/falling-in-love-is-easy/202609/3-fatal-relationship-mistakes-that-can-kill-passion</guid>
-            <dc:creator><![CDATA[Cheryl Fraser Ph.D.]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2604141567.jpg?itok=_HZiTCIV" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Your Communication Style Is Running Your Relationships]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/emma_seppala_larger.jpg?itok=vJ8hDXAN" alt="Emma Seppälä Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Your Communication Style Is Running Your Relationships</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When you understand your style, you can become a master communicator.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Each person has a natural "frequency"—a communication style shaped by how they connect with others.</li><li style="margin-bottom:6px;">There are seven styles: motivator, challenger, commander, healer, professor, seer, maven.</li><li style="margin-bottom:6px;">Knowing someone's frequency can help you understand and connect with them better.</li>
-            </ul>
-          </div>
-                    <p>Have you ever shared something important with your partner and felt dismissed? They give you a two-sentence answer to something you have been sitting with for a week? It's easy to assume the relationship is the problem, or that the other person is toxic. Often neither is true. You may just have different communication "frequencies." And once you find out what your communication frequency is (and theirs), you'll be able to take your relationship to the next level. Where once there was miscommunication, there will be greater understanding. You may even become a master communicator. </p>
-
-<p>Here's how.</p>
-<p>You've probably heard of the five love languages. Well, it turns out there are 7 communication styles. That's the premise of Erwin Raphael McManus's book <a href="https://amzn.to/3V8XyN1"><em>The Seven Frequencies of Communication</em></a><em>.</em> As a psychologist who teaches emotional intelligence to executives at a business school and has written <a href="https://www.hayhouse.com/sovereign-paperback">several books</a> on the subject, I wasn't sure if I'd learn anything new in his book. But I found his reframes really interesting.</p>
-
-<p>It’s fairly obvious that we all have different communication styles. McManus calls these "frequencies" that we send and instinctively listen for in others. McManus's argument is simple: We each have a natural communication frequency, and most relationship friction isn't about love or effort; it's about a mismatch between frequencies. When your frequencies line up, communication feels effortless, and you can start to understand each other's language.</p>
-
-<h2>Which of the 7 Frequencies Is Yours?</h2>
-<p>Read through these slowly. Most people find themselves in two or three, not just one. The point isn't to file yourself under a label; it's to notice which one(s) feel most familiar.</p>
-<p>The <strong>motivators</strong> uplift. They walk into a room and start looking for what's right about the people in it. They uplift others and want to see them living their best self. In McManus's words, they "transmit energy and infuse self-belief." They make you want to get up and go!</p>
-
-<p>The <strong>challengers</strong> push you to grow. They believe so strongly in your potential that they push you to expand past your comfort zone in a way that sometimes feels uncomfortable. McManus puts it as transmitting "courage and awakening calling." They give you wings. You feel empowered.</p>
-<p>The <strong>commanders</strong> bring clarity and direction. They often step up when everyone else is still deciding which way to go. In McManus's phrase, they "transmit trust and provide direction." They can sound bossy, but they're just trying to help. You feel trust.</p>
-
-<p>The <strong>healers</strong> make people feel seen and warmly welcomed, sometimes before a word is even exchanged. As McManus puts it, they "transmit acceptance and extend wholeness." You feel safe, valued, and appreciated. They make you feel like you belong. You exhale.</p>
-<p>The <strong>professors</strong> connect through ideas. That's where they feel most alive. McManus writes that they "transmit knowledge and assure competency." They connect through shared discovery and intellectual exchange. They can help us understand things better. You feel equipped with knowledge and greater clarity.</p>
-
-<p>The <strong>seers</strong> live in possibility, drawn to what could be rather than what is. They inspire. In McManus's words, they "transmit vision and generate innovation." They can seem like a mad scientist or dreamer, but often they've got insight others haven't reached yet. They can innovate and provide a new reality altogether. They help you to see things from a different perspective.</p>
-
-
-<p>The <strong>mavens</strong> build frameworks nobody's thought of yet. McManus describes them as transmitting "a new reality" and "creating paradigm shifts." They dream things into vision that others wouldn't see in their wildest imaginations. They can seem a little out there or completely out of the box. But they may just be envisioning (and creating) future realities.</p>
-
-<h2>How This Knowledge Can Improve Your Relationships</h2>
-<p>Once you start recognizing these frequencies in the people around you, a lot of relationship friction that used to feel personal starts to look a lot more like a translation problem. Say you have a colleague who is a commander, and you are more of a motivator and healer. You often talk past each other and wonder where the communication went awry.</p>
-
-
-
-  
-
-
-<p>The commander is blunt and directive. It can feel like being managed instead of loved. But that bluntness is just how they process the world, not a verdict on how much they value your input. A healthy commander is more open than they appear on the surface. Knowing that gives you room to speak up instead of shutting down because you feel they don't care.</p>
-
-<p>The healer is easy to be around. Their warmth creates space for trust and honesty. They are soothing. What's less obvious is that healers carry the same need for acceptance they hand out so freely. We tend to give what we're actually hungry for. Loving a healer well means remembering to turn some of that attentiveness back toward them.</p>
-
-<p>If they don't understand each other's frequencies, a healer can assume a commander is unfeeling, bossy, and insensitive, while the commander can think the healer is complicated, emotional, and unpredictable.</p>
-<p>Motivators have the same blind spot. They're so fluent in encouragement that it's easy to assume they don't need any themselves. They do. Genuine affirmation isn't just a nice gesture with a motivator — it's literally the language they speak.</p>
-
-<p>A professor can come across like they're lecturing when really they're just trying to connect. For them, knowledge <em>is </em>affection. Come at them with real curiosity instead of passive listening, and you'll see them open up in a completely different way.</p>
-<p>Seers are harder to pin down. They live for big ideas and conversations without tidy endings. If you want in, dream out loud with them. Ask them what they imagine. Let it wander.</p>
-
-<p>The challenger might need the most reframing of all. Being around one can leave you feeling like you're constantly being tested, or like you're not quite enough. But the challenge itself is the compliment. They wouldn't push if they didn't truly believe in you.</p>
-<p>The mavens might seem really out there, even crazy. Here's how you connect: be accepting and curious. Let yourself step into their world for a moment. Allow yourself to look at the world through their (probably totally novel) paradigm. It might just change your life.</p>
-
-<h2>What Happens When a Frequency Gets Distorted?</h2>
-<p>Every frequency has a shadow version, and McManus admits that. As he puts it, the shadow "appears when your frequency is inverted from focusing on others to focusing on yourself" and, as he's careful to add, "the shadow is not in the frequency, the shadow is in us." A commander without self-awareness can become a dictator. A healer who unconsciously needs people to stay wounded so that they can hide from their own self-healing can start feeding on pain instead of easing it. A challenger who loses sight of the other person and starts thinking only of themselves can tip into manipulation. A motivator who is disconnected can turn into a performer intent on self-gain. A professor who hoards knowledge to satisfy their ego instead of sharing it can become exhausting to be around. A seer tangled in perfectionism can lose the freedom that made their vision worth following. A maven who loses faith in meaning can drift into a quiet nihilism.</p>
-
-<p>Once you can name the shadow, you stop taking someone's worst moments personally and start recognizing them for what they are: their personal frequency, only a little distorted.</p>
-<p>When you learn someone's frequency, you stop reacting to how they said something and start hearing what they meant. You are more empathic and understanding. You see the positive intent behind someone's words, instead of interpreting them through your own communication style and getting offended. You might even train yourself to speak their language to them. The result is that your relationships can only improve. You may even become a master communicator.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/feeling-it/202607/your-communication-style-is-running-your-relationships" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/feeling-it/202607/your-communication-style-is-running-your-relationships</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/feeling-it/202607/your-communication-style-is-running-your-relationships</guid>
-            <dc:creator><![CDATA[Emma Seppälä Ph.D.]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/elkaaaaaaa-company-3016615_1920.jpg?itok=VDgaL7rD" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foraging for Purpose]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/_jaimie_lusk.png.jpg?itok=SXOz_H6h" alt="Jaimie L Lusk Psy.D., ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Help</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Foraging for Purpose</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What is purpose, and how do we find it?</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A 2026 meta-analysis found that strong purpose predicts significantly lower mortality.</li><li style="margin-bottom:6px;">Purpose is something you forage for again and again, as your life and values shift over time.</li><li style="margin-bottom:6px;">Each life stage calls for foraging purpose differently, from adolescence through older adulthood.</li><li style="margin-bottom:6px;">Comparing your purpose to someone else's is the fastest way to lose sight of your own.</li>
-            </ul>
-          </div>
-                    <p>Are you waiting to find your life purpose like you wait for a lightning strike? Perhaps you are hoping that someday you will just be walking along, and it will hit you like a bolt of lightning: <em>Here is what you are supposed to be doing on the planet.</em></p>
-<p>I think of finding purpose more like foraging than being hit by lightning. </p>
-
-<ul>
-<li>It takes skill, and you get better with practice.</li>
-<li>It can be fun, and it’s even more fun with friends.</li>
-<li>You’ll get hungry for purpose again. </li>
-<li>In different seasons of life, foraging for purpose looks different.</li>
-</ul>
-<h2>What Is Purpose?</h2>
-<p>Purpose, broadly, is the pursuit of personally significant, future-oriented goals. We often build purpose little by little, in our connection with and service to humans, creatures, communities, and the land. We discover purpose in actions that spark joy and honor our values. Some of us are lucky enough to get paid for work we find purposeful; many of us need to be more creative, accumulating purpose little by little. Purpose isn’t just found in our actions, but in the way we perform them (perhaps lovingly, carefully, creatively, energetically?).</p>
-
-<p>Our emotions often point the way. Joy can let us know we are engaged in something meaningful. Anger can reveal something that matters enough to fight for. Fear can show us what we want to protect. Guilt can surface a purpose we’ve neglected. Sadness can mark the loss of purpose.</p>
-<p dir="ltr">Over time, we can gather a whole harvest from the meaning we’ve foraged in our many roles, from our work, to our play, to our loving. Because our roles and relationships are constantly changing, we will never stop foraging for purpose. The more we practice searching for purpose and savoring a sense of purpose when we find it, the better we get at the skill of “purposing.”</p>
-
-<h2>People With a Strong Sense of Purpose Live Longer</h2>
-<p dir="ltr">This year, a meta-analysis combining eight longitudinal studies (data from 488,765 people tracked for up to 32 years) found that a strong sense of purpose predicted roughly a 30 percent lower risk of dying early (Sutin et al., 2026).</p>
-<p dir="ltr">The pattern held across countries, income levels, and age groups. Even accounting for health behaviors like smoking and exercise, and for depression, purpose’s protective link to mortality stayed measurable. Purpose was contributing to well-being on its own, beyond good habits and mental health.</p>
-
-<h2>The Practice of Purposing</h2>
-<p>Purposing—like foraging—is a practice we need to keep doing in order to experience fulfillment. Broadly, purposing might involve finding belonging and contribution. Throughout the lifespan, the search for and experience of purpose can look different. </p>
-<ul>
-<li><em>Adolescence:</em><strong> </strong>This is when we first search for what’s personally meaningful beyond what we learned from our families and communities. Which achievements, relationships, values, communities, and forms of self-relationship bring satisfaction and well-being? Adolescents who search for meaning and haven’t yet found it can become frustrated, with lower life satisfaction and higher depression risk (Krok, 2018). While developmental crises are a normal part of maturing, noticing small personal wins and allowing those wins to build confidence (faith in ourselves!) matters here.</li>
-<li><em>Young Adulthood:</em><strong> </strong>Searching for meaning doesn’t guarantee finding it, or building toward a viable future.<strong> </strong> Young adults can find themselves chasing happiness without traction on sustainable purpose, or working toward socially prescribed goals that don’t match their values. This is where systematic “life crafting” helps: exploring values, naming current and desired competencies and habits, reflecting on an ideal future, setting specific goals and plans for overcoming barriers, and making public commitments to stay the course (Schippers, 2019).</li>
-<li><em>Midlife:</em><strong> </strong>This stage often stretches us across multiple roles, from aging parents, adult children, grandchildren, and work. Financial vulnerabilities, a shrinking social and healthcare safety net, and unexpected job loss add real strain. Rates of depression, anxiety, and serious psychological distress peak here, particularly for women, people with lower socioeconomic status, and people who identify as LGBT (Infurna et al., 2020). If roles and responsibilities have become overwhelming, Arthur Brooks (2022) recommends a “reverse bucket list.” Instead of a list of what we want to do, we make a list of roles, responsibilities, and tasks that no longer serve us, and begin to let them go, one by one.</li>
-<li><em>Older Adulthood: </em>Diminishing health and fewer social roles make the practice of purposing especially important here. The sense that we’re doing something worthwhile relates bidirectionally to health, emotional well-being, and prosocial behavior (Steptoe &amp; Fancourt, 2020). In other words, if we fill our days with meaningful interactions and contributions, we are more likely to believe our lives are worthwhile; if we believe our lives are worthwhile, we are more likely to fill our days with meaningful interactions and contributions! Many older adults keep growing in wisdom and compassion, both of which our world needs badly. When purpose is hard to find at this stage, consider pursuing Life Review Therapy, an evidence-based approach that helps integrate memories into a coherent, meaningful story of our lives (Westerhof et al., 2019).</li>
-</ul>
-
-<h2>Focus on Your Harvest</h2>
-<p>Foraging becomes a huge drag if you compare your forage with someone else’s. Measuring your sense of purpose against another person’s (Is it important enough? Big enough?) usually signals you’ve lost touch with what matters most to you. Living someone else’s purpose will not be fulfilling long-term (envy can be a clue that someone else feels free to do something that you haven’t yet given yourself permission to try). Consider a few lines from the poem “Famous” by Naomi Shihab Nye (1995) and reflect—who do you want to be famous to? For what?</p>
-
-<blockquote><p>I want to be famous to shuffling men <br>who smile while crossing streets, <br>sticky children in grocery lines, <br>famous as the one who smiled back.<br>I want to be famous in the way a pulley is famous, <br>or a buttonhole, not because it did anything spectacular, <br>but because it never forgot what it could do.</p>
-</blockquote>
-<h2>Purpose Foraging</h2>
-
-
-<p dir="ltr">A few questions worth carrying with you as you forage:</p>
-<ul dir="ltr">
-<li>What did I enjoy doing most this week?</li>
-<li>Who did I feel most satisfied serving?</li>
-<li>In 10 years, what would I be proudest of having spent this week doing?</li>
-</ul>
-<p dir="ltr">Purpose is gathered little by little, one season at a time. You don’t need lightning. You need to gather what you can in this season and be willing to go foraging again tomorrow.</p>
-
-<p dir="ltr">If you are overwhelmed or discouraged, find a foraging friend or mentor (perhaps a therapist!).</p>
-<p dir="ltr">If you’re between harvests right now, how might you reflect on this season in your life and be open to what may be coming?</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/threshold/202608/foraging-for-purpose" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/threshold/202608/foraging-for-purpose</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/threshold/202608/foraging-for-purpose</guid>
-            <dc:creator><![CDATA[Jaimie L Lusk Psy.D., ABPP]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/mushrooms.jpg?h=c0094ce9&amp;itok=vO6J7vvv" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Can Humans Do That AI Can’t?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/AlbaneBrandPhoto-272-5679-removebg-preview.jpg?itok=hc6kjL3R" alt="Anna Katharina Schaffner Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Can Humans Do That AI Can’t?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Humans possess a certain kind of intelligence that AI can't match.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">As AI grows more capable, “human skills” have become shorthand for what still makes us uniquely valuable.</li><li style="margin-bottom:6px;">Human intelligence is embodied and emotional: We have desires, attachments, values, and skin in the game.</li><li style="margin-bottom:6px;">Story Intelligence is the capacity to recognise, question, and reshape the narratives that organise our lives.</li><li style="margin-bottom:6px;">AI can generate stories, but we must decide which stories to live by—and live with their consequences.</li>
+              <li style="margin-bottom:6px;">Meaningful work is often framed too narrowly in contemporary workplace discussions.</li><li style="margin-bottom:6px;">Foundational engagement theory never limited meaningfulness to social purpose alone.</li><li style="margin-bottom:6px;">Work can become engaging through challenge, mastery, autonomy, and growth.</li><li style="margin-bottom:6px;">Work doesn’t have to “change the world” to feel psychologically worthwhile.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/marc-schulte-kjcyvla_aaq-unsplash.jpg?itok=IXvkaYq7" width="320" height="213" data-insert-type="image" title="Marc Schulte / Unsplash" alt="Marc Schulte / Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/picture2.png.jpg?itok=JxD9Iq2G" width="320" height="256" data-insert-type="image" title="ChatGPT 5.5" alt="ChatGPT 5.5"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Marc Schulte / Unsplash</div>
+<div class="insertArea--origin subtext">Source: ChatGPT 5.5</div>
 </div>
 </div>
 </div>
-<p>Everyone is now talking about “human skills.” The term has been around for a while, having gradually replaced the belittling “soft skills” to capture social and emotional intelligence, as well as "people skills" such as the capacity to relate, communicate effectively, collaborate, and motivate others.</p>
+<p><a href="https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202608/why-compensation-doesnt-foster-engagement">Last month</a>, I discussed why total compensation is only weakly tied to work engagement. A major part of that argument was that work engagement shouldn’t be confused with job satisfaction; instead, it reflects a deeper form of psychological investment in the work itself.</p>
+<p>Given that argument, it may seem surprising that I would push back against a claim made recently in an article on <a href="https://www.trinet.com/insights/employee-engagement-relationship-strategies">TriNet</a>: that engagement ultimately comes down to performing meaningful work. The article, like many contemporary discussions of the topic, positioned meaningfulness largely in terms of workers contributing to “something bigger than themselves.”</p>
 
-<p>But more recently, “human skills” has acquired a new urgency. We increasingly use it as a catch-all term to describe our comparative advantage in an AI-saturated world. The viral takeover of this phrase is worth analysing.</p>
-<p>We are the first generation to work in a no longer exclusively human workforce. AI is not simply another technical tool, like the calculator, the computer, or the internet. Increasingly, many of us are working alongside AI agents as invisible colleagues, and may even find ourselves competing with them in the job market and losing out. Organisations no longer have to design solely for human-human interactions, but also for human-agent, agent-agent, and agent-human ones.</p>
+<p>And to be clear, a social- and purpose-oriented form of meaningfulness can absolutely foster engagement (<a href="https://www.researchgate.net/publication/248742259_Jobs_Careers_and_Callings_People&amp;apos;s_Relations_to_Their_Work">Wrzesniewski et al., 1997</a>). Teachers, healthcare workers, nonprofit employees, counselors, clergy, and many others may derive substantial engagement from the belief that their work genuinely matters in a broader social or moral sense.</p>
 
-<p>And because AI can take over entire workstreams, processes, and tasks that used to take us hours, weeks, or months, it requires us to rethink how work itself is organised.</p>
-<p>More existentially, it forces us to ask anew what we can do that AI can't. Where and how do we still bring value? What kinds of problems are uniquely ours to solve?</p>
+<p>The problem, however, is the embedded assumption that work cannot be meaningful (and therefore engaging) unless it carries some broader existential, social, or moral significance. And that's exactly what I want to push back on here.</p>
+<h2>Meaning Doesn’t Have to Be Mission-Driven</h2>
+<p>Although it’s easy to default to broader social or existential purpose as a source of meaning, the foundational work on engagement never defined meaningfulness in such narrow terms. In fact, in his influential work on engagement, <a href="https://journals.aom.org/doi/full/10.5465/256287">Kahn (1990)</a> described psychological meaningfulness as a “return on investments of self” in work role performance (p. 705). As such, meaningfulness wasn’t limited to social contribution, moral purpose, or organizational mission. Instead, people often experienced meaningfulness through challenge, growth, creativity, accomplishment, or rewarding interpersonal interactions.</p>
 
-<h2>What Kind of Animals Are We?</h2>
-<p>First, there is something deeply strange about the very idea of defining an entire species by its unique skill-set. Imagine other species engaging in the same exercise. What would cats put on their list of distinctive feline skills? Sleeping for sixteen hours while remaining convinced of their own superiority? Occasional rodent control combined with an extraordinary capacity for eliciting unconditional service from another species? And turtles—extreme patience? Portable housing? Graceful aging? </p>
+<p>That’s a somewhat different way of thinking about meaningful work. The question doesn't have to be about whether the work serves some larger purpose. It’s whether investing yourself in the work feels worthwhile. Those can certainly overlap, but they don’t have to. Someone may find work worthwhile because it helps other people or contributes to a cause they care about. Someone else may find it worthwhile because the work is difficult, interesting, allows them to exercise judgment, or gives them the satisfaction of becoming exceptionally good at something.</p>
 
-<p>The thought experiment is absurd, of course. But it makes me sad that we even have to go there—humans up-skilling their species-defining markers. Kind of dehumanising. </p>
-<p>Previously, we defined our special gifts in relation to other animals and put ourselves at the top of the pyramid. Some thinkers have cast us as predominantly rational, social, or political animals; as <em>homo ludens</em> or <em>homo economicus</em>. Others have emphasised our relational, creative, caring, or problem-solving capacities. We are certainly imaginative animals, able to envision a desired future state and working towards it. We are capable of appreciation too: we can fall on our knees and decide to serve causes that transcend our own narrow self-interest. We are self-aware, metacognitive, art-making and tool-making beings.</p>
+<p>Consider a software engineer absorbed in solving a difficult technical problem, a musician trying to master a challenging piece, or an athlete working to improve some aspect of performance. There may be larger purposes attached to any of those activities, but there don’t have to be. The immediate experience of doing the activity can itself provide a reason to invest attention, effort, and parts of oneself in it.</p>
 
-<p>But when we pitch our species against AI, our story about what makes us unique and valuable changes. Now, we find ourselves in the position of having to explain why we are more than clumsy, costly, vulnerable, and profoundly limited meat-puppets running on inferior wetware. Cory Doctorow had a good comeback to that, calling AI “word-guessing machines,” arguing that statistical inference is not thinking.</p>
+<p>That nuance shifts the focus away from <em>what the work ultimately contributes to</em> and toward <em>what people experience while doing it</em>. And if we accept that shift, there are several psychological mechanisms that can help explain why seemingly ordinary work can become engaging.</p>
+<h2>Engagement Reflects Psychological Need Fulfillment</h2>
 
-<p>But we can no longer easily put ourselves at the top of the pyramid. Cognitive intelligence—reasoning, analysis, pattern recognition, language, and problem-solving—no longer works particularly well as the dividing line. These are precisely the areas in which AI has become extraordinarily capable.</p>
-<p>Instead, the emphasis has shifted towards emotional and social intelligence: understanding ourselves and others, regulating emotions, empathising, navigating relationships and group dynamics. We emphasise creativity, judgement, metacognition, moral reasoning, imagination, and meaning-making. We also point to our embodied intelligence: Interoception and what the body knows matters.</p>
+<p>One useful way to think about this comes from self-determination theory, developed by <a href="https://www.amazon.com/Intrinsic-Motivation-Self-Determination-Perspectives-Psychology/dp/0306420228">Deci and Ryan (1985)</a>. The theory proposes that people are more intrinsically motivated when three core psychological needs are fulfilled: autonomy, competence, and relatedness. </p>
+<ul>
+<li>Autonomy reflects the desire to experience some degree of ownership, agency, or control over one’s work. </li>
+<li>Competence reflects the desire to feel effective, capable, challenged, and able to develop mastery. </li>
+<li>Relatedness reflects the desire to feel connected to and valued by other people. </li>
+</ul>
 
-<h2>Story Intelligence</h2>
-<p>There is another form of intelligence I would add to the list of human skills: <a href="https://www.annakschaffner.com">Story Intelligence</a>. I define Story Intelligence as our capacity to recognise, interpret, challenge, and consciously shape the stories that drive our emotions and behaviour.</p>
-<p>For I believe that we are, above all, storytelling animals. We don't simply register reality. We constantly narrativise it. We select and filter information, decide what matters, connect events through cause and effect, assign motives and interpret what things mean.</p>
 
-<p>And we do this not just individually but collectively. Families have stories. Organisations have stories. Nations have stories. They tell us who we are, what matters, who is to blame, what is possible, and what should happen next.</p>
-<p>Story Intelligence therefore isn't simply the ability to tell a compelling story. It is the higher-order capacity to see stories as stories: to recognise the narratives shaping our perception, examine the assumptions embedded within them, understand how they influence behaviour, and revise them when they cease to serve us.</p>
+<p>Work that fulfills those needs can become deeply psychologically engaging even when the work itself is not especially purpose-driven or socially consequential. In fact, a recent meta-analysis found that satisfying these basic psychological needs is associated with a broad range of adaptive workplace outcomes, including work engagement (<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smi.70151">Hagger &amp; McAnally Star, 2026</a>).</p>
+
+<p>This means work doesn't have to feel socially transformative in some grand sense to provide people with something psychologically valuable. It can give them opportunities to make choices, apply or develop their skills and abilities, or build meaningful relationships with others.</p>
+<p>And that broader framing is important because contemporary discussions of meaningful work often drift toward a kind of implicit moral hierarchy in which socially beneficial or purpose-driven work is treated as inherently more meaningful than other forms of work. But psychologically speaking, meaningfulness is often far more subjective and multifaceted than that. People can derive deep meaning in lots of different ways, even when the work itself is not obviously world-changing.</p>
 
 
 
   
 
 
-<p>AI, of course, can tell stories. It can generate them at astonishing speed, imitate voices, and propose alternative interpretations. But Story Intelligence is essentially a metacognitive skill—and a cultural intelligence skill. It is the ability to defuse from stories that do not serve us, and to distinguish more clearly between fact and interpretation.</p>
+<h2>There’s No Single Path to Meaningful Work</h2>
+<p>By this point, hopefully it’s obvious that there’s no single path to meaningful work. People become psychologically invested in all sorts of activities for all sorts of reasons. Sometimes that investment emerges from helping others or contributing to a broader mission. But sometimes it emerges from autonomy or craftsmanship or competition or simply the satisfaction of doing something well.</p>
 
-<h2>Intelligence with Stakes</h2>
-<p>There is another core distinction. Humans are embodied, embedded, and encultured creatures. We occupy a particular body, biography, culture, place, and moment in history. We have wants, needs, fears, and desires. We form attachments. We suffer. We care. We know that our time is finite. We know that we are mortal. Things matter to us. </p>
+<p>I'm not trying to diminish the importance of work that genuinely <em>does serve</em> broader social or moral purposes. But I <em>am</em> arguing that contemporary discussions of meaningfulness often frame the concept far too narrowly. Work doesn’t become psychologically worthwhile only when it changes the world, advances a moral cause, or contributes to “something bigger.” Sometimes meaningfulness is far more personal, experiential, and immediate than that.</p>
 
-<p>AI has intelligence without stakes. We have intelligence with stakes—we literally have skin in the game. AI can analyse grief. We can grieve. It can describe desire. We can desire. It can model a difficult conversation. We have to have them. It can identify competing values. We have to choose which value to honour—and live with what follows.</p>
+<p>And the reason that's important is because, as <a href="https://mattgrawitch.substack.com/p/do-employees-need-to-believe-in-the">I argued recently</a>, organizations often attempt to cultivate engagement through mission-oriented messaging, value statements, or purpose narratives, all the while overlooking the everyday characteristics of work that make psychological investment more likely in the first place. Work that allows people to experience competence, autonomy, or relatedness can become deeply engaging even when the broader societal significance of the work itself is relatively modest.</p>
 
-<p>The same applies to stories. AI can generate a story about who we are, what something means, or what we should do next. But we are the creatures who have to live inside those stories and experience their consequences.</p>
-<p>This is why I think Story Intelligence will become ever more important in the age of AI. As machines become increasingly capable of generating information, arguments, interpretations, and narratives, our challenge will not simply be to produce more of them. It will be to discern which stories we are allowing to organise our attention and behaviour. Which interpretations deserve our trust? Which assumptions are hiding inside them? Which stories narrow our possibilities, and which open them up?</p>
-
-<p>Perhaps, then, we need a more robust definition of human skills. Human skills are not simply whatever abilities AI hasn't mastered yet. That would trap us in a losing race against technological development.</p>
-<p>They are the capacities arising from our embodied, emotional, relational, and meaning-making nature that allow us to exercise judgement, navigate ambiguity, form relationships, create meaning, and take responsibility for action. And among them, I would argue, is the distinctly human responsibility to become more intelligent about the stories by which we live.</p>
+<p>Meaningfulness, in other words, isn't a single thing. And work doesn’t have to save the world to feel worth investing in.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/what-can-humans-do-that-ai-cant" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202609/why-work-doesnt-need-a-mission-to-be-meaningful" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/what-can-humans-do-that-ai-cant</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-art-of-self-improvement/202609/what-can-humans-do-that-ai-cant</guid>
-            <dc:creator><![CDATA[Anna Katharina Schaffner Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202609/why-work-doesnt-need-a-mission-to-be-meaningful</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-hovercraft-full-of-eels/202609/why-work-doesnt-need-a-mission-to-be-meaningful</guid>
+            <dc:creator><![CDATA[Matt Grawitch Ph.D.]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/marc-schulte-kjcyvla_aaq-unsplash.jpg?itok=PPaaK6b2" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/picture2.png.jpg?itok=fdPTND0H" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The "Better" Trap]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/cindywatsonbiopic.jpg?itok=71Xfb2ch" alt="Cindy Watson B.A., LLB, JD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gender</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The "Better" Trap</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When progress in closing the gender gap makes us settle for less</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Incremental progress may sometimes mask how far away true parity or equality still remains.</li><li style="margin-bottom:6px;">Visible participation isn’t the same as gaining real power or systemic change.</li><li style="margin-bottom:6px;">We need to stop asking whether things have improved and start asking if they're good enough or not.</li>
-            </ul>
-          </div>
+            <title><![CDATA[Are We Talking Too Much in Therapy?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/unnamed-1.jpg?itok=vfX2si-L" alt="Sam Louie MA, LMHC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are We Talking Too Much in Therapy?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Getting to the bottom of "bottom-up therapy."</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-cottonbro-10617692.jpg?itok=UDoR2bA6" width="320" height="213" data-insert-type="image" title="Cottonbro / Pexels" alt="Cottonbro / Pexels"></div>
-<div class="insertArea--origin subtext">Source: Cottonbro / Pexels</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/no_bad_parts.jpg?itok=v5IHlNfH" width="320" height="475" data-insert-type="image" title="Sam Louie" alt="Sam Louie"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Sam Louie</div>
 </div>
 </div>
 </div>
-<p>Progress is psychologically powerful. Human beings are naturally encouraged by evidence that things are getting better. A rising number can reinforce optimism, validate past efforts, and create a sense that a problem is moving toward resolution. But progress can also create a curious psychological trap: improvement can begin to feel like achievement.</p>
+<p>It’s taken me a long time to arrive at this point of healing. I started therapy more than twenty years ago while going through a divorce. Over the years, I worked with individual and group therapists, attended a 12-Step program, church, and men’s groups, participated in workshops and trainings, and read hundreds of books on trauma, addiction, and healing. I understood my trauma “by chapter and verse.” Yet I was often cut off from the emotions. Much of my change remained intellectual.</p>
 
-<p>The World Economic Forum’s <a href="https://www.weforum.org/publications/global-gender-gap-report-2026/">2026 Global Gender Gap Report</a> offers an interesting example. After 20 years of measuring gender parity, the report finds that the gap has indeed narrowed. Among the 97 economies tracked consistently since 2006, the overall gender-parity score has increased from 64.2 percent to 69.4 percent.</p>
+<p>I knew I had abandonment and rejection issues, addictions to address, feelings of inadequacy, cultural and language barriers in relating to my first-generation Chinese immigrant parents, and a sharp tongue that had once protected me from racist taunts and mockery. Eventually, I resigned myself to being “traumatized,” and felt my growth was as good as it gets. </p>
 
-<p>That is progress. It is also 5.2 percentage points in 20 years.</p>
-<p>Economic Participation and Opportunity has moved from 55 percent parity to 61.1 percent over the same period. At this historical rate of progress, the WEF estimates that full economic gender parity remains 129 years away.</p>
-<p>Northern America provides an especially interesting case. It currently has the highest regional score for Economic Participation and Opportunity, at 77.1 percent. Yet that represents an improvement of only 1.6 percentage points since 2006.</p>
+<p>Things began shifting when I experimented with my “right brain.” I used poetry, photography, drawing, and even childhood TV theme songs to access emotions. Sometimes I cried without knowing why. I began to recognize what art therapists have known for decades: We sometimes need to give the intellectual, explaining side of ourselves a break from reflexively talking:</p>
 
-<p>Some indicators have moved in the opposite direction. Parity among legislators, senior officials, and managers in Northern America has declined by 7.4 percentage points over 20 years. In the United States, it has fallen by 10.8 points.</p>
-<p>The question, then, isn’t whether progress has occurred. Clearly it has. A more psychologically interesting question is what happens when evidence of progress changes perceptions of how much work remains to be done.</p>
-
-<h2>The Psychology of “Better”</h2>
-<p>People rarely evaluate circumstances in isolation. They evaluate them against reference points. Something that is better than it used to be can feel good even when it remains far from where it ought to be.</p>
-<p>That distinction appears throughout life. A relationship that has become less conflictual may still not be healthy. A workplace that has become less toxic may still not be supportive. A person who has become somewhat better at enforcing boundaries may still routinely surrender them.</p>
-
-<p>Improvement can subtly change the internal negotiation. The question shifts from <em>“Is this acceptable?”</em> to <em>“Isn’t this better?”</em> Those are very different questions.</p>
-<p>The same phenomenon can affect societal change. When women become more visible in workplaces, universities, boardrooms, and public life, visibility itself can become evidence that equality has largely arrived.</p>
-
-<p>But visibility and power are not necessarily synonymous. The WEF’s own 2026 analysis recognizes this distinction. It suggests that the next stage of parity will depend partly on who advances into leadership, participates in high-value industries, directs capital, and shapes institutions.</p>
-<p>That is an important evolution in the conversation because participation measures whether someone has entered the system. Power asks what happens once they get there.</p>
-
-<h2>Negotiating Beyond Incremental Improvement</h2>
-<p>The distinction has implications far beyond gender equality. Negotiating a best life requires more than comparing present circumstances with worse circumstances from the past. It requires periodically reconsidering the reference point itself.</p>
-<p>Someone negotiating a career, relationship, family dynamic, or personal boundary may benefit from asking: <em>Is this actually what is wanted—or simply better than what existed before?</em></p>
-
-<p>That question can be uncomfortable because gratitude and aspiration are often incorrectly treated as opposites. They aren’t.</p>
-<p>A person can appreciate meaningful progress while recognizing that the destination remains unacceptable. An organization can celebrate improvements while examining persistent structural disparities. A society can acknowledge how far women have come without pretending that the remaining distance is insignificant.</p>
-
-
-
-  
-
-
-<p>Perhaps that is the more useful way to understand the latest gender-gap numbers. The fact that economic gender parity is closer than it was 20 years ago matters. The fact that, at the current pace, it remains 129 years away matters too. Both things can be true.</p>
-<p>And sometimes the most important negotiation begins when people stop asking, “Is this better?” and start asking, “Is this good enough?”</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/life-as-a-negotiation/202609/the-better-trap" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/life-as-a-negotiation/202609/the-better-trap</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/life-as-a-negotiation/202609/the-better-trap</guid>
-            <dc:creator><![CDATA[Cindy Watson B.A., LLB, JD]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-cottonbro-10617692.jpg?h=2d5e57dc&amp;itok=qVmczc15" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pursuit of Perfection in the Digital Age]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/marianneethersonjpg.jpg?itok=QIkAHuxP" alt="Marianne E Etherson" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Pursuit of Perfection in the Digital Age</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How perfectionism may shape our social media use.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Perfectionism may play an important role in shaping how we use social media.</li><li style="margin-bottom:6px;">People with higher perfectionism may be more likely to compare themselves negatively online.</li><li style="margin-bottom:6px;">They may also link their self-worth more closely to likes, followers and comments.</li><li style="margin-bottom:6px;">We can take steps to develop healthier relationships with ourselves and social media.</li>
-            </ul>
-          </div>
-                    <p><em>Co-authored by Viktorie Fomínová</em></p>
-<h2>Social Media: An Integral Part of Modern Life</h2>
-<p>Social media platforms, such as YouTube, Instagram, and TikTok, as well as messaging platforms, such as WhatsApp and Messenger, have become an integral part of everyday life. Around 5.79 billion users worldwide are currently active on social media, representing approximately 70% of the global population. On average, people spend around 18 hours and 36 minutes per week on social media. Teens, in particular, represent a large proportion of the population who use social media. For instance, a staggering 93-97% of teens aged 13-17 years are reported to have a social media account and over a third use social media constantly.</p>
-
-<p>Social media can affect us in many ways. It has the potential to influence our self-esteem, behaviour, body image, and emotional state. Social media has many benefits, including helping us stay connected with others, providing inspiration and motivation, and offering opportunities for self-expression and creativity. However, social media use has also been linked to negative body image and mental health problems, including anxiety, depressive symptoms, and disordered eating.</p>
-
-<p>The relationship between social media use and mental health is complex and far from straightforward, and researchers around the world are working to better understand it. Rather than simply asking whether social media is “good” or “bad”, it may be more useful to consider <em>how</em>, <em>why</em>, and <em>for whom</em> social media use may be beneficial or harmful.</p>
-
-<p>Evidence suggests that perfectionism — a personality trait that involves setting irrational standards and concerns about making mistakes or falling short of expectations — may play an important role in shaping how we use social media.</p>
-<h2>Perfectionism</h2>
-<p>The rise in social media use has coincided with a marked increase in perfectionism. While different types of perfectionism exist, socially prescribed perfectionism and perfectionistic self-presentation are likely to be the most harmful in the context of social media use. </p>
-
-<p><strong>Socially prescribed perfectionism</strong> refers to the belief that other people expect us to be perfect. Whereas, <strong>perfectionistic self-presentation</strong> is a behaviour which involves presenting a perfect image to others and avoiding displaying or disclosing any imperfections.</p>
-<p>Among the different ways perfectionism can be examined in relation to social media, we focus specifically on <em>how</em> and <em>why</em> perfectionism may make some people more vulnerable to the pressures of social media.</p>
+<p><em>“Words alone are not enough to make it happen. Recovery requires creative expression in symbol and metaphor.”</em> —Cohen, Barnes, and Rankin, 1995</p>
+<p>As I put images to words, my need to explain my past diminished. My longings, hurts, and fears began spilling onto the page through pictures. Hamel (2021) explains, <em>“Traumatic memories stored as images in the right brain become accessible through drawing and painting.”</em></p>
 
 <div class="insertArea ck-widget">
-<div class="image-article_inline_full">
+<div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/david-boca-wqzsl60dgdm-unsplash.jpg?itok=VYHxmK2O" width="639" height="525" data-insert-type="image" alt="Capturing content on social media." title="Photo by David Boca on Unsplash"></div>
-<div class="caption">Capturing content on social media.</div>
-<div class="insertArea--origin subtext">Source: Photo by David Boca on Unsplash</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/photo_apr_24__1_36_01_pm_copy.jpg?itok=Y4DxuVwo" width="320" height="240" data-insert-type="image" title="Sam Louie" alt="Sam Louie"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Sam Louie</div>
 </div>
 </div>
 </div>
-<h2>Perfectionism and Its Vulnerability to Social Media</h2>
-<p>One of the main patterns emerging from current research is that people with higher levels of perfectionism may be more vulnerable to some of the negative aspects of social media use. Social media emphasises a continual need for self-development through beauty trends or hacks, progress pictures and fitness transformations, and curated lifestyles, creating the perception that there is an appearance to perfect and a more productive, healthier, or more desirable way to live.</p>
+<p>I also discovered sandplay therapy, which encouraged me to create scenes using miniature figures and objects rather than simply explaining my concerns. It helped me slow down my logical brain and experience what I had previously only been able to describe.</p>
+<p>This distinction between “top-down” and “bottom-up” processing became increasingly meaningful. Bottom-up approaches intentionally bring attention to what is happening inside the body—sensations, images, emotions, impulses, gestures, and other experiences that may exist outside conscious awareness.</p>
 
-<p>Social comparison is especially relevant because social media is full of carefully selected and perfected images of people’s lives — attractive photos, milestones, and luxurious holidays — while imperfections, difficulties, and failures are much less visible. People with higher levels of perfectionism, particularly socially prescribed perfectionism and perfectionistic self-presentation, may be more likely to compare themselves with these idealised presentations. Over time, this may contribute to envy, feelings of inadequacy, and the sense that we are somehow less worthy if our own lives, achievements, or appearance do not seem to measure up.</p>
+<p>Around the time of COVID, I read <em>No Bad Parts</em>, which transformed how I understood myself. Internal Family Systems (IFS) helped me view my reactivity, anger, addictions, and compulsions not as “bad,” but as parts of me that had developed for protective reasons.</p>
+<p>I began experimenting with this approach with my lifelong nail-biting habit. Instead of shaming the behavior, I became curious about its positive intention. As I listened internally, memories surfaced of being scared and home alone with my younger brothers while our parents worked. The nail-biting part had taken over to help me feel safe.</p>
 
-<p>Perfectionism may also be associated with a stronger tendency to base self-worth on social media feedback, in the form of likes, comments, and follower counts. This can create yet another standard to meet: looking better, appearing more successful, creating a more polished and visually appealing profile, or receiving more approval. Although positive feedback may feel rewarding in the short term, relying too heavily on external validation may ultimately reinforce these pressures over time.</p>
+<p>I was stunned. I had talked extensively about the fear growing up but had compartmentalized it as “a thing from my past.” I felt I had moved beyond it because I had no emotion around it. Little did I know, I was simply disconnected from the fear.</p>
+<p>As Morgan (2015) explains, <em>“Body signals are usually missed when attention is in outer, task-focused mode or sufficient time is not given.”</em></p>
 
-<p>For people with higher levels of perfectionism, these pressures may be particularly difficult to manage and could contribute to poorer mental health, including anxiety, depressive symptoms, and disordered eating. This reflects one of the central problems of perfectionism: perfection is impossible to achieve. Yet, constantly striving for it can itself become a source of vulnerability. </p>
+
+<p>This helped me realize that simply talking about the past isn't always enough. We can know our history without fully experiencing or integrating it. In therapy today, I often slow down when clients tell their stories. Rather than immediately asking another question, I might ask, “As you’re talking about this, can you tell me what you’re noticing happening inside?”</p>
+
+<p>The answer might be a physical sensation, image, sound, memory, symbol, emotion, or words. By slowing down, clients may access experiences that were previously outside their awareness.</p>
+<p>The goal isn't simply to revisit painful memories. These approaches can create a new experience in the present—a corrective emotional experience that provides something the person needed but didn't receive.</p>
 
 
 
   
 
 
-<h2>How Can We Protect Ourselves? </h2>
-<p>While there is no single solution, there are several ways to cultivate a healthier relationship with ourselves and with social media. These may be helpful for everyone, but may be particularly important for people with higher levels of perfectionism.</p>
-<ul>
-<li><strong>Remember that social media is not reality.</strong> What we see online is often carefully selected and edited.</li>
-<li><strong>Think about who you follow.</strong> Ask yourself: How does this account make me feel? What does following it give me?</li>
-<li><strong>Limit your time on social media.</strong> Consider whether scrolling has become automatic or is affecting your mood, sleep or daily life.</li>
-<li><strong>Reflect on your self-worth.</strong> Ask yourself: Would my life really be different if I had more likes, looked more successful, or seemed more perfect online?</li>
-<li><strong>Challenge perfectionistic thinking.</strong> Try to recognise when you are setting yourself unrealistic standards or judging yourself harshly for falling short.</li>
-<li><strong>Seek support when needed. </strong>If perfectionism or social media use is causing significant distress or interfering with everyday life, psychological or psychotherapeutic support may be helpful.</li>
-</ul>
+<p>As van der Kolk (2014) writes, <em>“Trauma is primarily remembered not as a story, a narrative with a beginning, middle, and end, but as isolated sensory imprints.”</em></p>
+<p>I initially believed therapy would “cure” my anxiety and addictions. I wanted freedom from rejection, inadequacy, and compulsive behaviors. What I’ve learned is that I’m really seeking integration. I’m still a work in progress, but I’m beginning to experience healing not just intellectually, but from the inside out.</p>
 
-<p><strong>For parents and carers:</strong> Talk openly with children and adolescents about the risks of using social media (e.g., social comparisons, unrealistic standards). </p>
+<p>Ironically, this inward focus was reiterated not only in therapy books but also in books about martial arts: <em>“Most people live at a comfortable distance from their bodies since they pay hardly any attention to them… As humans, we spend so much time inside our heads that we often forget the way out.”</em> —Bolelli, 2008</p>
+
+<p>After all these years, my head and heart are finally beginning to connect. I'm learning healing in therapy isn't so much about talking more as it is about slowing down enough to notice what is happening within as I talk and share my stories,</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-costs-of-perfectionism/202609/the-pursuit-of-perfection-in-the-digital-age" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/minority-report/202609/are-we-talking-too-much-in-therapy" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-costs-of-perfectionism/202609/the-pursuit-of-perfection-in-the-digital-age</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-costs-of-perfectionism/202609/the-pursuit-of-perfection-in-the-digital-age</guid>
-            <dc:creator><![CDATA[Marianne E. Etherson Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/minority-report/202609/are-we-talking-too-much-in-therapy</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/minority-report/202609/are-we-talking-too-much-in-therapy</guid>
+            <dc:creator><![CDATA[Minority Report]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/damaris-azocar-nqfdoob_lbq-unsplash.jpg?itok=sNAy9GDA" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/no_bad_parts.jpg?itok=buQquUJm" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Making Friends as We Age]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/diana-raab-scaled.jpg?itok=j7-sUVYG" alt="Diana Raab Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Friends</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Making Friends as We Age</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Cultivating friendship as an adult is an art well worth working on.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[“Don't Make Illness Your Identity": What Does Research Say?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-08/taliacohen-headshot1-removebg-preview_1_.png.jpg?itok=zp87w21S" alt="Talia Cohen Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Chronic Illness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">“Don't Make Illness Your Identity": What Does Research Say?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Is “Don’t let illness define you” good advice?</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The discussion of senior friendships is often neglected.</li><li style="margin-bottom:6px;">With shifts in work and lifestyle, there is a change in friendships.</li><li style="margin-bottom:6px;">For thoe most part, seniors prefer depth over quantity in friendship.</li>
+              <li style="margin-bottom:6px;">The phrase “Don’t make illness your identity” is controversial in the chronic illness community.</li><li style="margin-bottom:6px;">Illness impacts many aspects of our identity, but how we relate to it affects how we manage the challenges.</li><li style="margin-bottom:6px;">Four types of illness identity are: engulfment, rejection, acceptance, and enrichment.</li><li style="margin-bottom:6px;">The best outcomes are associated with acceptance and enrichment.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/qimono-senior-8130380.jpg?itok=EQ_HClPs" width="320" height="201" data-insert-type="image" title="Arek Socha / Pixabay" alt="Arek Socha / Pixabay"></div>
-<div class="insertArea--origin subtext">Source: Arek Socha / Pixabay</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pexels-mikhail-nilov-8846007.jpg?itok=6UX1kOQ4" width="320" height="480" data-insert-type="image" title="Mikhail Nilov / Pexels" alt="Mikhail Nilov / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Mikhail Nilov / Pexels</div>
 </div>
 </div>
 </div>
-<p>Studies have shown that friendships are the strongest predictors of health and longevity in later life, yet friendship is the relationship category we tend to plan for the least (Chopik, 2017). Somehow, we assume our friendships will simply continue the way they did when we were raising kids or in the workforce; however, everything changes in our senior and retirement years.</p>
+<p dir="ltr">The phrases “Don’t make illness your identity” and “Don’t let illness define you” are controversial in the chronic illness community, and for good reason. On one hand, the phrases are often said by individuals who have no concept of what it’s like to live with illness every day—something that undoubtedly impacts your identity. On the other hand, we know it’s important to continue to foster all parts of our identity, even when illness takes up too much of our energy. </p>
 
-<p>The paradox is that seniors have more time and self-knowledge than ever before, yet their circle of friends often shrinks as they get older. This happens for many reasons, including widowhood, retirement, relocation, illness and other health challenges, time spent with grandchildren, and the loss of friends who’ve passed away. </p>
+<p dir="ltr">Another key tension with this phrase is that the acceptance of illness—which often requires a change in identity—is incredibly beneficial because it allows someone living with chronic illness to make aligned decisions and take appropriate actions that will support their current body. </p>
+<p dir="ltr">So how do we approach illness with acceptance while also leaving room for other aspects of our identity? What does it even mean to have an illness identity?</p>
 
-<h2>The Losses Along the Way</h2>
-<p>Some friendship losses come with no ritual: a friendship that faded through distance or diverging lives, a falling-out that was never repaired, a friend who is still alive but no longer really “there” because of what’s going on in their life, or a gradual slipping away because one person has experienced cognitive decline (Doka, 1989).</p>
+<h2>What does the research actually say about illness identity?</h2>
+<p dir="ltr">Van Bulck and colleagues’ article <a href="https://journals.sagepub.com/doi/full/10.1177/1474515118811960">“Illness identity: Capturing the influence of illness on the person’s sense of self”</a> discusses four types of illness identity and how they can impact an individual’s ability to manage their treatment, regulate their emotions around health, and improve their quality of life.</p>
 
-<p>These losses often go ungrieved because there’s no funeral or permission to mourn them.</p>
-<p>Losing friends faster than we make new ones can leave many seniors feeling lonely.</p>
-<h2>How We Change as Friends</h2>
-<p>As we age, many of us become less patient with superficial connections. We’re often drawn to greater authenticity, directness, and depth. We may have fewer friends, but closer ones. This isn’t decline—it’s a kind of pruning toward what actually sustains us and makes us happy. It can help to stop and ask, “How does this relationship nourish me?” If a friendship isn’t offering you anything, it might be time to let go. </p>
+<p dir="ltr">The <strong>four types of illness identity</strong> are:</p>
+<ul>
+<li dir="ltr"><strong>Engulfment</strong>: When illness dominates one’s identity and daily life</li>
+<li dir="ltr"><strong>Rejection</strong>: When illness is minimized or kept separate from one's sense of self, often through avoidance or denial</li>
+<li dir="ltr"><strong>Acceptance</strong>: When illness is integrated into one's self-concept and identity </li>
+<li dir="ltr"><strong>Enrichment</strong>: When one’s illness results in positive life changes and benefits one’s identity</li>
+</ul>
 
-<p>Longitudinal studies of older adults have found that friendship quality matters more than quantity (Chopik, 2017). People who feel unsupported or strained by their friendships tend to fare worse—physically, behaviorally, and emotionally—than those with fewer but steadier ties.</p>
-<h2>Where New Friendships Come From </h2>
+<p dir="ltr">The research shows that quality of life is typically best for those in the acceptance and enrichment identities. Benefits include fewer depressive and anxiety symptoms, fewer physical symptoms, and the ability to manage the disease more effectively. However, it’s important to remember that these identities are fluid and can change day-to-day and situation-to-situation.</p>
 
-<p>Many people believe the myth that deep friendships can’t form after 60. Research says otherwise—proximity and repeated, low-stakes contact matter more than any personality match. </p>
-<p>That’s exactly why classes, volunteering, faith communities, and other groups work because they create the repeated contact friendship requires. Sometimes friendship happens because of chemistry; other times, it happens because of logistics—people keep showing up at the same place and the same time. In recent years, for example, many have turned to games like mahjong, canasta, and bridge. Gatherings like these combat loneliness and keep the brain engaged.</p>
+<h2>My experience with illness acceptance</h2>
+<p dir="ltr">It took me close to a decade to start accepting my illness in a real, honest way. I spent a long time in the rejection identity phase (see above), where I avoided acknowledging illness as part of who I was. The rejection felt safer than confronting societal norms about illness, disappointing family expectations around productivity, and navigating awkward conversations with friends about accommodations. And for a while, I could get away with rejecting illness as part of my identity.</p>
 
-<h2>The Courage to Make New Friends</h2>
-<p>In many ways, reaching out to potential new friends can feel riskier to seniors than it did when they were younger. The fear of rejection doesn’t disappear with age. It takes a lot of guts to be the one who initiates—the one who calls, who invites, who says, “Let’s not lose touch” (Liu, 2023).</p>
+<p dir="ltr">But here’s the thing: Rejecting illness as part of my identity didn’t make it go away. What it did was lead me to reject accommodations, treatments, and emotional support that I genuinely needed. This is the danger of not integrating illness into our sense of self — it can reinforce shame and body disconnection.</p>
 
-<p>It’s also more difficult to make friends as we age because there are fewer built-in structures, such as school, work, and young children’s activities, that naturally foster friendships. On the other hand, friendships can sometimes develop more quickly because seniors have less time to spend vetting people. By this stage of life, they also know what they’re looking for in a friend.</p>
 
-<p>Sometimes just contacting someone to say you’re thinking of them can really change their world. Sending greeting cards is one way to stay connected.</p>
-<h2>Reconnecting and Letting Go</h2>
-<p>Sometimes reaching out to a friend you’ve lost touch with is a gift to both of you: the person receiving your text or phone call may simply be thrilled to be remembered.</p>
+<h2>So is it okay to integrate illness as part of your identity?</h2>
+<p dir="ltr">Absolutely. </p>
+<p dir="ltr">When we integrate illness into our identity in a way that allows us to have radical acceptance and even enrich our lives, we can face the challenges that come with chronic illness more effectively. That said, it’s always worth weighing whether you are in the engulfment type of illness identity, where it’s difficult to pursue other parts of what makes you human. </p>
+
+<p dir="ltr">No matter where you are in how you relate to your illness, you can offer yourself compassion. Identity change and integration are difficult and ongoing. You get to move at your own speed. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/thinking-chronically/202609/dont-make-illness-your-identity-what-does-research-say" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/thinking-chronically/202609/dont-make-illness-your-identity-what-does-research-say</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/thinking-chronically/202609/dont-make-illness-your-identity-what-does-research-say</guid>
+            <dc:creator><![CDATA[Talia Cohen Ph.D.]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/pexels-mikhail-nilov-8846007.jpg?itok=6Ta7SirU" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Holding Back May Be Hurting Your Relationships]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/jill-weber.jpg?itok=zpYi1X2b" alt="Jill P. Weber Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Holding Back May Be Hurting Your Relationships</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What do you almost say but edit out?</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">We are very skilled at recognizing the risks of oversharing.</li><li style="margin-bottom:6px;">We are not so good at noticing the risks of saying too little.</li><li style="margin-bottom:6px;">People can't connect with what they don't know about you.</li><li style="margin-bottom:6px;">Developing awareness for the "invisible edit" can make you a more open and vibrant person.</li>
+            </ul>
+          </div>
+                    <p>Every day we have conversations in our minds that never take place in real life. Maybe you hear a story and think: “That happened to me too, only in a slightly different way.” Perhaps you want to offer a compliment but stop yourself, or you recognize a vulnerability or a need in yourself or others, but almost as soon as the thought comes in, it exits, never making it past your lips. There’s a whole internal world of thoughts that may never make it to the level of a spoken sentence.</p>
+
+<p>We are very good at recognizing the risks of oversharing; what we might be underestimating are the risks of revealing too little.</p>
+<p>Leslie John, a behavioral scientist at Harvard Business School, found that we tend to focus on the risks of disclosing while underestimating the social costs of withholding. Across multiple contexts, John and her colleagues found that people often prefer those who reveal themselves over those who choose to withhold information, even when the information shared is potentially embarrassing. For example, in one study, people were more interested in going on a date with someone who answered direct questions, even when their answers were not socially desirable, than with someone who declined to answer.</p>
+
+<p>Disclosing personal information, even when it’s perceived as negative, signals to the other person that you trust them enough to take that risk. That signal of trust invites openness in return, and deepens the connection. In contrast, when a person withholds and doesn’t reveal themself, it can signal a lack of trust and may then be interpreted as dishonesty, indifference, or evasiveness, even when none of those things are actually true.</p>
+
+<p>There is evidence that revealing ourselves is rewarding at a neurological level. Research shows that sharing information about ourselves activates brain regions associated with reward. And from an evolutionary standpoint, attachment and connection are integral to survival.</p>
+<p>Of course, this isn’t a reason to share everything. Boundaries are important. You don’t need to tell your boss about your marital issues or your financial situation. What is more important is to get curious about all those things that would be completely appropriate to share, and might feel good to say and for others to hear, and yet we edit out.</p>
+
+<p>This is what I call the invisible edit. The invisible edit often happens without conscious awareness, but due to an internal risk sensor that almost instantaneously sends the thought to the discard bin.</p>
+<p>Underneath that lightning-quick tendency to discard is years of cultural conditioning around not wanting to take a social risk and potentially appear awkward, needy, dramatic, weak, or foolish. Over time, we develop default versions of ourselves; versions based on an unconscious calculus of what feels safest to present in the situation at hand. This protection mechanism is so quick that it overrides a more deliberate decision of what you might be missing out on by not disclosing.</p>
+
+<p>The problem is people can’t connect with what they don’t know about you.</p>
+<p>The invisible edit is particularly harmful in long-term relationships because, over time, it can drain the aliveness and the zest of the relationship. When we stop sharing the nuance of our inner world, conversation becomes rote, and people come to occupy rigid roles.</p>
+
+<p>You may think you know everything your partner feels or thinks, and they know this for you, simply because you’ve been together so long. But knowing each other a long time is not the same as revealing yourself right now in this moment. By not taking that risk or putting in that effort, you are leaving opportunities for increased closeness, joy, and softness off the table.</p>
+
+
+<p>Slow down and recognize your inner voice and what might be getting lost in the invisible edit. For example:</p>
+<p>When your partner does something nice for you, instead of just sticking with “thanks,” allow yourself to say: “I’m so lucky to have you care about me in this way!”</p>
+<p>If you realize you have been letting your partner down, instead of pushing it under the rug, just say it: “I am realizing I haven’t been there for you.”</p>
+
+<p>If something hurts your feelings, say: “That actually hurt.”</p>
+<p>After a conflict, instead of just waiting it out or distracting yourself with something else, say: “I want to be close to you again.”</p>
+<p>The goal isn’t to stop editing or to have no boundaries in what you disclose to others, but it is to build conscious awareness for the invisible edit and to be curious with yourself about why you’re editing. Then you can make a deliberate choice about whether disclosing is actually riskier than not disclosing.</p>
 
 
 
   
 
 
-<p>On the other hand, people often outgrow friends or find a relationship draining or one-sided. In these cases, it might be better to end the connection. This is particularly difficult if the other person doesn’t feel the same way. Not every friendship is meant to last a lifetime, although sometimes lovely when it does. There’s no need to feel guilty about letting a friendship go. What matters most is being honest with yourself and the other person.</p>
-
-<h2>Strong Ties and Weaker Ties</h2>
-<p>When it comes to friendship, it’s helpful to distinguish between strong ties and weak ties. Close friends and family are considered strong ties. Weak ties are people we might call acquaintances, such as the woman at the pool, a fellow mahjong player, the person we wave to at the store, or the neighbor we see on our daily dog walk. These connections often center on a shared activity, and the relationship ends once the activity does. </p>
-
-<p>Many seniors have become skilled at these looser connections, which can be surprisingly fulfilling. Studies have shown that older adults tend to be better than younger adults at relating to strangers and acquaintances, perhaps because they’ve developed stronger skills for casual connection—an asset as our inner circle shrinks.</p>
-
-<p>In part, this has to do with no longer needing to impress anyone; it’s simply about being ourselves. Some people find it easier to maintain a wide web of loose, casual friendships.</p>
-<h2>In Summary</h2>
-<p>Friendship in the senior years isn’t a consolation prize for what’s been lost. For many women, in particular, it becomes its own late-blooming richness—sometimes more honest and more chosen than the friendships of earlier decades.</p>
+<p>Experiment today with just noticing what you almost say but don’t. What was the thought? Why did you edit it? And what might happen if you actually said it?</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-empowerment-diary/202609/making-friends-as-we-age" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/having-sex-wanting-intimacy/202609/why-holding-back-may-be-hurting-your-relationships" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-empowerment-diary/202609/making-friends-as-we-age</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-empowerment-diary/202609/making-friends-as-we-age</guid>
-            <dc:creator><![CDATA[Diana Raab Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/having-sex-wanting-intimacy/202609/why-holding-back-may-be-hurting-your-relationships</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/having-sex-wanting-intimacy/202609/why-holding-back-may-be-hurting-your-relationships</guid>
+            <dc:creator><![CDATA[Jill P. Weber Ph.D.]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/qimono-senior-8130380.jpg?itok=AGybYcN4" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/saeed-karimi-jrrwc7qcmhs-unsplash.jpg?itok=JPW-iLLH" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Holy Grail Rule Of "Good Enough" Love In Relationships]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Holy Grail Rule Of "Good Enough" Love In Relationships</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">As it turns out, the best kind of love is actually just good enough.</h2><p style="font-size:0.9em;color:#666;">Posted September 23, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Realistic expectations and strong conflict resolution skills lead to lasting relationship happiness.</li><li style="margin-bottom:6px;">Friendship and intimacy, not just passion, are key foundations for enduring love.</li><li style="margin-bottom:6px;">Reliability and consistent trust-building sustain long-term relationships.</li><li style="margin-bottom:6px;">Shared life goals create deeper purpose and connection within couples.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/good_enough.jpg?itok=dzMYM2KR" width="320" height="320" data-insert-type="image" title="Chermiti Mohamed / Pexels" alt="Chermiti Mohamed / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Chermiti Mohamed / Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr">In the quest for love and partnership, we often end up chasing after the elusive perfect match—someone who aligns seamlessly with our ideals and triggers intense passion.</p>
+<p dir="ltr">Introduced by renowned psychologist and relationship researcher John Gottman, the idea of a “<a href="https://www.gottman.com/blog/truth-expectations-relationships/">good enough</a>” relationship challenges the notion of perfection and suggests that lasting love is about maintaining a balance of realistic expectations, authentic connection, and a commitment to mutual growth. This perspective flips the script on the widely held belief that <a href="https://www.psychologytoday.com/us/blog/social-instincts/202511/3-habits-that-keep-love-alive-in-a-relationship">flawless relationships</a> are the ultimate goal.</p>
+
+<p dir="ltr">“Good enough” relationships, despite their imperfections, often outlast seemingly flawless unions glorified by society. Here are three reasons why you should aim for “good enough” relationships and steps you can take toward creating one.</p>
+<h2 dir="ltr">1. Keeping It Real Leads to Lasting Happiness</h2>
+<p dir="ltr">Exceptionally high standards can be detrimental for the health of a relationship in the long run. According to a <a href="https://onlinelibrary.wiley.com/doi/10.1111/pere.12091">study</a> published in <em>Personal Relationships</em>, holding unrealistic or lofty standards for a marriage partner may lead to a tendency to delay or forgo marriage. Individuals with unrealistic standards also face greater challenges in establishing high-quality romantic relationships, express lower expectations for marrying their current partner, and exhibit lower levels of psychological and behavioral investment in the prospect of marriage.</p>
+
+<p dir="ltr">It is essential to understand that the idea of a "good enough" relationship does not support lowering expectations to avoid disappointment or settling for being treated poorly.</p>
+<p dir="ltr">A “good enough” relationship involves being treated with respect, love, and affection. Couples in such relationships recognize that occasional disappointments are inevitable, and consider their combined conflict resolution skills to be the relationship’s defining strength. By maintaining reasonable expectations, individuals set the stage for a partnership where both parties feel valued and understood.</p>
+
+<p dir="ltr">To achieve this:</p>
+<ul>
+<li dir="ltr">Foster open and honest communication to ensure a clear understanding of each other’s expectations, leading to a sense of transparency and trust.</li>
+<li dir="ltr">Polish your indispensable conflict resolution skills to navigate disagreements constructively, averting the accumulation of lingering resentments that can erode the relationship over time.</li>
+</ul>
+
+<h2 dir="ltr">2. Passion Invigorates, Friendship Sustains</h2>
+<p dir="ltr">While many concentrate on the initial stages of falling in love, fueled by attraction and shared interests, John Gottman proposes that true love encompasses more profound sentiments. In his “Sound Relationship House” theory, he asserts that couples in “good enough” relationships establish a foundation of <a href="https://www.psychologytoday.com/us/blog/social-instincts/202601/5-attachment-lessons-you-need-to-learn-for-love">intimacy and friendship</a>.</p>
+
+<p dir="ltr"><a href="https://journals.sagepub.com/doi/10.1177/0265407512453009">Research</a> too underlines the significance of valuing the friendship aspect of romance as a predictor of positive concurrent romantic qualities like love, sexual gratification, and commitment.</p>
+<p dir="ltr">These essential ingredients act as slow-release agents that show their efficacy and impact over the course of a long-term relationship. Components of the “Sound Relationship House” theory provide a guide to fortify the foundation of intimacy through:</p>
+
+<ul>
+<li dir="ltr">Building love maps. Delve into your partner’s inner world, comprehending them in depth.</li>
+<li dir="ltr">Sharing fondness and admiration. Express appreciation and respect to counteract contempt.</li>
+<li dir="ltr">Turning towards instead of away. Acknowledge and respond to your partner’s bids for connection in your daily interactions.</li>
+<li dir="ltr">Maintaining a positive perspective. Adopt a constructive problem-solving approach, recognizing the success of repair attempts.</li>
+<li dir="ltr">Managing conflict. Address both solvable and perpetual problems, acknowledging the natural existence of conflict.</li>
+<li dir="ltr">Making life dreams come true. Foster an environment encouraging open communication about personal hopes, values, convictions and aspirations.</li>
+<li dir="ltr">Creating shared meaning. Understand and embrace important visions, narratives, myths, and metaphors within the relationship.</li>
+</ul>
+
+
+<h2 dir="ltr">3. Reliability Fuels Romance</h2>
+<p dir="ltr">Falling in love marks only the initial phase; the true test of a relationship’s mettle lies in the couple’s ability to construct and sustain trust and commitment. Couples in “good enough” relationships understand that love, to endure, must rely on intentional effort to create shared meaning and purpose. It requires ongoing dedication beyond the euphoria of the early stages.</p>
+
+<p dir="ltr">To actively cultivate this enduring connection, prioritizing trust-building activities becomes paramount.</p>
+<ul>
+<li dir="ltr">Be reliable by consistently fulfilling promises, practice transparency through open communication, and offer support during tough times by demonstrating empathy, understanding, and standing by each other when needed.</li>
+<li dir="ltr">Establish shared life goals. This collaborative effort deepens commitment and infuses the relationship with a profound sense of purpose. The progress made leads to a shared sense of accomplishment, creating a narrative that binds a couple together and enhances the overall quality and longevity of the relationship.</li>
+</ul>
+
+
+
+  
+
+
+<p dir="ltr">In the realm of romantic relationships, the pursuit of perfection may lead to unrealistic expectations and eventual disappointment. However, embracing the concept of a “good enough” relationship, characterized by elements like respect, love, intimacy, and friendship, provides a practical roadmap to lasting happiness.</p>
+
+<p dir="ltr"><em>A version of this post also appears on Forbes.com.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202609/the-holy-grail-rule-of-good-enough-love-in-relationships" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/social-instincts/202609/the-holy-grail-rule-of-good-enough-love-in-relationships</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202609/the-holy-grail-rule-of-good-enough-love-in-relationships</guid>
+            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-chermitove-3089875.jpg?itok=43Klcu1w" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
