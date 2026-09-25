@@ -4,92 +4,858 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 07:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 18:17:21 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 07:12:49 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 18:17:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[The New ADHD Medications, Explained for Patients]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/ryan_sultan.jpg?itok=hHVVaMI_" alt="Ryan S. Sultán MD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The New ADHD Medications, Explained for Patients</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Four new options for ADHD treatment have arrived. Most patients still shouldn’t switch.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Hopeful Vigilance: What Parents Should Know About GLP-1s]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/thomas-rutledge-edited-photo.jpg?itok=fUGEYwh1" alt="Thomas Rutledge Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Health</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Hopeful Vigilance: What Parents Should Know About GLP-1s</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Gen-GLP-1 has arrived. Parents need to be ready.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Simtriyo, approved in July 2026, spares dopamine and disrupts sleep less, but its benefit is smaller.</li><li style="margin-bottom:6px;">Qelbree starts working faster than Strattera; generic Vyvanse may matter more than any new drug.</li><li style="margin-bottom:6px;">If your current medication works, new options ask nothing of you. If it doesn’t, start by asking why.</li>
+              <li style="margin-bottom:6px;">GLP-1 medicine use isn't limited to adults. Usage is also soaring among adolescents.</li><li style="margin-bottom:6px;">Although clinical benefits of GLP-1 use are established among youth, there are unique concerns to consider.</li><li style="margin-bottom:6px;">It is important for parents to understand the benefits and risks of GLP-1 use for their children</li><li style="margin-bottom:6px;">Although parents can't replace a physician, there are many ways for them to monitor and intervene</li>
             </ul>
           </div>
-                    <p>Three ADHD medications have reached American patients in the past five years, and a fourth was approved this July. For a field that spent two decades cycling the same molecules through new delivery systems, that is a genuinely unusual stretch. It has also produced a wave of questions in my office, most of which reduce to one: <em>Should I switch?</em></p>
+                    <p dir="ltr">Marcus, age 14, plays offensive line on his high school football team. His dream is to earn a football scholarship at his state university. And this season, he isn't gasping for air by the second quarter. Four months into a weekly GLP-1 injection prescribed for obesity and type 2 diabetes, his blood sugar is falling toward normal and his knees have stopped aching. But the nausea hits hardest on game days, his coach says he's lost some push off the line, and Marcus has a question he's too embarrassed to ask his doctor: <em>Will this shot stop me from growing and performing my best?</em></p>
 
-<p>For most patients the answer is <em>No</em>, and understanding why requires knowing what each new option actually is.</p>
-<p><strong>Simtriyo (centanafadine)</strong> is the newest, approved by the FDA in July 2026 for ages six and up. It works mainly on norepinephrine, one of the two brain chemicals the older stimulants act on, while largely leaving dopamine alone. That design has a purpose: Dopamine is where the euphoria and abuse potential of amphetamines comes from, so a medication that sidesteps it may carry less of both. The trade-off shows up in the trial data. In placebo-controlled studies, centanafadine’s benefit was roughly a third to half the size of what amphetamines produce. Its clearest advantage was sleep: Patients reported substantially less insomnia than is typical for stimulants. My reading of the evidence is that Simtriyo will earn a real place for patients whose anxiety, sleep, or substance-use history makes amphetamines a poor fit, and that patients doing well on their current stimulant have little reason to trade a larger effect for a smaller one. <em>(I’ve published </em><a href="https://ryansultan.com/blog/blog-adhd-new-medications-2026"><em>a detailed comparison of the trial numbers</em></a><em> for readers who want them.)</em></p>
+<p dir="ltr">Across town, Maya, age 15, is a competitive gymnast. No one prescribed her anything. A teammate's older sister sold her a vial of compounded semaglutide, and within weeks, her coach was praising how "light" she looked on the beam. Her parents noticed she was skipping dinner. They didn't notice anything else, however, until she misread the dosing units and spent a weekend unable to keep water down.</p>
 
-<p><strong>Qelbree (viloxazine)</strong> arrived in 2021 for children and 2022 for adults. It’s a cousin of an older non-stimulant, Strattera, with two practical differences: It tends to start working in one to two weeks rather than four to eight, and it avoids a genetic quirk that makes Strattera unpredictable in a minority of patients. It also interacts with caffeine — a detail worth knowing for a teenager who lives on energy drinks. Like Strattera, it carries a warning about suicidal thoughts in young people, which in practice means closer check-ins during the first weeks — the same vigilance we apply to antidepressants.</p>
+<h2 dir="ltr">Between Hope and Fear</h2>
+<p dir="ltr">Marcus's mother is thrilled by his lab results and unsettled by every headline she reads. Maya's parents don't yet know there is anything to worry about. Between them sits a reality facing a growing number of families: GLP-1 medications are reaching young people faster than research can track what they do beyond the scale and the blood test. Among U.S. adolescents with obesity, the share with an active prescription rose roughly tenfold in the two and a half years after semaglutide was approved for teens,<sup>1</sup> and prescribing is climbing among children as young as 8.<sup>2</sup> For parents, the right stance is neither panic nor blind enthusiasm. It's <em>hopeful vigilance</em>.</p>
 
-<p><strong>Generic Vyvanse (lisdexamfetamine)</strong> may matter to more patients than either new molecule. Since the brand lost exclusivity, multiple manufacturers have entered, and for patients paying cash the price difference is substantial. The supply has been uneven, however — some strengths fill easily while others disappear for weeks — but the direction is toward a first-line stimulant becoming affordable.</p>
+<h2 dir="ltr">GLP-1s for Youth: What We Know</h2>
+<p dir="ltr">In the largest teen trial, adolescents taking semaglutide reduced their BMI by about 16 percent over 68 weeks, while those on placebo gained slightly, results comparable to adults.<sup>3</sup> A smaller trial in children ages 6 to 11 also showed meaningful benefit.<sup>4</sup> Nausea, vomiting, and other stomach complaints are common, especially as doses increase, and gallstones occurred more often than with placebo.³</p>
 
-<p>The remaining recent arrivals are new packages for old molecules: <em>Jornay PM</em>, a methylphenidate taken at night so it’s working when a child wakes; <em>Azstarys</em>, a partial-prodrug stimulant; and <em>Onyda XR</em>, a liquid form of clonidine for children who can’t swallow pills. Each solves a specific practical problem. None changes what the medication does once it’s in the bloodstream.</p>
+<p dir="ltr">Large reviews haven't found that these drugs cause depression or suicidal thinking, and some teen studies even suggest lower risk.<sup>5</sup> Still, some adults describe feeling flatter, more anxious, or less interested in things they used to enjoy, and teens with obesity already face higher rates of low mood. That's reason enough to keep watching.</p>
 
-<p>Here is the comparison I find myself drawing in clinic: Choosing an ADHD medication is like choosing a route to work. The amphetamines are the highway — they're the fastest, the most direct, and the standard against which everything is judged, although with real hazards that require attention. The non-stimulants are surface streets; slower, gentler, and sometimes exactly right — because of a history of addiction, an anxiety disorder that stimulants inflame, or side effects that never settled. </p>
+<p dir="ltr">Finally, the weight and other metabolic benefits fade when the medicine stops (just like in adults). Teens in trials began regaining weight within weeks of their last dose,<sup>3</sup> so "How does this end?" belongs in the very first conversation.</p>
+<h2 dir="ltr">GLP-1s in a Growing Body</h2>
+<p dir="ltr">Marcus's fear is understandable, but so far it isn't borne out: teen trials haven't shown short-term effects on growth or puberty.<sup>6</sup> What they haven't measured is bone. Adolescence is when most of our lifetime skeleton is built, and in adults, semaglutide has been linked to modest losses in bone density.<sup>7</sup> No published study has yet tracked bone density in teens on these drugs, and the first dedicated trial is scheduled to finish until 2030. That's why strength training and enough protein matter even more for Marcus than for his father.</p>
 
-<p>New roads are worth celebrating. Most commutes still belong on the highway.</p>
-<p>Two more cautions as these medications get marketed: First, “new” and “better” are different claims, and for every medication above, the placebo-controlled effect sizes remain publicly available for anyone to check. Second, no head-to-head trial compares Simtriyo with the stimulants; the comparisons in circulation are statistical reconstructions, mostly funded by manufacturers, and should be read with that understanding.</p>
+<p dir="ltr">Growth also changes what success looks like. For a growing child (unlike adults), doctors look at where BMI falls on the growth chart for age and sex, not simply the number on the scale. Holding weight steady while getting taller can be real progress.</p>
+<h2 dir="ltr">A Developing Mind</h2>
+<p dir="ltr">Arguably the biggest risky unknown for adolescent GLP-1 use is eating disorders. On one hand, clinicians report that GLP-1s may quiet binge eating for some teens.<sup>8</sup> But for a girl like Maya, already restricting and already praised for thinness, an appetite suppressant can deepen a dangerous pattern. A published case report describes exactly that in an adolescent girl,<sup>9</sup> and pediatric experts urge prescribers to screen for restrictive and avoidant eating before treatment begins. Yet research on how these drugs change teens' eating remains scarce.</p>
+
+<h2 dir="ltr">A Social Life Built Around Food</h2>
+<p dir="ltr">Teens eat together: team dinners, sleepovers, pizza, and restaurants after the game. A medicine that erases appetite can subtly pull a teen out of those bonding moments. For Marcus, whose size is part of his identity on the line, shrinking can feel like psychological loss as much as gain. These drugs also create a new parenting question: Who holds the injection pen, a teen building independence or a parent keeping watch?</p>
+
+<p dir="ltr">Maya's story isn't hypothetical, either. U.S. poison-center reports involving GLP-1s among 6- to 17-year-olds rose nearly fiftyfold between 2017 and 2024, and compared with adults, these young people were about eight times more likely to have misused the drug intentionally.<sup>10</sup> Sports that prize thinness or require making weight, such as gymnastics, dance, and wrestling, deserve extra attention.</p>
 
 
-<p>If your current medication is working — attention improved, side effects tolerable, mornings functional — the arrival of new options is interesting news that requires nothing of you. </p>
-<p>If your current medication isn’t working, this is the richest moment in 20 years to revisit the question with your prescriber, and the right conversation starts with why the current one is failing: too little benefit, too much side effect, or a schedule that doesn’t fit your life. Each answer may point to a different medication on this longer list.</p>
+
+  
+
+
+<h2 dir="ltr">What Parents Can Do</h2>
+<p dir="ltr">No parent can monitor what science hasn't yet measured. But you can watch what matters most. The checklist below gathers the essentials. Bring it to your child's appointments.</p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-09/glp1-parent-checklist-c-journey-path.png.jpg?itok=LIyZDCRd" width="639" height="1338" data-insert-type="image" alt="Parent checklist" title="Thomas Rutledge/PowerPoint"></div>
+<div class="caption">Parent checklist</div>
+<div class="insertArea--origin subtext">Source: Thomas Rutledge/PowerPoint</div>
+</div>
+</div>
+</div>
+<h2>Epilogue</h2>
+<p dir="ltr">Marcus stayed on his medication. His doctor and coach worked with him to add a strength program and moved the conversation from pounds to the growth chart, where he's still climbing. Maya's parents found the vial, and a pediatrician and an eating disorder specialist are now guiding her recovery. Two teens, one class of medicine, very different stories. Hopeful vigilance requires making room for both.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/talking-scientifically-about-mental-health/202609/the-new-adhd-medications-explained-for" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-healthy-journey/202609/hopeful-vigilance-what-parents-should-know-about-glp-1s" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/talking-scientifically-about-mental-health/202609/the-new-adhd-medications-explained-for</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/talking-scientifically-about-mental-health/202609/the-new-adhd-medications-explained-for</guid>
-            <dc:creator><![CDATA[Ryan S. Sultán MD]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-healthy-journey/202609/hopeful-vigilance-what-parents-should-know-about-glp-1s</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-healthy-journey/202609/hopeful-vigilance-what-parents-should-know-about-glp-1s</guid>
+            <dc:creator><![CDATA[Thomas Rutledge Ph.D.]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2080736614.jpg?itok=4uEdGt05" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/shutterstock_2668214883.jpg?itok=rqBRbIk4" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[It’s Not All on You: The Urge to Carry Too Much]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-09/jaron_vesely.png.jpg?itok=RF7O0rcT" alt="Jaron Vesely MSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Stress</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">It’s Not All on You: The Urge to Carry Too Much</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How we learn to carry more than our share.</h2><p style="font-size:0.9em;color:#666;">Posted September 24, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[I Got the Alligator: Personal Reflections on Losing a Sibling]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-12/untitled_design.png.jpg?itok=giFxQ7Gr" alt="Dena Kouremetis" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Grief</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">I Got the Alligator: Personal Reflections on Losing a Sibling</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Losing the person whose DNA you share can hit the hardest.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Over-responsibility can create accountability for things we cannot fully control.</li><li style="margin-bottom:6px;">The expectations we inherit can reinforce the pressure to handle things alone.</li><li style="margin-bottom:6px;">Letting go of some responsibility doesn’t mean abandoning what is ours to own.</li>
+              <li style="margin-bottom:6px;">A brother or sister holds pieces of your life nobody else ever saw.</li><li style="margin-bottom:6px;">Most of us spend years getting ready for the death of our parents, not our siblings.</li><li style="margin-bottom:6px;">The death of an adult sibling often fits the definition of "disenfranchised grief."</li>
             </ul>
           </div>
-                    <p dir="ltr">Sometimes I find myself working late into the night. I may or may not be writing this post far beyond when I was supposed to be wrapping up work. And full confession: I’m not sure why I do this. I’m a therapist in private practice—there is no deadline I’m trying to meet, no supervisor I’m trying to impress, no promotion I’m vying for. And yet, somewhere within me there is a sense of urgency that says, “Not enough. Do more. You need to accomplish more today."</p>
+                    <p>When I was five, my nine-year-old brother walked me down our short hallway before church, telling me how pretty I looked in my Sunday dress. It was maybe a dozen steps. I'm not sure I've felt that thoroughly admired since.</p>
+<p>Thing is, I wasn’t a girly girl. I envied the clothes boys wore. Frills, lace, and pink were not my thing. I wanted what he and my other brother had. So he laced me into his boxing gloves when I complained, loudly and often, that boys got to do all the good stuff. This was the '50s and 60s, when girls got patent leather shoes, potholder weaving looms, and Barbies, while boys got everything else. I don't remember landing a single punch. But I remember that he let me try.</p>
 
-<p dir="ltr">“You need to accomplish more today.” When I hear that inner voice get loud in myself or in clients, I find that I start to spiral with questions: Who says I need to accomplish more? What is more? What counts as an accomplishment? And those are all important questions, but for the purpose of this post, I want to focus on the operative word spoken by that inner voice: “you.” It never says “we need to accomplish more.” It’s always on my shoulders. </p>
+<p>Later came his hand-me-down IZOD shirts, which I wore like a promotion. Other girls got their older sisters' clothes. I got the alligator. I wanted to wear it all the time, but Mom only let me wear it during playtime.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/download.png.jpg?itok=7UwP5JVP" width="320" height="392" data-insert-type="image" title="Anna Bondarenko / Pexels" alt="Anna Bondarenko / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Anna Bondarenko / Pexels</div>
+</div>
+</div>
+</div>
+<p>Only the two of us were there for those moments. That's the thing about a brother or sister. They hold pieces of your life nobody else ever saw.</p>
+<p>I laughed with him watching movies of our parents’ era: <em>The Three Stooges,</em> <em>Abbott and Costello, </em>and <em>The Little Rascals</em>. He remembers my 6th grade perm (which I hated) but never told me how kinky it looked. Then one day, somewhere between comparing cholesterol numbers and arguing over which family trip was the best, it dawned on me that he may have been the only person who even remembered the perm.</p>
 
-<h2>Tracing the Roots</h2>
-<p dir="ltr">There’s a name for some of this: over-responsibility. It’s the idea that we take ownership of things that are outside of our control—the thoughts and feelings of others, outcomes that we cannot determine, events in the past that we cannot alter. For many of us, this can be a powerful way to feel more in control of our lives. But as a social worker, I’m equally interested in the external systems that reinforce this.</p>
+<p>Most of us spend years getting ready for the death of our parents, even if we never say so. We see them slow down, we hear the same stories more often, and part of us starts to brace. When they die, it hurts terribly, but it happens in the order we always assumed it would.</p>
+<p>The death of a brother or sister later in life comes without that preparation. For many of us older adults, it hits harder than we expected, and we aren't sure why.</p>
 
-<p dir="ltr">Not all pressure comes from the inside. Some we inherit. I see within me multiple intersecting sources of this story. Being raised male in this world taught me to provide and fix, to be strong and not need support. Living in America foisted a rugged individualism on me that I just can’t seem to shake. I’ve never been a fan of Westerns and yet some part of me feels like I’m a solitary lawman responsible for taming the Wild West. My Judaism came with a heaping helping of generational persecution. I inherited the lineage of a people who were exiled and persecuted across much of Europe for centuries, and in that inheritance I also hold the story that if I don’t make myself important I am expendable. Even my work as a therapist brings with it a moral imperative to heal others… or else! </p>
+<p>Our parents are usually with us for the first half of our lives. Spouses come along in adulthood, and children after that. In contrast, a sibling may have known us from the start and stayed nearly to the end. They remember the house(s) we grew up in, the fights over who had to sit in the middle of the the back seat, and the parent we experienced differently from anyone else. When they’re gone, we realize we lost someone who was there for all of it. </p>
 
-<p dir="ltr">The common thread in all of these narratives is that it’s all on me. How lonely. How untrue. And yet, how real it feels to many of us. How often that current is what keeps us up late finishing the essay.</p>
-<h2>Laying Down the Burden</h2>
-<p dir="ltr">How often do you take it all onto your shoulders? For many of the folks I work with, even hearing this called out brings up some powerful defenses. “Are you trying to tell me I shouldn’t be responsible for my actions?” or “I like the fact that I set goals and crush them. I don’t want to lose that." And I get that. But when faced with this line of reasoning, my next question is, “How often do you feel like everyone is letting you down and if they would just get their you-know-what together everything in your life would be fine?” That one is usually met with less resistance. The truth is that these two patterns often share real estate—either it’s all my responsibility or none of it is my responsibility. Either it’s mine to fix or I’m taking my toys and going home. The more challenging middle path is taking responsibility for our part without making ourselves responsible for the whole thing.</p>
+<p>Grief researchers use the term "disenfranchised grief," introduced by Kenneth Doka, for losses that other people don't fully acknowledge. The death of an adult sibling often fits.</p>
+<p>When a parent dies, people know what to do. Coworkers send cards, friends bring food, and nobody questions how upset you are. When an adult sibling dies, most of the sympathy goes to the widow or widower and the children. In the case of my oldest (never married) brother passing recently, my other brother and I are left to comfort others while putting our own feelings on hold.</p>
 
-<p dir="ltr">I had a falling out with a friend recently. Well, more of a cooling off, actually. We were so close for so many years but it became clear that things had changed. At first, I searched for something I could do to fix this. Surely if things changed then I could change them back. And then when that didn’t work, I found myself getting angry. If they just made more of an effort to understand me then this wouldn’t be an issue! See that? All my responsibility. Not my responsibility. But the truth of the matter was infinitely more complex. It’s probably true that we both made choices that inadvertently hurt the other, not because we didn’t care about each other but because what each of us needed pulled us in opposite directions.</p>
+<p>Well-meaning people say things like, "At least you had so many years together." It doesn’t help. How close we were was only part of it. Even a strained or distant relationship with a sibling can be painful to lose, sometimes more so, because any chance of patching things up is gone.</p>
+<p>Losing a sibling in later life also pushes us to think about our own demise in a way a parent's death may not. A parent belongs to the generation ahead of us. A sibling belongs to ours. They may have shared our genes, grown up on the same food, picked up some of the same habits and used the same ways to describe an experience. </p>
 
-<p dir="ltr">But that perspective is only possible when we allow ourselves to put some of the burden down. Sometimes putting down a burden means giving it to someone or something. I gave mine to the Merced River. No joke. We were traveling in Yosemite with some friends and I was breathing deeper than I had in months. It was the end of a long day lounging by the river, and I found myself floating on my back staring up at Wawona Dome. I felt myself give my weight to the water and I felt the water hold me up. I closed my eyes and just floated. I must have had a stupid grin on my face, because my friend asked me what I was thinking about. I said, “Nothing,” and asked why he asked. He said I looked peaceful, and it looked good on me. </p>
+<p>It's hard not to wonder whether we're next. We suddenly take stock of our health, our relationships, and the things we kept putting off. Some find it useful while others turn it into worry.</p>
+<p>A sibling's death also rearranges the family. The gatherings can simply stop. And because siblings often die within a few years of each other in later decades, some people end up as the last of their generation — the only one left who knows the family history firsthand. Those shifts are losses too.</p>
 
 
-<p dir="ltr">The river didn’t solve my problems. It didn’t absolve me of my responsibilities. But for a moment, it let me put the burden down. It held me up for a change. </p>
-<p dir="ltr">Rivers are pretty low stakes, though. They don’t ask anything of us. It’s much harder for most of us to let another person do what the water did—a friend with whom you share how you really feel, a partner who takes the kids so you can rest. Letting ourselves be held by another person asks us to acknowledge something our inner solitary lawman would rather ignore: We were never meant to do this alone. </p>
+<p>Grief doesn't follow a formula, but a few things seem to help. First off, treat it as a major loss because it is one. You'd give someone who lost a parent or spouse room to grieve, so give yourself the same room. You don't have to prove that your grief ranks high enough.</p>
+<p>Look for other people who were there. Cousins, old friends, and former neighbors may remember parts of your childhood. Talking with them can make you feel less alone with the memories.</p>
 
-<p dir="ltr">The river reminded me that it wasn’t all on me. It never could be. And it’s not all on you, either. </p>
+<p>Tell the stories. Write them down, pass them on to your children or grandchildren, or record them. Much of the fear with sibling loss is that the shared history will disappear, and you can hold on to some of it.</p>
+<p>If things were left unresolved between you, consider writing your sibling a letter, even if no one ever reads it. A grief counselor can help if that feels like too much to take on alone.</p>
+
+
+
+  
+
+
+<p>And tell people. Saying "My brother’s death has been very hard on me" is enough. Many people simply don't realize, and will help once they know. Sometimes they will recall a story about your sibling you’ve never heard before.</p>
+<p>Aging well doesn't mean avoiding grief. It means letting ourselves feel the losses that come with the years, including the ones other people tend to miss. When a sibling dies, that grief is worth taking seriously, both by the people around us and by ourselves.</p>
+
+<p><em>"To the outside world we all grow old. But not to brothers and sisters. We know each other as we always were."</em> ~ Clara Ortega</p>
+<p><br> </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/inner-architecture/202609/its-not-all-on-you-the-urge-to-carry-too-much" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/raging-with-grace/202609/i-got-the-alligator-personal-reflections-on-losing-a-sibling" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/inner-architecture/202609/its-not-all-on-you-the-urge-to-carry-too-much</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/inner-architecture/202609/its-not-all-on-you-the-urge-to-carry-too-much</guid>
-            <dc:creator><![CDATA[Jaron Vesely MSW]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/unnamed.jpg?itok=_xGdGuGk" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/raging-with-grace/202609/i-got-the-alligator-personal-reflections-on-losing-a-sibling</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/raging-with-grace/202609/i-got-the-alligator-personal-reflections-on-losing-a-sibling</guid>
+            <dc:creator><![CDATA[Dena Kouremetis]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/c7b02cf8-5bfc-454a-a942-0e0671c471f8.jpeg.jpg?itok=7n-rK57i" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[“I Forgive, But I Don’t Forget”]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-04/cynthia_vejar.png.jpg?itok=QCMffEzH" alt="Cynthia Vejar Ph.D., LPC, LSC/PPS, NCC" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Forgiveness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">“I Forgive, But I Don’t Forget”</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A closer look at the meaning behind the “but.”</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">What are the implications of the familiar saying, “I forgive, but I don’t forget”?</li><li style="margin-bottom:6px;">Forgiveness doesn’t mean erasing the infraction, and remembering doesn’t necessarily mean holding a grudge.</li><li style="margin-bottom:6px;">Trust doesn’t always parallel forgiveness, which doesn’t make the forgiveness any less meaningful.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/shutterstock_1382184872__1_.jpg?itok=Sj9s3uQA" width="320" height="214" data-insert-type="image" title="Dragana Gordic/Shutterstock" alt="Dragana Gordic/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Dragana Gordic/Shutterstock</div>
+</div>
+</div>
+</div>
+<p>We’ve probably all heard—or used—the saying so many times that its implications aren’t even on our radar, although they deserve a closer look. Think about it: “I forgive, but I don’t forget” is decidedly different from saying, “I forgive.” The former has an edge to it, an emotional sharpness. But why?</p>
+
+<p>For starters, what exactly are we adding with “but I don’t forget”? We can safely assume the person isn’t making a literal statement about their ability to remember. Of course they remember, so why the need to say it?</p>
+<p>Part of it sounds like a cautionary tale: I may be forgiving you, but what happened has changed something. There may be consequences if my trust is broken again, and I’ve learned from this experience and intend to remember what I learned.</p>
+
+<p>There is also a layer of vulnerability to the statement. If someone has broken our trust, forgiveness doesn’t necessarily mean that the trust comes right along with it. In fact, the “I don’t forget” part may be less about memory and more about acknowledging that something has changed, perhaps permanently. We may forgive someone and still not trust them in quite the same way again.</p>
+
+<p>Which raises a more interesting question: When we say, “I forgive, but I don’t forget,” are we describing forgiveness, or are we acknowledging just how difficult forgiveness can actually be?</p>
+<p>Why not be more direct and say, “I can try to forgive, but I can’t guarantee that I will”? And does this even matter, or are we splitting hairs over a silly saying?</p>
+
+<p>It matters because communication is about transparency and awareness—not only with other people, but with ourselves. If someone believes forgiveness is an achievable endpoint, something we decide to do and then successfully complete, they may become frustrated when the issue keeps rearing its unforgiving little head: <em>I’ve forgiven this person, right? Why can’t I get over this? What’s the matter with me?</em></p>
+
+<p>Forgiveness itself has been conceptualized as a process (Freedman &amp; Enright, 2020), which makes me wonder whether there’s something to be learned from the way we think about grief. We wouldn’t assume that someone had failed at grieving because a reminder brought the sadness back months later. Why, then, assume we’ve failed at forgiveness when an old hurt resurfaces?</p>
+
+<p>This makes sense, since the alternative—thinking of forgiveness as all-or-nothing—can create a lot of pressure for someone who has presumably already been wronged. Now they’re left navigating the incident itself while also feeling responsible for forgiving it in a timely and complete manner.</p>
+<p>So where does this expectation come from? There are certainly good reasons why forgiveness is held in such high regard. Research has associated interpersonal forgiveness with greater psychological well-being (Bono et al., 2008), not to mention everyday mantras that advise us against letting other people live “rent-free” in our heads while we’re stuck paying the mortgage.</p>
+
+
+<p>Interestingly, though, recent research suggests there may be another side to the story. In a series of three studies, Quinney and colleagues (2026) examined what happened when people offered forgiveness, explicitly refused to forgive, or took no action. Compared with doing nothing, refusing forgiveness was associated with a stronger sense that people were acting in accordance with their own values and, in some cases, a greater sense of power. These experiences, in turn, were linked with feeling better about themselves in the moment.</p>
+
+<p>This isn’t to suggest that refusing to forgive is somehow better. But maybe there’s something to be said for honestly admitting, “I’m not ready to forgive you,” rather than saying we forgive because we think we should. And refusing to forgive isn’t necessarily the same thing as holding a grudge or endlessly stewing over what happened—a distinction the researchers make as well (Quinney et al., 2026). Whether there are longer-term benefits to refusing forgiveness is still unclear.</p>
+
+
+
+  
+
+
+<p>So what can we do when we want to forgive and forget—or heck, we just want to forgive—but find ourselves still paying that monthly mortgage?</p>
+<p><strong>1. Give yourself some time.</strong></p>
+<p>If you’re still bothered by what happened, maybe the better question isn’t, “Why haven’t I forgiven this person yet?” but instead, “Why does this still bother me?” Maybe there’s still some anger, hurt, a lack of trust—and whatever those lingering feelings are, telling yourself that you’ve forgiven someone doesn’t necessarily make them disappear.</p>
+
+<p><strong>2. And give the other person some time, too.</strong></p>
+<p>It’s easy to think that once we’ve apologized—and especially if we’ve apologized sincerely—the other person should meet us somewhere on the other side. But an apology and forgiveness aren’t a transaction. We control the apology, but we can’t control what someone else does with it, or how long it takes them to get there.</p>
+
+<p><strong>3. Maybe remembering isn’t the problem.</strong></p>
+<p>There’s a reason we remember being hurt, and, as clichéd as it may seem, hurtful moments can offer valuable “life lessons.” Maybe we’re a little more careful the next time or notice something we overlooked before; maybe a boundary changes. None of that necessarily means we’re holding a grudge.</p>
+
+<p>And this may be where “forgive but don’t forget” gets things slightly wrong. The remembering doesn’t need the defensive “but,” because forgiving someone and remembering what happened don’t have to be at odds in the first place.</p>
+<p>Which brings us back to our original saying. Maybe “I forgive, but I don’t forget” is trying to fit a complicated psychological process into six little words. “I forgive” does an awful lot of work, while “but I don’t forget” seems to quietly take some of it back.</p>
+
+<p>So maybe it’s time for a new saying: “Remember what was. Forgive at your pace.”</p>
+<p>Perhaps not as catchy, but at least it’s a little more honest.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/meaningful-connections/202609/i-forgive-but-i-dont-forget" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/meaningful-connections/202609/i-forgive-but-i-dont-forget</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/meaningful-connections/202609/i-forgive-but-i-dont-forget</guid>
+            <dc:creator><![CDATA[Cynthia Vejar Ph.D., LPC, LSC/PPS, NCC]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/shutterstock_1382184872__1_.jpg?itok=AUl88ZWF" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 5 Psychological Keys to Freshman Success]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/rob_danzman_0.png.jpg?itok=CF1pUNG-" alt="Rob Danzman" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Education</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The 5 Psychological Keys to Freshman Success</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">With some good support and planning, freshman year doesn't need to be so hard.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Join clubs and attend campus events to build your community and explore new interests.</li><li style="margin-bottom:6px;">Get organized immediately with a planner and seek academic help before you fall behind.</li><li style="margin-bottom:6px;">Connect with professors during office hours and make an effort to network with peers.</li><li style="margin-bottom:6px;">Establish healthy routines for your body and mind, and don't be afraid to take risks.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">If college is unlike any other time in our lives, freshman year is by far the most significant of that college experience. It’s when we leave home, first share space with a stranger, and live completely independently (...except from a financial standpoint, of course). It also is the semester that, for better or worse, sets the tone for the next few years. Get it wrong, and college can feel like a massive missed opportunity. But if you take my suggestions, your freshman year can be amazing and transform your life. </p>
+
+<p dir="ltr">Even though we’re a few weeks into the semester already, there’s still plenty of time to make the most of freshman year:</p>
+<h2>1. Jump In and Get Involved</h2>
+<p dir="ltr">Join clubs and organizations even if you aren’t 100 percent committed. This is a great way to explore interests. Find activities that align with your passions or to discover new ones. Join clubs, student organizations, or sports teams to meet people and build a sense of community. Offer to take on leadership roles in these organizations. It’s a great way to develop your skills, gain experience, and make a positive impact on campus.</p>
+
+<p dir="ltr">Attend campus events even if they seem a little lame. Attend welcome tailgating events, campus fairs, and other social gatherings. These are great opportunities to meet other students and familiarize yourself with the different vibes on campus. I’d also check out academic department activities. Attend guest lectures, workshops, and seminars. These events can broaden your knowledge and help you connect with professors and professionals in your field(s) of interest.</p>
+
+<h2> 2. Prioritize Academics</h2>
+<p dir="ltr">Get and stay organized…<em>immediately.</em> Use a planner. Track your assignments, exams, and other responsibilities in a planner, and add everything from your syllabi to your Google Calendar or iCal. This will help you manage your time effectively and avoid last-minute stress. I’d also set some academic goals for yourself. Whether it’s aiming for that certain GPA, mastering a subject, or improving study habits, having goals can keep you motivated (or at least focused).</p>
+
+<p dir="ltr">Use academic resources and seek help before you need it. Don’t wait until you’re struggling to seek help. Use campus resources like disability services (if you’ve got ADHD, anxiety, or other mental health or medical challenges), tutoring centers, writing labs, and office hours with professors to stay on top of your studies. Forming study groups is a nice way of also meeting other students and makes the class content less intimidating.</p>
+
+<h2>3. Build Strong Relationships</h2>
+<p dir="ltr">Connect with professors by going to office hours even if you aren’t having problems. Take advantage of professors’ office hours to ask questions, discuss course material, or seek advice on your academic path. Building relationships with professors can lead to mentorship and valuable recommendations.</p>
+
+<p dir="ltr">It’s also important to participate in class. It’s not high school anymore; many professors give participation grades. Engage actively in class by asking questions and contributing to discussions. This not only helps you learn but also helps you stand out to your professors.</p>
+<p dir="ltr">Make friends and build a network by spreading out rather than being too selective. Make an effort to meet new people, whether it’s through your dorm, classes, or extracurricular activities. Assume you won’t like everyone and that everyone won’t like you, but that’s the cost of admission. Greek life can be a way to shortcut the friend-making process, but it isn’t the only way to build relationships. Don’t get sucked into thinking you need to join a frat for social survival. </p>
+
+
+<p dir="ltr">Lastly, and this is not about being cool, connect with seniors. Upperclassmen can offer valuable advice about apartments, classes, professors, internships, and study abroad. Don’t hesitate to reach out and learn from their experiences.</p>
+<h2>4. Maintain a Healthy Lifestyle</h2>
+<p dir="ltr">Don’t get fat. Take care of your health. Do this by establishing a routine your first week. Make sure to include regular exercise (five times a week for 30 minutes), a healthy diet (e.g., the Mediterranean diet is a good one to aim for), and adequate sleep (consistency, quality, and duration), all of which are crucial for your overall well-being. Use all those campus resources you pay for. Take advantage of the gym, health center, and wellness programs to stay healthy. </p>
+
+<p dir="ltr">The other big part of health is mental health. Practice self-care, not selfishness and hedonism, but actual care. College can be overwhelming, so take time for yourself and make space for quiet time and recharging your battery. Practice mindfulness, meditation, or any activity that helps you relax and recharge. I’ve been recommending non-sleep deep relaxation for a long time because it works so well at helping reset our neurological state in a very short period of time.</p>
+
+
+
+  
+
+
+<p dir="ltr">You are not an island. Get help. If you’re feeling stressed or anxious, don’t wait. Check out campus counseling services (also referred to as Counseling and Psychological Services or CAPS) or talk to someone you trust. Don’t wait till the end of the semester or until you’re feeling suicidal.</p>
+<h2>5. Explore and Take Big Swings</h2>
+
+<p dir="ltr">This is the absolute best time to try new things. College is the time to try new experiences. Whether it’s taking a class outside your major, studying abroad, or trying a new hobby, don’t be afraid to explore. When, not if, you screw things up, you’ve got plenty of time to recover. I’d even think of it a bit more extreme—embrace challenges. Invite non-fatal risk into your life. Don’t shy away from difficult tasks or situations. Overcoming challenges is a key part of personal growth and development.</p>
+
+<p dir="ltr">This is also a great time to invest a wee bit-o-time into thinking about your career options. Yeah, maybe that seems scary or just too dang far out, but starting now when the stakes are real low makes junior and senior year way easier. Visit the career services office, attend job fairs, and start building your resume with internships or volunteer work. I’d also include the value of exploring majors. If you’re undecided on your major (which is perfectly normal for freshman year), explore different subjects, find what truly interests you, and start thinking about what majors lead to careers that hit the sweet spot of your abilities, your interests, and compensation. </p>
+
+<p dir="ltr">That’s it, folks. </p>
+<p dir="ltr">Your freshman year is the foundation. Spend time being intentional for the rest of your college experience. By getting involved, staying on top of your academics, building relationships, maintaining balance, and exploring new opportunities, you can make the most of this pivotal year. Embrace the journey, and remember that college is not just about academics; it’s about growing as an individual and setting the stage for your future.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/campus-crunch/201907/the-5-psychological-keys-to-freshman-success" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/campus-crunch/201907/the-5-psychological-keys-to-freshman-success</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/campus-crunch/201907/the-5-psychological-keys-to-freshman-success</guid>
+            <dc:creator><![CDATA[Rob Danzman NCC, LCMHC]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-charlotte-may-5966011.jpg?h=97ce6ecd&amp;itok=N1_XVwzG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could a Cholesterol Medication Calm an Inflamed Colon?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/croppedchrisheadshot.png.jpg?itok=5IjdZmMA" alt="Chris Gilbert, M.D., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Health</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Could a Cholesterol Medication Calm an Inflamed Colon?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A surprising effect of a cholesterol-lowering drug on my bowel inflammation.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">When prescribed a new medication, listening to our body matters and could lead to new discoveries.</li><li style="margin-bottom:6px;">Research explores the possible anti-inflammatory effects of statins in bowel disease.</li><li style="margin-bottom:6px;">Studies reveal the role of statins in lowering colorectal cancer risk in patients suffering from IBD.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/chatgpt_image_sep_23__2026_at_12_06_31_am.png.jpg?itok=tbBy61VH" width="320" height="213" data-insert-type="image" alt="Our body is constantly communicating with us." title="AI-Generated / ChatGPT"></div>
+<div class="caption">Our body is constantly communicating with us.</div>
+<div class="insertArea--origin subtext">Source: AI-Generated / ChatGPT</div>
+</div>
+</div>
+</div>
+<p>Our body is constantly communicating with us through discomfort, aches and pains, or pleasurable sensations, among other physical symptoms. Our body can tell us what seems to agree with us and what doesn’t. Learning to pay attention to these signals can sometimes provide valuable clues about our health.</p>
+
+<p>When we introduce a new medication into our bodies, our individual biology may respond in unexpected ways. Sometimes, a medication causes unwanted symptoms. Other times, it may produce a surprising benefit that we weren’t expecting.</p>
+<p>This is what happened to me.</p>
+<h2>20 Years of Living With Colitis</h2>
+<p>For the past 20 years, I had been living with a form of colon inflammation called lymphocytic colitis. I had managed it through dietary changes, avoiding certain foods and beverages, including cantaloupe, pears, coffee, tea, and chocolate. These foods seemed to trigger sudden, incapacitating episodes of diarrhea.</p>
+
+<p>Avoiding chocolate was particularly difficult because I have always loved chocolate.</p>
+<p>During those same 20 years, I had also struggled with high cholesterol. Despite being a physician, I had resisted taking medications to lower my LDL, or “bad” cholesterol. Perhaps this illustrates the familiar observation that physicians don’t always make the best patients.</p>
+
+<p>Eventually, however, I changed my mind.</p>
+<h2>An Unexpected Change</h2>
+<p>About a year ago, I agreed to start taking Pravastatin, a medication belonging to the statin class, to lower my cholesterol.</p>
+<p>I began cautiously taking a low dose every other day and monitoring how I felt. I was particularly concerned about whether the medication might aggravate my colitis. When I saw my body was tolerating it well, I gradually increased the dose to 20 milligrams every evening.</p>
+
+<p>Then something unexpected happened.</p>
+<p>My colitis symptoms dramatically improved. I was able to eat my favorite dark chocolate again without experiencing the abdominal discomfort and diarrhea that had previously followed.</p>
+<p>I was puzzled. Could Pravastatin be responsible for this improvement? I had never heard of statins being used to improve colitis.</p>
+
+<p>To explore the connection, I stopped taking the medication for two weeks and then restarted it. During the time off Pravastatin, my symptoms worsened. After I resumed taking it, my symptoms improved again.</p>
+<p>This repeated pattern made me think that the medication was having a beneficial effect on my bowel inflammation.</p>
+
+<p>Of course, my experience alone could not establish that Pravastatin was responsible for my improvement, but the apparent connection was intriguing enough to prompt me to investigate the medical literature.</p>
+<p>What I found surprised me.</p>
+<h2>What Research Says About Statins and Bowel Inflammation</h2>
+<p>Statins are primarily prescribed to lower cholesterol and reduce cardiovascular risk. However, researchers have also investigated their potential anti-inflammatory and immunomodulatory effects.</p>
+
+<p><strong>1. Studies in animal models of ulcerative colitis</strong></p>
+<p>A systematic review published in 2023 examined 21 preclinical studies investigating statins in animal models of ulcerative colitis. The studies reported reductions in disease activity, inflammatory markers, and oxidative stress. However, the authors also identified important gaps in our understanding of how statins might work in colitis. [1]</p>
+
+<p><strong>2. Research involving people with inflammatory bowel disease (IBD)</strong></p>
+<p>Some clinical and observational studies have reported potentially beneficial associations between statin use and inflammatory bowel disease outcomes. For example, a nationwide Swedish cohort study published in 2025 found that statin use was associated with a lower risk of IBD-related surgery in people with ulcerative colitis and Crohn’s disease. [2]</p>
+
+
+
+  
+
+
+<p>Also, a nationwide Danish prospective study published in 2025 found that statin use was associated with a lower risk of developing IBD in general, ulcerative colitis and Crohn’s disease in particular. [3]</p>
+<p>However, the findings are not uniformly positive. A systematic review and meta-analysis published in 2021 found that the association between statin use and the development of new-onset IBD was not statistically significant overall. [4]</p>
+
+<p>Researchers have also reported conflicting results across experimental and clinical studies. [5] </p>
+<p>Importantly, most of this research concerns IBD, ulcerative colitis or Crohn’s disease, which are distinct from lymphocytic colitis. These findings therefore cannot establish that statins have a beneficial action on lymphocytic colitis.</p>
+
+<h2>What About Statins and Colorectal Cancer?</h2>
+<p>I also came across research investigating a possible association between statin use and decreased colorectal cancer risk in people with inflammatory bowel disease. </p>
+<p>In a large Swedish cohort nationwide, studies show that among patients suffering from IBD, statin users had a lower incidence of colorectal cancer, colorectal cancer-related mortality, and all-cause mortality. The benefit was duration-dependent, with a significantly lower risk after two years of statin use. [6]</p>
+
+<p>In addition, a meta-analysis across seven studies shows a decreased risk of colorectal cancer in patients on statins suffering from IBD. [7]</p>
+<p>In the most recent nationwide cohort (2026), in patients suffering from IBD, statin use was associated with a 65 percent colorectal cancer risk reduction versus non-statin lipid-lowering agents. [8] </p>
+
+<p>According to the authors, these findings identify an association, but they do not prove that statins prevent colorectal cancer. Further research is needed.</p>
+<h2>What Did I Decide?</h2>
+<p>Because my personal experience of improved colitis with a statin is particularly striking, and after reviewing the available research, I decided to continue enjoying eating small pieces of dark chocolate and taking my statin treatment every evening.</p>
+
+<h2>Lesson Learned: Pay Attention to What Your Body Says</h2>
+<p>When your doctor prescribes a new medication, pay attention to how you feel afterward. If you develop new symptoms or experience an unexpected change in an existing condition, discuss your findings with your healthcare professional.</p>
+<p>Medicine is both a science and an art, and our bodies can sometimes surprise us. Paying attention to body changes, documenting them, and discussing them with a healthcare provider may help us recognize patterns that deserve further investigation and that could lead to significant scientific discoveries.</p>
+
+<p><em>Copyright 2026 @ Chris Gilbert, M.D., Ph.D.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/heal-the-mind-to-heal-the-body/202609/could-a-cholesterol-medication-calm-an-inflamed-colon" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/heal-the-mind-to-heal-the-body/202609/could-a-cholesterol-medication-calm-an-inflamed-colon</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/heal-the-mind-to-heal-the-body/202609/could-a-cholesterol-medication-calm-an-inflamed-colon</guid>
+            <dc:creator><![CDATA[Chris Gilbert, M.D., Ph.D.]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_23__2026_at_12_06_31_am.png.jpg?itok=jdpLps-d" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Essential Ingredients in Effective Feedback]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-11/ross_blankenship_0.png.jpg?itok=IXhSCMgR" alt="Ross Blankenship Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Coaching</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Three Essential Ingredients in Effective Feedback</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When and how the most effective coaching happens.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Feedback context is as important to consider as content.</li><li style="margin-bottom:6px;">The most effective feedback will take into account the timing, titration, and tone of the message.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img alt="Eran Menashri / Unsplash" height="225" src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2022-10/eran-menashri-zfvih4cx_4c-unsplash_0.jpg?itok=Cg_N7xdh" title="Eran Menashri / Unsplash" width="320"></div>
+<div class="insertArea--origin subtext">Source: Eran Menashri / Unsplash</div>
+</div>
+</div>
+</div>
+<p><a href="https://www.psychologytoday.com/us/blog/leading-fast-and-slow/202111/how-the-most-effective-leaders-give-feedback-0">I’ve written before</a> about how good leaders give effective feedback when the stakes are high. That article articulates a method for structuring feedback to ensure you effectively deliver the content of your message so that it can be heard and so that it can actually help change behavior going forward.</p>
+
+<p>But the content of a message is only part of the message. </p>
+<p>Imagine someone praising you, but doing it while screaming in your face. Or, if you have trouble imagining that, just watch that classic scene in <a href="https://www.youtube.com/watch?v=0Osf__Z4zi4"><em>Forrest Gump</em></a><em>. </em></p>
+<p>The drill sergeant asks what his sole purpose in the Army is, and Gump says, “To do whatever you tell me to, drill sergeant?”</p>
+
+<p>The drill sergeant screams in his face, “G*ddammit, Gump, you must be a g*ddam genius!”</p>
+<p>It’s funny because it’s so atonal. You expect a drill sergeant to be yelling obscenities, but usually about how you’ve failed to understand or accomplish something at the right level. This illustrates a great point for our purposes, though, which is that feedback context dramatically shapes how it is received and how effective it can be. </p>
+
+<p>Context can be as broad and all-encompassing as you care to make it, but here I want you to think about three key elements that help shape any feedback message. They are timing, titration, and tone.</p>
+<h2>Timing</h2>
+<p>Pretty simply, timing means paying attention to <em>when</em> you’re going to deliver feedback. Is it going to be in the morning or the afternoon? At the beginning of the week or the end of the week? Are you going to do it in passing, or schedule time to sit and talk? </p>
+
+<p>All of these are good things to consider, and you might expand even further from this. What else does the person you need to speak with have going on? Can this feedback wait, or does it take priority over other considerations? Are you delivering good news, bad news, or both? Does that shape when you might deliver it, and in what sequence?</p>
+
+<p>There’s some interesting, somewhat counterintuitive, research that can be layered into the timing of feedback. While the “feedback sandwich” of good-bad-good feedback is the old management cliché, <a href="https://www.inc.com/peter-economy/should-you-give-good-news-or-bad-news-first-dan-pink-says-do-this-every-time.html">80 percent of people</a> report preferring to just get bad news first. Typically, if we’re considering giving good news followed by bad news, we’re probably trying to manage our own internal friction and would be best served by exploring that dynamic before getting into the conversation (Blankenship and Sass, 2026).</p>
+
+<h2>Titration</h2>
+<p>Titration is a term that comes to us from medicine and has to do with how we think about dose-response. That is, how much treatment is needed to have the safest, most effective result. There’s that classic <a href="https://www.youtube.com/watch?v=ZbqLF7ZeLC8"><em>Seinfeld</em> bit</a> about our “maximum strength” medicine. As he says, “Give me the maximum strength. Give me the maximum allowable human dosage. Figure out what will kill me, and then back it off a little bit.”</p>
+
+
+<p>Fortunately, feedback is rarely life and death in the same way, but it is important to consider <em>how much</em> is needed to be effective. If your timing is good, a little may go a long way. If you’re delivering early-stage feedback, you might focus on a quick burst of encouraging and/or corrective feedback to help build momentum and maintain high expectations. If you’re delivering mid- or late-stage feedback, you may have to be more deliberate about how much feedback is needed to help correct course.</p>
+
+<p>Not enough feedback won’t be effective. Too much might kill the host. How much is right depends on when you deliver it and how you deliver it, which brings us to our final ingredient.</p>
+<h2>Tone</h2>
+<p>It is interesting to observe the feedback dynamics that exist on a team or in an organization. The typical pattern is that early feedback is withheld (both positive and corrective) because it seems unnecessary early on, or it can simply be uncomfortable. </p>
+
+
+
+  
+
+
+<p>That discomfort has a tendency to morph over time as the need for feedback grows and changes. As an executive coach, it is not uncommon to receive requests for coaching from people who have begun alienating their colleagues with their behavior but have never been told they're having that effect. </p>
+<p>The effect of tone in feedback tends to be a rather direct representation of the emotion that is involved. If you’re angry and don’t manage your anger, you may yell and cause the other person to shut down. If you’re delivering challenging feedback in too passive a way, the import of the message may be missed. Consider that <em>how</em> you deliver feedback will have as much of an effect as how much and when, and then prepare yourself appropriately.</p>
+
+<h2>The Three Essential Ingredients of Effective Feedback</h2>
+<p>Each of these elements of feedback has its own impact worth considering, and when you pull them all together, it can be a useful way of parsing through the dynamics that may be at play in a feedback conversation. And it can also feel overwhelming! A general message to take with you is to take time to consider the content of your feedback as well as the context, and then don’t shy away from the hard conversation—they always seem to have a way of getting harder over time.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/leading-fast-and-slow/202210/three-essential-ingredients-in-effective-feedback" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/leading-fast-and-slow/202210/three-essential-ingredients-in-effective-feedback</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/leading-fast-and-slow/202210/three-essential-ingredients-in-effective-feedback</guid>
+            <dc:creator><![CDATA[Ross Blankenship Ph.D.]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_teaser_image/2022-10/eran-menashri-zfvih4cx_4c-unsplash.jpg?itok=B14qsnWj" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Relationship Lessons People Wish They'd Known Sooner]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/gary_new_headshot_halocreative-removebg-preview1.jpg?itok=7PTJHjMW" alt="Gary W. Lewandowski Jr. Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Relationship Lessons People Wish They'd Known Sooner</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Many relationship regrets trace back to a handful of patterns you can spot early</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Unwanted breakups activate brain regions that process physical pain, so avoiding the wrong partner matters.</li><li style="margin-bottom:6px;">Across 11,000+ couples, feelings about the relationship predicted its quality better than personal traits.</li><li style="margin-bottom:6px;">People who fear being single tend to stay in unsatisfying relationships and choose partners less carefully.</li><li style="margin-bottom:6px;">Mutual attraction can stall when each person reads the other's hesitation as disinterest instead of fear.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/romantic-couple-coffee.jpg?itok=D019cOhk" width="320" height="220" data-insert-type="image" alt="Showing interest early beats waiting for the other person to go first." title="fxquadro/magnific"></div>
+<div class="caption">Showing interest early beats waiting for the other person to go first.</div>
+<div class="insertArea--origin subtext">Source: fxquadro/magnific</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em>“I wish I knew all of this sooner.”</em></p>
+<p dir="ltr">I hear this from clients all the time. They also ask, <em>“Where were you in my 20s?”</em></p>
+<p dir="ltr">The right information about relationships can save you a lot of heartache. Breakups hurt, and not just metaphorically. When people look at a photo of an ex who broke up with them, the brain regions that process physical pain light up (Kross et al., 2011).</p>
+
+<p dir="ltr">Yet, we often leave our relationship outcomes completely to chance (or fate, if you’re feeling romantic). That lets us fall into patterns that run our love life for years.</p>
+<h2>What Everyone Wishes They Knew Sooner</h2>
+<p>Drawing on 25+ years as a relationship scientist, college professor, and author, here are my top 10 strategies for forming healthy connections. Consider these a head start or a way to quickly catch up.</p>
+
+<p dir="ltr"><strong>1. Be the Right Person</strong></p>
+<p dir="ltr">Don’t look to relationships to fix problems or fill in what’s missing from your life (that’s your job). When you feel lost or broken, you attract partners who like incomplete or adrift partners.</p>
+<p dir="ltr">Instead, focus on your relationship with yourself first. When you are the right person, it’s easier to find the right person. You want to desire a relationship without feeling like you need it to be complete.</p>
+
+<p dir="ltr"><strong>2. Embrace Your “Quirkiness Advantage”</strong></p>
+<p dir="ltr">Be yourself authentically and unapologetically. The best relationships are with people you feel comfortable enough around to be your true self. You’re not going to be compatible with everyone. That’s OK. It only takes one.</p>
+<p dir="ltr"><strong>3. No Trait Checklists</strong></p>
+<p dir="ltr">It’s tempting to shop for a partner with a desired list of traits. But when researchers pooled data from over 11,000 couples, the strongest predictors of relationship quality weren’t individual traits. They were about the relationship itself (perceived partner commitment, appreciation, sexual satisfaction) (Joel et al., 2020).</p>
+
+<p dir="ltr">Who someone is today is less important than who they’re going to become over the next five or 50 years. Look for someone flexible, intellectually curious, growth-oriented, and good at communicating.</p>
+<p dir="ltr"><strong>4. No “Starter Partners”</strong></p>
+<p dir="ltr">Avoid the “just for now” starter partner who you know isn’t great for you long-term. You don’t want to just “keep things casual,” so stop pretending you do. You want something real. Own it.</p>
+
+<p dir="ltr">People catch feelings, and over time, it only gets harder to leave even the worst relationships. People who fear being single are more likely to stay in unsatisfying relationships and less selective when choosing partners (Spielmann et al., 2013).</p>
+<p dir="ltr">Those “meh” partners also cost you the opportunity to meet the truly great partner you deserve.</p>
+
+<p dir="ltr"><strong>5. No Tagalong Partners</strong></p>
+<p dir="ltr">Don’t drag a relationship you’ve outgrown into a new chapter. An emotional support fallback partner becomes a security blanket. You take fewer social chances and connect less with new people.</p>
+<p dir="ltr">And really, if that relationship were going to work out, it would have by now. Holding onto a relationship out of comfort stifles your growth.</p>
+
+
+<p dir="ltr"><strong>6. Plenty of Fish…</strong></p>
+<p dir="ltr">There are plenty of fish in the sea. But it doesn’t always feel like it.</p>
+<p dir="ltr">Most people don’t fish the whole sea. We fish the pool in front of us: the same people we see at work, the gym, or the store. Switch up your routines, and your dating pool fills up again. Take a class, say “yes” to a social event, or give online dating a try.</p>
+
+<p dir="ltr">Your dating pool isn’t just who is attracted to you. It’s whoever thinks they’re allowed to approach you. Be approachable. Put your phone away, smile, say “hi,” and make conversation.</p>
+<p dir="ltr"><strong>7. Shoot Your Shot</strong></p>
+<p dir="ltr">When you’re interested in someone, show it. If you’re too timid, you limit yourself to partners who are bold and (overly) confident enough to approach you. That can mean over-indexing for potential narcissists and missing out on great partners.</p>
+
+
+
+  
+
+
+<p dir="ltr">Avoid the “downward spiral of disinterest,” where both people like each other but don’t want to be the first to show interest. Researchers call this pluralistic ignorance. People chalk up their own hesitation to fear of rejection but read the other person’s hesitation as a lack of interest (Vorauer &amp; Ratner, 1996). If the other person isn’t interested, it’s their loss.</p>
+
+<p dir="ltr"><strong>8. Dealing With the Trust Dilemma</strong></p>
+<p dir="ltr">Should you start off trusting people and let them prove you wrong, or make them earn it?</p>
+<p dir="ltr">I think the best compromise is to start off trusting people about 70 percent of the way. Most people deserve the benefit of the doubt, but no one has earned 100 percent of your trust from the start.</p>
+
+<p dir="ltr">From there, their actions can push you toward greater trust. But 70 percent is a C-, so if their actions erode your trust, you quickly get into D and F territory.</p>
+<p dir="ltr"><strong>9. Friends First</strong></p>
+<p dir="ltr">Build emotional intimacy before physical intimacy. Your partner should feel like a good friend who can become a best friend.</p>
+
+<p dir="ltr">There’s no magical “right amount of time” to wait, but don’t rush it. It’s easier to ruin a relationship by being physical too fast than by waiting too long. If you lose a partner by not being physical, they weren’t there for the right reasons.</p>
+<p dir="ltr"><strong>10. Own Your Stuff</strong></p>
+<p dir="ltr">Love isn’t something we fall into; it’s something two people grow together.</p>
+
+<p dir="ltr">When relationships experience friction, identify your role. What did you choose? What did you tolerate or overlook? What was left unsaid?</p>
+<p dir="ltr">Every failure is a learning experience. To unlock the lesson, avoid blaming others and accept responsibility for moving forward.</p>
+<h2>Takeaway: Everyone Deserves a Great Relationship</h2>
+
+<p dir="ltr">I say this all the time: Everyone deserves a great relationship. If your relationship isn’t great, you deserve better.</p>
+<p dir="ltr">Rather than looking back, look forward. Ask yourself, <em>“Where will I be in five years if nothing changes?”</em></p>
+<p dir="ltr">The patterns that have been running your love life will keep doing their thing unless you interrupt them. That starts with your very next choice about who gets your time and what you’re willing to tolerate.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-relationships/202609/relationship-lessons-people-wish-theyd-known-sooner" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-psychology-of-relationships/202609/relationship-lessons-people-wish-theyd-known-sooner</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-psychology-of-relationships/202609/relationship-lessons-people-wish-theyd-known-sooner</guid>
+            <dc:creator><![CDATA[Gary W. Lewandowski Jr. Ph.D.]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/romantic-couple-coffee.jpg?itok=gjcP7vsO" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 Ways to Reconnect With Yourself and Others Beyond Screens]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/robyne_hanley-dafoe__3_.png.jpg?itok=II-ZwH1r" alt="Robyne Hanley-Dafoe Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Ways to Reconnect With Yourself and Others Beyond Screens</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Notice what your screens are making space for and what they might be replacing.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Understanding how we use our devices, what they are making space for, and what they are replacing matters.</li><li style="margin-bottom:6px;">Young people need the practice of real-world skills they aren’t getting on a screen.</li><li style="margin-bottom:6px;">Small changes to create healthier digital habits can help us and our children reconnect with what matters.</li>
+            </ul>
+          </div>
+                    <p>I've had many conversations with parents, educators, and caregivers about technology. How much is too much? When should kids have a phone? How do we get them off their devices? Is it too late to change how we use screens in our household? </p>
+<p>We know that screens and technology are part of the ecosystem of our homes and everyday lives, and they aren't going anywhere. I think what so many of us want, for our kids and ourselves, is to be able to use these tools mindfully, show up for the relationships, experiences, and moments that matter, and end the day feeling we did enough. </p>
+
+<p>My first gentle reminder is that screen use is a behaviour, and behaviours can be learned and unlearned. It is not too late. </p>
+<p>I recently had the opportunity to talk with social worker, psychotherapist, and author of the forthcoming book <em>Connection Crash</em>, Jake Ernst, about technology, relationships, and the skills we need to keep practicing in a digital world. Our conversation focused less on how much screen time and more on what we are doing on our screens, what we might be missing when we're on them, and whether our relationships are still intact. This makes it less about shame or getting the perfect balance and more about reconnecting with what we already know helps us feel well and protecting the relationships that matter. </p>
+
+<p>Here are five places we can begin: </p>
+<ol>
+<li><strong>Get curious about your patterns. </strong></li>
+</ol>
+<p>When is the device being reached for? Is it boredom, stress, a need for connection, or an escape from a tough emotion? What is the feeling afterward: energized, depleted, or distracted? Before picking it up, try asking: <em>"Why am I reaching for this right now?" </em>Attaching an intention to each pick-up brings mindfulness into the behaviour. Awareness gives us the chance to choose differently. </p>
+
+<ol start="2">
+<li><strong>Reconnect with your favourite self. </strong></li>
+</ol>
+<p>One of my favourite questions to ask young people is: <em>"Who are you when you are your favourite self?"</em> I have heard such beautiful shares about being involved in their sport, laughing with friends, playing a musical instrument, drawing, playing games with family, being kind to others, spending time outside, creating something. You may not be surprised that mindlessly scrolling or being zoned into their devices rarely comes up. This gives me hope. It is a reminder that the parts of ourselves we love most are often found in moments of connection, creativity, adventure, presence, and play. </p>
+
+<p>When you find yourself automatically reaching for your phone to scroll, try pausing and asking: <em>"What do I need right now?"</em> Then consider what your favourite self might do to satisfy the same need. </p>
+<p>Perhaps you need comfort, and you could journal, listen to music, or cuddle a pet. Maybe you need entertainment, and you could cook something new or play a game. If you're feeling restless, try stepping outside or moving your body. If you're unwinding at the end of the day, perhaps reading, stretching, or reflecting on something you're grateful for would feel good. </p>
+
+<ol start="3">
+<li><strong>Ask: What do I need from my day? </strong></li>
+</ol>
+<p>One of the things I appreciated about my conversation with Jake was his invitation to think less about what we to restrict and more about what we actually need. He suggests that, over the course of a day, we benefit from having something hard, something fun, something for ourselves, and something for others (Perspective Shift, 2026). </p>
+
+<p>Something hard might be having a conversation we've been avoiding, trying something new, or doing something that stretches us. Something fun might be playing a game, laughing with a friend, getting outside, or doing something just because we enjoy it. Something for us could be quiet time, reading, resting, or tending to something we need. Something for others might be checking in on someone, helping out, or sharing a meal. These don't all need to happen without technology, but small moments of challenge, enjoyment, self-care, and connection can help us feel more grounded and set us up well for the next day. </p>
+
+
+<ol start="4">
+<li><strong>Make room for boredom and discomfort. </strong></li>
+</ol>
+<p>So many of the little opportunities we once had for stillness or reflection are now filled with information and stimulation. For children especially, boredom can feel uncomfortable, but it can also be where creativity and imagination emerge. It gives opportunities to figure things out, tolerate a little discomfort, and discover interests without someone else deciding. </p>
+
+<p>This is also part of learning self-regulation. When a child isn't able to tolerate boredom, settle big feelings, or fall asleep without a screen, they may be missing opportunities to practice those skills. The same is true for grown-ups. Not every pause needs to be filled with a podcast, a notification, a video, or a scroll. Sometimes a few unfilled moments are exactly what our brains, hearts, and bodies need. </p>
+
+
+
+  
+
+
+<ol start="5">
+<li><strong>Protect the moments that matter. </strong></li>
+</ol>
+<p>Research and professional guidance around digital use encourage us to think about not only what technology adds, but what it may displace, including movement, sleep, hobbies, and face-to-face connection (Ontario Psychological Association, 2024). Consider choosing a few moments that you want to protect. Perhaps it's the first few minutes of your morning before opening yourself up to the world. Maybe it's mealtimes as a family, the walk with your dog, or the last few minutes before bed. These small pockets give us somewhere to practice putting our attention where we actually want it to be. </p>
+
+<h2>Final Thoughts </h2>
+<p>Technology can connect us, entertain us, help us learn, and make parts of our lives easier. When it starts replacing the experiences, skills, and relationships that serve us well beyond the screen, that may be our cue to pause and reassess. Some families will need firmer guardrails. For others, technology may not be creating as much disruption. There is no one-size-fits-all answer. </p>
+
+<p>My gentle invitation is to notice what your screen use, and your child's, is making space for and what it might be replacing, and where you can, make a little more room for the life and relationships happening beyond them.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/everyday-resilience/202609/5-ways-to-reconnect-with-yourself-and-others-beyond-screens" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/everyday-resilience/202609/5-ways-to-reconnect-with-yourself-and-others-beyond-screens</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/everyday-resilience/202609/5-ways-to-reconnect-with-yourself-and-others-beyond-screens</guid>
+            <dc:creator><![CDATA[Robyne Hanley-Dafoe Ed.D.]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/tiasha-b-gridrvxbyao-unsplash.jpg?h=7c23dbc3&amp;itok=lr3soLiC" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When You Feel Like You Failed IVF]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-10/IMG_3472_Copy_Copy_Copy_Copy-removebg-preview.jpg?itok=K8cNzEFs" alt="Fenella Das Gupta Ph.D., MFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Infertility</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When You Feel Like You Failed IVF</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Fertility treatment can feel like a test, and the outcome isn't a grade.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Fertility treatment can turn medical information into a scorecard for the body.</li><li style="margin-bottom:6px;">When outcomes feel like grades, disappointment can turn to self-blame.</li><li style="margin-bottom:6px;">An IVF outcome is information about a process, not a measure of one's worth or effort.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/shutterstock_2348348001.jpg?itok=F5rHJAj2" width="320" height="210" data-insert-type="image" title="PeopleImages/Shutterstock" alt="PeopleImages/Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: PeopleImages/Shutterstock</div>
+</div>
+</div>
+</div>
+<p>There is a particular phrase that comes up again and again in my work with people going through fertility treatment: <em>“I feel like I failed.”</em></p>
+<p>Sometimes it’s accompanied by, <em>“I should have researched more/tried the UV light for my eggs/done acupuncture.” </em>The list of imaginary crimes is endless and is often related to hindsight bias.</p>
+
+<p>When I hear this, I hear the heaviness of the struggle, and the multitude of ways a person engages in self-blame. And I ask them, <em>"When you say you’ve failed, what was the test?"</em></p>
+<p>It stops people in their tracks for a second because, technically, there was no test. It’s not a test to have a baby or a competition. And yet infertility or a failed transfer can feel remarkably like being handed an exam paper.</p>
+
+<p>There were medical treatments and biology, probabilities and variables. Chromosomes and hormones, age, chance, and countless processes and complexities beyond anyone's conscious control.</p>
+<h2>The Invisible Exam</h2>
+<p>We’ve spent decades learning that certain behaviors lead to certain outcomes: If you work harder, you’ll progress. Follow the instructions and you are likely to get the desired outcome.</p>
+
+<p>These beliefs are useful because they give us a sense of agency in the world. Then infertility arrives and all those rules are broken. “<em>Null and void</em>” was the term I once heard.</p>
+<p>You can take the medications on time. Attend every appointment. Change your diet, stop drinking, exercise, meditate, take supplements, research, choose an excellent clinic, and understand your treatment protocol—and still, you may not get pregnant.</p>
+
+<p>For people who have built their lives around competence, this can be psychologically disorienting, like the rug has been pulled out from under their feet. And since that feeling is overwhelming, our minds often reach for the best explanation they know: <em>I must have done something wrong.</em></p>
+<p>The sense of failure can be deeply personal: <em>This is my fault. I’m disappointing my husband. Perhaps we won’t have the family we want because of me.</em></p>
+
+<h2>When the Body Becomes the Report Card</h2>
+<p>When I first meet with a person, I often get a list of numbers: Follicles. Estradiol levels. AMH. Eggs matured. Eggs retireved. Fertilization rates and number of blastocysts. Embryo grades and Beta hCG levels. The numbers can quickly stop feeling like medical information and start feeling like scores: 12 follicles can feel better than five; three blastocysts can feel better than one; a euploid embryo can feel like an A; a cycle with no transferable embryos can feel like an F.</p>
+
+<p>This type of scoring system can be painful, as the outcome becomes a judgment about the body rather than information about the suitability of the protocol or the process: <em>My ovaries didn’t perform. My eggs aren’t good enough. My body can’t do what other women’s bodies can do.</em></p>
+<p>This is not a performance, and yet once the outcome starts to feel like a grade—good or bad—it tends to create enormous performance anxiety around the next retrieval: <em>I need to do better next time.</em></p>
+
+
+<h2>“But She Got Pregnant”</h2>
+<p>Comparison makes the imaginary examination even more painful. Someone your age gave up trying and became pregnant naturally. Someone at your clinic retrieved 10 eggs. Someone online had a lower AMH and ended up with two euploid embryos. Your cousin got pregnant on her first IVF cycle. These stories become legend, blending fact and imagination into truth. The mind interprets them as evidence of it all being possible. <em>Others can do it, so why can’t I?</em></p>
+
+<p>But reproductive biology doesn’t work like a standardized exam. Two people can do the same things and have completely different outcomes. Intellectually, we understand this., but emotionally, another person’s success can easily become evidence of our own inadequacy. That is why <em>“I’m happy for her”</em> and <em>“Her pregnancy makes me feel terrible about myself”</em> can coexist perfectly well.</p>
+
+
+
+  
+
+
+<h2>When Your Identity Makes It Harder</h2>
+<p>Sometimes infertility collides with an identity we have spent decades constructing. We all carry a <em>reproductive narrative</em>: a picture of how we imagined becoming a parent, what our child might be like, and how we would be connected to them. Fertility treatment asks us to revise that story over and over, often before we have had time to grieve the version we hoped for. And infertility can challenge not only the reproductive story we imagined, but also familiar ways we have come to understand ourselves:</p>
+
+<ul>
+<li>The person who believes effort leads to success encounters something effort cannot guarantee.</li>
+<li>The perfectionist encounters imperfection.</li>
+<li>The planner encounters something that feels like chaos and randomness.</li>
+<li>The person who has always trusted their body experiences it as unreliable.</li>
+</ul>
+<p>Simply knowing saying, <em>“IVF failure isn’t your fault,”</em> while true, often isn’t enough. The deeper work is identifying what you believe the outcome says about you as a person.</p>
+
+<h2>Trash the Test</h2>
+<p>Fertility treatment has outcomes, but an outcome is not the same thing as a failure. An outcome is information. A retrieval yielding one egg is information, an embryo that doesn’t implant is an outcome. A cycle that is canceled is an event. Even a pregnancy loss, painful as it is, is not evidence that you failed. None of these things is a character assessment.</p>
+
+<p>You participated in a process whose outcome you could somewhat influence but never fully control. So perhaps the next time you hear yourself say, <em>“I failed,”</em> stop at the word and ask yourself, <em>Did I show up for something extraordinarily difficult? Did I make the best decisions I could with the information I had at the time? Did I keep going when I was scared?</em></p>
+
+<p>That’s a very different measure of success.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202609/when-you-feel-like-you-failed-ivf" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202609/when-you-feel-like-you-failed-ivf</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-2-pink-lines/202609/when-you-feel-like-you-failed-ivf</guid>
+            <dc:creator><![CDATA[S. Fenella Das Gupta Ph.D., MFT]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/shutterstock_2348348001.jpg?itok=FZg7_9lA" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When "Transparent" Pay Isn't Transparent Enough]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/bctr_web_color_clear_bg_0.jpg?itok=OQGTdzGI" alt="The Bronfenbrenner Center for Translational Research" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Workplace Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When "Transparent" Pay Isn't Transparent Enough</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Research finds that posting broad salary ranges does not narrow gender pay gaps.</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">New research finds women show a stronger preference than men for job postings with narrower salary ranges.</li><li style="margin-bottom:6px;">In addition, women were less likely to assertively negotiate for more pay.</li><li style="margin-bottom:6px;">Adding context erased the gender gap in both application choices and negotiation behavior.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/adobestock_245971022.jpeg.jpg?itok=VbJ5gN8o" width="320" height="213" data-insert-type="image" title="Prostock-studio / AdobeStock" alt="Prostock-studio / AdobeStock"></div>
+<div class="insertArea--origin subtext">Source: Prostock-studio / AdobeStock</div>
+</div>
+</div>
+</div>
+<p>There are laws in 15 states and Washington, D.C., requiring employers to post salary ranges in job listings, and some employers post ranges voluntarily. The idea is simple: if workers can see the salary before applying, they are better positioned to negotiate, which can ultimately help narrow gender and racial pay gaps.</p>
+
+<p><a href="https://www.ilr.cornell.edu/sites/default/files-d8/2026-05/lee-park-chang-2026-payrangetransparency.pdf">A new paper </a>published in the <em>Journal of Applied Psychology</em> suggests that this policy’s good intentions may backfire, depending on the range of the published salary.</p>
+<p>The research combined four separate studies: an analysis of nearly 10 million U.S. job postings, a study of undergraduates entering the job market, a field experiment with applicants responding to a job posting, and a study testing an intervention.</p>
+
+<p>Across all four studies, the same pattern emerged: women strongly preferred job postings with narrower salary ranges compared to men. This preference, in turn, was associated with less assertive negotiation behaviors. Applicants who applied for jobs with narrower ranges were more satisfied with a midpoint offer, and when they did counter, they asked for less money.</p>
+
+<p>“This matters because starting salaries have compounding consequences,” said Alice Lee, associate professor of organizational behavior at Cornell. “Raises, bonuses and future opportunities are often tied to your initial salary, so a lower starting point doesn’t just affect your first paycheck. It ripples through your career.”</p>
+
+<p>Alice J. Lee, Tae-Youn Park, professor at Sungkyunkwan University, and Sungyong Chang, assistant professor of management at Cornell, were co-authors on the paper.</p>
+<p>The explanation comes down to uncertainty. A wide pay range—say, $60,000 to $110,000 for the same role—leaves applicants with less predictability about where their actual offer will land. The research finds that women, on average, tend to be more averse to this kind of financial uncertainty, a well-established finding in economics and psychology, explaining their stronger preference for narrower ranges. And because narrower ranges leave less visible room above a midpoint offer, applicants who choose them tend to negotiate less assertively.</p>
+
+<p>Essentially, the research finds that laws meant to level the playing field may inadvertently contribute to disparities because employers have wide discretion in how broad their posted ranges can be. That variation can shape applicant behavior in gendered ways.</p>
+<p>The fourth study in the paper offers an encouraging conclusion, though. It tested a simple intervention: providing additional context in job postings about the typical starting salary and how final offers are determined. In the study, adding that context was enough to eliminate the gender gap entirely, both in who applied and in how assertively they negotiated once an offer was on the table.</p>
+
+<p>“These laws were designed to promote pay equity, and they can, but how employers implement them matters,” Lee said. “Our findings suggest that reducing the ambiguity around compensation can go a long way toward ensuring these policies achieve their intended goals.”</p>
+<p>The take-home message: Posting a salary range is only the first step toward pay transparency. Employers who want their policies to support pay equity should include context, such as what a typical new hire actually earns and how the final number is decided. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/evidence-based-living/202609/when-transparent-pay-isnt-transparent-enough" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/evidence-based-living/202609/when-transparent-pay-isnt-transparent-enough</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/evidence-based-living/202609/when-transparent-pay-isnt-transparent-enough</guid>
+            <dc:creator><![CDATA[The Bronfenbrenner Center for Translational Research]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/adobestock_245971022.jpeg.jpg?itok=tRDWHWJk" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transpersonal Creativity and the Beatles]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/steve-taylor.png.jpg?itok=bofqmBJK" alt="Steve Taylor Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Creativity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Transpersonal Creativity and the Beatles</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How the Beatles wrote 40 songs in seven weeks</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">On a meditation retreat in India in 1968, the Beatles wrote around 40 new songs in less than two months.</li><li style="margin-bottom:6px;">The most inspired creativity is often transpersonal, in that it comes from beyond the personal conscious mind.</li><li style="margin-bottom:6px;">Meditation can soften the boundaries of the conscious mind, opening us to transpersonal creativity.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/67_beatles_maharishi-mahesh_yogi_002.jpg?itok=Zl_F8pfR" width="320" height="215" data-insert-type="image" alt="The Beatles with the Maharishi Mahesh Yogi in 1967" title="Public Domain / Used With Permission"></div>
+<div class="caption">The Beatles with the Maharishi Mahesh Yogi in 1967</div>
+<div class="insertArea--origin subtext">Source: Public Domain / Used With Permission</div>
+</div>
+</div>
+</div>
+<p>In August 1967, John Lennon, George Harrison, and Paul McCartney sat together in the front row at a lecture by the Maharishi Mahesh Yogi at the London Hilton Hotel (their drummer Ringo Starr couldn’t come due to the birth of his second child). The Beatles felt so enthusiastic about the Indian sage that they canceled the following week’s recording session and immediately decamped to Bangor, Wales, where the Maharishi was holding a 10-day transcendental meditation training course. Tragically, the sudden death of their manager Brian Epstein meant that they couldn’t complete the course. However, the following February—after completing work on the<em> Magical Mystery Tour</em> project—all four Beatles traveled to India for a longer meditation retreat. </p>
+
+<p>Research has found that meditation benefits creativity.<sup>1</sup> It promotes psychological qualities such as openness to experience and cognitive flexibility, both of which are strongly associated with creativity.<sup>2</sup> It also enhances mental clarity and attention, which helps us to express the insights and ideas that we gain. </p>
+
+<p>The Beatles were a remarkable test case of the creative benefits of meditation. Their trip to India was relatively short. Ringo stayed for two weeks, Paul for a month, and John and George for seven weeks. However, in terms of individual songwriting, the meditation retreat was by far the Beatles’ most creative phase. In his recent book <em>The Lyrics</em>, Paul McCartney understatedly refers to the period as “oddly productive.” <sup>3</sup> In fact, the Beatles wrote around 40 songs in India, which formed the bulk of that year’s <em>White Album. </em>Other songs were released years later on solo records, such as George’s “Circles,” Paul’s “Cosmically Conscious,” and John’s “Who Am I?” During his two weeks in India, even Ringo managed to finish his first song, “Don’t Pass Me By,” after tinkering with it for years.</p>
+
+<p>In seven weeks, John Lennon wrote at least 14 songs. These include some of Lennon’s most beautiful and poignant songs, such as “Dear Prudence,” “Julia,” and “Child of Nature.” The latter—in my view, one of the most beautiful songs Lennon ever wrote—was never recorded by the Beatles and was rewritten as “Jealous Guy” for Lennon’s <em>Imagine</em> album in 1971.</p>
+
+<h2>Transpersonal Creativity</h2>
+<p>In my view, the most inspired creativity is not consciously produced. Inspiration flows <em>into</em> the conscious mind from deeper and wider areas of our being. You might say that such creativity is <em>transpersonal</em>, in the sense that it comes from beyond the personal conscious mind. We can try to write songs, symphonies, or poems with conscious intent, but they will never be as powerful as the transpersonal creativity that comes to us involuntarily, when ideas and insights seem to arise spontaneously, as if gifted to us.</p>
+
+<p>Meditation enhances creativity because it softens the boundaries of the conscious mind and allows us access to the transpersonal mind. Meditation does this by quieting our thought-chatter, which normally confines us to the conscious mind. In a good meditation, our minds slow down and settle, like the surface of a lake when wind dies down. As a result, without being sustained by thought, our ego boundaries become softer and more permeable. At the same time, without the agitation and clutter of thought, there is more space for insights and ideas to flourish.</p>
+
+<p>In other words, meditation promotes transpersonal creativity—the creativity that comes through us, not from us. In these moments, we act as a channel for insights and ideas, and our task is simply to express and formulate the material which flows through us. </p>
+<p>It is striking that, after their retreat in India, all the Beatles continue to practice transcendental meditation. In particular, George Harrison remained an avid meditator throughout his life. After his death from cancer in 2001, George’s ashes were scattered in the Ganges and Yamuna rivers in India, accompanied by a reading from the <em>Bhagavad-Gita</em>. (Some of his ashes were scattered in the city of Benares too.) John returned to meditation in the latter years of his life, when he took a long sabbatical from the music business and lived quietly, focusing on raising his son Sean.</p>
+
+<p>Meanwhile, both Paul and Ringo have stated that they still meditate now—which is perhaps why they are both still highly creative, releasing new albums in their 80s.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/out-of-the-darkness/202609/transpersonal-creativity-and-the-beatles" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/out-of-the-darkness/202609/transpersonal-creativity-and-the-beatles</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/out-of-the-darkness/202609/transpersonal-creativity-and-the-beatles</guid>
+            <dc:creator><![CDATA[Steve Taylor Ph.D.]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/67_beatles_maharishi-mahesh_yogi_002.jpg?itok=e5NObsne" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Social Media Use and the Reverse Flynn Effect]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/phil_reed.png.jpg?itok=BhiU99b5" alt="Phil Reed D.Phil." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Social Media Use and the Reverse Flynn Effect</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Has social media contributed to declining global intelligence?</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>In a memorable scene in the film "Aliens," Ripley (Sigourney Weaver’s character) exasperatedly asks a room full of managers, “Did IQs just drop sharply while I’ve been away?” Perhaps in context the question is superfluous, but, in the real world, it is an important one, to which the answer seems to be a qualified "yes," with a fairly strong association with social media use. What remains to be known is whether the effect is direct, and social media is sucking the intelligence out of its users; or indirect, in that something that social media encourages people to do also reduces IQ. The evidence tends to support the second, although the first cannot be discounted. </p>
+
+<p>The "Flynn Effect" refers to the fairly consistent rise in intelligence test scores throughout much of the twentieth century; a rise that averaged around three IQ points per decade, at least across many industrialised nations<sup>1,2</sup>. However, since the 1990s, there have been reports of a slowing, or even reversal, of this trend in several of those developed countries, including Norway, Denmark, Finland, the United Kingdom, and the United States<sup>3-5</sup>. This phenomenon has become known as the "Reverse Flynn Effect." Data from more than 700,000 Norwegian military conscripts have shown that IQ scores increased among those cohorts born up to approximately 1975, but subsequently declined among later cohorts<sup>4</sup>. In the USA, this decline appears to have accelerated from the turn of the century<sup>5</sup>. Reductions in IQ scores are observable within families, with younger brothers often scoring lower than older brothers<sup>4</sup>. This finding suggests that something in the environment, rather than genetic factors, is responsible for the reversal – now, what has become a major aspect of the environment since the millennium?</p>
+
+<p>The emergence of social media has coincided with this reversal of IQ scores. Digital platforms, such as Facebook, Instagram, TikTok, Snapchat, and X, have come to play an increasing role in people’s communication and social lives, and this has led some to examine the relationship between its usage and the Reverse Flynn Effect<sup>6-8</sup>. It is a well-rehearsed argument that correlation does not demonstrate causation, but there are strong theoretical reasons to suggest that social media is more than just a trivial correlate in the weakening of the collective intelligence of the planet. In particular, there are several social media impacts on basic cognitive processes that could well reduce IQ scores.</p>
+
+<p>One pathway that could link social media use to the Reverse Flynn Effect concerns ‘attention fragmentation’. Social media platforms are designed to promote rapid, brief exchanges. Users frequently switch between tasks, notifications, videos, messages, and hyperlinks during a session. Such digital environments may weaken people’s ability to sustain attention and concentrate<sup>7</sup>. In fact, evidence indicates that excessive social media use is associated with poorer attentional control and weaker executive functioning, particularly among adolescents and young adults<sup>6,7</sup>. As many intelligence tests, particularly those assessing fluid reasoning and problem solving, require prolonged cognitive engagement, reductions in sustained attention could negatively affect test performance. </p>
+
+<p>Another potential mechanism involves changes to reading habits associated with social media usage. Throughout much of the twentieth century, intellectual development relied heavily on reading books, newspapers, and other complex texts. In contrast, social media tends to encourage shorter forms of communication, rapid scanning of information, and fragmented information processing<sup>9</sup>. It is possible that reduced engagement with deep reading may limit the development of vocabulary, comprehension, and abstract reasoning<sup>9</sup>. This argument is particularly relevant because evidence from the USA indicates declines in verbal reasoning and vocabulary-related cognitive domains, while some spatial abilities have remained stable or even improved<sup>5</sup>.</p>
+
+<p>"Cognitive offloading" refers to the tendency to rely on external devices or online systems to perform mental tasks that previously depended on memory or reasoning<sup>10</sup>. Digital technologies allow immediate access to information, reducing the need to retain facts or to engage in extended retrieval from memory. While such technologies could theoretically speed things up (although people’s experiences with the social systems now relying on such technology may, anecdotally, be at odds with this suggestion), extensive reliance on external information sources may reduce the exercise of working memory and problem-solving abilities. Analysis of the large American Adolescent Brain Cognitive Development dataset has shown relationships between social media use patterns and reduced cognitive performance; higher levels of social media engagement being associated with poorer outcomes in some areas of memory and cognitive functioning<sup>11</sup>. </p>
+
+<p>It is worth noting that the relationship between social media use and cognitive performance appears to depend on the type and quality of social media engagement<sup>5,6</sup>. Educational or intellectually stimulating online activities may support language development and learning. In contrast, excessive passive consumption, compulsive scrolling, and social media addiction are associated with poorer attention, working memory, and executive functioning<sup>6,7</sup>. Such evidence suggests that the way in which social media is used, rather than the social media itself, is the key thing impacting IQ declines<sup>7</sup>.</p>
+
+<p>A counterargument to the hypothesis that social media is making people less intelligent is that it is not intelligence, per se, that is affected. Rather, the cognitive skills on which IQ tests rest may be used less frequently and, therefore, become less developed. The problem with this view is that it assumes that IQ is different from this set of skills, whereas IQ may well be exactly this set of skills – in other words, there are not the skills and the IQ, the two are the same thing.</p>
+
+<p>Thus, current evidence suggests a plausible and complex relationship between social media use and the Reverse Flynn Effect. Certainly, the reversal of IQ gains appears to be driven by environmental influences, and the rapid growth of social media represents an important environmental transformation over this period. Mechanisms involving attentional fragmentation, reduced deep reading, cognitive offloading, and altered learning practices provide theoretically compelling explanations for an association. While the empirical evidence remains incomplete, and social media may not be the sole cause of declining IQ scores in some nations, it certainly doesn’t look like it has helped much!</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/digital-world-real-world/202609/social-media-use-and-the-reverse-flynn-effect" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/digital-world-real-world/202609/social-media-use-and-the-reverse-flynn-effect</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/digital-world-real-world/202609/social-media-use-and-the-reverse-flynn-effect</guid>
+            <dc:creator><![CDATA[Phil Reed D.Phil.]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/pexels-alvin-ng-1404246-5275171.jpg?h=c7eb1b56&amp;itok=zB_Eenb1" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Is It So Hard to Change What We Do?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/Roemer.jpg?itok=xbSXH1kD" alt="Lizabeth Roemer, Ph.D., and Susan M. Orsillo, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Habit Formation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Is It So Hard to Change What We Do?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">4 tips for making meaningful behavior change</h2><p style="font-size:0.9em;color:#666;">Posted September 25, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">We automatically do (or don’t do) things due to habit, despite our intentions.</li><li style="margin-bottom:6px;">Common beliefs about behavior change can lead to self-critical responses that make it even harder to change.</li><li style="margin-bottom:6px;">Attention to context, repeated practice, kindness to ourselves, and starting small can help.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/20260808_120436_2.jpg?itok=ivHuu2FR" width="320" height="400" data-insert-type="image" title="Josh Bartok / Used with permission" alt="Josh Bartok / Used with permission"></div>
+<div class="insertArea--origin subtext">Source: Josh Bartok / Used with permission</div>
+</div>
+</div>
+</div>
+<p dir="ltr">We all have activities we wish we did more often (or at all), along with things we wish we did less (or never). We may want to exercise more, drink less alcohol, eat healthier, reach out to loved ones more, make more time for our hobbies, read more, or scroll social media less. Or we may want to listen intentionally to others, engage in acts of kindness, or express gratitude more readily. Often we may recall our aspirations around these, briefly commit to making changes—then quickly find ourselves reverting to old habits or inertia. </p>
+
+<p dir="ltr">People, ourselves included, tend to see these failures as a lack of willpower or motivation. If we only tried <em>harder</em>, <em>wanted</em> it more, had more <em>discipline,</em> surely we could make these changes stick! And yet we don’t have more than we have of those things—so we end up feeling frustrated with and critical of ourselves.</p>
+
+<p dir="ltr">And then, of course, our moods worsen, our motivation wanes further, and we find it even harder to make the changes we desire. Rather than continually trying harder and beating ourselves up, we can instead apply principles of behavior change (e.g., Wood, 2024 to effectively reduce problematic habits and increase desired habits.</p>
+
+<h2>Add or remove context clues</h2>
+<p dir="ltr">Our habitual responses are often triggered by specific contexts or cues—and then, once cued, our habit energy takes over, and we proceed automatically, without intention or choice. I, for instance, habitually click on the icon for my work email on my phone. Sometimes I do this with intention: I want to make sure no one needs anything from me quickly, so I click on the icon while I’m waiting for a meeting to start or standing in the elevator. But I have done this so often that I have worn a groove of habitual responding that leads me to click that icon anytime I have my phone in my hand. Over the summer, I removed the icon from my phone, and now I no longer find myself just waking up in the morning, reaching for my phone, and immersed in an email before I’ve even consciously started my day.</p>
+
+<p dir="ltr">If we want to increase a habit, we can replace cues in our environment and connect them to the behavior we want to increase. Replacing unhealthy snacks with healthy ones in the same location will lead us to find the healthy snacks when our habit energy leads us to the cupboard. Posting reminders or images that cue the actions we want to increase, like resonant quotes or pictures that are tied to <a href="https://www.psychologytoday.com/us/blog/mindfully-doing-what-matters/202303/moving-toward-values-based-actions">values-based behaviors</a>, can remind us of our intentions and make it easier for us to practice building up the habit of doing more of what matters to us.</p>
+
+<h2>Keep practicing</h2>
+<p dir="ltr">Changing well-worn habits takes time and patience. Each time we engage in our new desired behavior, we are increasing the new habit strength and weakening the old one.</p>
+<p dir="ltr">Practice, practice, practice—as the saying goes—and as we continue to practice, our new behaviors will gradually feel more natural and automatic and happen more readily. </p>
+
+<h2>Cultivate kindness toward yourself</h2>
+<p dir="ltr">One of the biggest barriers to making change is the self-criticism and disappointment that we easily feel when we fail to make the change we’d hoped for. To begin to shift this, we can follow psychologist Dr. Roxanne Donovan’s advice and give our inner critic a name. And then, when we notice the voice of our inner critic arising, we can acknowledge it (“Thanks for your opinion, Mortimer!”) and then make a point of meeting ourselves with compassion and care, perhaps stroking our own hand and saying inwardly, “You can do it, dear one. One step at a time!” </p>
+
+<p dir="ltr">Remember that habits operate outside our awareness, and changing them is challenging and takes time and patience. Praise and reward yourself for any small change you notice, and bring curiosity to any lapses that occur to see if you can come up with a new strategy for developing or strengthening a new desired habit.</p>
+
+<h2>Start small</h2>
+<p dir="ltr">Often, we make goals and set intentions that are too vaulting in scope and too hard to implement all at once—especially given how automatic and strong so many of our habits are, and how well-worn our mental and behavioral grooves are. Instead, think about one <em>small</em> change, one small part you can realistically <em>attempt</em> to work with, and start there. </p>
+
+
+
+  
+
+
+<p dir="ltr">Any time you interrupt habit energy and do something different, you are strengthening a new behavior and weakening an undesired one. That doesn’t have to take a long time. A quick text to a friend strengthens habits of connection; a five-minute stretch to interrupt the habit of sitting at your desk weakens sedentary habits; 30 minutes of work on a project or task you’ve been avoiding interrupts that well-worn habit of avoidance, opening new possibilities. Choose one or two small habits you want to add to your life, and then try doing them again and again.</p>
+
+<p dir="ltr">And when you falter, remember that faltering is human—and try again.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/mindfully-doing-what-matters/202609/why-is-it-so-hard-to-change-what-we-do" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/mindfully-doing-what-matters/202609/why-is-it-so-hard-to-change-what-we-do</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mindfully-doing-what-matters/202609/why-is-it-so-hard-to-change-what-we-do</guid>
+            <dc:creator><![CDATA[Lizabeth Roemer Ph.D.]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/20260808_120436_2.jpg?h=52ed619d&amp;itok=rDL0ErEY" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
