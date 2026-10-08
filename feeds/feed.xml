@@ -4,138 +4,1054 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 04:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 18:33:45 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 04:53:39 GMT</pubDate>
+        <pubDate>Thu, 08 Oct 2026 18:33:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Marginalized and Misunderstood: The Outer Edges of Columbine]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-02/ninac.jpg?itok=9-frdLqK" alt="Nina E. Cerfolio M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adverse Childhood Experiences</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Marginalized and Misunderstood: The Outer Edges of Columbine</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Unmasking facades and addressing teen trauma early can avert catastrophe.</h2><p style="font-size:0.9em;color:#666;">Posted October 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Do LLMs Really Understand Us?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/max_louwerse.jpg?itok=lWMmYq1s" alt="Max Louwerse Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Do LLMs Really Understand Us?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">LLMs do understand us, at least to some extent.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Critical warning signs were dismissed due to suburban privilege and compliant public facades.</li><li style="margin-bottom:6px;">Media scapegoating silenced innocent students and deepened survivor guilt after the tragedy.</li><li style="margin-bottom:6px;">Journaling and owning her narrative empowered survivor Krista Hanley to heal from long-term trauma.</li><li style="margin-bottom:6px;">Stopping youth violence requires confronting teen despair and providing early psychiatric care.</li>
+              <li style="margin-bottom:6px;">Whether LLMs understand language is a topic of debate.</li><li style="margin-bottom:6px;">It is unfair to argue that they do not because they do not have brains or consciousness.</li><li style="margin-bottom:6px;">When measuring a word's uncertainty, its meaning can be predicted from its sound, frequency and context.</li><li style="margin-bottom:6px;">LLMs perform in very humanlike ways, if language statistics can reveal the meaning of words.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/pic_for_pt_columbine_article.png.jpg?itok=Ifsmm3S5" width="320" height="320" data-insert-type="image" alt="Reclaiming her narrative: Columbine survivor Krista Hanley turns past trauma into empowerment and advocacy." title="Canva / Used with permission"></div>
-<div class="caption">Reclaiming her narrative: Columbine survivor Krista Hanley turns past trauma into empowerment and advocacy.</div>
-<div class="insertArea--origin subtext">Source: Canva / Used with permission</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/screenshot_2026-10-08_180727.png.jpg?itok=AeFrbJQu" width="320" height="197" data-insert-type="image" alt="Lost in translation" title="ChatGPT-6.1 Sol"></div>
+<div class="caption">Lost in translation</div>
+<div class="insertArea--origin subtext">Source: ChatGPT-6.1 Sol</div>
 </div>
 </div>
 </div>
-<p dir="ltr">The 1999 Columbine High School shooting became a generation-defining American tragedy. But for Krista Hanley, who walked into the school that spring morning as an innocent junior student, it was not a national talking point. It was an event she survived.1</p>
-<p dir="ltr">Sitting down with Krista decades later, one is struck not by the shadow of that day, but by the quiet luminescence of her presence. Decades later, Krista radiates warmth and quiet strength, having reclaimed her story free of bitterness.</p>
+<p>The common question these days is whether Large Language Models like ChatGPT/Claude/Grok/DeepSeek/Gemini/Llama/Mistral/Qwen can actually understand language like humans do—whether they can actually <em>think</em> in language.</p>
+<p>Imagine sitting in a room. Through an input box in the wall you receive a question in a language you do not know. In front of you is a Q&amp;A book in that foreign language. You look up the foreign symbols of the question, find the foreign symbols of the answer and through the output box on the other side of the wall you provide the answer in that foreign language unknown to you. The question now is whether you actually understand the foreign language because you managed to find the answer to the question. Clearly not! You were merely translating foreign symbols into other foreign symbols.</p>
 
-<p dir="ltr">Krista states that only when she reached the safety of home and watched the news footage did the shattering truth register: The perpetrators were not nameless “monsters” who had invaded from the outside, but two boys she knew from her circle of friends—Dylan Klebold and Eric Harris.2</p>
-<h2>Coping With Trauma</h2>
+<p>Now imagine an octopus lurking on the bottom of the ocean. Underneath the octopus runs a cable connecting two islands. The cable ensures that the people on the island can communicate. The octopus—a clever little fella—is able to eavesdrop on the information sent through the cable. Over time, the octopus is even able to take patterns it recognizes, combine them, and send them over through the cable—making the islanders wonder whether octopi understand language. But does the octopus understand language being communicated through the cable? Clearly not! It is merely translating random patterns of symbols into other random patterns of symbols.</p>
 
-<p dir="ltr">Like so many who endure catastrophic violence, Krista found herself navigating an internal labyrinth of shock, grief, and survivor’s guilt.3 In the immediate aftermath, society often demands that survivors either disappear quietly back into normal life or immediately step up as neatly packaged symbols of resilience. Neither option leaves space for the raw, jagged reality of trauma. </p>
+<p>If we agree that neither the person in the room doing question-answering with foreign symbols, nor the eavesdropping octopus provided patterns of foreign symbols, actually understand language, then LLMs and AI are faced with a major problem. Because this is what they do: They eavesdrop and translate symbols into other symbols. If they clearly do not <em>understand</em> anything, they can hardly be considered intelligent!</p>
 
-<p dir="ltr">Redemption began when Krista dared to own her narrative. Around 2012, she began unearthing her old high school journal, confronting the fragmented memories she had locked away for so long. Putting pen to paper transformed from an accidental exercise into a life-saving exercise. Writing allowed her brain to organize and process the senseless chaos, separate truth from media myth, and finally process her survivor’s guilt. By confronting the full, complicated reality of Columbine—neither excusing the horrific violence nor sanitizing the deep cultural failures that preceded it— Krista found the strength to rebuild her sense of agency and step out of the shadows.</p>
+<p>There are at least two flies in the ointment of that argument. First, when we judge the language skills of LLMs we quickly jump to (humanlike) conclusions: AI does not have a body, it does not have eyes and ears, it does not even have consciousness or emotions. And therefore, it cannot understand language. Clearly, at one level this is true; AI does not have humanlike (or animal-like) brains, it does not have senses and feelings like we human animals have. At another level—an information processing level—this is irrelevant. At that level the question is whether LLMs use similar processes to those that humans use, regardless of how these processes are implemented in the ‘organism’.</p>
 
-<h2>Media Misrepresentation of the "Trench Coat Mafia"</h2>
-<p dir="ltr">In the frantic media frenzy that followed, a convenient scapegoat was born overnight: the so-called “Trench Coat Mafia.” Headlines mischaracterized Krista’s small group of friends as an organized, sinister cabal that supposedly marched down the hallways exchanging Nazi salutes.4 The reality was far more mundane, yet profoundly heartbreaking. The name itself had originated as a harmless inside joke among a loose gathering of eight to ten marginalized, disenfranchised teenagers. Krista recalls, “We were not an ideological syndicate; we were simply outsiders navigating the brutal social hierarchy of a 1990’s suburban high school.” Like many schools, Columbine's culture centered on athletes and cheerleaders with privileged status. “Those of us who dressed in black dusters, smoked cigarettes, or refused to conform were instantly pushed to the periphery, cast as troublemakers, and subjected to routine bullying,” remembers Krista. The group was Krista and her friends' refuge—a fragile harbor where kids who felt invisible and alienated could find solidarity.</p>
+<p>It is at that level that cognitive science operates, focusing on the information processing more than the actual implementation. The former may be similar despite the latter being very different. At the information-processing level one can make the argument that LLMs do something very similar to what humans do: They extract patterns from language, compare them to other patterns of that language, and assign meaning. If that sounds like the foreign Q&amp;A exercise, or the octopus example, I need to clarify. That’s the second fly in the ointment of the argument that LLMs do not understand language. If language were to consist of entirely arbitrary characters and entirely arbitrary patterns—as the person in the Q&amp;A exercise and the octopus experienced—then I may agree that neither the Q&amp;A person nor the octopus (or an LLM!) can understand. But if language consists of meaningful patterns, even brittle ones, this argument does not hold up.</p>
 
-<p dir="ltr">Within that misunderstood haven, Dylan and Eric were familiar, everyday fixtures. Like so many seventeen-year-old girls, Krista viewed them through the uncomplicated lens of a high school crush. To Krista’s young eyes, Dylan was quiet, tall, and stoic—an intelligent, depressed wallflower whom she would deliberately cross paths with in the hallways just to catch a nod of acknowledgment. Eric was gregarious, fast-talking, and restless, always trying to carve out a presence that never quite seemed comfortable. Krista spent weekends with Dylan, Eric, and friends, dreading life with expectations after graduation. </p>
+<p>In a recent study we measured how much meaning can be extracted from the language system itself: Can the sound of a word, the frequency of a word, and the context of a word provide sufficient information about the valence of the word? Using information theory, a powerful mathematical theory developed by one of the godfathers of AI, Claude Shannon, we managed to measure the amount of meaningful information in language. </p>
 
-<h2>Missed Warning Signs</h2>
-<p dir="ltr">Krista recalls that clear warning signs were missed. According to David Cullen, about a year before the attack, Dylan and Eric were arrested for breaking into a parked van to steal computer gear.4 Despite the serious crime, their suburban privilege secured them a juvenile diversion program over harsher sentencing. Articulate and privileged, they completed community service early with glowing reviews. Society looked away, mistaking a desperate cry for help as harmless mischief.</p>
+<p>Let me explain: Imagine you are that octopus sitting on that cable in the ocean. You hear a word and have absolutely no clue what it means. You are maximally uncertain about the meaning of a word; for instance, whether it has more of a positive or a negative connotation. When measuring how much uncertainty can be removed from the sound of a word, from the frequency with which that word occurs, and how that word acts with other words in its direct context, we can reduce some uncertainty about its meaning—not so much that the octopus would be maximally certain, but certain enough for it to make pretty good guesses about the meaning of a word.</p>
 
+<p>So if the question gets posed whether LLMs understand language, the answer is: <em>No</em>, not to the highest level of certainty. But that answer is the same for humans, who cannot be 100% certain in their own language processing skills. And not to the highest level of uncertainty either—just like humans, who make pretty good guesses about the meaning of words based on the way the sound, frequency and context of those words operate.</p>
 
-<p dir="ltr">Beneath suburban normalcy, Dylan secretly journaled about self-hatred, untreated depression, and suicide, while Eric was prescribed antidepressants for his explosive anger—clear warning signs left unresolved.</p>
-<p dir="ltr">A year earlier, other warning signs surfaced: Their violent essays and home videos targeted the school, the symbol of their perceived abandonment and oppression. They sought to eliminate the school building—both the physical structure and the symbol of their perceived abandonment and oppression. Yet school administrators barely recognized these warning signs before sweeping them under the rug.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202610/do-llms-really-understand-us" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202610/do-llms-really-understand-us</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/keeping-those-words-in-mind/202610/do-llms-really-understand-us</guid>
+            <dc:creator><![CDATA[Max Louwerse Ph.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/screenshot_2026-10-08_175239.png.jpg?itok=BDmZY5nj" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Political Moderates May Not Be Liked by Either Side]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/authors/art_markman.jpg?itok=D-F1hDi7" alt="Art Markman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Politics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Political Moderates May Not Be Liked by Either Side</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Research explores how partisans view moderates in the US.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Political moderates hold views in between those of people who are strongly partisan.</li><li style="margin-bottom:6px;">Partisans often see moderates as being less like them than like the other side.</li><li style="margin-bottom:6px;">This effect is strongest when the issue is one that creates an emotional reaction.</li><li style="margin-bottom:6px;">This effect seems to be driven by partisans looking at whether moderates dislike their political opponents.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/moderate.jpeg.jpg?itok=ho5XHkS1" width="320" height="320" data-insert-type="image" title="Image created with Midjourney 10/7/26" alt="Image created with Midjourney 10/7/26"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Image created with Midjourney 10/7/26</div>
+</div>
+</div>
+</div>
+<p>These days, it feels like the political world has become incredibly polarized. In the United States, for example, people often hold the views associated with one political party and have distaste for the views of the other. Indeed, there seem to be few issues on which supporters of different parties can agree.</p>
 
-<p dir="ltr">Two days before the attack, the contrast between their turmoil and public facade peaked. Both Dylan and Eric attended the school's festive After Prom party. Krista spent hours gaming and talking with them and hugged them goodbye. They were skilled at presenting the compliant faces expected of them by teachers, parents, and friends. Their true objective was total annihilation—detonating massive cafeteria propane bombs, not just a shooting. The school symbolized their rage, repression, and perceived powerlessness. Aiming for catastrophic destruction, their violence exposed the deadly endpoint of untreated depression, resentment, and isolation.</p>
+<p>Of course, not everyone holds extreme views on hot-button political issues. Consider a controversial topic like abortion. Some people staunchly support a woman’s right to choose whether to end a pregnancy, while others vehemently oppose abortions under any circumstances—even to preserve the life of the mother. Yet, there are some people who hold more moderate views. They may support abortion when the mother’s health is in danger or only through the first 8 weeks of a pregnancy and not beyond. </p>
+
+<p>How do strong supporters of a particular political party view these individuals with more moderate views? One possibility is that these moderates are embraced by both sides, because their views are partially consistent with the views of members of each party. In this way, each party might find something to like about these moderates.</p>
+
+<p>Another possibility, though, is that moderates are hated by members of both parties. On this view, people with polarized views focus on the ways that the views of moderates differ from their own, and so they see these individuals as outsiders to their party and not insiders.</p>
+<p>This question was explored in a series of studies by Giulia Maimone and Craig McKenzie published in 2026 in the <a href="https://psycnet.apa.org/record/2027-99633-001"><em>Journal of Experimental Psychology: General</em></a>. </p>
+
+<p>In one study, they used the issue of abortion in the United States as a domain, because it leads to strongly polarized views. They had people who held a strong view (either in support of a woman’s right to choose or in opposition to abortion) rate the views of a people holding a variety of views on the issue. Some of the people had strong views on one side or the other of the abortion issue. Others held a moderate view; for example, being in favor of abortion in the first 8 weeks of a pregnancy, but not afterward. </p>
+
+<p>The people with strong views generally agreed on their ratings of people who also held strong views on one side or the other of the issue. Their ratings diverged significantly when rating moderates. People who were strongly pro-choice rated moderates as being somewhat pro-life, while people who were strongly pro-life rated moderates as being moderately pro-choice. That is, each group viewed moderates as being more like the people they disagree with than the people they agree with. </p>
+
+<p>Other studies in this series (some using other hot-button issues) extended this finding in two ways. First, this tendency by partisans to view moderates as members of the other group was strongest when the issue was one that had a strong moral or threatening dimension to the individual. That is, it had to be an issue that provoked a strong emotional response in the person.</p>
+
+<p>Second, studies found that this tendency for partisans to view moderates as members of the other group was driven by the perception that the moderates did not hate the same people the partisans hated. For example, one study used support for Israel/Palestine as its issue. Participants rated two different kinds of moderates: one described as seeing the point of view of both sides of the issue, and the other described as being opposed to both sides. </p>
+
+<p>In this study, pro-Israel and pro-Palestinian participants rated moderates who agreed with both sides of the issue as being members of the other group. That is, pro-Israel participants saw these moderates as moderately pro-Palestinian, while pro-Palestinian participants saw these moderates as moderately pro-Israel. In contrast, both groups of participants rated the moderates who disliked both sides as equally moderate. This finding suggests that partisans were looking for evidence of a dislike of the opposition to consider someone as compatible with their group.</p>
 
 
 
   
 
 
-<h2>Aftermath: Shame, Guilt, and Silencing Survivors</h2>
-<p dir="ltr">When the dust settled, the tragedy left Krista and others who survived in a secondary prison of shame. Because Krista had escaped physically uninjured, and because she was associated with the teenage group the national media had villainized, she felt stripped of her right to grieve. Society demanded easy villains, creating guilt by association that silenced her entire community. Terrified of blame or exposure, Krista swallowed and buried her trauma. Fearing condemnation, she abandoned her writing dreams. For a decade, unprocessed trauma left her emotionally untethered and fearful.</p>
+<p>These findings are interesting, because they suggest that people who look for the positive in both sides of contentious issues may have a hard time connecting with partisans. That can hamper attempts to find a middle ground on hot-button topics. These findings also suggest why partisans may see news coverage that aims to be balanced as being biased against their views. News reports seek to characterize information in a neutral way. If partisans are looking for information to support their view that the other side is wrong, they will not find it in news reports, which will likely make them see the news outlet as biased against their view. </p>
 
-<h2>Krista Hanley’s Work in Violence Prevention</h2>
-<p dir="ltr">Today, Krista’s perspective is grounded in a deep commitment to meaningful action and violence prevention. Through her writing and work running a business that teaches personal safety and self-defense skills, Krista empowers others to trust their intuition, establish boundaries, and take command of their physical and emotional spaces. True prevention requires looking beyond denial, checklists, and the illusion that privilege shields youth from mental distress. Preventing violence requires unmasking facades and providing early psychiatric care. Overcoming trauma means turning pain into empathy, courage, and action.</p>
-
-<p dir="ltr">In the end, one is left with a haunting question: Could this catastrophe have been averted if we had simply dared to listen, set aside judgment, and truly face the dark, intricate labyrinth of teenage despair before it exploded into unfathomable ruin?</p>
+<p>As the authors point out, though, these studies were using only participants from the United States. We do not know whether similar findings would be obtained among people living in other, less-polarized settings—or even whether similar findings would have been obtained in the United States in other political eras.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/esprit/202610/marginalized-and-misunderstood-the-outer-edges-of-columbine" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/ulterior-motives/202610/political-moderates-may-not-be-liked-by-either-side" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/esprit/202610/marginalized-and-misunderstood-the-outer-edges-of-columbine</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/esprit/202610/marginalized-and-misunderstood-the-outer-edges-of-columbine</guid>
-            <dc:creator><![CDATA[Nina E. Cerfolio M.D.]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pic_for_pt_columbine_article.png.jpg?itok=xJLDD7NB" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/ulterior-motives/202610/political-moderates-may-not-be-liked-by-either-side</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/ulterior-motives/202610/political-moderates-may-not-be-liked-by-either-side</guid>
+            <dc:creator><![CDATA[Art Markman Ph.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/moderate.jpeg.jpg?itok=Kcp_iDpW" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[5 Active Listening Skills to Build Stronger Friendships]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-01/MiaPortrait-removebg-preview.jpg?itok=ox97CNIn" alt="Mia Nosanow MA, LP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Friends</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">5 Active Listening Skills to Build Stronger Friendships</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Learn to listen in ways that make friends feel seen, heard, and valued.</h2><p style="font-size:0.9em;color:#666;">Posted October 7, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Who Are the Second Moms in Your Life?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/rick_miller.png.jpg?itok=6mi-djOs" alt="Rick Miller LICSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Who Are the Second Moms in Your Life?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The advantages of moving beyond biological families and into chosen ones.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Active, distraction-free listening enhances connection.</li><li style="margin-bottom:6px;">Open-ended questions can spark deeper conversations.</li><li style="margin-bottom:6px;">Giving others the time and space to talk builds trust.</li>
+              <li style="margin-bottom:6px;">The mother figures we experience in addition to our biological moms have a special role to play.</li><li style="margin-bottom:6px;">Don't overlook the importance of any "bonus" moms you may have.</li><li style="margin-bottom:6px;">No mother can be everything to her child, and chosen moms can offer enrichment or help heal or fill gaps.</li>
             </ul>
           </div>
-                    <p dir="ltr">Listening just might be the magic key for building friendships. We need those keys more than ever, as loneliness is still <a href="https://healthymindsnetwork.org/wp-content/uploads/2024/09/HMS_national_report_090924.pdf">affecting a majority of college students</a>. </p>
-<p dir="ltr">According to <a href="https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf">Dr. Vivek H. Murthy</a>, “Loneliness and isolation represent profound threats to our health and well-being. But we have the power to respond.”</p>
+                    <p>Even as a self-proclaimed Mama's Boy, I realize that no matter how much love we share with our mothers, we can also share it with others. Your mother isn't perfect; she doesn't have to be the person solely responsible for your well-being. There are often mother figures in your life who can, and do, fill in the gaps. For people who struggle with relationships with their biological mothers, a second mom may be the ideal mom—the one who makes you feel more special, who gives you recognition.</p>
+
+<p>I know about this from my practice. Harry, a gay man, had a conflicted relationship with his mother while growing up; he needed more support from her than she was able to give him. Fortunately, Harry also had an aunt who, while not fulfilling all of a mother's roles in his life, did give him a perspective of his family that helped him understand the nuances that were difficult and troubling for him, and validated his reality as he grew up. He learned to trust his take on things, based on what they shared.</p>
 
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/listeningear.jpeg.jpg?itok=5O-G7Eni" width="320" height="320" data-insert-type="image" title="Mia Nosanow" alt="Mia Nosanow"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/getty-images-6xjoslau8tw-unsplash.jpg?itok=XewGJOXC" width="320" height="213" data-insert-type="image" title="Getty Images/Unsplash" alt="Getty Images/Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Mia Nosanow</div>
+<div class="insertArea--origin subtext">Source: Getty Images/Unsplash</div>
 </div>
 </div>
 </div>
-<p dir="ltr">One of the best ways to respond to loneliness is building the skill of listening to each other. Attentive listening facilitates awareness, understanding, and empathy.</p>
-<h2>1. Check Your Body Language</h2>
-<p>Our body language conveys the quality of our listening. Having an open face and body shows others that you are available. Make eye contact if possible. Turn your body toward the person you are listening to. Notice if your arms are crossed, creating a physical barrier between you and the other person. If it feels authentic, nod and gesture to convey that you are listening. </p>
+<p>I'm the executive director of Gay Sons and Mothers, so I hear a lot of stories like Harry's. I'm also a couples therapist, and I've noticed a thread of commonality between the two. When we have an intimate relationship with another human being, whether it's with a partner or with our mothers, there's a tendency to want that person to be everything, to meet every need or want we may have. That expectation places unfair pressure on the other person and often results in problems.</p>
 
-<h2>2. Put the Phone Away</h2>
-<p dir="ltr">It needs to be said: Phone use gets in the way of authentic listening. If you look down at your phone and send a quick text, you have told the person you are talking to that they do not command your full attention. If you intend to have a deep conversation and listen closely, put your phone on silent and put it away.</p>
+<p>Even when your mother is nurturing, supportive, challenging in the right ways, and loving, she can't do everything, be everything. Enter the "bonus" mom: the adult woman who's present in so many of our lives, who adds her own special encouragement and caring to the mix.</p>
+<p>I often hear stories about mother figures who played special roles in the life of a child or young person. I have a friend whose parents were frequently away from home for long stretches of time. She remembers her nanny with great affection and tenderness. The elderly woman didn't replace my friend's mother, but brought her gifts of presence, love, and caring that she never forgot.</p>
 
-<h2>3. Ask Open-Ended Questions</h2>
-<p dir="ltr">Open-ended questions reflect your own curiosity and intention to learn about the other person. They are invitations for the person to share their thoughts and ideas, to reflect more deeply and broadly. Open-ended questions usually start with how, what, or why. </p>
-<h2>4. Reflect Back What Others Say</h2>
+<p>The importance of these women in our lives was brought home to me recently when I attended the funeral of my own "extra" mother, Jacky. I never knew a time when Jacky wasn't there in my life, taking me to museums, opening a world of culture to me, celebrating family events. As I grew into adulthood, we shared numerous conversations about life, politics, family dynamics, and more as we explored a new relationship of mutual respect, depth, and friendship. Her loss emphasized the importance of the role she played in my life, but I was especially touched when each of her children separately made a point of telling me how much <em>I'd</em> meant to <em>her</em>.</p>
 
-<p dir="ltr">From time to time, restate or clarify what you have heard the other person say. This lets the other person know that they have been heard correctly and prevents you from misunderstanding. Reflecting back is only about confirming your understanding, not giving your opinion or being judgmental. </p>
+<p>And that confirms that the relationship goes two ways. Not only do those of us lucky enough to have a "bonus" mom feel loved and validated, but women—aunts, neighbors, teachers, coaches—who take on this role with someone else's child are enriched by it as well.</p>
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/wait.jpeg.jpg?itok=pR-Yj_C9" width="320" height="320" data-insert-type="image" title="Mia Nosanow" alt="Mia Nosanow"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/dario-valenzuela-pagbejrlida-unsplash.jpg?itok=qewio-mw" width="320" height="213" data-insert-type="image" title="Dario Valenzuela/Unsplash" alt="Dario Valenzuela/Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Mia Nosanow</div>
+<div class="insertArea--origin subtext">Source: Dario Valenzuela/Unsplash</div>
 </div>
 </div>
 </div>
-<h2>5. Remember to WAIT</h2>
-<p dir="ltr">In general, but especially when your intention is to listen deeply, avoid giving advice or expressing your opinion unless the person expressly requests it. A good acronym to remember is WAIT, which stands for “Why am I talking?” We all want to jump in and help solve a situation or connect the situation to our own experience. Those aren’t bad impulses, but be patient and don’t rush in or interrupt the person. Sometimes, the best thing we can do is to allow others to have time and space to express themselves so they can figure out a solution for themselves.</p>
+<p>It doesn't even have to be a single person. In addition to my own mother and Jacky, I had different special experiences with other women. One of them sat with me and talked about making meaning out of life, illnesses, and death. The mother of one of my best friends was an amazing cook and was always giving me special care packages. All of these women were acting naturally like good mothers in many different ways for both their own children and others. </p>
 
-<h2>When to Seek Professional Help</h2>
-<p dir="ltr">If you are struggling to listen to people, for any reason, consider seeking help, whether from a counselor, clergy, or a trusted mentor. Struggling to listen to others could be a symptom of many issues that can be hard to tease apart, such as anxiety, attention-deficit disorder, autism issues, or depression. </p>
+<p>Acceptance between a mother and her child works both ways: For a child to grow up healthy and happy, they need a mother who accepts and nurtures who they are—but mothers need that same acceptance and love. I mentioned this fact earlier in this post and underlined it during my TEDx talk: Too often, even as adults, we think of our mother just in relation to ourselves and don't remember that she is a whole person with her own joys, goals, problems, and issues. And we can honor that by not putting the weight of the world on her, by having other mother figures we can turn to as well.</p>
 
-<p dir="ltr">Listening can be hard. It takes courage to be truly present with someone and want to hear their truth. Yes we want to share about ourselves, but we need to keep it balanced and also learn about the other person. This will help us connect more deeply and fight the loneliness that is so present for many of us.</p>
 
-<p><em>To find a therapist, </em><a href="https://www.psychologytoday.com/us/therapists"><em>visit the Psychology Today Therapy Directory</em></a><em>.</em></p>
+<p>And naturally, the presence of these other women in a child's life becomes even more crucial when, for some reason, the child's biological mother is unable to give the child what they need, be it shelter, love, acceptance, or anything else. There's a definite subset of the gay men I interviewed through Gay Sons and Mothers who, like Harry, experienced trauma in their relationships with their mothers, but said that their "chosen" mothers were extremely influential and made up, in many cases, for the deficits they experienced at home. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/maria-lupan-rbtfazxljda-unsplash.jpg?itok=abqa2NWu" width="320" height="480" data-insert-type="image" title="Maria Lupan/Unsplash" alt="Maria Lupan/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Maria Lupan/Unsplash</div>
+</div>
+</div>
+</div>
+<p>Take a moment now and think about a woman other than your biological mother who became a mother figure to you. Can you identify traits in this woman that impacted you throughout your life, enabling you to feel good, special, seen, successful? She doesn't have to be a relative; she could be a neighbor, a teacher, or an authority figure of some kind—these are the saviors in our lives who enhance our existence and are worthy of our appreciation in large part because their presence in our lives helped mold us into the people we are today.</p>
+
+
+
+  
+
+
+<p>You don't need to feel disloyal to your mom for having needed and enjoyed a "bonus" mom; instead, enjoy the extra love and presence and special, unique gifts they brought into your world.</p>
+<p>And, just maybe, your mom will be thrilled to see the results.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/college-mental-health/202610/5-active-listening-skills-to-build-stronger-friendships" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/unwrapped/202610/who-are-the-second-moms-in-your-life" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/college-mental-health/202610/5-active-listening-skills-to-build-stronger-friendships</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/college-mental-health/202610/5-active-listening-skills-to-build-stronger-friendships</guid>
-            <dc:creator><![CDATA[Mia Nosanow MA, LP]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/listeningear.jpeg.jpg?itok=ecBQCydo" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/unwrapped/202610/who-are-the-second-moms-in-your-life</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unwrapped/202610/who-are-the-second-moms-in-your-life</guid>
+            <dc:creator><![CDATA[Rick Miller LICSW]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/getty-images-kgxizmrpmzq-unsplash.jpg?itok=esZgj-su" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Four Needs of the Grieving]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-05/Steph_PT_Headshot-removebg-preview.jpg?itok=sF1oMVc7" alt="Stephanie Sarazin M.P.P." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Grief</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Four Needs of the Grieving</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How small acts can meet grief's biggest needs.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Grief creates a need to preserve memories and reconstruct our sense of identity.</li><li style="margin-bottom:6px;">Releasing doesn't mean forgetting; it means finding ways to loosen our grip on what causes suffering.</li><li style="margin-bottom:6px;">Grief creates a need for our losses, love, and pain to be acknowledged and tended by witnesses.</li>
+            </ul>
+          </div>
+                    <p>Loss is often complicated, creates change, and demands our adaptability. </p>
+<p>It is in the wake of loss that four fundamental needs tend to surface: We need to remember what or whom we have lost, release the pain we carry, find connection with others or with something greater than ourselves, and have our love, loss, and grief recognized by others. These aren’t just psychological preferences; they’re deeply human responses that have shaped how we grieve for tens of thousands of years. </p>
+
+<p>Meeting these needs won’t erase grief (not that you should want them to), but with attention and care, tending your grief can help ease the ache. And, as you may already know, <a href="https://www.psychologytoday.com/us/blog/soulbroken/202501/new-year-same-grief-how-to-use-rituals-to-really-let-go">loss rituals</a> are my favorite way to do so.</p>
+<h2>Need #1: The Need to Remember</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/pexels-cottonbro-6667305.jpg?itok=viBPSX_Y" width="320" height="213" data-insert-type="image" title="cottonbro studio / Pexels" alt="cottonbro studio / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: cottonbro studio / Pexels</div>
+</div>
+</div>
+</div>
+<p>Today, the idea of drinking from the Lake of Mnemosyne (nem-O-zeen), the Greek Goddess of Memory, isn’t found in funeral planning. Yet more than two thousand years ago, certain Greco-Roman funerary customs instructed the dead to seek out Mnemosyne’s spring. Serving as a metaphor for remembrance after death, the soul was instructed to drink from it to preserve memory—but warned only to do so sparingly. Our grieving ancestors understood that remembering isn’t a state of mind but rather an act that allows us to hold the complex duality of love and grief and ultimately helps us heal. It is also a reminder that memories tether us not only to our past but also to whom or what are no longer present, and to a version of ourselves that no longer exists. </p>
+
+<p>This change can challenge our very sense of identity, forcing us to reestablish our sense of self by reconciling who we were before loss with who we are now. You likely know it’s often a slow and uncomfortable process, and why, though our need to remember has inspired countless rituals, perhaps none are more everlasting than memorial rituals. From the Great Pyramids of Giza (c. 2600 BCE) to online web pages, memorial rituals reflect our need to both remember and be remembered. </p>
+
+<p>However, depending on the circumstances of your loss, a trip down memory lane may prove more harmful than healing. While reminiscing about positive experiences can act as a helpful grief aid, recalling negative experiences or <a href="https://www.psychologytoday.com/us/blog/what-are-the-chances/202308/rumination-worry-and-the-brain">rumination</a> isn’t only unhelpful; it may also exacerbate your distress. So, as you explore your need to <em>remember,</em> don’t forget (pun intended) to drink from Mnemosyne’s spring in healthy moderation.</p>
+
+<h2>Need #2: The Need to Release</h2>
+<p>Much like love, grief is more than an idea in our minds; it is a deeply felt presence in our bodies. But that doesn’t mean we only feel it physically. Grief is a powerful energy impacting our mind, body, and spirit, often without our awareness. Perhaps that is why <a href="https://www.psychologytoday.com/us/blog/soulbroken/202501/new-year-same-grief-how-to-use-rituals-to-really-let-go">releasing</a> rituals exist in countless iterations and, like mantras and other forms of public release, have changed significantly over time. For instance, in the ancient world, women primarily led public, communal rituals of loss and grief, and people recognized grief as an embodied experience that affected the whole person.</p>
+
+<p>Today, I suspect you will find, as I did, that whether you cry, craft, dance, paint, walk, write, or wail, doing so supports our long-held need to <em>release</em>.</p>
+<h2>Need #3: The Need to Reconnect</h2>
+<p>Given our species' social nature, it makes sense that our need to connect heightens during grief, a time when we’re particularly vulnerable. During this time of instability and transition, the need for connection transcends being merely desirable; it becomes vital to our existence. Much like a life preserver buoys a struggling swimmer, acts of connection serve as a lifeline for those drowning in grief, with potentially devastating outcomes in their absence.</p>
+
+<p>However, modern-day practices often fail to meet this need. That’s because although we are more technologically connected than any previous society, we are also more socially disconnected, lacking in-person interaction and becoming increasingly isolated. This means that without communal support practices already in place, a griever’s need for connection may not be met by others as it once was. In this way, the burden falls on the grieving, who may not have the time or resources to seek, much less engage in, commonly connected supports like talk therapy or grief groups. </p>
+
+
+<p>Still, through ritual, individuals can take ownership of their needs and discover different practices that foster connection. For example, exploring nature, mindfulness, meditation, and prayer supports our need to connect by linking us to our grief, ourselves, and our higher power. By inviting others to join us in ritual, we <em>reconnect</em> with one another and to our community.</p>
+
+<h2>Need #4: The Need for Recognition</h2>
+<p>For many, experiencing a significant loss creates an irreversible moment that forever marks the passage of time, delineating life as it was and life as it is. From this ambiguous space comes a griever’s need for recognition. This isn’t a desire to seek attention; it's an <a href="https://www.psychologytoday.com/us/blog/soulbroken/202312/the-original-act-of-grief-support-and-why-we-need-it-today">acknowledgment of your loss,</a> and it is one you might not be aware of. Still, you are likely to become aware of this need once it’s met, because when your loss is acknowledged, so too is your pain, your grief, and your love. While there are numerous examples of rituals that meet the need for recognition, perhaps none are more recognizable than that created by the United Kingdom’s Queen Victoria in the 19th century.</p>
+
+
+
+  
+
+
+<p>If wearing all black is your “go-to” <a href="https://www.psychologytoday.com/us/blog/soulbroken/202309/why-grief-is-ready-for-its-renaissance-era">funeral attire</a>, you’re practicing a ritual started in 1861, when, following the death of her beloved husband, Queen Victoria chose to express her grief by replacing her entire wardrobe with black mourning attire. Without saying a word, black mourning attire recognized the bereaved, communicated the newness of loss, expressed the intensity of grief, conveyed respect for the deceased, and also signaled not to expect social engagement.</p>
+
+<p>Regardless of your loss, or how long you've been hurting, I'm sorry for your pain. Whether it's one of the four needs I've offered, or something entirely different, I invite you to consider what it is your grief needs today. As you do, I hope you'll explore how rituals can help bring intention, create meaning, and help meet your tender, grieving needs. </p>
+
+<p><em>Excerpted, in part, from </em>The Little Book of Loss Rituals<em> by Stephanie Sarazin, with permission of the publisher, Sourcebooks, LLC, © Stephanie Sarazin, 2026</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/soulbroken/202610/the-four-needs-of-the-grieving" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/soulbroken/202610/the-four-needs-of-the-grieving</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/soulbroken/202610/the-four-needs-of-the-grieving</guid>
+            <dc:creator><![CDATA[Stephanie Sarazin M.P.P.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-cottonbro-6667305.jpg?itok=7SoOg1kD" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Examining Loss and Life Five Years Later]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/b_jaffe.jpg?itok=k3zE0DI8" alt="Barbara A Jaffe Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Grief</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Examining Loss and Life Five Years Later</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: I write to process my loss but also to honor my loved one's life.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Grief continues, yet it morphs into the fabric of our lives.</li><li style="margin-bottom:6px;">Every day can honor those we love despite their loss.</li><li style="margin-bottom:6px;">It is important to focus on the gifts our loved ones left us.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/img_0369.jpeg.jpg?itok=99aqydop" width="320" height="240" data-insert-type="image" alt="Marilyn and Barbara (Barbara's favorite picture)" title="bjaffe/blogger"></div>
+<div class="caption">Marilyn and Barbara (Barbara's favorite picture)</div>
+<div class="insertArea--origin subtext">Source: bjaffe/blogger</div>
+</div>
+</div>
+</div>
+<p>Over the course of 10 years in my <em>Psychology Today</em> writing, I have explored various topics within my own life’s journey. One of the most profound topics for my readers and me has been loss, grief, and surviving our souls’ traumas to ultimately embrace joy with gratitude once again.</p>
+<p>After my best friend and sister-in-law Marilyn’s death, I examined such loss in my two <em>Psychology Today</em> posts: “<a href="https://www.psychologytoday.com/us/blog/journey-to-healing/202109/grief-from-darkness-to-light">Grief: From Darkness to Light"</a> and “<a href="https://www.psychologytoday.com/us/blog/journey-to-healing/202110/we-actually-can-survive-incredible-loss">We Actually Can Survive Incredible Loss</a>.” As I explore my personal heartache, I share my daily ritual of saying "Good morning" to Marilyn as my computer wakes to the screen saver. On display is the picture of us both taken during my book signing, which she organized for me (of course!). She beams with pride and amazement that her little sister wrote a book. “That’s my sister,” she would say when someone picked up the book to examine. “She’ll autograph it for you.” </p>
+
+<p>With such a recent loss, I explore how it is even possible to live without her. I want the world to stop, rest on its axis, suspend its movement. How do others laugh, eat, play, when I am frozen in grief? But as the months progress, and I am forced to do the same, I slowly experience a lightness. I hear Marilyn’s quiet, steady voice within as I tell her about my day. “I’m always proud of you, Barbara. Keep going!”</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/img_1159.jpeg.jpg?itok=oE45gdBL" width="320" height="240" data-insert-type="image" alt="In 2018, Marilyn with her grandson Max and granddaughter Sydney" title="bjaffe/blogger"></div>
+<div class="caption">In 2018, Marilyn with her grandson Max and granddaughter Sydney</div>
+<div class="insertArea--origin subtext">Source: bjaffe/blogger</div>
+</div>
+</div>
+</div>
+<p>After I write my article about Marilyn’s loss, a reader reaches out to me. In her own tremendous grief, she finds solace in my writing by substituting Marilyn’s name for the name of her lost love, and in doing so, she begins to heal. She rereads my words daily and finds herself slowly joining life again. </p>
+
+<p>When Marilyn started hospice, she talked to me about her feelings, about dying, about acceptance. While I wanted to deny her words, I listened. She also shared the joy of our friendship, stating, “We are so lucky. I don’t know anyone who has what we have had.” She embraced such gratitude despite such sadness. Not once did she ever say, <em>"</em>Why me?" while the rest of us surely felt that way. And once again, she taught me the hardest lesson of all because I listened.</p>
+
+<p>Today’s writing purposely occurs on the fifth anniversary of Marilyn’s passing, for I needed to write; I had to write to honor Marilyn’s memory and to process my continued loss. I can instantly flash to those dreadfully painful weeks leading up to her death. Instead, I hold on to what I learned from her well-lived years. In my essay, “<a href="https://www.psychologytoday.com/us/blog/journey-healing/202202/my-friend-taught-me-and-i-listened">My Friend Taught Me, and I Listened</a>,” I share one lesson I never wanted to learn from Marilyn but was forced to accept: how to die gracefully. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/img_8871.JPG.jpg?itok=zDA9yc3w" width="320" height="320" data-insert-type="image" alt="Marilyn and her daughter Jill in 2017" title="bjaffe/blogger"></div>
+<div class="caption">Marilyn and her daughter Jill in 2017</div>
+<div class="insertArea--origin subtext">Source: bjaffe/blogger</div>
+</div>
+</div>
+</div>
+<p>I write this entry today for myself. It is the way in which I make sense of the world, my world. When I feel pain, my tears transform into letters and words cathartically laced together. Yet, no words are enough to reflect my loss as well as my rich gains in loving and losing Marilyn. I honor her loss by living my life the way she would have wanted me to—fully! Grief is this way: a mixture of disbelief, sadness, and elements of acceptance, all entwined with a deep love for the gifts from my dear sister and best friend.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/journey-to-healing/202610/examining-loss-and-life-five-years-later" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/journey-to-healing/202610/examining-loss-and-life-five-years-later</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/journey-to-healing/202610/examining-loss-and-life-five-years-later</guid>
+            <dc:creator><![CDATA[Barbara A Jaffe Ed.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-10/img_0369.jpeg.jpg?itok=pb-LnSOR" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Does It Feel Like We Are Living in the Worst of Times?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/gurnekbiopic.png.jpg?itok=Y26I88eY" alt="Gurnek Bains Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Pessimism</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Does It Feel Like We Are Living in the Worst of Times?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The psychology behind our belief that the world is getting worse.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">We systematically underestimate global progress on many objective measures.</li><li style="margin-bottom:6px;">Our brains are biased toward threats, and modern information environments amplify that bias.</li><li style="margin-bottom:6px;">Looking back, we know how previous crises ended, while today’s threats remain unresolved.</li>
+            </ul>
+          </div>
+                    <p>There’s a palpable sense that we’re living through unprecedentedly dangerous and uncertain times, with roughly <a href="https://www.bps.org.uk/research-digest/one-three-americans-believe-end-nigh">a third of Americans today</a> believing the world will end in their lifetime. But is this doomsday thinking grounded in reality? Or are there psychological mechanisms that lead almost every generation to feel they are living through the worst period in history?</p>
+
+<p>Politics feels obnoxiously precarious, young people are facing a mental health crisis, horrific wars dominate the news, and warnings about artificial intelligence (AI) posing an existential threat are increasingly hard to ignore. Some indicators of human progress have genuinely worsened. Yet, by many objective measures, we are still living through one of the safest and most prosperous periods in history.</p>
+
+<p>The question is, Why don’t we seem to feel a sense of progress alongside our tribulations?</p>
+<h2>The Progress Paradox</h2>
+<p>In many cases, our pessimism about the world directly contradicts reality. <a href="https://ourworldindata.org/optimism-and-pessimism">A majority of people surveyed</a><strong> </strong>believed global poverty had increased over recent decades, when in fact it has fallen dramatically. People consistently overestimate rates of violent crime, believe child mortality is higher than it is, and assume the world is becoming steadily more dangerous, even when many long-term trends point in the opposite direction.</p>
+
+<p>The gap between perception and reality is especially striking in developed countries. People in wealthy nations are often among the most pessimistic about global progress, while those who have experienced rapid development within their own lifetimes can be more aware of how much conditions have improved.</p>
+
+<p>We also tend to display an <a href="https://www.nature.com/articles/s41599-021-00913-8">optimism bias </a>about our own lives. We underestimate our chances of divorce, illness, or financial hardship. Yet, when we think about society as a whole, that optimism often disappears. We can believe our own lives will probably work out while the wider world is heading in the wrong direction.</p>
+
+<h2>The Ancient Brain</h2>
+<p>Our ancestors lived in environments where failing to notice a threat could be fatal. Evolution therefore favoured minds that were exquisitely sensitive to danger. Psychologists call this <a href="https://www.psychologytoday.com/us/articles/200306/our-brains-negative-bias">negativity bias</a>: Negative experiences command more attention, are processed more deeply, and are remembered more vividly than positive ones.</p>
+
+<p>This is reinforced by the <a href="https://www.sciencedirect.com/science/article/abs/pii/0010028573900339">availability heuristic</a>, our tendency to judge how likely something is by how easily examples come to mind. In the modern world, those examples no longer come mainly from direct experience, but from a relentless stream of digital information.</p>
+<p>Within a single minute, we may witness war crimes on one side of the world, a natural disaster on another, and a violent crime somewhere we have never visited. Rare but dramatic events become psychologically common, leaving us feeling surrounded by dangers that may, statistically, remain extraordinarily unlikely.</p>
+
+<p>There is an old saying in journalism: “When a dog bites a man, that’s not news. When a man bites a dog, that is.” News naturally favours the unusual and dramatic. Progress, by contrast, is usually gradual, cumulative and quietly absorbed into everyday life. The headline “Eight billion people didn’t die from famine today” would hardly make the cut.</p>
+
+<h2>The Social Spiral</h2>
+<p>These perceptions can become self-reinforcing. Kuran and Sunstein call this an <a href="https://chicagounbound.uchicago.edu/law_and_economics/70/">availability cascade</a>: When a threat is repeatedly discussed, it becomes easier to recall and starts to feel more important than it may actually be. That increased sense of danger then generates even more attention and discussion, reinforcing the cycle.</p>
+
+
+
+  
+
+
+<p>Moreover, pessimism can also carry certain social credibility. Sounding alarmed can signal that you are informed, concerned, and morally engaged, while optimism can risk sounding naive or indifferent.</p>
+<h2>The Moving Goalposts</h2>
+<p>Progress can shift our standards for what we consider a problem. Psychologists call this <a href="https://dtg.sites.fas.harvard.edu/LEVARI2018COMPLETE.pdf">prevalence-induced concept change</a>.</p>
+
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/29954981/">In experiments</a><strong>,</strong> when threatening faces became rarer, people began classifying faces they once perceived harmless as threatening. When unethical behaviour became less common, people broadened their definition of what counted as unethical.</p>
+<p>Our standards are not fixed; they adapt to the world around us. Often, this is a good thing: Moral progress depends partly on becoming sensitive to harms previous generations ignored. However, it means solving problems does not necessarily make us feel that there are fewer problems.</p>
+
+<h2>The Unfinished Present</h2>
+<p>Another reason the present feels uniquely frightening is that we know how the past ended. We know the Cuban Missile Crisis did not lead to nuclear war, that previous pandemics subsided, and that democracies survived periods of extraordinary instability.</p>
+<p>This is <a href="https://pubmed.ncbi.nlm.nih.gov/26168501/">hindsight bias</a>. Once we know the outcome of an event, it becomes difficult to remember how uncertain it felt at the time. Looking back, previous wars, economic crises, and political upheavals seem more resolvable than they did to the people living through them. They experienced history as we experience the present: as an unfinished set of terrifying possibilities.</p>
+
+<p>As the saying often attributed to Mark Twain goes, “I’ve suffered a great many catastrophes in my life. Most of them never happened.” </p>
+<p>Thankfully, many of our deepest fears never materialise.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/a-global-lens/202610/why-does-it-feel-like-we-are-living-in-the-worst-of-times" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/a-global-lens/202610/why-does-it-feel-like-we-are-living-in-the-worst-of-times</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-global-lens/202610/why-does-it-feel-like-we-are-living-in-the-worst-of-times</guid>
+            <dc:creator><![CDATA[Gurnek Bains Ph.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/image.jpeg.jpg?itok=1nn_69nd" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How I Learned to Give ADHD Strategies a Fair Chance]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/caroline_maguire.png.jpg?itok=Ur6fyess" alt="Caroline Maguire M.Ed." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How I Learned to Give ADHD Strategies a Fair Chance</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why “Act as if” can change ADHD self-management.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">ADHD requires personalizing strategies—no universal planner or system fits all brains.</li><li style="margin-bottom:6px;">Approach each new strategy as an experiment, not a magic fix—observe, adjust, and learn.</li><li style="margin-bottom:6px;">Tailored self-experiments build a playbook of what truly works for your unique mind.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/shutterstock_1389384308.jpg?itok=Ocli9XM_" width="320" height="213" data-insert-type="image" title="GaudiLab / Shutterstock" alt="GaudiLab / Shutterstock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: GaudiLab / Shutterstock</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Whenever you are trying to change something in your life, advice for how to do it seems to be everywhere. Well-intentioned people tell you to “Try this method” or “Follow this routine” or “Build this habit,” and honestly, it’s exhausting. </p>
+<p dir="ltr">Strategies from my kind-hearted and well-meaning friends were often followed by motivational speeches with more advice like, “Keep going,” “Don’t give up,” and the worst: “Try harder.” As a neurodivergent person, I have felt baffled for much of my life, trying to do things that seemed easy for other people. Rarely do I ever need to be told to “Try harder,” because my problem isn’t lack of effort. More often than not, the problem is simply that all of their great advice made sense to a brain that functions differently than my own.</p>
+
+<p dir="ltr">Each time this kind of exchange would occur, my tenacious inner skeptic would come alive, and before someone could even finish their sentence, I was already thinking, “Why would this work when nothing else has?”</p>
+<p>Then I learned an idea from Alcoholics Anonymous that changed everything for me. It’s a mindset shift that I often share with clients to help quiet their inner skeptic and soothe the parts of them that are reluctant to hope for a good outcome. It’s simply called <em>“Act as if.”</em></p>
+
+<p dir="ltr">This phrase appears in one of the main books people use in Alcoholics Anonymous, often referred to as “The Big Book.” In it, there is a story in which a sponsor encourages a struggling member to “Act as if” he believed in a positive outcome, even before he was able to see it. It is a deceptively simple idea, but I think it has particular value for neurodivergent people who have spent years trying strategies that did not work for their brains.</p>
+
+<p dir="ltr">For people with attention-deficit/hyperactivity disorder (ADHD), autistic folks, or those who have another neurodivergence, I do not think “Act as if” means pretending your challenges are not real. It does not mean forcing yourself to behave neurotypically, masking who you are, or convincing yourself that the latest productivity system is finally going to fix you.</p>
+
+<p>I think of it this way: “Act as if” this new strategy might work long enough to give it a fair chance.</p>
+<p dir="ltr">When I was 25, I found out I had ADHD. For years before my diagnosis, I spent countless hours trying to become more organized. I took Stephen Covey courses, used a PalmPilot, made task lists, purchased organizers, and even tried time-management systems. At work, I was good at sales and marketing, but organizing myself, triaging what needed my attention, and deciding what to do first were much harder for me. Many of the strategies I tried simply did not stick, and I was frustrated and disappointed.</p>
+
+<p dir="ltr">Without understanding ADHD, it was easy to conclude that the problem was me and something I was failing to do. But the reality was, none of those systems were going to “fix” my problem because they didn’t address how my brain works. Without that, no amount of hacks or tricks would ever work.</p>
+<p dir="ltr">There is no single ADHD strategy that works for everyone. If there were one planner, one app, one morning routine, or one time-management method that worked for every ADHD brain, we would all be using it. </p>
+
+<h2 dir="ltr">Most neurodivergent people have to build their own playbook</h2>
+<p dir="ltr">This means learning about yourself and your brain, gathering strategies from people and sources you trust, and then testing those strategies in your actual life. This is where “Act as if” can be useful. Try asking yourself, “What would happen if I tested this long enough to find out?”</p>
+
+
+<p dir="ltr">Maybe you have used calendars six times and abandoned every one of them. Acting "as if" does not mean telling yourself, “This calendar will finally change my life," but just that "For the next two weeks, I am going to try putting only appointments and deadlines in this calendar, and I am going to check it at breakfast every morning. Then I’ll see what happens.”</p>
+
+<p dir="ltr">That is an experiment.</p>
+<p dir="ltr">Choose one strategy. Decide what you are actually testing. Give it enough time to gather useful information. Then ask yourself: What helped? What created friction? What did I forget to do? What made the strategy easier to repeat? What needs to be adjusted?</p>
+<p dir="ltr">Sometimes the answer will be, “This does not work for me.”</p>
+
+
+
+  
+
+
+<p dir="ltr">That is useful information too.</p>
+<p dir="ltr">Over time, such experiments become your personal playbook. It's not somebody else’s system for how you should function but a collection of tools you have learned actually work for you. </p>
+<p dir="ltr">Sometimes you have to act as if something might be possible long enough to discover that it is.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/friendship-and-connection/202610/how-i-learned-to-give-adhd-strategies-a-fair-chance" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/friendship-and-connection/202610/how-i-learned-to-give-adhd-strategies-a-fair-chance</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/friendship-and-connection/202610/how-i-learned-to-give-adhd-strategies-a-fair-chance</guid>
+            <dc:creator><![CDATA[Caroline Maguire M.Ed.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-10/shutterstock_1389384308.jpg?itok=sn4FP8sY" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shhhhh...Neurodivergence Is Not Your Diagnosis to Make]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/Lisa_Sheinhouse-removebg-preview.jpg?itok=0S-fZ-43" alt="Sheinhouse" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Shhhhh...Neurodivergence Is Not Your Diagnosis to Make</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to "stay in your lane," be supportive, and avoid labeling people's children.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">It's not your job or responsibility to diagnose or label someone else's child.</li><li style="margin-bottom:6px;">There are other ways to help, like providing emotional support and being a steady, non-overwhelming presence.</li><li style="margin-bottom:6px;">Manage your expectations. Even if you offer advice, you can't force someone to accept it.</li>
+            </ul>
+          </div>
+                    <p>We've all been on both sides of it: judging other parents or feeling judged ourselves. Someone observes a child for five minutes and decides they're "definitely on the spectrum" or "obviously ADHD." The person might be a neighbor, acquaintance, or stranger, but they see something they believe requires parental intervention, yet believe that nothing is happening, like a child who's:</p>
+
+<ul>
+<li>Having a tantrum in a public place over something small and insignificant</li>
+<li>Asking too many questions without realizing the social cues to stop</li>
+<li>Grabbing things off the shelf in a store without a care in the world</li>
+</ul>
+<p>Clearly, these badly behaved children have an undiagnosed disability, right? And it makes you wonder, What are the parents thinking? Why aren't they intervening? Do they even know their child? </p>
+
+<p>First, I will acknowledge that you’re likely trying to help. Odds are that your labeling isn’t malicious, and it likely comes from a place of care. With that said, I’ll gently tell you that it’s not your place to diagnose another person's child. Unless you have a clinical degree and have been asked to make a diagnosis, the best thing to do is to stay in your lane. No matter how much you might think you’re being helpful, you cannot force someone to take your advice, especially when it comes to their children. It doesn't even matter if you have a neurodivergent child yourself; it's simply not your place to weigh in. </p>
+
+<p>We can all agree that most parents do a pretty good job at day-to-day responsibilities. The majority are not ignoring problems and issues with their children. So, if you're concerned about a child after one small interaction, don't you think they're also concerned if they live with the child every single day and that perhaps they understand the nuance or have additional context? For example, they may be waiting for testing, a therapy appointment, or a new medication to take effect. </p>
+
+<p>Try to hold off on critiquing other parents when you don't have a clear view of the full picture. </p>
+<p>However, if you see something that genuinely worries you and you think you have a strong enough relationship with the parent—I'm talking about a good friend or family member—there are ways to support that parent without labeling their child or overstepping. </p>
+
+<ul>
+<li><strong>Focus on providing emotional support. </strong>You can validate a parent's feelings and say, "I see your child is overwhelmed." You can remind the parent that we've all been there. Don't make them feel like their child is difficult. Acknowledge their feelings without judgment.</li>
+<li><strong>Respect their parenting choices.</strong> Full stop. Do not push any specific agencies, therapies, diets, etc. Respect that the parent can choose whether to seek help. Parents often experience denial, grief, anxiety, and guilt. It's important to recognize these feelings as normal and not simply "bad parenting."</li>
+<li><strong>Be a steady, non-overwhelming presence.</strong> Ask what would lighten their load, like cooking meals, handling childcare for siblings, or providing rides to appointments. Remember to stay consistent because parents benefit from people who show up reliably during an emotionally heavy period. A supportive friend or family member can reduce overwhelm, validate emotions, and make space for the parent to adjust while accessing resources that fit their child and family.</li>
+<li><strong>Offer concrete and practical assistance.</strong> You can offer to give a parent the name of an organization that may be able to support them. But again, only do this if you're close to them, and/or if they seem open to it. You might say, "Oh, my friend used agency Y when their child had some social issues. Would you like the contact info?" Do not push; offer. Be a support, not a burden. Avoid offering quick fixes and let them set the pace for conversations.</li>
+</ul>
+
+<p>What you can do is offer the advice and support appropriately. You cannot assume someone will take it well or even listen, so be sure to manage your own expectations. Ultimately, no one can force another person or a parent to accept advice or help. I always liken it to losing weight. I may know I should lose 20 pounds. I may want to lose 20 pounds, but until I stop eating cookies, I will not. I have to want to help myself. Mental health support is the same. You cannot force someone to accept help. If a parent doesn't want to obtain a diagnosis for their child, you cannot make them get one. If they don't want the support from an agency or family, you can't make them take it. Stay in your lane; be a good friend or family member—and, if you're a stranger, stay that way.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/retrain-your-brain/202610/shhhhhneurodivergence-is-not-your-diagnosis-to-make" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/retrain-your-brain/202610/shhhhhneurodivergence-is-not-your-diagnosis-to-make</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/retrain-your-brain/202610/shhhhhneurodivergence-is-not-your-diagnosis-to-make</guid>
+            <dc:creator><![CDATA[Lisa Sheinhouse M.A.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/shutterstock_2707617461.jpg?itok=u1ctSfUL" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Tech and the Limits of the Caveat]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/dr._yalda_uhls.jpg?itok=5nwyYBa_" alt="Yalda T. Uhls Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Big Tech and the Limits of the Caveat</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A Personal Perspective: What science can miss when powerful tech companies shape young lives.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Social media research is more nuanced than headlines often suggest; correlation does not prove causation.</li><li style="margin-bottom:6px;">Stories can make institutional behavior and human consequences visible in ways that data often cannot.</li><li style="margin-bottom:6px;">Young people need to be part of the public conversation about technology.</li>
+            </ul>
+          </div>
+                    <p>I knew who Frances Haugen was the moment she blew the whistle on Facebook (now Meta) by leaking tens of thousands of pages of internal documents to a <em>Wall Street Journal</em> reporter. I’m a former movie executive turned developmental psychologist who studies media and teens. The documents she released revealed that Instagram’s own researchers knew that teenage girls felt the platform was harming their body image. That research was highly relevant to my field, so like a well-trained scientist, I went straight to the <a href="https://about.fb.com/wp-content/uploads/2021/09/Instagram-Teen-Annotated-Research-Deck-1.pdf">underlying materials,</a> which had been presented to Facebook executives in the form of a slide deck. After reading it, I felt convinced that the conclusions being drawn went far beyond what the data could establish. </p>
+
+<p>Importantly, I had no illusions that Facebook prioritized young people’s well-being in their product design. Yet I also was certain I understood the situation: Haugen thought she was doing the right thing based on a faulty understanding of the research. I was frustrated that the press used her revelation to create a fear-based narrative about Big Tech and its impact on the adolescent mental health crisis. </p>
+
+<p>Then I watched <em>The Social Reckoning</em>.</p>
+<p>Here are the numbers the movie emphasized:</p>
+<ul>
+<li>Nine hours and 22 minutes: the average time a Facebook “super user” spent on the platform each day. </li>
+<li>Sixty-four percent: the share of people who joined extremist groups on Facebook after being sent there by the algorithm.</li>
+<li>One-third: teen girls who had body image issues “caused” by Instagram. </li>
+</ul>
+
+<h2>What the Film Made Visible</h2>
+<p>In my Ph.D. program, I learned to pay attention to facts and not succumb to mass-media panic narratives. At the same time, as a former entertainment executive, I knew that storytellers take creative license, meaning it was likely the numbers in the film were not completely accurate. And yet, while sitting in a dark screening room watching Haugen face some of the most powerful executives in Silicon Valley, I felt the full, visceral weight of institutional betrayal. Observing Zuckerberg and his executive team discuss deliberately optimizing for resharing, fully aware that what gets reshared is disproportionately what makes people angry, brought home the message that no PDF ever could have.</p>
+
+<p>I had my own experiences with Meta and felt their efforts to assure the public that they cared about teens were often performative and rushed. But with my scientist hat on, I also knew the research did not back up the public discourse that social media caused mental health issues in teenagers. When Haugen’s colleague in the film cites the body-image figure as proof that Instagram <em>causes </em>the problem, I flinched. I had been trained to wrap that finding in caveats: correlational, self-reported, a single snapshot. But as an audience member, I felt horrified that nothing changed at Meta even though they seemingly knew so many issues were potentially related to user harm. </p>
+
+<h2>The Question I Had Been Missing</h2>
+<p>What I had missed about this story wasn’t the science. It was the scale of what Haugen was up against. The film shows you the culture of Facebook in a way no congressional testimony or leaked document could: the insularity, the hubris, the “bro culture,” the fundamental belief that growth was the only metric that mattered and everything else, including the evidence mounting in their own internal research, was a problem, aka friction, to be managed. </p>
+
+<p>Watching <em>The Social Reckoning</em>, I finally understood something I hadn’t before. The question was never simply, “Does social media cause harm to teenagers?” The question was whether a corporation led by someone who did not understand child development would prioritize teens over profit. The answer, dramatized in anxiety-provoking tension, was no.</p>
+
+<h2>Why Storytelling Matters</h2>
+<p>Decades of research from media scholars provide evidence that storytelling has an outsized impact on culture. For example, public support for gay marriage grew from 27 percent in the mid-1990s to 60 percent in 2015, significantly influenced by television shows, which normalized LGBTQ+ characters and lives. The alignment of storytellers with LGBTQ+ advocates in the fight for marriage equality shifted hearts and minds, culminating in the Supreme Court’s landmark 2015 ruling in Obergefell v. Hodges and, later, the federal Respect for Marriage Act. </p>
+
+<p>I also know, both professionally and personally, that storytelling does something data rarely does: it moves its audience to care. I spent 15 years in the film business watching stories lower an audience’s defenses and smuggle in meaning. The nonprofit I founded exists because of that power. We bring researchers, teens, and storytellers together so that the stories shaping young people’s lives are informed by developmental science and authentic youth voices. </p>
+
+
+
+  
+
+
+<p>I still believe the science is more nuanced than the headlines suggest. Social media does not affect all young people equally. Underlying vulnerabilities matter. Context matters. Blanket bans on teenagers using platforms are not what research supports, and I’ve said so publicly. The self-reported data in the Instagram slide deck describes what girls perceived, not what the evidence proves caused their pain. </p>
+
+<p>Yet Frances Haugen put her career on the line to tell the truth about what she saw inside one of the most powerful companies in the world, and in doing so, she started a very public conversation that continues even today. When the movie comes out on October 9th, along with a <a href="https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html?smid=nytcore-android-share">fall season of films</a> and TV examining tech power from multiple angles, I have no doubt important conversations will be had by policy experts, tech critics, and adult advocates. </p>
+
+<h2>Young People Belong in This Reckoning</h2>
+<p>And while these conversations are important, they will ultimately be less powerful without the voices of the young people who have been living inside these systems, whose identities, relationships, and futures are most directly shaped by the choices Big Tech has been making. The stories coming out this season have the potential to engage youth in a way data and adult scolding never will. Combined with the rising focus on technology’s unchecked power, evidence of widespread loneliness, and a growing demand for systemic change, we may finally be at a tipping point, as stories like these build cultural infrastructure that makes the dangers of unchecked tech power feel real, personal, and urgent. And once young people see the machinery clearly, they won’t just participate in the conversation; they will demand an accounting.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-power-of-storytelling/202610/big-tech-and-the-limits-of-the-caveat" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-power-of-storytelling/202610/big-tech-and-the-limits-of-the-caveat</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-power-of-storytelling/202610/big-tech-and-the-limits-of-the-caveat</guid>
+            <dc:creator><![CDATA[Yalda T. Uhls Ph.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-vodafone-x-rankin-everyone-connected-374579797-14599038.jpg?h=d8f858d0&amp;itok=YyDaPWn7" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA['Coming Out' Isn’t Disclosure; It’s Transactional]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-08/frank_spinelli__1_.png.jpg?itok=Pe1tWSvU" alt="Frank Spinelli M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Authenticity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">'Coming Out' Isn’t Disclosure; It’s Transactional</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">For the LGBTQIA, 'coming out' is more than just a date on a calendar.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">For LGBTQIA individuals, "coming out" tends to happen more than once.</li><li style="margin-bottom:6px;">Queer children often mask their true identity to survive.</li><li style="margin-bottom:6px;">"Orchid" children may fare worse in coming out than "dandelion" peers.</li>
+            </ul>
+          </div>
+                    <p>For many in the LGBTQIA community, “coming out” is not a singular event. It can happen again and again. For others, it never happens at all. When it does happen, however, whether it's to family, friends, or colleagues, disclosing your relationship status or who you’re dating can, for the first or umpteenth time, trigger a chain reaction that sets off a trauma response that began when you were very young. </p>
+
+<p>I was born in a household in which love was earned and granted in equal measure. The only son of Italian immigrant parents, I was the prince, the hope, the reason you crossed an ocean and survived a dictator. The expectation was enormous and unspoken. </p>
+<p>I learned early to read the room before it could read me. I practiced that skill for decades. I understood, even without the language yet, who I was and what I was, without being told. Queer children often do. And so I began early and efficiently the work of becoming the version of myself that the household, the neighbors, the church, and my school could recognize and approve of. Not lying exactly. What Kenji Yoshino calls covering—downplaying a part of yourself everyone already suspects is there. </p>
+
+<p>I didn’t do this out of love, but for survival.</p>
+<h2>The Hyperempathic Child </h2>
+<p>A hyperempathic child is often described as being emotionally porous—with a nervous system calibrated for heightened sensitivity, scanning the room constantly for cues of safety or danger. In a nurturing household, this sensitivity fits in. In an unpredictable household, children adopt a protective armor. Armor worn long enough becomes a second skin you forget you’re wearing. It has to be this way because if you allowed that armor to slip for even a second, others might see your authentic self, and that could expose you to ridicule or worse, retaliation.</p>
+
+<p><a href="https://doi.org/10.1017/S0954579405050145">Researchers </a>studying what they call differential susceptibility have found that roughly 15-20 percent of children process emotional and sensory information with unusual depth, sometimes described by the orchid-and-dandelion metaphor. </p>
+<p>W. Thomas Boyce, a professor of pediatrics and psychiatry, described how humans vary in sensitivity in relation to their environment. Dandelion children are resilient and thrive most anywhere. In harsh or unpredictable conditions, orchid children fare worse than their more resilient peers. But in attuned, emotionally responsive environments, they don’t simply do fine. They flourish beyond what dandelion children achieve, because the same sensitivity that made them vulnerable to harm also makes them exceptionally able to absorb and metabolize care. What determines whether it becomes a wound or a gift is the environment it lands in. A child who understands that their attunement is sophisticated threat detection, not fragility, develops a protective relationship with their own sensitivity rather than a shameful one. This is what trauma-informed parenting and education can provide: the deeper floor, not the thicker wall.</p>
+
+<p>That’s the particular burden of a queer orchid child: the same heightened sensitivity that could have been a gift in an attuned household instead gets trained on one specific threat: being seen for who you are. Coming out is the moment that skill gets tested directly, which is why the real question isn’t just whether to come out, but <em>why</em>, and to <em>whom</em>.</p>
+
+<h2>Thinking About Coming Out?</h2>
+<p>If you’re thinking about coming out or if you’re wondering whether you need to come out again due to circumstance, ask yourself these two questions first:</p>
+<p><strong>1. What are you hoping to gain? </strong></p>
+<p>Is it authenticity or validation? Authenticity is healthy. It means you’re comfortable with who you are, and in disclosing your sexual identity, your hope is to bring you closer to this person. Conversely, seeking validation from someone else when you still feel ashamed of your identity is toxic shame telling you you’re broken, or too much, or not enough.</p>
+
+<p><strong>2. How will you feel if the person doesn’t react the way you’re hoping?</strong></p>
+<p>As an exercise, write what you plan on saying, and what you hope they’ll say in response—a script that explains your intentions so they’re not caught off guard. “I want to tell you something I’ve been carrying. I’m not seeking your approval, just support, since you mean so much to me.”</p>
+
+<h2>My 'Coming Out'</h2>
+<p>I didn't come out on National Coming Out Day (October 11). It happened on a rainy night as I drove across the Verrazzano Bridge with my parents. I had trapped them in the car on the way home from Sunday dinner. I was a 28-year-old physician living in Manhattan, still lying to my parents about my sexuality, and I had begun a serious relationship—serious enough that I was about to move in with him. It was time for them to know who their son was about to start his life with. As a late-blooming orchid, I understood that I didn’t need their approval; I needed liberation. </p>
+
+<p>Fortunately, that day, I received both.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/decoding-shame/202609/coming-out-isnt-disclosure-its-transactional" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/decoding-shame/202609/coming-out-isnt-disclosure-its-transactional</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/decoding-shame/202609/coming-out-isnt-disclosure-its-transactional</guid>
+            <dc:creator><![CDATA[Frank Spinelli M.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-pavel-danilyuk-8551976.jpg?itok=rVJEXoI0" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Face Life’s Challenges With Greater Courage]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/dan-roberts-white-bg.png.jpg?itok=tvE0RZc4" alt="Dan Roberts MBACP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Face Life’s Challenges With Greater Courage</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Courage is a crucial resource on the journey to improving your mental health.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Healing from a painful past takes strength, determination, and courage.</li><li style="margin-bottom:6px;">We need courage to face painful thoughts, feelings, and memories.</li><li style="margin-bottom:6px;">Courage is a resource that can be developed, like mindfulness or compassion.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/image_-_courage.jpg?itok=eAyU3CkS" width="320" height="480" data-insert-type="image" title="Benajmin Wedemeyer / Unsplash" alt="Benajmin Wedemeyer / Unsplash"></div>
+<div class="insertArea--origin subtext">Source: Benajmin Wedemeyer / Unsplash</div>
+</div>
+</div>
+</div>
+<p>As you work on healing from a painful past, there is a key resource that is often overlooked: <em>courage</em>. If you have been hurt in relationships, perhaps by an uncaring parent or bullying sibling, it takes courage to make friends, be sociable, and seek romantic relationships. If you have been criticised and shamed for expressing your opinions, it takes courage to keep showing up and speaking out, even in small ways.</p>
+
+<p>If you have experienced severe trauma, it takes courage simply to keep living, which may not be a smooth ride for you but a daily struggle to cope with a frazzled nervous system, constant jolts of anxiety, and a profound sense of danger and threat as you move through the world. With this much trauma in your system, life can be gruelling, so it’s a huge achievement just to keep putting one foot in front of the next.</p>
+
+<p>Whether your trauma was milder or more severe, it takes courage to keep trying to change, heal, and grow. Reading posts like this, having therapy, listening to podcasts, reading self-help books, meditating, and being in community with others. It may not seem courageous to do these things, but it is, because so many people give up when the going gets tough. Not you—and that is a testament to your courage and determination.</p>
+
+<h2>Being a Cycle-Breaker</h2>
+<p>I often say to my clients that they are <em>cycle-breakers</em>, because in most families trauma gets passed down from one generation to the next. This, we now know, is a combination of nature and nurture. It’s nature because trauma can be expressed through epigenetics, meaning some genes are switched on and others off from the moment of conception. <a href="https://www.research.va.gov/currents/1016-3.cfm">Rachel Yehuda’s work</a> with the children of Holocaust survivors has shown that even when these people had no trauma in their lives, some had posttraumatic stress disorder (PTSD)—the genetic inheritance of trauma from their profoundly traumatised parents.</p>
+
+<p>It’s also nurture, because ways of speaking, managing conflict and stress, using substances to numb emotional pain, parenting styles, and much more get handed down from parent to child, often implicitly and unconsciously. It’s that classic thing of swearing you would never act like your parents, but then being horrified when you catch yourself screaming at your kids the way your dad screamed at you.</p>
+
+<p>When my clients have the courage to seek therapy; face up to their painful thoughts, feelings, and memories; and work hard to change, they are cycle-breakers. They refuse to hurt their kids like they were hurt, which is a wonderful thing. They are breaking cycles that may stretch back for decades or even centuries. <em>Enough</em>, they say. <em>This stops with me</em>.</p>
+
+<h2>Feel the Fear and Do It Anyway</h2>
+<p>So how can you build courage in your own heart and mind? One simple strategy is to use an old-school technique of facing your fears in a considered and strategic way. In cognitive behavioral therapy (CBT), this would be called "exposure therapy," where you imagine or, in real life, face the thing you’re most scared of. If you had a spider phobia, this would involve looking at photos, then videos of spiders, building up to having one sit on your arm (yikes!) to see that nothing bad happened. This powerfully disproves your negative beliefs and extinguishes your fear through "habituation."</p>
+
+
+<p>This technique is very powerful and effective, but if you have a trauma history, it can be overwhelming and even counterproductive. I have adapted it to use "compassionate exposure" with my clients, where I get them to do the hard things, but make sure their young, scared parts feel safe first. That’s one reason I developed my <a href="https://insighttimer.com/danrobertstherapy/guided-meditations/helping-your-anxious-inner-child-feel-safe">Helping Your Anxious Inner Child Feel Safe: IFS Meditation</a>, which helps you put your little self somewhere safe before you (big, strong adult you) do the scary thing.</p>
+
+<p>You can also try "graded exposure," where you build up bit by bit. So if you’re scared of heights, try climbing a small ladder first, with lots of deep breathing and reassuring/calming your parts first. Then a higher ladder, first floor of a tall building, second floor, and so on, reassuring your parts all the time—until you are able to look out the window from way up high, feeling a little nervous but also super-proud that you made it there.</p>
+
+
+
+  
+
+
+<p>If you struggle with assertiveness or setting boundaries, Kristin Neff’s fierce self-compassion offers some excellent resources. Her book, <em>Fierce Self-Compassion: How Women Can Harness Kindness to Speak Up, Claim Their Power and Thrive</em>, is a great place to start. Neff explains that, as well as the "yin" of self-compassion (softness, tenderness, kindness), we also need the "yang" (strength, boundary-setting, fierceness when we are threatened or attacked). You might also like my practice based on Neff’s work, <a href="https://insighttimer.com/danrobertstherapy/guided-meditations/fierce-friend-self-compassion-meditation">Fierce Friend: Self-Compassion Meditation</a>, which helps you generate feelings of strength, self-protectiveness, and the ability to say <em>no</em>.</p>
+
+<p>And in all things, be kind to yourself. Life is not a rush or a race. Take your time, get some skilled support if you need it, try baby steps. But the key thing to understand is that courage is a <em>skill</em> that can be learned—like mindfulness, self-compassion, or more basic skills like playing the guitar. And you can learn to be more courageous, just like you learned to read, ride a bike, or tie your shoelaces.</p>
+
+<p>It just takes effortful practice and a little determination, and you will get there, in time.</p>
+<p><em>To find a therapist near you, visit </em><a href="https://www.psychologytoday.com/us/therapists"><em>the Psychology Today Therapy Directory.</em></a></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-calm-self/202609/how-to-face-lifes-challenges-with-greater-courage" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-calm-self/202609/how-to-face-lifes-challenges-with-greater-courage</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-calm-self/202609/how-to-face-lifes-challenges-with-greater-courage</guid>
+            <dc:creator><![CDATA[Dan Roberts MBACP]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-09/image_-_courage.jpg?itok=nANFZaxK" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Mania Empties the Room]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/patrick_william_kelly.png.jpg?itok=newLmW7b" alt="Patrick William Kelly Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Mania</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Mania Empties the Room</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Untreated mania drives families away, and systems push them out.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Untreated mania often targets the people closest to us, exploiting fractures already present in families.</li><li style="margin-bottom:6px;">When clinicians disregard a family's knowledge, the family learns to stop offering it.</li><li style="margin-bottom:6px;">Recognizing one's illness requires a mirror, and mania and the system drive away those who could hold one.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/pexels-modoflai-22133540.jpg?itok=FBsTMPLO" width="320" height="427" data-insert-type="image" title="Nathanael Arias/Pexels" alt="Nathanael Arias/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Nathanael Arias/Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr">In the fall of 2016, my mother found me drunk and crying in the upstairs bedroom of her home. “I want to die,” I confessed. I had turned the bedroom into my hideout when my life descended into the depths of a catastrophic depression. It was then that the mere thought of composing sentences for a job interview sent me scavenging for alcohol and pills. My mother drove me to the emergency department. </p>
+
+<p dir="ltr">Psychiatry could not evaluate me until I was sober, so my mother went home to wait and fell asleep on the couch, where a phone call awoke her at 12:30 the next morning. The doctor explained that I would be discharged, since I had told him I no longer wanted to die and had no desire to harm others. My mother, as she records in her journal, was incredulous: “What makes you so confident he is telling you the truth?” The doctor’s stoic response was that I did “not meet the criteria for admission.” “Then his blood is on you if he commits suicide,” she screamed. Six weeks later, I found myself intubated in the ICU after an even more serious suicide attempt. </p>
+
+<p dir="ltr">Last week I wrote about the <a href="https://www.psychologytoday.com/us/blog/minds-at-war/202609/when-eloquence-prevents-treatment">eloquent refusal</a> that anosognosia, the neurological impairment of self-awareness, can produce, preventing many from accepting their diagnosis and seeking proper treatment. Far too many, like me, are alone when the correct diagnosis arrives. This week, I want to explore the question: <em>Where did they go? </em>The answer indicts both the illness and the shape of the system built to care for it. </p>
+
+<p dir="ltr">For a decade of my untreated bipolar disorder, the manic cruelty of my illness operated by a persistent verbal strategy: find the wound, press, send. The manic mind surveyed the people closest to it, isolated what each of them most feared or loved or grieved, and deployed that knowledge as weapons. <br><br>The cruelty was never random. In countless emails to my mother, whom I blamed for the unraveling of my life, I capitalized her name to demote her: “Be a mother or be a LINDA,” I wrote. I used her deepest wound against her: I turned her estrangement from her own mother into an accusation. In framing my instability as her failure, I was engaging in classic projection, which Elio Frattaroli explains is “an inverted image of the internal.” </p>
+
+<p dir="ltr">From the inside, this behavior felt justified, for mania specializes in cruelty that feels righteous. “Anger is often an easier emotion to feel than sadness,” Mark Wolynn explains in <em>It Didn’t Start with You</em>. Lurking beneath the contempt I showed for others was a profound anguish, a pain I could not process on my own so I redirected it toward those closest to me. The same rhetorical fluency I used to escape hospitalization was turned against the loved ones in my life who urged me to seek help. My manic mind interpreted their pleas as acts of envy or control. </p>
+
+<p dir="ltr">In trying to make sense of my savagery, my mother took some solace in the words of her counselor. He explained that mentally ill people often hurt the ones who have nurtured them the most. A clinical psychologist my mother worked with noted that, for people who carry tremendous shame, the act of blaming others functions as a self-protective mechanism. “It may, in fact, keep them alive,” she said. That’s because turning that critical eye inward in the absence of treatment or support “may be too dangerous.” Though the illness authored the worst of my cruelty, I remain responsible for it. </p>
+
+<p dir="ltr">Manic malice also exploits a family’s existing fractures. My penchant to insult others was not a creation of mania alone. My father bestowed on me the rhetorical dagger as an inheritance, and untreated mania only had to sharpen the blade. For her part, my mother donned an armor that protected her from the pain of years of family estrangement, not to mention the terror of my father’s—once her husband’s—words. After so many mean messages, my brothers retreated into what Murray Bowen calls <em>emotional cutoff</em>, managing the pain by reducing or ending contact. If I inherited an invective script, my family developed defenses to survive the onslaught. <br><br>Hooley and colleagues have found that relatives often attribute a patient's erratic behavior to personal factors rather than to illness. Consider two different reactions to the same set of insulting messages. My brother wrote to our mother about me: “Maybe he does not have a mental problem, Mom. Maybe he is just an asshole.” Her counselor told her “that is one ill person… he is very sick.” Whether relatives read cruelty as character or as sickness can decide whether they stay. And without a clear diagnosis, families are often left to guess on their own. <br><br>Love has a carrying capacity and mania exceeds it. As Hooley's research shows, a family's hostility and criticism predict relapse, so the illness provokes the very hostility that worsens it. In severe anosognosia, an illness that blinds you to itself also, with enough time, leaves you alone in the room. <br><br>The mental health care system, as I have <a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00269-5/fulltext">argued elsewhere,</a> compounds what the illness first set in motion. Time after time, my mother’s collateral history—her witnessing, journals, emails, counseling notes—was ignored by the very system that entrusted her with my safety after every discharge. Even though clinicians are free to listen to the experience of friends and family, they are not always trained or incentivized to do so. No psychiatrist ever called my mother to ask the very simple question: <em>Tell me about Patrick</em>. This exclusion has a snowball effect: each closed door teaches loved ones that clinicians won’t listen to them. <br><br>So by the time I received a proper diagnosis of bipolar I disorder in 2020, I was alone in the room. While I was on the ward, I convened a family meeting to announce my manic brilliance. My brothers came; my mother did not, because days before I had threatened her life. She was not wrong to stay away. But her archive sat untouched, invisible to the psychiatrist. No one had constructed a space where her fear and her knowledge could coexist. <br><br>My mania and the system had conspired to empty that room, and with it any chance that I might begin to appreciate my illness, the one component of capacity I could not supply for myself. Appreciation requires a mirror, and no one who could hold one up to me was there. <br> </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/minds-at-war/202610/how-mania-empties-the-room" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/minds-at-war/202610/how-mania-empties-the-room</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/minds-at-war/202610/how-mania-empties-the-room</guid>
+            <dc:creator><![CDATA[Patrick William Kelly Ph.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-10/pexels-modoflai-22133540.jpg?itok=ChsYqUCB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Compulsion or Culture? OCD and the Evil Eye in India]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/thumbnail_mplogo.jpg?itok=Vkdad_Be" alt="Monk Prayogshala Research Institution" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cross-Cultural Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Compulsion or Culture? OCD and the Evil Eye in India</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What happens when a disorder looks like someone following cultural norms?</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">India's OCD prevalence estimate is 0.6 percent, versus 2–3 percent globally.</li><li style="margin-bottom:6px;">In India, OCD compulsions may be masked as socially sanctioned rituals to ward off the evil eye.</li><li style="margin-bottom:6px;">OCD treatment must consider social and cultural contexts, not view compulsions as purely individual.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/pexels-vindhya-7037789.jpg?itok=WpaFCSML" width="320" height="427" data-insert-type="image" title="Vindhya Chandrasekharan / Pexels" alt="Vindhya Chandrasekharan / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Vindhya Chandrasekharan / Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em><strong>This post is written by Muskan Soni, Research Author, Department of Sociology, Monk Prayogshala, Mumbai, India. </strong></em></p>
+<p dir="ltr">It is not uncommon to find praise prefaced with paranoia in Indian households; compliments are often followed by the perfunctory: "<a href="https://anthropologyreview.org/anthropology-glossary-of-terms/the-evil-eye-the-power-to-curse-others/"><em>nazar na lage</em></a><em>"</em> or, "May you be spared of the evil eye."</p>
+<p>For a disorder that looks for comfort in routines, the arsenal of remedies available in India could only be a delight for the obsessive-compulsive brain. Different subcultures offer their own snack bar of options to soothe the anxious mind: salt, chillies, lemons, camphor, alum. The evil eye is hardly unique to the subcontinent, but it deeply permeates Indian social culture: black dots behind ears, a string of chillies at the door, saying "<em>mashallah</em>" at the end of compliments—the list goes on. These are routines, practised daily to ward off bad luck. But what really happens when a disorder looks curiously like someone following cultural norms?</p>
+
+<h2>Can culture camouflage compulsions? </h2>
+<p dir="ltr">A <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1329748/full">2024 study</a> on cultural variations in how obsessive-compulsive disorder (OCD) manifests found that compulsions take different forms across cultures: religious and ritual compulsions in Middle Eastern countries, symmetry and order in East Asia, checking and counting in the West, and contamination and cleaning, most prominently, in the Indian subcontinent. This is not to say culture can cause OCD, but it is worth asking how a disorder in search of compulsions could borrow from a cultural framework like the evil eye that already offers locally endorsed practices. In a clinical screening, such compulsions can lose their ego-dystonic labels, and the disorder itself might become invisible. </p>
+
+<p dir="ltr">This invisibility also presents in numbers: While older epidemiological estimates put OCD prevalence in India at <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3146215/#CIT1">0.6 percent</a> against global averages of 2 and 3 percent, the National Mental Health Survey of India (2015–16) updated this to a lifetime prevalence of <a href="https://pubmed.ncbi.nlm.nih.gov/35400745/">0.76 percent</a>. Read uncritically, this might suggest that India has less OCD, but anyone who has spent time in an Indian household knows how profoundly ritual repetitions make up everyday life. This, perhaps, raises a tougher question: How do you distinguish practices that are culturally ingrained, absurd, and outdated, such as caste purity-based discrimination, from contamination-based OCD? Caste-based hierarchies offer a seemingly incontestable hiding place for contamination compulsions, the same way the evil eye borrows from rituals that were already socially sanctioned. For an observer, the actions may look identical internally, even when they are driven by distress. </p>
+
+<h2>Cross-cultural treatment</h2>
+<p dir="ltr">Cross-cultural discussions often focus on scrupulosity or religious OCD. Even a quick search on Reddit, the largest ledger of human anxieties, turns up more <a href="https://www.reddit.com/r/MuslimLounge/comments/1nj6yvi/severe_ocd/">results</a> for religious OCD than <a href="https://www.reddit.com/r/OCD/comments/1ny8ir1/im_scared_of_evil_eye/">threads</a> about the evil eye. Warding off <em>nazar</em> rarely registers as a subject of its own. For a disorder shaped by thought-action-fusion, or the belief that thoughts can equate to actions, this is perhaps not all that surprising: if posting about it might invite more of the same, then it follows that the rare few who voice these anxieties also confess that even typing it is <a href="https://www.reddit.com/r/islam/comments/1l68z7d/i_am_very_terrified_of_nazr/">scary</a>. </p>
+
+<p dir="ltr">I once asked an American friend who had spent a few months in India what had stuck with her the longest. Touching her head every time her foot brushed a book wasn't on my roster of guesses, since she was neither religious nor did she believe a book could be disrespected by a foot. Still, a few months around people who wholeheartedly believed it and the reflex stuck. This <a href="https://www.researchgate.net/publication/232470858_Toward_a_theory_of_behavioral_contagion">behavioural contagion</a> thus begs the question: If a brief encounter with these protective routines could be absorbed so quickly, what happens after years of conditioning in a brain predisposed to OCD? </p>
+
+<p dir="ltr">Such examples of behavioural realities within India reveal some of the blind spots of individualistic therapy. <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211364921000646">Exposure and Response Prevention (ERP)</a>, often considered the gold standard for OCD treatment, requires resisting compulsions. However, many compulsions sit within the thresholds of culture and escape pathologising, as they can be hard to resist within a model that validates them as protective routines. <br>In socially bound communities, resisting certain rituals could also be looked at as social transgressions, and<a href="https://openaccess.ihu.edu.tr/server/api/core/bitstreams/48b38dad-fd5c-4eed-bde7-68fa2cc2762a/content"> therapy as a sort of cultural or religious violation</a>. Treatment within such cultures could also get complicated as individuals <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1441560/full">seek out faith healers</a> instead of licensed professionals to assuage their anxiety related to supernatural causes such as the evil eye. </p>
+
+<h2>The burden of resistance </h2>
+<p dir="ltr">Living in a communal society, a person with OCD has to negotiate their disorder while balancing social expectations that are both encouraged and demanded. Belief in the evil eye is not as personal as one’s compulsions might be; <em>nazar</em> is often warded off on behalf of others; priests, faith healers, and well-meaning grandmothers have all been found with black threads and burning chillies to "protect" children, houses, cars, and even exam results. Therefore, treatment plans designed for individual discomfort might struggle with compulsions that never belonged to the individual in the first place. This, in turn, calls into sharper focus everything that this piece has been asking: When someone with OCD reaches for the same ritual their culture offers, are they managing their own anxiety or a social one? </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/non-weird-science/202610/compulsion-or-culture-ocd-and-the-evil-eye-in-india" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/non-weird-science/202610/compulsion-or-culture-ocd-and-the-evil-eye-in-india</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/non-weird-science/202610/compulsion-or-culture-ocd-and-the-evil-eye-in-india</guid>
+            <dc:creator><![CDATA[Monk Prayogshala Research Institution]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-ch-jawad-224803663-13982318.jpg?itok=a6knD_8h" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Borrowed Confidence: The Hidden Price of Liquid Courage]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Jeanette_Hu.jpg?itok=dQNGRDnj" alt="Jeanette Hu AMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Confidence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Borrowed Confidence: The Hidden Price of Liquid Courage</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Borrowing confidence from alcohol can keep us from building real confidence.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p dir="ltr">One of the things that people often feel reluctant to let go of when they quit drinking is the quick confidence boost that alcohol seems to offer them.</p>
+<p dir="ltr">Confidence is an important thing to have in life. It allows us to go for the things we want. Plus, confidence feels good. Who among us doesn't like to feel that sturdy sense of certainty and self-assurance?</p>
+
+<p dir="ltr">But the tricky thing is, confidence is not the natural feeling for most of us when we face something new or uncertain. Instead, most of us experience self-doubt; we worry we’ll fall short and no matter how hard we try, there seems to be little we can do to get rid of the butterflies in our stomachs.</p>
+<p dir="ltr">Don’t we wish that there were a potion that we could just take a big sip of, and it would magically give us the confidence boost we need? That’s why it can almost feel like a Christmas wish came true when we discover alcohol and the quick confidence boost it seems to offer. And even when we decide to let go of alcohol, we miss the confidence boost we get from it.</p>
+
+<h2 dir="ltr">Unexamined Belief: "Alcohol helps me feel more confident"</h2>
+<p dir="ltr">Behind the things we miss about alcohol, there is often a spoken or unspoken belief we hold about what alcohol can do for us. In what I call the Invisible Drinking Loop, these unexamined beliefs are one of the hidden forces that often keep pulling a person back to an unhealthy drinking pattern.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-10/dependency_loop__white___2_.png.jpg?itok=EgOtDU8l" width="639" height="639" data-insert-type="image" alt="The Invisible Drinking Loop " title="Jeanette Hu | Sober Curiosity"></div>
+<div class="caption">The Invisible Drinking Loop</div>
+<div class="insertArea--origin subtext">Source: Jeanette Hu | Sober Curiosity</div>
+</div>
+</div>
+</div>
+<p dir="ltr">These beliefs are often formed through observation and personal experience. For example, perhaps you’ve learned to associate alcohol with liquid courage after watching your favourite character on TV take a big swig of whiskey before walking up to an attractive stranger—or you stumbled upon the welcome effect yourself. As fear and self-doubt faded into the background after two cocktails, a belief that “alcohol helps me feel more confident” started to take hold.</p>
+
+<p dir="ltr">When an unexamined belief is left unnamed and unexamined, it often continues to fuel the desire to drink and create a sense of missing out even when we have stopped drinking. That’s why, to truly outgrow an old relationship with alcohol, it’s important to take a closer look at beliefs we may continue to hold about it. In this case, beneath the lingering desire, it’s a belief that sounds something like “Alcohol helps me feel more confident.” </p>
+
+<h2>Borrowed Confidence vs. Earned Confidence</h2>
+<p dir="ltr">To examine this belief, it may help to first look more closely at what confidence really is. It's often defined as the belief that one can rely on someone or something—so <em>self</em>-confidence is about our ability to trust and rely on our own abilities or skills. As our trust in ourselves grows, our confidence often increases.</p>
+
+<p dir="ltr">Alcohol, unfortunately, doesn’t come with the magic power to give us more self-trust than we already possess. Rather, it creates a feeling of confidence through a different mechanism: muting our fear. As a central nervous system depressant, alcohol can temporarily dampen anxiety, slow our thinking, and <a href="https://pubmed.ncbi.nlm.nih.gov/2221564/">lower our inhibitions, making fear and self-doubt feel quieter.</a> In other words, the confidence boost we experience from alcohol has less to do with increased self-trust and more to do with decreased fear and self-doubt.</p>
+
+
+<h2 dir="ltr">The Price of Borrowed Confidence</h2>
+<p dir="ltr">If you are anything like me, you may be wondering: Does it really matter if the confidence I feel comes from more self-trust or less fear, as long as it allows me to do the things I want to do? You would be right to wonder, because in the short run, it often doesn’t matter. It’s in the long run that borrowing confidence can come with hidden interest.</p>
+
+<p dir="ltr">Let's imagine two different hypothetical scenarios. Say it was your best friend’s engagement party and you were asked to give a speech. You love your friend dearly, and you couldn’t be more excited for the couple, yet you are terrified of speaking in front of a crowd.</p>
+<p dir="ltr">In Scenario A, when the time came, your hands were shaking, your heart pounded, and you stumbled over the first sentence. But you pushed through it, and after the first two minutes, your breath slowed down, and you felt a bit calmer. You finished the speech, and everyone clapped.</p>
+
+
+
+  
+
+
+<p dir="ltr">Now let's consider Scenario B: It was time for the speech. To calm your nerves, you took a big swig of whiskey. As you walked onto the stage, you could feel the effect of alcohol. You felt less nervous, and you even told a joke that made everyone laugh. The speech went great, and people clapped.</p>
+<p dir="ltr">In terms of the immediate outcome, you actually got the same result, perhaps even a slightly better one in Scenario B. And that is the tricky part, because the hidden interest doesn’t lie in the immediate result but in what the experience teaches our brain.</p>
+
+<p dir="ltr">In Scenario A, your brain gets the message: "I can be afraid and still handle this."</p>
+<p dir="ltr">In Scenario B, your brain gets the message: “I don't know if I can do this without drinking.”</p>
+<p dir="ltr">That’s why I like to call the confidence we gain through facing what we’re afraid of <em>earned</em> confidence, and the one we get from muting our fear <em>borrowed</em> confidence. In the former, you learn to trust yourself slightly more. In the latter, you learn to rely on alcohol slightly more.</p>
+
+<p dir="ltr">And that is where the loop begins. I call this the Borrowed Confidence Drinking Loop—an unhealthy drinking pattern driven by our underlying need for confidence and self-trust and fueled by the belief that alcohol gives us that confidence. Over time, drinking becomes our default response whenever we need a confidence boost. What begins as an attempt to increase our confidence can gradually move us further away from, rather than closer to, the confidence and self-trust we deeply desire.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-10/bap_drinking_loops.png.jpg?itok=wdCXZ2a-" width="639" height="639" data-insert-type="image" alt="The Borrowed Confidence Drinking Loop " title="Jeanette Hu | Sober Curiosity"></div>
+<div class="caption">The Borrowed Confidence Drinking Loop</div>
+<div class="insertArea--origin subtext">Source: Jeanette Hu | Sober Curiosity</div>
+</div>
+</div>
+</div>
+<h2 dir="ltr">From Borrowed Confidence to Earned Confidence</h2>
+<p dir="ltr">To get out of the Borrowed Confidence Drinking Loop, we first need to recognize the difference between earned and borrowed confidence. Here is how I differentiate them myself: </p>
+<ul>
+<li dir="ltr">Earned confidence is the prize I get when I step outside my comfort zone and discover, “I can handle this even while I’m afraid.” </li>
+<li dir="ltr">Borrowed confidence is the low-hanging fruit that lets me stay inside my comfort zone by muting my fear, leaving me to believe, “I can only handle this because something took the fear away.”</li>
+</ul>
+
+<p dir="ltr">To break a Borrowed Confidence Drinking Loop, it's often not enough to simply remove alcohol. We need new tools and skills that would allow us to earn confidence so that we can stop borrowing. If you’d like a place to start, try these <a href="https://www.sobercuriosity.co/resource-6-earned-confidence">4 practice steps to stop borrowing confidence from alcohol</a>. </p>
+<p dir="ltr"><em>This post is also published on Sober Curiosity.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/sober-curiosity/202610/borrowed-confidence-the-hidden-price-of-liquid-courage" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/sober-curiosity/202610/borrowed-confidence-the-hidden-price-of-liquid-courage</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sober-curiosity/202610/borrowed-confidence-the-hidden-price-of-liquid-courage</guid>
+            <dc:creator><![CDATA[Jeanette Hu MS]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/sponchia-glass-3077869.jpg?itok=1valliXb" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI Is Changing How Children Learn. Parents Need to Pay Attention]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/liz_matheis.jpeg.jpg?itok=6oBAwJbS" alt="Liz Nissim Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Is Changing How Children Learn. Parents Need to Pay Attention</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Consider the skills that don’t grow when children use AI.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Struggling is part of learning.</li><li style="margin-bottom:6px;">AI can replace the thinking process.</li><li style="margin-bottom:6px;">Teach children to use AI as a tool and not a substitute for thinking.</li>
+            </ul>
+          </div>
+                    <p>Undoubtedly, artificial intelligence (AI) has changed the way our children learn. As if they weren’t already struggling with delaying gratification, now, by typing a few words into a box, kids are getting answers to homework, essays written for them, books summarized, and problems solved in just a few seconds. Children are turning to AI instead of thinking, and that is a big area of concern for a parent.</p>
+
+<p>When you think about the learning process, it’s not just about getting the right answer. It’s about learning how to learn, building awareness of how a person learns, making mistakes, figuring out another way to approach the problem, and trying again. With AI, this entire process is eliminated, and children have answers that they can submit to satisfy an assignment, but the steps in between that build the ability to think, self-reflect, and assess are gone. </p>
+
+<h2>AI gets in the way of independent thinking</h2>
+<p>Children develop thinking skills by reading the information, thinking about the information, thinking about different ways to look at a problem, and engaging in trial and error. When AI gets involved, an answer or perspective is provided rather than giving a chance for an opinion to be formulated based on information. </p>
+
+<p>Imagine a student is assigned an essay about a book. Instead of reading, interpreting the story, and developing an argument, they ask AI to write a thesis and organize the supporting points. The assignment may be completed, but the student has missed an opportunity to develop their own interpretation and build writing skills.</p>
+
+<p>How this affects children at different ages:</p>
+<ul>
+<li><strong>Ages 3–5: </strong>Kids are learning by exploring with their hands, feet, and body. They ask tons of questions and figure out cause and effect. Learning through a device is not the same as jumping into a puddle and feeling the water splatter everywhere.</li>
+<li><strong>Ages 6–10: </strong>Kids are learning how to read, write, and build math skills. If AI provides the answers, our children won’t get a chance to build those foundational skills that are needed for the next phases of learning. </li>
+<li><strong>Ages 11–14: </strong>This is when information analysis, forming opinions, and learning how to defend those reasons come into play. If AI gives children the reasons, they aren’t listening to each other and formulating their own ideas. </li>
+<li><strong>Ages 15–18:</strong> This is when the more complex, higher-level thinking skills develop, and children can have an experience and form an idea of how something works or formulate an opinion on preferences and dislikes about more complex experiences such as friendships, values, and identity. If AI “tells” them, they aren’t generating their own ideas, which will impact them at the next level, such as college, problem-solving on the job, or graduate school. </li>
+</ul>
+
+<h2>AI can create the illusion of understanding</h2>
+<p>One of the biggest challenges with AI-generated schoolwork is that a well-developed idea doesn't necessarily mean a student understands or understood the material.</p>
+<p>A student might submit a great essay without being able to explain why or what their argument really is. Another student might receive the correct answer to a math problem without understanding the steps involved. When students use AI to produce work they haven't mastered at their own pace, it becomes impossible to understand if a student has learned a new concept, which will likely be needed to build on the next skill or concept. This can become especially problematic as schoolwork becomes more complex and students are expected to apply previously learned concepts to new situations.</p>
+
+<h2>AI can take away opportunities to develop diligence and build frustration tolerance</h2>
+<p>Learning is not always easy, especially if a child has a learning challenge. Children need opportunities to experience uncertainty, make mistakes, and keep trying even when they don't immediately understand something. When AI is always available to provide an instant answer, children may begin to expect that confusion should be resolved immediately. Rather than attempting a difficult problem or asking a teacher for clarification, they may turn to technology as their first response.</p>
+
+<p>Over time, habitual reliance on instant answers could make it harder for some students to persist through challenging tasks.</p>
+<h2>What can parents do?</h2>
+<p>Given how easy it is to access AI, it’s not realistic for us to expect children will have no access at all. Instead, we can teach them how to use it without allowing it to replace their thinking:</p>
+
+<ul>
+<li>Try it first—encourage your child to attempt a problem, write an outline, or explain what they already know before using AI.</li>
+<li>Have your child read the books, write the first draft, and develop his or her own opinion without relying on AI for ideas.</li>
+<li>Treat AI as a tutor and not the answer-giver or problem-solver. AI can teach a concept or break it down into steps so that there is true understanding. </li>
+<li>Normalize making mistakes and feeling frustrated. Remind children that not knowing the answer right away is part of learning. Praise effort, persistence, and the use of different strategies to solve a problem or learn a concept.</li>
+</ul>
+
+
+
+  
+
+
+<p>At the same time, keep teachers involved. Encourage children to ask their teachers questions and have them ask for a lesson to be retaught when they are confused, rather than automatically turning to AI. It’s also a good idea to return to paper and pencil without computers, laptops, or tablets. The pendulum has swung to the far extreme, and all of our kids would benefit from the return to writing by hand as a way of expressing thoughts, brainstorming, making mistakes, and editing. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/special-matters/202610/ai-is-changing-how-children-learn-parents-need-to-pay-attention" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/special-matters/202610/ai-is-changing-how-children-learn-parents-need-to-pay-attention</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/special-matters/202610/ai-is-changing-how-children-learn-parents-need-to-pay-attention</guid>
+            <dc:creator><![CDATA[Liz Nissim Ph.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-saulo-leite-1491182-27254168.jpg?itok=fnNLClUy" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Telling Abuse Survivors to “Just Leave” Isn’t That Simple]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-10/image1__2___1_-removebg-preview.jpg?itok=m2bkKpzh" alt="Kaytee Gillis, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Domestic Violence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Telling Abuse Survivors to “Just Leave” Isn’t That Simple</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">For many survivors, separation is not the end of abuse.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">For many survivors, separation is not the end of abuse but the beginning of a new form of control.</li><li style="margin-bottom:6px;">Research shows leaving is often the most dangerous time for victims to leave an abusive relationship.</li><li style="margin-bottom:6px;">Loved ones can offer support during this critical time.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/chatgpt_image_sep_11__2026__08_52_28_am.png.jpg?itok=HVXDvgVC" width="320" height="213" data-insert-type="image" title="AI Generated" alt="AI Generated"></div>
+<div class="insertArea--origin subtext">Source: AI Generated</div>
+</div>
+</div>
+</div>
+<p>One of the most common questions people ask survivors of abusive relationships is some version of: <em>Why didn’t you just leave? </em>I remember when I went through my own situation, I heard countless questions like, "What took you so long to leave?" Questions that failed to understand the reality of my experience. I have many clients who have had this same experience. </p>
+
+<p>For someone who has never experienced an abusive relationship, leaving can seem like the obvious solution. If someone is controlling you, threatening you, monitoring you, or hurting you, you get away from them. Once you leave, the relationship is over, and therefore the abuse should be over too.</p>
+<p>Except abuse does not necessarily work that way. Sometimes, leaving is when the danger increases.</p>
+
+<h2>Leaving can be the most dangerous time for victims of abuse</h2>
+<p>The period around separation can be one of the most dangerous times for someone experiencing abuse. Knowing this can be enough to keep many victims from ever trying to leave. According to the U.S. Department of Justice, separation can be an especially dangerous period for survivors of intimate partner violence, with research suggesting that up to 75% of domestic assaults reported to law enforcement agencies may occur after a couple separates (U.S. Department of Justice, 1983).</p>
+
+<p>For some survivors, leaving is not the end of the abuse. It is simply a change in how the abuse happens. An abusive partner who once used physical violence or constant monitoring may shift to stalking, harassment, threats, unwanted contact, financial abuse, manipulation through children, or repeated attempts to regain access to the survivor. The relationship may be over, but the abusive person may continue trying to maintain power and control.</p>
+
+<p>This can be especially confusing for survivors and the people around them. From the outside, someone may think, <em>But you left. Why are you still dealing with this?</em> What they may not understand is that leaving a relationship does not automatically remove an abusive person's desire for control. In some cases, the behaviors that appear after separation may be the first time others recognize what was happening all along. What looks like an ex-partner who "just can't let go" may actually be a continuation of a pattern of coercive control.</p>
+
+<h2>Why Support Matters After Someone Leaves</h2>
+<p>When leaving an abusive relationship, friends and family can be the support that helps them regain that control. However, finding external support when you leave your abuse is not always easy. Some abusers might even use the absence of resources as a threat against their victims to prevent them from leaving.</p>
+
+<p>This is an especially manipulative tactic for LGBTQ victims. Already, their mistrust of law enforcement keeps them believing that their safest course of action is to simply stay with their abuser. If and when a victim ends their relationship, knowing that they might be on their own if the abuse gets even worse could send them right back to their abusive partner.</p>
+
+
+<p>So perhaps we need to stop asking survivors, <em>Why didn't you leave sooner?</em></p>
+<p>A better question might be: <em>What would make it safer for you to leave—and what support will you need after you do?</em></p>
+<p><em>Excerpted, in part, from my book </em>Invisible Bruises: How a Better Understanding of the Patterns of Domestic Violence Can Help Survivors Navigate the Legal System.</p>
+
+<p><em>If you are experiencing </em><a href="https://www.psychologytoday.com/us/basics/domestic-violence"><em>domestic violence</em></a><em> or abuse, or are concerned about your safety after leaving a relationship, support is available. Call 800-799-SAFE (7233), or visit </em><a href="https://www.thehotline.org/"><em>thehotline.org</em></a><em>. Find a therapist in the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory.</em></a></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/invisible-bruises/202607/why-telling-abuse-survivors-to-just-leave-isnt-that-simple" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/invisible-bruises/202607/why-telling-abuse-survivors-to-just-leave-isnt-that-simple</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/invisible-bruises/202607/why-telling-abuse-survivors-to-just-leave-isnt-that-simple</guid>
+            <dc:creator><![CDATA[Kaytee Gillis, LCSW]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-09/chatgpt_image_sep_11__2026__08_52_28_am.png.jpg?itok=vC6DQM0I" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Supporting Decision-Making for Climate Action]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/jplummer.png.jpg?itok=ip_cidul" alt="Joseph Plummer M.S., M.Ed., M.B.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Environment</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Supporting Decision-Making for Climate Action</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Joe Arvai of USC discusses how to help people make better climate choices.</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Climate change poses some of the most complex decisions society faces.</li><li style="margin-bottom:6px;">Breaking complex decisions into manageable parts makes them easier to address.</li><li style="margin-bottom:6px;">Decision-support should focus on policymakers and business leaders before consumers.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/jens-lelie-u0vgcioqg08-unsplash.jpg?itok=VxAwaDn3" width="320" height="214" data-insert-type="image" title="Photo by Jens Lelie on Unsplash" alt="Photo by Jens Lelie on Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Photo by Jens Lelie on Unsplash</div>
+</div>
+</div>
+</div>
+<p>People engage in complex decision-making every day, and many of those decisions affect the natural environment. Focusing on how people make these decisions might be the key to achieving significant progress on climate mitigation.</p>
+<p>One way to influence decision-making is to deploy <a href="https://link.springer.com/article/10.1007/s11002-012-9186-1">choice architecture</a> with a focus on consumers. But consumers’ choices can only be as good for the environment as the options made available to them by policymakers and business leaders. This raises a question: How can we also influence the environmental decisions made by these important groups?</p>
+
+<p>To answer this question, I reached out to <a href="https://www.joearvai.org/">Joe Árvai</a>, Professor of Psychology, Biology, and Environmental Studies and Director of the Wrigley Institute for Environment and Sustainability at the University of Southern California. His research focuses on improving the judgment and decision-making capabilities of people working under conditions of risk and uncertainty, particularly when they must confront tradeoffs among conflicting social, economic, and environmental objectives. And he has been a frequent advisor to governments and businesses around the world.</p>
+
+<p><strong>JP:</strong> What are the most effective levers of change when considering how to influence decision-making through policy?</p>
+<p><strong>JÁ:</strong> A typical response to this question focuses on the public: consumers and voters. That has always bothered me because people can choose only among the options presented to them, and those options too often give environmental concerns short shrift.</p>
+
+<p>If policy is the lever we want to pull, we need to <a href="https://policyoptions.irpp.org/2014/05/an-appeal-for-smarter-decisions/">focus on policymakers</a>, business leaders, and their advisers. My work helps them <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/beyond-choice-architecture-a-building-code-for-structuring-climate-risk-management-decisions/2A3B4E4D4DD079A0C82FFDEA4D93DF4B">break complex decisions into more manageable parts</a>.</p>
+<p>That starts with helping them define and place guardrails around the problem they are trying to solve. Climate change, for example, is an emissions problem more than it is a fuels problem. So, the problem that triggers decisions about climate change is emissions reduction. Focusing on that opens the door to many more creative options than focusing on fuels alone.</p>
+
+<p>I also help decision-makers clarify their objectives, evaluate how well different options advance them, and anticipate the long-term consequences of their choices. Most importantly, I help them <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421518300223">confront tradeoffs</a>. I’ve never encountered an environmental decision in which every objective could be maximized. Decision-makers inevitably must give up something they value to gain something else. In my experience, avoiding those tradeoffs is where environmental decision-making by policymakers and business leaders most often breaks down.</p>
+
+<p>Much of my work is rooted in decision analysis, but it also draws on the psychology of intuitive judgment. If you want to avoid common decision-making traps, you need to know where to look for them.</p>
+<p><strong>JP:</strong> How can policymakers effectively influence values and preferences at scale?</p>
+<p><strong>JÁ:</strong> They need to give people a wider range of better options to choose from. That takes time, but for environmental risks, the time to act is now.</p>
+
+<p>Consider transportation. In most places, the options available today are not fundamentally different from those offered nearly a century ago. They may be more efficient, but the basic model remains unchanged.</p>
+<p>Climate change makes the problem especially clear. Transportation is still a major source of greenhouse gas emissions, yet the market remains dominated by internal combustion engines, even though better low- and zero-emission technologies exist. Policymakers and business leaders simply haven’t done enough to put those alternatives in front of consumers.</p>
+
+<p>There are many reasons for this, but two stand out: special interests determined to preserve the status quo and policymakers who<a href="https://theconversation.com/longtime-exxon-ceo-lee-raymonds-legacy-of-climate-denial-and-misinformation-lives-on-a-psychologist-offers-ways-to-counter-it-285667"> lack the courage</a> to challenge them. Neither of these obstacles is insurmountable.</p>
+<p><strong>JP:</strong> What are the limitations of choice architecture and decision engineering?</p>
+<p><strong>JÁ:</strong> Choice architecture has proven effective with consumers, but at the policy level, my experience is that it is not a viable tool. Because of their lofty positions, <a href="https://theconversation.com/societys-biggest-problems-need-more-than-a-nudge-58832">it’s hard to nudge a policymaker</a> or business leader; it’s critical to them that they retain control over their choices. </p>
+
+<p>Senior government officials have told me point-blank that they would much rather make errors of omission than errors of commission. That’s why my work with policymakers and business leaders focuses on improving the decision-making process itself, rather than trying, and failing, to use choice architecture to guide them toward certain options.</p>
+
+
+
+  
+
+
+<p><strong>JP:</strong> Are there ethical concerns with certain decision-engineering approaches?</p>
+<p><strong>JÁ:</strong> How options are presented to people makes it more or less likely that they will choose them. That happens whether or not it is intentional. Personally, I’d sleep better at night if choice architecture were used only when its outcomes aligned with the values and objectives of the vast majority of people it targets. And, selfishly, I’d feel even better if the options being promoted by choice architects were also better for the planet.</p>
+
+<p>But, for the reasons I mentioned earlier, I am not comfortable with the idea of engineering a policymaker’s or business leader’s judgments and choices. I see my role as helping policymakers and business leaders think differently and reason critically. I am not there to exploit biases or manipulate the process to produce an outcome that reflects my own values.</p>
+
+<p><strong>JP:</strong> How do we measure the effectiveness of policies designed to influence human behavior in such complex and dynamic contexts?</p>
+<p><strong>JÁ:</strong> It has to be a combination of process and outcome. Are policymakers making choices in a way that reflects the gravity of the problem? That is a question of both effort and accuracy. My job is to help them understand that consequential decisions demand a high degree of both.</p>
+
+<p>For consumers, I look for uptake: Do the available options resonate with their varied concerns and priorities? Ultimately, are people choosing and adopting them?</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/resilient-humanity/202610/supporting-decision-making-for-climate-action" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/resilient-humanity/202610/supporting-decision-making-for-climate-action</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/resilient-humanity/202610/supporting-decision-making-for-climate-action</guid>
+            <dc:creator><![CDATA[Joseph Plummer M.S., M.Ed., M.B.A.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/jens-lelie-u0vgcioqg08-unsplash.jpg?itok=fsVvyaq5" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Better Buzz: The Ideal Time to Drink Coffee]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/wendy_patrick.jpg?itok=SG9H1shV" alt="Wendy L. Patrick, J.D., Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotion Regulation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Better Buzz: The Ideal Time to Drink Coffee</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Caffeine can make you feel good—at certain times of the day</h2><p style="font-size:0.9em;color:#666;">Posted October 8, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Caffeine prompts positive changes in affect and increases cognitive performance.</li><li style="margin-bottom:6px;">A morning buzz is best when consumed within the first two-and-a-half hours of waking up.</li><li style="margin-bottom:6px;">Feeling tired or being with others can play a role in enjoying the effects of caffeine.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/pexels-drinking-1839680.jpg?itok=0GrZQ_z7" width="320" height="213" data-insert-type="image" title="Image by Pexels from Pixabay" alt="Image by Pexels from Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Image by Pexels from Pixabay</div>
+</div>
+</div>
+</div>
+<p>Of the many daily rituals people enjoy, one identifiable global favorite is coffee. Sure, some people drink tea instead, but for many of the same reasons, and with the same effects. It’s about the taste, the warmth, the visual appeal, and yes, the buzz. Whether straight up or with foam, froth, cream, or almond milk, and as evidenced by the lines at Starbucks and other popular coffee shops, coffee is an experience that is pleasing both psychologically and physically. But if coffee and tea lovers want the biggest bang for their buzz, they should consider what time of day this stimulating treat produces the best results. Research explains.</p>
+
+<h2>Caffeine and Affect: Feeling Good </h2>
+<p>Justin Hachenberger et al. (2025) studied the association of caffeine on both positive and negative moods.<a href="//E6D1816B-C781-429E-B4A5-9CB57E9051EA#_edn1">[i]</a> They began by acknowledging the well-known effects of caffeine on the central nervous system, prompting changes in affect and increased cognitive performance. Seeking to study the influence of caffeine on mood changes in daily life as opposed to a laboratory, they examined the links between caffeine consumption and affect in natural settings. They studied potential moderators including individual differences such as sleep quality, habitual caffeine use, and time of day, and contextual factors such as tiredness or social setting. Analyzing data from thousands of survey participants, they found, perhaps not surprisingly to many people, that caffeine intake was linked with increased positive affect. </p>
+
+<h2>A Morning Buzz Is Best</h2>
+<p>If caffeine boosts mood, is there a time of day that works best? Hachenberger et al. found the association between caffeine consumption and positive affect was the strongest when caffeine was consumed within the first two-and-a-half hours after waking up in the morning, with the degree of tiredness and social context moderating the link. They speculate that a morning caffeine boost may be pronounced due to habitual use, where anticipating the buzz contributes to enhanced affect. They also opined that the anticipation of expecting a pleasing experience or even the ritualistic aspects of having coffee or tea after waking up could boost positive affect. These results suggest the link between caffeine and positive affect may be both biological and psychological.</p>
+
+<h2>Grounds for a Mood Boost</h2>
+<p>Hachenberger et al. note that the link between caffeine and mood was consistently associated with individual states of positive affect: feeling enthusiastic and content. Regarding variables that were not associated with the impact of caffeine on affect, they found the association was not moderated by symptoms of anxiety or depression, quality of sleep, daily caffeine intake levels, or dependency. They did find, however, that psychophysiological states, such as feeling tired or being with others can play a role in the experienced effects of consuming caffeine.</p>
+
+<p>However you take it, coffee and tea appear to be proven mood boosters. Yet because the morning shot appears to be the most satisfying, anyone trying to cut back has some guidance regarding when it has the most benefit: Enjoy the morning Joe, and drink responsibly. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/why-bad-looks-good/202610/a-better-buzz-the-ideal-time-to-drink-coffee" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/why-bad-looks-good/202610/a-better-buzz-the-ideal-time-to-drink-coffee</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/why-bad-looks-good/202610/a-better-buzz-the-ideal-time-to-drink-coffee</guid>
+            <dc:creator><![CDATA[Wendy L. Patrick, J.D., M.Div., Ph.D.]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-drinking-1839680.jpg?itok=P7DNKngs" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
