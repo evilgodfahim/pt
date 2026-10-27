@@ -4,331 +4,393 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 21:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 01:13:49 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 21:25:22 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 01:13:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Can We Engineer Serendipity?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/john_nosta.png.jpg?itok=Y0LntiuV" alt="John Nosta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can We Engineer Serendipity?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Designing AI to find the unexpected changes the accident itself.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How to Accomplish the Impossible in Six Steps]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/carlnass.png.jpg?itok=rdfMf5pw" alt="Carl  Nassar Ph.D., LPC. " style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Life</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Accomplish the Impossible in Six Steps</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">From slavery to civil rights, the impossible can become inevitable. How?</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Serendipity requires both an unexpected observation and a mind prepared to recognize its significance.</li><li style="margin-bottom:6px;">AI can surface connections, but engineering the conditions for discovery changes the accident itself.</li><li style="margin-bottom:6px;">Once the unexpected is designed to be found, what remains may be useful but is no longer quite serendipity.</li>
+              <li style="margin-bottom:6px;">History is full of impossibilities come alive: the abolition of slavery; the civil rights laws of the ‘60s.</li><li style="margin-bottom:6px;">These transformations follow the same six-step arc, from first story to eventual tipping point.</li><li style="margin-bottom:6px;">The next impossible may well be a return from isolation, coming home to each other using these same six steps.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/whitesession-lightbulb-2722916.jpg?itok=0eWfw0NB" width="320" height="226" data-insert-type="image" title="Image by Angelo Esslinger from Pixabay." alt="Image by Angelo Esslinger from Pixabay."></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Image by Angelo Esslinger from Pixabay.</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/istock-532832225.jpg?itok=T6sqKzaA" width="320" height="179" data-insert-type="image" title="Franck-Boston / iStock" alt="Franck-Boston / iStock"></div>
+<div class="insertArea--origin subtext">Source: Franck-Boston / iStock</div>
 </div>
 </div>
 </div>
-<p>I'll bet that <a href="https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html#alexander-fleming-penicillin">Alexander Fleming</a> wasn't thrilled to find mold growing in one of his laboratory dishes in 1928. Contamination generally isn't something scientists want or even celebrate. </p>
-<p>But Fleming did <em>notice</em> something unusual. And I think that word is important. The bacteria surrounding the mold weren't growing. What he noticed helped give the world penicillin and transformed medicine. <em>The zone of inhibition became a zone of discovery.</em></p>
+<p>I’m 18, home on winter break from my first semester at McGill University, and excited to finally see <em>Star Trek IV: The Voyage Home</em>. After an exhausting finals week, I really need a film that reawakens my heart and brings back the laughter, and, luckily, this one does both. </p>
+<p>One scene has stuck with me through the years, and here’s how I remember it: the beloved crew of the Enterprise travels back to 1980s San Francisco, where chief engineer Scotty sits down at a desktop computer, clears his throat, and says, <em>Computer?</em> When nothing happens, McCoy hands him the mouse and Scotty lifts it to his lips like it’s a microphone: <em>Hello, computer.</em> The audience around me, myself included, bursts into laughter, because of course you can’t talk to a computer; that’s the stuff of science fiction, impossible.</p>
 
-<p>Fleming wasn't looking for penicillin; he was noticing something—something that wasn't supposed to be there at all. I wonder how many important scientific discoveries over time have emerged from that ability to see something new in what first appears to be a mistake or an irrelevant artifact.</p>
-<p>About a hundred years earlier,<a href="https://www.pasteurbrewing.com/louis-pasteur-chance-favors-the-prepared-mind/"> Louis Pasteur offered</a> an observation that nicely aligns with Fleming's observation: "In the fields of observation, chance favors only the prepared mind." Clearly, Pasteur wasn't just celebrating luck; he was describing the dynamic between an observation and the ability to recognize the significance. </p>
+<p>Today, I talk to my computer every day… and it talks back.</p>
+<h2>Impossibilities Come Alive </h2>
+<p>History is filled with impossibilities that come to life. In 1903, the <em>New York Times</em> looked at humanity’s failed attempts to build a flying machine and declared it might take <em>from one million to 10 million years</em>, only to see the Wright brothers lift off 69 days later. Then in 1920, the <em>Times</em> wrote that rocket pioneer Robert Goddard seemed to lack <em>the knowledge ladled out daily in high schools</em> (responding to his suggestion that a rocket could fly through space). Forty-nine years later, as Apollo 11 raced toward the moon, the paper printed its retraction: <em>The Times regrets the error.</em></p>
 
-<p>Today, artificial intelligence is adding an interesting twist to what is observed and interpreted. AI is becoming very good at finding answers, but as we move more "frictionlessly" from question to answer, I wonder what happens to the unexpected bumps we encounter (and might miss) along the way.</p>
-<p>And there's another "evolving possibility" that is worth putting under the microscope: Could AI actually manufacture the conditions for serendipity?</p>
+<p>These impossibilities-turned-real happened, at least in part, because of profit: money invested, confident more money would be returned. But the impossible has also happened without profit, even at its expense, at times when our deepest human needs were going unmet.</p>
+<p><em>If the slave trade is gone… beggars we’ll all become,</em> warned a popular verse in 1790s England. This trade was considered just too profitable to end until, after a 20-year struggle, Britain abolished it in 1807 (and abolished slavery itself 26 years later). </p>
 
-<h2>The Things We Weren't Looking For</h2>
-<p>Let's jump back another one hundred years. The word serendipity was coined by Horace Walpole in 1754, based on a Persian tale called "<a href="https://www.scribd.com/document/448652587/The-Three-Princes-of-Serendip">The Three Princes of Serendip</a>." In the story, the princes made discoveries through a combination of both accident and insight.</p>
-<p><em>Serendipity isn't simply about finding something surprising—it's about finding something valuable that wasn't part of the plan.</em></p>
+<p><em>Segregation now, segregation tomorrow, segregation forever! </em>declared Alabama governor George Wallace in 1963, defending a system that kept Black workers in the lowest-paying jobs, to the benefit of white business owners (a system its defenders said would be economically disastrous to undo). But by 1965, the Civil Rights Act and the Voting Rights Act had become law.</p>
 
-<p>I've <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202609/is-ai-undermining-the-human-foundations-of-innovation">written </a>about "productive" cognitive friction and how the struggle (even confusion) can align with scientific discovery. The journey toward an answer can produce questions that are more interesting than the original problem. AI's efficiency may allow us to bypass some of those detours, along with the unexpected observations they occasionally reveal.</p>
+<p>How did these impossibilities happen? </p>
+<h2>The Impossible in Six Steps</h2>
+<p><em>Step 1: Story</em></p>
+<p>It begins with a story. In a well-known study, people gave more to help one named, pictured child (whose face told a story) than they did to help millions described by statistics (Small et al., 2007)… because stories pull us in so completely that their messages slip right past our defenses (Green &amp; Brock, 2000). Consider this: On December 1, 1955, a seamstress took a seat on a Montgomery bus and refused to give it up when the driver ordered her to move for a white passenger. Rosa Parks’s small act of defiance led to her arrest, imprisonment, and conviction.</p>
 
-<p>Now, back to Fleming. His mold wasn't an unexpected connection buried in a pile of data. It was an unexpected event living in our physical world. No one had asked for it, and it wasn't part of an academically approved study design. AI can uncover surprising relationships across wide and varied data sets, including connections a researcher might not recognize. But there's something different about an observation that arrives as an unexpected knock on the lab door, particularly when it challenges what we thought we knew.</p>
+<p><em>Step 2: Hidden Majority</em></p>
+<p>Stories like this land on a hidden majority, the many people who privately share the same sentiment but stay silent because they’re certain they’re alone (Prentice &amp; Miller, 1993). In Montgomery, nearly every Black rider had their own tale of bus-system injustice, and now they were hearing it echoed in Rosa Parks’s.</p>
 
-<h2>The Prepared Machine?</h2>
-<p>After looking back a few hundred years, let's look at today. </p>
-<p>A <a href="https://doi.org/10.1126/sciadv.adn5290">2024 study in <em>Science Advances</em></a> found that generative AI helped individuals write stories that were judged to be more creative. So far so good. But creativity seemed to come at the expense of originality as the AI-assisted stories also became more similar. It's important to note that the study looked at creative writing rather than science, yet it might raise a related question. Could AI help each of us produce better ideas while potentially narrowing the diversity of ideas we explore?</p>
+<p><em>Step 3: Small Circle</em></p>
+<p>A hidden majority doesn’t rise at once, because acting alone is frightening. Instead, change begins in a small, close circle, where people give each other the courage to step forward (Centola, 2010). On the night of Parks’s arrest, one small circle, the Women’s Political Council, led by professor Jo Ann Robinson, decided to act, staying up all night running off leaflets: <em>Don’t ride the bus on Monday.</em> They were hoping 60 percent of Black riders would stay off; nearly all of them did.</p>
 
-<p>A <a href="https://arxiv.org/html/2603.19087v3">2026 preprint</a> from Princeton and the University of California, Berkeley, offers more recent perspective. The study explored if deliberately introducing ideas from unrelated topics could stimulate creativity in both humans and LLMs.</p>
-<p>The results showed that humans consistently benefited from unexpected associations. But AI, which generally produced more original ideas in the study, showed no overall improvement from the added topics. It's my contention that AI's vast corpus of knowledge may not "incrementally" advance the "connectivity" as much of the information may already be contained in the training data.</p>
+<p><em>Step 4:</em> <em>Social Proof</em></p>
+<p>From here, other circles see the first one doing something brave, and they believe they can be brave too (researchers call this social proof) (Cialdini, 2009; Suh et al., 2017). As reporters spread images of the tens of thousands of people walking miles to get to work in Montgomery, new circles sprang into action in Tallahassee, Birmingham, Atlanta, and Greensboro, and soon one city’s circle had become a web stretching across the South.</p>
 
-<p>So, here's my question: Can we deliberately engineer serendipity? And if we build AI to identify unexpected relationships, are there discoveries really serendipitous accidents? Or have we developed a more sophisticated method of searching?</p>
-<p>I've written about a version of this idea in medicine with what I called an <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202608/why-every-patient-needs-an-ai-zebra-scan">AI Zebra Scan</a>. Rather than allowing AI to settle on the "most statistically probable diagnosis," why not design it to deliberately explore less likely possibilities? This isn't serendipity itself, but maybe it's a way to expand the range of possibilities that AI considers. And perhaps that same principle can be applied more broadly to scientific discovery.</p>
+<p><em>Step 5: Persistence</em></p>
+<p>Now comes the long, messy middle, when established systems push back, and the only path forward is patience and persistence. White leaders in the South answered with what they called <em>massive resistance</em>, beating Freedom Riders, leaving protestors and organizers bloody at bus stations, but the circles keep meeting and organizing.</p>
 
 
 
   
 
 
-<ul>
-<li><strong>Expand the hypothesis space.</strong> Explore possibilities beyond what's most probable.</li>
-<li><strong>Preserve anomalies.</strong> Investigate outlying observations rather than dismissing them as statistical noise.</li>
-<li><strong>Connect distant disciplines</strong>. Identify relationships outside established boundaries.</li>
-<li><strong>Challenge the original question.</strong> Consider if the assumptions themselves are limiting discovery.</li>
-</ul>
+<p><em>Step 6: Tipping Point</em></p>
+<p>Finally, the promise hidden in sociologist Damon Centola’s research arrives: when those willing to stand up publicly grow and reach about a quarter of the entire group, then the whole group comes to a tipping point and suddenly flips (Centola et al., 2018). In May 1963, Birmingham police turned fire hoses and attack dogs on marching children, and images broadcast into living rooms across the country moved more and more Americans to stand against segregation. Within two years, the impossible had become law.</p>
 
-<p>Of course, these aren’t definitive rules for producing scientific breakthroughs. And they’re probably easier said than done. But there might be a few thought starters here for designing AI that could be receptive to the unexpected rather than simply optimizing the expected.</p>
-<h2>The Observer and the Observation</h2>
+<h2>The Next Impossible: Belonging</h2>
+<p>The impossible I care deeply about is rebuilding cultures of belonging. For two million years, we lived in villages of 30 to 150 people, sharing work, meals, songs, and sorrows, and our minds became wired for that kind of connection. But today we arrive in a world emptied of this shared life, greeted by two busy parents struggling to do alone what a whole village once shared, and later we’re told to go out and make it on our own… and we all feel the cost in our isolation and exhaustion.</p>
 
-<p>In the final analysis, there's a difference between discovering an unexpected relationship among things we know and the discovery of something that makes us to reconsider what we thought was even possible. Both can lead to discoveries, but they're not the same experience.</p>
-<p>AI can do the first at scale. It can also be designed to notice anomalies and judge their significance. Once we deliberately create the conditions where the unexpected will be found and recognized, the accident is no longer accidental. In that sense, programming serendipity is a bit like <a href="https://www.sciencefocus.com/science/what-is-schrodingers-cat">Schrödinger’s cat</a>—the act of looking for it changes what we find.</p>
+<p>The same process, six steps, can carry us back to a world of belonging. Stories, like that of a six-year-old boy told by his new family to stop grieving the deaths of his mother and brother, and, in sharp contrast, of a young girl held for weeks by her fellow villagers after her father dies, can touch a hidden majority who believe they must carry loneliness and exhaustion all on their own.</p>
 
-<p>Pasteur’s "prepared mind" may be entering unfamiliar territory where AI increasingly participates in both the fortunate encounter and the judgment that turns it into a discovery. What remains may still be valuable. But is it really serendipity?</p>
+<p>These stories can also spark change, beginning in small circles of five to 12 people who feel inspired to rekindle belonging: they start gathering each week for Sunday dinner, three unhurried hours woven with stillness and compassion… and then let their growing care for each other spill out into everyday life, one shared ride, one casserole at a time.</p>
+
+<p>Soon, these circles become visible, and social proof takes hold: one circle emboldens another, and, with persistence, we can reach a tipping point where (much like the original crew of the USS Enterprise in <em>Star Trek IV</em>) we make <em>The Voyage Home</em>… to each other, because belonging and connection are not only our deepest needs; they are our sweetest ending.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-digital-self/202610/can-we-engineer-serendipity" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/born-for-a-better-world/202610/how-to-accomplish-the-impossible-in-six-steps" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-digital-self/202610/can-we-engineer-serendipity</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-digital-self/202610/can-we-engineer-serendipity</guid>
-            <dc:creator><![CDATA[John Nosta]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/born-for-a-better-world/202610/how-to-accomplish-the-impossible-in-six-steps</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/born-for-a-better-world/202610/how-to-accomplish-the-impossible-in-six-steps</guid>
+            <dc:creator><![CDATA[Carl  Nassar Ph.D., LPC.]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-10/whitesession-lightbulb-2722916.jpg?itok=OuH4Zcae" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-10/istock-532832225.jpg?itok=b_ZX-Tp3" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Fill-in-the-Consonants Puzzles]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/marcel-danesi.jpg?itok=FlfX2jhW" alt="Marcel Danesi Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Bias</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Fill-in-the-Consonants Puzzles</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The information entropy principle.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Hidden Cost of Being the Reliable One]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/h_diep.jpg?itok=2u81F2rD" alt="Huong Diep Psy.D., ABPP, CFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Identity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Cost of Being the Reliable One</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When being the person everyone counts on starts to take a toll</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Puzzles like those on "Wheel of Fortune" are based on a communication principle known as information entropy.</li><li style="margin-bottom:6px;">Information entropy means, in a nutshell, that consonants carry more information than vowels.</li><li style="margin-bottom:6px;">The puzzles here aim to exemplify how the principle works.</li>
+              <li style="margin-bottom:6px;">Being reliable often leads to growing expectations from others and ourselves.</li><li style="margin-bottom:6px;">Outsourcing tasks doesn't necessarily reduce the mental load of managing them.</li><li style="margin-bottom:6px;">Stepping back can bring guilt and grief when being needed has become part of one's identity.</li>
             </ul>
           </div>
-                    <p>In the American television quiz show "Wheel of Fortune," a contestant must guess a consonant missing from the words in a puzzle phrase for each spin of the wheel. But the contestant must pay $250 dollars from an accumulated amount of money to see what vowels are in the puzzle. The rules of the game are actually based on a well-known principle in linguistics and information theory that can be defined—in reference to the game itself—as the principle that it is easier to figure out what a word is if given only its consonants, but almost impossible to do so if given just its vowels.</p>
+                    <p dir="ltr">Lately, I’ve been hearing some version of the same question from women in midlife: <em>“I’ve done everything I was supposed to do. Is this it?”</em></p>
+<p dir="ltr">Many are navigating perimenopause, changing bodies and identities, and beginning to challenge inherited beliefs. At work, they’re often the “go-to” person who finishes projects. At home, they’re doing the “second shift” of kin-keeping, scheduling appointments, and keeping the family connected. They once believed professional success and increased income would lead to more freedom.</p>
 
-<p>Take, for example, the following word missing the vowels. What word is it if you are told that it refers to a sport?</p>
-<p>T _ N N _ S</p>
-<p>It is fairly easy to figure out that the word is TENNIS. Now, look at the following word, which is missing the consonants. It refers to someone who likes to go on trips.</p>
-<p>_ _ A _ E _ E _</p>
+<p dir="ltr">Ironically, the more reliable their reputation, the more they’re expected to handle everything. They often hear, “But you’re just so good at it!”</p>
+<p dir="ltr">According to<a href="https://www.gallup.com/workplace/702881/women-show-stronger-employee-engagement-amid-higher-burnout.aspx"> Gallup’s 2026 report</a>, 34 percent of women working full-time were engaged at work, compared with 28 percent of men. Yet 31 percent of women reported frequent workplace burnout, compared with 23 percent of men. This gap was true for women with and without children.</p>
 
-<p>The answer is TRAVELER. Identifying the word this time is much more difficult for most of us because of this principle, called, technically, information entropy. Although it has a broader technical definition, in the case of such puzzles it allows us to understand concretely that consonants carry more information than vowels. </p>
+<p dir="ltr">And then there’s perimenopause, about which researchers are only beginning to learn how varied and diverse the symptoms are. A<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/joop.70032"> 2025 study following 679 women</a> found that increases in menopause symptoms over six months were associated with increases in burnout.</p>
+<p dir="ltr">Add on the return-to-office mandates, job insecurity, and rising costs, and it makes it harder to scale back or imagine doing things differently. A<a href="https://www.cdc.gov/nchs/blog/posts/2026/09/how-common-is-fatigue-among-u-s-adults.html"> September 2026 CDC report</a> found that 71.5 percent of U.S. adults felt very tired or exhausted at least some days during the previous three months, with women reporting more fatigue than men (20 percent vs 13 percent). </p>
 
-<p>English has 21 letter consonants but only five (sometimes six) letter vowels. Because there are fewer vowels, they appear more frequently in word construction, offering very little in terms of information load, as the communications engineer Claude Shannon called it in his classic 1948 paper, "A Mathematical Theory of Communication," in which he quantified how much information a message carries based on its unpredictability—the less predictable something is, the more information it carries. In this framework, consonants have high entropy (high information load), whereas vowels have low entropy (low information load). If the consonants are removed, a word becomes a mystery; if the vowels are removed, it is a fairly easy task to reconstruct it. </p>
+<h2 dir="ltr">The Promise of Having More Time</h2>
+<p>Many women, myself included, naively believed that as we advanced in our careers and earned more money, we’d eventually have greater freedom and flexibility. Maybe we could afford to hire help with childcare, cleaning, or food delivery. But even then, women oftentimes are still the ones carrying the mental load of making sure everything gets done.</p>
 
-<p>Vowels also have information value, as can be seen in those words that are made up only of vowels or are vowel-heavy, such as <em>audio </em>and <em>queue</em>. But these are rare. </p>
-<p>At the purely phonetic level, vowels can be seen to have a “pronunciation-smoothing” function. If we try to pronounce a string of consonants, such as NXT (next) or BLDG (building), our mouth jams up. Without vowels, there is almost no continuous airflow. They allow the transition from consonant to consonant (or cluster of consonants) to flow smoothly. This function can also be assumed by liquid consonants (R and L), but, by and large, it falls upon the vowels to allow for unobstructed airflow to occur during speech.</p>
+<p>The women in my practice are smart and capable. They recognize that their own expectations contribute to their exhaustion, but knowing this doesn’t necessarily make it easier to let go. They ask, “Well, if I don’t do it, who will? Who will make lunches or check in on aging parents?” These are valid questions, especially when they’ve been the default caregivers for years.</p>
 
-<p>In sum, consonants provide greater information about lexical identity than vowels do. In "Wheel of Fortune," the fact that vowels are highly predictable and appear in almost every word, giving them away for free would make the puzzles too easy to solve.</p>
-<h2>Example</h2>
-<p>In the puzzles here, you are given words missing the consonants, thus reversing the rules of "Wheel of Fortune." As in the game, however, you are given a clue as to its meaning:</p>
+<p>Many say they no longer want to play the game, yet don’t know how to stop. After all, running and staying ahead have been a big part of their identity.</p>
+<h2 dir="ltr">When Being Dependable Becomes Your Identity</h2>
+<p dir="ltr">Meet “Julie,” a fictional composite of many high-achieving women I’ve worked with.</p>
+<p dir="ltr">Julie is a Gen Xer or elder Millennial who came of age during the “girlboss” and lean-in era. According to LinkedIn, she’s successful. Inside, she’s wondering how long she can keep going.</p>
 
-<p>Appliance:</p>
-<p>_ E _ _ I _ E _ A _ O _</p>
-<p>The answer is REFRIGERATOR. As you may have experienced, the effort to identify the word is rather substantial. As examples such as this imply, our brain seems to have a “consonant bias,” as posited by the information entropy principle. The clues used here are intentionally generic or tricky. This is meant to emphasize how difficult it is to identify words missing the consonants, especially in the absence of clues that do not zero in concretely on their meanings.</p>
+<p dir="ltr">She has young children and helps care for aging parents. As the oldest daughter, she once took pride in being the glue that kept everyone together. Lately, she’s wondering what it would feel like to have someone else take care of things for a change.</p>
+<p dir="ltr">However, when we explore change, four questions usually come up.</p>
 
-<h2>Puzzles</h2>
-<p>1. A place of higher education</p>
-<p>U _ I _ E _ _ I _ _</p>
-<p>2. A spice</p>
-<p>_ I _ _ A _ O _</p>
-<p>3. Handheld know-it-all</p>
-<p>_ _ A _ _ _ _ O _ E</p>
-<p>4. Colossal</p>
-<p>_ I _ A _ I _</p>
-<p>5. A monster</p>
-<p>_ O _ _ I _ _ A</p>
-<p>6. Contemporaneity </p>
-<p>_ O _ E _ _ I _ _</p>
-<p>7. Proof</p>
-<p>_ E _ O _ _ _ _ A _ I O _</p>
-<p>8. Dorothea Lange’s art</p>
-<p>_ _ O _ O _ _ A _ _ _</p>
-<p>9. Input provider</p>
+<h2 dir="ltr">What Happens When You Stop Being the Go-to Person?</h2>
+<p dir="ltr"><strong>1. What if everyone gets mad at me?</strong></p>
+<p dir="ltr">This is a common one, especially for women who may have been socialized to be “nice” or are used to putting others before themselves. In families or cultures where caring for others is tied to love and responsibility, disappointing others can feel like rejecting and losing relationships. </p>
 
-<p>_ E _ _ O A _ _</p>
-<p>10. Synthetic lookalike</p>
-<p>_ E E _ _ A _ E</p>
-<p><strong>Answers</strong></p>
-<ol>
-<li>University</li>
-<li>Cinnamon</li>
-<li>Smartphone</li>
-<li>Titanic</li>
-<li>Godzilla</li>
-<li>Modernity</li>
-<li>Demonstration</li>
-<li>Photography</li>
-<li>Keyboard</li>
-<li>Deepfake</li>
-</ol>
+<p dir="ltr">In our work together, we accept the reality that some people may be upset when dynamics change. They’ve become accustomed to a certain version of you. Our work involves tolerating their disappointment while staying connected to what matters to you.</p>
+<p dir="ltr"><strong>2. What if something bad happens?</strong></p>
+<p dir="ltr">Our brains are so good at imagining all the worst-case scenarios, aren’t they? It’s what helped keep our ancestors alive, but I remind clients it is no longer helping us.</p>
+
+
+
+  
+
+
+<p dir="ltr">I walk through these scenarios with clients. What’s the worst thing that could happen? How likely is it? And how would you handle it?</p>
+<p dir="ltr">Perhaps the kids miss a few servings of vegetables. Maybe the house is messier than you’d like, or someone forgets an appointment. Some things will probably fall through the cracks, but we identify the actual non-negotiables for daily life to function and the “would be nice” and how to tell the difference.</p>
+
+<p dir="ltr"><strong>3. Am I a bad person?</strong></p>
+<p dir="ltr">For many women, self-worth has long been tied to doing and being in service to others. I help clients move beyond black-and-white thinking about being a good or bad person and consider whether their actions align with their values.</p>
+<p dir="ltr">Can you be a caring person who is invested in others’ well-being <em>and</em> decline another volunteer activity?</p>
+
+<p dir="ltr">Can you love your family <em>and</em> decide you no longer want to remind everyone about the reunion?</p>
+<p dir="ltr">Often, my clients need someone to hold up a mirror so they can see that they don’t judge others by these same standards.</p>
+<p dir="ltr"><strong>4. What if I’m no longer needed?</strong></p>
+<p dir="ltr">This is an unexpected question for many folks and one they did not realize they were contending with. Letting go of responsibility can bring up unexpected grief.</p>
+
+<p dir="ltr">Oftentimes my clients don’t realize that being the go-to person has brought pride and meaning. Whether an innate ability or a survival tactic, they’ve developed skills in anticipating needs, solving problems, and caring for others.</p>
+<p dir="ltr">Stepping back can bring sadness about losing that role or grief over how many years they’ve spent carrying it. We also examine how we may have contributed to these dynamics. Taking accountability can help us recognize where we have the power to make changes.</p>
+
+<h2 dir="ltr">Making Room for Yourself Again</h2>
+<p dir="ltr">We’re entering the stretch between Halloween and New Year’s, when days get shorter, and gatherings multiply. </p>
+<p dir="ltr">This might be a good time to check in with yourself before answering another request:<em> Is this something I want to do? Is it something others expect me to do? Or is it something I’ve always done?</em></p>
+
+<p dir="ltr">I remind clients that small, daily actions add up. Maybe it’s letting someone else plan the next gathering, saying no, or asking for help before reaching a breaking point.</p>
+<p dir="ltr">If you didn’t have to be the person who holds everything together, what might you have more room for?</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/brain-workout/202610/fill-in-the-consonants-puzzles-0" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/unscripted/202610/the-hidden-cost-of-being-the-reliable-one" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/brain-workout/202610/fill-in-the-consonants-puzzles-0</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/brain-workout/202610/fill-in-the-consonants-puzzles-0</guid>
-            <dc:creator><![CDATA[Marcel Danesi Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/unscripted/202610/the-hidden-cost-of-being-the-reliable-one</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unscripted/202610/the-hidden-cost-of-being-the-reliable-one</guid>
+            <dc:creator><![CDATA[Huong Diep Psy.D., ABPP, CFT]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/vecteezy_pensive-woman-strategizing-solutions-and-generating-creative_80849086_0.jpg?itok=qadP7bju" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Is Your Car’s “Face” Sad, Angry, Imposing, or Friendly?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Scott-Eberle.jpg?itok=LKAwfeht" alt="Scott G. Eberle Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Play</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Is Your Car’s “Face” Sad, Angry, Imposing, or Friendly?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Auto designers attract eyeballs by playing with visual psychology.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How Well-Roundedness Contributes to Meaningful Lives]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Glenn-Altschuler.jpg?itok=gBo2fyvc" alt="Glenn C. Altschuler Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Philosophy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Well-Roundedness Contributes to Meaningful Lives</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Do well-rounded people avoid the hedonic treadmill?</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Our brain/minds play at seeing faces on cars.</li><li style="margin-bottom:6px;">Seeing a car’s “face” is like seeing the Man in the Moon.</li><li style="margin-bottom:6px;">Culture shapes the patterns we recognize, as different societies see different figures in the moon.</li>
+              <li style="margin-bottom:6px;">Balancing intellectual and sensory pleasures may build happiness, resilience, and social connection.</li><li style="margin-bottom:6px;">Varied interests may counter the hedonic treadmill by keeping experiences from becoming routine.</li><li style="margin-bottom:6px;">A hobby can relieve stress, bring joy, and teach acceptance of personal limits, even if you're bad at it.</li>
             </ul>
           </div>
-                    <p>When you look at your car, does it stare back? And what expression does it seem to hold? These two questions are surprisingly strange because a car is made of metal, glass, and plastic, and it cannot stare. A car cannot have an expression because a facial expression communicates emotions, and only animals—especially mammals like us humans—have an inner life that can be read on a face. </p>
-
-<p>A face takes on the outward sign of what is going on inside. A face can look happy and expectant. This is the wide-eyed, open, inviting, and smiling “play face” that needs no translation anywhere in the world. We know when a kid is ready to play, wondering what’s next. At the opposite end of the spectrum, a human face can look angry and fearful, and this is one of the most complicated expressions. When the eyebrows pull together and draw downward, observers interpret anger. Add eyebrows turned up at the corner, and we see how the face registers fear. This “blended” expression is also universally and wordlessly understood. </p>
-
-<p>In fact, the human face can explicitly communicate a range of subtle states of mind that others read. With sadness, of course, the brows invert, and the eyelids droop. But more subtly and with more complexity, a sad face can project chagrin or wistfulness, various species of regret, or longing. A face will register shock but can show the effect of more complicated internal turmoil, such as <em>disbelieving</em> shock—<em>this can’t be happening</em>! We know a patient look when we see it, and we know when the patient look turns to exasperation. By looking at a face, we know when a person is confused, bored, at wit’s end, awestruck, disgusted, delighted, on-the-muscle, desirous, or feeling guilty. Here, there, and everywhere on the planet we <em>get </em>faces.</p>
-
-<h2>But Back to Cars</h2>
-<p>But back to car designs. Cars don’t have faces—not the way that people or poodles have faces. But automobile body designers play with design features that look anthropomorphized and expressive. Car designers have specific expressions in mind when they blueprint cars that appear to be looking back at us in specific, emotionally expressive ways. We’re happy to be so regarded, in fact, and will be drawn to those looks in car showrooms. </p>
-
+                    <p><em>Review of The Well-Rounded Life. By Amy Berg. Princeton University Press. 237 pp. $27.95.</em></p>
+<p>In his iconic treatise, <em>Utilitarianism, </em>John Stuart Mill claimed that deploying “the higher faculties” was superior to pleasures involving “mere sensation,” which he attributed to an “infirmity of character.”</p>
 <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/buick_invicta__14999039936_.jpg?itok=S7FQh4-W" width="320" height="240" data-insert-type="image" alt="Our brain/minds play at seeing faces on cars." title="Buick Invicta / Image courtesy Jacob Frey 4A via Wikimedia / CC By 2.0"></div>
-<div class="caption">Our brain/minds play at seeing faces on cars.</div>
-<div class="insertArea--origin subtext">Source: Buick Invicta / Image courtesy Jacob Frey 4A via Wikimedia / CC By 2.0</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/woman_on_bike.jpg?itok=OBcNNe29" width="320" height="214" data-insert-type="image" title="u d7hddm5o/Pixabay" alt="u d7hddm5o/Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: u d7hddm5o/Pixabay</div>
 </div>
 </div>
 </div>
-<p>I will get to the how and why below, but for now, here are a few examples. Let me start with a memory of a snazzy family car, a 1959 Buick that sported “delta wing” tail fins, the sheet metal reminiscent of rocket ships or fighter jets. Red taillights looked like flaming rocket exhausts. These identifiable flying objects were on our minds at the peak of the Cold War. Our model was white with a red interior—as I said, snazzy. </p>
+<p>According to Amy Berg, a professor of philosophy at Rice University, Mill was “wrong, both descriptively and prescriptively.” In <em>The Well-Rounded Life</em>, Berg makes a thought-provoking and compelling case that people who tap both kinds of pleasure and balance them appropriately tend to be more socially connected, resilient, and happier.</p>
 
-<p>But it was what was up front that really counted. First, the dual headlights, shaped like eyes tipped inward— “canted” as the designers described them—to communicate incisiveness. Next, and you will not see this feature on today’s aerodynamically slick autos, the heavy chrome strips above looked like furrowed eyebrows deployed in concentration, or perhaps, wrath. Then below, the grille that ran the car’s full width, was easy to interpret as teeth. The grin looked feral, close to a snarl. </p>
+<p>Berg acknowledges, however, that well-roundedness is more difficult to achieve for some of us, including the working poor, mothers with small children, and socioeconomically elite men who believe that work is the place to find meaning and fulfillment.</p>
+<p>That said, Berg cites a study conducted by a team of psychologists, in which 83 percent of participants described their ideal lives as a balance between work and leisure, with the latter including time spent with family, participation in religious activities, and learning <a href="https://www.tandfonline.com/doi/full/10.1080/17439760.2017.1374441">new things</a>.</p>
 
-<p>This car looked ready to eat up the road. </p>
-<h2>Even More Aggressive Faces</h2>
-<p>This aggressive look sharply contrasted earlier styles. After 15 years of Depression and war, Americans had needed to look at a friendly face. For instance, in 1950, the Buick Roadmaster had seemed out-and-out goofy. Nicknamed “the buck-toothed Buick,” with its massive intake grille (a kind of mouth), and a hood ornament for a nose, this car featured a comical overbite. Droopy eye-headlights amplified the amusing effect. </p>
+<p>Being well-rounded, Berg writes, allows us to do justice to our multiple skills, potential talents, and interests, and to “achieve a balance” between and among them. It facilitates the development of relationships, casual and intense, with a diverse set of people, be they bakers, potters or cyclists. Well-roundedness allows us to avoid what psychologists call “the hedonic treadmill,” stimulated by the “same-old, same-old” sets of <a href="https://sonjalyubomirsky.com/wp-content/uploads/2024/07/Sheldon-Boehm-Lyubomirsky-2012.pdf">experiences</a>.</p>
 
-<p>But after 1959, Cold War-era cars would come to look more aggressive. The hungry looking third-generation Chevrolet Corvette from 1969, for instance, was nicknamed the Mako Shark—its headlights slung low and to the side of gaping jaws, and its hood designed with gliding predatory curves. Engineer-artists have designed today’s eighth generation Corvette models to look even fiercer by including angled, upsweeping anime headlights and a massive <em>manga</em> jawline.</p>
+<p>A commitment to well-roundedness also generates opportunities for fruitful cross-pollination. Compared to other scientists, Berg reveals, Nobel Laureates are seven times more likely to be visual artists, sculptors or printmakers; 12 times more likely to write poetry, plays, essays, and books; 22 times more likely to dabble in acting, dance, and magic. Sometimes, Berg speculates, the skills at play in one domain prove to be transferable to another one.</p>
 
-<h2>How Cars Are Like the Man in the Moon</h2>
-<p>Now, for the visual psychology of these designs, we look not to Detroit but to outer space. For several nights each month the night sky treats us to a familiar illusion. Look at a detailed photo of our orbiting moon and you will see only an intricate tracery of rimmed impact craters and smooth “seas.” But stare upward on a moonlit night and your brain/mind will make sense of the random patterns by understanding them as the wryly smiling Man in the Moon. Our visual cortexes have cataloged a category for smiling faces. </p>
+<p>Even being bad at a hobby, she points out, has an upside. It can relieve stress from a demanding job. It can be fun. And in what Berg calls “silver linings perfectionism,” it can develop character when we bump up against the limits of our skills.</p>
+<p>To be sure, well-roundedness requires trade-offs. But Berg maintains that ambivalence about choices between competing options “is a sign of a healthy, <a href="https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/abs/hard-choices/A4BEB486621AAEFEC50145087501D584">functioning person</a>.” She encourages anyone who is convinced, for example, that finding a cure for cancer must be his or her life’s work to internalize the value of the space occupied by “playing the oboe, learning to pole vault, or teaching preschool.” And to recognize that, alas, “it is rarely the case” that sacrificing a casual interest will free up the time to write <em>The Great American Novel</em>. For this reason, Berg confesses that she herself “errs on the side of choosing well-being over meaning.”</p>
+
+<p>For most of us, Berg concludes, life “is not as unified”—or as exemplary—as it is in an obituary or a biography. And she encourages her readers not to spend too much of their time “trying to live up to a great story,” i.e., a decision to pursue a goal, the achievement of that goal, and the arc of sacrifices redeemed. All too often, this approach sets conditions that allow far too few of us to <a href="https://www.jstor.org/stable/24439514?seq=1">clear the bar.</a></p>
+
+<p>Berg understands that “sometimes we have to put the B plots on the back burner so the A plot can cook.” But she insists as well that most lives “don’t revolve around one or more central projects.” And that accomplishments “that reach the heights of meaning may be out of reach for the ordinary well-rounded person.”</p>
+
+<p>Most importantly, Berg emphasizes that the necessity of making life-changing choices “isn’t only a reason for gloom: it’s a way to learn what really matters to each of us, what kind of life we want to live, what kind of person we want to be.”</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/this-is-america/202610/how-well-roundedness-contributes-to-meaningful-lives" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/this-is-america/202610/how-well-roundedness-contributes-to-meaningful-lives</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/this-is-america/202610/how-well-roundedness-contributes-to-meaningful-lives</guid>
+            <dc:creator><![CDATA[Glenn C. Altschuler Ph.D.]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-10/woman_on_bike.jpg?itok=3ZgSj901" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[GLP-1 Drugs and Eating Disorders: What Experts Recommend]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/headshot_dalle_grave-removebg-preview.jpg?itok=PX6DG-6S" alt="Riccardo Dalle Grave M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Eating Disorders</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">GLP-1 Drugs and Eating Disorders: What Experts Recommend</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">New expert guidance highlights the benefits and risks of GLP-1 medications.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">GLP-1 drugs may benefit some people with binge eating disorder, but evidence remains limited.</li><li style="margin-bottom:6px;">GLP-1 drugs may trigger restrictive eating or relapse in vulnerable individuals.</li><li style="margin-bottom:6px;">Screening for eating disorders before prescribing GLP-1 drugs is essential.</li><li style="margin-bottom:6px;">Weight loss does not equal eating disorder recovery; ongoing monitoring is crucial.</li>
+            </ul>
+          </div>
+                    <p>GLP-1 medications, such as semaglutide and tirzepatide, have revolutionized the treatment of Type 2 diabetes and obesity. By reducing appetite, slowing gastric emptying, and promoting significant weight loss, they have generated considerable interest in both the medical field and public opinion. </p>
+<p>However, their wider use in the population has raised an important question: What happens when these drugs are prescribed to people with eating disorders or who are at risk of developing them?</p>
+
+<p>A recent consensus article published in <em>World Psychiatry</em> has addressed this question. Using the Delphi method, 45 experts and people with personal experience of eating disorders have elaborated several recommendations for clinical practice and future research. </p>
+<p>The principal message of the consensus is that GLP-1 medications can offer several benefits, but they carry potential risks for people with eating disorders. Their use, therefore, requires careful attention, personalized decisions, and continuous monitoring.</p>
+
+<h2>Potential Benefits of GLP-1s for Binge Eating Disorder</h2>
+<p>There is growing interest in the possible use of GLP-1 medications in the treatment of binge-eating disorder (BED). Some studies have found a reduction in binge-eating episodes; however, the evidence remains limited because most studies are small, uncontrolled, retrospective, or based on single clinical cases. </p>
+
+<p>Moreover, the study with the strongest methodological design found no significant reduction in binge-eating episodes with liraglutide compared with placebo, although the medication produced greater weight loss.</p>
+<h2>Potential Risks: Extreme Dietary Restriction and ED Relapse</h2>
+<p>Published clinical cases have reported relapse into extreme dietary restriction in people with a history of anorexia nervosa while taking GLP-1 medications. In my clinical practice, I have also met some patients who have developed atypical anorexia nervosa during GLP-1 treatment. The gastrointestinal side effects (e.g., nausea and vomiting) can further complicate the clinical picture, particularly in people who are vulnerable to purging behaviors. </p>
+
+<p>For this reason, the expert group has recommended screening to detect any current or previous eating disorders in all people before starting treatment with GLP-1 medications. This recommendation has reached a 94.7 percent consensus.</p>
+<h2>When GLP-1 Medications Should Be Avoided, or Used Cautiously</h2>
+<p>One of the recommendations that reached the highest consensus—100 percent—was to avoid the prescription of GLP-1 medications in people with current diagnoses of atypical anorexia nervosa or bulimia nervosa associated with a strict dietary restraint and restriction and/or significant weight suppression. The experts also recommended caution in people with a history of these eating disorders. These indications are not absolute contraindications, but they underline that prescribing decisions should not be based exclusively on body weight. </p>
+
+<p>The situation is more complex in people with BED. Although GLP-1 medication, as described above, might be useful for some people with BED, in others they might worsen the eating disorder psychopathology, particularly in the presence of the over-evaluation of shape and weight, significant weight suppression, and marked dietary restriction. These features can negatively affect treatment outcomes and should be assessed before and during medication intake. </p>
+
+<p>Therefore, the expert group has recommended that future studies should assess not only the weight loss and the frequency of binge-eating episodes, but also the dietary restriction, the over-evaluation of shape and weight, and other psychological features of eating disorders.</p>
+<h2>Reducing “Food Noise” Is Not the Same as Curing an Eating Disorder </h2>
+
+
+<p>The term <em>food noise</em> describes the persistent presence of food and eating thoughts that people often experience as unwanted. GLP-1 medications seem to reduce these thoughts, offering relief to some people. </p>
+<p>However, less worrying about food and eating does not necessarily indicate an improvement in eating disorder psychopathology. A person can experience reduced food noise and still adopt extreme, rigid dietary rules, maintaining an intense fear of weight gain or an over-evaluation of shape and weight. </p>
+
+<h2>Monitoring During GLP-1 Treatment </h2>
+<p>The expert group recommended continuous monitoring to detect any appearance or worsening of eating disorder symptoms in people treated with GLP-1 medications. The assessment should include the psychopathology of eating disorders, the weight trend, the food intake, the hunger and satiety levels, the physical condition stability, and the quality of life,</p>
 
 
 
   
 
 
-<p>Not all Earthlings register this effect as we do in North America. But we all interpret random patterns that culture prepares us to see. In East Asia, a Moon-Rabbit appears. In Australia, where the moon is upside down from our northern and western viewpoint, Australians see St. George slaying his dragon.</p>
+<p>Monitoring intensity should be proportional to individual risk. Frequent monitoring should be planned for people with an eating disorder history, positive screening of eating disorders, rapid weight loss, or a marked suppression of appetite.</p>
+<p>One of the most difficult clinical challenges is to distinguish the expected effects of the GLP-1 medication from the developing symptoms of eating disorders. Reduced appetite, smaller meals, and weight loss are expected treatment effects. On the contrary, the onset of rigid and extreme dietary rules, the intense fear of weight gain, or a progressive increase in the over-evaluation of shape and weight can indicate the development or the worsening of the eating disorder psychopathology. </p>
 
-<p>The same process allowed Hamlet and Polonius to argue whether clouds looked like camels or weasels, early astronomers to intuit canals on Mars, and the faithful to see angels appear on slices of French toast. Even now we might see <em>mimetolithic </em>trolls on sheer rock façades and wizened Ent-like men in tree bark patterns.</p>
+<p>Finally, the expert group recommended associating an evidence-based psychological treatment in people with eating disorders who use GLP-1 medications. This recommendation received an 81.6 percent consensus. </p>
+<p>An important issue to be investigated is to evaluate the possibility that GLP-1 medications improve outcomes when they are associated with psychological treatments for BED. However, the available evidence does not support the routine use of these medications in BED treatment.</p>
 
-<h2>Why Do We See What We don’t See?</h2>
-<p>We infuse these inanimate objects with personality through a process that psychologists since the mid-nineteenth century have called <a href="https://www.psychologytoday.com/us/basics/pareidolia"><em>pareidolia</em></a>. Because our mind/brains strive to avoid ambiguity and randomness, they play at seeing an object where one does not really exist. </p>
+<h2>What Research Should Be Prioritized Next?</h2>
+<p>The consensus paper has identified several important gaps in the available knowledge. </p>
+<p>First, it is necessary to conduct long-term studies to establish whether GLP-1 medications increase, reduce, or do not change the risk of developing an eating disorder. </p>
+<p>Second, researchers need reliable methods to distinguish medication-induced appetite changes from pathological dietary restriction. </p>
 
-<p>Turn your search engine toward “pareidolia” and you’ll have no trouble detecting cartoon pigs on the coats of palominos, Valkyries in cowlicks, an outraged imp in a sectioned green pepper, a pelvis in a <a href="https://www.psychologytoday.com/us/basics/rorschach-test">Rorschach</a> blot, or Mother Theresa’s face on a cinnamon bun. </p>
-<p>Or, indeed, you will find agreeable connection to a sad, goofy, friendly, or imposing face on a car’s front end. </p>
+<p>Third, clinical studies on BED should be designed to evaluate not only binge-eating frequency and weight loss, but also eating disorder psychopathology, dietary restriction severity, food noise, quality of life, nutritional security, and outcomes of suspending pharmacological treatment.</p>
+<p>Finally, with the increasing popularity of GLP-1 medications, collaboration between specialists in the treatment of obesity and eating disorders will become increasingly important.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/play-in-mind/202610/is-your-cars-face-sad-angry-imposing-or-friendly" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/eating-disorders-the-facts/202610/glp-1-drugs-and-eating-disorders-what-experts-recommend" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/play-in-mind/202610/is-your-cars-face-sad-angry-imposing-or-friendly</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/play-in-mind/202610/is-your-cars-face-sad-angry-imposing-or-friendly</guid>
-            <dc:creator><![CDATA[Scott G. Eberle Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/eating-disorders-the-facts/202610/glp-1-drugs-and-eating-disorders-what-experts-recommend</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/eating-disorders-the-facts/202610/glp-1-drugs-and-eating-disorders-what-experts-recommend</guid>
+            <dc:creator><![CDATA[Riccardo Dalle Grave M.D.]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/buick_invicta__14999039936_.jpg?itok=_X0PACnQ" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[An Analysis of the Film "You Can See Everything"]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-11-20_at_7.56.10_am.jpg?itok=DaG7VW_N" alt="Tara Well Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Authenticity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">An Analysis of the Film "You Can See Everything"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Elizabeth Holmes's responses to questioning may suggest appeasement.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why Cats Are More Beautiful Than Us]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/neel_burton_0.jpg?itok=Y8BMExeE" alt="Neel Burton M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Beauty</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Cats Are More Beautiful Than Us</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">And why sexy is not the same as beautiful.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Apparent agreeableness can invite escalating intrusions rather than signal genuine consent.</li><li style="margin-bottom:6px;">Believing we uniquely understand someone can lead us to override their wishes and autonomy.</li><li style="margin-bottom:6px;">The film may reveal others’ appropriation of Holmes’s identity more than her authentic self.</li>
+              <li style="margin-bottom:6px;">Why do we find almost every cat beautiful, but relatively few humans?</li><li style="margin-bottom:6px;">Beauty and sexual attractiveness are not the same thing.</li><li style="margin-bottom:6px;">Like cats, a person may be beautiful without knowing it.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-10/sita_and_sarita.png.jpg?itok=01ZlHi4a" width="639" height="359" data-insert-type="image" alt="Sita and Sarita (1893–94) by Cecilia Beaux (detail). All animals contain a part of God, but only the cat knows it." title="Wikimedia Commons/Cecilia Beaux/Public domain"></div>
+<div class="caption">Sita and Sarita (1893–94) by Cecilia Beaux (detail). All animals contain a part of God, but only the cat knows it.</div>
+<div class="insertArea--origin subtext">Source: Wikimedia Commons/Cecilia Beaux/Public domain</div>
+</div>
+</div>
+</div>
+<p>We find every cat, or almost, to be beautiful. But when it comes to other human beings, beauty is more the exception than the rule. We might walk past hundreds of faces without seeing one that makes us look again.</p>
+<p>Yet people try a lot harder than cats, expending considerable time, money, and ingenuity on beautifying themselves. We exercise, diet, dress, moisturize, dye, paint, inject, and sometimes even submit to the surgeon’s scalpel. Cats, meanwhile, do little more than lick themselves.</p>
+
+<p>Are we just an uglier species, like bats or warthogs, or might there be more to it than that?</p>
+<h2>Of Mice and Men</h2>
+<p>It may be that our aesthetics are a product of our mind. Bats may not be ugly to other bats, and cats probably don’t think of us as ugly—but do seem to think of us as smelly.</p>
+<p>Indeed, bats and cats may be entirely without aesthetic judgment and respond merely to mating signals.</p>
+
+<p>But even if we are the only truly aesthetic animal—as argued by the philosopher Immanuel Kant—that does not explain why we find the average cat to be a lot more beautiful than the average member of our own species.</p>
+<p>One possibility is that we are more sensitized to human faces. To the untrained eye, all sheep look alike, whereas their shepherd may be able to recognize each one. A large area of our cerebral cortex is devoted to visual processing, with specialized mechanisms for recognizing and reading other human faces.</p>
+
+<p>But should that not mean that we find human faces more, rather than less, beautiful?</p>
+<h2>Beauty and the Beast</h2>
+<p>Perhaps the more important difference lies not in what we see, but in what we look for. When we admire a cat, we admire its proportions, coloring, movements, and general appearance. But when we look at another human being, our judgment is complicated by sexual desire, or the absence of it. We are asking not merely whether a face or body is beautiful on its own terms, but whether we find it sexually attractive.</p>
+
+<p>Of course, we can sometimes find a middle-aged body or wizened face beautiful, but this often requires the kind of perceptual shift that we undergo in a museum, when contemplating a work of art.</p>
+<p>In a museum, as Kant would tell us, we suspend our ordinary practical judgments and attend to an object for its own sake. We can admire the appearance of Socrates in a David painting, without asking whether his snub nose and pot belly would feed our appetites. Yet we seldom extend the same generosity to people we encounter in everyday life. In a sense, the museum turns us back from animal to human.</p>
+
+<p>Beauty and sexiness are not the same thing. We can find someone beautiful without being attracted to them, and vice versa—which is fortunate for ugly people.</p>
+<h2>On Youth and Old Age</h2>
+<p>And young people too. Smooth skin, lustrous hair, and a certain fullness of the face and body are among the qualities we associate with sexual attractiveness. Not every young person is attractive, of course, but youth confers advantages that are difficult to appreciate until they have disappeared.</p>
+
+<p>Indeed, one of the ironies of aging is that we look back at photographs of our younger selves and wonder how we could ever have been dissatisfied—or have made so little of our looks for the few summers that they lasted.</p>
+<p>Yet beauty, as opposed to buxomness, need not diminish with age. It is possible to become even more beautiful. An older face may acquire a beauty that depends less on its proportions than on its character and expression. To be beautiful, an older face may also need to be interesting.</p>
+
+<p>Human beauty is not so rare as we suppose. We are simply too distracted by desire, comparison, and convention to appreciate it.</p>
+<p>Perhaps we should learn to look at people as we do at paintings, or cats.</p>
+<p>Cats are not just beautiful, but irresistibly cute. Part of why we find them so beautiful is simply that we love them.</p>
+
+<p>Cats have no conception of beauty, and certainly no ambition to be beautiful—though they purr when we call them so. They neither admire their reflection nor regret their younger selves. They, like us, simply go on being beautiful, whether we notice or not.</p>
+<p><strong>You may also enjoy my companion piece, </strong><a href="https://neelburton.com/2025/12/22/why-computers-could-never-experience-beauty/"><strong>Why Computers Could Never Experience Beauty</strong></a><strong>.</strong></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/ataraxia/202610/why-cats-are-more-beautiful-than-us" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/ataraxia/202610/why-cats-are-more-beautiful-than-us</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/ataraxia/202610/why-cats-are-more-beautiful-than-us</guid>
+            <dc:creator><![CDATA[Neel Burton M.A., M.D.]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/sita_and_sarita.png.jpg?h=cebf9d8a&amp;itok=Tqy6Xblj" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Gift in Ugly Wrapping Paper]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/unknown-1-removebg-preview.png.jpg?itok=SqEJEvMi" alt="Janet M Shlaes Ph.D., MBA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Help</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Gift in Ugly Wrapping Paper</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Discovering wisdom in life’s liminal spaces</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">In a liminal space, former roles, identities, structures, or relationships may no longer fit.</li><li style="margin-bottom:6px;">The gap between who you were and who you are becoming can feel ambiguous and disorienting.</li><li style="margin-bottom:6px;">Liminal spaces invite us to create and step into a more aligned way of being in the world.</li><li style="margin-bottom:6px;">Liminal space transformation tools include: surrendering, non-attachment, and allowing.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/ycse_100726_final.webp?itok=cvng6k-N" width="320" height="474" data-insert-type="image" title="A24 " alt="A24 "></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: A24</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/questions_-_pexels-leeloothefirst-5428836.jpg?itok=iuF2hioO" width="320" height="248" data-insert-type="image" title="Leeloothefirst / Pexels" alt="Leeloothefirst / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Leeloothefirst / Pexels</div>
 </div>
 </div>
 </div>
-<p>In the trailer for "You Can See Everything," Nathan Fielder positions himself inches from Elizabeth Holmes’s face and asks whether she is telling the truth. Her eyebrows are raised, her eyes wide, and her smile eerily fixed. The expression is disturbing in isolation. But in the film, Fielder returns to the question of her honesty again and again, often at the same invasive distance. Holmes continues smiling and nodding, maintaining that she has never lied while offering remarkably little resistance to his relentless questioning. What initially looked like an unnatural expression begins to resemble an attempt to appease the man confronting her.</p>
+<h2>The Liminal Space Experience</h2>
+<p>The space between an ending and a new beginning can feel like “a gift wrapped in ugly paper, tied with ribbons of thorns.” It begins with the persistent awareness that something familiar is ending. Roles, identities, relationships, and ways of moving through the world begin to shift, leaving you between the life you have known and the one that has yet to take shape.</p>
 
-<p>As a psychologist and author of the forthcoming book <em>Being Seen</em>, I was particularly interested in a documentary that promised such intimate access to one of the most scrutinized women in America. What interested me was how the people surrounding Holmes might influence what we actually get to see of her.</p>
+<p>What previously provided you with structure and comfort no longer fits or aligns with your deepest values and core needs. You find yourself suspended between who you have been and who you are becoming. The person you are being called to become has yet to be revealed. </p>
+<p>Welcome to the liminal or in-between space. Residing in this space can feel excruciatingly ambiguous, painful, and more than a tad disorienting. </p>
 
-<h2>Why Is Holmes So Agreeable?</h2>
-<p>This is not a diagnosis, but Holmes’s persistent smile brings to mind <em>fawning</em>, a response in which someone attempts to appease a person they experience as threatening or overpowering. Rather than objecting or withdrawing, they become extremely agreeable, anticipate what the other person wants, and try to avoid further confrontation. Someone may continue smiling even when the encounter has become deeply uncomfortable.</p>
+<p>In the past, I often responded to the uncertainty of the liminal space by trying to leave it too soon. I would quickly choose a new direction, make a decision, create a plan, and move forward.</p>
+<p>Anything felt preferable to remaining with the discomfort. Movement, even movement without clarity, felt energizing and productive and preferable to feeling disempowered and stuck.</p>
 
-<p>Holmes’s apparent submissiveness in the film may have a longer history. Although she founded and controlled Theranos, a company once valued in the billions, she testified during her trial that her former romantic and business partner, Sunny Balwani, tried to control her appearance and daily life and subjected her to emotional and sexual abuse. Balwani denied the allegations. Watching Holmes accommodate Fielder’s increasingly intrusive questioning raises the possibility that appeasing a domineering person is a familiar way of relating for her.</p>
+<p>With the wisdom of age and experience, I discovered my urgency to escape the discomfort of the liminal space prevented me from uncovering and fully benefiting from its gifts. My avoidance approach was at best merely a temporary respite. </p>
+<p>I learned that the discomfort I was attempting to escape was actually inviting me to shed what I had outgrown. The liminal space was calling for me to create and step into a more aligned way of being in the world.</p>
 
-<p>Billy Evans, Holmes’s current partner, has taken charge of much of her public image while she is incarcerated. Holmes has given him power of attorney, and he writes social-media posts in her name and has even created an artificial intelligence (AI) likeness of her. He says he often doesn’t consult her because he already knows what she wants. His confidence extends to how he interprets her behavior. When Fielder challenges Holmes’s explanations, Evans suggests that she simply thinks differently. What others see as contradictions, he regards as evidence of her unusual mind. His belief in her exceptionalism also gives him a special place in her life: He is the one who understands what others cannot.</p>
+<h2>Surrendering, Non-Attachment, and Allowing in the Liminal Space</h2>
+<p>As I practiced embracing my time in the liminal space, I experienced that purposefully engaging with surrendering and non-attachment served to unwrap the potential gifts offered in this space.</p>
+<p><strong>Surrendering </strong>does not mean resignation, giving up, postponing critical and timely decisions, or staying in an unhealthy or dangerous situation. Surrendering connotes releasing resistance to what is happening internally while temporarily inhabiting the liminal space.</p>
 
-<p>Fielder claims a different kind of authority over Holmes. He has built his career around creating social encounters that become almost unbearable to watch, yet Holmes and Evans chose him to make their documentary. Evans was familiar with his work, while Holmes apparently knew little about it. When Fielder asks why they selected him, he receives no clear answer. Once inside their home, he controls the questions, the physical proximity, and ultimately what audiences see. His investigation becomes an increasingly elaborate production, often at Holmes’s expense. She continues to engage with him, smiling through questions that might make other people angry or defensive. </p>
+<p>Surrendering doesn’t require relinquishing responsibility, intention, or agency. It offers an invitation to engage with what is present, rather than risking depletion through fighting with what is out of your realm of control.</p>
+<p><strong>Non-attachment</strong> does not mean indifference to what lies beyond the liminal space. It means releasing the need for the next chapter to unfold in a particular way or on a preferred timetable. Releasing attachment to a specific outcome makes it possible to increase your openness to previously unanticipated possibilities.</p>
 
-<p>Amanda Seyfried assumes another kind of authority. Having portrayed Holmes in <em>The Dropout</em>, she joins the documentary after Holmes enters prison, reenacting conversations reconstructed from Fielder’s recollections. Soon she is challenging Evans and questioning his influence on Holmes. Seyfried resembles an understudy finally called to play the leading role, except that the woman she replaces has not given up her part. Having inhabited her character, she behaves as though she has acquired special insight into the real woman, even her choice of partner.</p>
-
-<h2>How Appeasement Can Invite Increasing Intrusions on Identity</h2>
-<p>Holmes's extraordinary pliability seems to invite increasingly intrusive behavior. Fielder positions himself inches from her face and repeatedly questions her honesty while she smiles and continues to engage with him. Evans, whose authority she has formally granted, becomes so confident in his understanding of her that he sees little reason to ask what she wants before speaking in her name. While Holmes is in prison, Seyfried steps into her place, reenacting private conversations reconstructed from Fielder’s memory. She goes beyond playing Holmes, however, by insisting that the real woman should leave Evans. What begins with someone taking liberties during a conversation progresses to others assuming the authority to speak for Holmes and eventually to become her. Each seems convinced that their particular understanding of Holmes entitles them to take it further.</p>
-
-<p>Being the person who truly understands someone can be deeply gratifying. It can make us feel perceptive, indispensable, or uniquely trusted. Over time, we may become attached to that position and increasingly reluctant to question our understanding. We explain away behavior that doesn't fit our picture, assume we know what another person wants, or interpret their agreement as confirmation that we were right all along. Even their silence can reinforce our certainty. The more invested we become in our understanding of someone, the less room we may leave for them to surprise us, disagree with us, or reveal parts of themselves we never anticipated.</p>
-
-
-
-  
+<h2>From Surrender to Allowing</h2>
+<p>Together, surrender and non-attachment invite us to trust our capacity to meet and learn from the emotions that arise in the liminal space. Sitting with these emotions instead of avoiding or rushing past them cultivates a deeper capacity for allowing.</p>
+<p><strong>Allowing creates room to:</strong></p>
 
 
-<p>I left the theater feeling far more empathy for Holmes than I expected. Her accommodating manner, which initially seemed almost artificial, began to resemble an attempt to appease people who were taking increasing liberties with her. What troubled me was how confidently those around her assumed the authority to question, protect, interpret, and eventually impersonate her. Holmes had invited some of this attention and granted some of this authority, yet the boundaries kept shifting. The irony of "You Can See Everything" is that we witness this gradual appropriation of Holmes's identity in plain sight, even as our attention remains fixed on the question of who she really is.</p>
+<ul>
+<li>Question old roles, identities, assumptions, values, and expectations.</li>
+<li>Make time and space to grieve what no longer aligns with who we are becoming.</li>
+<li>Honor what served us in the past and release what no longer does.</li>
+<li>Discover and experiment with new ways of being in the world.</li>
+</ul>
+<h2>Practices for Unwrapping the Gifts of the Liminal Space</h2>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-clarity/202610/an-analysis-of-the-film-you-can-see-everything" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-clarity/202610/an-analysis-of-the-film-you-can-see-everything</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-clarity/202610/an-analysis-of-the-film-you-can-see-everything</guid>
-            <dc:creator><![CDATA[Tara Well Ph.D.]]></dc:creator>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-10/ycse_100726_final.webp?itok=pd-sqE9R" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why the Push for High Performance Backfires and What Helps]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-10/Preston.png.jpg?itok=_lt53O0I" alt="Preston" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Workplace Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why the Push for High Performance Backfires and What Helps</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">It’s not just you. Your capacity is shaped by the conditions around you.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Conditions beyond your control can erode capacity, making it harder to execute at the level you are used to.</li><li style="margin-bottom:6px;">Stress and insufficient support can disrupt your ability to think clearly, plan, and follow through.</li><li style="margin-bottom:6px;">When you fall short, address what is under your control and acknowledge what is not, without shame.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/vitaly-gariev-aotrm-bpaak-unsplash.jpg?itok=AUPQlKBz" width="320" height="180" data-insert-type="image" alt=" " title="Vitaly Gariev / Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Vitaly Gariev / Unsplash</div>
-</div>
-</div>
-</div>
-<p dir="ltr">Have you ever sat down to begin a task, only to feel as if all the motivation immediately left your body? I often find myself saying, “I want to do this,” but for some reason, I can’t.</p>
-<p dir="ltr">I used to associate high performance with operating from a consistent level of high capacity. I had an identity around doing as much as possible, as quickly as possible. In recent years, I have come to accept that an approach I once considered an advantage, one that was celebrated and reinforced in every academic or work setting I entered, became maladaptive over time.</p>
-
-<p dir="ltr">When I first started struggling with tasks, my response was to push harder, which only made it worse. I felt like Humpty Dumpty. The old version of me who seemingly used to do it all had fallen off a wall. No matter what I tried, I wasn’t going back to that way of functioning. I thought about quitting my job. I wondered why no one else seemed to be struggling. Now I know that many are, and somehow, that simultaneously makes it better and scarier. Better in that I’m not alone, but scarier in that no one holds the secret to reset. We have to go through this, and grow through this, one step at a time. Together, we are learning how to walk (and work) differently.</p>
-
-<h2>How Stress Affects Our Capacity</h2>
-<p dir="ltr">We may be carrying a physical, emotional, or cognitive load that is invisible to others, and perhaps even ourselves. This could be anything from tension in our bodies and unresolved or suppressed emotions to an open loop of tasks. Each of these can affect our capacity in any given moment and our ability to meet expectations or fulfill what is being asked of us.</p>
-
-<p dir="ltr">In my search a few years back for answers to why I suddenly found it so difficult to plan, organize, and see tasks through, I stumbled across executive function, a set of processes that help us engage in goal-directed behavior such as planning, making decisions, initiating and seeing tasks through, and regulating our emotions.</p>
-
-<p dir="ltr">When we experience a stressor, ideally, the part of our brain that controls executive function (the prefrontal cortex) responds. However, the amygdala, associated with a fear (fight, flight, freeze) response, <a href="https://pubmed.ncbi.nlm.nih.gov/19455173/">can overpower or shortcut the prefrontal cortex</a>. When this happens, we are more likely to react impulsively. This is why we often find it difficult to engage in the coping behaviors we know would be most helpful.</p>
-
-<p dir="ltr">Even the most basic tasks may feel impossible. It’s <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5003767">hard to think clearly</a>, make decisions, or be kind to ourselves. All we can see is what we haven’t done.</p>
-<p dir="ltr">Planning becomes difficult because it takes effort and energy. Our brains may default to <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6666491">habits</a> and behaviors associated with protecting us from danger, including shutting down. Even when we want to follow advice that feels aligned for us, it’s hard because we lack the capacity, support, or resources.</p>
-
-<p dir="ltr">Often it isn’t until the perceived threat or pressure is eased that <a href="https://pubmed.ncbi.nlm.nih.gov/19139412/">our capacity returns</a>.</p>
-<h2>Shame Is a Quick Fix With a Hidden Cost</h2>
-<p dir="ltr">Where could I go to hide from myself? If I am shaming myself, I’m not going to ask for help; I’m not going to change what I can; I’m simply going to conclude that I’m not enough. <br><br>This is how I end up feeling stuck.</p>
-
-<p dir="ltr">When we have internalized high expectations and are not able to meet them, we see ourselves as the problem. We don’t have a clear, direct way to attribute it to the environment, and even if we did, we don’t control that. So we try to control what we can by shaming ourselves toward greater productivity and, thus, worthiness and acceptance.</p>
-
-<p dir="ltr">Our worth is tied to neither successes nor setbacks. Caring for ourselves means seeing the reality that we are struggling, without seeing ourselves as the struggle. For me, this means fiercely protecting my self-concept by:</p>
-<ul dir="ltr">
-<li>tuning into what I am experiencing and what I need</li>
-<li>finding people who can see me for who I am</li>
-<li>cutting my to-do list down to a grace list (to help me survive this day)</li>
-<li>saying no to protect my yes</li>
-<li>advocating for my needs and reality</li>
+<p>What might become possible if you approached your current or next liminal space with curiosity? The following practices can help you remain present, loosen your attachment to certainty, and participate intentionally in what is endeavoring to emerge.</p>
+<p><strong>Pause and Discern</strong></p>
+<ul>
+<li><strong>Recognize</strong> the urge to flee. Ask whether you are avoiding discomfort or moving toward something meaningful.</li>
+<li><strong>Honor</strong> the roles, relationships, structures, and ways of being that supported you in the past.</li>
+<li><strong>Release</strong> attachment to a particular timeline or outcome.</li>
 </ul>
 
 
@@ -336,87 +398,147 @@
   
 
 
-<p dir="ltr">No one can see what I don’t communicate and advocate for.</p>
-<h2>Accountability That Accounts for Conditions</h2>
-<p dir="ltr">When we set out to meet what we believe are reasonable expectations and fall short, we often judge ourselves, believing it is our fault. We rarely consider the larger context, current conditions, or fluctuations of human performance. We hold ourselves to the standards of a <em>should</em> that has never met our reality. We achieve closure by resorting to self-blame, which comes at the cost of the inner trust and safety we need to take risks moving forward. A better approach is to <a href="https://pubmed.ncbi.nlm.nih.gov/22645164/">hold ourselves accountable without heaping blame</a> and acknowledge conditions beyond ourselves.</p>
+<p><strong>Explore What Is Emerging</strong></p>
+<ul>
+<li><strong>Experiment</strong> with small, intentional steps to discover what resonates with your strengths, emerging goals, values, passions, and longings.</li>
+<li><strong>Schedule</strong> time for self-care, reflection, meandering, discovery, and intentional action.</li>
+<li><strong>Engage</strong> with an essential liminal space question: <em>Who am I being called to become?</em></li>
+</ul>
 
-<p dir="ltr">This is a collaborative effort. It begins with leaders proactively providing support, acknowledging gaps in resources, and setting conditions that encourage honesty about one’s capacity and the potential impact of modifying expectations. Without this, sharing one’s true needs can be a liability. If you are your own boss, this is a matter of self-leadership. You must be intentional in creating a culture that will sustain you.</p>
-
-<h2>How to Reframe High Performance</h2>
-<p dir="ltr">The idea of high performance being personified by individuals is short-sighted, as it assumes human capacity is consistent, or worse, ever-expanding. Instead of thinking of individuals as high performers, consider the conditions that <a href="https://mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-state-of-organizations">foster sustained impact</a>, and take proactive steps to safeguard humanity and <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9432722/">replenish capacity</a>. When people break, the culture crumbles.</p>
-
-<p dir="ltr">Leaders can start by being honest about the challenges they are facing, and those being faced by people in their organization. What are they modeling? Are they empowering their people to make decisions and work in a way that is sustainable? Or are they accelerating conditions for burnout? Expecting ever higher levels of performance without <a href="https://pubmed.ncbi.nlm.nih.gov/27732008/">adequate support and resources</a> strains the individual and ultimately compromises the organization’s culture and capacity to fulfill its mission.</p>
-
-<p dir="ltr">Whether you lead the culture or work within it, you are not alone. We are all walking through this and figuring it out in real time amidst a rapidly changing world. You do not have to prove yourself or prevent this from ever happening again. The practice is learning to anchor yourself in who you are outside of what you do, and to protect your capacity and preserve your light.</p>
+<h2>Liminal Space Wisdom</h2>
+<p>The inherent gifts of the liminal space rarely arrive fully formed inside the ugly wrapping paper and ribbons of thorns. The gifts are revealed via our willingness to participate in the unwrapping process. Our deepest gift is learning to pause with intention and practice surrender, non-attachment, and allowing. In doing so, we generate the opportunity for the liminal space to transform us, ugly wrapping paper, thorns, and all.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/shame-free-wellness/202610/why-the-push-for-high-performance-backfires-and-what-helps" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-healthy-workplace/202610/a-gift-in-ugly-wrapping-paper" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/shame-free-wellness/202610/why-the-push-for-high-performance-backfires-and-what-helps</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/shame-free-wellness/202610/why-the-push-for-high-performance-backfires-and-what-helps</guid>
-            <dc:creator><![CDATA[Portia Preston, DrPH]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-healthy-workplace/202610/a-gift-in-ugly-wrapping-paper</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-healthy-workplace/202610/a-gift-in-ugly-wrapping-paper</guid>
+            <dc:creator><![CDATA[Janet M Shlaes Ph.D., MBA, MA, ACC]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/vitaly-gariev-aotrm-bpaak-unsplash.jpg?itok=LjWSSIC7" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/questions_-_pexels-leeloothefirst-5428836.jpg?h=bdfb1edc&amp;itok=WtECzPBc" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Your Feelings Are Real. Are They Accurate?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/changiz-removebg-preview.jpg?itok=IYUc55oB" alt="Changiz Mohiyeddini Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Fear</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Your Feelings Are Real. Are They Accurate?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Emotions establish that something was experienced, not necessarily what it means.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why "Night Owls" Are Just as Productive as "Morning Larks"]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sleep</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why "Night Owls" Are Just as Productive as "Morning Larks"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">It's the duration and quality of sleep that matter.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A feeling can be entirely real while the conclusion drawn from it is mistaken.</li><li style="margin-bottom:6px;">Feelings are worth taking seriously but on their own they can't tell us who did what, or why.</li><li style="margin-bottom:6px;">Respecting feelings means investigating what they signal.</li>
+              <li style="margin-bottom:6px;">Sleep duration and quality matter more than whether you wake early or stay up late.</li><li style="margin-bottom:6px;">Standard work schedules may explain early birds’ mood advantage.</li><li style="margin-bottom:6px;">Consistent sleep schedules, outdoor exercise, and less bedtime screen use can support better sleep.</li>
             </ul>
           </div>
-                    <p>The meeting was heated. I made a statement in order to bring us back to the main issue. All of a sudden, a colleague made a comment about my statement. The comment did not sound collegial or helpful. I felt he was questioning my expertise. I felt uncomfortable. By any HR definition, I had enough to submit a complaint against him, and I had the strongest possible evidence: my feelings. Was I right? Did I need anything more? </p>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/sleep.jpg?itok=mxv9iGYU" width="320" height="320" data-insert-type="image" title="Vika Glitter / Pexels" alt="Vika Glitter / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Vika Glitter / Pexels</div>
+</div>
+</div>
+</div>
+<p>Many prominent people claim an early start to their day is the key to their success. CEOs, world leaders, and influential figures often tout routines involving early mornings. Hustle culture echoes this sentiment, making bold claims about the life-changing benefits of waking up at 4 a.m., even if that means surviving on just four hours of sleep and several cups of coffee. This perspective, however, tends to be shortsighted. Here’s why.</p>
 
-<p>Years ago, a professional heavyweight boxer came to see me. Without any doubt, he was better equipped to defend himself than almost anyone who had ever sat in my office.</p>
-<p>He came because of spiders.</p>
-<p>His fear was so severe that the word alone could set it off. If he heard that someone had seen a spider in the building next door, his heart would race, he would start to sweat, and everything in him wanted to get out. Needless to mention, we met in a country where spiders pose almost no danger to anyone.</p>
+<h2>Good Sleep Is About Duration and Quality, Not Bedtimes And Waketimes</h2>
+<p>Sleep plays a vital role in our cognitive, biological, and psychological functioning. While it’s true that the requirement for sleep decreases as we age, the <em>CDC</em> <a href="https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html">recommends</a> getting a minimum of seven hours of sleep every 24 hours, even for adults.</p>
 
-<p>I have thought about him often over the years, because his case raises a question much bigger than spiders.</p>
-<p>Did his fear make spiders dangerous? Of course not. His terror was completely genuine as an experience, but wildly out of proportion as an estimate of risk. It told me a great deal about him: what he had learned, what had happened to him, the associations his nervous system had quietly built over a lifetime. It told me almost nothing about spiders.</p>
+<p>So, why is this number important? A 2020 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389945720304688">study</a> conducted on 8,698 adults and published in <em>Sleep Medicine</em> observed that when participants deviated from the recommended seven to eight hours, their quality of life dropped. While this drop was found both in participants who slept more and those who slept less, it was especially significant for the latter group. The study also found that deviating from the recommended sleep duration (by either sleeping more or less) led to depressive symptoms.</p>
 
-<p>That is true of emotions in general. Our feelings don't read the world the way a thermometer reads temperature. They come from appraisals, the quick and mostly automatic judgments we make about what a situation means for us. Those judgments are shaped by temperament, history, culture, mood, and expectation, so every emotion carries news about two things at once: the situation and the person feeling it. When the appraisal is right, emotion is a wonderful guide. Fear spots danger. Anger registers injustice. Discomfort warns that a line has been crossed. When the appraisal is off, we feel fear where there is no danger, jealousy where there was no betrayal, and even a strange calm when we should be alarmed.</p>
+<p>Beyond the hours we sleep, the quality of our sleep plays a crucial role in our mental health. A 2021 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8651630/">meta-analysis</a> (of 65 trials involving over 8,600 participants) published in <em>Sleep Medicine Reviews</em> looked into whether improving sleep quality could boost mental health. It found that when sleep improved, so did depression, anxiety and rumination. There were also improvements in stress levels and even positive effects on symptoms of psychosis. To top it off, the more sleep quality improved, the better the participants’ mental health became, meaning that a causal link between sleep quality and mental health is likely.</p>
 
-<p>Clinicians have a name for one version of this mistake: emotional reasoning. It is the quiet logic of "I feel anxious, so something must be wrong." We also borrow whatever mood we happen to be in and let it color judgments that have nothing to do with it.</p>
-<p>In workplaces, families, and institutions, discomfort is sometimes offered not just as a description of an experience but as proof that someone did something wrong. "What you said made me uncomfortable," we claim, with the unspoken understanding that this settles the matter. But there's a step being skipped. A feeling inside one person can feel like evidence of misconduct by another. But that boxer reminds us that this leap doesn't happen on its own. Discomfort can come from genuine mistreatment. It can also come from a misunderstanding, from an old wound the other person knows nothing about, from different norms colliding, from hearing a truth we didn't want to hear, or simply from difference: an unfamiliar accent, an unpopular opinion, a reasonable disagreement.</p>
+<p>All of this is to say that if you want to be at your best, <a href="https://www.psychologytoday.com/us/blog/social-instincts/202510/why-your-partner-keeps-falling-asleep-around-you">you need to prioritize sleep</a>. But the question remains:</p>
+<h2>Who Sleeps Better: A Night Owl or an Early Lark?</h2>
+<p>As long as you feel rested the following day, it doesn’t matter which camp you fall into. Some of us are naturally programmed to fall asleep later, while others may have a predisposition to go to bed early and rise early. Both are perfectly okay.</p>
 
-<p>This analogy has limits, and people are far more ambiguous than spiders. And unlike a phobia, discomfort in a relationship can be an early sign of harm that hasn't yet shown its shape—harm that builds slowly or depends on who holds power over whom. The feeling, and the explanation we attach to it, are two different things.</p>
+<p>Early larks may have a slight edge in terms of experiencing more positive emotions compared to night owls, according to a 2012 <a href="https://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0027071">study</a> published in <em>Emotion</em>. But a lot of this has to do with how our society follows a “standard daytime.”</p>
+<p>To put it in perspective, think about the average person who has to show up to work at nine in the morning. If this person is a night owl, there’s a chance they haven’t got their seven hours of sleep, which can cascade into low mood as the day progresses. In contrast, an early lark is likely to be well-rested and ready to start the day by, say, six in the morning.</p>
 
-<p><em>I felt uncomfortable. </em>This one short sentence often carries several claims folded together: Something you did caused it. You should have seen it coming. You meant it. And it was wrong. The first is something only the speaker can know, and each claim after it asks for more interpretation and evidence.</p>
+<p>Understanding this is just the first step. The next crucial aspect is how we can apply this knowledge to improve our sleep quality. Here are some tips on how we can adapt our habits to achieve better sleep, regardless of whether we’re night owls or early larks.</p>
+<ul>
+<li><strong>Engage in some form of outdoor exercise every day, preferably in the sun.</strong> This helps regulate your body’s natural sleep-wake cycle, known as the circadian rhythm, and can improve your sleep quality by boosting the production of melatonin, a sleep-inducing hormone, in the evening.</li>
+<li><strong>Avoid looking at screens at least an hour prior to bedtime.</strong> The blue light emitted by screens can <a href="https://www.psychologytoday.com/us/blog/social-instincts/202211/how-bedtime-procrastination-can-hold-you-back">interfere with the production of melatonin</a>, making it harder for your brain to recognize it’s time to wind down and sleep, which can disrupt your natural sleep cycle.</li>
+<li><strong>Pick a bedtime that allows you to sleep for seven hours and stick to it every night.</strong> Consistently going to bed and waking up at the same time each day helps stabilize your internal clock, improving both the quality and efficiency of your sleep. Irregular sleep patterns can lead to poor sleep quality and drowsiness.</li>
+</ul>
 
 
-<p>I have watched this sentence used as a weapon. A colleague raises a legitimate criticism, or points to a gap in someone's skills, and suddenly the conversation is no longer about the criticism. It is about the discomfort it caused, and now the person who raised it is the one under review. Once that happens, the original concern is rarely heard again, and the reported feeling may be treated as a finding.</p>
+<p>Instead of getting sidetracked by the night owl versus early lark debate, the question you should really be asking is, “Am I getting enough high-quality sleep?” If the answer is no, making small adjustments to your routine can go a long way. Remember, the whole point of sleeping at night is to be ready for the challenges and tasks that lie ahead. A good night’s sleep is a refresh button for your mind, and it really does make all the difference.<br><br><em>A version of this post also appears on Forbes.com.</em></p>
 
-<p>That is why treating the feeling as the verdict creates a problem. If discomfort counts as settled proof, the other person has no way to address what actually happened. Subjective experience is still evidence; in medicine we rely on people's reports of pain every day. But on its own, it rarely tells us what another person intended or exactly what took place.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202610/why-night-owls-are-just-as-productive-as-morning-larks" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/social-instincts/202610/why-night-owls-are-just-as-productive-as-morning-larks</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202610/why-night-owls-are-just-as-productive-as-morning-larks</guid>
+            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-vika-glitter-392079-4752713.jpg?itok=tjIBCX2f" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grandparents and Divorce: How to Help Without Hurting]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-09/ann_gold_buscho__2_.png.jpg?itok=Lx_2gAjx" alt="Ann Gold Buscho Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Divorce</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Grandparents and Divorce: How to Help Without Hurting</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Grandparents can be a safe harbor for children in a divorce.</h2><p style="font-size:0.9em;color:#666;">Posted October 26, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/pexels-mikhail-nilov-8307532.jpg?itok=Xy6qzU1o" width="320" height="213" data-insert-type="image" alt="Sharing music or learning to play an instrument is a rewarding way to spend time with your grandchildren." title="Mikhail Nilov/pexels"></div>
+<div class="caption">Sharing music or learning to play an instrument is a rewarding way to spend time with your grandchildren.</div>
+<div class="insertArea--origin subtext">Source: Mikhail Nilov/pexels</div>
+</div>
+</div>
+</div>
+<p>"I had no say when my son divorced his wife," Bella told me. "She was like a daughter to me! My son wanted me to love her when they married, but now he tells me not to even talk to her! And my grandchildren — I’m worried I’ll lose my time with them too, and what about the holidays?" Bella is grieving, but her husband, Andy, is furious. He says “She was terrible to our son, I don’t blame him for leaving her, and the kids should know whose fault this is.”</p>
+
+<p><strong>When your adult child divorces, you and the other grandparents will also feel the deep loss, especially when there are grandchildren.</strong></p>
+<p>You grieve the loss of the marriage, your adult child’s suffering, and the loss of the extended family to whom you’d opened your hearts. You think of the memories of family gatherings that you thought would go on forever. You may have grown close to the other in-laws, but most of all, you suffer for the grandchildren. Will they be okay? Will you still see them? How will your relationships change? What can you say or not say to them, and how can you best support them through this family crisis and change?</p>
+
+<p>Most of my writing has <a href="https://www.psychologytoday.com/us/blog/a-better-divorce?eml">focused on the parents</a>, but I have learned through my clients’ and my own experience how important of a role grandparents play in how children weather a divorce.</p>
+<h2>Grandparents Matter a Lot During a Divorce</h2>
+<p>Parents going through divorce are suffering a life crisis. Overwhelmed by anger, grief, or worry, they have to deal with complicated, often new, all-consuming logistics, legal matters, and conflict. Most have reduced emotional resources for their children, despite their love and best intentions. Grandparents can offer a safe place to land for the grandchildren, with consistent traditions and a calm environment. Grandparents offer a protective buffer to their grandchildren, but only if they can stay out of the conflict. </p>
+
+<h2>Grandparent Pitfalls: Where Things Can Go Wrong</h2>
+<p>“Blood is thicker than water,” says Andy. “We have to be loyal to our son, and our grandkids should know the truth about who their mom really is.” Of course, it is human nature to feel protective of your adult children, especially if you feel they were wronged in the marriage or in the divorce. Unfortunately, criticizing one of your grandchildren’s parents puts kids in an intolerable, and unhealthy loyalty bind. Kids know that they have both parents in them, and the loyalty test asks them to reject a part of themselves. Healthy children learn to love and accept both parents during a divorce, without having to decide who was right or wrong, or who was the victim or to blame. When a grandparent gives the children the message that they need to choose between their parents, the children become trapped in the middle. Research is clear that one of the most damaging aspects of divorce for kids is feeling trapped in this loyalty bind. Grandparents need to be mindful not to add to this.</p>
+
+<p>Children are at risk of adopting unhealthy roles during divorce, which I have <a href="https://www.psychologytoday.com/us/blog/better-divorce/202201/co-parenting-after-divorce-avoid-these-4-loyalty-traps">written about </a> previously. Among these roles are being messengers, spies, or investigators. Asking your grandkids what goes on at the other parent’s home, asking them to pass a message, or to report on events there, all are stressful roles for your grandkids, and your relationship with them will feel less safe as a result. Grandparents risk unconsciously questioning their grandkids — as Andy did when he said, “I’m just curious if she’s got a new man in her life!” </p>
+
+<p>Another risk faced by grandparents is when they feel pulled into managing their adult child’s divorce, their finances, or their legal matters. Adult children need to feel confident and capable as they navigate this huge life change. Without fostering dependency, grandparents can offer emotional support and advice, but advice only when it is requested! Offering practical support such as a meal, babysitting, or transportation help is often greatly appreciated.</p>
+
+<p>Bella’s concern about losing time and emotional closeness with grandchildren is supported by research. Contact with grandchildren often drops when shared custody is established, unless the grandparents can maintain a positive connection with both their child and their ex-spouse. This can be challenging when you, like Andy, are pulled to align yourself with one of the parents. Because grandparents have very limited legal rights in the US, a good relationship with both parents is a far more reliable protection than a court order. </p>
+
+
+<h2>What Is a Grandparent to Do?</h2>
+<p>Now that you know what not to do, here is how you can support your grandchildren.</p>
+<p>Hold down the fort, and stay calm in the storm. Keep your home, routines, and traditions as consistent as possible. Continue your regular Sunday dinners, pizza/movie nights, or playtime at the park to let your grandchildren know that some things are not changing. </p>
+
+<p>Speak kindly about both of your grandchildren’s parents, or say nothing at all. If you feel the need to vent, turn to friends or a therapist. It will harm your relationship with your grandchildren if you speak negatively of either of their parents. Andy struggled with this idea and continued to talk about it in therapy for several sessions. </p>
 
 
 
   
 
 
-<p>There is a mistake waiting on the other side, and it is just as serious: deciding that feelings are noise, and so "you're just being emotional" counts as an answer. It doesn't. The boxer's fear provided no evidence about spiders, but it was excellent evidence that something in his life needed attention. It was where his treatment began.</p>
+<p>Don’t probe their emotions but give them space to express themselves if they want to. Listen without advising or correcting them. Express empathy: “That sounds really hard,” or something encouraging like, “It will get easier with time.” </p>
+<p>Be sure to let the parents take the lead on what they’d like you to say or not say to the kids. Even if you disagree with their rules or their parenting plan, demonstrate respect and support.</p>
 
-<p>Discomfort is often the first sign of mistreatment. People who are being harassed or bullied may feel uneasy long before they can name the pattern. Brush feelings aside and you throw away exactly the signal that protects people. And when someone's accurate perceptions are dismissed again and again, especially as part of a broader pattern of control, that dismissal can do lasting damage of its own.</p>
+<p>Keep the door open to the other parent. Bella struggled with the loss of her daughter-in-law, but let her know that she hoped to be able to stay in the children’s lives. “Maybe eventually we can reconnect more deeply,” she sighed. I encouraged her, and encourage all grandparents, to acknowledge and take care of their own grief, as the ripple effects of divorces cross through all the generations.. </p>
 
-<p>Perhaps the wiser path is to reject both errors: Feelings are not verdicts, and they are not noise. They are testimony from a witness who may be entirely sincere and whose report may matter enormously, but whose interpretation can still be incomplete or mistaken.</p>
-<p>My boxer, by the way, recovered—but not because anyone told him his fear was silly. It wasn't silly; it was agony. He got better because we took his suffering seriously while gently reshaping his sense of danger against reality. In our last meeting, I told him that the next time he saw a spider, he might consider how terrified that little spider must be to see a giant like him. He laughed.</p>
+<h2>In the End</h2>
+<p>While grandparents can neither prevent nor fix a divorce, they can give their grandchildren something essential: a safe, warm, stable relationship while everything else in their life is in flux.</p>
+<p>Months later, Andy was still angry, but he had noticed his granddaughter went quiet whenever he criticized her mom. "I guess I was making her choose, or to feel bad about loving her mom," he said. "I realized this might be a reason she won’t want to come over." Instead, he decided to teach her to play the ukulele, which he’d wanted to do for a long time. </p>
 
-<p>I think that is what all our emotions deserve: respect as experiences, attention as signals, and a careful look before we treat what they suggest as fact. </p>
-<p>A final note: My colleague was right. My statement did not carry enough substance to suggest I was talking as an expert.</p>
+<p>Bella reached out to her former daughter-in-law and told her she hoped they could stay connected for the children's sake. She was relieved. The last time I saw them, Bella and Andy were planning activities for “Grandparent Camp,” a long weekend with their grandchildren, and their former daughter-in-law dropped the kids off herself.</p>
+
+<p><em>© Ann Gold Buscho, Ph.D. 2026</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/your-feelings-are-real-are-they-accurate" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/a-better-divorce/202610/grandparents-and-divorce-how-to-help-without-hurting" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/your-feelings-are-real-are-they-accurate</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-unknown-mind/202607/your-feelings-are-real-are-they-accurate</guid>
-            <dc:creator><![CDATA[Changiz Mohiyeddini Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/a-better-divorce/202610/grandparents-and-divorce-how-to-help-without-hurting</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-better-divorce/202610/grandparents-and-divorce-how-to-help-without-hurting</guid>
+            <dc:creator><![CDATA[Ann Gold Buscho Ph.D.]]></dc:creator>
             <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/shutterstock_2806918521.jpg?itok=mFYluQfC" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-mikhail-nilov-8307532.jpg?itok=9PHzCvbu" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
