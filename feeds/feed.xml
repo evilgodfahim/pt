@@ -4,578 +4,782 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 15:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 20:29:21 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Oct 2026 15:37:46 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 20:29:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Sometimes Violence Is Actually the Answer?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-07/PXL_20240616_220456808.PORTRAIT_3-removebg-preview.png.jpg?itok=wV86QNB1" alt="E. Paul Zehr Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Anger</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Sometimes Violence Is Actually the Answer?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">For effective self-protection offense is the best defence.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Netflix’s the New Stanford Prison Experiment]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/Azadeh-Aalai.jpg?itok=mqTGdXp9" alt="Azadeh Aalai Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Ethics and Morality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Netflix’s the New Stanford Prison Experiment</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Zimbardo's Stanford Prison Experiment continues to resonate with the public</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Physical violence is sometimes unavoidable.</li><li style="margin-bottom:6px;">Self-protection requires tactical movement towards a threat in order to defeat it.</li><li style="margin-bottom:6px;">Always try to avoid confrontation whenever possible.</li><li style="margin-bottom:6px;">When it is impossible to avoid, taking the initiative is the only way out.</li>
+              <li style="margin-bottom:6px;">The Stanford Prison Experiment (SPE) remains one of the most infamous studies in the field.</li><li style="margin-bottom:6px;">Contemporary research has questioned the scientific legitimacy of the research design of the SPE.</li><li style="margin-bottom:6px;">The SPE continues to capture the imagination of the public.</li><li style="margin-bottom:6px;">Does a reality television reimagining of The SPE have anything meaningful to contribute?</li>
             </ul>
           </div>
-                    <p>"Karate is for defense only," Mr. Miyagi famously told Daniel-san in "The Karate Kid." In contrast (sort of), Cobra Kai advised to "strike first, strike hard, and show no mercy." Mr Miyagi's quote seems to echo an ethos from Okinawan and Japanese traditions that advise "karate ni sente nashi"; there is no first attack. But which is correct?</p>
+                    <p>I imagine my skeptical and slightly horrified reaction when I heard about Netflix’s attempt to replicate Philip Zimbardo’s Stanford Prison Experiment from the 1970s was similar to that of many other social psychologists and academics. In fact, a fellow grad student—and dear friend—from my doctorate program was the one who alerted me to the release of this new show, and we exchanged a series of predictable messages bemoaning the lack of scientific viability behind such an attempt.</p>
 
-<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="42" height="42" frameborder="0" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" title="YouTube | The Karate Kid Part II: Origin of Myagi-Do Karate  - Shimpo Sensei" src="https://www.youtube.com/embed/2iNcTGoZMMY?autoplay=0&amp;start=0&amp;rel=0&amp;mute=0"></iframe>
-</div>
-<h2> </h2>
-<h2>Making sense of defense</h2>
-<p>The basic core of many martial arts is self-protection throughout all situations. It is key to always be aware of the unfolding situation, <a href="https://www.psychologytoday.com/us/blog/black-belt-brain/202604/building-body-and-brain-lessons-from-martial-arts">get out of the way of the threat by moving forward and off the direct line from the opponent to place yourself in a safe position</a> to respond. Initially, stopping the threat may require hitting lethal targets (e.g., a punch to the throat) because your skill is not high enough. The next training stage is hitting targets to incapacitate (e.g., kicking the knee to tear ligaments) and provide an opening to escape and get away. The highest level, when actual physical exchange is inevitable, is dodging and avoiding all attacks and escaping. </p>
+<p>The Stanford Prison Experiment was part of a number of studies spanning the 1950s-70s in the field of social psychology that shed light on the situational and group-based influences that shape behaviors when individuals are in the presence of others. Psychological processes enabling destructive conformity, obedience, and abuses of power became central to questions psychologists were attempting to understand regarding human behavior in the post-war period. This period also reflected significant social change and upheaval here in the United States, raising the stakes for social scientists to investigate how relationships with others, group dynamics, and power in particular influenced behaviors.</p>
 
-<p>I prefer the concept of self-protection rather than self-defense. Self-protection involves proactive attack, while self-defense implies waiting to be attacked and then responding. Defense encourages backing up and attacking moving forward. But if we are truly under threat, only defending permits constant repeated attacks. Self-defense becomes a shield, whereas self-protection based on attack gives you a spear.</p>
+<p>Over the summer in 1971, Zimbardo set up a makeshift prison in the basement of one of the buildings at Stanford University, randomly assigning young white males recruited to participate in this study as “inmates” or “guards.” Anticipating the potential stress that could develop from enrolling in a two-week study where an individual would potentially be incarcerated or affiliated with a “prison” as an assigned guard, Zimbardo and his team screened prospective applicants. The sample they settled on reportedly reflected the most psychologically healthy individuals of those who had applied, reflecting a group of young men most likely to withstand the potential stress of a 14-day prison simulation. He and his graduate research assistants were interested in exploring how power dynamics would influence the behaviors of participants placed in each respective role.</p>
 
-<p>Many martial arts traditions recognize three psychological and physiological states related to physical encounters between you and an opponent: counterattacking, attacking while being attacked, and preemptive attack. These are listed in order of technical difficulty. Note that "attack" is used in all 3, it's the timing of your attack that differs.</p>
+<p>The results, of course, have become part of psychological lore. The interactions between the assigned prisoners and guards became so sadistic, disturbing, and cruel, that Zimbardo shut down the study after 6 days—revealing that in retrospect, he likely should have ended it even sooner. Ever the showman, even Zimbardo’s explanation for why he didn’t end the study sooner played into the narrative he had constructed regarding why the interactions between the two groups escalated to hostility so quickly: Zimbardo himself became lost in his “prison superintendent” role, losing sight that as the Principal Investigator (PI) of the experiment, his ethical responsibilities to the participants should have taken precedence</p>
 
-<p>Counterattacking is responding to an attack after receiving, intercepting, or blocking that of our opponent. The timing of actions in this scenario is often attack 1: block 1, and then counterattack 0.5. Attacking while being attacked occurs when we detect the unfolding threat and respond immediately during the opponent's attack. The timing of actions is attack 1: counterattack 1. Preemptive attack is taking action as soon as you perceive the opponent will attack but before they actually do. Subtle hints in body angle, visual gaze, breathing, and weight shift cue this. The timing of actions is preemptive counterattack -1: attack 0.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
+<p>Taken in tandem with the Yale Obedience Studies conducted by Stanley Milgram in the 1960s, Zimbardo himself referred to his study as a “bookend” to such research at the time that was shedding light on the powerful role social interactions and group processes played in inciting destructive behaviors (Drury et al., 2012). The results of the study, what they reveal about group dynamics, how powerful social roles have the potential to overtake individual identity or responsibility—so many theories and themes regarding human nature (and nurture) have been dissected as a byproduct of this research. </p>
 
-  </div>
+<p>Zimbardo himself continued to refer to this study over the course of his professional career, using it as the catalyst for other work, such as publication of his 2007 book <em>The Lucifer Effect: Understanding How Good People Turn Evil</em>, Ted Talks he gave on such themes as the psychology of evil, and other prominent popular cultural publications and appearances. </p>
 
-<p>Of course, the highest level is to perceive an imminent threat and take preventative action to avoid the scenario completely, but this is often impossible.</p>
-<h2>Not the first to strike, but the first to hit</h2>
-<p>When attacking for self-protection, you might successfully defeat an opponent, but it is 100% certain that it is harder for the opponent to attack you.</p>
+<p>Fast-forward further, and <em>American Psychologist</em> publishes Le Texier’s (2019) scathing review of the scientific design of Zimbardo’s study, aptly titled, “Debunking the Stanford Prison Experiment,” and once again, academics are revisiting this infamous study. Among many of the claims Le Texier (2019) makes based on revisiting the archives of the data collected from the study and interviewing 15 of the former 22 participants, is the “questionable scientific validity” of the results. Le Texier (2019) argues that in assigning himself the prison superintendent role, during an orientation prior to the start of the simulation, Zimbardo very explicitly demonstrated to the guards how he expected them to behave towards the inmates.</p>
 
-<p>There are many scenarios where we don't want to hit, hurt, or harm someone. For example, a friend or family member whose capacity is altered by alcohol, drugs, or dementia. We want to avoid their violence but once we have a sufficient level of skill, we can hopefully do so without needing to strike.</p>
-<p>You don't have to hit but you also aren't required to be hit. Attack-oriented, tactical body movement does not require you to strike, but it does keep you safe and put you in a good position to have many options.</p>
+<p>Seemingly as part of the renewed controversy over the study, National Geographic released a documentary in 2024 entitled “The Stanford Prison Experiment: Unlocking the Truth,” which includes separate interviews with both Le Texier and Zimbardo. Filming also brings together many of the former participants of the study who had largely stayed out of the public eye, revealing resentment towards Zimbardo not only because of what they were put through as part of their participation in a study he designed, but also in how they perceive he capitalized on their suffering to craft a specific narrative regarding what the results of the study revealed.</p>
 
-
-<h2>Fist comes from the heart</h2>
-<p>So I revise the Cobra Kai mantra as "strike first, strike fast, show mercy" to align with the Wing Chun expression that "the fist comes from the heart". This saying means two things: 1) occupy the centre line and attack the opponent directly; and, 2) your attack is meant to stop the aggression and allow safety. We hurt with compassion and only harm if needed.</p>
-
-<p>But our responses have to be done dispassionately; deliberately and without anger. As the original Miyagi (Miyagi Chojun, 1888-1953; founder of Goju-ryu karate) said "when anger rises the fists must lower, when you raise your fists you must lower your anger".</p>
-<p>I can agree 100% with something else Mr. Miyagi said in Karate Kid II, though, that the best way to avoid a punch is to "not be there." But if we have no choice and have to be there, we must take the initiative. When the only way out is through, the best defense truly is a good offense.</p>
+<p>Zimbardo categorically denies having coached assigned inmates in any way regarding the behaviors they demonstrated over the course of the study. Similarly, Le Texier maintains his previously written position by revealing in the interview he did not set out to undermine the authenticity of the study, but rather, came to such a conclusion through his investigation of archival materials from the study. Rather than answering the question of whether Le Texier’s (2019) critiques of Zimbardo’s research design were valid, the 2024 documentary poses more questions, as it is clear from watching the former participants interact with one another and reflect on the study that it did, in fact, leave a profound mark on them. </p>
 
 
 
   
 
 
-<p>(c) E. Paul Zehr (2026)</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
+<p>Episode 1 of this Netflix series appears to reflect on the continued controversy regarding the question of whether to trust Zimbardo’s claims from this study by presenting this simulation as “without bias.” To be clear: this most recent attempt at revisiting Zimbardo’s infamous study is in no way a scientific pursuit and entirely reality television fodder. Even with this qualifier, however, I can’t say I wasn’t compelled by what appeared to transpire in this six-episode reality TV series, dubbed as a contemporary, unscripted, redefined version of the Stanford Prison Experiment.</p>
 
-  </div>
+<p>For my thoughts on what transpires over the course of this show—and whether it reflects any meaningful expansion regarding what we know from the original study—stay tuned for Part 2 of this article.</p>
+<p>Copyright 2026 Azadeh Aalai</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/black-belt-brain/202609/sometimes-violence-is-actually-the-answer" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-first-impression/202610/netflixs-the-new-stanford-prison-experiment" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/black-belt-brain/202609/sometimes-violence-is-actually-the-answer</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/black-belt-brain/202609/sometimes-violence-is-actually-the-answer</guid>
-            <dc:creator><![CDATA[E. Paul Zehr Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/the-first-impression/202610/netflixs-the-new-stanford-prison-experiment</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-first-impression/202610/netflixs-the-new-stanford-prison-experiment</guid>
+            <dc:creator><![CDATA[Azadeh Aalai Ph.D.]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/screenshot_2025-10-28_12.45.11_pm.png.jpg?itok=faYywDAG" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/aaaaqr2bdrykfj0rlkohccahwglukuuwzaw7jtexghryx7hzmk2rgcqk_3qwzmq2blqcpuhvbsderb6i73udpl5lsni-2nqsc2wed8ooroybrs-ltgzs7reijyetk8ggxien2thblic2b4p4wre3z0dw5n75.jpg?itok=SJPL4kXQ" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[A Little Gratitude Can Go a Long Way at Work]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-01/robyne_hanley-dafoe__3_.png.jpg?itok=II-ZwH1r" alt="Robyne Hanley-Dafoe Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gratitude</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Little Gratitude Can Go a Long Way at Work</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What we notice at work shapes the culture we create.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Accepting Our Animal Nature]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/steve-taylor.png.jpg?itok=bofqmBJK" alt="Steve Taylor Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Happiness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Accepting Our Animal Nature</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Our animal nature is not something we should rise above.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Gratitude can help people feel seen, valued, and connected.</li><li style="margin-bottom:6px;">Gratitude matters in creating a workplace where people can do their best work.</li><li style="margin-bottom:6px;">Small, intentional acts of appreciation and gratitude practices can make a lasting difference.</li>
-            </ul>
-          </div>
-                    <p>We spend a significant portion of our waking hours at work. Beyond productivity and performance, our experience of those hours matters, too. Most of us know what it feels like to be appreciated and what it feels like when our efforts go unnoticed. When expressed genuinely, gratitude can help people feel seen, valued, and connected. It is a relational emotion that helps us recognize the contributions, kindness, and support we receive from others and gives us an opportunity to let them know that what they do matters. It’s also mutually beneficial! Expressing gratitude <a href="https://doi.org/10.1177/0956797618772506">benefits both the giver and the receiver</a>. Research suggests it can also:</p>
-
-<ul>
-<li><strong>Encourage helping:</strong> People who receive genuine thanks may be <a href="https://doi.org/10.1037/a0017935">more likely to help others</a>.</li>
-<li><strong>Support workplace well-being:</strong> <a href="https://doi.org/10.3389/fpsyg.2017.02025">Research reviews</a> link gratitude with positive relationships, social support, and a healthier organizational climate.</li>
-<li><strong>Nurture individual well-being: </strong>Gratitude practices have been associated with <a href="https://doi.org/10.1037/0022-3514.84.2.377">improvements in well-being and positive emotions</a>.</li>
-</ul>
-
-<p>In our workplaces, moments of appreciation can strengthen our sense of value and belonging and contribute to a culture of respect where people may feel more comfortable asking questions and sharing ideas. Gratitude is not the only ingredient in psychological safety, but it can help create an environment where people feel supported. This makes a difference in our everyday work experience, and for organizations looking to retain talent and build teams that navigate challenges together.</p>
-
-<h2>Why Gratitude Matters, Especially When Things Are Changing</h2>
-<p>Many people find it easier to express and practice gratitude when things are going well. If your team is celebrating a big win, landing the client, closing the deal, or perhaps receiving an award, the appreciation may flow naturally. Yet the reality is that in the day-to-day, many organizations are also facing restructuring, navigating shifting priorities, operating with stretched resources, and people may just be trying to find their footing amid uncertainty.</p>
-
-<p>People are not just moving through a change-management plan. They are experiencing change in a very real and personal way, on top of everything else they may already be carrying in their lives outside work. This is where gratitude encourages us to recognize people’s contributions while also acknowledging the realities they are navigating. The more intentionally we express gratitude, the more it flows through our teams and becomes part of our work culture, creating the conditions in which people can do the good work.</p>
-
-<h2>Ways to Bring More Gratitude Into the Workplace</h2>
-<p><strong>1. Make your thank-you specific. </strong></p>
-<p>Take an extra moment to say “thank you” explicitly to those on your team. Hold eye contact and pause. Let the “thank you”<em> </em>land and sink in.</p>
-<p>Or if you are connecting remotely, be specific in the email about what you are thankful for. For example, <em>“Thank you for getting this report to me on time and in the format I asked for. This will help me with preparing for the next meeting.” </em> Thank your manager for clarity and your colleagues for jumping in to support you in a moment you really needed it. Let them know what they did that made a difference.</p>
-
-<p><strong>2. Check in, and really listen.</strong></p>
-<p>Connect at least once a week, even with a simple message, email, or office pop-in. Ask how your teammates are doing, what is going well, and where they could use support. Listen to understand, not always to fix.</p>
-<p>As leaders and teammates, we want our people to feel safe enough to learn, grow, take risks, and make mistakes. Yet, the reality is that no space is technically safe. It is the people in these spaces who can make us feel safe. A strategy that suggests that you are a safe individual people can talk to is to ask, <em>“Do you need me to listen? Offer some advice? Intervene?”</em></p>
-
-
-<p><strong>3. Notice the progress and process, not just the outcome.</strong></p>
-<p>We are often more likely to celebrate the finished product than we are to recognize the collaboration, problem-solving, patience, creativity, and persistence that made it possible. Take time to acknowledge the person who asked the thoughtful question, helped a colleague get unstuck, or kept the team connected during a busy season. This helps people see that their everyday efforts make a difference.</p>
-
-<p><strong>4. Recognize people in the rooms they are not in.</strong></p>
-<p>Speak positively about colleagues’ contributions when they are not present. Give credit where it is due, share their ideas, and make their work visible. Being recognized for your good work boosts morale not just for the person being recognized, but others, too.</p>
-
-
-
-  
-
-
-<p>Gratitude can open doors and help build a culture where people advocate for and cheer one another on. <em>Remember, the people at the top are collaborating. The people at the bottom are competing.</em></p>
-<p><strong>5. Ask what appreciation looks like to them.</strong></p>
-<p>Not everyone experiences appreciation in the same way. While some team members may value public shout-outs, others might prefer a private thank-you, a thoughtful email, or a handwritten note. For others, small gestures, like bringing them a coffee or a cookie unexpectedly, mean the most. Taking the time to ask what helps each person feel valued can ensure your appreciation truly resonates. <em>What support would make their work more sustainable? What opportunities would help them grow? What would make the biggest difference to them right now?</em> Sometimes, appreciation from a leader can mean opening the door to new opportunities for growth or giving someone the flexibility to attend their child’s school event or care for an aging parent.</p>
-
-<h2>Final Thoughts</h2>
-<p>If people on a team feel invisible, it’s harder for them to feel connected to a shared purpose, and when contributions consistently go unrecognized, people can be left feeling discouraged and disengaged. Gratitude is not a band-aid that can fix a broken system, replace fair compensation, ease unreasonable workloads, or provide real support. Yet when people feel seen and valued, it helps create the conditions for more positive and fulfilling workdays, and they are more likely to do their best work and bring their strengths forward.</p>
-
-<p>Before moving on to your next task, I have one final gentle invitation: <em>Who has made your work a little easier or your day a little better? </em>Take a moment to tell them.</p>
-<p>Our workdays are made up of many tasks, but we live them alongside others. Taking the time to notice, say thank you, and let people know they matter can have a lasting impact, not only on an individual level, but on the workplace culture created together.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/everyday-resilience/202610/a-little-gratitude-can-go-a-long-way-at-work" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/everyday-resilience/202610/a-little-gratitude-can-go-a-long-way-at-work</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/everyday-resilience/202610/a-little-gratitude-can-go-a-long-way-at-work</guid>
-            <dc:creator><![CDATA[Robyne Hanley-Dafoe Ed.D.]]></dc:creator>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/taylor-daugherty-7afqqparmbw-unsplash.jpg?h=b3f92b47&amp;itok=01kYoGrm" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are Ideas Invented or Discovered?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/unknown-4-removebg-preview.jpg?itok=5LOIFp6N" alt="Liane Gabora Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Creativity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Are Ideas Invented or Discovered?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Where ideas come from: a plausible answer to an age-old question</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">The invention view overlooks how unforseeable possibilities emerge during creation.</li><li style="margin-bottom:6px;">The discovered view overlooks how creators shape which possibilities become reality.</li><li style="margin-bottom:6px;">These views are reconciled using the notion of potentiality which incorporates probabilities of possibilities.</li><li style="margin-bottom:6px;">We hone an idea by seeing it from new perspectives, allowing it to potentially take unanticipated directions.</li>
-            </ul>
-          </div>
-                    <p>Where do ideas come from? The question has intrigued philosophers, scientists, and artists for centuries.</p>
-<p>Mathematicians sometimes describe their findings as though they were exploring a landscape that existed long before they did. Composers speak of melodies that seem to come to them from somewhere beyond themselves. Writers sometimes find that their characters take on lives of their own, behaving in ways their creators hadn’t anticipated. Such experiences appear to support the <em>discovered view</em>, according to which a creative work exists in some abstract realm of possibilities, and its creator gradually uncovers it. This resembles <em>Platonism</em>: the idea that mathematical truths, and perhaps other abstract structures, exist independently of our awareness of them. </p>
-
-<p>Yet it seems counterintuitive that if Shakespeare hadn’t written <em>Hamlet</em>, or Beethoven hadn’t composed his <em>Fifth Symphony</em>, these works would still have existed somewhere, waiting for someone else to find them. The discovered view is generally contrasted with the <em>invented view</em>, according to which it is the creator who brings the work into existence. In this view, when you write a story, you usher it into being with each decision you make about what happens next.</p>
-
-<p>I think neither view precisely captures the creative process. To resolve this puzzle, we may need to reconsider something we usually take for granted: the nature of potentiality. </p>
-<h2>What Changes as a Work Takes Shape?</h2>
-<p>Imagine a sculptor contemplating an unhewn stone. Every sculpture that could be carved from it is “possible.” The stone could become a bear, a human, or abstract art. In this sense, each of the endless possibilities that are latent (i.e., that lie dormant) in the stone could be said to “exist.”</p>
-
-<p>But these possibilities are not equally probable, and moreover, their relative probabilities shift as sculpting proceeds. The sculptor brings to the task particular interests and skills, as well as a predilection to pay attention to and be inspired by certain aspects of the stone. Perhaps a smooth bump suggests the curve of a delicate shoulder, and the sculptor starts envisioning it as an angel or ballerina. But as the carving proceeds, the sculptor notices that the middle of the region where the face should go is red, and becomes increasingly excited by the idea that the red region would make a great clown nose. Features such as an exaggerated smile and a flower-adorned cap, which were initially unlikely, become increasingly probable. Over time, the clown possibility becomes more likely, and conversely, as more stone is removed, other possibilities become physically impossible. </p>
-
-<p>At each step of the journey, the sculptor’s next action is influenced by two factors: (1) the sculptor’s developing mental model (or conception) of the sculpture, and (2) the unfolding physical state of the unfinished sculpture itself. The interplay of these two factors results in the series of actions by which, out of endless initial possibilities, eventually just one remains.</p>
-
-<p>In short, it’s in some sense true that the final sculpture in all its idiosyncratic detail <em>existed as a possibility </em>for that stone from the start. This appears to support the discovered view. However, it’s <em>also</em> true that the final clown sculpture <em>did not exist in the sculptor’s mind</em> as a well-defined option that got chosen from amongst other possible options. And this appears to support the invented view.</p>
-
-<p>What gives?</p>
-<h2>Possibility Versus Potentiality</h2>
-<p>A potential resolution to this paradox can be found by turning from possibility to potentiality. The resolution proposed here is <em>consistent with</em> the theory that <em>reality is potentiality</em> as proposed in my <a href="https://www.psychologytoday.com/us/blog/mindbloggling/202607/reality-is-potentiality">last piece</a>; however, it doesn’t <em>depend on</em> whether this theory is correct.</p>
-
-<p>The stone had the potential to become the particular clown sculpture that eventually emerged, but initially this outcome was highly improbable. As sculpting proceeded, its probability increased, conditional on the evolving state of both the sculptor’s mind and the sculpture itself.</p>
-<p>New possibilities need not come into existence for <em>potentiality</em> to change. Potentiality concerns not just what is possible, but the relative probabilities (or perhaps amplitudes) of different outcomes. These probabilities change as the creative process unfolds. Moreover, an initially vague idea need not consist of a set of well-defined possibilities; these may themselves become differentiated as the idea takes shape. </p>
-
-<p>For example, when we write a story, devise a scientific explanation, or compose music, an idea may begin as a vague intuition, a sense that there’s something worth pursuing without knowing quite what it is. As we consider it from different perspectives, certain aspects come into focus, suggesting possibilities that hadn’t previously occurred to us. <a href="https://www.psychologytoday.com/us/blog/mindbloggling/201907/voyage-the-land-below-thought">These possibilities may emerge from the depths of our unconscious</a>, beyond reach until now, when we find ourselves in a situation where they’ve become relevant. They may have existed in principle all along, but their probability of being realized was formerly negligible.</p>
-
-
-
-  
-
-
-<h2>Honing New Possibilities Into Existence</h2>
-<p><a href="https://www.psychologytoday.com/us/blog/mindbloggling/201109/how-creative-ideas-take-shape"><em>Honing theory</em></a>, an account of creativity I’ve been developing for some time (discussed in detail in my book <a href="https://www.cambridge.org/core/books/dawn-of-the-creative-mind/45A87F5311E73E64BD5F7B5440099E82"><em>Dawn of the Creative Mind</em></a>), proposes that creative ideas take shape through successive steps consisting of interactions between (1) <em>the creator’s current internal conception of the idea</em>, and (2) new perspectives or ways of looking at or thinking about it that come to mind (e.g., <em>how would my teacher take it from here?</em>). This interaction is often influenced by a <em>tangible external expression</em> of the idea, such as the sculpture (e.g., <em>perhaps the red part could be a clown nose</em>). Each such step alters the conception of the idea, making some potential outcomes more probable, and others less so. </p>
-
-<p>These interactions are guided by the creator’s <em>world-model</em>: their integrated understanding of themselves and the world, including what they don’t understand or accept or are currently wrestling with. A world-model includes not just conscious elements that you can access voluntarily, but elements brewing below the threshold of awareness: a painful memory, forbidden desire, or simply a pattern or connection you’d perceived at some level but never before had any reason to bring to mind. For example, perhaps the sculptor had a fear of or admiration for clowns, and the experience of creating one from stone helps them come to terms with the fear or find their own “inner clown.” Thus, each new conception of the idea may, in turn, alter the creator’s <em>world-model; creators speak of achieving a greater sense of wholeness or integration as they create. </em></p>
-
-<h2>Summing Up</h2>
-<p>This resolution to the “invented versus discovered” debate doesn’t definitively settle the question of whether every conceivable idea exists in some timeless abstract realm. It does, however, offer a way to reconcile the two traditional answers.</p>
-<p>Creative works are invented to the extent that our decisions and actions shape what comes into existence, altering the relative probabilities of subsequent outcomes. And they’re discovered to the extent that possibilities emerge that we hadn’t anticipated, arising from interactions between our evolving conception of the work and new perspectives that come to mind, sometimes without conscious awareness. People who follow a preconceived path to the completion of their creative work (those whom creative writers refer to as “planners”) may resonate more with the invented view. Those who are more open to the new possibilities that spontaneously emerge as the creative process proceeds (those whom creative writers refer to as “pantsers,” as in “by the seat of their pants”) may resonate more with the discovered view. </p>
-
-<p>The resolution proposed here also suggests that each traditional answer misses something essential about the creative process. The discovered view misses that whether something gets created depends not just on whether it is possible in theory, but on whether it becomes sufficiently probable within the creator’s mind to influence—consciously or unconsciously—the creative process. And the invented view misses that creators aren’t fully aware of the contents of their own minds, particularly possibilities that depend on conditions that haven’t arisen yet.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/mindbloggling/202610/are-ideas-invented-or-discovered" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/mindbloggling/202610/are-ideas-invented-or-discovered</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mindbloggling/202610/are-ideas-invented-or-discovered</guid>
-            <dc:creator><![CDATA[Liane Gabora Ph.D.]]></dc:creator>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/ideas_unfolding_at_dusk.png.jpg?h=d29a89e4&amp;itok=KHnkco_T" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Time for Courage]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/paul_dunion.png.jpg?itok=kAwl6EWy" alt="Paul J. Dunion Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Self-Help</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Time for Courage</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Becoming risk-friendly through kindness</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Being courageous often means fearing the risks and acting anyway.</li><li style="margin-bottom:6px;">When acting courageously results in a negative outcome, it's important to be kind to ourselves.</li><li style="margin-bottom:6px;">Kindness can help us feel more comfortable being risk-friendly and free us from the perfectionism trap.</li>
+              <li style="margin-bottom:6px;">Since we humans are animals, we are happiest when we attune with and express our animal nature.</li><li style="margin-bottom:6px;">Research shows that well-being arises from activities and environments that align with animal heritage.</li><li style="margin-bottom:6px;">We are mental and spiritual beings too, but those aspects should be integrated with our animal nature.</li><li style="margin-bottom:6px;">Our animal nature is not something we should rise above, but something we should honor and express.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/smithsonian-jbsj9vohdpo-unsplash.jpg?itok=wZINYSZ8" width="320" height="458" data-insert-type="image" alt="Harriet Tubman" title="Smithsonian / Unsplash"></div>
-<div class="caption">Harriet Tubman</div>
-<div class="insertArea--origin subtext">Source: Smithsonian / Unsplash</div>
-</div>
-</div>
-</div>
-<p>Several older understandings of the word <em>courag</em>e are associated with words related to “heart.” What can we make of this connection between courage and heart? We could say that it takes courage to follow our hearts. This can happen when we are determined to live in accord with a heartfelt value that isn’t popular. Our hearts can also get involved in other ways, helping us act courageously.</p>
-
-<h2>Courage, Fear and Risks</h2>
-<p>It may seem silly to suggest that a decision involving no fear and little or no risk somehow requires courage. An inherent relationship seems to exist between acting courageously, feeling fear, and taking a risk. A risk exists when a choice’s outcome could involve loss or danger. Courage involves feeling scared, facing that fear, and acting anyway.</p>
-
-<h2>Bringing Heartfelt Kindness to Acting Courageously</h2>
-<p>I have asked dozens and dozens of people what they feared when considering acting courageously. Inevitably, I heard the same response again and again. They feared an unfavorable outcome from the risk they took, that someone might be hurt or harmed.</p>
-<p>I then asked another question: How do you feel about yourself when the outcome of your choice is unfavorable? People responded similarly, saying they felt inadequate, stupid, unforgivable, incompetent, and unlovable. I quickly noticed that my own experience mirrored theirs. We responded to an inauspicious result not simply with remorse or sorrow, but by launching disparaging remarks about our characters.</p>
-
-<h2>What Do We Really Fear?</h2>
-<p>Obviously, we’re not eager for an adverse outcome of the courageous action we undertake. However, even when asked, with the same information, would you take the same action again? Most people were ready to do it again. I then asked, with the same unfavorable outcome, would you beat yourself up again? The response was, “I likely would.”</p>
-
-<p>We are certainly concerned about the outcomes of our choices. However, unless something tragic happens, we seem to fear how harshly we will treat ourselves when something less than positive occurs. It makes taking a risk and calling for <em>courage </em>much less appealing.</p>
-<p>The practice is to offer yourself kindness when the consequences of your choices aren’t highly advantageous. Maybe suffering through the results is plenty. We can feel regret and sadness. We don’t need to turn against ourselves, too. Such mistreatment doesn’t make us better at making choices. When we believe we will do our best to remain kind to ourselves, we become more risk-friendly and more ready to face our fears courageously.</p>
-
-<h2>An Extra Benefit of Kindness</h2>
-<p>Kindness can also relieve the endless striving of perfectionism. When an adverse consequence can define our worth, we either cut back on taking risks or embrace future risks with the possibility of redemption. The latter option is what drives perfectionism. If we refuse to attack ourselves after a less-than-auspicious outcome, we can appreciate acting courageously without any guarantee of a particular outcome. Being kind to ourselves frees us from an endless quest to get life right, reminding us that, through kindness, we’re getting ourselves right and, if we’re lucky, letting life help with the process.</p>
-
-<p>We live at a time of unparalleled divisiveness. It results in surviving rather than thriving. As trust erodes, we focus more on protecting ourselves from accusations coming from across the aisle. We also devote time and energy to launching our own aggressive attacks. Tribalism walls us off from beliefs and values different from ours, and we lose the deep sense of belonging that unity consciousness provides. The fences that separate us from others can also separate us from ourselves.</p>
-
-
-<p>Kindness. Yes, kindness is the medicine that helps us be more risk-friendly, more courageous, and more willing to make peace with our imperfect humanity. Maybe unity consciousness can begin as an inside job.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202610/a-time-for-courage" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202610/a-time-for-courage</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202610/a-time-for-courage</guid>
-            <dc:creator><![CDATA[Paul J Dunion Ed.D.]]></dc:creator>
-            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/smithsonian-jbsj9vohdpo-unsplash.jpg?h=0275d63c&amp;itok=xvGzzisz" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 Factors That Actually Make a “Fluid Relationship” Work]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">2 Factors That Actually Make a “Fluid Relationship” Work</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">A fluid relationship isn't fantasy fiction, but it does take effort.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Fluid relationships prioritize partners’ evolving needs, not rules about exclusivity.</li><li style="margin-bottom:6px;">Accepting a partner does not mean excusing harmful behavior or abandoning boundaries.</li><li style="margin-bottom:6px;">Flexibility in relationships only works with clear communication, mutual respect, and shared values.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/fluid.jpg?itok=U_Mrpw49" width="320" height="320" data-insert-type="image" title="Judd Mauricio / Pexels" alt="Judd Mauricio / Pexels"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/3655887487_d29e027a2a_c.jpg?itok=1zckt4uH" width="320" height="213" data-insert-type="image" title="flickr/Akane Yamada" alt="flickr/Akane Yamada"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Judd Mauricio / Pexels</div>
+<div class="insertArea--origin subtext">Source: flickr/Akane Yamada</div>
 </div>
 </div>
 </div>
-<p>Not long ago, relationships largely followed a traditional narrative. They followed fairly predictable stages and expectations—dating, marriage, and a shared household—all bounded by set, often unspoken, rules.</p>
-<p>However, a new wave of acceptance and open-mindedness has ushered in an era where love isn’t bound by convention. The recognition and acceptance of same-sex couples, once a taboo in many cultures, is now largely celebrated. Similarly, open relationships, once whispered about in hushed tones, are finding vocal proponents. Furthermore, living-apart-together marriages challenge the age-old belief that marital success is rooted in cohabitation.</p>
+<p>Some humans struggle to accept the fact that we are animals. In 1860, the scientist Thomas Huxley (grandfather of the author Aldous Huxley) caused an uproar when he voiced his support for Darwin’s theory of evolution and disputed that human beings were divinely created. In response, Bishop Samuel Wilberforce enquired sarcastically whether Huxley was descended from apes through his grandmother or his grandfather. Huxley replied that he felt no shame in being descended from apes, but he would be ashamed of the bishops’ ignorance of science. </p>
 
-<p>A combination of factors, including cultural shifts, increasing global connectivity, and a strong desire for personal authenticity, seems to be driving this change. As people are exposed to diverse cultures and ideas, there’s a growing realization that “<a href="https://www.psychologytoday.com/us/blog/social-instincts/202212/making-the-case-for-non-monogamous-open-relationships">one size does not fit all</a>” when it comes to relationships. Moreover, with mental health and individual well-being taking center stage, there’s a heightened focus on relationships that truly cater to emotional needs rather than fitting a societal mold. The beauty of this evolution is that it paves the way for more authentic self-expression—which is where the concept of a “fluid relationship” comes in.</p>
+<p>Even now, some Christians believe that human beings are superior to all other animals because only we possess souls. As a result, we will spend eternity in heaven or hell, whereas animals simply cease to exist at death. From a different perspective, some <a href="https://theconversation.com/what-is-it-about-the-human-brain-that-makes-us-smarter-than-other-animals-new-research-gives-intriguing-answer-183848">contemporary scientists</a> suggest that there is something special about human intelligence and consciousness that elevates us above our animal cousins. We are conscious, and they aren’t—or at least, we are more intensely conscious than they are. </p>
 
-<p>Compared to other types of relationships, both traditional and non-traditional, <a href="https://www.psychologytoday.com/us/blog/social-instincts/202406/how-non-monogamous-couples-are-surviving-and-thriving">a fluid relationship</a> has two key characteristics that make it an attractive option for people who want to settle down without having to settle down.</p>
-<h2>1. It Prioritizes the Independent Emotional and Physical Needs of the Partners</h2>
+<p>Throughout history, many cultures and religions have expressed ambivalence and even hostility to the animal side of our nature. The 'spirit’ and the 'flesh’ were viewed as enemies. Christian ascetics like St. Simeon Stylites and Henry de Suso put themselves through appalling torments to try to tame their physical desires and make themselves more “spiritual.” Many cultures had (and have) a repressive attitude toward sex, viewing sexual impulses as a sinful expression of our lower animal nature. </p>
 
-<p>Unlike open relationships, where there’s often an explicit understanding about external partners, fluid relationships aren’t primarily defined by the presence or absence of other sexual or romantic partners. The bond between the primary partners may transcend these factors, emphasizing emotional connection, mutual growth, or other unique dynamics tailored to their needs.</p>
+<h2> Accepting Our Animal Nature</h2>
+<p>However, there are good reasons why we should accept our animal nature and try to live in harmony with it. I would like to introduce a simple new approach to life that I call 'animalism.' The basic principle is that, since we humans are essentially animals, we are happiest when we attune with and express our animal nature. This is why we love physical activities like sports, running, swimming, and making love. It's why so many people love walking in the countryside, gardening, and preparing food. These are all activities that hark back to, and express, our animal heritage. </p>
 
-<p>For example, if the relationship is going through a dead-bedroom episode, consensual non-monogamy is an option the partners are willing to discuss in a fluid relationship. In a traditional relationship, perhaps the focus would be on working through the lack of intimacy with each other via therapy. While this is effective, it’s a process that can be slow and time-intensive. The other option, which unfortunately happens in such cases, is infidelity.</p>
+<p>Research has shown that regularly practising such activities leads to greater well-being. People who garden regularly have a higher-than-average<a href="https://www.bps.org.uk/psychologist/cultivating-wellbeing-and-mental-health-through-gardening.%20"> level of well-being</a>.<sup>1</sup> A <a href="https://nhscharitiestogether.co.uk/news/research/time-outdoors-can-make-you-happier-healthier-and-perform-better-at-work-new-research-reveals/">2023 survey of 2000 UK</a> adults found that people who spent 20 hours or more in a green or natural space were significantly healthier and happier than average.<sup>2</sup> </p>
 
-<p>Opening up a relationship, while it may sound like a recipe for disaster, carries less risk than you might think as long as you and your partner are on the same page about why you are doing it. <a href="https://journals.sagepub.com/doi/abs/10.1177/1948550619897157">A 2020 study</a> published in <em>Social Psychological and Personality Science</em> found that opening up a relationship did not necessarily lead to decreased life satisfaction or relationship quality in couples who did so primarily because they were sexually incompatible with their partners.</p>
+<p>In contrast, we feel least happy when we perform activities that are least connected to our animal nature. Staring at screens or immersing ourselves in TV programmes or social media may provide a short-term thrill, but in the long term, such activities make us<a href="https://www.dw.com/en/social-media-makes-people-unhappy-world-happiness-report/a-76422753"> feel restless and frustrated</a>. Although city life can be stimulating, there are higher levels of anxiety and depression in city dwellers compared to those in the countryside.<sup>3</sup> <a href="https://link.springer.com/article/10.1007/s11482-024-10380-3">Researchers have coined the term</a> ‘urban-rural happiness gap’ to describe the lower life satisfaction in cities compared to rural areas. This is a finding that holds true all over the world.<sup>4</sup> </p>
 
-<h2>2. There’s a Deep Emphasis on Being Flexible and Adaptable</h2>
-<p>The very essence of a “fluid” relationship is its capacity for change. It acknowledges the ebb and flow of life, ensuring the relationship remains relevant and supportive. Whether it’s navigating through temporary long-distance phases, changes in life priorities, or personal growth trajectories, a fluid relationship is resilient, molding itself to the evolving needs of the partners involved.</p>
+<p>No doubt this is partly due to the stressors of city life, such as noise and constant activity. But perhaps it is also because, as animals, we were never meant to live amidst concrete and glass, surrounded by electronic devices and metal machines. We are meant to be surrounded by trees, plants, fields, and other animal species.</p>
 
+<h2>Integrating the Animal and Human</h2>
+<p>You might argue that we humans are mental and spiritual beings, in a way that animals can’t aspire to. But even our spiritual nature harks back to our animal nature. Two essential aspects of spirituality are presence and mental quietness. Animals live completely in the present and do not appear to experience the incessant mental activity that afflicts us. So, in a sense, spirituality also aligns with our animal nature. And of course, presence and mental quietness are a powerful source of well-being. </p>
 
-<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2212144720301952?via%3Dihub">A 2020 meta-analysis</a> published in the <em>Journal of Contextual Behavioral Science</em> found that people who were inflexible often had poor relationship outcomes. They were more likely to have weaker bonds with their partners, have poorer sex lives, and resort to unhealthy relationship behaviors like shouting, screaming, and domestic violence.</p>
-
-<p>With a fluid relationship, both partners know that the relationship is built on adapting to situations. If either partner encounters behaviors in the other they aren’t happy with, there is a common understanding between them that they are not bound by the relationship to fix the issue. This opens up new avenues to remedy conflict.</p>
+<p>That doesn’t mean we shouldn’t think. Thinking can be extremely useful, helping us to organize and plan. Innumerable human achievements have arisen from our capacity for contemplation and logical thought. But as spiritual teachers like Eckhart Tolle remind us, thinking should be a faculty that we can call on when we require it. The constant associational ‘thought-chatter’ that flows through our minds is unproductive, and even harmful.</p>
 
 
 
   
 
 
-<p>While some differences between partners can be worked through, accepting your partner for who they are is a given in fluid relationships. Of course, this doesn’t mean partners are given a pass for any and all behavior—and open communication is a necessity in any relationship, fluid or otherwise.</p>
-<p>Take the example of the incident with Grimes and Shivon Zilis, who are both linked to Elon Musk romantically. Although Grimes has called her relationship with Musk “fluid,” she was upset when she found out about his twins with Zilis in 2021, along with the rest of the world. The two women have since cleared the air and appear to be on good terms with each other, judging by their interactions on social media. Grimes’ main gripe seemed to be with how the information was communicated to her, not the information itself.</p>
+<p>We can be rightfully proud of the human capacity for reason, and fields such as mathematics or philosophy. We can be rightfully proud of amazing expressions of human creativity such as poetry and music. But we should always remember that we are fundamentally animals and attempt to integrate our animal heritage into our lives. We should accept all our bodily instincts and processes as healthy and natural. We should ensure that we spend time in nature, and that we regularly practice ‘animalistic’ activities, like gardening, working with our hands, walking and running. </p>
 
-<p>The episode underscores the premise that fluid relationships, while offering flexibility, also demand genuine work and mutual respect. Relationships, regardless of how they’re labeled, require effort, understanding, and, often, a lot of patience.</p>
-<p>In the evolving landscape of relationships, the allure of fluidity offers the promise of authenticity and adaptability. However, as with all forms of partnerships, its success lies in the bedrock of clear communication, mutual respect, and shared values. At its heart, a fluid relationship isn’t just about being adaptable; it’s about creating a space where both partners feel valued, understood, and free to evolve together. Whether or not one opts for this approach, the overarching goal remains the same: cultivating a bond that nurtures and enriches both individuals involved.</p>
-
-<p><em>A version of this post also appears on Forbes.com.</em></p>
+<p>Our animal nature is not something we should rise above, but something we should honor and express. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202610/2-factors-that-actually-make-a-fluid-relationship-work" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/out-of-the-darkness/202610/accepting-our-animal-nature" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/social-instincts/202610/2-factors-that-actually-make-a-fluid-relationship-work</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202610/2-factors-that-actually-make-a-fluid-relationship-work</guid>
-            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/out-of-the-darkness/202610/accepting-our-animal-nature</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/out-of-the-darkness/202610/accepting-our-animal-nature</guid>
+            <dc:creator><![CDATA[Steve Taylor Ph.D.]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-judd-mauricio-33842562-7073223.jpg?itok=VdZUPEzp" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/shutterstock_2585516947.jpg?itok=gig-2530" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[7 Signs You're in Denial]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-03/Colour_-_Plain_Background_2-removebg-preview.jpg?itok=GQk60eUB" alt="Nuala G Walsh" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Denial</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">7 Signs You're in Denial</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to get out of your own bubble.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[The Hidden Cost of the “Whatever it Takes” Culture]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/janelle_e_wells_and_doreen_macaulay.png.jpg?itok=veEijFg1" alt="Janelle E. Wells, Ph.D., and Doreen MacAulay Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Workplace Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Hidden Cost of the “Whatever it Takes” Culture</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">When going above and beyond becomes the job.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">We deny what makes us uncomfortable, ashamed, or unhappy.</li><li style="margin-bottom:6px;">Yet denial often lasts too long to be useful or healthy.</li><li style="margin-bottom:6px;">Knowing the 7 signs and 7 solutions can help us face reality sooner.</li>
+              <li style="margin-bottom:6px;">The most passionate employees tend to take on extra responsibility and this choice becomes an expectation.</li><li style="margin-bottom:6px;">Organizational citizenship behavior is the work beyond the job description that makes teams more effective.</li><li style="margin-bottom:6px;">Invisible acts behind the scenes drive organizational culture and sports teams, including Ted Lasso.</li>
+            </ul>
+          </div>
+                    <p>When fans enjoy a sports game in person or from the comfort of their homes, few think about the person who coordinated the team's travel, the producer who ensured the replay was available, the equipment manager who made sure the athletes had backup gear to perform, or the partnership coordinator who worked late to accommodate last-minute credentials. </p>
+
+<p>Yet sport is built on these invisible acts. </p>
+<p>Every industry has work that happens behind the scenes. In sport, however, there is a particular dissonance; much of the effort contributed by these supporting actors was never part of their formal job descriptions. These acts often began as examples of commitment, dedication, or, as the <a href="https://d1wqtxts1xzle7.cloudfront.net/58674091/SmithOrganNear1983_JAP_OCB-libre.pdf?1553185973=&amp;response-content-disposition=inline%3B+filename%3DOrganizational_Citizenship_Behavior_Its.pdf&amp;Expires=1793140644&amp;Signature=P0PK~IGMzRsAKchRy8aRr4MJtx80ZjKW0cgaBir8QC8cV~v0htiQ26tEufIsSLqeugAWA5kAwuxUGRFjcj0mOzaZLYb1xQ5YvHwx~5hmFwhJpkSaDK7aGTdatrOdTVYA~a9jUOY~tBwLDMUaGqK7ctehn8noOs1aQgvUmkz~sEqg9aowFD~5~--17dd85D4iSQXy2EZXjBs6vXAP7IhV0wqvlO-gVxqHoZXKVfzdGjBBOeyDbwGn2In-V-vMtZ9iz2ZuGLf2mc6lXYq58HAh7TPW-68P7y416RN2UV4F0m7~9e0VHuKHTMDUpsOESdlhQuRdmleQhBG7nzSAxc3qXg__&amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Journal of Applied Psychology</a> calls it, Organizational Citizenship Behavior (OCB). Over time, however, what was once noted in a job description as “other duties as assigned” has now become expected. </p>
+
+<h2>The Psychology Behind the “Whatever It Takes” Mentality </h2>
+<p>Social psychologists have long studied OCB; the discretionary actions employees perform that go beyond formal job requirements and contribute to organizational effectiveness. Examples include staying late to solve an unexpected problem, helping an overwhelmed colleague, or stepping in to protect the reputation of the team. </p>
+
+<p>Sports organizations often depend on these behaviors. And one reason the show Ted Lasso may resonate with so many viewers is that it has surprisingly little to do with wins and losses and more to do with the psychology of teams. </p>
+<p>Across four seasons, record viewers watched fictitious athletes, coaches, owners, and support staff discover a truth that social psychologists have studied for decades: high-performing organizations are rarely built on talent alone. They are also built on trust, relationships, shared identity, and the often-unnoticed actions people take on behalf of one another. </p>
+
+<p>In many ways, Ted Lasso illustrated something the sports industry experiences every day. The most important work is often <a href="https://www.psychologytoday.com/us/blog/our-invisible-work/202406/what-invisible-work-looks-like-in-the-21st-century">invisible</a> and dangerously taken for granted. The issue is not that people help. The issue is what happens when helping becomes expected. What was once extraordinary becomes ordinary. What was once appreciated becomes assumed. </p>
+
+<p>The <a href="https://doi.org/10.1002/job.635">Journal of Organizational Behavior</a> suggests that this shift can have consequences. When employees feel pressure to engage in citizenship behaviors, they may increase their OCB, but this pressure is also associated with work–family conflict, work–leisure conflict, job stress, and intentions to quit. The distinction is important: the problem is not necessarily the act of helping itself, but what happens when discretionary contribution becomes an expectation. </p>
+
+<h2>When Exceptional Becomes Standard </h2>
+<p>Professional sports offer a useful illustration of how exceptional practices can gradually become organizational expectations. </p>
+<p>Consider a suite manager. </p>
+<p>A request started with just personally managing the attendance list for a big game because the ownership group was in town. Rather than this being a one-time request, it now becomes something this employee is tasked with doing for every game, regardless of who is in town or the gravity of the game. </p>
+
+<p>This process resembles what researchers in the <a href="https://doi.org/10.1016/j.ijproman.2013.06.004">International Journal of Project Management</a> and <a href="https://www.ovid.com/jnls/advancesinnursingscience/abstract/10.1097/ans.0000000000000356~normalization-of-deviance-concept-analysis?redirectionsource=fulltextview">Advances in Nursing Science</a> describe as the normalization of deviance: practices that initially depart from established standards can, over time, become accepted as normal operating practice. Once a new practice is repeated without immediate negative consequences, the standard itself can gradually shift. What was once exceptional becomes the new normal. </p>
+
+<p>This is, in many ways, how innovation and advancement occur. Organizations identify better ways of supporting performance, competitors adopt them, and higher standards gradually spread across the industry. </p>
+<p>The challenge is what happens to the work required to sustain those standards. </p>
+<p>Every new list creates additional administrative responsibilities. Every new expectation creates new forms of invisible work. The “pitch in and make it happen” mentality can encourage employees to step outside their formal roles because the game has to go on. Over time, however, those temporary acts of contribution can become permanent responsibilities without a corresponding reconsideration of workload, role boundaries, or compensation. </p>
+
+
+
+  
+
+
+<h2>The Passion Trap </h2>
+<p>This is where invisible work can become problematic. Research on citizenship behaviors generally finds that they can benefit organizations. Yet when organizations become dependent on them, a paradox emerges. </p>
+<p>The people who care the most often absorb the most extra work. </p>
+<p>In sports, passion can mask excessive demands. Passion is one of the sports industry's greatest strengths. It can also become one of its greatest vulnerabilities. Employees stay because they love the team. They volunteer. They sacrifice. They stay late, solve problems, fill gaps, and continue saying yes because the work matters to them. They become workaholics, according to scholars from the European<a href="https://www.tandfonline.com/doi/abs/10.1080/16184742.2020.1765404?casa_token=GT_efYuPRS0AAAAA:zfQd121_FBSg5TPnGugvf4IKFVby_GrFJSRiQTlQxPDNnU38VCLYUo9-oVxnbQSfu5hvDm-lFkB2-A"> Sport Management Quarterly</a>. </p>
+
+<p>When employees care deeply about the organization, they may absorb additional responsibilities without questioning whether those responsibilities belong within their role. Their willingness to contribute can make organizational gaps less visible because someone is always willing to fill them. Masking role clarity, process gaps, and staffing challenges. </p>
+
+<p>Research on citizenship pressure reinforces this concern. Employees can experience a distinction between choosing to contribute beyond their formal role and feeling pressured to do so. When citizenship becomes pressured rather than discretionary, the additional contribution itself can become a source of fatigue and strain. </p>
+
+<p>The result is a cycle familiar to many professionals: </p>
+<p>The reward for being dependable is often being depended upon even more. </p>
+<p>What begins as commitment can therefore become an invisible job demand. </p>
+<p>Over time, however, yesterday's voluntary effort can become today's expectation. </p>
+<p>The reward for doing more is often being asked to do even more. </p>
+
+<h2>The “Believe” Sign and OCB </h2>
+<p>One of the most memorable symbols in Ted Lasso was the simple yellow “Believe” sign hanging in the locker room. </p>
+<p>The sign was never simply about positive thinking. It represented a collective commitment to contributing to something bigger than oneself. Yet when organizational citizenship becomes an expectation rather than a choice, that same commitment can come at the expense of employees, as their willingness to contribute beyond their formal roles becomes an assumed obligation. </p>
+
+<p>Much like the fictional professional sport team AFC Richmond, successful organizations often rely on invisible contributors who create the conditions for excellence long before the whistle blows or the quarterly reports are finalized. </p>
+<p>If there is a lesson leaders can take from both social psychology and Ted Lasso, it may be this: A championship culture is not built solely by the people who receive the applause. It is built by the people whose contributions make the applause possible. </p>
+
+<p>The challenge for leaders is not to eliminate Organizational Citizenship Behavior. It is to ensure that generosity remains a choice rather than becoming an invisible requirement of the job. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/our-invisible-work/202610/the-hidden-cost-of-the-whatever-it-takes-culture" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/our-invisible-work/202610/the-hidden-cost-of-the-whatever-it-takes-culture</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/our-invisible-work/202610/the-hidden-cost-of-the-whatever-it-takes-culture</guid>
+            <dc:creator><![CDATA[Janelle E. Wells, Ph.D., and Doreen MacAulay, Ph.D.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/shutterstock_2780072921.jpg?itok=kDdBsmtT" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Outlaw Within: Trauma and Toxicity in Online Games]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-04/img_4308-removebg-preview.jpg?itok=qyW9Dn6u" alt="Mark Shelvock, RP, MACP, MA" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Trauma</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Outlaw Within: Trauma and Toxicity in Online Games</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What online role-playing games reveal about the persecutors we carry within.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Toxic online spaces in video games often reveal emotional complexes in the person behind the screen.</li><li style="margin-bottom:6px;">Trauma can create an inner persecutor that shames and isolates; online games can be where it becomes visible.</li><li style="margin-bottom:6px;">MMORPGS are works of shared imagination and, approached with curiosity, can be places where depth emerges.</li>
+            </ul>
+          </div>
+                    <p>Massively multiplayer online role-playing games (MMORPGs) are shared virtual worlds where thousands of players live alongside one another — questing, trading, forming guilds, and taking on challenges no one player could manage alone. Most have a trade chat, a public channel where players buy and sell in-game items.</p>
+
+<p>Anyone who has spent time in one knows what can happen there, as it often takes on the archetypal shape of the Wild West. Merchants hawk their services, travellers look for a party to ride with, and somewhere in the virtual saloon an outlaw surfaces. The outlaw fills the online room with slurs, cruelty, extremist politics, conspiracy theories, and a contempt that would be unthinkable face to face. The sheriff (if there is one) is seemingly absent. </p>
+
+<p>Some clinicians see online spaces like this and conclude that games are volatile or hollow; they're flat, lifeless screens that pull people away from depth, relationship, and soul. I understand that view, and yet I’ve come to see it differently.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/makayla-larner-ruhlylkcuss-unsplash.jpg?itok=COt45lk-" width="320" height="320" data-insert-type="image" title="Photo by Makayla Larner on Unsplash" alt="Photo by Makayla Larner on Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Photo by Makayla Larner on Unsplash</div>
+</div>
+</div>
+</div>
+<p>The outlaw is not always who a person is. Sometimes, it is what takes hold of them when the law is out of town. Jung (1934/1969) used the word "complex" for a charged, autonomous pattern in the psyche; when one is activated, it speaks through a person more than the person speaks through it. He also recognized, long before today’s nervous-system language, that many psychological complexes originate in emotional shock, overwhelm, and trauma (see Jung, 1934/1969). </p>
+
+<p>Strip away the persona, as anonymity does, and what often remains is a complex in full possession, in the psychological rather than spiritual sense. In other words, behind the keyboard, an old wound takes the reins.</p>
+<p>In my clinical practice, I’ve found that games rarely invent what my clients bring to them, and rather they reveal what was already there. The same game that includes a toxic public square also asks strangers to trust a healer with their lives, and has players crafting free equipment for newcomers only a few virtual feet away from the chaos. Like the wider culture they mirror, these worlds hold both cruelty and care. </p>
+
+<p>Additionally, it’s worth noting that not every game culture is the same. Some MMORPGS can feel more like a village hearth rather than a frontier, where newcomers are welcomed and compassionately guided, or where there is a sense of fellowship and shared purpose by many in the game. </p>
+<h2>The persecutor within</h2>
+
+<p>For people harmed by others, the most relentless persecutor is often not in the public channel at all. Dr. Donald Kalsched, a Jungian analyst, has spent much of his career exploring why. He describes how, when experience is more than a person can bear, the unconscious recruits archetypal forces to protect its most vulnerable core — what he calls the “imperishable personal spirit” (soul) that exists within everyone (Kalsched, 2021, p. 444). These psychological defences organize into what he names the <em>Self Care System</em>, which is a core complex in the traumatized psyche (Kalsched, 2013; 2021).</p>
+
+<p>This is the same kind of structure that possesses the outlaw in a trade chat, but is now turned inward. Kalsched observes that the <em>Self Care System</em> regulates how much feeling and memory reach consciousness, and to do so, this trauma complex attacks the capacity to feel itself (Kalsched, 2021). In this way, the protector becomes a persecutor and inner or outer tyrant: one that mocks need, punishes hope, is symbolically violent, and insists it is safer to never rely on anyone, because dependence and vulnerability are what once led to harm. Since this also operates beneath awareness, the trauma complex keeps guarding long after the original danger has passed, like a sentry who never heard the war was over.</p>
+
+
+<p>Some of my clients have been harmed by others who discharged their own pain and sense of existential helplessness onto them. Kalsched’s work helps me understand why that harm doesn’t stay outside and the persecutor moves in. The persecutor’s voice shames before anyone else can, predicts and projects rejection, and turns a small mistake into proof of worthlessness. The emptiness, then, is rarely a product of the game itself; it is in the inner world the persecutor has hollowed out.</p>
+
+<p>Games are often where this inner world becomes visible. One misstep in a group, and the inner voice can turn crueller than any stranger in the trade chat. Games can also become the trauma complex’s refuge: a place to feel competent and in control without risking emotional intimacy. While I respect the person’s ability to survive overwhelming trauma, I also recognize that walls built for protection can become suffocating.</p>
+
+
+
+  
+
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/cemrecan-yurtman--7ueydedy9a-unsplash.jpg?itok=B6fBhGye" width="320" height="569" data-insert-type="image" title="Photo by Cemrecan Yurtman on Unsplash" alt="Photo by Cemrecan Yurtman on Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Photo by Cemrecan Yurtman on Unsplash</div>
+</div>
+</div>
+</div>
+<h2>Is there depth and soul in MMORPGS?</h2>
+<p>Kalsched (2021) argues that trauma can hijack the imagination, bending it toward fear, grievance, harming others, and generating a world rigidly split into extremes. Yet imagination can also work the other way, toward meaning and repair. Drawing on James Hillman, Kalsched describes the imagination as the place where the human soul lives. If that is true, then games, as vast works of shared imagination, cannot be soulless by nature. So, the real question is which imagination is at work in them?</p>
+
+<p>In shared group content, someone must hold the line. The tank stands between others and danger, while the healer keeps a group alive through steadiness and good will, rather than force. For someone whose inner protector has only ever known how to attack, these roles can offer a felt experience of protecting without wounding or helping without being consumed. When a client with a developmental trauma history tells me about the night they kept their group alive, or the newcomer they patiently guided, I listen closely. Something in them is rehearsing what the persecutor never learned: how to guard or tend to others in a compassionate attuned way.</p>
+
+<p>The energy of the wild frontier and the hearth exist in the same world, and in the same person. Games don’t decide which one we become. However, social and online video games like MMORPGS can show us with incredible clarity which side of our psyche is holding the reins. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/navigating-the-serpentine-path/202610/the-outlaw-within-trauma-and-toxicity-in-online-games" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/navigating-the-serpentine-path/202610/the-outlaw-within-trauma-and-toxicity-in-online-games</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/navigating-the-serpentine-path/202610/the-outlaw-within-trauma-and-toxicity-in-online-games</guid>
+            <dc:creator><![CDATA[Mark Shelvock, RP, MACP, MA]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/makayla-larner-ruhlylkcuss-unsplash.jpg?itok=p3wbuZa4" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's Time to Change the Way We Understand ADHD]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/image-removebg-preview_0.jpg?itok=HaRF4WPw" alt="Carla Shuman Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">It's Time to Change the Way We Understand ADHD</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Focusing on emotion dysregulation could lead to more effective treatment.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Research suggests that emotion dysregulation is the root cause of ADHD.</li><li style="margin-bottom:6px;">This accounts for the attention and executive function symptoms commonly associated with the disorder.</li><li style="margin-bottom:6px;">It also helps us understand why ADHD co-presents with other mental health conditions.</li><li style="margin-bottom:6px;">Addressing emotion dysregulation helps us consider what treatments might be most effective.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/d60acaed-e3ed-4be6-910b-7d145ad674dc.PNG.jpg?itok=Mh3YMRW5" width="320" height="180" data-insert-type="image" title="AI-generated" alt="AI-generated"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/buddha-elemental-3d-rs7zfseefbw-unsplash.jpg?itok=KJldXuKc" width="320" height="192" data-insert-type="image" title=" Buddha Elemental 3D / Unsplash" alt=" Buddha Elemental 3D / Unsplash"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI-generated</div>
+<div class="insertArea--origin subtext">Source: Buddha Elemental 3D / Unsplash</div>
 </div>
 </div>
 </div>
-<p>“It’s not happening,” you tell yourself. But you know it is. It’s just easier to look the other way, assign blame, ignore advice, and bury your head. </p>
-<p>Whether facing redundancy, infidelity, or death, we don’t realize we’re in denial, refusing to accept threatening or disruptive reality. </p>
-<p>But the mythical ostrich must eventually raise its head. What it sees depends on how long it has stayed down and what happened in the meantime. The result of this ultimate defense mode is not only missed moments but lost credibility, and frequently, regret.</p>
+<p>There is no shortage of information regarding ADHD. Instagram and TikTok are full of "experts" who talk about what ADHD is and how to manage it. But, after decades of scholarly research, those of us who regularly assess and treat ADHD can tell you something about the condition that you may not have heard before. ADHD is not <em>only</em> about attention deficit, and may not primarily be about attention at all. </p>
 
-<p>So how does it start? </p>
-<p>Egotism can play a contributing role. Proud people don’t want to accept that their views or interpretation of the world are flawed. We want to believe our children never lie, parents will live forever, and colleagues want us to succeed. </p>
-<p>In her book, Margaret Heffernan calls it willful blindness. It’s a blind spot and deaf spot combined. We see and hear only what we want. Yet there’s a difference between hope and denial. Hope says, “This might work out,” while denial says, “This isn’t happening.” </p>
+<p>Awais Aftab, in his article “<a href="https://www.nytimes.com/2026/09/29/science/adhd-attention-motivation.html?smid=nytcore-ios-share">A.D.H.D. Is Not Necessarily About Attention</a>,” published in <em>The</em> <em>New York Times</em>, says that evidence supports the clinical approach I’ve taken for years. We need an expanded understanding of and approach to the root cause of ADHD: emotion dysregulation.</p>
+<p>Emotion dysregulation means having trouble managing strong emotions in a way that fits the situation. While this expands our understanding of ADHD, it does explain commonly associated issues with attention and focus. Emotion regulation plays a key role in executive functioning. This means that when people cannot regulate their body movements, manage their emotions, or organize their thoughts, it's extremely difficult to focus or to sustain attention for periods of time.</p>
 
-<p>The self-deception is fueled by wishful thinking and low coping skills. Deniers may feel they can’t manage the upheaval, shame, or pain. Often, that’s true. Golman, Hagmann and Loewenstein refer to information avoidance. It may seem more attractive. Yet procrastination simply defers inevitable adjustment. </p>
+<p>Identifying emotion dysregulation as the core issue also helps us understand why so many conditions co-occur with ADHD. Emotion dysregulation is responsible for increasing anxiety, problems with anger, and mood instability. When I speak with clients about assessing and treating their ADHD, I tell them that not only are we identifying ADHD as a problem affecting their functioning, we are attempting to prevent the onset of mental health conditions that could affect their behavior, their relationships, and their ability to carry out many activities of everyday life.</p>
 
-<p>The underlying process of denial often appears similar, whether it’s a failing marriage, impending redundancy or a dying relative. But the emotion, social consequences and responses differ.</p>
-<h2><strong>How to Recognise and Respond to</strong> <strong>Denial </strong></h2>
-<p>Seven signals suggest you’re living in a protected bubble. Before considering the solutions offered by behavioral science, ask yourself if you repeat any of these narratives. Is there a pattern? If several sound familiar, take note.</p>
+<p>Treatment for emotion dysregulation remains controversial. Many psychiatrists and psychologists believe that medication is an important part of effective treatment. Aftab’s article cites research stating that children under the age of 12 who are treated with medication improve in attention and emotion regulation, and that medication early on increases frontal lobe development. </p>
 
-<p>The first four signals relate to dismissing disconfirming evidence.</p>
+<p>The best results seem to occur when therapy to teach coping strategies is paired with medication, and people learn and practice the strategies while the medication is active in their system. I can attest that children seen as outpatients for therapy, whom I teach "coping skills" for self regulation, are often unable to effectively use those coping skills in real life because they either cannot remember them or their emotions escalate too quickly. Even adults diagnosed later in life have trouble establishing a regular use of strategies to prevent the expression of intense emotions, such as anger, without supportive medication. However, while children benefit from medication within the structured school environment, adult clients who were diagnosed as children often state that they don't feel the need for medication once they're finished with school.</p>
+
+<p>Aside from medication and the development of coping strategies to manage intense emotions, executive function coaching is the next best intervention to pursue. Executive function includes emotional regulation, as well as attention, working memory, organization, initiating difficult or tedious tasks, and sustaining focus until the task is completed. Coaches need to have special training to work with individuals with ADHD because strategies designed for neurotypical people are often hard to acquire, and the coach needs to know how to pivot when something isn't working. Executive function coaching is often as effective or more effective than therapy for individuals with ADHD, unless there are accompanying mental health conditions, such as anxiety and depression. In this case, both are recommended interventions.</p>
+
+<p>I hope that more people will recognize that ADHD is a condition primarily characterized by emotion dysregulation, which can present as issues with attention and focus. This approach highlights the importance of diagnosis and treatment, because emotional regulation is also an important component of mental and physical well-being in general. It is not enough for people with ADHD to be “functional,” whether academically or professionally. They should also have the tools and support they need to manage their emotions.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/from-trial-to-triumph/202610/its-time-to-change-the-way-we-understand-adhd" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/from-trial-to-triumph/202610/its-time-to-change-the-way-we-understand-adhd</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/from-trial-to-triumph/202610/its-time-to-change-the-way-we-understand-adhd</guid>
+            <dc:creator><![CDATA[Carla Shuman Ph.D.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/buddha-elemental-3d-rs7zfseefbw-unsplash.jpg?h=6918d633&amp;itok=t7WkGpKE" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emotional Labor and the Triple Burden Facing Women of Color]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-09/lark.png.jpg?itok=zejdXupo" alt="Regina Lark" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Labor</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Emotional Labor and the Triple Burden Facing Women of Color</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Emotional labor in households of color often extends beyond the nuclear family.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Black women have long faced a triple burden of race, gender and economic discrimination.</li><li style="margin-bottom:6px;">Women of color often shoulder emotional labor that extends beyond their households into their communities.</li><li style="margin-bottom:6px;">Navigating racism adds an invisible emotional burden to women's family and professional responsibilities.</li><li style="margin-bottom:6px;">Addressing emotional labor requires confronting racism and socioeconomic inequality.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Being a historian requires me to constantly examine whose version of events we have chosen to tell. Who is doing the telling, and why? In the classic narrative of women leaving the kitchen for the workforce only to return home to a "second shift," the protagonist is presumed white, middle class, and married. But for many black women, there was no choice to leave the kitchen because they were employed as paid domestics or as wage earners their families relied upon. Then went home to their own kitchen. Rinse and repeat. </p>
+
+<p dir="ltr">By 1970, black feminists coined the term "double jeopardy" to identify discrimination based upon racial and gender identity, subsequently adding a third element of economic status to create the term "triple jeopardy." In the black community, the code around composure, tone, and dress was understood to convey judgment upon all black Americans. One managed oneself to manage another person's perception. Think about it: that’s a lot of heavy lifting. That's what emotional labor means: when you manage yourself and shape how someone feels about you, and whether or not you feel valued in return.</p>
+
+<p dir="ltr">Being the owner of a personal services business in Los Angeles requires me to listen to my colleagues—the women of color in our professional organizing industry about how they experience our similar work lives. My discussion with women of color really moved me and opened my eyes. I have been studying and teaching about women’s history for years, most recently through the lens of emotional labor. And here was an entire layer that has been missing: emotional labor and race. </p>
+
+<p dir="ltr">Contemporary journalist Reniqua Allen, writing in the <em>Washington Post</em> in 2018, underscored this dynamic in her essay, "It’s Not Just White Women: The ‘Mental Load’ Is Real for Women of Color Too." Allen explores how women of color often face a triple burden: managing traditional household emotional labor, taking on cultural translation or mediation roles (especially in immigrant families), and navigating the emotional toll of racism in both personal and professional spheres. </p>
+
+<p dir="ltr">I remarked on this triple burden at a talk recently. In a packed room of women of color, nodding heads all around, and shouts of "tell it!" resonated. </p>
+<p dir="ltr">Emotional labor in households of color often extends beyond the nuclear family. Intergenerational caregiving is not uncommon. Taking responsibility for community affairs is another way the mental load of emotional labor extends far beyond the home. And always, families of color manage the emotional work of navigating systemic racism. In a recent interview with members of <a href="https://ebonyandorderly.com/">Ebony and Orderly, Professional Organizers of Color</a> member Carolyn Rogers notes:</p>
+
+<p dir="ltr">As women, we tend to take on the happiness of our family meaning dealing with and trying to shape the emotions of our spouse, our partner, our kids, to be sure everybody is happy in the house. So that means I have to know what's going on with them. What do they have to deal with that comes from out in the world including dealing with social issues, dealing with racial issues, dealing with how people feel about what's going on in politics, dealing with all of that. For example, my nephew lives with us. In addition to teaching him how to maneuver around the house I also pay attention to how he maneuvers in the world and how he handles things that come his way. So as women of color we are always asking the question did this bad thing happen to me because this person was just an a***hole in general or it only happened to me because I'm a brown person. There is an additional aspect when you put race into the picture in addition to the regular everyday stuff.</p>
+
+<p dir="ltr">Professional Organizer Robyn Reynolds says: “Picture this. I arrive early to a mostly affluent neighborhood just to be sure I am on time and haven’t gotten lost, plus I like to be early! So, here I am, a Black woman sitting in her car for sometimes up to 20 minutes. While I know that I have a reason to be there, others may not. So far, I have not had the cops called on me but it is something I think about often. Will today be the day? Then, the time has come for me to ring the bell and meet my client for the first time. Unless they have looked at my website, they do not know that I am a person of color. For some it is surprising, for others it doesn’t matter. The point is that I never know whether or not they care.”</p>
+
+<p dir="ltr">Arlie Hochschild, the originator of the term ‘emotional labor’ extends the concept of emotional management to racial reconciliation, noting that: </p>
+<p dir="ltr">“…a Black person may be treated as a ‘representative’ of all black people…Or in other ways, people of color and really minorities of every sort, face the task of peeling off other people’s projections onto them…Any member of a minority, whether based on gender, sexuality, religion, disability…is tacitly given the extra emotional task of helping others relate to oneself in a relaxed and accepting way.”</p>
+
+<p dir="ltr">Dr. Belinda Tucker, UCLA Professor Emerita of Psychiatry and Behavioral Science, notes that she and her husband worked hard to create together an environment at home where he was able to express feelings related to the systemic racism rampant in his workplace. “We uplift and elevate masculinity because it's so brought down by the man outside. Back in the day when I did my graduate research, the comment ‘Well, I want to uplift and elevate my husband so that he feels like a man,’ might have elicited from me a white-privileged response like “Get counseling.” But now I get it. Racism still reigns in this country, so a black woman saying the same thing, I think, “Oh, okay,” because I understand the context is so different.</p>
+
+
+
+  
+
+
+<p dir="ltr">There is a cost to carrying the weight of emotional labor. Referred to as the “superwoman schema" – many among us feel compelled to demonstrate unwavering competence. We suppress our feelings. We don’t like feeling vulnerable and we tend to go beyond the mark, over and above, accomplishing feats amid limitation. We deny self-care in our ongoing care for others. Exhausted and depressed, women “crash out,” a term used in a 2025 article by Miriam Musa in Rolling Out, a digital magazine for people of color, phenomena for women of color shouldering complex emotional labor differs from typical burnout. <a href="https://rollingout.com/2025/08/04/crash-out-burnout-trend-black-women/">A 2025 article by Miriam Musa in Rolling Out</a>, a digital magazine for people of color, notes that “The crash out trend has highlighted how much unpaid emotional and domestic labor black women perform in their families, workplaces and communities. This invisible work includes managing household logistics, supporting colleagues, mentoring younger people, and maintaining family relationships. It represents significant economic value that goes unrecognized… the ripple effects show just how much others depend upon their unacknowledged contributions.”</p>
+
+<p dir="ltr">For these reasons, when creating the revised 2nd Edition of Emotional Labor, Judith Kolberg and I sought to document the experience of woman of color. Emotional labor transcends housewife problems and cannot be solved with better chore charts alone. Emotional labor has just as much to do with racism and socioeconomic status as it does femininity. Recognizing emotional labor means addressing its source, thereby enabling individuals to distribute it equitably among household members and partners.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/what-we-carry/202610/emotional-labor-and-the-triple-burden-facing-women-of-color" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/what-we-carry/202610/emotional-labor-and-the-triple-burden-facing-women-of-color</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/what-we-carry/202610/emotional-labor-and-the-triple-burden-facing-women-of-color</guid>
+            <dc:creator><![CDATA[Regina F.  Lark, Ph.D.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/shutterstock_2728945915.jpg?itok=Gm8grWPr" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Your Employer Collapses, What's Next for You?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/dr-ruth.jpg?itok=2nJqYBOp" alt="Ruth Gotian Ed.D., M.S." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Your Employer Collapses, What's Next for You?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How to navigate job loss, activate your network, and protect your career.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">You can be indispensable at work and still lose your job overnight.</li><li style="margin-bottom:6px;">The most dependable employees may be the least prepared for an unexpected job loss.</li><li style="margin-bottom:6px;">Our employer's prestigious reputation offers less career security than you might think.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/vitaly-gariev-5op64lvhetw-unsplash.jpg?itok=XD7ESz10" width="320" height="180" data-insert-type="image" alt="Weil, Gotshal &amp; Manges is shutting down, causing thousands to lose their jobs." title="Vitaly Gariev/Unsplash"></div>
+<div class="caption">Weil, Gotshal &amp; Manges is shutting down, causing thousands to lose their jobs.</div>
+<div class="insertArea--origin subtext">Source: Vitaly Gariev/Unsplash</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Weil, Gotshal &amp; Manges, a nearly century-old global law firm with 1,200 lawyers and more than two billion dollars in annual revenue, announced their plans to wind down operations. A few dominos set this cascade in motion. Prominent partners were poached and moved to other firms. Traditionally, clients follow them. But the firm still has high fixed costs. Subsequent merger discussions failed, and the firm’s leadership recommended dissolving the firm, pending a partnership vote.</p>
+
+<p dir="ltr">For thousands of lawyers, paralegals, administrative professionals and other staff members, their life is in upheaval. They worked hard, consistently delivered results, nurtured relationships, and believed they had a secure future with the firm. Overnight, that changed.</p>
+<p dir="ltr">Like many who have been let go, a certain realization hits home. You can be indispensable to your employer, and still be professionally vulnerable.</p>
+
+<p dir="ltr">The lessons from the dissolution of a prominent law firm can teach us many lessons, both for those who are facing an unexpected career disruption and those who feel they are comfortably employed.</p>
+<h2 dir="ltr">Short-Term Response: Regain Control</h2>
+<p dir="ltr"><strong>1. Make your invisible work visible.</strong></p>
+<p dir="ltr">Too often, high performers become what I call the <em>Office Mechanic</em> (read my <a href="https://www.psychologytoday.com/us/blog/optimizing-success/202507/the-hidden-cost-of-being-dependable"><em>Psychology Today</em></a> article on this). They are the people who prevent a crisis, solve problems, and keep the organization functioning. They absorb many stressors so the people above them in the hierarchy don’t need to. Their work is often done in the shadows. They are so reliable that people barely notice what they’ve done. Because of them, there's no fire, no drama, and no one notices. </p>
+
+<p dir="ltr">If this describes you, keep a log of problems you solved, disasters you prevented, and ways your work improved. Don’t worry about going back to the beginning of your career. Start with the last three problems you solved, or the last twelve months. Without disclosing confidential information, use quantitative impact measures. Use percentages, dollar signs, and greater/less than indicators. Show impact. These become the stories you share with others and post on your LinkedIn. They go beyond what you did to the impact you had.</p>
+
+<p dir="ltr"><strong>2. Activate your network strategically.</strong></p>
+<p dir="ltr">Panicked emails rarely work, especially if you are sending generic mass messages saying “I am looking for a new opportunity.” Instead, make a list of five people who know the quality of your work, five who are connected to organizations you respect, and three who could or would advocate for you.</p>
+
+<p dir="ltr">Contact them with a specific request. Don’t just say “I need help finding a new job.” That is too vague. Instead, ask for introductions to specific people or types of people. You want the person to picture in their mind who they should reach out to on your behalf. You can also inquire about insight into an industry, or recommendations for specific opportunities. The more detailed you can be, the better. The goal is to turn relationships into conversations and conversations into opportunities.</p>
+
+<p dir="ltr"><strong>3. Convert praise into advocacy.</strong></p>
+<p dir="ltr">If you’ve ever received praise at work (read my <a href="https://www.psychologytoday.com/us/blog/optimizing-success/202603/when-we-can-always-count-on-you-becomes-a-problem"><em>PT</em> article</a> about why this might be a dead end), such as “You’re the glue that keeps us together” or “We’d be lost with you,” you might be recognized for your performance but overlooked for advancement.</p>
+<p dir="ltr">Consider three people who have called you exceptional in one form or another. Reach out to them and ask them to recommend you, introduce you to specific people, or serve as references. Again, be specific in your ask.</p>
+
+
+<p dir="ltr">Being appreciated feels wonderful but being advocated for is what opens doors.</p>
+<h2 dir="ltr">Long-Term Response: Build Career Resilience</h2>
+<p dir="ltr"><strong>4. Never build your career around one person.</strong></p>
+<p dir="ltr">Too often, people join an organization for the opportunity to work with an influential leader. Assuming they ever get face time with that person, that leader can leave, retire, or lose influence overnight, leaving you as collateral damage.</p>
+
+<p dir="ltr">Protect yourself by building a mentoring team with relationships across departments, organizations, and industries. Ask yourself this critical question: If my boss disappeared tomorrow, who else would know my value?</p>
+<p dir="ltr"><strong>5. Recalibrate your network before you need it.</strong></p>
+<p dir="ltr">You might be so good at keeping your head down and doing your job well that you’ve neglected your network. Many successful professionals have deep internal networks and surprisingly weak external ones. Meaning, you are known within your organization or industry, and invisible outside of it.</p>
+
+
+
+  
+
+
+<p dir="ltr">To combat this, be proactive. Every quarter, reconnect with three people outside your organization. Consider sending a non-committal email during holidays, such as Thanksgiving, New Year, or Fourth of July. Develop relationships with people who can challenge your thinking, expand your perspective, and introduce you to new opportunities, and be sure to keep in touch with them, especially when you don’t need their help.</p>
+
+<p dir="ltr">Your employer's prestigious name may open doors, which is known as your social proof. However, your professional reputation must survive independently of it. Your social proof should launch you, not carry you.</p>
+<p dir="ltr">Share your expertise, develop transferable skills, and ensure that people beyond your immediate colleagues understand the problems you solve. Routinely, offer to help others, before you ever ask for help in return. Even if you are out of work, take the time to continuously uplevel your skills. Consider online courses such as those available through LinkedIn Learning — free with a US library card. </p>
+
+<p dir="ltr">Weil's employees are facing tremendous uncertainty, which is likely extremely unsettling. Their experience should remind everyone that organizational prestige and individual excellence cannot eliminate career risk. Prepare accordingly.</p>
+<p dir="ltr">The ultimate career security is knowing that your skills, relationships, reputation, and opportunities can travel with you, even when your employer cannot.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/optimizing-success/202610/when-your-employer-collapses-whats-next-for-you" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/optimizing-success/202610/when-your-employer-collapses-whats-next-for-you</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/optimizing-success/202610/when-your-employer-collapses-whats-next-for-you</guid>
+            <dc:creator><![CDATA[Ruth Gotian Ed.D., M.S.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/vitaly-gariev-5op64lvhetw-unsplash.jpg?itok=AX6Lm_p-" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who Decides Whether Someone Is Mentally Capable of Voting?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-10/Barksy.jpg?itok=zklOIWhD" alt="Allan E. Barsky" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Law and Crime</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Who Decides Whether Someone Is Mentally Capable of Voting?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Examining the voting rights of people with mental illness or cognitive impairment</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">People with mental health conditions or cognitive impairments generally retain the right to vote.</li><li style="margin-bottom:6px;">States may restrict voting rights based on legally established mental incapacity.</li><li style="margin-bottom:6px;">Caregivers and mental health professionals can help individuals exercise their voting rights.</li>
+            </ul>
+          </div>
+                    <p>Voting is a fundamental right in free and democratic societies (<a href="https://www.bazelon.org/our-work/voting/">Bazelon Center for Mental Health Law, 2026</a>). The Equal Protection and Due Process Clauses of the <a href="https://constitution.congress.gov/browse/amendment-14/">Fourteenth Amendment to the U.S. Constitution</a> provide important safeguards against arbitrary and discriminatory restrictions on voting rights. But what happens when individuals have schizophrenia, cognitive impairment, bipolar disorder, uncontrolled addiction, or other mental health disorders that may compromise their decision-making capacity? What does the law say about their right to vote, and who has the authority to determine when that right may be restricted?</p>
+
+<h2>Relevant Laws</h2>
+<p>Various federal and state laws protect voting rights, including those of people with mental health conditions or cognitive impairments. Under the <a href="https://www.law.cornell.edu/uscode/text/52/10508">Voting Rights Act</a> (1965), individuals with disabilities who need assistance voting have the right to receive help from a person of their choice, subject certain exceptions (e.g., not an employer). For instance, someone with an anxiety disorder, cognitive impairment, autism, or other mental health condition that makes voting difficult may ask a friend or family member to assist them (<a href="https://www.bazelon.org/our-work/voting/">Bazelon Center for Mental Health Law, 2026</a>). The <a href="https://www.ada.gov/law-and-regs/ada/">Americans with Disabilities Act</a> (1990) also prohibits discrimination by state and local government officials, including individuals responsible for administering elections (<a href="https://www.ada.gov/resources/protecting-voter-rights">U.S. Department of Justice, 2024</a>). For example, election officials generally cannot prohibit voters with disabilities from bringing trained service animals into polling places. States cannot enact laws that discriminate against people with disabilities (<a href="https://law.justia.com/cases/federal/district-courts/FSupp2/156/35/2318046"><em>Doe v. Rowe, 2001</em></a>), for instance, disqualifying people from voting simply because they have a <em>mental illness</em>.</p>
+
+<p>Under the <a href="https://www.law.cornell.edu/uscode/text/52/20507">National Voter Registration Act</a> (1993), states may remove individuals from voter registration rolls based on <em>mental incapacity</em>, as provided by state law. However, states differ in whether and how they determine whether someone lacks the mental capacity to vote. For instance, <a href="https://www.flsenate.gov/Laws/Statutes/2026/97.041">Florida Statute § 97.041</a> prohibits individuals who have been adjudicated mentally incapacitated with respect to voting from voting unless their voting rights have been restored. New Mexico’s <a href="https://www.sos.nm.gov/wp-content/uploads/2025/01/NM_Constitution_-2025-for-SOS.pdf">Constitution (Article VII, § 1)</a> permits restrictions based on mental incapacity only when individuals cannot mark their ballots and cannot communicate their voting preferences. In contrast, <a href="https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=2208.&amp;lawCode=ELEC">California Elections Code § 2208</a> presumes that individuals retain the right to vote even when they have court-appointed conservators. Voting rights may be removed only following a specific court ruling, supported by clear and convincing evidence, that the individual cannot communicate a desire to participate in voting, even with reasonable accommodations.</p>
+
+<h2>Bottom Lines</h2>
+<p>Although voting laws vary from state to state, the following general principles apply across the United States:</p>
 <ol>
-<li><strong>“You must be wrong.” </strong></li>
+<li><strong>Mental health diagnoses do not automatically disqualify people from voting.</strong> Individuals do not lose their voting rights simply because they have a mental health condition, cognitive impairment, or intellectual disability, or because they take medication for a mental health condition.</li>
+<li><strong>Voting rights may be restricted based on legal determinations of mental incapacity.</strong> In states permitting such restrictions, individuals may lose their voting rights through a court determination or other legally authorized process. These restrictions must comply with constitutional and federal disability-rights protections (<a href="https://www.bazelon.org/our-work/voting/">Bazelon Center for Mental Health Law, 2026</a>).</li>
+<li><strong>Guardianship or hospitalization does not necessarily mean losing the right to vote.</strong> In many states, individuals retain their voting rights even when a court appoints a guardian to assist them with personal, financial, or healthcare decisions, or when they have been admitted to a mental health facility. The specific laws and court orders governing voting rights vary from state to state.</li>
+<li><strong>Election officials must provide reasonable accommodations for voters with disabilities.</strong> This may include allowing individuals with mental health conditions or cognitive impairments to receive assistance from someone of their choice, subject to certain legal exceptions.</li>
+<li><strong>Voting decisions belong to the voter.</strong> Individuals should not be prevented from voting simply because family members, mental health professionals (MHPs), caregivers, or others disagree with their political views or preferred candidates. Likewise, people providing voting assistance must respect the voter's choices rather than substitute their own preferences.</li>
 </ol>
-<p>We tune out contrarian voices, despite experience, history, or factual evidence<strong>. </strong>It’s status-agnostic. People hate bad news. For instance, research finds investors don’t review their accounts as frequently in a bear market. A person who dismisses repeated financial warnings as “bad luck” assumes others are wrong.</p>
 
-<p>What to do? Ask what would make you change your mind. If no new data point or advice persuades you to shift, you’re in denial mode and likely downgrading others’ opinions.</p>
-<ol start="2">
-<li><strong>“That’s nonsense.” </strong></li>
-</ol>
-<p>We live in denial when we dismiss contrary arguments, advice, or opinion, and only prioritize data consistent with beliefs. A bad manager thinks resigning employees are ‘bitter leavers.’<strong> </strong>Some CEOs, politicians and even Presidents are convinced about their fitness for office despite popular opinion.<strong> </strong></p>
+<p>A recent Wisconsin Supreme Court decision illustrates the importance of protecting the privacy of individuals whose voting rights have been restricted due to mental incapacity. In <a href="https://www.wicourts.gov/sc/opinion/DisplayDocument.pdf?content=pdf&amp;seqNo=1141646"><em>Wisconsin Voter Alliance v. Secord (2026)</em></a>, the court ruled that records identifying individuals who had been adjudicated incompetent to vote were confidential under state guardianship laws and were not subject to public disclosure. Protecting privacy also fits with the ethics of mental health professionals, which includes respecting patient’s right to confidentiality (<a href="https://www.counseling.org/docs/default-source/default-document-library/ethics/2014-aca-code-of-ethics.pdf?sfvrsn=55ab73d0_1">ACA, 2014</a>; <a href="https://www.apa.org/ethics/code">APA, 2017</a>; <a href="https://www.socialworkers.org/About/Ethics/Code-of-Ethics/Code-of-Ethics-English">NASW, 2021</a>).</p>
 
-<p>Look for patterns, not just exceptions. Count and date events as a record. One happy client doesn’t cancel the need to review ten unhappy clients. The trend reveals the truth, as occasionally peers do.</p>
-<ol start="3">
-<li><strong>“What do peers think?” </strong></li>
-</ol>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/joyful_family_breakfast_in_a_sunlit_kitchen.png.jpg?itok=8-0ql-kI" width="320" height="180" data-insert-type="image" title="AI-generated" alt="AI-generated"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI-generated</div>
-</div>
-</div>
-</div>
-<p>People in denial tend to shrink their circle to those who agree with them. This echo chamber shows up in the workplace, church hall, and sports club. </p>
-<p>We seek selective exposure to like-minded thinkers. Similarly, conspiracy theorists and climate deniers all believe they’re right. </p>
-<p>Escaping the bubble means inviting perspectives from dissenters. They have less to lose by telling you the truth. And usually, are delighted to do so.</p>
+<h2>Roles of Family, Friends, Caregivers, and Mental Health Professionals</h2>
+<p>Family members, friends, caregivers, and mental health professionals (MHPs) can play vital roles in helping individuals with mental health conditions or cognitive impairments exercise their right to vote. First, they can explore whether individuals are interested in voting and identify what assistance they may need to participate. This may include providing information about voter registration, early or mail-in voting, sample ballots, candidates’ positions and policies, and transportation options for getting to polling places (e.g., public transportation, rides from family or friends). For state-by-state voting guides, see <a href="https://www.aapd.com/voter-info">https://www.aapd.com/voter-info</a>.</p>
 
+<p>If individuals experience anxiety or distress related to voting, supporters can help them identify ways to manage these concerns, such as voting by mail or using relaxation and breathing exercises. When individuals encounter barriers to voting (e.g., inaccessible polling booths, ballots that are difficult to read or understand), family members, MHPs, and others can help them advocate for reasonable accommodations and resolve accessibility concerns. While providing assistance with the voting process, supporters should respect individuals’ autonomy, ensuring that assistance facilitates their own voting decisions rather than influencing or substituting the preferences of others.</p>
 
-<ol start="4">
-<li><strong>“They haven’t a clue.” </strong></li>
-</ol>
-<p>People in denial shoot the messenger.<strong> </strong>Deniers can belittle naysayers, ridicule or even attack dissenters as clueless, misinformed, jealous, or intellectually inferior. Sometimes, all of the above. They refuse to discuss the controversial topic, protecting their comforting view. The more emotionally distressing the reality, the greater the denial, like hearing the diagnosis of a terminally ill child or parental decline.<strong> </strong></p>
+<p>Generally, MHPs and other supporters are not legally required to assist individuals with mental health conditions or cognitive impairments in exercising their right to vote. Nevertheless, providing voting assistance may be an ethical or moral responsibility, reflecting respect for individuals’ dignity, worth, autonomy, and right to participate in democratic processes. Professional ethical standards for counselors, psychologists, and social workers emphasize respect for clients’ autonomy and self-determination (<a href="https://www.counseling.org/docs/default-source/default-document-library/ethics/2014-aca-code-of-ethics.pdf?sfvrsn=55ab73d0_1">ACA, 2014</a>; <a href="https://www.apa.org/ethics/code">APA, 2017</a>; Barsky, 2023; <a href="https://www.socialworkers.org/About/Ethics/Code-of-Ethics/Code-of-Ethics-English">NASW, 2021</a>). These principles support respecting and facilitating clients’ right to vote, should they wish to exercise it.</p>
 
-<p>Science suggests a solution. One evidence-based strategy is to consider the opposite view. Professional debaters do this convincingly. Research shows this can reduce misjudgment and singular perspectives. </p>
-<p>The next two signs involve avoidance and delay.</p>
-<ol start="5">
-<li><strong>“It’s just a one-off.” </strong></li>
-</ol>
-<p>People living in a bubble minimize contrary arguments or trivialize warnings until it’s too late. When we’re in denial mode, we consider any unethical transgression, suspicious absence, ‘working late’ excuse, or bank account anomaly a one-off. The same goes for medical complaints. “It’s only a crusty freckle, not a potential melanoma.” We justify the position and make excuses.</p>
+<p>When individuals appear to lack the mental capacity to make informed voting decisions, supporters should not automatically assume that they have lost their right to vote. Instead, they can explore whether reasonable accommodations or supported decision-making could help individuals express their own voting preferences. For instance, some people with dementia experience greater mental clarity in the morning and increased confusion or cognitive difficulties later in the day, a phenomenon known as <em>sundowning</em>. For these individuals, arranging to vote in the morning, when they are more alert and better able to express their preferences, may be helpful. If individuals cannot communicate their voting preferences, even with appropriate assistance, supporters should refrain from making voting choices on their behalf. </p>
 
 
 
   
 
 
-<p>Set a tripwire. You can decide in advance what will trigger action. For instance, “If the freckle changes, I book the appointment.” Or “If the transgression is material, I’ll report it.”</p>
-<ol start="6">
-<li><strong>“I’ll deal with it later.”</strong></li>
-</ol>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/relaxed_executive_with_city_views.png.jpg?itok=d4h8vHqk" width="320" height="180" data-insert-type="image" title="AI-generated" alt="AI-generated"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: AI-generated</div>
-</div>
-</div>
-</div>
-<p>We defer action, from refusing to fix a leaky tap to admitting gambling or alcoholism. It becomes about timing. </p>
-<p>You won’t address it ‘yet’. But ‘not yet’ never ends.</p>
-<p>Explore what’s stopping the acceptance of reality. By naming the fear aloud, you give it focus. Fear tends to shrink when it has both an identifiable label and a deadline. </p>
+<p>If someone is coercing, intimidating, or manipulating a vulnerable adult to influence their voting decisions, this may constitute unlawful interference with their voting rights (<a href="https://www.law.cornell.edu/uscode/text/52/10508">Voting Rights Act</a>, 1965). Depending on the circumstances and applicable state laws, such conduct may also raise concerns about abuse or exploitation that warrant reporting to adult protective services or election authorities (e.g., <a href="https://www.flsenate.gov/Laws/Statutes/2026/415.1034">Florida Statutes, 2026, § 415.1034</a>).</p>
 
-<ol start="7">
-<li><strong>“That’s not me.”</strong></li>
-</ol>
-<p>The final sign concerns identity. We see the denial tendency in others far quicker than ourselves. If you’re now thinking of someone else, look within. It’s a blind spot. </p>
-<p>A simple solution exists. Ask someone you trust, “What am I not seeing?” Don’t argue. Just listen and consider if it might be true. Denying redundancy or bereavement makes us miserable for longer.</p>
-
-<p>As I write in <a href="https://www.amazon.com/Tune-smarter-decisions-noisy-world/dp/0857199951/ref=tmm_pap_swatch_0"><em>TUNE IN: How to Make Smarter Decisions in a Noisy World</em></a>, behavioral solutions seem obvious to the misjudgment problem. The problem is we tune in too late. </p>
-<p>Some argue denial has value. It protects in a crisis. Taylor and Brown argue that positive illusions can support wellbeing. Buying time can be a temporary band-aid. The cost of avoidance depends on the depth and duration of denial. A missed cancer diagnosis or failed marriage could have been prevented; a loved one might have had a more meaningful goodbye. </p>
-
-<p>All seven signs of denial reveal something we’re actively resisting and rationalizing. The ostrich doesn’t bury its head. We do. Turning a blind eye or a deaf ear hurts more in the long run. </p>
-<p>It’s time to burst the bubble. </p>
+<h2>Conclusion</h2>
+<p>Having a mental health condition or cognitive impairment is not, in itself, a legal justification to restrict a person’s right to vote. Although voting rights may be restricted under certain state laws when individuals are legally determined to lack the capacity to vote, such restrictions must comply with constitutional, federal, and state protections. Family members, friends, MHPs, and other supporters can play important roles in helping individuals exercise their voting rights, including providing appropriate assistance and accommodations. They should also remain vigilant against exploitation, coercion, and discrimination, while respecting each individual’s autonomy, dignity, and right to participate in the democratic process.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/decisions-that-matter/202610/7-signs-youre-in-denial" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/agens-scientiam/202610/who-decides-whether-someone-is-mentally-capable-of-voting" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/decisions-that-matter/202610/7-signs-youre-in-denial</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/decisions-that-matter/202610/7-signs-youre-in-denial</guid>
-            <dc:creator><![CDATA[Nuala G Walsh]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/agens-scientiam/202610/who-decides-whether-someone-is-mentally-capable-of-voting</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/agens-scientiam/202610/who-decides-whether-someone-is-mentally-capable-of-voting</guid>
+            <dc:creator><![CDATA[Allan E. Barsky PhD, MSW, JD]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/relaxed_executive_with_city_views.png.jpg?h=e8bc1de2&amp;itok=9IAbCgxS" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/--voting_at_polling_booth.png.jpg?itok=vWCdE7RH" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Why "I Understand" Can Make Someone Feel Misunderstood]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-11/manu_sidhu.png.jpg?itok=LhadZEhK" alt="Manu Sidhu MBBS" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Cognition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why "I Understand" Can Make Someone Feel Misunderstood</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">You can understand what someone means without knowing how it felt.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[My Kid Has Another Group Project With Some Not-So-Great Kids]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Karen_in_coffee_shop_holding_mug_of_coffee_copy_2-removebg-preview.jpg?itok=GatpHtmE" alt="Karen Cassiday Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">My Kid Has Another Group Project With Some Not-So-Great Kids</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Group projects can be a valuable tool for learning group skills.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Claiming to know how someone feels can unintentionally make them feel more misunderstood.</li><li style="margin-bottom:6px;">Research suggests that accurately knowing someone doesn't necessarily make them feel understood.</li><li style="margin-bottom:6px;">By adopting the not-knowing stance, you allow someone to remain the authority on their own experience.</li><li style="margin-bottom:6px;">Empathy requires humility about what cannot be known and confidence in what can be understood.</li>
+              <li style="margin-bottom:6px;">Resilient kids learn to function in groups when some peers are poor participants.</li><li style="margin-bottom:6px;">School group projects teach lifetime skills of tolerance, managing expectations, and self-sacrifice.</li><li style="margin-bottom:6px;">No perfect group exists and no kid is a perfect group participant, including your child.</li>
             </ul>
           </div>
-                    <p>Have you ever told someone, "I understand", only for them to respond:</p>
-<blockquote><p>No, you don't! How could you possibly understand? You haven't been through what I've been through.</p>
-</blockquote>
-<p>Yet, you've listened carefully, tried to appreciate their perspective, and offered what you thought was a reassuring expression of empathy.</p>
+                    <p>When my teachers announced a group project, I used to worry about who my group members would be. What if they didn’t do their part? What if they were bad students who didn’t care and brought down the group grade? </p>
+<p>When my kids were in school, I found myself reliving the same dilemma: I'd listen to one kid complain about other students' lack of helpful input or worry about how my academically challenged kid would affect the group's morale or grade. If I am honest, I wouldn’t have wanted him assigned to my group! </p>
 
-<p>But still, somehow, your attempt to make them feel understood has achieved the opposite.</p>
-<h2>Why Can “I Understand” Provoke Such a Response?</h2>
-<p>Because of the difference between two kinds of understanding:</p>
-<ul>
-<li>Understanding what someone is communicating: grasping what they're trying to tell you — their thoughts, feelings, perspective, and the meaning they attach to an experience.</li>
-<li>Understanding what someone has experienced: knowing what it actually felt like to live through that experience — a subjective perspective you can never fully inhabit.</li>
-</ul>
+<p>As a therapist, I have had many sessions with kids, teens, and adults who have suffered great anxiety and interpersonal distress because someone else in a group was not able to function effectively, whether it was for school, sports, work, or an organization. I have also seen how easy it is for parents to respond to this dilemma by asking that their child be assigned to a more favorable group, especially if they are on the receiving end of their child’s anxiety and anger when a group project is compromised by a troublesome peer. This seems like a great thing to do, right? Unfortunately, this is a misguided way to help your kid, even if it is well-intentioned. Let me explain.</p>
 
-<h2>You Can Understand What Someone Means Without Understanding Their Lived Experience</h2>
-<p>Imagine someone telling you about a particularly difficult period in their life.</p>
-<p>As they speak, you appreciate what they're trying to communicate. You hear about the difficulties they faced and why they found the experience so upsetting.</p>
+<p>Think about how often you have to work in groups or deal with groups in your work and private life. Even if you deliberately avoid joining boards or leadership groups, you likely participate in other groups, with neighbors, parent organizations, volunteers, your family, friends, or work colleagues. They almost always include some effective group members and those who are less effective or even detrimental. As someone with a long history of leading and belonging to many groups, I cannot think of a single situation where everyone consistently did what served the group or its purpose, including me! This means that the problem your child faces is not finding the perfect group, which is humanly impossible, but figuring out how to function well in any group.</p>
 
-<p>Then, hoping to show some empathy, you say:</p>
-<blockquote><p>I understand how you feel.</p>
-</blockquote>
-<p>Although you may understand what they're telling you, can you truly know what their experience felt like?</p>
-<p>Not entirely.</p>
-<p>Even if you've been through something remarkably similar, your experience will never be identical. Your history, personality, and circumstances all influence how events are experienced and interpreted.</p>
+<p>What if you framed each school group project as part of the long-term learning process of being a group member and/or a group leader with imperfect peers? Instead of trying to isolate your child from the learning process for the sake of grades, what if you embraced the struggle to learn how to manage expectations for oneself and others, to figure out how to compensate for those who are not as skilled, willing, or engaged, and to learn how to sacrifice for the greater good of the group? Aren’t these abilities you wish for your child? When you send the message that it is unacceptable to work with those who don’t share your skills or values, you risk making it harder for your child to become an adult who can live in harmony with those who are different. You risk contributing to cancel culture.</p>
 
-<p>So they may interpret your words as a claim to know something that cannot be fully known.</p>
-<p>Now compare that with saying:</p>
-<blockquote><p>I understand what you mean.</p>
-</blockquote>
-<p>Rather than claiming to know what their experience felt like, you're acknowledging that you've understood what they're trying to communicate.</p>
-<h2>Why Understanding Someone Doesn't Always Make Them Feel Understood</h2>
+<p>If you take this long-term view of group projects, then it means you should try to do the following:</p>
+<ol>
+<li>First, agree with your child’s distress when they complain: “Yes, it stinks when someone did not do their part in the group presentation. That is really unfair and annoying.” This validates their experience.</li>
+<li>Normalize their experience by pointing out past circumstances of typical group dysfunction and eventual recovery. Share your own similar group experiences and explain how your life continued, whether or not the group was successful.</li>
+<li>Remind them of the bigger goal: to learn how to identify what each group member is capable of and then to redesign the tasks around realistic expectations. For example: “If that kid won’t do any research, then why not have everyone else do the research?”</li>
+<li>Ask them to give compassion to the students who are not able to participate to their satisfaction: “If they never do their homework, then why would you expect them to do group work? They have not yet learned how to do school.” This means you should never vilify the kids who cannot fulfill the group mission, just like you would never vilify the benchwarmers in kids’ sports.</li>
+<li>Remind your kid there is no perfect group, just some kids who figure out faster how much can be accomplished when they learn how to work well in a group. Your kid needs to learn that group effort is priceless for society to function well, even when some members can't be effective in groups.</li>
+</ol>
 
-<p>In their review of feeling understood in relationships, psychologist Harry Reis and colleagues distinguished between two different types of understanding:<sup>1</sup></p>
-<ul>
-<li><strong>Actual understanding:</strong> How accurately another person understands someone's thoughts, feelings and experiences.</li>
-<li><strong>Perceived understanding:</strong> How much that person feels understood by someone else.</li>
-</ul>
 
-<p>The two aren’t as related as you might think. In a study involving 199 newlywed couples, psychologists Monique Pollmann and Catrin Finkenauer found that how accurately partners knew one another was largely unrelated to how understood they felt.<sup>2</sup></p>
-<p>In fact, <em>perceived</em> understanding predicted relationship wellbeing, whereas <em>actual</em> understanding did not.</p>
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-no-worries-guide-to-thriving/202610/my-kid-has-another-group-project-with-some-not-so" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-no-worries-guide-to-thriving/202610/my-kid-has-another-group-project-with-some-not-so</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-no-worries-guide-to-thriving/202610/my-kid-has-another-group-project-with-some-not-so</guid>
+            <dc:creator><![CDATA[Karen L Cassiday Ph.D.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/collaborative_classroom_project_tensions.png.jpg?itok=5QBcjNc1" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Becoming Too Much for You? Crack Open a Fantasy Book]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Leno.png.jpg?itok=b1kF29-r" alt="Leno" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Fantasies</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Reality Becoming Too Much for You? Crack Open a Fantasy Book</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Reading fantasy can offer a temporary, healthy escape from the real world.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Fantasy books can offer a temporary escape from everyday stress.</li><li style="margin-bottom:6px;">Reading for pleasure can support relaxation and self-exploration.</li><li style="margin-bottom:6px;">Escapism can be restorative when it is not about long-term avoidance.</li><li style="margin-bottom:6px;">Reading doesn’t need to be about self-improvement; sometimes a good story is enough.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/pexels-cottonbro-4866043.jpeg.jpg?itok=BrnUHj58" width="320" height="213" data-insert-type="image" title="Cottonbro Studio / Pexels" alt="Cottonbro Studio / Pexels"></div>
+<div class="insertArea--origin subtext">Source: Cottonbro Studio / Pexels</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Browse any bookstore, and you are bound to see a bevy of covers featuring dragons, fairies, warrior princesses, and brave Hobbit travelers. The fantasy book market is red-hot, projected to reach <a href="https://immortalcultivationhub.com/why-fantasy-is-more-popular/">$26 billion</a> by 2033 and seemingly growing faster than any other genre. The latest book in author Sarah J. Maas’s hit “ACOTAR” series, for example, <em>A Court of Splintered Harmony,</em> quickly rose to the <a href="https://www.forbes.com/sites/tonifitzgerald/2026/10/25/everything-to-know-about-a-court-of-splintered-harmony-by-sarah-j-maas/">number 2 spot on Amazon</a> leading up to its release on October 27, 2026, and saw bookstores across the U.S. <a href="https://www.bostonglobe.com/2026/10/23/arts/acotar-book-six/">selling out of copies</a> for midnight release parties.</p>
 
-<h2>The Importance of Knowing What Cannot Be Known</h2>
-<p>The developers of Mentalization-based Treatment, Anthony Bateman and Peter Fonagy, emphasise the importance of adopting a <em>not-knowing stance</em>, recognising that another person's mental world can never be entirely accessible to us.<sup>3</sup></p>
-<p>People can make educated guesses about what someone might be thinking or feeling, but these interpretations are always open to correction.</p>
+<p dir="ltr">With these statistics, one has to wonder whether the popularity of fantasy novels has anything to do with people desperately trying to escape our current reality.</p>
+<p dir="ltr">Since the dawn of modern literature, fantasy tropes such as damsels in distress, fantastical flying beasts, and dragon-slayers have been popular fodder for writers. Escapism has always been a reason people turn to books. Today, people may feel they have all the more reason to turn to fantasy novels as the laundry piles up, the email inbox begins to overflow, and back-and-forth political ads dominate daily TV watching. Somehow, reading about a kingdom on the brink of destruction or a powerful huntress on a mission to save her village starts to sound relaxing in comparison.</p>
 
-<p>For example, telling someone who wasn’t invited to a party, "You must have felt rejected", imposes an interpretation of their experience.</p>
-<p>Asking "How did that make you feel?" allows them to describe their experience in their own words.</p>
-<p>Even when offering your own interpretation, phrasing it tentatively as a question — such as "Did that leave you feeling rejected?" — gives them room to confirm or correct it.</p>
+<p dir="ltr">So what is it about fantasy books that allows people to lean into escapism, and is it a healthy way to deal with a reality that may feel all too “real” sometimes?</p>
+<h2 dir="ltr">Getting lost in a book</h2>
+<p dir="ltr">Many of us have experienced the thrill of becoming so engrossed in a book that the outside world seems to melt away. The attention to detail, the emotion contained within the prose, and the mental imagery are enough to transport us to another place and time. This sense can be heightened with fantasy novels. </p>
+
+<p dir="ltr">Reading gives us some place to go, if just for a moment. Through reading fantasy, we can become emotionally invested in moments that do not require us to upend our daily lives. There can be great appeal to this temporary escape, especially for people who have a lot going on in the real world. While the fire-breathing dragon may be terrifying, it’s not waiting for your email response. </p>
+
+<p dir="ltr"><a href="https://www.theguardian.com/books/2023/jun/08/one-in-three-say-books-offer-best-form-of-escapism-when-having-a-bad-day">In one study, </a>one in three respondents said books offered the best form of escapism from a bad day, illustrating that books may not only be a fun form of entertainment, but could be important for overall mental wellness. </p>
+<h2 dir="ltr">Fantasy books offer an enticing doorway to escapism and more</h2>
+<p dir="ltr">There is nothing more far removed from modern life than a fantasy novel, yet they still offer familiar feelings within those fantastical settings. There’s love, friendship, fear, grief, belonging, and responsibility woven into fantasy stories—feelings that most people can relate to. Fantasy novels give us a peek into what is possible outside of everyday roles. While we may not be able to ride upon a winged horse or consort with fairies, we can embrace friendship or take a chance on new adventures, just like the people in our favorite books. </p>
+
+<p dir="ltr"><a href="https://pubmed.ncbi.nlm.nih.gov/41321266/">According to studies,</a> reading for pleasure can support feelings of relaxation, give us new perspectives, enhance empathic abilities, reawaken memories, or give us a better sense of self-understanding. Even for fantasy readers, a story can feel very close to their own lives while still giving them something fun and imaginative to indulge in. </p>
+
+<p dir="ltr">That being said, giving in to the escapism provided by fantasy novels doesn’t necessarily mean that you are actively avoiding your real life. What matters in fantasy reading is how the activity serves you. People want to enjoy a stopover in a fantasy world and then return feeling refreshed, and often that can come with a new perspective on life. This is different from an approach of wanting to stay perpetually distracted so that one never has to face the reality of their current situation. </p>
+
+<p dir="ltr">Readers may want to stop and think about what they get out of their fantasy reading and whether they may find themselves indulging in it more as daily tasks and responsibilities fall by the wayside. When readers take the time to be thoughtful about how reading fits into their lives, escapism can be more about pleasure than detrimental avoidance.</p>
+
+<p dir="ltr">Still, sometimes a book is just a book: a fun escape from the day-to-day doldrums so many of us face. Fantasy novels are there to entertain, and not every enjoyable activity needs to include a pathway to self-improvement. Sometimes, people just need to admit they like spending some time reading about the adventures of fairy warriors, dragon slayers, and trolls.</p>
 
 
 
   
 
 
-<p>By adopting the <em>not-knowing stance</em>, you allow someone to remain the authority on their own experience.</p>
-<h2>You Don't Need to Have Experienced What Someone Has Experienced to Understand What They're Telling You</h2>
-<p>For example:</p>
-<ul>
-<li>You don't need to have experienced bereavement<strong> </strong>to understand someone describing how much they miss a loved one.</li>
-<li>You don't need to have experienced discrimination to understand someone explaining why they found an interaction humiliating.</li>
-<li>You don't need to have experienced a mental illness to understand someone describing how it affects their everyday life.</li>
-</ul>
-
-<p>You can:</p>
-<ul>
-<li>listen to someone's account, </li>
-<li>recognise the emotions they're expressing, </li>
-<li>appreciate the meaning they attribute to their experience, and </li>
-<li>acknowledge why it matters to them.</li>
-</ul>
-<h2>How to Make Someone Feel Understood</h2>
-<p>The next time someone shares a meaningful experience, rather than immediately reassuring them that their feelings are understood, demonstrate that what they're communicating has been understood.</p>
-
-<p>For example, imagine someone says:</p>
-<blockquote><p>I'm so tired of people telling me what I should do. Nobody seems interested in actually listening to me.</p>
-</blockquote>
-<p>Instead of responding with, "I understand how you feel", try:</p>
-<blockquote><p>I understand what you mean. It sounds like people keep offering you solutions when what you really want is for someone to hear your perspective.</p>
-</blockquote>
-
-<p>Instead of <em>claiming</em> their experience, you’re <em>recognising</em> it.</p>
-<p>Other useful expressions include:</p>
-<ul>
-<li>"I see what you're saying."</li>
-<li>"I think I understand what you mean."</li>
-<li>"From what you're telling me, it sounds like..."</li>
-<li>"That helps explain why this has been so important to you."</li>
-<li>"Have I understood that correctly?"</li>
-</ul>
-
-<h2>The Paradox of Making People Feel Understood</h2>
-<p>You might think that the more confidently you communicate your understanding, the more understood another person will feel. But often, the opposite is true.</p>
-<p>The more certain you become that you understand another person’s experience, the less curious you may become about what that experience actually means to them.</p>
-
-<p>The key is to balance <em>humility about what you cannot know </em>with <em>confidence in what you can understand</em>.</p>
-<p>So the next time someone shares something meaningful, remember that you don’t need to have lived their experience to understand what they’re trying to tell you.</p>
-<p>Making someone feel understood requires less <em>certainty</em> about what they feel and more <em>curiosity</em> about what they’re trying to communicate.</p>
+<p dir="ltr">The useful question when we look at fantasy novel escapism is what that time away from the real world makes possible for us when we return. But in the meantime, we all may need to embrace the idea that sometimes the laundry can wait—at least for one more chapter.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/your-recipe-for-a-healthy-mind/202610/why-i-understand-can-make-someone-feel-misunderstood" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/mind-matters/202610/reality-becoming-too-much-for-you-crack-open-a-fantasy-book" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/your-recipe-for-a-healthy-mind/202610/why-i-understand-can-make-someone-feel-misunderstood</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/your-recipe-for-a-healthy-mind/202610/why-i-understand-can-make-someone-feel-misunderstood</guid>
-            <dc:creator><![CDATA[Manu Sidhu MBBS]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/mind-matters/202610/reality-becoming-too-much-for-you-crack-open-a-fantasy-book</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mind-matters/202610/reality-becoming-too-much-for-you-crack-open-a-fantasy-book</guid>
+            <dc:creator><![CDATA[Michele Leno Ph.D.]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/unknown-11.png.jpg?h=31567bd9&amp;itok=NypRfcze" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/pexels-cottonbro-4866043.jpeg.jpg?h=c5b0e826&amp;itok=CcxTTiZ3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Tips to Teach Your Child Emotional Intelligence]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/jonice_webb.png.jpg?itok=Ks8xqhUh" alt="Jonice Webb Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Three Tips to Teach Your Child Emotional Intelligence</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Emotional intelligence is learned at home, long before anyone teaches it.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Emotional intelligence is largely learned at home from parents who notice and respond to feelings.</li><li style="margin-bottom:6px;">You cannot teach your child a skill no one ever taught you, which is how low emotional intelligence repeats.</li><li style="margin-bottom:6px;">Paying attention, feeling with your child, and responding to feelings are three things you can start now.</li><li style="margin-bottom:6px;">This is not about being a perfect parent. The effort itself is what your child receives.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/adobestock_547519508.jpeg.jpg?itok=yxgrN-Ge" width="320" height="213" data-insert-type="image" title="Mediaphotos / AdobeStock" alt="Mediaphotos / AdobeStock"></div>
+<div class="insertArea--origin subtext">Source: Mediaphotos / AdobeStock</div>
+</div>
+</div>
+</div>
+<p dir="ltr"><em>Nora’s daughter came home from school feeling sad. A friend had not saved her a seat at lunch, and it all came out at the kitchen table.</em></p>
+<p dir="ltr"><em>“That’s not worth getting upset about,” Nora told her. “You’ll sit together tomorrow.”</em></p>
+<p dir="ltr"><em>Her daughter stopped talking about it and took her homework upstairs. Nora went on with her day, relieved that her daughter’s tears had passed.</em></p>
+
+<p dir="ltr">Nothing in that exchange looks harmful, and that’s what makes it so invisible.</p>
+<p dir="ltr">Do you ever respond to your child as Nora did? </p>
+<p dir="ltr">If so, you are in very good company. As a psychologist who has specialized in childhood emotional neglect for years, I have watched this way of managing a child’s feelings pass quietly from one generation to the next.</p>
+
+<p dir="ltr">Emotional intelligence (EI) is your ability to manage and understand emotions and relationships, your own as well as others’. I have observed that it is more vital to life success and satisfaction than general intelligence. This makes EI a very important skill for parents to teach their children.</p>
+<p dir="ltr">The good news: children automatically learn EI when they are raised by parents who have it themselves. Parents with EI are able to understand what their child is feeling and why. Their emotionally attuned responses to the child model and teach them how to read, understand, and respond to their own and others’ feelings in a healthy way (Zinsser et al., 2021).</p>
+
+<p dir="ltr">The bad news: a parent who struggles with EI themselves may lack the skills necessary to be able to teach them to their child. In other words, you can’t teach your child what you don’t know. This is how low EI automatically trickles down through generations of families.</p>
+<h2 dir="ltr">Childhood Emotional Neglect</h2>
+<p dir="ltr">One way to be sure you don’t teach your child about emotion is to simply ignore their emotions while you are raising them, like the example of Nora above. That is childhood emotional neglect. It’s not about what you do to your child. It’s about what you do not do for them.</p>
+
+<p dir="ltr">If, often enough, you seem not to notice that your child is upset, sad, angry, hurt, or anxious, you are subtly telling them that their sadness, anger, pain, or anxiety don’t matter. You are teaching them to ignore their own feelings.</p>
+<p dir="ltr">Emotionally neglected children grow up to experience a variety of challenges, only one of which is low emotional intelligence. As adults, these children also struggle with excessive guilt and self-blame, feelings of emptiness, and a general lack of joy in life.</p>
+
+<p dir="ltr">If you see yourself in that, please know it’s not your fault. When feelings go unnoticed in a home, no one growing up there learns how emotions work, and that may simply be what happened to you.</p>
+<p dir="ltr">No loving parent wants to set their child up for that scenario. But parenting is probably the most complicated job in the world. In fact, it is built into the natural process of parenting that even the most loving parents will pass their own strengths and weaknesses on to their children. Often, the only way to stop that cycle is to consciously make the effort to override it.</p>
+
+<h2 dir="ltr">Three Things to Start Doing</h2>
+<p><strong>1. Pay attention.</strong> Work hard to see your child’s true nature. What does your child like, dislike, get angry about, feel afraid of, or struggle with? Feed these observations back to your child in a non-judgmental way so that your child can see themselves through your eyes and feel how well you know them.</p>
+
+<p dir="ltr"><em>Life advantage: </em>Your child will see themselves reflected in your eyes, and they will know who they are. They will realize that, no matter their strengths and weaknesses, they are lovable, and they are enough. This will give them confidence in their life choices and will make them resilient to life’s challenges.</p>
+
+<p><strong>2. Feel an emotional connection to your child. </strong>Strive to feel what your child is feeling (empathy), whether you agree with it or not. When you feel your child’s emotion, they will feel an instant bond with you.</p>
+<p dir="ltr"><em>Life advantage: </em>Your child will learn empathy and will have healthier relationships throughout their life.</p>
+
+
+
+  
+
+
+<p><strong>3. Respond competently to your child’s emotional needs.</strong> Do not judge your child’s feelings as right or wrong. Look beyond the feeling to the source. Help your child name their emotion. Help them manage the emotion.</p>
+<p dir="ltr"><em>Life advantage: </em>Your child will have a healthy relationship with their own emotions. They will naturally know that their feelings are important and how to put them into words and manage them.</p>
+
+<p dir="ltr">If those three tips describe something you did not receive yourself, do not despair. You can learn all this now, at the same time your child does. Start by noticing your own feelings and putting words to them. The more you do that for yourself, the more naturally you will do it for your child.</p>
+<h2 dir="ltr">It Is Not About Perfection</h2>
+
+<p dir="ltr">No parent can follow these tips perfectly, of course. This is not about perfection; it’s about making the effort. Effort in itself shows love and care. When your child sees you trying to understand their feelings or feel their feelings, whether you succeed or not, they receive a powerful message: <em>Your feelings matter to me.</em></p>
+
+<p dir="ltr">And what your child will hear: <em>You matter.</em> They will internalize this valuable knowledge that will empower them for all of their life.</p>
+<p dir="ltr">A version of this post also appears on<a href="http://emotionalneglect.com/"> </a>emotionalneglect.com.</p>
+<p dir="ltr"><em>© Jonice Webb, Ph.D.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/childhood-emotional-neglect/202610/three-tips-to-teach-your-child-emotional-intelligence" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/childhood-emotional-neglect/202610/three-tips-to-teach-your-child-emotional-intelligence</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/childhood-emotional-neglect/202610/three-tips-to-teach-your-child-emotional-intelligence</guid>
+            <dc:creator><![CDATA[Jonice Webb Ph.D.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/adobestock_547519508.jpeg.jpg?itok=JI249vqB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OCD in Men: The Disturbing Thoughts They're Afraid to Share]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-06/loren_soeiro.png.jpg?itok=4xoKINjE" alt="Loren Soeiro, Ph.D. ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">OCD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">OCD in Men: The Disturbing Thoughts They're Afraid to Share</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Men with OCD often have very alarming symptoms, making diagnosis difficult.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Men with OCD more often experience intrusive thoughts about harm, sex, or religion.</li><li style="margin-bottom:6px;">Shame and fear of judgment can keep men from disclosing their obsessive thoughts.</li><li style="margin-bottom:6px;">When doctors misunderstand these symptoms, misdiagnosis can lead to years without treatment.</li><li style="margin-bottom:6px;">Exposure and response prevention (ERP) is just as effective for men as it is for women.</li>
+            </ul>
+          </div>
+                    <p>When someone mentions OCD, what’s the first image to pop into your mind? Washing your hands too many times, perhaps, or repeatedly checking the oven before you go to bed? These common notions aren’t inaccurate, but unfortunately they show only one side of what’s actually quite a multifarious disorder: they’re the symptoms that occur most commonly in women. By contrast, men experience OCD in very different ways: their obsessive thoughts and repetitive behaviors don’t focus as often on themes of contamination, but instead on violence, sex, or religious blasphemy (to name a few). And this gender discrepancy creates other problems, too, making the experience of OCD a unique challenge for many men. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-10/reflective_therapy_session.png.jpg?itok=6nIV6jMF" width="320" height="213" data-insert-type="image" title="Image generated by ChatGPT" alt="Image generated by ChatGPT"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Image generated by ChatGPT</div>
+</div>
+</div>
+</div>
+<p>Broadly, the diagnosis of OCD shows huge differences according to sex: men are much more often misdiagnosed than women. Last year’s analysis by the International OCD Foundation (Deusser, 2025) found that nearly twice as many women as men had received an OCD diagnosis. The study went on to conclude that the inconsistency couldn’t be explained by the disorder itself, which doesn’t discriminate by sex. Neither was it due to any failure to seek help by OCD sufferers (as a study by Wongbusarakum et al. found in 2025). Instead, the gender difference in OCD incidence appears to be caused by a bias in the way men and women are diagnosed. To put it plainly, the OCD symptom constellations occurring most often in men are harder for their doctors to recognize, so the diagnosis is often not applied. Men with OCD then end up living with the disorder for a long time before it’s recognized: according to the IOCDF, delays between the onset of men’s symptoms and the establishment of a diagnosis often last as long as seven years, and can even go as high as seventeen — meaning that a large number of men end up struggling alone with their symptoms for over a decade. </p>
+
+<p>As I noted above, OCD more often presents differently in men. According to a 2019 study in <em>Current Psychiatry Reports, </em>while women more frequently experience obsessions related to contamination, men tend to obsess over the possibility of doing harm to others, transgressing sexual boundaries, or behaving in ways that their religions would condemn. The symptoms reported by men with OCD generally focus more narrowly, as well, while women present for evaluation with more wide-ranging obsessions and compulsions (Mathes et al., 2019). This means that men are more likely than women to be deeply tormented by their intrusive thoughts <em>without</em> showing obvious compulsive behaviors. For example, they may worry constantly about causing harm to people they care about, but then compulsively perform internal, thought-based rituals — that are very difficult for others to notice — to defuse that anxiety. And also, if the men coping with thoughts and fears like these do not understand that they are experiencing the symptoms of a well-understood disorder, they may instead begin to believe they are bad or immoral people. These fears, too, may cause delays in the search for appropriate treatment, or the assignment of a correct diagnosis. </p>
+
+<p>The powerful and repeated unacceptable thoughts I have mentioned can comprise the least obvious, most stigmatized form of OCD. Unacceptable-thought OCD (sometimes called UT-OCD) is far more likely than contamination-based OCD to be wrongly identified; Coles et al. (2023) reported that these recurring thoughts were wrongly diagnosed (as something other than OCD) at a rate of 59.9% — in contrast to contamination OCD, which was only misidentified 27.1% of the time. Moreover, because intrusive thoughts about causing harm or acting out sexually are also the most highly stigmatized by others, misdiagnoses such as paraphilia or psychosis can themselves cause significant, additional psychological distress. Obsessions over one’s sexual orientation, which can be powerfully unsettling, also occur in men more often than in women (Williams &amp; Farris, 2011). These intrusive thoughts, too, can be deeply shameful, which places further obstacles in the path of seeking help. </p>
+
+<p>Another layer of complexity, over and above the challenge of disclosing these thoughts and feelings, also works to silence men with OCD: our society’s cultural norms for masculinity. Men are traditionally expected to be strong in generic ways — self-reliant and stoic — which means that asking for help, or even admitting to themselves that something might be wrong, can seem “unmanly.” One of the biggest barriers to treatment, according to a 2024 article in the British Journal of Clinical Psychology, is the shame generated by this perceived lack of masculinity. Worse, the disorder of OCD is exacerbated by the secrecy and avoidance caused by shame; men feeling this way, the thinking goes, are less likely to confront their own intrusive thoughts. Some of them will fear being rejected by their friends and families if their intrusive thoughts were to become public, and the only apparent solution may be to hide these thoughts away — making it impossible to disconfirm them. Similarly, if men cannot tell their doctors the truth about their thoughts, they won’t get appropriate treatment. What results from this interaction between shame and avoidance is a doubling-down of the disorder: if untreated, OCD’s intrusive thoughts and compensatory behaviors get worse, which creates more shame, which in turn redoubles the avoidance. </p>
+
+<p>Of course, the picture isn’t completely hopeless; the good news is that OCD treatment outcomes show no significant differences according to gender (Mathes et al., 2019). Therapy for OCD, which usually involves a controlled exposure to anxiety-producing stimuli coupled with the prevention of the patient’s avoidant or anxiety-neutralizing behaviors, works just as well for men as it does for women. Exposure and response prevention (or ERP, as it is known), means gaining through experience the knowledge that one’s thoughts do not perfectly represent one’s intentions, and that the distress one may feel when experiencing intrusive violent or sexual images actually means one is <em>less</em> likely<em> </em>to act out those thoughts. (One of my old supervisors often said he would trust his OCD patients with his life, as they were the people who expressed the most concern over protecting others.) People who suffer from OCD, no matter their gender, stand to benefit a great deal — and to overcome a lot of suffering — if they can find a way to seek treatment despite their fears and feelings of shame. </p>
+
+<p>Men with unacceptable-thought OCD may believe they are awful human beings; they may hide their symptoms from the people in their life; they may suffer in silence for years. But if mental health clinicians can learn to better recognize the atypical presentation of UT-OCD, the gap in diagnosis may begin to change — and just the same, if men can learn to challenge conventions about traditionally masculine stoicism and cut down on the shame that increases the intensity and harm of OCD, this obstacle to treatment can also be minimized. If you recognize yourself in these descriptions of unacceptable-thought OCD, no matter how distressing it has been to you, I earnestly encourage you to find a way to talk to someone you trust. </p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/i-hear-you/202610/ocd-in-men-the-disturbing-thoughts-theyre-afraid-to-share" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/i-hear-you/202610/ocd-in-men-the-disturbing-thoughts-theyre-afraid-to-share</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/i-hear-you/202610/ocd-in-men-the-disturbing-thoughts-theyre-afraid-to-share</guid>
+            <dc:creator><![CDATA[Loren Soeiro, Ph.D. ABPP]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/thoughtful_moment_by_the_window.png.jpg?h=c1ccc5bf&amp;itok=ZeyOIRhb" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Is the Best Time to Start Your Child's ADHD Meds?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/gary-wenk_0.jpg?itok=bPUwQTn9" alt="Gary Wenk Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">ADHD</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Is the Best Time to Start Your Child's ADHD Meds?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The age when a child starts on ADHD medication affects brain chemistry.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Medication-naïve children with ADHD have lower brain iron content, as compared to peers.</li><li style="margin-bottom:6px;">Starting psychostimulant treatment earlier, rather than later, was associated with more brain iron.</li><li style="margin-bottom:6px;">The elevated brain iron levels were associated with increased dopamine function and reduced symptoms.</li>
+            </ul>
+          </div>
+                    <p>This is a story about iron: What does it do in the brain, and why should someone with attention-deficit/hyperactivity disorder (ADHD) care? </p>
+<p>ADHD is a common neurodevelopmental disorder in school-age children and adolescents. The disorder is characterized by inattention, impulsivity, and hyperactivity. It can cause individuals to have significant challenges with everyday tasks and social interactions. </p>
+
+<p>In my opinion, as a neuroscientist who specializes in brain chemistry, the underlying cause of such a complex psychiatric condition should never be distilled into the dysfunction of a single neurotransmitter system. For example, neuroscientists now realize that psychosis is not a problem with the health of dopamine neurons and that depression has very little to do with serotonin neuronal activity. (To learn more, <a href="https://global.oup.com/academic/product/your-brain-on-food-9780190932794?facet_narrowbytype_facet=General%20Interest&amp;type=listing&amp;facet_narrowbybinding_facet=Hardcover&amp;lang=en&amp;cc=us">click here.</a>) Gross oversimplifications of the underlying mechanisms of these disorders have greatly slowed the discovery of effective therapies for them. </p>
+
+<p>With these cautions in mind, let’s examine the role of iron in the function of dopamine neurons in the brains of children with ADHD. </p>
+<p>Reduced activity of the brain’s dopamine neurons is thought to play a significant role in the pathophysiology of ADHD. This is why psychostimulants that increase the activity of dopamine neurons, and the subsequent release of dopamine within a small number of brain regions, have become the primary treatment for ADHD symptoms. The existing logic supporting this conclusion is that if increasing dopamine release reduces symptoms, then the symptoms of ADHD are due to too little release of dopamine somewhere in the brain. </p>
+
+<h2>Are ADHD meds that increase the release of dopamine from dopamine neuronal terminals effective?</h2>
+<p>Yes, ADHD medications are effective, usually within the first hour after taking the drugs, in reducing core symptoms like inattention, hyperactivity, and impulsivity, improving focus, behavior, and daily functioning (Parlatini et al., 2024).</p>
+
+<h2>How does iron play a role?</h2>
+<p>Brain iron found inside dopamine neurons controls the enzyme that leads to the synthesis of dopamine. It’s considered the rate-limiting step. People with iron‑deficiency anemia who do not absorb enough iron from their diet do not produce adequate amounts of dopamine. If the deficiency is severe, anemics may experience reduced motivation, poor concentration, and mood changes typical of someone with reduced dopamine production. As expected, in the brain, iron levels are high in regions that contain lots of dopamine neurons. New magnetic resonance imaging (MRI) techniques can provide estimates of brain iron levels. Under normal circumstances, the iron content of dopamine-rich brain regions rapidly increases throughout childhood and adolescence and is associated with the maturation of dopamine neurons. </p>
+
+<p>Medication-naïve children with ADHD have lower brain iron content. MRI studies show that ADHD children given psychostimulants have higher brain iron content than medication-naïve children with ADHD. Furthermore, their brain iron content was similar to that of neurotypical children without ADHD. In addition, longer duration of psychostimulant treatment was associated with higher levels of iron. The elevated levels of iron have a functional consequence. Recent neuroimaging studies have shown that long-term treatment with standard psychostimulants directly increases dopamine function in the brain of children with ADHD (Kaminski et al., 2024).</p>
+
+<h2>When should children start taking these meds?</h2>
+<p>A recent study investigated the effect of age at treatment onset on increases in brain iron content and its impact on the function of dopamine neurons in patients with ADHD. There were two interesting discoveries: The <em>duration</em> of the treatment did not significantly affect brain iron level but the <em>age of onset</em> of therapy had a major impact on outcome. Children with ADHD who started psychostimulant therapy at 8, or earlier, showed significantly higher iron content in brain regions that have the highest levels of dopamine function, as compared to children with ADHD who started psychostimulant treatment at the age of 9 or later.</p>
+
+
+<h2>Summary</h2>
+<p>Medication-naïve children with ADHD have lower brain iron content, as compared to normal aged children. ADHD children medicated with standard psychostimulant therapy displayed the same level of brain iron as peers without ADHD. Starting psychostimulant treatment earlier, rather than later, was associated with more brain iron and, according to MRI studies, increased dopamine function. <em>Important caveat:</em> Psychostimulants are not considered a cure for ADHD; it is unknown whether iron levels would decline if the patients discontinued drug therapy. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/your-brain-on-food/202610/when-is-the-best-time-to-start-your-childs-adhd-meds" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/your-brain-on-food/202610/when-is-the-best-time-to-start-your-childs-adhd-meds</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/your-brain-on-food/202610/when-is-the-best-time-to-start-your-childs-adhd-meds</guid>
+            <dc:creator><![CDATA[Gary Wenk Ph.D.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/mindworld-child-8851378.jpg?itok=3-ji8jOB" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[More Than a Game: The Therapeutic Benefits of Golf]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-01/carly_hunt_1.png.jpg?itok=bdRji1Fo" alt="Carly Hunt Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sport and Competition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">More Than a Game: The Therapeutic Benefits of Golf</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Golf participation is surging, and providing stress relief.</h2><p style="font-size:0.9em;color:#666;">Posted October 30, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Women, people of color, and young people are taking up golf in record numbers.</li><li style="margin-bottom:6px;">Golf can promote belonging, stress relief, and mental well-being.</li><li style="margin-bottom:6px;">Empirical data link golf with confidence, self-worth, and emotion regulation.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Golf is having a cultural moment. Golf used to be a male-only sport associated with exclusive environments, wealth, and serious rules. But the tide is changing. These days, golf is increasingly tied to wellness, diversity, fashion, and fun. Several industry surveys report that young people are taking up golf for stress relief, mental health, social connection, and a chance to unplug outdoors. </p>
+
+<p dir="ltr">Since 2019, women, young people, and people of color have led the growth in golf participation, with each group reaching record or near-record levels. Participation has increased among men as well.</p>
+<h2>Golf and Well-Being </h2>
+<p dir="ltr">In a screen-dominated world, golf offers ongoing opportunities to do real things with real people, experience novelty and travel, and be physically active in the outdoors. Golf offers a fun and engaging opportunity to build resilience and personal growth. As an individual, precision sport, it’s you inside your own head. From a mental-game perspective, success rests on the ability to regulate your emotions, stay present in the moment, and be your own best coach – skills that serve us well in golf, life, and at work. </p>
+
+<p dir="ltr">As summarized in Murray and colleagues (2017), empirical data have linked playing golf with enhanced social belonging, intergenerational interaction, confidence, self-worth, interpersonal skills, emotion regulation, and enjoyment. </p>
+<p dir="ltr">The positive impact of physical activity on mental-health is well known. Research suggests that if you walk 18 holes, you’ll take between 11,000 and 16,600 steps, and if you take a cart, you’ll get about 6,200. Golf may also help support proprioception, balance, and muscle endurance in older adults (see Murray and colleagues, 2017). </p>
+
+<h2>A Sport Psychologist’s Perspective </h2>
+<p dir="ltr">As a Division 1 golfer turned sport psychologist, I think that the skills built in golf easily translate to life, work, and leadership. You need to change the unhelpful thoughts that pop into your head and tolerate frustration after mistakes. You can’t run it off or rely on a teammate. You practice being present in the moment over each shot. Being your own best coach – as opposed to your own worst critic – helps unlock better scores. You have to get off your phone and get outside for at least an hour and interact with real people — things that many of us crave in a screen-dominated world. In the workplace, golf is still often used for networking, so having some basic golf skills might unlock career opportunities. </p>
+
+<h2>Getting Started </h2>
+<p>Inclusive golf communities are popping up online and in-person, making it easier to find a place to belong in the game. Leagues, teams, regular playing partners, clubs, and off-course golf entertainment venues like simulators provide a place to connect. <a href="https://www.foretheladies.com/">Foretheladies</a>, <a href="https://www.nbnbgolfclub.com/">No Bunkers No Bogeys</a>, and <a href="https://youthoncourse.org/join?utm_source=Google&amp;utm_medium=PMAX&amp;utm_campaign=UnitedStates&amp;utm_term=&amp;utm_campaign=AM+New+Registiation+2026+PMAX+-++USA+-+Markets&amp;utm_source=adwords&amp;utm_medium=ppc&amp;utm_id=24197518956&amp;hsa_acc=5467481699&amp;hsa_cam=24197518956&amp;hsa_grp=&amp;hsa_ad=&amp;hsa_src=x&amp;hsa_tgt=&amp;hsa_kw=&amp;hsa_mt=&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gad_campaignid=24203341595&amp;gbraid=0AAAAAphPq1FOltn9MSYe1NZSFmL0RKTKp&amp;gclid=CjwKCAjwgJHXBhBGEiwAHohJq5dPrA6U9H0MIRRix5sYeSkFyIqKaZwLVdvq5sQpoOPCt5SsJhwyWxoCwZMQAvD_BwE">Youth on Course</a> are just a few examples of inclusive golf communities and initiatives. Golf instructors have taken to YouTube and other online platforms, offering low-fee or free instruction. </p>
+
+<p>If you’re exploring ways to boost your mental well-being, golf might be just what you’ve been looking for. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/think-better-play-better/202610/more-than-a-game-the-therapeutic-benefits-of-golf" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/think-better-play-better/202610/more-than-a-game-the-therapeutic-benefits-of-golf</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/think-better-play-better/202610/more-than-a-game-the-therapeutic-benefits-of-golf</guid>
+            <dc:creator><![CDATA[Carly Hunt Ph.D.]]></dc:creator>
+            <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-10/shutterstock_176807318.jpg?itok=a2GmE0H_" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
