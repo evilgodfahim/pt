@@ -4,378 +4,193 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 19:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 23:41:28 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 19:46:03 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 23:41:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[How Does AI Make Us Stupid?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/gary-klein__1_.jpg?itok=NN5TCG25" alt="Gary Klein Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Does AI Make Us Stupid?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Lessons from 2003 are still relevant as we weigh the risks of today's AI.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[How Focus on the Mental Game Led to an Undefeated Season]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/du-1_edit-1-removebg-preview_af.jpg?itok=Vwe13x7v" alt="David Udelf Psy.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Sport and Competition</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Focus on the Mental Game Led to an Undefeated Season</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">An introduction to Miami RedHawks hoops coach Travis Steele's training approach.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Generative AI is achieving incredible outcomes but possibly at the cost of a deterioration of our expertise.</li><li style="margin-bottom:6px;">I cataloged some of these degradations in 2003 with regard to the use of information technology.</li><li style="margin-bottom:6px;">Current AI may make us worse at recognizing patterns, searching for data, and improving our mental models.</li><li style="margin-bottom:6px;">The challenge is to understand the basis of expertise in order to safeguard and enhance it.</li>
-            </ul>
-          </div>
-                    <p>Current versions of artificial intelligence have created so much well-deserved excitement. However, along with all that progress has come a wave of apprehension about the destructive potential of using AI. Fears that AI could be harming us. Fears that it might be making us stupid.</p>
-<p>I wrote about this possibility in 2019, in a post I titled <a href="https://www.psychologytoday.com/us/blog/seeing-what-others-dont/201912/the-second-singularity">"The Second Singularity," </a>and I am not happy to see my predictions coming true. </p>
-
-<p>However, this post asks a different question. Now I am looking back to 2003 and the original publication of my book <em>The Power of Intuition</em>. This was before large language models (LLMs) such as ChatGPT and Claude and the generative AI technologies. My book examined different facets of intuition/expertise. Chapter 16 was titled “Smart Technology Can Make Us Stupid.” The smart technology I was writing about was simply the 2003-style information technology, not current LLMs, but the mechanisms I identified seem quite relevant today.</p>
-
-<p>In that chapter, I wrote, “Information technologies are intended to make us more productive, but their use carries a penalty. The computer programs, the decision support systems, the search engines, databases, and shareware we use can diminish our intuition and expertise. They can make us stupid.” I worried that the 2003-era technologies could disable our expertise, or at least slow down our acquisition of expertise, or, more ominously, teach dysfunctional skills that interfered with expertise.</p>
-
-<p>But how would that work? In 2003, I identified several possibilities.</p>
-<p><strong>Recognizing patterns.</strong> That’s something we are good at—spotting patterns in data, seeing trends, seeing anomalies, spotting nonevents. But information technology “helps” us by doing the analyses for us, since the high data flows make it impossible for us to examine all or even most of the data. So we are removed from direct access to the data and removed from our ability to spot patterns. </p>
-
-<p>For example, in one project we conducted on weather forecasters, a technologist at a weather forecasting conference explained how his system helpfully smoothed the data in order to highlight trends. Most of the audience appreciated this assistance, but the experienced forecasters in the room winced—they wanted to see the noise because that was where turbulence was going to affect the weather picture. The smoothing was removing a critical cue.</p>
-
-<p><strong>Searching for data.</strong> That’s another important human ability—to adaptively search through data. However, information technologies often organize the search space in advance and define the basic level of detail. But in complex settings there is no basic level of detail, and the appropriate level of detail depends on what you are searching for and what you are finding. The relevant data depend on how you are interpreting the situation, a phenomenon called the relevance realization process (Vervaeke et al., 2012)—skimming through the large amounts of data to identify what matters. Information technologies can reduce their users to passive recipients of data rather than active sensemakers.</p>
-
-<p><strong>Mental models.</strong> As we gain expertise, we are acquiring richer mental models about the phenomena we are interacting with. But information technology can weaken our mental models by keeping us tethered to the original categories we started our searches and analyses with. Decision-makers may have to set up categories in advance, and subsequent events may tie them into these categories rather than allowing and supporting the evolution of categories based on new experiences.</p>
-
-<p><strong>The story behind the data.</strong> As we gain expertise, we learn more about how the data were collected, and we become sensitive to limitations in the data collection process. However, information technology often makes it difficult to trace the story of the data and to appreciate how the data were collected and synthesized—the pedigree of the data. Borders et al. (2024) presented a mental model matrix that highlighted the importance of understanding the limitations and boundary conditions of a system in order to work effectively with it. However, if we don’t know the pedigree of the data, we will struggle to identify boundary conditions.</p>
-
-<p><strong>Adaptability.</strong> This is a critical function of expertise—being able to pivot based on discoveries about what is really going on in a situation. Unfortunately, many information technologies can go off the rails if we don’t follow the prescribed procedures for interacting with them or if we don’t follow the steps that have been laid out. As a result, it can become more difficult for us to improvise when new and unexpected conditions arise. When we stray from the prescribed path, we are likely to be bombarded with error messages, discouraging us from adapting.</p>
-
-
-
-  
-
-
-<p><strong>Active stance.</strong> With expertise comes an active stance of taking charge and making things happen. Yet information technologies can shift us into a passive stance, unthinkingly accepting the recommendations of the system. Here the link to LLMs is particularly strong, as users relying on LLMs contentedly accept their products, often without doing any kind of due diligence. </p>
-
-<h2>Conclusion</h2>
-<p>These are the attributes of expertise that information technologies seemed to jeopardize, in my 2003 analysis. Fast-forward two decades. Most of these attributes also seem threatened today by the spread of generative AI. I leave it to readers to gauge how closely the generative AI dysfunctions map onto the earlier information technology problems. At the very least, I hope this post will be helpful in unpacking what may be contributing to today’s generative AI dysfunctions. The challenge is to better understand the basis of expertise in order to find ways to safeguard and enhance it.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202611/how-does-ai-make-us-stupid" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202611/how-does-ai-make-us-stupid</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202611/how-does-ai-make-us-stupid</guid>
-            <dc:creator><![CDATA[Gary Klein Ph.D.]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-cottonbro-5473954.jpg?itok=Y2rocO3a" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Increase Psychological Safety Amid Chronic Illness]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/katie_willard_virant.png.jpg?itok=TjSml4ti" alt="Katie Willard Virant MSW, JD, LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Chronic Illness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Increase Psychological Safety Amid Chronic Illness</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Befriend the body to help build a sense of psychological safety.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Psychological safety is "read" through body sensations.</li><li style="margin-bottom:6px;">Living with chronic illness can impede a positive relationship with the body.</li><li style="margin-bottom:6px;">Consciously working to deepen one's relationship with the body can improve psychological safety.</li>
+              <li style="margin-bottom:6px;">An emphasis on the mental approach can lead to success of the athletic field.</li><li style="margin-bottom:6px;">Miami University Head Basketball Coach Travis Steele trains a mental approach based on the Miami Mindset.</li><li style="margin-bottom:6px;">Steele emphasizes making core values actionable, not just motivational slogans.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/a663d557-b344-49f9-bec1-ef6b05739fc3.jpg?itok=F7T9Otew" width="320" height="320" data-insert-type="image" title="Katie Willard-Virant" alt="Katie Willard-Virant"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Katie Willard-Virant</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/luke_skaljac___coach_steele.jpg?itok=ZtYnu7if" width="320" height="213" data-insert-type="image" alt="Miami RedHawks Head Basketball Coach Travis Steele passing wisdom on to junior Luke Skaljac." title="Miami University Athletic Department"></div>
+<div class="caption">Miami RedHawks Head Basketball Coach Travis Steele passing wisdom on to junior Luke Skaljac.</div>
+<div class="insertArea--origin subtext">Source: Miami University Athletic Department</div>
 </div>
 </div>
 </div>
-<p>How safe do you feel in this moment? Pause what you are doing, close your eyes, take a couple of deep breaths, and tune in to your body. Start at your feet and work up, scanning your body with your mind’s eye. Are there places where your muscles feel tense? Is your breathing shallow? Is it hard to tune in to your body because your mind will not settle? Don’t try to change anything right now. Just notice the sensations you are having in this moment.</p>
+<p><em>This is Part 1 of a two-part series.</em></p>
+<p>31-0: That was the headline-grabbing regular season record of the 2025-26 Miami RedHawks NCAA Division I basketball team. We’re talking about the first Miami University, located in Oxford, Ohio, and founded in 1809. <em>Not </em>Miami of Florida, a college launched in 1925 </p>
 
-<p>Psychological safety is defined as “a person’s capacity to experience the self, the body, and the interpersonal environment as sufficiently safe to sustain openness, affect regulation, and adaptive engagement" (Poli &amp; Miccoli, 2026). The body “is one of the main channels through which safety, threat, and dysregulation are experienced" (Poli &amp; Miccoli, 2026).</p>
+<p>A large chunk of credit for the RedHawks’ remarkable run belongs to Head Coach Travis Steele and how he optimizes performance with the mental approach he trains. Steele was the much-deserved recipient of the 2026 John McLendon National Coach-of-the-Year Award, honoring the top head coach across all levels of collegiate basketball.</p>
 
-<p>Safety is a continuum. We feel safe (and unsafe) by degrees. Typically, we have conscious awareness of when we are at either end of this continuum. We know when we feel safe, for example, when our muscles are relaxed, and our thoughts are pleasant. At those moments, we enjoy the positive sensations in our body that let us know, “I am happy. I am safe.” Conversely, we know when we feel very unsafe. Our heart rate goes up; we may feel nauseated or light-headed; breathing may feel labored. We interpret these sensations as a lack of safety.</p>
+<p>“I find this stuff (the mental game) fascinating," Steele shared in a recent interview conducted for this post. “If you can get guys to play at their peak level, man, you’re going to be really good. I’ve seen talented guys that don’t believe in themselves, and they stink. I’ve seen average players that have a high level of belief in themselves, and they’re really good.”</p>
 
-<p>The middle of the safety continuum is where we spend the vast majority of our time. Without the extremes of body sensations that occur at either end of the continuum, we often tune out the body, putting it outside of our consciousness. Paying attention to body sensations in the middle of the safety continuum can lead to a deeper relationship with the body and greater psychological safety.</p>
+<p>The difference stems from their mental approach to practice, performance, and competition.</p>
+<p>“We [coaches] all talk about the X’s and O’s, and I could talk basketball all day long,” Steele continued. “But then you go back to the ‘why?’ piece. ‘Why can this guy have the belief, and the other guy doesn’t?’ Maybe they don’t embrace the process. Maybe they don’t handle adversity. And then how can we help them in an area, like the mental toughness piece, to overcome adversity? </p>
 
-<h2>Chronic Illness and Psychological Safety</h2>
-<p>Many people living with illness describe their relationship with their body as challenging. Lack of trust in the body, anger at the body, and alienation from the body are all sequelae of chronic illness (Taylor, Morton, &amp; Cogan, 2026). Questions like “How safe do you feel in this moment?” are complicated by the bodily mistrust that chronic illness perpetuates. Illness “disrupts...the felt sense of psychological safety" (Taylor, Morton, &amp; Cogan, 2026).</p>
+<p>“That, to me, is coaching,” Steele summarized.</p>
+<h2><strong>The Miami Mindset</strong></h2>
+<p>Bo Schembechler, Ara Parseghian, Woody Hayes, Paul Brown, Sean McVay, Weeb Ewbank, Carmen Cozza, John Harbaugh, Walter Alston, John Pont, and Paul Dietzel: Legendary, Hall-of-Fame sports coaches, all with the common denominator of Miami University, regarded in the sports world as the “Cradle of Coaches.”</p>
 
-<h2>Growing Psychological Safety in Chronic Illness</h2>
-<p>In order to grow psychological safety, we must have an intentional relationship with our body. Take a few moments and ascertain what that relationship currently looks like. Write a few sentences responding to each of the following statements. How true or false does each statement feel to you?</p>
-
-<ul>
-<li>I am wary of my body.</li>
-<li>I wish I didn’t have a body.</li>
-<li>I hate my body.</li>
-<li>My body is the site of pleasure as well as pain.</li>
-<li>I can rely on my body sometimes.</li>
-<li>I like my body.</li>
-<li>I love my body.</li>
-</ul>
-<p>Now that you have a sense of your current relationship with your body, write a few sentences about how you would like this relationship to be different. Some ideas might be: “I’d like to feel less hostile toward my body” or “I’d like to appreciate my body for the things it can do, rather than be solely focused on the ways it disappoints me.”</p>
-
-
-<p>If you were seeking to improve a relationship with another person, you’d likely (a) spend intentional time with them, and (b) have open communication with them. Similarly, in improving your relationship with your body, you will want to carve out intentional time together and increase honest communication (both listening and feeling heard).</p>
-
-<p>In order to relate harmoniously with our body, we have to get to know it. In order to know it, we have to spend intentional time with it. What you do during this time is less important than your non-distracted presence. You could take a shower or bath, go for a walk, do a yoga session, or simply sit quietly and follow your breath. You want to be present during your time with your body. Notice without trying to change the sensations that come up.</p>
-
-
-
-  
-
-
-<p>You’re also going to want to communicate with your body during these “being with” sessions. You can speak aloud or in your mind, or journal. Just put words to the sensations you have, being as honest as possible. You might say, “This is really stupid. I feel fidgety and anxious. It’s frustrating to be with you, body.” Perhaps you have a different experience and say, “I feel vulnerable and shy. I’m not used to showing up in my body like this.” It may be that you feel a lessening of tension, such that you say, “Wow, this feels nice to be with my body, undistracted by other concerns.”</p>
-
-<p>Open your mind, too, to the ways your body is communicating with you during these sessions. Be curious. Maybe your body is whispering, “I’m tired. I do the best I can, and I don’t feel very appreciated.” Perhaps your body is screaming, “I hurt! I’m angry and agitated, and I need some relief!” It’s possible that your body is saying, “I feel you tuning in to me, and I have been waiting a long time for your presence.”</p>
-
-<h2>Conclusion</h2>
-<p>Make it a habit to communicate with your body in the ways described above. Your body is constantly changing, and your experiences of tuning in to it will be variable. Stay open and curious; let yourself be surprised.</p>
-<p>Psychological safety depends upon a connection between body and psyche. Working to deepen that connection is an important tool in managing chronic illness.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/chronically-me/202611/how-to-increase-psychological-safety-amid-chronic-illness" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/chronically-me/202611/how-to-increase-psychological-safety-amid-chronic-illness</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/chronically-me/202611/how-to-increase-psychological-safety-amid-chronic-illness</guid>
-            <dc:creator><![CDATA[Katie Willard Virant MSW, JD, LCSW]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/a663d557-b344-49f9-bec1-ef6b05739fc3.jpg?itok=jFj96U8K" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Potential Benefits of Using an Anglo First Name]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/LawrenceTWhite.jpg?itok=vRkPu7gh" alt="Lawrence T. White Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Identity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Potential Benefits of Using an Anglo First Name</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Studies show job applicants fare better when they use an American-sounding name.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Adopting an Anglo name increased perceived similarity to Americans in studies with White participants.</li><li style="margin-bottom:6px;">Students who value assimilation rated Anglo-named speakers more favorably than Chinese-named ones.</li><li style="margin-bottom:6px;">Adopting an Anglo name may lower self-esteem, despite potential social and career benefits.</li>
-            </ul>
-          </div>
-                    <p>Many Psychology Today readers are familiar with the dispiriting findings of studies conducted by social scientists: When they apply for jobs or housing, persons with ethnic minority names (like Lakeisha and Abdullah) are generally treated less well than persons with majority group names (like Daniel and Jennifer).</p>
-
-<p>Will foreigners in the United States and Americans with foreign-sounding names be treated better if they adopt an Anglicized name? Would the immensely successful Nvidia executive Jensen Huang have been less successful in business if he had used his birth name, Jen-Hsun?</p>
-<p>Two University of Kansas researchers, Xian Zhao and Monica Biernat, have conducted three studies that investigate the potential benefits that may accrue to foreigners who choose to use an Anglo name.</p>
-
-<h2>Different Names, Different Outcomes</h2>
-<p>In the first study, 102 Americans—almost all of them White—looked at four photos of Chinese students who were attending college in the United States. Some participants saw photos that were labeled with an Anglo name like Andrew. Others saw photos that showed a Chinese name like Xiang. The participants used a 7-point scale to rate the similarity of each target “to Americans.”</p>
-
-<p>On average, the pictured individuals with Anglo names were rated as more similar to Americans, and the ones with Chinese names were rated as less similar. The difference wasn’t large—about a half-point on the 7-point scale—but it was statistically significant.</p>
-<p>In the second study, more than 400 college professors around the U.S. received an e-mail from “a student from China” who asked to meet and talk about the possibility of assisting with the professor’s research. Some professors received an e-mail in which the student introduced himself as Xian Zhao. Others received an e-mail in which the student introduced himself as “Xian Zhao, but you can call me by my English name Alex.” In every other way, the e-mail requests were identical.</p>
-
-<p>The different names affected the likelihood of getting a response. The “Alex” version received responses from 62 percent of the professors, while the “Xian” version received a response from just 53 percent.</p>
-<p>In the third study, 184 undergraduates—almost all of them White—listened to a four-minute mini-lecture about affective forecasting. The lecturer introduced himself as a student from China who was pursuing a doctorate in social psychology at the university. In one version of the recording, the lecturer said, “Hi everyone. My name is Jian.” In another version, he said, “Hi everyone. My name is John” (an Anglicized version of Jian). In every other way, the recorded lectures were identical.</p>
-
-<p>The participants were told to listen carefully to the lecture and then candidly evaluate the speaker because the department was “screening and selecting Ph.D. students to be instructors.” The participants also indicated the degree to which they support components of multiculturalism (wanting to learn from other cultural groups, for example) and the degree to which they believe that people who come to the United States should change their behavior to be more like Americans.</p>
-
-<p>The participants evaluated the lecturer more favorably when he used an Anglo name and less favorably when he used his original Chinese name, but only among participants who rejected multiculturalism and believed foreigners should assimilate to local norms.</p>
-<p>The opposite pattern was observed among participants who endorsed multiculturalism and did not endorse assimilationism. Those participants actually evaluated the lecturer more favorably when he used his original Chinese name.</p>
-
-<h2>A Double-Edged Sword?</h2>
-<p>The differences observed in these studies were not large, but the bottom line seems clear: Chinese students in the United States—and perhaps other international students—can potentially benefit by choosing to use an Anglo name, especially in more parochial parts of the country.</p>
-<p>This strategy, however, may also have a downside. In an <a href="https://www.psychologytoday.com/us/blog/culture-conscious/202611/the-potential-psychological-cost-of-using-an-anglo-name">earlier post</a>, I reported the results of a 2018 study conducted by the same two Kansas researchers. In that study, Chinese students in the U.S. who adopted an Anglicized name reported slightly lower levels of self-esteem.</p>
-
-<p>It seems that adopting an Anglo name can be a double-edged sword for foreigners. Some employers may evaluate Jian Li slightly lower than John Lee, but Jian may feel somewhat better about himself than John does.</p>
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/culture-conscious/202611/the-potential-benefits-of-using-an-anglo-first-name" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/culture-conscious/202611/the-potential-benefits-of-using-an-anglo-first-name</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/culture-conscious/202611/the-potential-benefits-of-using-an-anglo-first-name</guid>
-            <dc:creator><![CDATA[Lawrence T. White Ph.D.]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/jensen_huang_0.png.jpg?itok=dZs8BGST" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harness Neuroscience to Improve Psychological First Aid]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/george_everly__0.jpg?itok=8OfHL5mA" alt="George S. Everly, Jr. PhD, ABPP, FACLP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Disaster Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Harness Neuroscience to Improve Psychological First Aid</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Brain mapping may help us be more effective helping others in distress.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Psychological first aid (PFA) is becoming an essential tool in community mental health and disaster response.</li><li style="margin-bottom:6px;">Improving the efficiency and effectiveness of PFA may be an important quest.</li><li style="margin-bottom:6px;">Neuroscience may help us refine PFA to externally stimulate brain regions responsible for natural resilience.</li>
-            </ul>
-          </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/johnhain-brain-998996_1920.jpg?itok=U5Ful80u" width="320" height="230" data-insert-type="image" title="johnhain / Pixabay" alt="johnhain / Pixabay"></div>
-<div class="insertArea--origin subtext">Source: johnhain / Pixabay</div>
-</div>
-</div>
-</div>
-<p>Psychological first aid (PFA) may be the first and most effective of psychological crisis interventions. Recommended by the World Health Organization, the United Nations, the American Red Cross, and the American Psychological Association, it is not only being applied in disaster settings but is also being used to expand psychological support in communities in non-disaster situations. While research has demonstrated that PFA can be effective, training in how to apply PFA would seem essential. A recent study by Watanabe and others (Watanabe et al., 2026) on the neuroscience of the resilient brain may improve the efficiency of PFA by identifying the brain regions PFA should target.</p>
-
-<h2>The Resilient Brain</h2>
-<p>Menon's (2011) Triple Network Model proposes that three large-scale brain networks serve as the underlying neural circuits for attention and cognitive appraisal, emotion, and reactive adaptive behavior. Dysregulation of these networks is believed to be the neurological underpinning of low resilience and distress during and in the wake of crisis. Conversely, highly integrated and complementary functioning within these same areas appears to be the neurological underpinning of resilience and adaptive functioning.</p>
-
-<p>The Triple Network consists of the salience network (SN), the default mode network (DMN), and the executive control network (ECN). The SN prioritizes incoming information, assesses importance, detects threats, directs attention, and mobilizes defense mechanisms. It answers the question “What happened and what’s really important in this moment?” The DMN is the neural foundation for self-reflection, retrospection, introspection, and making meaning out of experiences. It is also involved in social connection. The DMN answers the question, “What does this mean to me?” The ECN engages working memory for planning, problem-solving, and goal-directed behavior. This network allows individuals to exert top-down cognitive control over emotion and implement effective coping strategies. The ECN answers the question, “How should I react?” Based on the determination of the DMN, the ECN can then also answer the question, ”Is there another way of interpreting this?” The ECN and DMN collaborate for problem-solving, cognitive reappraisal, and fostering adaptive coping.</p>
-
-<p>Research has found that resilient individuals show increased activity and interaction between the DMN and the ECN with diminished activity in the SN. Less resilient individuals show increased and prolonged activity in the SN.</p>
-<h2>Questions May Be the Neural Catalyst for Resilience</h2>
-<p>The work of Menon may provide a working heuristic as a foundation for practical application. So, perhaps the effectiveness of PFA can be enhanced by using interventions that target the resilience mechanisms residing in the DMN and the ECN while dampening the SN. More specifically, the neuroimaging literature on resilience suggests that PFA might be used to induce, externally, the same functional brain state that resilient individuals appear to achieve internally.</p>
-
-<p>When assisting a person in crisis, numerous sources have proposed that asking questions may be more effective than providing immediate answers (Everly &amp; Lating, 2026). A simple set of questions targeting Menon’s Triple Network may help improve the efficiency and perhaps the effectiveness of PFA:</p>
+<p>Deriving from those coaching greats is the Miami Mindset,<em> </em>a set of four core values, fine-tuned by Steele, that defines the RedHawk basketball mental approach. Here's a list of those<em> </em>Miami Mindset core values:</p>
 <ol>
-<li>“What happened?” (SN)</li>
-<li>“How bad is it?” (SN)</li>
-<li>“Why is this important in this moment?” (SN)</li>
-<li>“What does this mean?” (DMN)</li>
-<li>“Does it really warrant this much attention and energy?” (DMN)</li>
-<li>“Is there another way of interpreting the situation?” (ECN)</li>
-<li>“What is the best response?” (ECN)</li>
+<li>Compete at every moment.</li>
+<li>Carry your brother.</li>
+<li>Embody undeniable confidence.</li>
+<li>Strive for magis (Latin for “more”).</li>
 </ol>
 
-<p>The research also suggests the window for promoting resilience may come after 60 minutes or more, as the SN takes physiological priority in the first hour.</p>
-<p>While intuition would suggest solving the immediate problem is always the best crisis intervention, that may not be true in all cases. The notion of using questions to catalyze reflection and introspection (DMN) and foster reappraisal (ECN) is not new. Socrates, often considered the greatest teacher of his time, embraced the question rather than the answer as a means of teaching and empowering. Perhaps that is a lesson we all can learn as we endeavor to assist others in distress.</p>
+<p>“We try to basically make our core values come to life rather than just being words on a wall,” Steele explained. “If we embody our four core values, that’s what we call the Miami Mindset.”</p>
+<h2>A Two-Part Exploration </h2>
+<p>Effectively reviewing Steele’s version of the Miami Mindset would be too exhaustive for this one post. A follow-up post will delve into a detailed examination of the Miami Mindset's four core values and how Steele trains and instills them in his players.</p>
 
-<p>© 2026, George S. Everly, Jr., PhD.</p>
-
-
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/when-disaster-strikes-inside-disaster-psychology/202611/harness-neuroscience-to-improve" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/when-disaster-strikes-inside-disaster-psychology/202611/harness-neuroscience-to-improve</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/when-disaster-strikes-inside-disaster-psychology/202611/harness-neuroscience-to-improve</guid>
-            <dc:creator><![CDATA[George S. Everly, Jr. PhD, ABPP, FACLP]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/geralt-hand-792920_1920.jpg?itok=mjn6VjIL" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why I Left Finance to Start a Shrimp Charity]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-10/20220519_083824-removebg-preview.jpg?itok=wGcI7Sfp" alt="Walter Veit Ph.D. " style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Behavioral Finance</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why I Left Finance to Start a Shrimp Charity</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">An interview with Andrés Jiménez Zorrilla, founder of the Shrimp Welfare Project.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p>Why would anyone leave a lucrative career in finance to create a charity for shrimps?</p>
-<p>Yesterday, I interviewed (<a href="https://www.youtube.com/watch?v=HFOUPn7mEAI">watch the full interview here</a>) Andrés Jiménez Zorrilla, one of the two co-founders of the Shrimp Welfare Project, to find out. An edited transcript is below.</p>
-<div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="42" height="42" frameborder="0" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" title="YouTube | Why I Left Finance to Start a Shrimp Charity | Andrés Jiménez Zorrilla" src="https://www.youtube.com/embed/HFOUPn7mEAI?autoplay=0&amp;start=0&amp;rel=0&amp;mute=0"></iframe>
-</div>
-<p><strong>Walter Veit:</strong> Let us start with your background. Who are you, and how did you first become interested in shrimps?</p>
-<p><strong>Andrés Jiménez Zorrilla:</strong> I was born and raised in Mexico. I married my high school sweetheart; we have been together for more than 20 years and have two kids. I studied economics, then spent more than 15 years in finance: investment banking, private equity, and so on. I have launched five ventures, some for-profit and some not-for-profit, including Shrimp Welfare Project, and I have lived a nomadic life across three continents for half my adult life.</p>
-
-<p>I launched Shrimp Welfare Project for two reasons. I cared about animals, and I had found effective altruism and bought into the idea that evidence, reason, and scope sensitivity matter enormously. Put those together, and you arrive at caring a great deal about shrimp welfare.</p>
-<p><strong>WV:</strong> Did you always have an interest in animals?</p>
-
-<p><strong>AJZ:</strong> Not really. I liked animals the way most people do. I grew up with a dog, and my family had a farm, but animals did not occupy much mental space, and certainly not my career. My wife was different. She is a very caring person by nature. When we lived in London, she worked helping women leaving prison reintegrate into society, and many of her colleagues were animal advocates in their spare time. She became one too and tried to convince me it was worthwhile.</p>
-
-<p>It took me a long while to believe her. For the longest time I thought: that is nice for someone with spare time, but I work in finance. I have a serious job. I go to Canary Wharf every day. Little by little, though, the strength of her arguments chipped away at my doubts, and when I decided to leave finance, that was what I wanted to dedicate my time to.</p>
-
-<p><strong>WV:</strong> That is quite similar to my own path. Until recently, philosophers did not talk much about animals. There was Thomas Nagel’s famous paper, “What Is It Like to Be a Bat?” which argued that we can never really know what it is like to be another animal. Then Peter Godfrey-Smith came along. But for me it was really my wife. When we met, she was writing a Ph.D. thesis on how we can study animal welfare, and we began writing about it together. She also cured me of an early bias: I worried that a philosopher who got too close to activism would look less objective. That was a mistake.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-18">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1404853927369-9" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1404853927369-9')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_Mobile_Content1_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p><strong>AJZ:</strong> Well, I am very grateful to your wife for that, because I am very grateful for your work and your writing.</p>
-<p><strong>WV:</strong> She worked as a zookeeper before becoming a philosopher, and she was involved with effective altruism, visiting the Global Priorities Institute, so she pulled me in that direction too. Now, in some of your interviews, it sounded as though you were initially unsure what kind of project to start. How did you end up choosing shrimps? Why shrimps?</p>
-
-<p><strong>AJZ:</strong> There are many layers to that. My wife’s day job was working with refugees, in children’s hospices, or helping women reintegrate into society, so she had a broad portfolio of ways of doing good. At some point I decided I wanted that too. By the time I left finance, around 2018, I cared a lot about animals, but also about many other cause areas, and I struggled to work out where I could actually have an impact.</p>
-
-<p>Then a good friend of ours emailed my wife about a programme for launching charities, run by what is now Ambitious Impact and then called Charity Entrepreneurship. By her own admission, she found it too nerdy: all those numbers, all those spreadsheets. So she forwarded it to me and said that this looks up your alley.</p>
-
-<p>It was a stark contrast to everything else I had been exploring. At one point we had considered buying land in Spain, where we lived at the time, and running an animal sanctuary. I thought that mattered, but I was grossly unprepared and almost scared of having animals in my care. I think I avoided a train wreck. The way effective altruism talks about doing good, following reason and evidence but ambitiously, at scale, really spoke to me. I applied, went very deep into effective altruism as fast as I could so I would not flop the interviews, and got in.</p>
-
-
-
-  
-
-
-<p>The programme identifies ideas that are important, neglected, and potentially tractable, and not only in animal welfare. My cohort was offered all kinds of super interesting options, including an organisation to optimise the taxation of alcohol, whose burden of disease is huge and, in my opinion, underappreciated. There were ideas in family planning and a couple in animal welfare. Fortunately and unfortunately, I was drawn to every one of them.</p>
-<div class="pt-ad pt-ad--300x250 d-block d-none d-md-block d-lg-block d-xl-block block" id="block-adblock-19">
-  
-    
-      <div class="pt-ad--container pt-ad-show-text">
-      <div class="pt-ad--text">
-      <span>article continues after advertisement</span>
-    </div>
-    <div id="div-gpt-ad-1456244145486-0" class="pt-ad--content">
-    <script type="text/javascript">
-      if (!window.ptAdSlots || window.ptAdSlots.length === 0) {
-        window.ptAdSlots = [];
-      }
-      window.ptAdSlots.push('div-gpt-ad-1456244145486-0')
-    </script>
-  <div id="google_ads_iframe_/1032688/300x250_in-content_0__container__"></div></div>
-</div>
-
-  </div>
-
-<p>In the end, I relied on a heuristic effective altruists use: Where is your counterfactual impact greatest? For many of the ideas, there were people as good as me, if not better, to launch them. But if my co-founder, Aaron Boddy, and I had not launched a shrimp charity, it is very unlikely anyone would have done so at that moment. It was just too idiosyncratic. Once we looked into it, the argument was simple. Shrimp are the animals we raise and kill for food in the greatest numbers, by multiples: roughly half a trillion a year. And not a single person was working full-time on minimising the harms these likely sentient beings might face in the food system.</p>
+<p>Stay tuned for a deep dive into the Miami Mindset with Coach Steele.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/why-i-left-finance-to-start-a-shrimp-charity" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/sport-between-the-ears/202611/how-focus-on-the-mental-game-led-to-an-undefeated-season" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/why-i-left-finance-to-start-a-shrimp-charity</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/why-i-left-finance-to-start-a-shrimp-charity</guid>
-            <dc:creator><![CDATA[Walter Veit Ph.D.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/sport-between-the-ears/202611/how-focus-on-the-mental-game-led-to-an-undefeated-season</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sport-between-the-ears/202611/how-focus-on-the-mental-game-led-to-an-undefeated-season</guid>
+            <dc:creator><![CDATA[David Udelf Psy.D.]]></dc:creator>
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/960px-shrimp_shells_in_tuntorp_1.jpg?itok=4UZMqrLM" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/luke_skaljac___coach_steele.jpg?itok=YKIQz9Bt" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[The First Way of Not Being There: Detachment]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-05/Antonieta-Contreras.jpg?itok=RoHZVsXf" alt="Antonieta Contreras" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dissociation</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The First Way of Not Being There: Detachment</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Numbness, depersonalization, and derealization share one mechanism.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[I Was Making an Important Point, but Now It’s Gone]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-08/snook__1_.png.jpg?itok=RwIAESqE" alt="F. Diane Barth L.C.S.W." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Unconscious</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">I Was Making an Important Point, but Now It’s Gone</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Exploring the underlying reasons our brain abandons us just when we need it.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Detachment lets us stay aware of what is happening while the brain lowers how strongly we feel it.</li><li style="margin-bottom:6px;">The prefrontal cortex can brake emotion too hard, muting feeling before it is felt.</li><li style="margin-bottom:6px;">Emotional numbing, physical numbness, depersonalization, and derealization share the same mechanism.</li><li style="margin-bottom:6px;">Detachment usually lifts on its own, but fear of it can make it last longer or keep coming back.</li>
+              <li style="margin-bottom:6px;">Both physiological and psychological factors can cause the brain to freeze up or fail us when we most need it.</li><li style="margin-bottom:6px;">Splitting, forgetting, and not-thinking can be ways of protecting ourselves.</li><li style="margin-bottom:6px;">Facing the unconscious reasons we forget can lead to changes in our behavior, thoughts, and feelings.</li>
             </ul>
           </div>
-                    <p>The term dissociation, as we use it today, carries so much in just one word that it has become hard to understand what people are referring to when they say they are dissociating. This confusion exists not only in pop culture but also in the professional field. The term's popularity has made it a common protagonist in the lives of many people who use it to describe all sorts of sensations that scare them to the point of alarm. The literature also uses the term to name several mechanisms and a large number of manifestations. So, I'm trying to help separate them, as I have always been very interested in precision. I believe that if we want to understand ourselves and find solutions to our emotional problems, it's better to know what we are treating.</p>
+                    <p>Have you ever been in a situation where you knew exactly what you wanted to talk about, but when the moment arrived, you couldn’t think of what you had planned to say?</p>
+<p>That’s what happened to Jen* when she made her first big presentation at a new job. She practiced the talk repeatedly, to the point at which she felt confident that she could make it without a mistake. Yet when a senior colleague interrupted her to ask her to clarify what she had just said, her brain went blank.</p>
 
-<p>And it's not only me. Many people in the field have become active in developing better explanations and new ways to identify differences among dissociative experiences.</p>
-<p>My <a href="https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202610/4-ways-of-not-being-there">last post</a> was the first in a new series on dissociation where I described four concrete and different mechanisms that cause dissociative experiences. This post explains one of the four in detail: Detachment.</p>
+<p>“I felt so stupid,” she said. “It was a simple question. I <em>knew</em> the answer. But my mind left the room. My brain froze completely.”</p>
+<p>Many factors can contribute to this kind of “brain freeze,” which fits into a category of cognitive problems called “word retrieval difficulties.” There are a number of possible causes, both physiological and psychological, but there is also the odd and amazing role of unconscious dynamics that can make our brains stop working just when we need them to work at top capacity.</p>
 
-<p>To explain detachment, let me start with an example. Lisa got a call from the hospital informing her that her father had had a stroke. She rushed to the hospital and remained calm while talking to the doctors, signing forms, calling her brother, and arranging for someone to pick up her kids. She was a little surprised by how little emotion she felt, but three days later, standing in her kitchen, she started sobbing and couldn't stop. She called me because she wanted to work on what she experienced.</p>
+<p>The brain is a complex organ that controls thought, memory, emotion, touch, motor skills, vision, breathing, temperature, hunger, and every process that regulates our body. When any of these factors is in play, the complex system of neurons through which the brain stores and recovers words may not be firing as quickly as you would like. </p>
 
-<p>Detachment is one of the main mechanisms behind dissociative experiences, and it's the one that situations like Lisa's may recruit to help deal with them. In detachment, the person remains aware of what is happening and what it means. Lisa knew the gravity of her father's situation. What the mechanism did was to manage how strongly she felt her emotions. Research suggests that the prefrontal cortex, which normally helps regulate emotion, applies the brakes harder on the emotional system, turning down the volume of the experience. That’s why Lisa was able to be present to handle the situation without becoming overwhelmed.</p>
+<h2>When something is going on behind the scenes in your psyche</h2>
+<p>Anxiety—already a complex emotion—can be a lot more complicated when unconscious thoughts and feelings play a role. These are thoughts and feelings that go on outside of our awareness. They are often behind behaviors that we can’t explain to ourselves.</p>
 
-<p>Just think about it. If she had to deal with what she was feeling and also with all the other tasks the situation required, she probably wouldn't have been able to concentrate or make the decisions she had to make. That's why the brain “lowers the volume” of the emotions. Our own sedatives also help. Under this type of intense stress, the brain releases natural opioids that reduce pain and blunt feelings.</p>
+<p>For instance, Jen’s brain freeze during her presentation could certainly have been caused by her anxiety about proving herself to her new colleagues and bosses. But contributing to her anxiety may have been some thoughts and feelings that she kept hidden away, even from herself. It’s very hard for us to uncover these hidden emotions on our own, because we push them out of our minds and into what Freud called the “unconscious” mind. </p>
 
-<p>Detachment shows up in different ways, depending on what the brain is turning down.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/pexels-adonyi-foto-8315428.jpg?itok=HVHqbaCb" width="320" height="213" data-insert-type="image" title="Adonyi Gábor / Pexels" alt="Adonyi Gábor / Pexels"></div>
-<div class="insertArea--origin subtext">Source: Adonyi Gábor / Pexels</div>
-</div>
-</div>
-</div>
-<p><em>Emotional numbing.</em> What Lisa experienced belongs here. Feeling is turned down. The person knows that something matters but can't really feel it. When people detach this way, they often say, “I know I should feel something.”</p>
-<p><em>Physical numbness. </em>This type is similar, but it's more somatic. What gets turned down are bodily sensations and pain. Soldiers and accident victims sometimes don't notice serious injuries until hours later.</p>
+<p>Today we think of these ideas as “split off” or “dissociated” from awareness.</p>
+<h2>Protecting ourselves by splitting, forgetting, and not-thinking </h2>
+<p>The psychoanalyst Christopher Bollas gave the name “unthought known” to the thoughts and feelings, memories, and ideas about ourselves that we don’t let ourselves know about.</p>
 
-<p><em>Depersonalization.</em> This is one version of detachment that scares many people because, when the volume is turned down, they feel as if the experience doesn't belong to them. Signals from inside the body, which normally tell us “this is me, this is happening to me,” seem to carry less weight. Brain studies have linked depersonalization to reduced activity in the insula, a region that processes those inner signals. People may feel like observers of their own lives: Their hands look like someone else's, their voice sounds strange, or they watch themselves from a few feet away. The process is meant to be temporary, and it's not dangerous on its own. It feels weird, but if the person doesn’t fight it or keep checking whether it’s gone, it may subside relatively quickly. It can be problematic if it becomes chronic, and fear of the experience can contribute to its persistence. What I mean is that fearing it may be one reason it keeps happening, and if it keeps happening, it can become a regular response of the system when there is a threat.</p>
+<p>Sometimes we relegate information, without realizing it, to the unknown part of ourselves, to protect ourselves from old, painful memories. But we can also use this powerful tool to step away from a side of ourselves that we don’t like. This emotional process almost always happens outside of our awareness.</p>
 
 
-<p><em>Derealization. </em>This version of detachment works in a similar way to depersonalization, but what is turned down is the felt sense of the outside world instead of the felt sense of the self. Everything looks right, but it doesn't feel familiar or real. A person may say their own street looks like a movie set, or that there is glass between them and everything else. What's missing is the sense of reality that usually comes with what we see. Like depersonalization, it can be temporary and is not dangerous on its own. It doesn't necessarily cause harm to the system or leave consequences once it's over. If the brain doesn't recover its baseline, the person may become more sensitive, feel overwhelmed more easily, and predict that the detachment will return. That can make the mechanism more likely to recur, causing fear and maintaining the cycle of increasing sensitivity.</p>
+<p>The presence of unconscious thoughts and feelings does not necessarily rule out physiological causes for memory loss. If it happens to you on a regular basis, it may still not be a cause for concern, but it’s important to have a medical professional check to make sure it’s not a symptom of a medical problem.</p>
 
-<p>To address the mechanism, in all four versions, there are a couple of steps to keep in mind:</p>
-<ul>
-<li>After an accident or injury, get checked even if you feel no pain.</li>
-<li>Tell yourself that it will pass and that your system is trying to protect you. That way, you may be less afraid of it, which can help reduce the activation contributing to the experience.</li>
-<li>Gradually rebuild contact with your feelings, your body, and your sense of who you are.</li>
-</ul>
+<h2>Finding patterns to solve the puzzle of behind-the-scenes causes of brain fog</h2>
+<p>If this type of memory loss happens only on occasion, even if you aren’t in psychotherapy, you can start to look for some patterns that reveal unconscious reasons for behaviors and feelings that you can’t explain. And once you understand what’s going on behind the scenes in your psyche, it’s much easier to do something about it.</p>
 
 
 
   
 
 
-<p>If you notice yourself going numb or feeling unreal, it may help to ask what your system is turning down, and why now. If it’s helping, stay there and give it time to find the assurance that you don’t need it anymore.</p>
+<p>If you consistently go blank at work, for example, you can start to track the specific moments when it happens. When do you forget? Is it with a particular person or group of people? Does it happen in certain situations?</p>
+<h2>Are you putting undue pressure on yourself? Or are you secretly trying to sabotage yourself?</h2>
+
+<p>As Jen began to sort through some of her unacknowledged thoughts and feelings about the presentation, she realized that she was not only trying to prove herself to her new colleagues, but also secretly trying to prove to her family how well she was doing.</p>
+<p>She wanted to impress them, particularly her father and her older sister. “I imagined telling them how well I had done,” she said. “I love the expression on my dad’s face when he tells me he’s proud of me. But that’s something I know and think about all the time. Maybe I’m too much of a daddy’s girl.”</p>
+
+<p>After a few minutes of talking and thinking, Jen said, “I think maybe part of the problem is that a secret part of me also wanted to make my sister feel bad. She always does well at everything, and I’m always feeling like I can’t quite match up to her. I wanted her to feel the same way for once.”</p>
+<h2>Facing the unconscious reasons we forget can lead to changes in our behavior, thoughts, and feelings</h2>
+
+<p>As Jen talked about this dynamic with her sister, something she knew but did not like to think about, she had to face her competitiveness head-on. “It’s something I don’t like about myself,” she said. “I mean, it’s OK to be competitive. But it’s not OK to want to hurt the person you’re competing with. It makes me feel so bad about myself.” </p>
+
+<p>We suspected that Jen had shut down just as she was beginning to show off. Of course, we can’t know, but it seemed likely that her internal dialogue connected showing off at work with a wish to hurt her sister by rubbing her success in. Because Jen was so critical of this part of herself, she may have shut it down, stopping her brain in the process.</p>
+
+<p>Once we had talked out the meaning of Jen’s brain fog, we began to explore Jen’s competition with her sister. It had many different components, and it took a while, but eventually Jen realized that she could succeed without hurting her sister. The next time she made a presentation, she did not fog up.</p>
+
+<p>It’s not always easy to know what your unconscious mind is thinking. But if you decide to do some internal exploration, start with the idea that the "unthought known" is something you don’t like about yourself. Once you’ve located the difficult thoughts, it’s easier to change your behavior. And the “unthought known” is much less likely to sabotage you.</p>
+
+<p>*Names and identifying info changed for privacy</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202611/the-first-way-of-not-being-there-detachment" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/off-the-couch/202611/i-was-making-an-important-point-but-now-its-gone" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202611/the-first-way-of-not-being-there-detachment</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/traumatization-and-its-aftermath/202611/the-first-way-of-not-being-there-detachment</guid>
-            <dc:creator><![CDATA[Antonieta Contreras]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/off-the-couch/202611/i-was-making-an-important-point-but-now-its-gone</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/off-the-couch/202611/i-was-making-an-important-point-but-now-its-gone</guid>
+            <dc:creator><![CDATA[F. Diane Barth L.C.S.W.]]></dc:creator>
             <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/picture1.png.jpg?itok=zFBWHGQ-" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/business_meeting_getty-images-m5aolhzylq8-unsplash.jpg?itok=H7WyrRiA" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[To Grow Up, First Grow Down]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-06/paul_dunion.png.jpg?itok=kAwl6EWy" alt="Paul J. Dunion Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Adolescence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">To Grow Up, First Grow Down</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Guide your own maturation by confronting early beliefs that can get in the way.</h2><p style="font-size:0.9em;color:#666;">Posted November 14, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">True maturity requires "growing down"—confronting and letting go of childhood beliefs and attachments.</li><li style="margin-bottom:6px;">Maturity involves pausing to respond thoughtfully, not just reacting impulsively.</li><li style="margin-bottom:6px;">Asking for help signals maturity, not personal weakness or inadequacy.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/george-dagerotip-waszukqntlo-unsplash.jpg?itok=RiYmszVR" width="320" height="480" data-insert-type="image" title="George Dagerotip/Unsplash" alt="George Dagerotip/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: George Dagerotip/Unsplash</div>
+</div>
+</div>
+</div>
+<p>Our culture likes easy measurements of maturity, such as chronological age, number of achievements, financial stability, and the ability to adapt to conventional norms for having a job and a place to live. However, a person can meet these criteria for growing up and still have little or no psychological maturity. The word <em>maturity</em> comes from the Latin word <em>matures,</em> meaning “ripen.” We can understand <em>ripen </em>as meaning “moving beyond early stages of development.” But before we can <em>ripen,</em> we may need to <em>grow down.</em></p>
+
+<h2>Growing Down</h2>
+<p>When we grow down, we confront early attitudes and beliefs that strengthen neither our relationship with ourselves nor our relationship with life. Here are a number of these attitudes and beliefs.</p>
+<ul>
+<li><em>Attached to immediate gratification</em>. Early in our development, we tend to want our needs to be met now. Of course, this makes it difficult for us to make investments that pay off in the future. The ability to plan is seriously compromised. </li>
+<li><em>Holding a view of permanence</em>. We tend to think that if we love and cherish someone or something, then it will not end. It’s a serious distortion, since everyone and everything will come to an end.</li>
+<li><em>Attached to believing that our stories about the life happening around us are accurate accounts</em>. It can take a while before we accept that our stories are simply that, stories. We may need time to integrate how often our stories fall short of accurately reflecting reality. The process can be quite humbling.</li>
+<li><em>Attached to denying fear</em>. Growing down means becoming curious about feeling scared. It can help to consider what you might be afraid of and talk with friends about their fears.</li>
+<li><em>Attached to being compulsively self-reliant</em>. Consider whether there are times when you might need help and support from others. It can be challenging to recognize you need help without thinking it means something is wrong with you.</li>
+<li><em>Attached to being special</em>. Personal worth can still be posited in the idea of being special. This may be the time to at least consider that your uniqueness and your ordinariness can hold your self-worth.</li>
+<li><em>A tendency to react.</em> In our growing down experience, we begin to notice how often we act impulsively, without considering which words or actions will serve the immediate situation.</li>
+</ul>
+
+<p>Growing down is a process of letting go or dying, where denial and certain attachments are challenged and gradually let go. It often takes multiple acts of letting go before an attachment is released. Let’s look at how the growing down process can translate into ripening or growing up.</p>
+<h2>Growing Up</h2>
+<ul>
+<li><em>Postponing gratification. </em>When gratification is postponed<em>, </em>there is less impulsivity, leading to a wider consideration of what might serve you as well as others.</li>
+<li><em>Accepting life’s non-permanence</em>. We can let go of the magic attached to believing that when we love someone or something devotionally, the relationship will never end. </li>
+<li><em>Accepting that our stories are often a cursory view of what’s happening. </em>If we’re lucky, we experience how fitting it is that life’s immensity will naturally elude our best attempts at capturing it.</li>
+<li><em>Acceptance of being ordinary</em>. Know that seeking to be special will not strengthen your essential worth. The goal is to honor the paradox of your uniqueness and your shared humanity.</li>
+<li><em>Acceptance of your need for help</em>. As there is more honesty about life’s immensity, so there is a greater willingness to ask for help, accompanied by humility.</li>
+<li><em>Responding rather than reacting</em>. Being responsive means slowing down and recognizing that what’s happening isn't a crisis demanding immediate attention. Our input may not be necessary at all. Pausing lets us consider what to say or do that might help most.</li>
+<li><em>Accepting fear</em>. Feeling fear is not a reflection of our psychological instability. It is simply an emotional reaction to potential danger, the unknown, and change in general. Adults can feel fear, decide whether their safety is at risk, and, if it is, do what it takes to protect themselves.</li>
+</ul>
+
+<p>Maturity can so often be such a vague concept that we don’t know what it is or whether we can actually influence it. Everyone seems to want to “grow up” into a flourishing adulthood, yet it can help to take “growing down” seriously because it shows us what we need to let go of and get ready for. It's not much different from clearing land of rocks and debris in order to prepare for planting and growing. The goal is to take some of the mystique out of becoming an adult. We owe it to ourselves and to others to attend first to some of our more primitive attitudes before we find ourselves merely pretending we are adults.</p>
+
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202611/to-grow-up-first-grow-down" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202611/to-grow-up-first-grow-down</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-secular-mystic-path/202611/to-grow-up-first-grow-down</guid>
+            <dc:creator><![CDATA[Paul J Dunion Ed.D.]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/george-dagerotip-waszukqntlo-unsplash.jpg?itok=VHrKr6rR" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
