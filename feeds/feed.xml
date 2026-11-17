@@ -4,103 +4,494 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 06:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 16:44:37 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 06:54:15 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 16:44:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[AI Is Going to Make Us Work Less]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-07/Amit_head_shoulder-removebg-preview.jpg?itok=Gzbd2y_E" alt="Amit Baumel Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">AI Is Going to Make Us Work Less</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How many hours does a life owe to work? The answer is about to change again.</h2><p style="font-size:0.9em;color:#666;">Posted November 16, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-                    <p>AI is going to make us work less. All of us.</p>
-<p>Most of our grandparents worked six days a week. Nobody called them workaholics; that was simply what a job was, until society decided that Saturday belongs to people. I believe we are approaching a decision of that size again.</p>
-<p>I don’t know whether AI will create as many jobs as it destroys or whether most professions will collapse. That is the argument most people are having, and it is worth a minute of context before I get to what I actually want to say.</p>
+            <title><![CDATA[A Healthy Animal Can Still Be Miserable]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-10/20220519_083824-removebg-preview.jpg?itok=wGcI7Sfp" alt="Walter Veit Ph.D. " style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Healthy Animal Can Still Be Miserable</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">No single test reveals how an animal is really doing. Science needs several.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Animal welfare is a complex concept, of which there are multiple theoretical perspectives.</li><li style="margin-bottom:6px;">The three primary views are: biological function, natural living, and affective state.</li><li style="margin-bottom:6px;">Welfare is complex, and thus no single theory will provide sufficient information about all its parts.</li>
+            </ul>
+          </div>
+                    <p>Animal welfare has a long history of disregard. In early Western philosophy, Aristotle argued that animals lacked moral status as they lacked the capacity to reason, and this tradition continued through to the Cartesian perspective of animals as automata that lacked mental states. This view has now been largely overturned in favour of one that recognises animals as sentient creatures with moral value. Indeed, during recent decades, animal welfare has also become a scientific discipline of its own. The difficulty of measuring animal welfare, however, can still be vastly underestimated. </p>
 
-<p>The optimists say this is like every previous revolution: Some jobs will disappear, new ones will emerge, and people will use AI to become more productive. The World Economic Forum says so, for example (1). The pessimists say this time is different. Machines are beginning to perform intellectual work once reserved for highly educated people. The International Monetary Fund says so, for example (2).</p>
-
-<p>Perhaps.</p>
-<p>When our professional skills lose their value, <a href="https://www.amitbaumel.com/post/software-engineers-prometheus-moment">what is threatened</a> is not just our income but our sense of relevance: the feeling that we have value in the world, contribute something important, and make a positive impact on others.</p>
-<p>But there is another layer that I believe will unfold quite quickly: AI will not only change how we make a living but how much of our lives we are expected to spend doing this work.</p>
-
-<p>I will say it plainly: this is an optimistic post. I intend to earn the optimism with numbers.</p>
-<h2>Work has been shrinking for 130 years</h2>
-<p>Look at the past 130 years. The human condition of work has gradually improved. The workday became shorter. The six-day workweek became five. Paid leave, retirement, sick days, and limits on child labor became part of the social contract. Today, a growing number of organizations are even experimenting with four-day workweeks (3, 4).</p>
-
-<p>None of this happened because work suddenly became less important. These changes were fought for through collective bargaining, legislation, and political struggle. But rising productivity made them economically possible. Society gradually decided that human life should not be consumed entirely by labor.</p>
-
-<p>AI pushes this process forward.</p>
-<h2>Why it cannot stay this way</h2>
-<p>If an employee can complete in two hours what previously required eight, there are only a few possible outcomes: The company can demand four times as much output. It can fire most of the team. Or society can begin converting some of the productivity gain into time.</p>
-
-<p>The first two options may dominate at first but they are difficult to sustain as a final equilibrium.</p>
-<p>An economy cannot function well when a small group labors while millions of capable people have no work, and no sense that they contribute. Workers are also consumers, parents, taxpayers, and citizens. Wages are not only a cost companies pay; they are the money customers spend, and no one can keep selling to people who no longer earn. A system that converts greater productivity mainly into human exclusion would eventually undermine both economic demand and social stability.</p>
-
-
-<p>The figure below shows what this means in numbers. As dollars stop arriving in ordinary paychecks for common households, whether because jobs disappear or because pay shrinks, what businesses can sell falls with them. By the time roughly 12 dollars out of every 100 have moved, the drop is already the size of the Great Recession. (If you want to see exactly how I built the figure, the note below it is where I geek out.)</p>
-
-<p>This all brings us to thia conclusion: The more stable direction is not a world without work but one in which work occupies less of everyone’s life.</p>
 <div class="insertArea ck-widget">
-<div class="image-article_inline_full">
+<div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-11/no_one_sells_to_people_who_no_longer_earn.png.jpg?itok=knPjDGI0" width="639" height="387" data-insert-type="image" title="Amit Baumel" alt="Illustration based on the 2023 Consumer Expenditure Survey. The top income quintile spent about 71 cents of every dollar received after taxes, while the bottom four quintiles spent approximately all of their income. The figure estimates how shifting income away from ordinary paychecks reduces aggregate household spending. The dashed line represents the approximately 4% decline in per-person consumption during the Great Recession. Sources: U.S. Bureau of Labor Statistics (5); Petev et al. (6)."></div>
-<div class="caption">Illustration based on the 2023 Consumer Expenditure Survey. The top income quintile spent about 71 cents of every dollar received after taxes, while the bottom four quintiles spent approximately all of their income. The figure estimates how shifting income away from ordinary paychecks reduces aggregate household spending. The dashed line represents the approximately 4% decline in per-person consumption during the Great Recession. Sources: U.S. Bureau of Labor Statistics (5); Petev et al. (6).</div>
-<div class="insertArea--origin subtext">Source: Amit Baumel</div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/pexels-rohit-george-1141376880-32113856.jpg?itok=xxAFiU9c" width="320" height="569" data-insert-type="image" title="Rohit George / Pexels" alt="Rohit George / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Rohit George / Pexels</div>
 </div>
 </div>
 </div>
-<h2>What Generation Z is telling us</h2>
-<p>We can already see the cultural preparation for this shift.</p>
-<p>People of my generation, those who entered the workforce around the turn of the millennium, were taught to admire sacrifice. In high-tech, working 50 or 60 hours a week was almost a badge of honor. The company was a family. If you left at 5:00, perhaps you were not serious enough.</p>
+<p>Scientific investigation is always relative to some perspective. Scientists have different perspectives, arising from their background theories and the capabilities of their measurement instruments, each of which can reveal only a partial view of the objects under investigation. Given that no single perspective can offer a uniquely correct and complete picture of the world, use of multiple perspectives together can thus create a far richer understanding. Different methods and models offer different perspectives and ways of gaining knowledge.</p>
+
+<p>After all, it is only rarely, if ever, the case that much can be learned by a single method, experiment, or measurement: science requires pluralism and diversity even on the lowest scale. Animal welfare is a complex concept, of which there are multiple theoretical perspectives and associated different measurement methods, each with differing strengths and weaknesses and which shed light on different aspects of the phenomenon of welfare. As I shall show, this diversity is to be embraced, rather than avoided.</p>
+
+<h2>Animal welfare perspectives</h2>
+<p>The three primary views are what Green and Mellor describe as the ‘three orientations’: biological function, natural living, and affective state.</p>
+<p>The biological function perspective focuses on the physical wellbeing of an animal. An animal can be entirely fit and healthy, but still feel bored, lonely and frustrated, and thus have poor welfare.</p>
+
+<p>The natural living perspective focuses on the wild state of animals and their ability to function according to how they have been shaped by evolution. The natural living perspective has been criticized for its limitations, as many aspects of the ‘natural’ lives of animals (i.e. those experienced in the wild) can be detrimental to welfare (e.g. predation, disease). An animal can be living a perfectly natural life, but suffer immensely from these effects.</p>
+
+<p>The affective state perspective takes welfare to consist in the mental states, or affects, of animals and is also often known as the ‘feelings-based’ approach. Positive feelings (such as comfort or curiosity) increase welfare, while negative feelings (such as hunger or pain) decrease welfare. Under almost all conceptions, the feelings of animals, their pleasure and suffering, are central to considerations of welfare. As such, the affective state perspective is now commonly accepted as necessary for welfare. However, it is often considered insufficient. An animal may experience nothing but happiness lying around eating chocolate, but the resulting health compromise will lead to poor welfare.</p>
+
+<p>Welfare is complex, and thus no single theory will provide sufficient information about all its parts.</p>
+<h2>Measuring animal welfare</h2>
+<p>There are numerous measures for animal welfare, which can be grouped as physical, behavioural and environmental. Cortisol is a hormone associated with the stress response, and so elevated levels can indicate the presence of stress and possible corresponding reduction in welfare. Stereotypies are repetitive behaviours such as pacing, swaying, or self-plucking and their presence is typically assumed to signal boredom or frustration, where an animal is unable to perform a highly motivated behaviour and instead redirects its energies into the observed unnatural stereotypy.</p>
+
+<p>Any single measure on its own will not provide much information about welfare; like a single torch, it will only light up one small part of the whole.</p>
+<h2>Integrating perspectives on animal welfare</h2>
+<p>Using multiple measures alongside one another will allow us to gain the benefits of each method, while offsetting their drawbacks. For example, if we failed to include an indicator for social behaviour in a highly social animal held in a solitary environment, we might conclude that welfare was good, even though an important component of natural behaviour is missing.</p>
+
+<p>Another related concern regarding the risks in bringing together multiple perspectives and measurements for a pluralist study of animal welfare is that the measures and recommendations arising from each may conflict. For example, many zoos used to have concrete and tiled cages, which allowed for maximising welfare from a physical functioning perspective, through thorough cleaning and disinfecting. However, the lack of environmental complexity and mental stimulation detracted from welfare from both the natural living and affective state perspectives.</p>
 
 
 
   
 
 
-<p>Many younger workers no longer believe this story. Research on Generation Z consistently finds greater emphasis on balance, well-being, and meaningful work than on climbing the corporate ladder (7).</p>
-<p>They want to close the laptop at 5:00 because they have a life. This is often described as laziness, entitlement, or fragility. I think Generation Z may simply be early adopters of a better social norm.</p>
+<p>It is important, when adopting a plurality of perspectives, to ensure that there is a way of adjudicating between their competing demands and setting weightings between the different components. However, there is no ‘objective’ or ‘perspective-neutral’ viewpoint from which to assess the weightings of various inputs.</p>
 
-<p>Work can be meaningful. It can make us feel useful, needed, and relevant. But it is not the whole of human existence. We mostly feel relevant by raising children, helping friends, creating, learning, loving, being present, and taking part in communities.</p>
-<p>From this perspective, the real promise of AI is that it may finally make the 35- to 40-hour workweek look as outdated as the six-day workweek looks today.</p>
+<p>Regardless, these concerns do not make integration an unachievable task. In making animal welfare assessments, our purposes are typically for making decisions about where best to use our resources to maximise welfare. Here, I might consider using robustness reasoning. This would entail comparing the decisions recommended by different models, and preferentially selecting those recommended by many or most models. In practice, often the recommendations from the different welfare perspectives align, and so this should not be excessively demanding.</p>
 
-<h2>How will it happen?</h2>
-<p>The same way it happened last time. Ford moved its factories to a five-day week in 1926, but not out of generosity: Henry Ford had concluded that people who work all the time have no time to buy anything, and that his workers were also his customers. The weekend was built partly on the arithmetic of the figure above, and the rest by the unions that demanded it and the laws that made it the default.</p>
-
-<p>All three of those engines are already turning. Trials across six countries have shown that companies can drop a workday without dropping output. In Iceland, such trials ended with unions negotiating shorter hours, or the right to them, for roughly 86 percent of the country’s working population (8). In the United States, autoworkers’ union put the 32-hour week on the bargaining table in 2023. It did not win, but the first people who demanded a weekend did not win either. Ford himself said in 1926, “The eight-hour day was not the ultimate, and neither is the five-day week” (9).</p>
-
-<p>Here is that century drawn as what it really is: a staircase that stopped, and a next step already penciled in. The note underneath is where I show my homework.</p>
-<div class="insertArea ck-widget">
-<div class="image-article_inline_full">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-11/workweek_stop_shrinking.png.jpg?itok=pkWL9itJ" width="639" height="383" data-insert-type="image" title="Amit Baumel" alt="U.S. working-hour estimates are based on historical research (10, 11). The ILO established the 48-hour standard in 1919 (3), while later European milestones come from Eurofound (12). The Dutch average of about 32 hours reflects the country’s widespread, protected part-time work (13). More recent developments include four-day workweek trials across six countries (4), the UAW’s 32-hour demand in 2023, and a 32-hour workweek bill introduced in Congress."></div>
-<div class="caption">U.S. working-hour estimates are based on historical research (10, 11). The ILO established the 48-hour standard in 1919 (3), while later European milestones come from Eurofound (12). The Dutch average of about 32 hours reflects the country’s widespread, protected part-time work (13). More recent developments include four-day workweek trials across six countries (4), the UAW’s 32-hour demand in 2023, and a 32-hour workweek bill introduced in Congress.</div>
-<div class="insertArea--origin subtext">Source: Amit Baumel</div>
-</div>
-</div>
-</div>
-<p>The transition may be brutal. We will need new taxation, new labor arrangements, and probably several failed experiments. But the direction seems clear. </p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/hawk_2.png.jpg?itok=lqLc1tdb" width="320" height="196" data-insert-type="image" title="Amit Baumel" alt="Amit Baumel"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Amit Baumel</div>
-</div>
-</div>
-</div>
-<p>A few days ago an hawk stopped in the middle of my street. I had somewhere to be. I stayed for a minute anyway.</p>
-<p>That minute produced nothing. It was the best one of my day.</p>
-<p>The most human outcome of the AI revolution may be a world in which people have more time to be human.</p>
+<p>Animal welfare is real and measurable, and although incredibly complex, no less so than its human counterpart. I hope that the foregoing analysis has demonstrated a way to partially escape the limited human perspective via the use of a plurality of diverse methods to explore a complex phenomenon.</p>
+<p><em>If you enjoyed this essay, you might enjoy the </em><a href="https://walterveit.com/wp-content/uploads/2021/02/veit-browning2020_article_perspectivalpluralismforanimal.pdf"><em>academic article</em></a><em> on which it is based.</em></p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/the-psychology-of-tomorrow/202611/ai-is-going-to-make-us-work-less" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/a-healthy-animal-can-still-be-miserable" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/the-psychology-of-tomorrow/202611/ai-is-going-to-make-us-work-less</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-psychology-of-tomorrow/202611/ai-is-going-to-make-us-work-less</guid>
-            <dc:creator><![CDATA[Amit Baumel Ph.D.]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/shutterstock_2075781658.jpg?itok=8KVT02do" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/a-healthy-animal-can-still-be-miserable</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/a-healthy-animal-can-still-be-miserable</guid>
+            <dc:creator><![CDATA[Walter Veit Ph.D.]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-rohit-george-1141376880-32113856.jpg?itok=amIZBHfs" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Three Key Behaviors of Highly Creative People]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/anthony_fredericks.jpg?itok=re2IR4DV" alt="Anthony D. Fredericks Ed.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Creativity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Three Key Behaviors of Highly Creative People</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What it takes to stimulate and improve your everyday creativity.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The foundation for any creative endeavor is curiosity.</li><li style="margin-bottom:6px;">The kinds of questions we ask ourselves are critical for our creative output.</li><li style="margin-bottom:6px;">Taking risks gives us license to be more creative.</li>
+            </ul>
+          </div>
+                    <p>It may well be one of the most frequently asked questions by people from a wide range of occupations: “What do I need to do in order to become more creative?” Suffice it to say that there are several intertwining characteristics of those deemed to be innovative and imaginative. But, for our purposes, let’s take a look at three of the most-cited and most-recommended behaviors that positively influence our creative expression.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/curiosity_-_7.jpg?itok=n_tjbzOw" width="320" height="213" data-insert-type="image" title="garten-gg/Pixabay" alt="garten-gg/Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: garten-gg/Pixabay</div>
+</div>
+</div>
+</div>
+<h2>1. Curiosity</h2>
+<p>Curiosity is ingrained in our DNA. The mysteries of the universe have always been an impetus for us to peek and poke and prod for</p>
+<p> answers - learning something new about our surroundings as well as about ourselves. We want to know more than we know; we want to expand our horizons, try out the new and undiscovered, and pursue experiences that deepen our comprehension (and appreciation) of the world in which we live.</p>
+
+<p>But curiosity is much more than a simple search for answers. It is also the generation of possibilities. When we look at the world from multiple perspectives, we give ourselves permission to examine a wider range of resolutions and remedies. We open up our minds to explore the unexamined and unknown. Curiosity becomes a propellant for new opportunities and new options. Ian Leslie explains it this way: “…curiosity is essential to an exploring mind; it opens our eyes to the new and undiscovered, encouraging us to seek out new experiences and meet new people.”</p>
+
+<p>It was Albert Einstein who famously said, “I have no special talents. I am only passionately curious.” For Einstein, curiosity was the engine that drove his creativity. Curiosity was his catalyst for questioning, and questioning is what propels us to seek out the unfamiliar and the unknown. For, without curiosity, knowledge becomes stagnant and immovable. It does not move us forward, nor does it have sufficient power to examine what may lie just beyond our experiences.</p>
+
+<h2>2. Open-Ended Questions</h2>
+<p>In conducting research for my latest book (see below), I came across some compelling insights underscoring the fact that creative thinkers tend to ask more open-ended questions. For example, a 2023 study in the <em>Journal of Creativity</em> took a look at the types of questions posed by 165 undergraduate students during select creative-thinking tasks. Individuals whose responses showed greater originality and fluency tended to ask more open-ended questions. The researchers also discovered that questions involving possibilities (rather than absolutes) were associated with originality in various tasks. </p>
+
+<p>Consider the difference between these two questions: “Is this a good idea?” (This type of query invites a yes-no response. As such, it encourages evaluation before any exploration takes place.) and “What are some different ways this particular idea could be improved?” (This type of question, on the other hand, invites alternatives, experimentation, and the possibility of multiple solutions.) Additionally, there is evidence to indicate that open-ended questions may support creativity through several inter-related processes:</p>
+
+<ul>
+<li>Divergent thinking: Generating multiple ideas rather than settling immediately on one answer.</li>
+<li>Reframing: Looking at a familiar situation from a different perspective.</li>
+<li>Possibility thinking: Imagining what could happen, even when it seems unlikely at first.</li>
+<li>Assumption testing: Questioning beliefs that we may have accepted without much examination.</li>
+</ul>
+
+<p>Perhaps most compelling are the open-ended questions we ask ourselves. These inwardly-directed queries often shape what we pay attention to, which alternatives we may conjure, and how we interpret our experiences. They give us a framework to muse, ponder, and think in several different directions. For example, contemplate these possibilities: “What could I learn that would help me improve?” “What did this attempt teach me, and what could I try next?” “What are six possible solutions, including unconventional ones?” and “What other approaches might work just as well – or better?” Note that these examples illustrate divergent ways of thinking – contemplations of what might be rather than what is. Or, in the words of Eugene Jonesco, “It is not the answer that enlightens, but the question.”</p>
+
+<h2>3. Risk-Taking</h2>
+<p>Taking risks is essential in our overall growth and development. We all took some risks when we learned how to walk. By the same token, we took a risk when we got our driver’s license and took the family car out for a spin, and many of us took a risk when we joined up with another individual and said that we would spend the rest of our lives with that person. Basically, taking risks is an essential element of our learning curve. Yet, what we often practice in the real world may be altogether different—minimize the risk, and you can minimize the potential defeats. But what results is often stunted creative expression. Innovation is all about taking a chance; all about venturing into unfamiliar territories with the possibility of discovering something new or something different. That’s not possible without risk-taking.</p>
+
+
+
+  
+
+
+<p>Creative individuals are known for taking chances. They examine the unknown – not necessarily because it will lead to something successful but rather because it’s new (Cue Leonardo da Vinci, Marie Curie, Pablo Picasso and Steve Jobs). Those individuals were happy to move beyond what they knew in order to play with unexplored ideas. Most importantly, they often envisioned the inevitability of failure as a creative learning opportunity…a chance to regroup and refocus. </p>
+
+<p>By and large, creativity involves the freedom to move into uncharted territories and unfamiliar vistas. As such, risk-taking is an essential element of the creative life simply because it gives us license to step outside our comfort zone, challenge how we think, and explore a plethora of possibilities. When we give ourselves permission to experiment (and make mistakes), we open a door to unexpected discoveries and innovative ideas. Or, as Erich Fromm so eloquently put it, “Creativity requires the courage to let go of certainties.”</p>
+
+<p>What is most important – especially for those who wish to enhance their creative spirit – is to constantly pursue, refresh, and master the three attributes above. Every day!</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/creative-insights/202611/three-key-behaviors-of-highly-creative-people" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/creative-insights/202611/three-key-behaviors-of-highly-creative-people</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creative-insights/202611/three-key-behaviors-of-highly-creative-people</guid>
+            <dc:creator><![CDATA[Anthony D. Fredericks Ed.D.]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/creativity_-_52.jpg?itok=wQiP5TPy" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What's in a Label With Neurodivergence, and Why You Should Care]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-11/Lisa_Sheinhouse-removebg-preview.jpg?itok=0S-fZ-43" alt="Sheinhouse" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Neurodiversity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What's in a Label With Neurodivergence, and Why You Should Care</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Why labels matter but don’t define your neurodivergent child's entire identity.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Labels can have a positive purpose, especially for neurodivergent children.</li><li style="margin-bottom:6px;">Find a community to help your child establish a healthy relationship with labels.</li><li style="margin-bottom:6px;">Remind your child that they have wonderful qualities and characteristics that go far beyond a label.</li>
+            </ul>
+          </div>
+                    <p>Recently, I was having coffee with a few colleagues when the topic of labels came up. One of our clients said they self-identified as an “autistic person" versus a "neurodivergent person." This is a distinction worth noting since neurodivergence can be viewed as a broad term. Everyone's eyes turned to me in anticipation of my response because, of course, I'm known around the office for having what my children call "hot takes." Without hesitation, I shared mine: "I support specific labels across the neurodivergent community, as long as they don't define an individual's entire identity." My team was divided, but let me explain my stance. </p>
+
+<h2>Changing Attitudes Toward Diagnostic Labels and Identity Language</h2>
+<p>As someone who's part of Generation X, when I was a child, there were far fewer labels. No one was diagnosed with attention-deficit/hyperactivity disorder (ADHD) or learning disabilities. If there was an academic challenge, the kids figured it out or didn’t. As for me, I was a fun, fearless, and resilient child. No one told me who I was, and I embraced that way of thinking, often finding solutions along the way. Fast forward to today, this isn't the case at all in any aspect of our society. Labels are a way people identify themselves, especially those within the neurodivergent community. And within these labels, there is identity-first language and person-centered language, which we've touched on in the past. <a href="https://www.nih.gov/nih-style-guide/person-first-destigmatizing-language">See here</a> for more background if you’re too busy to scan through my previous blog posts.</p>
+
+<p>These terms aside, if you're not working in the field like me, and labeling your child makes you uncomfortable, that's a good thing. It means you're thoughtful and sensitive. But I'll be clear: A label stating an actual diagnosis is imperative. In my line of work, I create programs for people with disabilities, and many clients have ADHD and/or autism. I often find myself using a label to support client advocacy and secure supports. In cases like this one, a label is vital. If a client doesn't have a formal diagnosis of autism, they might not receive services from a school system, disability development services, or health insurance. For them, the lack of a label means no consideration for applied behavior analysis (ABA) therapy; the answer is simply "no." </p>
+
+<p>Over the years, I've met many clients who proudly share their diagnosis: "This is who I am, and accept me for me." They identify with a label because it helps them explain how they differ from the general population, and, in some cases, that label becomes a central part of their identity. This is where it can get tricky. </p>
+
+<p>One strong example is Asperger's syndrome, once a widely used diagnosis, which has largely faded from everyday use and has been absorbed into the diagnosis of autism. Many people with Asperger's still use the term and feel that the shift erases part of themselves and others' history. Without a distinct category, their needs may even be overlooked. Some believe they’ve lost a sense of self, and I really feel for them. I can't imagine someone telling me something I've connected to for years essentially no longer exists.</p>
+
+<h2>Shared Communities Help Children Balance Labels With Individuality</h2>
+<p>A great way to find a healthy balance when approaching labels within neurodivergence is to find a community of people who share your child's background. When integrating, your child will likely see that, yes, they share a label and some similarities, but they have their own unique personality and interests. This realization can also help a child who might feel isolated by fostering connections.</p>
+
+<p>At the end of the day, every person is an individual, and yes, labels are a necessary part of life and play a huge role in our healthcare system. However, again, I'm not the one labeling my clients; I ask them to tell me, and if that's challenging, I work with their parent or caregiver for insight. Ask, don't assume. </p>
+
+
+<p>After working for so many years with families with children with disabilities, I can assure you that as a parent, you can deeply impact the way your child sees themselves and trust and believe they're so much more than the label they might currently identify with. Encourage them to accept who they are, know that they bring something special to the world, and continue to find the wonderful qualities and characteristics that go far beyond a label because that's what makes them special and unique. The diagnosis is just one part of who they are. I know my younger self would be shocked by my new acceptance of labels, but she was never defined by one thing, and neither is your child. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/retrain-your-brain/202611/whats-in-a-label-with-neurodivergence-and-why-you-should-care" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/retrain-your-brain/202611/whats-in-a-label-with-neurodivergence-and-why-you-should-care</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/retrain-your-brain/202611/whats-in-a-label-with-neurodivergence-and-why-you-should-care</guid>
+            <dc:creator><![CDATA[Lisa Sheinhouse M.A.]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-barbara-olsen-7880792.jpg?itok=q-yT2tM3" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Your Doctor Fails to Tell You Can Definitely Hurt]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-10/susan.whitbourne_umb.edu_.png.jpg?itok=lV0iwN3F" alt="Susan Krauss Whitbourne PhD, ABPP" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Health</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Your Doctor Fails to Tell You Can Definitely Hurt</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Many psychological aspects of medical conditions are overlooked by physicians.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Health problems can have psychological consequences, but this may not always be seriously considered.</li><li style="margin-bottom:6px;">Research on cardiac and cancer patients shows the the need to treat anxiety and depression, not just disease.</li><li style="margin-bottom:6px;">Knowing what to ask for can only help you to receive a more informed and effective pathway to treatment.</li>
+            </ul>
+          </div>
+                    <p>When you think about your physical health, it’s natural to think of all the ways a physician or similar healthcare provider should be able to help you. If you or a loved one have developed a chronic disease that requires monitoring, surgery, or a switch in medications, you’ll probably feel that this is enough to get things back on track on the road to recovery.</p>
+
+<p>As it turns out, a number of medical conditions and treatments have important psychological connections that are equally important to promote healing. Whether it’s depression, cognitive changes, or anxiety, you may not realize that these are natural outcomes of various types of interventions. Unfortunately, healthcare professionals aren’t always either (a) aware of these connections or (b) prepared (or have the time) to address them.</p>
+
+<h2>The Case of Heart-Focused Anxiety</h2>
+<p>In a review of studies “at the intersection of psychiatry and cardiology,” Medical University of Silesia’s Kamila Klimek-Ociepka and colleagues scanned various databases to identify publications over the 15-year period of 2010 to 2025 in which findings were reported on the conjunction of cardiac device implantation (such as pacemakers) and assessment of patient symptoms in the domains of depression, anxiety, posttraumatic stress disorder (PTSD), and cognitive disorders. A total of 44 studies made it to the final set used to analyze the main findings.</p>
+
+<p>Key to understanding these studies is “heart-focused anxiety (HFA).” As you might imagine, having a procedure done to your heart, even if it is meant to reduce your risk of dying, is hardly a minor episode in your life. Anxiety and depression are reported in as many as 44 percent of patients treated with internal devices meant to keep the heart beating regularly.</p>
+
+<p>In particular, HFA occurs when people experience “excessive anxiety related specifically to cardiac sensations, symptoms, and anticipated cardiovascular events.” People with certain types of implants, the ones that perform internal defibrillation (to get the heart started, are particularly likely to have HFA, fearing being harmed by the voltage from the shocks the device performs. Instead of engaging in what would be heart-healthy exercise, they instead decide they could hurt themselves by making the heart overwork, leading to an actual worsening of their condition. </p>
+
+<p>Depressive symptoms, for their part, can also become highly prevalent among cardiac patients, with estimates ranging up to 64 percent, especially when they first learn of their diagnosis. Their depression can be expressed as sleep disturbances and loss of energy, or in the emotional realm as hopelessness and pessimism about the future. </p>
+
+<p>Finally, PTSD can also develop in patients who experienced sudden cardiac events or invasive therapies. There are probably few traumas that can occur in daily life as frightening as having your heart literally stop for a second or two. But because they don’t remember the event, their PTSD may be expressed as “hypervigilance, anxiety, and avoidance behaviors rather than intrusive memories or flashbacks.”</p>
+
+<p>In reading about these psychological consequences of cardiac events and treatment, you might be wondering why you’ve never heard anyone speak about them in the context of treatment. Shouldn’t you (or your relative) have been warned or at least educated about these risks? Considering all the precautions listed on any kind of medical consent form, you would think that it might be worth adding these—along with an explanation.</p>
+
+<p>Additionally, as pointed out by Erzurum Bolge Training and Research Hospital's Murat Özmen, physicians may not realize that depression can be associated with the low physical activity, high stress, obesity, and hypertension that are part of the disease picture. Just as physicians and other healthcare professionals instruct their patients about implanted devices themselves, the authors claim they need to educate them about the importance of sleep, developing coping methods to reduce stress, and participating in exercise as warranted by stage of recovery.</p>
+
+
+
+  
+
+
+<h2>The Case of Cancer Treatment</h2>
+<p>The experience of cardiovascular disease is clearly life-threatening and scary, but even more ominous is a diagnosis of cancer. Considering how highly prevalent cancer is within the population, it’s likely that someone you know (or you) has received this diagnosis. </p>
+<p>It may seem almost self-evident that the uncertainty of a cancer diagnosis, along with the stress involved in tests, procedures, and therapy, would be enough to lead a patient’s mind to travel to existential questions about the possibility of surviving into the future. Fortunately, those who treat cancer patients are tuned in to the psychological risks. University of Houston’s Haejeong An and Yoonjung Kim note that this “general understanding is expanded by the National Comprehensive Cancer Network (NCCN), which specifically defines distress as a multifaceted concept covering physical, psychological, social, or spiritual discomfort that emerges during cancer survivorship, which affects how survivors think, feel, or act.”</p>
+
+<p>Unfortunately, though, the concept of distress is not well-defined in actual practice. Therapeutic approaches fail to separate distress from anxiety, depression, and stress, meaning that interventions will fail to target this piece of the cancer journey separately and effectively. Starting with a database of more than 2,700 studies, the authors analyzed the final 14 that met all the rigorous criteria for inclusion. </p>
+
+<p>The methods used in these studies were all over the map, ranging from standard psychological interventions such as cognitive behavioral therapy (CBT) to virtual reality, mindfulness, and hypnosis. As a result, there were inconsistent findings regarding effectiveness, a problem made worse by lack of a clear definition of distress.</p>
+
+<p>Compared to cardiac disease, the scope of psychosocial interventions for cancer patients is far more advanced. However, the U. Houston findings suggest that practitioners do not have clear pathways for reducing the distress of their patients, if they indeed decide to implement some type of intervention.</p>
+
+<h2>How to Get What You Need From Your Healthcare Provider</h2>
+<p>These examples of research in the area of psychological symptoms and serious disease should alert you to the idea that if you (or a loved one) are headed for some type of intervention, it’s important to be aware of possible emotional consequences. In an era of overburdened healthcare providers, where you may feel lucky to get an appointment at all, finding ways to receive this support may seem impossible.</p>
+
+<p>However, if it’s not from the provider itself, consider seeking support from other sources. There is a wide number of support groups associated with specific diseases, but if there isn’t one in your community, you can also draw from online resources. You can even start your own group.</p>
+<p>An added piece of irony in the equation is that behavioral medicine often focuses on ways to help patients adopt healthier lifestyles. Less often does the field seek connections between physical disease and mental health. The An and Kim article suggests some causes of optimism given the large number of intervention studies in the area of breast cancer. The problem in this area is not lack of recognition, but lack of definitions and clear methodologies, leading to the exclusion of most available research.</p>
+
+<p><strong>To sum up</strong>, the next time you draw up your list of questions to ask your healthcare provider before going in for an appointment, think about whether your stress, anxiety, and depression might also be important to mention. Your mental health and your physical health can only stand to gain.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202611/what-your-doctor-fails-to-tell-you-can-definitely-hurt" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202611/what-your-doctor-fails-to-tell-you-can-definitely-hurt</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202611/what-your-doctor-fails-to-tell-you-can-definitely-hurt</guid>
+            <dc:creator><![CDATA[Susan Krauss Whitbourne PhD, ABPP]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/md_vitaly_garlev_pexels-silverkblack-39192330.jpg?itok=06f7sODY" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Be the Riverbank for Children’s Emotional Rivers]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-01/larry_cohen.png.jpg?itok=zj6skC6D" alt="Larry Cohen" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Parenting</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Be the Riverbank for Children’s Emotional Rivers</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Children’s emotions need to flow freely, like a river. Parents need to be the riverbank.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Our children's emotions can be hard to handle.</li><li style="margin-bottom:6px;">We often fall on one extreme or another—dismissing the emotions or becoming flooded by them.</li><li style="margin-bottom:6px;">Instead, we can use the metaphor of the riverbank to support children's emotions.</li>
+            </ul>
+          </div>
+                    <p>A mother wrote to me: </p>
+<blockquote><p>“I used to yell at my daughter when she cried, to make her tougher. Even after I learned that crying is how she expresses herself when she has big emotions, I still yelled. I couldn’t deal with feeling helpless to make her happy again. Slowly, I learned that I have to take care of my own emotions and let my own tears out. Now when my daughter cries I cuddle with her, she lets out her tears, and we both feel better afterward. We call it cuddling the cry away.”</p>
+</blockquote>
+
+<h2>Be the riverbank</h2>
+<p>Children’s emotions need to flow freely, like a river. That means parents need to be the<em> riverbank.</em> A riverbank safely contains the flow of feelings—preventing a flood—but doesn’t dam the flow by ignoring feelings, judging them, or forcing them to change. After all, a riverbank doesn’t decide how warm or cool the water in the river should be, or how fast or slow it should flow. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/15079075-mckenzie-river-5129717_640.jpg?itok=_kIst0Ss" width="320" height="213" data-insert-type="image" title="HardebeckMedia / Shutterstock" alt="HardebeckMedia / Shutterstock"></div>
+<div class="insertArea--origin subtext">Source: HardebeckMedia / Shutterstock</div>
+</div>
+</div>
+</div>
+<p>Parents who can express their own emotions in a healthy way can listen to children’s feelings without becoming overwhelmed by them. As a dad said to me recently, “I often tell my children something that I only learned recently for myself: If you are happy, you can laugh; if you are sad, you can cry.”</p>
+
+<h2>Be a safe home base </h2>
+<p>The riverbank is the river’s home. Children need a safe physical home, and they also need a safe emotional home, often called the secure home base. This isn’t always easy for adults. It’s hard to sit with intense feelings in children, especially difficult ones like anger or grief. </p>
+
+<p>Imagine two children who fight at a playground, and each goes running to their parent. One parent says, “Don’t come crying to me.” The other parent says, “Oh, poor baby, we will never come to this playground again. I’ll never let that mean child near you.” I see many instances of each extreme—dismissal of the child’s emotions or joining the child in emotional flooding.<em> </em> </p>
+
+<p>In between is a good level of emotional support: “That looked like it hurt your body <em>and</em> your feelings. How did you try to solve the problem? How did that work? What else might you try next?” </p>
+<p>If you can talk with both children, you might add: “Looks like you two are having some trouble. It’s hard when friends fight. Does anyone have any ideas on how to play together again?” </p>
+
+<h2>Be a safe home base for sadness</h2>
+<p>Children need a safe place for the free flow of <em>all</em> their feelings, but a safe home base is especially relevant for sadness. When children feel sadness, loneliness, or loss, they need a place of warmth and love where they can heal from that pain. </p>
+<p>Mabel was almost 3 when her parents began to talk to her about starting preschool. It would be her first time away from both parents for any extended period. She enjoyed her visit to the school, but asked her mother many times, “Will you be here with me?” When she understood that she would not be with her parents or grandparents at school, she lost her enthusiasm and was a bit sad. </p>
+
+
+<p>Mabel’s family understood that their job was to offer comfort and security, not to convince her it would be fun: “I understand that you’re sad. It’s hard to imagine having fun when you’ll miss your family.”</p>
+<p>A few days before school started, while her grandma gave her a bath, Mabel said to the little bath-toy animals, “You’re going to school.” Grandma picked up a toy and gave it a voice: “Will you be with me?” Mabel answered, taking on the role of the mother, “You’ll be by yourself.” Grandma had her animal say with worry, “Oh no!” Mabel responded gently, “Oh, it will be OK.” Then they made all the animals splash around in the water, with lots of laughter.</p>
+
+<p>This game provided Mabel with the ability to work through her sad feelings, and she made an excellent adjustment to preschool. Of course, she was sad sometimes when saying goodbye, but she knew she had a safe place at home to feel her sadness.</p>
+<p>It is inevitable that children will be sad at times. Children need to know that their parents can handle their heartbreak, without becoming so overwhelmed that they respond with anger or dismissal, such as: “Stop crying or I’ll leave you here all alone.” Sad children need to hear instead, “I’m here with you. This is very painful. Together we can hold this big feeling.” This may not make the sadness go away immediately. That’s not the goal. A mother confronted me at a workshop: “I listened to my son, like you said, and he was still sad.” Yes, it’s heartbreaking and true. Fortunately, it’s not a parent’s job to <em>take away</em> the feeling, but to sit with the child while the tears flow. The sadness will pass.</p>
+
+
+
+  
+
+
+<p>A mother recently shared with me an example of this new way of thinking about sadness:</p>
+<blockquote><p>“The other day my daughter came back from the neighbor’s house crying. The other children did not play with her, and she felt very sad. I squatted down and hugged her. At the same time, my brain was thinking fast. How should I solve the problem for her? For a moment, I had nothing to say, so I repeated what she told me and looked at her. I gave her a hug and sympathized with her. She finished her tears and had good ideas for resolving these friendship issues the next time. The trouble was solved easily. Our emotional connection worked much better than my usual approach, which was to tell her what she should do. In this case, it was a very good thing that I couldn’t think of any so-called good ideas!”</p>
+</blockquote>
+
+<p>It is time to stop seeing tears as a sign of weakness, especially in boys, who are expected to be tough from the very start of their lives. Many boys learn the “boy rules” and try to block all their tears from an early age. If they are “successful,” they are on the road to being emotionally constricted men. If they “fail,” they may be teased or bullied by other boys, or even by adults. This puts boys in an impossible position. The solution is for them to have safety at home, with parents, to let down their guard and let out their tears, even if they choose to hold them in sometimes with their peers. Boys are lucky if they know that <em>someone</em> sees them as OK no matter what they feel or how they show it. Boys are <em>really</em> lucky if they have adult men in their lives who are willing to accept tears, talk about emotions, and even cry themselves sometimes.</p>
+
+<p>Children’s sadness needs to flow freely, with a loving adult sitting nearby or holding them close. Even the toughest kids (and grownups) have tears inside that need to come out. </p>
+<h2>Some questions for reflection</h2>
+<ul>
+<li>When you were young, did anyone listen to you when you were sad? </li>
+<li>Did anyone gently comfort you until your tears were all finished? </li>
+<li>Did you find a safe place for your emotions later in your life? </li>
+<li>Do your children have a safe emotional home base? </li>
+<li>Can they confidently express <em>all</em> their feelings?</li>
+</ul>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/playful-parenting/202611/be-the-riverbank-for-childrens-emotional-rivers" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/playful-parenting/202611/be-the-riverbank-for-childrens-emotional-rivers</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/playful-parenting/202611/be-the-riverbank-for-childrens-emotional-rivers</guid>
+            <dc:creator><![CDATA[Lawrence J. Cohen Ph.D.]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/15079075-mckenzie-river-5129717_640.jpg?itok=8_4BExGC" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can You Talk Your Way Into a Job?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-09/moya_picture_2-removebg-preview.png.jpg?itok=_wCgDs9i" alt="Lindsay Weisner Psy.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Authenticity</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Can You Talk Your Way Into a Job?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How authenticity relates to job performance.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Interviewees who are perceived as being more genuinely themselves are more impressive during job interviews.</li><li style="margin-bottom:6px;">Authenticity is that which makes us human.</li><li style="margin-bottom:6px;">Applicants who express their opinions, discuss emotions, and avoid superficial responses do better at work.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Job interviews can feel overwhelming, but a 2024 study by Heimann &amp; Schmitz-Wilemy suggests that being yourself may be the key to landing that job. </p>
+<p dir="ltr">Research suggests that interviewees who are seen as more genuinely themselves are more likely to get the job. But do people who are more authentic during job interviews actually perform better at the job itself? </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/pexels-mariia-stepanova-2152382414-33471329.jpg?itok=m34BL-6a" width="320" height="480" data-insert-type="image" alt="Being yourself may help you get you the job you want." title="Mariia Stepanovaphoto / Shutterstock"></div>
+<div class="caption">Being yourself may help you get you the job you want.</div>
+<div class="insertArea--origin subtext">Source: Mariia Stepanovaphoto / Shutterstock</div>
+</div>
+</div>
+</div>
+<p dir="ltr">Researchers analyzed video recordings from 181 employed adults who participated in structured mock interviews and obtained job performance ratings from each participant’s supervisor. The study distinguished between verbal authenticity cues (what applicants say) and nonverbal authenticity cues (how they said it, including facial expressions, vocal style, and gestures).</p>
+
+<h2>How did they measure authenticity in the applicants?</h2>
+<p dir="ltr">Authenticity is that which makes us human. Think of authenticity cues as things a robot—or even artificial intelligence (AI)—is unlikely to do. Examples include expressing personal opinions, discussing personal topics from your private life (like whether a spouse is excited about this particular job opportunity), and talking about emotions in a way that feels sincere. </p>
+
+<p dir="ltr">For example, “I’m excited by this job opportunity and know I can rise to the challenge,” or “I know I don’t have some of the experience you’re looking for, but I’m eager to learn”: The latter feels or sounds more like a human connection because of the acknowledgment of a weakness and the desire to overcome it.</p>
+
+<p dir="ltr">Applicants who openly shared personal information, clearly stated their opinions, expressed emotions, and communicated in an expressive manner were more likely to be viewed as genuine and authentic by observers.</p>
+<h2>Does authenticity matter beyond a first impression?</h2>
+<p dir="ltr">To determine whether an applicant's “realness” carries weight further than simply a first impression, the researchers controlled for observers' initial ratings of warmth and competence. Authenticity cues continued to predict (perceived) authenticity even after these factors were taken into account. </p>
+
+<p dir="ltr">What does this mean? </p>
+<p dir="ltr">Our perception of someone being real with us in the moment is not entirely based on whether we think they are likeable or able to handle the job. Instead, we find ourselves subconsciously drawn to people who seem sincere. In sum, your foibles and flaws make you human. Yup, the way you stumbled a bit as you gave your answer or hesitated before responding to a question—that’s the part that makes you seem genuine, likeable, and, most importantly, management material. </p>
+
+<h2>Why is your humanity so important in a job interview? </h2>
+<p dir="ltr">Why aren’t we prizing perfect answers over genuine answers? Because gaining someone’s trust is crucial in the animal kingdom—and in the human kingdom as well. </p>
+<p dir="ltr">We need to know who the predators are so that we don’t feel like prey, and I’m guessing that job interviewers are often suspicious that candidates are blowing smoke at them in an attempt to secure the job. </p>
+
+<p dir="ltr">This study found that job interviewers paid particular attention to whether candidates expressed genuine opinions, shared their emotions (both good and bad), and communicated in a way that felt sincere. </p>
+<h2>How well did authenticity cues explain job performance? </h2>
+<p dir="ltr">Pretty well—but not for all people all the time. </p>
+
+<p dir="ltr">Perceived authenticity predicted who was most likely to get hired, but researchers also predicted that authenticity cues displayed during interviews would be associated with supervisor ratings of job performance.</p>
+<p dir="ltr">But it turns out that this prediction was only partially supported. </p>
+<p dir="ltr">Verbal authenticity cues showed a significant positive relationship with supervisor-rated job performance (r = .24), whereas nonverbal authenticity cues did not show a significant relationship (r = .09). </p>
+
+
+
+  
+
+
+<p dir="ltr">In other words, applicants who clearly expressed their opinions, discussed emotions, and avoided vague or superficial responses tended to perform better at work according to their supervisors. The superficial acts of appearing expressive, animated, or engaging through nonverbal behavior were not associated with better job performance.</p>
+
+<p dir="ltr">There were three verbal behaviors that were important when it came to job performance: clearly stating personal opinions, providing specific rather than vague responses, and discussing emotions when appropriate. The idea is that clear, direct interaction is helpful in both a job interview and in facilitating effective work relationships. Effective work relationships with open and honest communication are more likely to result in a secure and successful work environment. When employees are happy and feel supported by management, their employment goals are more likely to be met, and their bosses are more likely to approve of their leadership skills. </p>
+
+<h2>The takeaway</h2>
+<p dir="ltr">Don’t be a robot during a job interview; just be yourself. Stop obsessing over the “right” answer to a question and go for the truth: I’m not perfect, but I’m always looking to improve. And use your real-life language and wording, not something you copied out of a manual or learned from your AI best friend. It appears that either consciously or subconsciously, interviewers respond not only to your on-paper qualifications but also to you as a person. </p>
+
+<p dir="ltr">And for most of us, that’s a good thing. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/the-venn-diagram-life/202611/can-you-talk-your-way-into-a-job" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/the-venn-diagram-life/202611/can-you-talk-your-way-into-a-job</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-venn-diagram-life/202611/can-you-talk-your-way-into-a-job</guid>
+            <dc:creator><![CDATA[Lindsay Weisner Psy.D.]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-karola-g-5717786.jpg?itok=if8XEiex" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3 Insights If You're Looking for Love In Your "Golden Years"]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/photoofmarktravers.png.jpg?itok=4rcV_Py2" alt="Mark Travers Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Relationships</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">3 Insights If You're Looking for Love In Your "Golden Years"</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">There may be benefits to finding love later in life.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/golden.jpg?itok=8EoIFyJd" width="320" height="320" data-insert-type="image" title="SHVETS production / Pexels" alt="SHVETS production / Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: SHVETS production / Pexels</div>
+</div>
+</div>
+</div>
+<p>The idea of finding love later in life might seem unconventional to some. In fact, one of the key misconceptions around aging is the belief that experiences of love and sexuality inevitably diminish with time.</p>
+<p>Contrary to popular belief, many older adults continue to experience and seek romantic relationships well into their golden years, as you might have seen on ABC’s <em>The Golden Bachelor</em>. The need for companionship, emotional connection and intimacy remains fundamental to human well-being, regardless of age.</p>
+
+<p>Here are three insights on love and sexuality in the golden years, according to research.</p>
+<h2> </h2>
+<h2>1. Older Adult Sexuality Has Been Ignored for Too Long</h2>
+<p><a href="https://doi.org/10.1080/00224499.2011.603168">Research</a> shows that for older individuals, a positive perception of sex and regular opportunities for sexual expression have been linked to physical and mental health benefits. However, this aspect of their lives tends to be overlooked or even dismissed by society.</p>
+
+<p>A 2023 <a href="https://doi.org/10.1080/14681994.2023.2259325">study</a> found that older individuals may experience shame and guilt about discussing their sexuality with others due to the stigma they face. Participants reported that without these important conversations, they found it challenging to understand what is considered normal or “appropriate” sexual behavior for their age. They expressed a strong desire to live fully and to allow themselves to be seen as human beings with sexual needs.</p>
+
+<p>Researchers highlighted the need for sexual health in older adults to be destigmatized. Discussions about sexual satisfaction are often redirected to potency-enhancing drugs by healthcare professionals rather than providing a much-needed space for older adults to express their sexual concerns, desires or fears.</p>
+
+<p>As a society, we can all play a role in normalizing these conversations by challenging what aging means for one’s romantic and sexual life.</p>
+<h2>2. Sexual and Romantic Dynamics Evolve With Age</h2>
+<p>Finding love when older often involves a shift in priorities. <a href="https://pubmed.ncbi.nlm.nih.gov/26215718/">Research</a> shows that while dating online, younger adults tend to highlight themselves, their achievements, attractiveness and sexuality, older adults display more positive emotions, emphasizing the importance of emotional connection and health in their profiles.</p>
+
+<p>In a 2021 <a href="https://doi.org/10.1177/0192513X20982024">study</a>, most older adults showed interest in a fun-loving and compassionate partner. Further, older adult women sought partners who were honest and would engage in leisure activities with them, whereas older men were drawn to physically attractive and emotionally supportive partners.</p>
+<p>Additionally, <a href="https://doi.org/10.1080/14681994.2023.2259325">research</a> highlights the importance of emotional safety, security and open communication in older adult relationships. For some older couples, sexual activities might occupy less space in the relationship and an emotional connection based on shared interests such as socializing with friends or traveling could take precedence.</p>
+
+<p>Despite a decrease in such sexual spontaneity, many older individuals view this change positively. Planning sexual activities can become a deliberate choice, leading to partners prioritizing each other's pleasure, while also communicating about sexual expectations and concerns that arise with age-related physical changes.</p>
+
+
+<h2>3. Past Experiences Are Lessons Learned</h2>
+<p>It is important to acknowledge that aging brings unique challenges. Past traumas, health concerns and the loss of previous partners can cast shadows on the path to future romance. Widows and widowers, for example, may grapple with feelings of guilt or loyalty to a deceased spouse.</p>
+
+<p>A 2022 <a href="https://journals.sagepub.com/doi/10.1177/01640275221113219?icid=int.sj-abstract.citing-articles.7">study</a> found that one’s perception of aging is influenced by transitions in and out of a marriage. Divorced or widowed individuals felt less positively about aging compared to those who stayed married. On the other hand, individuals who got married or entered a new marital relationship felt less negatively about aging than those who remained single.</p>
+
+
+
+  
+
+
+<p>Additionally, due to past experiences, many older adults are turning to cohabitation as an alternative to getting remarried. <a href="https://pubmed.ncbi.nlm.nih.gov/25382879/">Research</a> shows that there is no significant difference in relationship quality in both of these situations.</p>
+<p><a href="http://dx.doi.org/10.1007/978-3-030-37712-0_11">Research</a> in 2020 found that older women in particular may not want to remarry and instead seek a companion with whom they can maintain their autonomy and financial independence, after years of likely having caregiving obligations.</p>
+
+<p>Mature love, then, has various forms and involves a deep understanding of oneself and a lifetime of lessons. Past experiences can be transformed into wisdom and the resilience of the human spirit is evident in stories of seniors who, despite facing challenges, embrace the opportunity to love and be loved again.</p>
+
+<p>The pursuit of love knows no age limit. The golden years present a unique and meaningful opportunity for seniors to rediscover the joys of romantic connection. With a lifetime of experiences to draw upon, the journey to finding love and embracing sexuality later in life can be a complex but rewarding experience.</p>
+
+<p><em>A version of this post also appears on Forbes.com.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/social-instincts/202611/3-insights-if-youre-looking-for-love-in-your-golden-years" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/social-instincts/202611/3-insights-if-youre-looking-for-love-in-your-golden-years</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/social-instincts/202611/3-insights-if-youre-looking-for-love-in-your-golden-years</guid>
+            <dc:creator><![CDATA[Mark Travers Ph.D.]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-shvets-production-8972536.jpg?itok=MoCEHVNo" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[When Being Here Now Is Not Enough, Try a Time Travel Novel]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/20180330_172048.jpg?itok=E88GlKnx" alt="Susan K Perry Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Fantasies</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Being Here Now Is Not Enough, Try a Time Travel Novel</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Go back in time or dare to go forward? Sci-fi books worth the trip.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/2026-11-11_-_melting_clock.jpg?itok=Jqnl74xr" width="320" height="212" data-insert-type="image" alt="Surreal melting clock sculpture in Andorra la Vella." title="Pixabay / Used with permission"></div>
+<div class="caption">Surreal melting clock sculpture in Andorra la Vella.</div>
+<div class="insertArea--origin subtext">Source: Pixabay / Used with permission</div>
+</div>
+</div>
+</div>
+<p>I’ve always loved time travel tales. A psychological theme of my life has been a sort of nostalgia: a yearning to return to earlier times. It’s also a longing to jury-rig the implacable pace of time itself, the way it goes forward day by day, making our pasts inaccessible while our futures sneak up on us. </p>
+
+<p>My fantasy of traveling back or zooming ahead for a peek seems common; lately, many novels and films have made time travel a popular subject. I decided to catch up on some newer novels. What follows are my thoughts on one I especially enjoyed.</p>
+<h2>Dare to Imagine</h2>
+<p>Claire North is my new favorite author. With a backlist of numerous award-winning novels, the newest one is the first one I’ve read. <a href="https://www.hachettebookgroup.com/titles/claire-north/as-we-fall-through-time/9780316586467/?lens=orbit)"><em>As We Fall Through Time</em></a> is a gripping adventure that maintains a fast pace and an imaginative journey from the distant past to the far future. Especially toward its complex and breathless finale, I found myself seeing this book as a film, complete with great CGI or other technological methods that activate all of our senses at once. </p>
+
+<p>Still, we don't really need a film with an author who showcases this level of verbal talent. The novel is cross-cultural, diverse in countless ways, including a protagonist who switches from male to female and back (North is nonbinary), a grand mix of smart old-style and up-to-the-minute writing: I loved it. Not to mention scenes set in a multitude of world cities and pre-cities. </p>
+
+<h2>3 Ways the Writing Reflects Truth</h2>
+<p>Here are three aspects of this novel that I found particularly noteworthy:</p>
+<ol>
+<li><strong>Its true-to-life psychology</strong>. For instance, after the protagonist’s life partner can no longer be “saved” by time-travel loopholes, he shows up again and again, though fading, ghost-like. This is essentially accurate about how, when a loved one passes on, their consciousness seems to invade that of the bereaved. It's normal for people to talk to their lost ones, wondering what they would prefer (or would have preferred) if given a choice, asking them about and explaining to them one’s current choices. You don’t need to believe in or enjoy reading about ghosts or the supernatural to recognize how insightful such scenes are, in their own metaphoric way.</li>
+<li><strong>The author’s mastery of detail</strong>. The best authors know how to show an emotional state with the best combination of details. An example combining stark “facts” with emotional resonance: “Alone in the cold afternoon shadows, Cal lies weeping on the cracked, worm-chewed, mushroom-sprouted floor of the darkened, shattered cottage that never was his home.”</li>
+<li><strong>North’s ability to stretch the reader’s mind</strong> in both psychological and complex philosophical directions. Consider this concept the narrative poses: Should nature take the disastrous course humans have set it on, or should "time-travelers" try to save mankind, even though they'd cause and then have to try to counter the resulting paradoxes? What if succeeding means the next conscious creatures after the deadly ice melts many centuries from now will not have a turn to live? Claire North handles such complexity with verve. </li>
+</ol>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/creating-in-flow/202611/when-being-here-now-is-not-enough-try-a-time-travel-novel" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/creating-in-flow/202611/when-being-here-now-is-not-enough-try-a-time-travel-novel</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/creating-in-flow/202611/when-being-here-now-is-not-enough-try-a-time-travel-novel</guid>
+            <dc:creator><![CDATA[Susan K Perry Ph.D.]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/amduma-clock-6371076.jpg?itok=TwwD8n0H" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
