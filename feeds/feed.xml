@@ -4,222 +4,338 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 06:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 16:14:41 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 06:14:44 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 16:14:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Let’s Not Scroll to the Next Forever]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-05/yael_hallak__1_.png.jpg?itok=jzf-QSSB" alt="Yael Hallak" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Let’s Not Scroll to the Next Forever</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How former CNN correspondent Chris Moody managed to switch off his home internet.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Willpower can't compete with billion-dollar algorithms designed to capture our attention.</li><li style="margin-bottom:6px;">Create phone-free spaces where technology simply doesn't belong.</li><li style="margin-bottom:6px;">Build systems that make unwanted habits harder, rather than relying on discipline.</li><li style="margin-bottom:6px;">Choose activities with a clear beginning and end, not endless scrolling.</li>
-            </ul>
-          </div>
-                    <p dir="ltr">Chris Moody was a senior political correspondent with CNN for many years and is now a journalism professor at Appalachian State University in Boone, NC. He lives in a log cabin in a mountain hollow with his wife and their three-year-old son. The cabin has no cell signal. Over three years ago, they cancelled their home internet and went with a landline (intended to be a temporary measure for one summer). They write about it all in their Substack, The Opt Outers. I interviewed him about why willpower can’t compete with our devices, and what people who can’t move to the mountains can do instead. </p>
+            <title><![CDATA[Should Parents Genetically Enhance Their Children?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-10/20220519_083824-removebg-preview.jpg?itok=wGcI7Sfp" alt="Walter Veit Ph.D. " style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Genetics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Should Parents Genetically Enhance Their Children?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">If parents must pick the best possible child, should they also edit the genes?</h2><p style="font-size:0.9em;color:#666;">Posted November 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <p>Imagine a world where everyone is healthy, intelligent, long-living, and happy. Intuitively, this seems wonderful, albeit unrealistic. However, recent scientific developments in genetic engineering, namely CRISPR-Cas, bring the question into public discourse: how the genetic enhancement of humans should be evaluated morally. This is why I've recently published an academic <a href="https://walterveit.com/wp-content/uploads/2021/02/procreative_beneficence_and_genetic_enhancement.pdf">article</a> on the topic.</p>
 
-<p dir="ltr"><strong>Yael Hallak: I deleted my social media accounts six months ago. Then I came across the password to an old Instagram account, and I'm back to scrolling. I can't move to the mountains. What can we do as a species?</strong></p>
-<p dir="ltr"><strong>Chris Moody:</strong> The tech companies know what grabs our attention, and they feed it to us (that's how they make their money). Billions of dollars are being thrown at us, and no human will ever be able to win that battle every time, whether you're trying to find an old password or simply want to switch your mind off.</p>
+<p>In 2001, when preimplantation genetic diagnosis (PGD) and in vitro fertilisation (IVF) enabled parents to select from multiple embryos, Julian Savulescu introduced the principle of procreative beneficence (PPB), arguing that parents have obligations to choose the child expected to have the best life. In this post, I argue that accepting the PPB and the consequentialist principle (CP) that two acts with the same consequences are morally on par commits one to accepting the parental obligation to genetically enhance their prospective children—that is, embryos—a position Savulescu doesn’t explicitly endorse but I argue is committed to.</p>
 
-<p dir="ltr">So create what I call a Sabbath space — a room, a floor, a corner of the house, where these technologies simply can't go in. Some people go down the route of "landlining," where the phone is left plugged in on the kitchen counter, and you're only allowed to use it there, standing. What would have been three hours on the couch comes down to three minutes. Think about whether you actually need Wi-Fi at all or whether a wired connection in one room would be sufficient. And make the rules when you're sober; you don't want to be relying on yourself when you're drunk.</p>
+<p>Savulescu, Sandberg, and Kahane jointly propose the following definition for human enhancement: “[a]ny change in the biology or psychology of a person which increases the chances of leading a good life in the relevant set of circumstances.” According to this welfarist definition, a conception of normality is not needed to define enhancement, as we do not define an enhancement as being better than normal, but simply being better full stop. Medical treatments are therefore just a form of enhancement. If a genetic alteration in an embryo is not expected to lead to a better life for that human, then it is simply not an enhancement.</p>
 
-<p dir="ltr"><strong>YK: Why not just go with discipline?</strong></p>
-<p dir="ltr"><strong>CM:</strong> Even if you're not using it, the phone is still calling; it's like the sirens calling out to Odysseus. Every moment is a decision, and decision fatigue wins. That's why we have a scoop of ice cream at 9 p.m. and not at 9 a.m.</p>
-<p dir="ltr">I drove fifteen minutes to a studio for this interview. My couch would have been far easier, but it's worth it. When I'm finished in town, the laptop goes down, and at home I couldn't have checked email if I'd wanted to. The people who need me have my landline. I'm not living in the 1890s, more in the 1990s.</p>
+<p><a href="https://www.youtube.com/watch?v=dUP8_H-2AEM">Consequentialists</a> are only concerned with outcomes; how these outcomes are achieved is morally irrelevant. Killing and letting die are thus ceteris paribus morally equivalent. To formulate my argument:</p>
+<p>(1) Those who want to be parents have the obligation to select the child that is expected to have the best life, or at least as good a life as the others, based on the relevant available information (= the PPB).</p>
 
-<p dir="ltr"><strong>YK: During the recent bank and flight outages, I was constantly refreshing X. Information is what makes me feel in control. My husband is always telling me to put the phone down and look out of the window.</strong></p>
-<p dir="ltr"><strong>CM:</strong> Today's channels don't give you any data that's going to help. They just feed an appetite that can't be quenched; they're just empty calories. You can learn what you need from the Sunday <em>New York Times</em> once a week. A reporter on a presidential campaign needs real time. Most people don't.</p>
+<p>(2) Application of the PPB leads to the creation of children that are expected to have the best life or a life at least as good as without the application of the PPB, based on the relevant available information.</p>
+<p>(3) If act A and act B have the same expected consequences, then they are morally on par. (= the CP)</p>
 
-<p dir="ltr">Look at the boomers, the richest generation in history, spending their days being angry online. Do they have more information? Possibly. Are they any happier? No.</p>
-<p dir="ltr"><strong>YK: You teach undergrads; how are they getting on?</strong></p>
-<p dir="ltr"><strong>CM:</strong> They know the monster is coming for them and they think they've been had. Some of them, the ones brought up by phone-obsessed parents, are completely radicalised: "I'll never ignore my child the way my own did." When they see my Nokia flip phone, they go absolutely mental, and a few of them come back with "I've got one!" They're just as hooked as everyone else, just as keen to get their hands on one, but they're thinking about it very carefully. I'm hopeful.</p>
+<p>(4) Genetic enhancements in embryos lead to the creation of children that are expected to have the best life or a life at least as good as without genetic enhancements, based on the relevant available information.</p>
+<p>(5) Therefore, those who want to be parents have the obligation to genetically enhance embryos.</p>
 
-<p dir="ltr"><strong>YK: So many people want this life. What enabled you to get it?</strong></p>
-<p dir="ltr"><strong>CM:</strong> My first real job post-college was in social media (at the very beginning of it), and I saw what the algorithms did to my friends. I'm an extrovert, a golden retriever when the doorbell rings, and suddenly everyone just went off and into their screens. Mostly it's my wife, really. She's the one who drives it. Left to my own devices, I go with the flow.</p>
+<p>The ‘slippery slope’ is genuine.</p>
+<h2>Risks, High or Low</h2>
+<p>An objection often put forward is that genetic enhancements have risks that are too high or unknown and would make the life of the person targeted worse. However, when genetic alterations are expected to be more harmful than beneficial, they do not count as genetic enhancements and are therefore ruled out. Demanding a risk of zero to the targeted agents is over-demanding; otherwise, medical treatments would never be at the point they are today. In 2015, Chinese researchers released an article showing that the gene editing of human embryos is technologically possible.</p>
 
-<p dir="ltr"><strong>YK: What do you do at dinners where everyone's on their phone?</strong></p>
-<p dir="ltr"><strong>CM:</strong> At our place, it just works itself out as we don't have phones. People come and ask for the Wi-Fi password, and I say we don't have one; there's a landline if you want it. They never do. We don't have to take the rubbish we've been given; we can just eat the better stuff.</p>
+<h2>Freedom</h2>
+<p>Still, many therapies and treatments in medicine are often deemed obligatory, even though there is no consent, for example, vaccination. Also, everyone should be familiar with parents sending their children to school, even though their children might not have given their consent. As a child, I certainly wondered who gave my parents my permission to do so. Just as education makes us more autonomous, genetically increased intelligence would serve the same purpose. Genetic enhancements aim to increase rather than limit one's possible choices in life.</p>
 
-<p dir="ltr"><strong>YK: Is there anything you're missing? Podcasts, audiobooks?</strong></p>
-<p dir="ltr"><strong>CM:</strong> Not at all. I download the episodes in town and listen to them at home whilst doing the dishes. On Friday nights we watch a library DVD on a projector and a pull-down screen. It takes ten minutes to set it up, and that friction is important. Everything has a beginning and an end. It's not "let's just scroll to the next forever." It's: that's all we've got.</p>
+<h2>Equality</h2>
+<p>There is a rather famous critic against genetic enhancements from Mehlman and Botkin, that is, being too expensive and therefore even when all parents follow their obligation, the children of rich parents will be far more enhanced or those of poor parents won’t get any enhancements at all. Concerning the worry of unequal access through wealth, Savulescu argues that this is not an objection to the PPB, hence genetic enhancements, but to all purchases of benefits like better education or healthcare. If equality matters, then these benefits should be available to all.</p>
 
 
 
   
 
 
-<p dir="ltr"><strong>YK: So you just have more willpower than the rest of us?</strong></p>
-<p dir="ltr"><strong>CM:</strong> No! I have absolutely no willpower. I'm a disaster. When I'm on the road, and there's Wi-Fi all over the place, I just go absolutely mad and end up with no idea how the time has gotten away from me. The solution is systems, really. Less friction for the good things, more for the bad. In New York, we put our phones in baskets by the door, and we had the router on a timer, which would turn it off from 8 p.m. to 8 a.m. If we're going to rely on willpower, we're all going to fail. We all are.</p>
+<p>That is to say, those who accept the PPB and the CP must bite the bullet and accept that parents have the obligation to genetically enhance their embryos. As a consequentialist, Julian Savulescu should have no problem doing so. </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/beyond-willpower/202611/lets-not-scroll-to-the-next-forever" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/should-parents-genetically-enhance-their-children" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/beyond-willpower/202611/lets-not-scroll-to-the-next-forever</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/beyond-willpower/202611/lets-not-scroll-to-the-next-forever</guid>
-            <dc:creator><![CDATA[Yael Hallak]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-cottonbro-8088495.jpg?itok=TnOOtfiG" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/should-parents-genetically-enhance-their-children</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/should-parents-genetically-enhance-their-children</guid>
+            <dc:creator><![CDATA[Walter Veit Ph.D.]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-framesbygaurav-36746428.jpg?itok=ijmOSDsd" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[A Renewed Humanism]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-07/Clemente-Goodman.jpg?itok=N3uk6pAt" alt="Matthew Clemente, Ph.D. and David  Goodman, Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Artificial Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">A Renewed Humanism</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Pope Leo, human dignity, and creativity in the age of AI.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Should I Let My Child Play Grand Theft Auto?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/best_photoshop-removebg-preview.jpg?itok=JMKKwgEs" alt="Andrew Fishman LCSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Should I Let My Child Play Grand Theft Auto?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How the video game affects people and what parents should know.</h2><p style="font-size:0.9em;color:#666;">Posted November 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Pope Leo's encyclical on human dignity and AI has been praised for its moral seriousness and insight.</li><li style="margin-bottom:6px;">In part, it helps us to think about the ambiguous nature of language and how that shapes our relation to AI.</li><li style="margin-bottom:6px;">Today we seem to want clear, straightforward ways of communicating.</li><li style="margin-bottom:6px;">But perhaps more poetic or artistic modes of speech reveal more about the human condition.</li>
+              <li style="margin-bottom:6px;">Grand Theft Auto VI has violent and sexual content parents may find objectionable.</li><li style="margin-bottom:6px;">The game is unlikely to psychologically harm players, but parents should proceed cautiously.</li><li style="margin-bottom:6px;">There are many questions parents should consider before deciding to let their children play.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Tomorrow, the biggest video game of all time will be released. The latest game in the blockbuster <em>Grand Theft Auto</em> series took 13 years and over a billion dollars to make. It’s predicted to be the <a href="https://www.nbcnews.com/nightly-news/video/-grand-theft-auto-vi-could-be-biggest-entertainment-launch-ever-273556549787">biggest opening of any entertainment product in history</a>.</p>
+<p dir="ltr">The<em> Grand Theft Auto</em> games are an extremely violent, darkly satirical exploration of American culture. Currently, the game will only include a single-player story, but a multiplayer version is slated for release next year. I wrote previously about how to keep your kids safe while playing multiplayer games <a href="https://www.psychologytoday.com/us/blog/video-game-health/202511/roblox-isnt-a-game">here</a>. </p>
+
+<p dir="ltr">It is unclear what content this game will include, as no one has discussed it publicly. If leaks are to be believed, the game will feature full nudity, including <a href="https://www.levelup.com/en/news/gta-vi-narrowly-avoids-ban-over-explicit-nudity-concerns/">visible genitals and sex scenes</a>. Based on previous entries, it will certainly feature drug use, offensive language including racial slurs, and frequent gun violence, including the ability to shoot police officers. </p>
+
+<p dir="ltr">The game will <em>absolutely not</em> be meant for children. It is rated “M for Mature,” which means it is designed to be played only by people age 17 and older. However, many young people, especially high school boys, want to play it. I have worked with a number of young people who regularly play the previous game in the series, some of whom started as young as nine years old. </p>
+
+<p dir="ltr">Some parents might decide to make an exception for their children, as they do with some R-rated movies. My parents let me watch some R-rated action movies like <em>The Matrix</em> as a young teenager, but they definitely would not have let me watch movies with explicit sexual content or graphic violence. </p>
+<p dir="ltr">Parents understandably have questions about whether the game is appropriate and whether it will influence their children like the media suggests. </p>
+
+<h2>Will This Make Players Violent?</h2>
+<p dir="ltr"><em>GTA</em> games are <em>extremely</em> violent. I likely killed thousands of computer-controlled characters in the process of completing <em>GTA V</em>. They are not meant for children. </p>
+<p dir="ltr">However, there is no evidence that the game, or any other violent media, will make players violent in the real world. The studies that purport to show a connection between violent video games and aggression often have serious methodological problems. Further, despite what the news media suggests, school shooters are actually less likely to enjoy violent video games than their peers. I wrote about this in more depth <a href="https://www.psychologytoday.com/us/blog/video-game-health/201907/blame-game-violent-video-games-do-not-cause-violence">in a previous article</a>. </p>
+
+<h2>Can Media Change Who We Are?</h2>
+<p dir="ltr">Although video games are unlikely to make children violent, there is some evidence that our opinions and values can be shaped by the media we consume.</p>
+<p dir="ltr">For example, people who live in the Nadroga province of Fiji had traditionally viewed larger bodies as healthy and desirable. This began to change starting in 1995 when they started receiving outside television signals. <a href="https://cruxpsychology.ca/wp-content/uploads/2021/12/Beckeretal.2002.509-514.pdf">Researchers surveyed a group of teen girls</a> within a month of American television reaching their region and again three years later. Historically, dieting was rare in this area, and none of the girls reported vomiting to control their weight in 1995. But by the second survey, 69 percent of these same girls had started to diet, and 11 percent had begun intentionally vomiting to control their weight. That is, just three years of exposure to Western media seems to have fundamentally altered how the entire region viewed body image. </p>
+
+<p dir="ltr">Importantly, <em>GTA</em> is not alone in featuring problematic elements. Each can be found in other movies, games, and even the news on TV. It is unlikely that this game will be the first time an older teenager hears racial slurs or sexual language, or sees nudity or violence. Most recent R-rated crime movies feature all of the above. Modern horror movies like <em>Saw</em> or <em>Hereditary</em> feature much more graphic violence than <em>GTA</em> does. Ultimately, this is why the series’ satire is relevant; the games are simply a more extreme version of the culture in which many of us have grown up. </p>
+
+<p dir="ltr">It is therefore unlikely that simply playing this game will have more of an effect on its players’ values than their other daily cultural experiences. The aforementioned girls in Fiji, whose body image was drastically changed, were being exposed to a foreign culture they had not experienced before. American teens are already saturated with media showing extreme violence, sexuality, and crime. </p>
+
+<p dir="ltr">However, people who consume more violent media tend to believe that the world is more dangerous than it really is. Researchers who have studied this “mean world syndrome” have found that <a href="https://www.cogitatiopress.com/mediaandcommunication/article/view/8">people who consume more media are more likely to fear violence</a> and trust others less. If playing this game drastically increases the amount of time an individual spends consuming media, it is possible that they will believe themselves to be in more danger in the real world than they did before playing. </p>
+
+
+
+  
+
+
+<h2>How to Protect Younger Players</h2>
+<p dir="ltr">Parents who do not want their children to play this game should know that their children can simply download the game independently. Nearly all game consoles and computers now permit users to purchase the game digitally with a credit card or console-specific currency. To prevent this, concerned parents can set parental locks on game devices, including preventing purchases of games rated “M for Mature” (similar to blocking all R or NC-17 movies), or requiring a password before any digital purchases. </p>
+
+<p dir="ltr">I also recommend that parents who are unsure whether their children should play such a game supervise their children or play along with them. <a href="https://www.psychologytoday.com/us/blog/video-game-health/202107/why-you-should-play-video-games-your-kids">As I wrote previously</a>, this not only provides the opportunity to bond with children through their interests, but also lets parents talk about the game’s content and provide valuable context to what the children are experiencing. When the multiplayer version is eventually released, make sure that your kids are not chatting with strangers by turning off public chat. </p>
+
+<h2>Should I Let My Child Play?</h2>
+<p dir="ltr">Whether to let your children play a game like this is a personal decision. Reasonable parents can choose to ignore the recommended age if they understand the content of the game and believe their children are emotionally mature enough to consume it. </p>
+<p dir="ltr">Below is a non-exhaustive list of questions parents should consider before purchasing the game for their children:</p>
+
+<ol>
+<li dir="ltr">Do I believe my child is mature enough to handle the game’s sexual content and will not emulate the problematic aspects of the sexuality they witness? </li>
+<li dir="ltr">Can my child emotionally manage seeing and perpetrating digital violence without becoming afraid? </li>
+<li dir="ltr">Are my child’s values strong enough to view characters acting immorally and not imitate them? </li>
+<li dir="ltr">Does my child have a history of substance-use issues that may be triggered by interacting with drug-related content? </li>
+<li dir="ltr">Do I trust that my child will talk to me about questions they have about the game’s content? </li>
+<li dir="ltr">Does my child understand that characters can be protagonists without being “good guys”? In other words, could my child watch <em>Scarface</em> without aspiring to be Tony Montana?</li>
+</ol>
+
+<h2>Conclusion</h2>
+<p dir="ltr"><em>Grand Theft Auto VI</em> will have a number of elements which most parents would find extremely objectionable. These are not likely to psychologically harm people who are mature enough to manage the subject matter and understand it in context. </p>
+<p dir="ltr">However, the game’s content is highly inappropriate for most young people, and parents should proceed cautiously. If parents decide to buy it for their children, I recommend supervising them while playing and having open conversations about what their children are witnessing and experiencing.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/video-game-health/202206/should-i-let-my-child-play-grand-theft-auto" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/video-game-health/202206/should-i-let-my-child-play-grand-theft-auto</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/video-game-health/202206/should-i-let-my-child-play-grand-theft-auto</guid>
+            <dc:creator><![CDATA[Andrew Fishman LCSW]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/official_cover_art_landscape.jpg?h=f8ce90b6&amp;itok=sGHfXBMd" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why We Get People Wrong]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-10/signal-2026-09-23-00-27-51-363-removebg-preview_1_.png.jpg?itok=qytc7YOd" alt="Tara-Lyn Camilleri Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Education</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why We Get People Wrong</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">What if our assumptions about human behaviour are holding us back?</h2><p style="font-size:0.9em;color:#666;">Posted November 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/why_we_get_poeple_wrong_image.jpg?itok=eQVHy3fk" width="320" height="256" data-insert-type="image" alt="Two people with different opinions" title="Getty Images, CreativeDesignArt"></div>
+<div class="caption">Two people with different opinions</div>
+<div class="insertArea--origin subtext">Source: Getty Images, CreativeDesignArt</div>
+</div>
+</div>
+</div>
+<p>We get a lot of things wrong about one another. We often think we understand what other people think of us, and assume that the handful of actions we observe tells us something meaningful about their personality as a whole. Someone behaves rudely, and we conclude they are an unpleasant person. Someone struggles to find work, and we wonder whether they are trying hard enough. We interpret other people’s behaviour through our own experiences, expectations and beliefs, often with considerable confidence and remarkably little information<sup>1</sup>.</p>
+
+<p>Psychologists have spent decades documenting the many ways our perceptions of others can be distorted; we are frequently wrong about others and even ourselves. These biases have consequences far beyond our interpersonal relationships. They shape whom we trust, whom we blame, what we believe people deserve and, ultimately, the institutions and policies we create and sustain.</p>
+
+<p>Many of us feel we are living through unprecedented times. Particularly since 2020, rapid technological change, political polarisation and growing uncertainty about the future have made the world feel increasingly difficult to understand. But people have felt similarly at other points in history, and often with good reason.</p>
+
+<h2>A historical problem that sounds familiar</h2>
+<p>In nineteenth-century Britain, the Industrial Revolution was transforming almost every aspect of society. Population growth, industrialisation and urbanisation brought extraordinary economic opportunities alongside increasingly visible poverty, overcrowding and disease. Governments were faced with social problems on a scale that existing institutions were poorly equipped to manage.</p>
+
+<p>One response was the Poor Law Amendment Act of 1834<sup>2</sup>.</p>
+<p>For centuries, responsibility for assisting people experiencing poverty had rested largely with local parishes. Someone who became ill, lost their employment or could no longer support their family might receive money, food or other assistance without having to leave their home. The system was inconsistent, often ungenerous and increasingly expensive, but it afforded local authorities some discretion to respond to individual circumstances.</p>
+
+<p>The 1834 reforms sought to make poor relief more efficient, less costly and less attractive to those thought capable of supporting themselves. Administration was reorganised, and assistance was increasingly tied to entering a workhouse. Relief outside the workhouse continued in some circumstances, for the sick and elderly, but even then, many elderly and disabled people still ended up in the workhouse.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/oliverasking_for_more.png.jpg?itok=uvJcPv3K" width="320" height="379" data-insert-type="image" alt="Oliver Asking for More; George Cruikshank, 1911" title="George Cruikshank, Colour Illustrations, Charles Dickens, Oliver Twist, 1911."></div>
+<div class="caption">Oliver Asking for More; George Cruikshank, 1911</div>
+<div class="insertArea--origin subtext">Source: George Cruikshank, Colour Illustrations, Charles Dickens, Oliver Twist, 1911.</div>
+</div>
+</div>
+</div>
+<p>Workhouses were deliberately designed to be places people would enter only out of desperation<sup>2</sup>. We are familiar with these institutions through Charles Dickens, whose <em>Oliver Twist</em> depicts a world in which poverty is often treated as a moral offence. Families were often separated, food really was gruel, and residents were subjected to arduous work and strict discipline. The severity was not an unfortunate consequence of inadequate resources but part of the intended deterrent.</p>
+
+
+<p>The reasoning was straightforward enough: If assistance was too easy or readily available, people might become dependent upon it rather than seek employment. In fact, educating children was, in theory, supposed to be part of a workhouse remit, but in practice the standard varied considerably. Make assistance sufficiently unpleasant, and those capable of supporting themselves would presumably find a way to do so.</p>
+
+<p>Of course, this reasoning depended on a particular understanding of why people were poor in the first place. A person unable to find employment, earning wages insufficient to support a family, or living with illness could not necessarily improve their circumstances through the threat of punishment. But policies built around assumptions about individual motivation often failed to account for precisely those conditions.</p>
+
+
+
+  
+
+
+<p>I don’t think the nineteenth-century reformers were simply cruel or stupid. They were attempting to manage substantial social and economic changes with the knowledge, institutions and political priorities available to them. Some were undoubtedly concerned with improving administration and reducing costs, while others had a more punitive understanding of poverty. The reforms also served the interests of those who wanted to reduce their contributions towards poor relief.</p>
+
+<p>But the consequences illustrate something important: Our explanations of human behaviour influence the solutions we consider reasonable, even when those explanations are incomplete or mistaken.</p>
+<h2>What has changed, and what hasn’t?</h2>
+<p>Nearly two centuries later, we are living through another period of extraordinary transformation. Technology has changed how we work, communicate, form relationships and participate in society. Our scientific understanding of the world has expanded beyond anything nineteenth-century reformers could have imagined.</p>
+
+<p>And, unlike our predecessors, we now possess the knowledge and technological capabilities to address many problems that once seemed insurmountable.</p>
+<p>We have developed effective technologies that can substantially reduce greenhouse gas emissions<sup>3</sup>. Advances in agriculture have enabled us to produce enough food globally to feed the world’s population, despite its extraordinary growth<sup>4</sup>. Vaccines, public health measures and medical research have given us tools to prevent and respond to devastating diseases.</p>
+
+<p>But climate change continues, millions experience hunger, and preventable diseases still cause enormous suffering.</p>
+<p>These problems are complex, and scientific and technological limitations remain. But increasingly, the question is not simply whether humanity possesses the knowledge or resources to improve people’s lives. The obstacles are frequently social, cultural, economic and political. They involve how resources are distributed, how institutions operate, whose interests they serve, and whether people can cooperate towards shared goals.</p>
+
+<p>And underlying many of these obstacles are the explanations we give for why people believe and behave as they do.</p>
+<p>Consider a more recent example of advocacy for punitive measures. Over several decades, psychiatrist James Gilligan studied violence in American prisons and sought to reform the way prisoners were treated<sup>5,6</sup>. In Massachusetts prisons, where violence, humiliation and abuse were commonplace, he developed reforms that emphasised treating prisoners with respect, providing psychological treatment and creating opportunities for education<sup>7</sup>.</p>
+
+<p>Gilligan reported significant reductions in violence, and his research into prison education found extraordinarily low rates of reoffending among prisoners who completed college degrees. Even those regarded as among the most violent could, under different conditions, behave quite differently. But when William Weld became governor of Massachusetts in 1991, he opposed providing prisoners with free college education, arguing that people who couldn't afford university might start committing crimes just to get a degree in prison. His administration subsequently withdrew much of the state funding and undermined education delivery, despite reported drops in recidivism<sup>7,8</sup>. Sound familiar?</p>
+
+<p>Neither understanding nor policy exists independently of the other. Our beliefs influence the systems we support, while those systems shape the circumstances and behaviours we subsequently observe. The resulting outcomes can then appear to confirm the assumptions that helped produce them—making the system self-reinforcing.</p>
+
+<p>Institutions are also shaped by competing interests, and some people benefit considerably from arrangements that disadvantage others. Those with influence may understand perfectly well what a particular policy or economic incentive is likely to produce.</p>
+<p>But the interests of a relatively small number of powerful actors can become difficult to challenge when much larger populations are persuaded that the existing arrangements serve their interests too, or that the problems those arrangements create are simply the fault of the individuals experiencing them.</p>
+
+<p>This is where our understanding of one another becomes immensely consequential.</p>
+<p>The way we explain another person’s circumstances influences how willing we are to help them, what we consider fair, and whether we recognise a problem as something that requires societal intervention. These explanations become part of our cultural understanding of how the world works, and help determine which institutions we defend and which we are prepared to change.</p>
+
+<h2>Why we get people wrong</h2>
+<p>This blog is about those explanations: How we come to understand other people’s behaviour, why we so often get it wrong, and what the consequences are for the societies we live in. I’ll draw on research across psychology, biology, anthropology, and the social sciences to explore how individual behaviour interacts with the environments in which it develops. Sometimes that will mean examining the assumptions we make about our friends, strangers and, most importantly, ourselves. At other times, it will mean considering how those same assumptions influence our attitudes towards responsibility, inequality, politics and the institutions that govern our lives.</p>
+
+<p>Understanding these processes is only part of the task. If we want different outcomes, we also have to use that understanding to change the conditions that produce them.</p>
+<p>The nineteenth-century workhouse offers one illustration of what can happen when our assumptions about human behaviour inform our attempts to solve social problems. Seeing the same way of thinking manifest centuries later, despite all our accumulated knowledge, tells us something important about the real barriers to solving our problems.</p>
+
+<p>One of the great challenges of our time is learning how to use knowledge to build societies that work better for the people living within them.</p>
+<p>Perhaps a useful place to begin is by examining how much we still get wrong about one another and ourselves.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/why-we-get-people-wrong/202611/why-we-get-people-wrong" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/why-we-get-people-wrong/202611/why-we-get-people-wrong</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/why-we-get-people-wrong/202611/why-we-get-people-wrong</guid>
+            <dc:creator><![CDATA[Tara-Lyn Camilleri Ph.D.]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/why_we_get_poeple_wrong_image.jpg?itok=kJOxYgiC" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Family Table: Finding Your Place as an Elder]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/diana-raab-scaled.jpg?itok=j7-sUVYG" alt="Diana Raab Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Family Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Family Table: Finding Your Place as an Elder</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Holidays reveal how our place at the family table shifts across a lifetime.</h2><p style="font-size:0.9em;color:#666;">Posted November 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Our place at the family table shifts over our lifetime.</li><li style="margin-bottom:6px;">Few parents are prepared for the changing role of having adult children.</li><li style="margin-bottom:6px;">Holiday tables change, and accepting this leaves room for new traditions and stories.</li>
             </ul>
           </div>
                     <div class="insertArea ck-widget">
 <div class="image-article-inline-half">
 <div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/christian-harb-od0p9olrpak-unsplash.jpg?itok=jGAB1QxF" width="320" height="200" data-insert-type="image" title="Christian Harb/Unsplash" alt="Christian Harb/Unsplash"></div>
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/hudsoncrafted-thankful-2849300.jpg?itok=n3exFQwX" width="320" height="320" data-insert-type="image" title="hudsoncrafted/Pixabay" alt="hudsoncrafted/Pixabay"></div>
 <div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Christian Harb/Unsplash</div>
+<div class="insertArea--origin subtext">Source: hudsoncrafted/Pixabay</div>
 </div>
 </div>
 </div>
-<p>Pope Leo’s <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"><em>Magnifica Humanitas</em></a> (2026), subtitled “On Safeguarding the Human Person in the Time of Artificial Intelligence,” has been heralded as one of the most significant and morally serious visions for how humanity ought to think about and navigate the advent of the AI era. Acknowledging “the ambiguity of tools,” which are neither morally good nor bad in and of themselves but “can cause harm when not oriented toward the good,” the Pope insists that the end toward which our aspirations aim is as important as the aspirations themselves.</p>
+<p><em><strong>Note:</strong> This post may stir feelings of grief, estrangement, and old wounds. Not every family table was safe, and that distance or estrangement can be a valid, even necessary, choice. </em></p>
+<h2>The Idea of a Table</h2>
+<p>With the holidays approaching, many of us think about our actual family tables and where everyone will sit. The idea of a family table is also a metaphor for our relationships. For example: Who sets it? Who is served first? Who sits at the head? Who was not invited? Over the course of our lifetimes, our place at the table shifts and rearranges itself, often because of losses, marriages and divorces, grandchildren, aging siblings, distance, and the chosen family members who have pulled up a chair.</p>
 
-<p>For Leo, protecting and fostering the dignity of the human person must be the goal of everything we do. Contrasting two images taken from Scripture, the Pope calls us to consider how the desire that orients our ambitions changes the things we create.</p>
-<p>In Leo’s first example, the construction of the Tower of Babel (<em>Genesis</em> 11:1–9) is motivated by fear and vainglory:</p>
+<p>We begin our lives at the children’s table; then we are perhaps the chef and server; and as elders, we might be lucky enough to become guests at our children’s or chosen family’s tables. </p>
+<h2>Adult Children</h2>
+<p>Lately, many people in middle age and beyond have spoken about the changing dynamics of their relationships with their adult children. These feelings can be magnified during the holidays. Things are simply not what they used to be. When our children were young, their world revolved around us and our world revolved around them. Many of us have read books on parenting children and teenagers, but few of us were offered books or conversations about navigating life with our adult children. For many parents of adult children, there’s a deep ache in realizing that their role isn't what it used to be. </p>
 
-<blockquote><p>Fearing being scattered across the earth, they [the builders] sought to guarantee stability and power for themselves, and above all to ‘make a name’ for themselves.” Such motives cannot but end in ruin. Leo continues, “When a city is built on pride and the claim to self-sufficiency, communication breaks down, languages are confused and people no longer understand each other. The result is not unity, but dispersion. Babel thus reveals the limits of any effort that, however grandiose, arises from self-affirmation, sacrifices human dignity for efficiency and aspires to reach heaven without God’s blessing.</p>
-</blockquote>
+<h2>Role Shifts</h2>
+<p>We move from managing our children’s lives to being something of an outsider. We are no longer involved in their everyday activities, and sometimes we don’t even know what they’re up to. We might have taught our children the power of independence, and now there is a lot of holding on and letting go. </p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/igor-omilaev-eggfz5x2lna-unsplash.jpg?itok=limwA8gO" width="320" height="267" data-insert-type="image" title="Igor Omilaev/Unsplash" alt="Igor Omilaev/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Igor Omilaev/Unsplash</div>
-</div>
-</div>
-</div>
-<p>In his second, which comes from the <em>Book of Nehemiah,</em> Nehemiah returns to the city of Jerusalem after the Babylonian exile only to find it in ruins. Heartbroken, he takes in the destruction in silence. Then, before setting to work, he “convened the families, assigned each of them a section of the wall to rebuild, listened to their concerns, coordinated their efforts and addressed any opposition.”</p>
+<p>Becoming a mother-in-law is another challenging role shift. Sharing our children with spouses and in-law families is not always an easy transition, especially if the partner is different from what we imagined for our child and/or if the couple lives far away. </p>
+<p>Another shift is that children might begin worrying about their parents rather than the other way around. Perhaps the parents have physical or psychological health problems that call for their children’s intervention and care. It’s important for elders to accept help while maintaining their dignity. At the same time, many elders are still caring for aging parents or grieving them. </p>
 
-<p>Nehemiah, that is, kept the dignity of those around him at the center of his project rather than running headlong toward apparent solutions. In so doing, he was able to resurrect what had been lost while simultaneously creating something new. The Pope writes:</p>
-<blockquote><p>The narrative shows how the city is reborn, not through the initiative of one man, but through the shared responsibility of all: men, women, priests, artisans, heads of households and young people all play a part. It is an undertaking with God at the center, which rebuilds relationships before rebuilding with stones. Thus, ancient Jerusalem rediscovers a common language—not one of uniformity, but one of communion, namely the harmony that arises when all persons assume their own role and recognize that their strength comes from the Lord.</p>
-</blockquote>
+<h2>Estrangement and distance</h2>
+<p>Sadly, estrangement has become increasingly common. Perhaps more common than people care to admit. Very often, because of shame, it’s carried in silence, which can be very painful. </p>
+<p>One woman shared the story of organizing a holiday with her three adult children and four small grandchildren at a beautiful resort. One minute they were a happy family, and the next minute they were estranged. She still isn’t sure what happened, but on the last day of the trip, one of her adult children picked a fight about something that had happened years earlier, leaving the grandparents speechless. Everyone went home, and the adult child who picked a fight simply cut off contact and never really understood why.</p>
 
-<p>What makes these images apt for our current moment—and what many commentators have overlooked—is the role <em>language </em>plays in each. For, if the desire of those constructing the Tower of Babel was to create a single, unified language with which all could understand and be understood, so too is the aim of Artificial Intelligence to provide a kind of totalizing language capable of flattening ambiguity and rendering difference obsolete. And if Nehemiah’s success was rooted in the fact that he sought out the input of those he hoped to serve, and even (perhaps especially) those with whom he disagreed, so too must dialogue be at the foundation of technological advance.</p>
+<h2>Becoming a Grandparent</h2>
+<p>Those who were close with their grandparents understand how vitally important this relationship can be. I am the daughter of immigrants, and my parents worked very long hours to make ends meet, so my grandmother was my primary caretaker. Because I remember the closeness of that relationship, I was eager and excited to become a grandmother. I thought long and hard about what kind of grandmother I wanted to be and how I would handle certain situations.</p>
 
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/growtika-ngocbxiaro0-unsplash.jpg?itok=-_5MyjqW" width="320" height="180" data-insert-type="image" title=" Growtika/Unsplash" alt=" Growtika/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Growtika/Unsplash</div>
-</div>
-</div>
-</div>
-<p>Consider another example, this one taken from contemporary fiction, that draws out this tension inherent in language—the tension between the desire to communicate directly, if only superficially, and the desire to express how fraught and complex human experience actually is, even if that expression can only be accomplished indirectly and ambiguously.</p>
-
-<p>It comes from Paul Auster’s great work of metareal fiction <em>City of Glass</em> (1987), in which the story’s chief antagonist Peter Stillman—is he <em>still</em> a man, still human, or has he been deformed by his mad pursuit of “perfectibility”?—obsesses over the duplicity of language, the way one word can mean two equal and opposite things. For instance, the word <em>cleave</em> “means both ‘to join together’ and ‘to break apart.’”</p>
-
-<p>For Stillman, the <em>Genesis </em>narrative to which the Pope alluded “records not only the fall of man, but the fall of language” from clarity to opacity. Once, he conjectures, language was simple, direct, and stated exactly what it meant to say without confusion or ambiguity. There was a time when “words had not been merely appended to things . . . they revealed their essences . . . A thing and its name were interchangeable.” But after the destruction of the Tower of Babel, this was no longer true. Now words conceal as much as they reveal, and deception is built into the very nature of how we communicate.</p>
+<p>One thing grandparents learn quickly is the importance of keeping their opinions to themselves. They realize this is important, especially if they want to keep the lines of communication open with their adult children. This can be difficult, especially when they reach a stage of life when they might have—at a stage of life when they may hold strong opinions that their children don’t want to hear. Many elders say that their children really don’t want their advice. The truth is, younger generations can find most of what they want online, especially now that AI has become an integral part of our lives. The challenge is knowing when to speak and when to stay quiet.</p>
 
 
-
-  
-
-
-<p>Driven mad by the desire to use language to reunify what appears to him to be a fractured and fragmentary existence, Stillman sets out to realize a utopian future in which his model of a single, unified language makes absolute knowledge and mastery possible. (<em>Sound familiar?</em>)</p>
-<blockquote><p>If the fall of man also entailed a fall of language, was it not logical to assume that it would be possible to undo the fall, to reverse its effects by undoing the fall of language? . . . If man could learn to speak this original language of innocence, did it not follow that he would thereby recover a state of innocence within himself?</p>
-</blockquote>
-
-<p>The trouble is that Stillman is not able to conjure up this mythical language model, and his attempts to do so inflict immense suffering on those around him.</p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/olga-tutunaru-plbb7pkejkq-unsplash.jpg?itok=BLw2w6Gu" width="320" height="213" data-insert-type="image" title="Olga Tutunaru/Unsplash" alt="Olga Tutunaru/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Olga Tutunaru/Unsplash</div>
-</div>
-</div>
-</div>
-<p>In an ironic twist, Stillman ultimately resorts to deception himself in a vain attempt to accomplish his goal. Creating a character named Henry Dark, a fictional disciple of John Milton, he attributes his most controversial ideas to Dark and even falsifies the historical record to make it appear as though Dark had heralded his, Stillman’s, project over 300 years in advance.</p>
-
-<p>What could offer a better image of the LLMs that seem so powerful and omniscient today—with their false citations and hallucinated facts—than a fictional character invented by a mad genius to dupe others into believing that his language model could solve the mysteries and riddles of the human condition? And yet, what could offer a better reason to hope? For, although Dark was invented by Stillman to serve darker ends, still his creation was—as Pope Leo <a href="https://www.ncronline.org/vatican/pope-leo-hosts-pulitzer-prize-winning-authors-vatican-discussion-power-written-word">recently called</a> the craft of writing fiction—a profound “act of humanity,” one which points to the supreme dignity of its author even if he, like many of us today, is too consumed with his utopian ideas to appreciate it.</p>
+<h2>Thanksgiving and Holiday Tables </h2>
+<p>For those without children, with distant children, or whose friends have become their truest family, the holiday table might look different from what they imagined. Holidays remind us that change is always happening. Sometimes there are empty chairs at the table, sometimes new faces, and sometimes more than one table. Some people might choose new or different traditions, and change requires acceptance. Change calls for acceptance, which leaves room for something new. Remember, nobody ever promised that things would stay the same. Enjoy whatever gathering you're part of. There will always be new stories to tell.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/our-human-condition/202611/a-renewed-humanism" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/the-empowerment-diary/202611/the-family-table-finding-your-place-as-an-elder" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/our-human-condition/202611/a-renewed-humanism</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/our-human-condition/202611/a-renewed-humanism</guid>
-            <dc:creator><![CDATA[Matthew Clemente, Ph.D. and David  Goodman, Ph.D.]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/growtika-ngocbxiaro0-unsplash.jpg?itok=Zru-A5Mn" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/the-empowerment-diary/202611/the-family-table-finding-your-place-as-an-elder</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/the-empowerment-diary/202611/the-family-table-finding-your-place-as-an-elder</guid>
+            <dc:creator><![CDATA[Diana Raab Ph.D.]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/hudsoncrafted-thankful-2849300.jpg?itok=FjgViEl0" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Dreaming of Cats and Dogs]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-12/Photo.jpg?itok=IOSShp5v" alt="Kelly Bulkeley Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Dreaming</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Dreaming of Cats and Dogs</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Tracking the dream interactions of cats, dogs, and humans.</h2><p style="font-size:0.9em;color:#666;">Posted November 17, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[When Psychiatry Becomes Mind-Blind]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/susannepaolaantonetta.png.jpg?itok=giS8GiJf" alt="Susanne Paola Antonetta" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychiatry</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">When Psychiatry Becomes Mind-Blind</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Biologist Michael Levin's term examines stigma and psychiatric diagnosis.</h2><p style="font-size:0.9em;color:#666;">Posted November 18, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Cats and dogs appear in dreams more often than any other animals.</li><li style="margin-bottom:6px;">Their symbolic meanings include natural wisdom and primal instinct.</li><li style="margin-bottom:6px;">Growing evidence suggests cats and dogs have dream lives of their own.</li>
+              <li style="margin-bottom:6px;">Mind-blindness is the failure to grasp the cognition of other beings.</li><li style="margin-bottom:6px;">A doctor who told me I'd be locked up for life was mind-blind.</li><li style="margin-bottom:6px;">Rather than "sick," hearing voices and even seeing things are common.</li><li style="margin-bottom:6px;">Carl Jung praised his visions as the source of his greatest ideas.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/img_5261.jpeg.jpg?itok=0LVn9KcG" width="320" height="240" data-insert-type="image" title="Kelly Bulkeley" alt="Kelly Bulkeley"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Kelly Bulkeley</div>
-</div>
-</div>
-</div>
-<p><strong>The deep relationships people form with domestic cats and dogs can be among the strongest emotional bonds in their lives.</strong> Since we know that dreams offer an accurate reflection of our most important relationships in waking life, it can be predicted that cats and dogs will appear with some frequency in people’s dreams, and this turns out to be true. Interpreting the symbolic themes and images in these dreams can lead to a variety of psychological insights. They can also lead to a new perspective on the possibility, even the likelihood, that our cats and dogs are dreaming about us. </p>
+                    <p>I once sat in a room while a psychiatrist discussed with my parents his belief that I would face a lifetime of institutionalization. At 15, I was perfectly capable of understanding him. The conversation excluded me not because I couldn’t grasp it but because that doctor had uttered the word “schizophrenia.” Once he did, the sense that anything real might exist in my head, even the most basic sense, evaporated.</p>
 
-<h2>Who Dreams of Cats and Dogs?</h2>
-<p>Dream researchers have found that dreaming about animals in general is more frequent for children than for adults, more for tribal communities than for modern Westerners, and more for pregnant women than non-pregnant women. Cats and dogs are usually at the top of the list of most-dreamed about animals, so the distribution patterns found in these studies give us a rough clue about who is most likely to experience feline- and canine-related dreaming.</p>
+<p>The people around me became mind-blind.</p>
+<p>I borrow this term from biologist and natural philosopher Michael Levin: Mind-blindness is the inability to recognize the minds of others. Michael was gracious enough to chat with me about it. He believes humans exist in <a href="https://www.psychologytoday.com/us/blog/experimentations/202506/expanding-our-understanding-of-life-and-intelligence">a world full of minds</a>, with cognition a potential not just for other creatures, but for cells, large language models, even algorithms. </p>
 
-<p>Who appears in dreams more often, cats or dogs? A review of the collections in the Sleep and Dream Database (SDDb) finds that people dream slightly more about dogs than cats. A search for dream reports of 10+ words in length with at least one reference to a dog-related word found 1,088 instances out of 34,475 dream reports, or 3.2% of the total. A parallel search for dream reports of 10+ words in length with at least one reference to a cat-related word found 759 instances out of 34,475 dream reports, or 2.2% of the total.</p>
+<p>“We tend to think of things as either dumb like rocks or smart like humans and angels,” Levin said. Instead, Levin believes that the sciences of cybernetics and the tools of behavior science now show mind exists on a continuum, involving testable traits like whether a being can learn and what its competencies are. </p>
 
-<p>Looking at the Hall and Van de Castle norm dreams from the 1950’s, a slight variation appears in relation to gender. The 491 dream reports from the males included 11 (2.2%) with a dog-related word but only 2 (0.4%) with a cat-related word, whereas the 490 dream reports from the females had 10 (2%) with a dog-related word and 9 (1.8%) with a cat-related word.</p>
+<p><strong>Mind-Blindness Begins With Other Humans</strong></p>
+<p>As Levin puts it, it’s more a question of what kind of intelligence exists, and how much, than a yes-or-no distinction.</p>
+<p>When I told Michael Levin I believed humans’ mind-blindness begins with other humans, he said, “You’re absolutely right.” And he added, “I think the problem is a scarcity mentality with respect to compassion. It’s as if people thought, if we allow too many into the club of cognition, there will not be enough care or love for me.”</p>
 
-<h2>What Do Dreams of Cats and Dogs Mean?</h2>
-<p>As with any aspect of dream content, the dreamer’s personal context matters. Here, the relevant factors include whether the dreamer has pets now, grew up with pets, feels anxiety around animals, or considers themselves a “dog person” or a “cat person. It also matters how the dogs or cats appear in the dream: healthy or sick, friendly or aggressive, inside or outside, alive or passed away. </p>
+<p><a href="https://orionmagazine.org/article/language-garden/">I once spoke in sign language</a> with an orangutan named Chantek, who indicated he found his cage mate Sibu a bit messy. Remembering the thoughtfulness of his eyes still makes seeing a caged animal unbearable to me. I live with two cats who often let me know, with headbutts and meows, that I’m about to get sick before I know it; I know we overlook the capacities of the beings around us. </p>
 
-<p>Since ancient times, animals in dreams have been regarded as special bearers of natural wisdom. Modern psychoanalysts regard animals in dreams as symbols of our primal desires and wild instincts. Animals can also appear in dreams as cultural metaphors (e.g., a cat = night hunter, a dog = loyal companion).</p>
+<p>And humans can be highly mind-blind to each other.</p>
+<p>White Europeans have historically demonstrated mind-blindness to other racial groups, to the point of enslaving them. <a href="https://slate.com/technology/2026/03/jeffrey-epstein-files-dna-eugenics-transhumanism.html">Jeffrey Epstein was mind-blind</a> to women, which no doubt made him feel better about his abuse. And based on their testimony, <a href="https://www.psychologytoday.com/us/blog/mad-woman-out-of-the-attic/202608/lindsay-clancy-and-the-urgent-need-for-conversation">Lindsay Clancy’s caregivers </a>remained mind-blind to the actual thoughts she was having. They slotted her pain into symptom categories, missing the awful acts her mind pushed her toward. </p>
 
-<p>An early historical example comes from the medieval Japanese monk and Buddhist teacher Myoe Shonin, who recorded the following in his dream journal in 1206:</p>
-<blockquote><p>“I dreamed of two puppies. One was white and the other was of several, rich colors. The mixed-color dog was attractive beyond limit. Thus I fixed a container full of rice. It seemed to me that all the people there used small, open containers as feeding dishes. (Although the white dog went into a fire, it did not burn.)” (168-169)</p>
-</blockquote>
+<p>Psychiatry, and the culture that accepts its premises, has been mind-blind. This isn’t only true of my early doctor. Autistic people have suffered with the stigma that they lack “theory of mind,” or an understanding that the people around them have minds and feelings. </p>
+<p><strong>Bias and Discrimination</strong></p>
+<p>When I taught, fellow professors often shared their conviction that students who bothered them must be “on the spectrum.” Though “spectrum” has gotten to be a shorthand for a jumble of traits that don’t even fit together: insensitivity, oversensitivity, bluntness, shyness. These biases still lead to real discrimination, though they’re based largely on<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6959478/"> misunderstandings of subtle differences.</a></p>
 
-<p>Myoe did not interpret his dreams, but rather meditated on their visionary qualities. Here, the dream puppies elicit a vivid experience of amazing beauty, compassion for others, and magical resilience. </p>
-<p>An aggressive cat figures as a vivid symbol of danger in a dream reported by Anna Bonus Kingsford in 1877. Kingsford was a medical doctor, animal rights activist, and theosophical mystic whose dream journal included this entry:</p>
 
-<blockquote><p>"I dreamt that I had a beautiful bird in a cage, and that the cage was placed on a table in a room where there was a cat. I took the bird out of the cage and put him on the table. Instantly the cat sprang upon him and seized him in her mouth. I threw myself upon her and strove to wrest away her prey, loading her with reproaches and bewailing the fate of my beautiful bird. Then suddenly some one said to me, 'You have only yourself to blame for this misfortune. While the bird remained in his cage he was safe. Why should you have taken him out before the eyes of the cat?'” (38)</p>
-</blockquote>
+<p>Then there is the child I was, turned to vapor by the word “schizophrenia.” My diagnosis changed ultimately. But I would be who I am with or without a word from the <em>Diagnostic and Statistical Manual</em> next to my name.</p>
+<p>Mental states, which DSM terms try and fail to pin down, are less hardwired, binary differences between people than they are part of the human condition, one piece of all our potential. They reflect inborn flaws less than they show the tumult of living a life in this human body.</p>
+
+<p>A good share of the population—<a href="https://www.psychologytoday.com/us/blog/the-biology-of-human-nature/202301/hearing-voices-youre-not-alone">as many as 15 percent </a>or more of adults—will at some point in their lives hear voices. <a href="https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202212/new-research-shows-how-common-hallucinations-really-are">Up to 38 percent</a> will experience visual hallucinations, a high enough number to suggest this alone shouldn’t be enough to diagnose psychosis, though it very well could be. And <a href="https://livingwithschizophreniauk.org/can-you-recover-from-schizophrenia/">one-quarter</a> to <a href="https://www.clinicbarcelona.org/en/assistance/diseases/schizophrenia/prognosis">one-third</a> of people who have what is diagnosed as a full-blown schizophrenic episode will never have another one. Those whose conditions become chronic may be impaired as much or more by the treatment as the underlying mental state.</p>
 
 
 
   
 
 
-<p>Kingsford said the dream came at a time when she was on the verge of sharing publicly some of her unusual psycho-spiritual experiences, and she interpreted the dream as an unambiguous warning not to do so. </p>
-<p>In his 2003 study of a long dream series from a middle-aged woman (“Barb Sanders”), G. William Domhoff found several reports in which kittens were neglected, deformed, or starving. Sanders’ own cats were healthy and fine, so the dreams seemed to point to an indirect symbolic meaning. A closer look suggested a connection between “stray cats” and “lost men,” who were indeed a major concern and problem in her waking life. (128)</p>
+<p>Trauma makes the experience of psychosis far more likely, certainly a factor for me as a girl. Difficult life experiences can also plant the seeds of creativity and novel thought. This was true of mind pioneer Carl Jung. An early exposure to death, and later sexual abuse, traumatized Jung, and as an adult he had an extended period of hallucinations. </p>
 
-<h2>Cats and Dogs as Dreamers</h2>
-<p>Anyone who has lived with a cat or dog has noticed how at certain points during their sleep they whimper and growl, their muscles and whiskers twitch, and their eyes flutter under their eyelids. If we observed the same behavior in a sleeping human, we would surely assume the person is dreaming. And if we knew that person was fed, cuddled, groomed, and loved by a particular individual, we would be on solid research grounds in predicting that person dreams frequently about the caregiving individual. </p>
+<p>Jung described “incessant visions” in his <em>Red Book</em> and compared their impact to thunderstorms and floods<em>.</em> Though this period wasn’t a pointless bout of “illness” in Jung’s life—he called that time the root of his most important ideas, such as the existence of archetypes and the collective unconscious.</p>
 
-<p>How much of this, from the REM-dreaming connection to the interpersonal continuities, applies beyond humans to other animal species? The honest answer is, we do not know. But the tide of scientific evidence is moving towards ever greater recognition in non-human animals of emotion, cognition, and high-order consciousness. Can dreaming be far behind? </p>
+<p><strong>Pathways to Care</strong></p>
+<p>Michael Levin has more to offer the field of psychiatry than the helpful idea of mind-blindness. He believes that in the future we might practice a somatic psychiatry that exploits bioelectricity, the “cognitive glue” aligning cells toward organ-scale anatomical goals, using bioelectrical signaling as an interface through which to communicate desired healthy form and function. </p>
+
+<p>Levin also told me, “Our cells provide another level of intelligence in the body,” and communicating at these other levels might offer pathways to mind care. </p>
+<p>Before we fully understand the many ways we can help ourselves, we need to drop narrow beliefs about minds. </p>
+<p>Carl Jung wrote that our inner worlds are “truly infinite, in no way poorer than the outer one,” so powerful and individual that “humans live in two worlds.” We share the former world with a dizzying array of other beings. Perhaps, in ways that are not always easy to understand, we share the inner world as well. </p>
+
+<p>“What I hope is that when we can acknowledge that the mind can belong to things that don’t look anything like us,” Michael Levin told me, “our differences become laughably small.” </p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202611/dreaming-of-cats-and-dogs" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/mad-woman-out-of-the-attic/202611/when-psychiatry-becomes-mind-blind" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202611/dreaming-of-cats-and-dogs</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202611/dreaming-of-cats-and-dogs</guid>
-            <dc:creator><![CDATA[Kelly Bulkeley Ph.D.]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/img_5261.jpeg.jpg?itok=o5LBVy3S" length="0" type="image/jpeg"/>
+            <link>https://www.psychologytoday.com/us/blog/mad-woman-out-of-the-attic/202611/when-psychiatry-becomes-mind-blind</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mad-woman-out-of-the-attic/202611/when-psychiatry-becomes-mind-blind</guid>
+            <dc:creator><![CDATA[Susanne Paola Antonetta]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/dreamstime_s_90019513.jpg?itok=R0O4gFwD" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
