@@ -4,196 +4,967 @@
         <description><![CDATA[Latest articles from Psychology Today (full content)]]></description>
         <link>https://www.psychologytoday.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 15:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 21:42:10 GMT</lastBuildDate>
         <atom:link href="https://www.psychologytoday.com/us/feed" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 15:59:04 GMT</pubDate>
+        <pubDate>Sun, 22 Nov 2026 21:42:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Social Media Design on Trial]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/spssi.jpg?itok=W83DjE6Q" alt="The Society for the Psychological Study of Social Issues" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Social Media</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Social Media Design on Trial</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How psychological research could shape thousands of youth harm lawsuits.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Why the Most Politically Savvy Colleague Gets Things Done]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/ian_macrae.png.jpg?itok=qjvIsjz_" alt="Ian MacRae" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Workplace Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why the Most Politically Savvy Colleague Gets Things Done</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Reading power unlocks progress, until people become collateral damage.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">A jury awarded $6 million to a plaintiff claiming social media use contributed to mental health harms.</li><li style="margin-bottom:6px;">Lawsuits targeting platform features offer a path for holding social media companies liable for harm.</li><li style="margin-bottom:6px;">Studying specific design features to understand risks could inform future litigation and other reforms.</li>
+              <li style="margin-bottom:6px;">Some people naturally read organizations as systems of power, influence, and alliances.</li><li style="margin-bottom:6px;">Being able to read power is a skill linked to performance, reputation, and career success.</li><li style="margin-bottom:6px;">Using political skill to influence power can be destructive if relationships become purely transactional.</li>
             </ul>
           </div>
-                    <div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/social_media.jpg?itok=FdmSePzJ" width="320" height="232" data-insert-type="image" title="Pexels/Pixabay" alt="Pexels/Pixabay"></div>
-<div class="insertArea--origin subtext">Source: Pexels/Pixabay</div>
-</div>
-</div>
-</div>
-<p><em>By Jennifer K. Robbennolt, Alice Curtis Campbell Professor of Law and Professor of Psychology, University of Illinois College of Law</em></p>
-<p>Thousands of lawsuits against social media companies brought by individuals, school districts, and other government entities are making their way through the courts. The cases generally allege that the companies caused harm to youth by designing their social media platforms to foster compulsive use and failing to adequately warn users about the potential harms of their platforms.</p>
+                    <p>A project lead needs budget for a project. She knows the formal process: Write the proposal, present it at the monthly meeting, and then wait for feedback. She also knows how decisions are actually made in her organization. </p>
+<p>So in the week before the meeting, she has three separate conversations with people who will make or break the decision. First, she talks with the finance director, who worries about cost overruns at the end of every quarter. Then, she talks with the operations head, whose team always gets dragged into projects that sometimes go nowhere. Next, she talks to the program lead who will "volunteer" to manage the project.</p>
 
-<p>The first of these cases brought by an individual plaintiff was decided by a jury in March 2026—a bellwether case that will inform decision-making in future cases (<em>K. G. M. v. Meta Platforms, Inc.</em>). The plaintiff, identified by her initials, K.G.M., claimed that Meta and Google had used the “engineering of addiction” to design their apps in ways that encouraged users, particularly young users, to remain on the platforms for extended periods. K.G.M. claimed that she began using social media compulsively as a child and that this problematic social media use contributed to depression, anxiety, self-harm, and damage to her relationships. A jury agreed and awarded her $6 million in compensatory and punitive damages. Social media companies ByteDance (TikTok) and Snap (Snapchat) are also defendants in the broader set of lawsuits, but each settled with K.G.M. before her case went to trial.</p>
+<p>By the time she presents, the decision has effectively been made. People raise issues briefly as a formality because they already feel assured, and some even answer their own questions because they like the solution they were shown in advance.</p>
+<p>There are a couple of ways to look at this approach. It's definitely an effective approach. Some people would call it clever, but not everyone would mean that as a compliment.</p>
 
-<p>Historically, efforts to hold social media companies liable for harms associated with their platforms have faced a significant legal obstacle: Section 230 of the 1996 Communications Decency Act shields tech companies from liability for harms caused by user-generated content. In this case, however, the legal claims were based not on the content posted on the platforms but rather on the platform design. The lawsuit focused on design features such as infinite scrolling, video autoplay, variable reinforcement, constant push notifications, and beauty filters. K.G.M.’s lawyer likened these features to a “digital casino” designed to keep users on the social media platforms, arguing that adolescents are particularly vulnerable to their effects.</p>
+<h2>Behind the Org Chart</h2>
+<p>The resourceful style is one of the "dark side" personality styles: everyday patterns that can help or hinder us at work, depending on how strongly they show up and in what form. Its most extreme form resembles what psychologists call Machiavellianism, a cynical, self-serving approach to other people.</p>
 
-<p>One challenging aspect of this litigation is establishing a causal relationship between the alleged negligence—the platforms’ design choices—and the mental health harms claimed by plaintiffs. To be successful, a plaintiff must show both that a platform’s design feature can contribute to adverse mental health outcomes and that it did so in the plaintiff’s individual case. The social media companies argue that adolescent mental health is complex and question whether any particular mental health outcome can be causally linked to the design of a social media platform.</p>
+<p>People who do this as a regular course of action share this way of viewing the world, navigating work through relationships—many of them transactional. They understand how power structures and networks truly exist in reality, separate from the official org chart or chain of command. They quickly pick up on who makes decisions, or who suggests the ideas that get picked up more often than not.</p>
 
-<p>Reports from APA (<a href="https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use.pdf"><em>Health Advisory on Social Media Use in Adolescence</em>, 2023</a>) and the National Academies of Sciences, Engineering, and Medicine (<a href="https://www.nationalacademies.org/read/27396">Galea, S., et al. [Eds.], <em>Social Media and Adolescent Health</em>, 2024</a>) note that this causation question is complex. Psychological studies have found that social media is associated with a variety of negative effects, including anxiety, depression, and attention problems. Yet social media is ubiquitous, and links between mental health and social media use are likely bidirectional, complicating causal conclusions. In addition, individual differences make some users more susceptible than others to the relevant design features and to developing patterns of problematic use. Research also shows that social media can have positive effects on mental health, including healthy socialization and self-expression.</p>
+<p>They tend to be strategic, focused on outcomes, and can be very adaptable when the route to a goal changes or new obstacles emerge.</p>
+<h2>Political Skill Is Real (and Useful)</h2>
+<p>Researchers have studied the useful side of this for decades under the name "political skill." Ferris and colleagues (2005) developed a measure of it with four parts: social astuteness (reading people and situations), interpersonal influence, networking ability, and apparent sincerity (coming across as genuine).</p>
 
-<p>Research that more precisely identifies the effects of specific design features on mental health outcomes and examines how individual differences might moderate those effects will be critical in informing the ongoing litigation and any other regulatory or voluntary reforms. Longitudinal, experimental, and quasi-experimental studies will be particularly important in determining which features give rise to problematic use, under what conditions, and for which young people. </p>
+<p>A meta-analysis by Munyon and colleagues (2015) found that political skill was linked to higher productivity, career success, a better reputation, and greater job satisfaction. It predicted task performance even after accounting for broad personality traits and general intelligence.</p>
+<p>When the researchers looked at the four aspects separately, networking, influence, and apparent sincerity predicted performance. Social astuteness on its own did not. Reading the room is a useful start, but the rarer skill is reading a room and influencing your place in it.</p>
 
-<p><em>Edited by Ashley M. Votruba, J.D., Ph.D., SPSSI Blog Editor, Associate Professor, University of Nebraska-Lincoln.</em></p>
+<p>At their best, resourceful people do exactly that. They get around obstacles that stall everyone else, and find the person who can make a decision or make the obstacles go away. They can get other people to support them to make unpopular decisions, and if they get the desired results, some people will respect and admire them for it.</p>
 
-            
-      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
-      <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/sound-science-sound-policy/202611/social-media-design-on-trial" target="_blank">Read the original article on Psychology Today →</a>
-      </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/sound-science-sound-policy/202611/social-media-design-on-trial</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/sound-science-sound-policy/202611/social-media-design-on-trial</guid>
-            <dc:creator><![CDATA[The Society for the Psychological Study of Social Issues]]></dc:creator>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/social_media.jpg?itok=HEYY0fEC" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[If You Can't Do These 5 Things, Your Divorce Will Be Hellish]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/spgb-c.png.jpg?itok=JmPTvWZ8" alt="Susan Pease Gadoua L.C.S.W." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Divorce</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">If You Can't Do These 5 Things, Your Divorce Will Be Hellish</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Understanding the brain can help you get through your split better and faster.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
-          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
-            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
-            <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Big emotions are a normal part of divorce, especially at the beginning of the process.</li><li style="margin-bottom:6px;">Fight, flight, freeze responses in the brain's amygdala are often triggered in divorce.</li><li style="margin-bottom:6px;">It's up to each individual to engage their higher functioning brain in order to have a better experience.</li>
-            </ul>
-          </div>
-                    <p>Jared hated his soon-to-be ex, Ashley, more than words could say. In his eyes, she'd used him for his money, cheated on him with his best friend, Miguel, and then dumped him like garbage. He was hurt, betrayed, and furious. Who wouldn't be?</p>
-<p>Nan never expected her marriage to end. She'd always been anxious, but now the bottom had fallen out of her world. Had he ever loved her? Would the kids be traumatized? Would she lose the house—the one place she felt safe? Would she have enough money to live on? Could she end up homeless? Would she have a breakdown like her mother did?</p>
+<p>This can be done proactively and prosocially, or in ways that are counterproductive and manipulative. Organizations and even small teams are political whether or not anyone likes it, and someone who can find ways of making things work is necessary for any high-functioning team.</p>
+<h2>People as Collateral Damage</h2>
 
-<p>Sean felt nothing when his husband left a note saying he'd moved out and wasn't coming back. He sat in front of the TV for days, barely eating or getting off the couch. Friends called, but he let everything go to voicemail. He was emotionally numb.</p>
-<p>Although these reactions may seem extreme, they're not unusual after a sudden split or an ugly breakup. Normal, that is, in the beginning.</p>
-
-<h2>Divorce Can Send You Into Survival Mode</h2>
-<p>Divorce is one of the toughest transitions anyone will go through. Even under the best circumstances, it can destabilize your home, finances, parenting, friendships, and sense of identity.</p>
-<p>Looking at divorce through Maslow's hierarchy of needs, many folks feel knocked down to the two lowest levels: basic survival and safety. The higher-functioning levels of love, esteem, and self-actualization take a back seat.</p>
-
-<p>When you're dividing assets, potentially doubling your expenses, and perhaps splitting time with your kids, you're understandably more focused on getting through today than on what you might gain tomorrow.</p>
-<p>And this is where your brain comes in.</p>
-<p>The amygdala is a small structure deep within the brain that helps detect threats and trigger emotional responses. It's part of a larger system involved in our fight, flight, or freeze reactions.</p>
-
-<p>Jared's rage, Nan's fear, and Sean's shutdown illustrate different responses to overwhelming stress. Clients have told me they feel like their big emotions mean they're "going crazy." I tell them they're probably not going crazy. They're being stretched emotionally, sometimes beyond anything they've experienced before.</p>
-
-<p>Ideally, as the initial shock wears off, rage softens into anger, terror becomes manageable fear, and numbness begins to thaw. But not everyone moves out of survival mode easily—especially if the loss triggers previous unresolved losses or traumas.</p>
-<h2>Are You Divorcing With Your Amygdala or Your Prefrontal Cortex?</h2>
-
-<p>Fortunately, another part of the brain can help: the prefrontal cortex.</p>
-<p>Located just behind your forehead, it helps with reasoning, planning, impulse control, and thinking through actions and their consequences. It’s the part of the brain that asks, "Is this really a good idea?" “Should I say <em>exactly</em> what’s on my mind right now?”</p>
-
-
-<p>Under intense stress, these skills can become compromised. You're more likely to react impulsively, see things in black-and-white terms, and seek immediate relief, rather than consider long-term consequences.</p>
-<p>The amygdala and prefrontal cortex work together, but when our threat-response system is on high alert, thoughtful decisions become harder.</p>
-
-<p>That's why people sometimes do things during divorce they'd never dream of doing otherwise. They send vicious texts, threaten to take the kids away, spend thousands fighting over possessions worth far less, or make financial decisions that hurt them more than their spouse.</p>
-<p>These actions may feel justified in the moment. But there's a difference between reacting to pain and making decisions that serve you.</p>
+<p>The dark side emerges when people become collateral damage. Consider a colleague who builds trust with a peer during a brutal restructuring, learns that the peer is burned out and looking for another job, and later uses that confidence to edge them out of a key role when budgets tighten.</p>
+<p>As I discussed in a post on <a href="https://www.psychologytoday.com/us/blog/silicon-psyche/202506/how-destructive-work-behavior-thrives-in-the-remote-office">destructive behavior in the remote office</a>, a manipulative person can work this way with surgical precision, especially when much of the work happens across different and poorly organized communication channels.</p>
 
 
 
   
 
 
-<h2>Five Things You Need to Do to Keep Your Divorce From Becoming a Nightmare</h2>
-<p><strong>1. Pause before responding.</strong></p>
-<p>Just because your spouse sends an inflammatory text doesn't mean you have to answer immediately—or at all.</p>
-<p>Your first impulse may be to defend yourself or fire back. Don't. Unless there's an emergency, give yourself time to settle down. Sometimes an hour is enough. Sometimes you need a day.</p>
+<p>However, it is possible to operate in some gray areas while still maintaining respectful and mutually beneficial relationships. Arguably, it's a more successful strategy in the longer term.</p>
+<p>The research on Machiavellianism shows the cost of being too ruthless. A meta-analysis by O'Boyle and colleagues (2012) found it was linked to more counterproductive work behavior, meaning behavior that harms colleagues or the organization. Its link to lower job performance was small and inconsistent, which fits the idea that this style can deliver short-term results while eroding the reliability and trust that long-term work requires.</p>
 
-<p><strong>2. Distinguish immediate emotional discharge from long-term benefit.</strong></p>
-<p>There can be something satisfying about telling your spouse exactly what you think of them or making sure they don't "get away with" what they've done.</p>
-<p>But that satisfaction is usually short-lived. The consequences may not be.</p>
-<p>Ask yourself: "Will this help me build the life I want after divorce, or am I just trying to feel better right now?"</p>
+<h2>Working the System</h2>
+<p>It helps to compare this style with more combative, rule-breaking tendencies that are compulsive instead of calculated. Combative people tend to push boundaries, take visible risks, and ask forgiveness rather than permission. Resourceful people usually leave the rules intact and work the system instead. They do not need to skip the approval process when they have already lined up the approvers.</p>
 
-<p><strong>3. Consider your children's needs without disregarding your own.</strong></p>
-<p>Some parents become so consumed with their hurt that they lose sight of what their children are experiencing. Others sacrifice their own well-being because they believe putting the kids first means putting themselves last.</p>
-<p>Neither extreme is helpful. Children need stability and emotional safety. They also benefit from parents who take care of themselves.</p>
+<p>That can make the resourceful style harder to spot, and its destructive form harder to challenge. Nothing improper has technically happened. The damage is a loss of trust amongst teams.</p>
+<h2>Using It Effectively</h2>
+<p>As I argued in <a href="https://www.psychologytoday.com/us/blog/silicon-psyche/202506/the-surprising-upside-of-your-dark-side">"The Surprising Upside of Your Dark Side,"</a> the question to ask of personality styles is: How do you use them?</p>
 
-<p><strong>4. Choose your battles wisely.</strong></p>
-<div class="insertArea ck-widget">
-<div class="image-article-inline-half">
-<div class="insert-inner">
-<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/slavcho-malezan-zzva9adkpkm-unsplash.jpg?itok=pFg2wjNR" width="320" height="213" data-insert-type="image" title="Slavcho Malekan/Unsplash" alt="Slavcho Malekan/Unsplash"></div>
-<div class="caption"> </div>
-<div class="insertArea--origin subtext">Source: Slavcho Malekan/Unsplash</div>
-</div>
-</div>
-</div>
-<p>I've seen people spend more on attorney fees fighting over furniture than the furniture was worth. I know of one wealthier couple who spent thousands of dollars fighting over cleaning products (I couldn't make that up)!</p>
-<p>At that point, it's clearly not about the item being fought over as much as it is about feeling wronged, wanting control, or needing to win.</p>
+<ul>
+<li><strong>Ask who benefits.</strong> Politics in service of a shared goal is necessary to build high-functioning teams and organizations. Playing politics in totally self-serving ways often has a higher cost than benefit.</li>
+<li><strong>Keep relationships alive after the goal.</strong> Some working relationships have to be transactional. That doesn't mean you can't build a good working relationship that can be sustained longer than the transactional part of the relationship.</li>
+<li><strong>Keep an eye out for collateral damage.</strong> Look for patterns of destruction as well as success. A high performer who lifts the team has a very different impact than one who looks impressive only because colleagues have been sabotaged.</li>
+</ul>
 
-<p>Before digging in your heels, ask: "Will this matter five years from now?"</p>
-<p>Some things absolutely are worth fighting for, including safety, your children's well-being, and financial security. But not every disagreement deserves a battle.</p>
-<p><strong>5. Be willing to compromise without abandoning yourself.</strong></p>
-<p>One of the hardest things about divorce is accepting that you probably won't get everything you want. In some cases, you'll feel like your spouse is getting more than they deserve. It can perpetuate, or even exacerbate, your pain.</p>
-
-<p>Ask yourself if you really want to keep fighting, or do you want to be done so you can move on? That's not to suggest that you should surrender or let your spouse take advantage of you. It means recognizing that a workable resolution may be better for your long-term mental health than winning every argument.</p>
-
-<p>Just a note about safety: When abuse, coercion, or intimidation is involved, safety and legal protection come first. </p>
-<h2>The Goal Isn't to Divorce Without Emotion</h2>
-<p>You're not going to feel calm and rational every minute. Divorce hurts. Sometimes terribly. You're allowed to be angry, frightened, or devastated. The problem isn't having these feelings. It's what you do with them.</p>
-
-<p>Here's how to engage your higher brain: Before taking action, ask yourself:</p>
-<p><em>"Am I trying to solve a problem, protect myself, or punish someone?"</em></p>
-<p>Sometimes you're protecting yourself, and that's appropriate. Other times, you may realize you want your spouse to hurt as much as you do. That's human, too. But acting on that impulse rarely gets you where you want to go.</p>
-
-<p>You may not control your spouse's behavior or how the divorce unfolds. But you can recognize when you're operating from fear, anger, or overwhelm.</p>
-<p><em>The goal isn't to divorce without feeling deeply. It's to make sure temporary emotions don't create permanent consequences.</em></p>
-<p>After all, divorce isn't the last chapter of your life. You still have to live with your decisions long after it's over. The intense feelings you feel are in <em>your </em>body, not theirs. How long do you want to live with those emotions hijacking your pleasure and taking away your power? Practice letting go daily. Join a support group. Get into individual therapy. Read helpful books. Meditate. <br><br>Your power is in where you are headed, not where you've been. Keep moving forward.</p>
+<p>People who read power well will always have an advantage in certain types of work. Whether others experience them as a valuable ally or a threat depends less on how well they play the game than on what they are trying to accomplish.</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/contemplating-divorce/202611/if-you-cant-do-these-5-things-your-divorce-will-be-hellish" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/silicon-psyche/202611/why-the-most-politically-savvy-colleague-gets-things-done" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/contemplating-divorce/202611/if-you-cant-do-these-5-things-your-divorce-will-be-hellish</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/contemplating-divorce/202611/if-you-cant-do-these-5-things-your-divorce-will-be-hellish</guid>
-            <dc:creator><![CDATA[Susan Pease Gadoua L.C.S.W.]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/silicon-psyche/202611/why-the-most-politically-savvy-colleague-gets-things-done</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/silicon-psyche/202611/why-the-most-politically-savvy-colleague-gets-things-done</guid>
+            <dc:creator><![CDATA[Ian MacRae]]></dc:creator>
             <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/lying_awake_in_bed_alexandra-gorn-smus_juza9i-unsplash.jpg?itok=JyqdQYj-" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-alena-beliaeva-78160053-9501388.jpg?itok=cE57YJLa" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Life in Isolation: Are We Living in a Human Zoo?]]></title>
-            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-07/ira.png.jpg?itok=AdEBYxq-" alt="Ira Israel LMFT" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Depression</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Life in Isolation: Are We Living in a Human Zoo?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Could reclusiveness be contributing to the rise in depression and anxiety?</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+            <title><![CDATA[Depression's Cruel Paradox: When What Helps Feels Impossible]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/screen_shot_2020-02-19_at_10.23.29_am.jpg?itok=YYjzELy8" alt="Victoria Maxwell" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Depression</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Depression's Cruel Paradox: When What Helps Feels Impossible</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Personal Perspective: Here's how I learned to take action when motivation is low.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
           <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
             <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
             <ul style="margin:0;padding-left:20px;">
-              <li style="margin-bottom:6px;">Convenience and digital connectivity are not substitutes for physical engagement and genuine belonging.</li><li style="margin-bottom:6px;">Psychology should examine the conditions of people's lives, not just their coping mechanisms.</li><li style="margin-bottom:6px;">Could our depression and anxiety reflect lives that frustrate fundamental human needs?</li>
+              <li style="margin-bottom:6px;">Withdrawal can feel protective while deepening isolation, rumination, and depressed mood.</li><li style="margin-bottom:6px;">Behavioral activation builds activities that offer enjoyment, accomplishment, or both.</li><li style="margin-bottom:6px;">Small actions may help gradually; expecting immediate relief can undermine persistence.</li>
             </ul>
           </div>
-                    <p>In <em>Stolen Focus,</em> Johann Hari explores the distress of captive animals through veterinary behaviorist Nicholas Dodman's description of "frustrated biological objectives": innate needs that remain active even when circumstances prevent their expression. Zoochosis describes abnormal behaviors observed in captive animals, including compulsive self-directed activity.</p>
+                    <p>There is a cruel paradox of depression: The very activities that might help you feel better are the very ones you feel least capable of doing.</p>
+<p>When my depression was at its worst, which meant my motivation was at its lowest, that was precisely when I needed to find ways to become active. I knew what helped. But knowing and doing are two very separate things. Two things separated—in the case of depression—by a great distance. </p>
 
-<p>Let’s consider if zoochosis could apply to human beings too: could some of our depression and anxiety be less about defective individuals and more about the increasingly unnatural environments we live in? We recognize something is wrong when a tiger paces endlessly in a concrete enclosure. Yet when human beings experience restlessness, alienation, depression, or anxiety, we are remarkably quick to diagnose them. “I don’t know who discovered water but I doubt it was a fish,” said Marshall McLuhan. Maybe it’s the water that surrounds us that’s toxic and not something inside of us?</p>
+<p>I should go for a walk, but all I wanted was to hide under my covers. I should eat a salad, but all I wanted was to scarf down sweet potato fries. I should reach out to my friend Alana, but Netflix seemed like a better companion.</p>
+<p>Making matters more challenging, if I did manage to set goals, they were usually unrealistic, which only served to reinforce the depressive cycle: setting a goal, not accomplishing it, feeling worse about myself, and withdrawing further. The wash, rinse, and repeat cycle ad nauseam.</p>
 
-<h2>How Digital Life Reduces Real-World Experiences </h2>
-<p>Remote work, online shopping, food delivery, streaming entertainment, and virtual socializing have become increasingly normal since the pandemic. Many of these things are genuinely convenient and some have improved people's quality of life. But maybe our frictionless lives are not necessarily an upgrade to the human experience? Maybe we thrive when we have little victories like trips to the store, restaurants, gyms and other third spaces where we interact with others?</p>
+<p>I’ve discovered after many depressive episodes that it’s not about pushing through or pushing harder. It's about finding balance between compassionate acceptance of where I’m at, and identifying gentle, achievable action that will benefit me most. </p>
+<h2>Why Doing Less Can Make Depression Worse</h2>
+<p>Emma Morton, a psychologist at Monash University in Melbourne, and I were interviewed about strategies that interrupt the depressive cycle.<sup>1</sup> </p>
 
-<p>We work on one screen, order necessities through another, socialize through messages, exercise in front of a monitor, and unwind by scrolling through videos of other people living lives that appear to be more interesting and exciting than our own. We can spend days on end interacting with two-dimensional representations of the world without actually being face-to-face with other people. Ever heard of pheromones?</p>
+<p>Morton explained that one evidence-based strategy is called behavioural activation. It aims “to break the cycle of lethargy and negative thoughts and behaviors that maintain depression.” </p>
+<p>She said, "When we’re depressed, symptoms such as the loss of interest and enjoyment in your usual activities, combined with fatigue and lack of energy, can make our worlds become very small."</p>
 
-<p>We accumulate hundreds of online acquaintances without experiencing the vulnerability and authenticity that we need and crave. We communicate constantly while remaining profoundly lonely.</p>
-<h2>Human Evolutionary Needs vs. Modern Lifestyles </h2>
-<p>Humans evolved to move through complex physical terrains, not sit on couches with laptops on our laps. We need touching, exploring, smelling, creating, cooperating, taking risks, and belonging to communities in three dimensions, not two.</p>
+<p>I know this to be true. My bedroom, my TV, and the thoughts in my head—very negative thoughts at that—become base camp.</p>
+<p>Morton acknowledged, “When we’re overcome by exhaustion, resting makes sense. When everything feels stressful, withdrawing can feel protective … Unfortunately, this kind of behavior maintains, rather than helps, a depressed mood. The more isolated from our environment we are, the fewer opportunities we have for connection and positive experiences that can help improve our mood. Instead, we can end up with more time for negative self-talk and rumination.”</p>
 
-<p>And being constantly available is not our friend. Neither is excessive optimization nor compulsive productivity. Having no time for friends, family, or contemplation should be seen as failure. We can no longer simply take a walk; we need to track our steps, monitor our heart rates, and demonstrate that we have accomplished something in contrast to “just walking.”</p>
+<p>I learned that, at its core, behavioural activation is about gradually increasing two types of activities: those that bring me—or used to bring me—some kind of enjoyment, and those that give me a sense of accomplishment. Or even better, activities that do both.</p>
+<p>Activities that bring me a sense of mastery—a sense of self-efficacy—have great potential to lift my mood. They offer an opportunity to feel good about something or simply provide a distraction from my caustic inner thoughts and help pass the time.</p>
 
-<p>So what if some of what we call individual psychopathology is really a response to collective conditions that frustrate fundamental human needs?</p>
-<p>Psychology should examine not only what patients are thinking and feeling but also take into account the influences that are causing people to think and feel the way they do. We should ask questions such as, “Do they have true agency? Are they physically engaged with the world? Do they experience meaningful relationships, belonging, creativity, and contribution? Do they have opportunities to experience spontaneity, wonder, and delight?” </p>
+<h2>Small Actions, Not Instant Transformations</h2>
+<p>I remember one particularly ugly depression, one loaded with all the bells and whistles: lack of motivation, self-hatred, self-sabotage, no self-esteem, no joy, unrelenting fatigue, and perpetual anxiety. You know the type: a nice combustible, masochistic mixture of all things unwanted. </p>
 
 
-<h2>Challenging Assumptions About Human Living Conditions </h2>
-<p>Perhaps we need to reconsider the conditions under which we expect human beings to live, work, love, and flourish. That means examining not only individual choices but also workplaces, economic incentives, social institutions, and the technologies that increasingly mediate our experience of reality.</p>
+<p>I began to practice behavioural activation and set goals. Early on, I saw the importance of letting go of the expectation that these small activities would make me feel better right away. This alone gave me motivation to carry on when I didn’t see the point. </p>
+<p>It was the accumulation of small positive actions that began to improve my mood. Slowly, I would notice little blips of joy—ok, maybe not joy—but relief. Moments when the world felt a little brighter—if only briefly. </p>
 
-<p>Helping people adapt to their circumstances is an important part of psychotherapy but our adaptation to COVID-lockdown reclusiveness may be more akin to zoochosis than we have hitherto believed. </p>
+<p>The activities distracted me, helped pass the time, and helped me put one foot in front of the other. At first, a goal that made me feel good about myself might simply be putting my jeans and shoes on, instead of wearing sweatpants and slippers. My goal wasn’t even a walk—it was to change into something I might wear when and if I went for a walk. That’s how manageable I needed them to be. </p>
+
+
+
+  
+
+
+<p>Morton acknowledged this approach can sound boring and overly simplistic. “But it’s not,” she explained. “When paired with other evidence-based techniques, it’s a powerful tool that can disrupt the cycle.” </p>
+<h2>Setting Yourself Up for Success</h2>
+<p>I easily judged myself when I thought about these goals. They were embarrassingly small and meaningless, weren’t they? </p>
+
+<p>This inner hurdle had the potential to prevent me from even trying. In order to have a chance at any success, I needed to find a way to address it.</p>
+<p>Self-compassion and gentleness were the antidotes. Another cruel paradox—these weren’t exactly in abundance when I was in the depths of darkness. It was true, in the past I was capable of more. But depression, like other illnesses, affects our ability to function. Maybe, at the time, those activity goals were the perfect size for me.</p>
+
+<p>When I couldn’t find compassion for myself—read most of the time—I borrowed it. I turned to my therapist, a friend, or read excerpts from helpful books like Pema Chodron’s <em>When Things Fall Apart</em>. Or, if I was lucky, a cuddle from a loving pup helped. They all reminded me that I'm worthwhile, just because I am. Period.</p>
+
+<p>I would make a list. Monday: Have a shower. Tuesday: Talk with Petrina. Wednesday: Walk around the block with Lea. Thursday: Eat a homemade healthy dinner. Friday: Watch two hours of <em>Grey’s Anatomy,</em> not four. </p>
+<p>Slowly, very slowly, over a period of weeks or months (yes, months—yowch—I know), I started to feel better, and the depression began to fade. Climbing out of my depression, though, wasn’t entirely due to the accumulation of small achievements. I was also taking my medication, seeing my psychiatrist and counselor, keeping my sleep on track, and meditating. </p>
+
+<p>We can’t force ourselves to feel better. That’s not possible—even if it were—it wouldn’t be helpful. But setting small, achievable goals that give our mood a chance to shift is. And lo and behold, those tiny actions add up and can gradually bring relief and eventually help us feel like ourselves again. </p>
+
+<p>© Victoria Maxwell</p>
 
             
       <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
       <p style="font-size:0.85em;color:#888;">
-        <a href="https://www.psychologytoday.com/us/blog/authenticity-101/202611/life-in-isolation-are-we-living-in-a-human-zoo" target="_blank">Read the original article on Psychology Today →</a>
+        <a href="https://www.psychologytoday.com/us/blog/crazy-for-life/202611/depressions-cruel-paradox-when-what-helps-feels-impossible" target="_blank">Read the original article on Psychology Today →</a>
       </p>]]></description>
-            <link>https://www.psychologytoday.com/us/blog/authenticity-101/202611/life-in-isolation-are-we-living-in-a-human-zoo</link>
-            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/authenticity-101/202611/life-in-isolation-are-we-living-in-a-human-zoo</guid>
-            <dc:creator><![CDATA[Ira Israel, Psychotherapist]]></dc:creator>
+            <link>https://www.psychologytoday.com/us/blog/crazy-for-life/202611/depressions-cruel-paradox-when-what-helps-feels-impossible</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/crazy-for-life/202611/depressions-cruel-paradox-when-what-helps-feels-impossible</guid>
+            <dc:creator><![CDATA[Victoria Maxwell]]></dc:creator>
             <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
-            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-cottonbro-6763595.jpg?itok=SG1VMaPo" length="0" type="image/jpeg"/>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/alejandro-luengo-jsvor46xk8q-unsplash.jpg?itok=sJB4ylun" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How Did So Many Women Become the SNL “Sister” Character?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/Alford.png.jpg?itok=HjeOfN0c" alt="Alford" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Career</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How Did So Many Women Become the SNL “Sister” Character?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Daughters' lessons about who should care for parents accumulate over a lifetime.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Daughtering doesn't start when eldercare begins; it's been happening.</li><li style="margin-bottom:6px;">Many factors create an awareness for women of how and when to show up for our families.</li><li style="margin-bottom:6px;">Daughters don't have to become the default; there are a lot of options for who does the care.</li>
+            </ul>
+          </div>
+                    <p>In<em> Saturday Night Live</em>’s <a href="https://www.youtube.com/watch?v=-X9dxL17t1k&amp;utm">“Sister” sketch</a>, the family’s eldercare solution is The Sister (aka The Daughter). In this skit, Sister drops everything going on in her life to care for Dad. What struck me was one of the quick screens that flashed, describing <em>why</em> women feel compelled to act in this way: "years of internalized sexism," they say, have made caregiving feel like her responsibility. </p>
+
+<p>As I watched this clip (over and over again, trying to understand how it could be both funny and triggering simultaneously), my eyes zoomed in on this particular screen. There are icons like a television, flag, music notes, religious symbols, and a book surrounding the female caregiver. </p>
+<div class="insertArea ck-widget">
+<div class="image-article_inline_full">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_full_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_full_caption/public/field_blog_entry_images/2026-11/39050.jpg?itok=LvdUUk8r" width="639" height="600" data-insert-type="image" alt="In the &amp;quot;Sister&amp;quot; skit from SNL, we see an indication where this burden and obligation comes from. It's not innate, it's absorbed over time. " title="CBS/SNL"></div>
+<div class="caption">In the "Sister" skit from SNL, we see an indication where this burden and obligation comes from. It's not innate, it's absorbed over time.</div>
+<div class="insertArea--origin subtext">Source: CBS/SNL</div>
+</div>
+</div>
+</div>
+<p>To me, these indicators are like a recipe for how daughterhood is taught. It's not one single song, policy, television show, book, or religious text that makes a daughter feel like the default support person in a family. These are messages that accumulate over a woman's lifetime. The particulars of the influencing cultural messages differ across families and communities; and, of course, each influence trigger can also provide counter-messaging. But repeated, prolonged, non-stop ideas about <strong>who is naturally nurturing</strong>, <strong>who should sacrifice</strong>, and <strong>who is responsible for family care</strong> can begin to feel like common sense. It's like Stockholm syndrome in that it seeps into your consciousness that this treatment and behavior is natural and normal and you're the one who needs to do it. </p>
+
+<p>Daughterhood doesn't just start up one day when a parent becomes ill. It is built through years of everyday interactions with our cultural influences at play. For example, a young girl (eldest sister) was praised for being responsible, asked to remember a relative’s birthday, encouraged to help a younger sibling, or expected to notice when a parent is worried. High-level cognitions and emotions that are baked into our childhood tend to stay with us. These acts can be loving and ordinary. Either the family sees this as helping or they think it's part of her personality (if they notice her care provisions at all). Over time, though, repetition teaches daughter what others expect from her within the family system (and what she can expect for her own trajectory).</p>
+
+<p>A 2021 review of <a href="https://pubmed.ncbi.nlm.nih.gov/33792420/">research on unpaid family care</a> describes socialization as role learning shaped by family, culture, modeling, and normalization. In many of the studies reviewed, daughters and daughters-in-law internalized caregiving responsibility in ways connected to gender, birth order, and marriage (McAllum et al., 2021). That shows that women <em>feel </em>like they're supposed to be doing the daughtering and care work. The process of internalizing this expectation is not a single lesson. It is a decades-long apprenticeship: first watching, then helping, then becoming the person others rely on.</p>
+
+<p>When a daughter becomes so smooth at anticipating needs, her skill and ability in this role can become obscured. She's so good at care work that the history and training that produced her competence become hidden. Relatives may say she is “just better at this,” as if a daughter's skill at anticipating and noticing are just instinct instead of practice. The more a woman does well for her family, the easier it becomes for others to step back. And because care includes so much planning, emotional attunement, and follow-through, the daughter is working and laboring and giving long before anyone calls it caregiving.</p>
+
+<p>In my book, <a href="https://www.harpercollins.com/products/good-daughtering-allison-m-alford-phd"><em>Good Daughtering</em></a>, I talk about the many facets of daughtering. It's the unpaid, often invisible work of holding a family together: checking in, stepping up, and smoothing over. Eldercare can bring that work into sharp focus, but it doesn't create a need for daughtering out of thin air. By the time a crisis arrives, a daughter already understands herself as the one who notices, remembers, and responds. She's been doing it for years by this point. The crisis only makes it visible to others. </p>
+
+<p>That is why the instant activation of the <em>SNL</em> "Sister" character matters. While the text from her brother is sudden, the role of daughtering is not. She drops everything and gets to work. Of course, she feels like refusing makes her selfish, even when the family has never asked <em>who else</em> could take responsibility. Guilt can make a learned expectation feel like a personal obligation. And that's our pain point. Women must learn to sit in the tense feelings of guilt while claiming recognition for our labor. </p>
+
+
+<p>The point is not to blame daughters for internalizing the messages around them, or to assume every family follows the same script. The big point here is to ask how this "Sister" or "Daughter" social script became so familiar. And we also need to ask: who in the family benefits when one person carries the heaviest parts of the overall load? </p>
+
+<p><strong>If daughterhood is built over time, it can also be renegotiated over time.</strong> Families can make the work of caring become visible, question the assumptions that just one specific daughter will step in and do it all, and definitely teach sons and other relatives to notice, plan, and care without waiting to be assigned.</p>
+
+
+
+  
+
+
+<p>The <em>SNL</em> "Sister" sketch is funny because it compresses a very common, yearslong story into a quick two minutes. But let's not forget the bigger, more difficult question that we should be asking much earlier in life: Why does everyone think it's the daughter who will be the one to go? </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/good-daughtering/202611/how-did-so-many-women-become-the-snl-sister-character" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/good-daughtering/202611/how-did-so-many-women-become-the-snl-sister-character</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/good-daughtering/202611/how-did-so-many-women-become-the-snl-sister-character</guid>
+            <dc:creator><![CDATA[Allison M. Alford, Ph.D.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-olly-3768131.jpg?itok=zYRups9p" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Deal With a Big Liar]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/bruce_y_lee.png.jpg?itok=5-I4em7x" alt="Bruce Y. Lee M.D., M.B.A." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Deception</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How to Deal With a Big Liar</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Big lies can be used to take things from you and get ahead.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">A big liar is different from a little liar and can cause a lot of damage to those who don't defend themselves.</li><li style="margin-bottom:6px;">Some people will use big lies to discredit others or take others' work in order to get ahead in some way.</li><li style="margin-bottom:6px;">Big liars operate best in the dark, so the key is to shed sunlight on all of their lies and actions.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/pexels-enginakyurt-6605429.jpg?itok=UA5u1s0K" width="320" height="213" data-insert-type="image" alt="What happens when run into big lies from a big liar—someone willing to completely fabricate things about you in order to discredit or take something away from you?" title="Engin Akyurt from Pexels"></div>
+<div class="caption">What happens when run into big lies from a big liar—someone willing to completely fabricate things about you in order to discredit or take something away from you?</div>
+<div class="insertArea--origin subtext">Source: Engin Akyurt from Pexels</div>
+</div>
+</div>
+</div>
+<p>Sure, it's common to encounter little lies that don't matter a whole lot in the grand scheme of things—like being told you look great in an outfit when you actually look like Bubble Bass from SpongeBob SquarePants. But it can be a different story when you run into a big liar—someone willing to completely fabricate things about you in order to discredit or take something away from you. One cannot lie. This can be quite a frustrating experience.</p>
+
+<p>This can occur, for example, when someone without the proper credentials or track record is trying to get ahead in an area. If you are already well-established in that area, you may quickly become a target of liars using big lies to take your ideas, credit, or resources. This can even include liars accusing you of doing what they are trying to do themselves—namely taking something from them when they actually took it from you. </p>
+
+<p>That's the opposite of a gas. It's gaslighting, which I've covered before for "<a href="https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202606/10-signs-that-someone-is-trying-to-gaslight-you">A Funny Bone to Pick</a>." It can leave you questioning reality, as in, "Hold on a second. Someone who has no experience in my area of expertise is somehow claiming that I took an idea from that person?" </p>
+<p>And people who've already demonstrated that they have no qualms about lying may stop at nothing to get what they want. Such dangerous people may try to bury you in a flurry of fabrications. So what can you do?</p>
+
+<h2>Cease Any Non-Documentable Interactions</h2>
+<p>The very first thing is to gain control of the situation and completely cut off any interactions with the liar that are not clearly documentable. Big liars will use such undocumented meetings to trap you and generate more fodder for more lies—like claiming you behaved in such-and-such manner or said such-and-such during the meeting. It can then become a you-said-liar-said situation. And guess who then has the upper hand if you aren't willing to lie but the liar certainly is? </p>
+
+<p>And don't get trapped in meetings that have so-called witnesses who have been chosen and set up by the liar to go against you. You never know what control the liar may have over others—such as pictures of others in some kind of compromising position with fish—that may force the witnesses to lie, too. So, choose your witnesses carefully yourself and maybe record the meeting as a backup. </p>
+
+<h2>Document All Interactions And The Lies</h2>
+<p>Documentation is so important because liars can be notoriously slippery—using lots of undocumented side conversations with others to spread falsehoods. Liars operate best in the dark—sort of like vampires. And what's the best way to combat vampires? Sunlight. </p>
+<p>Yes, your goal should be to get the liar and the liar's actions out in the open as soon as possible for everyone to see. One way is to switch all your conversations to email while telling everyone clearly why you are doing so. In fact, try asking the liar direct questions by email. Anyone with nothing to hide should be able to answer such questions directly, right? Any hedging or reluctance can suggest otherwise. </p>
+
+<p>This may seem like a lot of work, especially when no one else around you seems to care about the truth at the moment. Liars, by definition, typically don't play the long game—because they otherwise might see the long-term consequences of lying and how it may catch up to them eventually. Lying to them seems like an easy short-term fix. But if you play the long game and keep noting every lie, you never know when it may come in handy down the road. </p>
+
+<h2>Get Other People Involved</h2>
+<p>Since liars frequently will use lies to pit other people against you, don't take on a liar by yourself. The sooner you document the lies and show them to others—including those in the legal profession—the better. If the liar somehow thinks that you are alone, isolated, and thus easy to bully, you may have to flex your network to the liar a bit. </p>
+
+<p>It can help to expand the so-called blast radius of any of the liar's actions. When a liar drops a lie, bring others into the conversation. That will force the liar to lie to more and more people. </p>
+<h2>Beware of the Role Switch</h2>
+<p>All the while, be mindful of any role switching that big liars may do—such as playing the victim when they are the ones actually attacking you. Liars can be great actors because they aren't hampered by inconvenient stuff like truth, evidence, and facts. </p>
+
+
+
+  
+
+
+<p>So, stay cool, and stick to the facts. Don't play their game and resort to vague, unsupported statements. Big liars are going to be better at that than you. </p>
+<h2>Keep the Right Perspective</h2>
+<p>Throughout the downpour of lies, choose what you do and don't care to fight, practice self-care, and get support from your friends. The gaslighting can be tough and leave you wondering why others can't see what the big liar is doing and questioning humanity in general. Remember, though, that even if others do in fact see through the big liar, they may keep quiet because they don't want to get involved and may even fear the big liar themselves. Your good friends can provide healthy contrasts to such cowardly people. </p>
+
+<p>Plus, ask yourself: Would you ever want to be the big liar? Such people have to rely on lying because they can't stand on their own merits. These are deep down insecure and broken people who have to keep maintaining increasingly tangled webs of lies. They've probably done the same lying to many other people, and at some point, it may all catch up to them.</p>
+
+<p>Therefore, when it seems like the big liar is getting away with something, ask yourself specifically what. Ultimately, these big liars can't get away from themselves and the sad existence of having to rely on lying. There's no lying about that. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202611/how-to-deal-with-a-big-liar" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202611/how-to-deal-with-a-big-liar</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202611/how-to-deal-with-a-big-liar</guid>
+            <dc:creator><![CDATA[Bruce Y. Lee M.D., M.B.A.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-enginakyurt-6605429.jpg?itok=HhOCUnuA" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Becoming Aware of Being Unaware]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/david-removebg-preview.jpg?itok=3vQHGrxC" alt="David Hanscom MD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Emotional Intelligence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Becoming Aware of Being Unaware</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Unawareness blocks your capacity to live a full life and heal.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Every action a person takes today is determined by what they learned from their past.</li><li style="margin-bottom:6px;">Everyone has a unique lens and version of reality, so no one sees things as they truly are.</li><li style="margin-bottom:6px;">A key step in deepening awareness of the present is understanding the clues to being unaware.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/andreas_meyer.jpeg.jpg?itok=enL9NZYp" width="320" height="427" data-insert-type="image" title="Andreas Meyer/AdobeStock" alt="Andreas Meyer/AdobeStock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Andreas Meyer/AdobeStock</div>
+</div>
+</div>
+</div>
+<p>Every decision and move you make in this moment is determined by all your past experiences up to this very second. It is how every living creature stays alive. Is the situation safe or dangerous? It is how we evolved, and the species that ignored the cues or didn’t adapt didn’t survive.</p>
+<h2>Consciousness and Unawareness</h2>
+
+<p>Humans have an additional layer of issues, in that language and consciousness require another level of awareness to survive and thrive. Many threats, such as shaky finances, verbal abuse, being bullied at school or work, authoritarianism, racism, and a host of other issues, are real threats. However, if you step back, many situations that are perceived as threats are actually cognitive distortions. Although the threats are not real, they can feel real and still trigger your nervous system and fight-or-flight response. Since we cannot escape our thoughts, they are especially damaging because the reaction is sustained and your body breaks down. It is well-documented that chronic stress causes illness and disease. <sup>1,2</sup></p>
+
+<p>A couple of factors to consider: We are programmed almost from the day we are born to be a certain way, according to the opinions of our parents, educators, peers, colleagues, society, and the marketing world. Marketing is especially problematic because it benefits from making you feel bad about yourself. Marketing efforts are focused on offering solutions to help you feel better about yourself—for a price. Unfortunately, the solutions are only temporary, and your brain keeps telling you (with ongoing messaging) that you are still not good enough. Then, you project the world’s opinion of you onto yourself, and onto others. (As a quick aside: When you are critical of others, you might as well carry a bullhorn telling the world how you feel about yourself. That is just how consciousness works.)</p>
+
+<h2>Ego and Mental Rigidity</h2>
+<p>Ego is at the core of human suffering. It is one of the deadliest concepts, and it is unique to our species. It involves endless judgments of “better than” or “less than.” It extends our survival instincts into the emotional world. What makes it worse is that much of our ego is based on cognitive distortions, and with repetition, they become embedded in our brain as “reality.” Neuroscience research on consciousness has shown that our thoughts and abstract thinking become embedded in our brain as concretely as a car or a table. Consider the concept of colors. My cat probably recognizes red from white but doesn’t have a name for it.</p>
+
+<h2>Work With Your Anxiety and Anger</h2>
+<p>The nail in this coffin is that anxiety and anger are powerful, <em>hard-wired,</em> and unpleasant survival reactions and sensations that are generated when you are in a fight-or-flight response, and hundreds of thousands of times more powerful than your conscious brain. They are necessary, the gift of life, and not subject to rational interventions. We spend much of our lives trying to run from these sensations and take them personally. One outcome is that we label ourselves and others. Labels, positive or negative, completely block awareness.</p>
+
+<p>The skill of developing a “working relationship with anxiety and anger is another discussion. This article’s message is that using a stronger ego (identity) to compensate is a mismatch: ineffective, endless, exhausting, and eventually destructive. Any time you are anxious or frustrated, you have blocked true awareness of the variables contributing to a given situation. Something in the present triggered a memory from the past that either was dangerous or perceived as such. By definition, you are no longer in the present and have lost awareness. You can only see the world through your eyes; it is about you. Your brain’s blood supply shifts away from the thinking centers to the lower survival centers, and your behavior may not be your best. This is why we say, <a href="https://backincontrol.com/no-action-in-a-reaction-the-need-for-gun-control/?v=0b3b97fa6688">“no action in a reaction.”</a></p>
+
+<h2>“True Awareness”</h2>
+<p>It is not possible. The best you can hope for is to cultivate and nurture it. Each person views the world through his or her “programming,” and it is his or her reality. So, learning when you are unaware is a necessary first step. Then a deeper awareness can emanate and evolve. Awareness will beget more awareness. </p>
+
+<h2>Clues to Unawareness</h2>
+<p>How can you tap into your unawareness? One way is to look for cues in certain behaviors and attitudes that may mean you’re out of touch with how you’re feeling. Some examples include:</p>
+<ul>
+<li>Having a rigid opinion about almost anything: religion, politics, someone’s character, etc.</li>
+<li>Being told you’re stubborn or “not listening”</li>
+<li>Interrupting someone to offer an opinion before you’ve heard theirs in total</li>
+<li>Being “right”</li>
+<li>Consistently thinking about something besides what you’re doing</li>
+<li>Thinking you’re wiser than your children</li>
+<li>Acting on impulse</li>
+<li>Feeling anxious or angry (This is the most basic. Something in the present connected to something in the past that was, or was perceived as, dangerous. By definition, you are there and not here. Awareness is impossible while you are in one of these powerful states. What’s ironic is that when you are angry, you feel like you have a perfect understanding of the issues. This is called “negative transference.” You are actually completely disconnected because it is only about you.</li>
+<li>Judging yourself or others negatively or positively
+<ul>
+<li>Being persistently critical of your spouse, partner, and/or children</li>
+<li>Giving unasked-for advice</li>
+<li>Gossiping</li>
+</ul>
+</li>
+</ul>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/choat.jpeg.jpg?itok=FDRZdcyt" width="320" height="211" data-insert-type="image" title="Choat/AdobeStock" alt="Choat/AdobeStock"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Choat/AdobeStock</div>
+</div>
+</div>
+</div>
+<h2>Recap</h2>
+<p>We are all programmed from birth to be certain ways by our parents, peers, educators, and society. These concepts become our version of reality, as concrete as your concepts of a house or a car. Our brains interpret essentially everything. That is the reason true awareness is impossible, as each person perceives their view of life as the correct one—whether it is positive or negative.</p>
+
+
+
+  
+
+
+<p>The necessary step to see situations more deeply and clearly is understanding the clues of being unaware. You cannot change the scenarios when you are unaware. It is beyond your control. So, creating “space” and watching your reactions lets you see the world through others’ eyes. Noticing when you are unaware begins a process that opens your thinking and is far more interesting than rewatching your own projections. It is also the first step in reprogramming your brain, in that you cannot create change unless you know where you are starting from.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/anxiety-another-name-for-pain/202611/becoming-aware-of-being-unaware" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/anxiety-another-name-for-pain/202611/becoming-aware-of-being-unaware</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/anxiety-another-name-for-pain/202611/becoming-aware-of-being-unaware</guid>
+            <dc:creator><![CDATA[David Hanscom MD]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/andreas_meyer.jpeg.jpg?itok=7CVLZld8" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cost of Ignoring Your Own Voice]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2025-12/aigerim_alpysbekova.png.jpg?itok=EM00GDD4" alt="Aigerim Alpysbekova MPH" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Confidence</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Cost of Ignoring Your Own Voice</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">We sometimes trust everyone else's judgment more than our own.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Seeking advice can become a way of looking for permission to ignore what one already feels.</li><li style="margin-bottom:6px;">People can genuinely want the best for someone while still misunderstanding what truly works for them.</li><li style="margin-bottom:6px;">Making better decisions means considering others' perspectives without allowing them to replace one's own.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/qimono-doors-1767562.jpg?itok=8E0p3m4l" width="320" height="171" data-insert-type="image" alt="Pixabay/Arek Socha" title="Pixabay/Arek Socha"></div>
+<div class="insertArea--origin subtext">Source: Pixabay/Arek Socha</div>
+</div>
+</div>
+</div>
+<p>Have you ever noticed how easily we can convince ourselves to do something we don't want to do?</p>
+<p>We feel that something is off, but after talking to a few people, listening to their advice, considering all the benefits, and hearing how great the opportunity is, we end up doing exactly what we didn't want to do in the first place.</p>
+
+<p>When was the last time you trusted your own feelings without asking five other people what they thought? I want to tell you a story from my life. It is about an opportunity I talked myself into believing was perfect. </p>
+<h2>The Voice You Keep Ignoring</h2>
+<p>A while ago, I was invited to visit a potential workplace in another city. They offered to cover my trip so I could spend a few days there, give a talk, and meet the team. I was excited. Who wouldn't be? Good money, benefits, professional recognition, and what seemed like a great opportunity. But from the very beginning, something inside me was saying, don't go.</p>
+
+<p>Usually, your inner voice is so quiet, so thin, and impossible to hear. Have you ever had a dream where you want to scream but can't? You open your mouth, try with all your strength, but only a barely audible sound comes out. You know you are trying to say something, but the words just won't come out.</p>
+
+<p>That's how I imagine our inner voice sometimes. It's there, trying to get our attention, but we are too busy to listen. It's like watching someone trying to tell you something from across a room. You can see their mouth moving, you know they have something to say, but there is so much noise around you that you never quite hear them. And eventually, you turn away and continue with whatever you were doing.</p>
+
+<p>I knew something was there, but I couldn't quite hear it. I didn't make much effort to hear it either. Life was busy. I had things to do, responsibilities, plans. I kept going, thinking that maybe the feeling would disappear.</p>
+<p>Then came the trip. I almost missed my flight, even though I had arrived at the airport ahead of time. An issue with something in my luggage held me up at security. The whole process took so long that I could hear the announcement that my gate was closing. I remember telling them I didn't care about the item anymore; I just needed my suitcase. I grabbed it and ran.</p>
+
+<p>I made it onto the plane. When I landed in the new city, I felt that the atmosphere, the surroundings, and the pace of life were not quite aligning with me. It was cold, and not what I was used to. At that moment, I just wanted to go back home. But then I started convincing myself that maybe it was just the weather. Maybe I was tired.</p>
+
+<p>After all, everyone had encouraged me to pursue this opportunity. Who rejects something that life brings their way? What if I was turning down something good because I was uncomfortable with change?</p>
+<p>During those three days in a new city, I felt weak and exhausted the entire time. I kept finding explanations for everything. It's probably the weather. I was counting the days until I could go home. And when I finally did, I felt so grateful. I remember being genuinely happy to be back in my own city, in my familiar surroundings. I didn't even want to think about the offer for a few days.</p>
+
+
+<p>But eventually, I had to make a decision. I talked to my friends and colleagues and explained how I felt. I said that I didn't think this was my place, that something didn't feel aligned with what I wanted. I didn't want to seem ungrateful or like someone who couldn't appreciate a good opportunity. And everyone started convincing me again. It's a great opportunity. Look at the benefits, the position. You can't just reject something like this.</p>
+
+<p>And again, I listened to everyone except myself. I accepted. After settling into the new environment, I realized that the things I had sensed during those few days were not going away. The work environment felt restrictive. I didn't feel connected to the community or the lifestyle. The things I valued and enjoyed in my everyday life were missing.</p>
+
+
+
+  
+
+
+<p>I remember thinking: Did I really not notice all of this when I was there for a few days? Why didn't I listen to myself? What I experienced during those three days became part of my everyday life, but in a much bigger format.</p>
+<p>I don't regret my decisions. I don't believe every decision has to be perfect, and I am grateful for the experiences that have brought me where I am. But I do wish I had given my own feelings the same attention I gave everyone else's opinions.</p>
+
+<p>Why was it so easy for me to doubt my own feelings, but so difficult to question everyone else's advice?</p>
+<p>I started wondering how often we do this without noticing. We are looking for confirmation. We already have a feeling about something, but we want someone else to tell us that it's okay to feel that way. Other times, we keep asking because we are afraid of making the decision ourselves. If someone we trust tells us what to do, perhaps the responsibility feels a little lighter.</p>
+
+<p>The other part about advice is that people see your decision from the outside. They see the benefits, the possibilities. They see what looks good on paper. But they don't have to live your everyday life afterward. They don't wake up in your environment or experience your discomfort.</p>
+<p>They can genuinely want the best for you and still be wrong about what is best for you.</p>
+
+<p>Good intentions don't mean good advice for our specific situation. I don't think this means we should stop asking for advice or assume that our first instinct is always right. But do not let other people's perspectives replace your own voice. </p>
+<p>Next time you want to ask for advice about your specific situation, think of this: What is your first feeling? What are you hoping someone would tell you? And if nobody had an opinion about your decision, what would you choose?</p>
+
+<p>Also, you don't have to make every decision right away. Take some time, gather information (this is important), consider different perspectives, and change your mind. But don't let the process of seeking advice become a way of silencing yourself.</p>
+<p>Everyone around you can be convinced that you are making the right decision, but you are the only person who knows how it feels to live with it.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/trauma-growth-and-the-search-for-meaning/202611/the-cost-of-ignoring-your-own-voice" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/trauma-growth-and-the-search-for-meaning/202611/the-cost-of-ignoring-your-own-voice</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/trauma-growth-and-the-search-for-meaning/202611/the-cost-of-ignoring-your-own-voice</guid>
+            <dc:creator><![CDATA[Aigerim Alpysbekova MPH, PhD]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/qimono-doors-1767562.jpg?itok=3_7XxKJm" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Are Your Emotional Triggers at Work?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2026-11/chatgpt_image_may_1__2026__05_04_35_pm-removebg-preview_1_.png.jpg?itok=R5UB0Sx7" alt="Michael W Wiederman PhD" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Workplace Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">What Are Your Emotional Triggers at Work?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Identifying and sharing your triggers can increase job satisfaction.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Everyone has triggers, which produce negative emotions when activated.</li><li style="margin-bottom:6px;">Identifying one's triggers is the first step toward understanding their root causes.</li><li style="margin-bottom:6px;">Sharing emotional triggers among coworkers has multiple benefits.</li>
+            </ul>
+          </div>
+                    <p>What is the one thing that could happen at work to ensure that you have a “bad” day? If someone really wanted to upset you at work, what should they do? When do you feel the most angry, disappointed, frustrated, stressed, or hurt at work? Answers to questions like these point to your specific emotional triggers at work.</p>
+
+<p>What is the value of identifying your emotional triggers? Identification is the first step toward recognizing patterns and commonalities across instances. That recognition allows you to begin considering what is going on internally (in you) when these situations occur. That is, how do you interpret the events that prompt a particularly strong emotion in you?</p>
+
+<p>The goal is to answer the question, “Why do I feel strong emotions when this happens?” The answer may seem obvious at first. For example, suppose that a trigger for you is a coworker not pulling their weight. The obvious answer is “I get angry because it’s unfair. I’m working harder than they are.” True, it is unfair. But why does that unfairness upset you?</p>
+
+<p>Someone else might react to the same situation by concluding that the important thing is whether they themselves are doing a good job, and perhaps they believe that slackers will eventually experience negative consequences. The point isn’t that there is a right way or wrong way to interpret the experience of a slacking coworker, but rather that every interpretation (reaction) is a personal one. There isn’t an inevitable response that every person would have if they experienced the same situation.</p>
+
+<h2>How Past Experiences Shape Workplace Triggers</h2>
+<p>In this example, does a seemingly lazy coworker remind you of someone from your past who acted the same way and caused you problems? Has your work ethic been questioned at some point in your life, and so you have an old fear of being seen as less-than-hardworking, and your coworker’s behavior reminds you at some level of that old experience of your own? Perhaps someone in your past accused you of not working hard, yet was a hypocrite by being the lazy one. The hope is that identifying the root cause of our interpretations of other people’s behavior allows for the possibility of letting it go. How? By talking to ourselves to arrive at a more rational, or less personally harmful, conclusion.</p>
+
+<p>To continue with this example, if your anger or upset does not result in your coworker changing their behavior, what is the purpose? We know the result—raised blood pressure and decreased satisfaction with your job. Who gets hurt by your interpretation (reaction) to your coworker?</p>
+<h2>Turning Emotional Triggers Into Constructive Conversations</h2>
+
+<p>Sometimes our emotional triggers at work can point us toward steps we can take to potentially improve the situation. If feeling upset with a slacking coworker motivates you to have a calm, candid conversation with the coworker or their supervisor, then the coworker may start working harder, and everyone on the team may benefit. Too often, though, our triggers result in complaining, gossip, and decreased satisfaction at work.</p>
+
+<p>So, the overarching goal is to use our triggers as information in the pursuit of resolving them, one way or another. There is additional benefit in explicitly sharing your triggers with your coworkers. The rationale you present might be that you want your colleagues to better understand your negative emotions when they witness them. In actuality, if your coworkers know your triggers, they may be less likely to behave in ways that activate your triggers.</p>
+
+<p>Ideally, work teams would invest a little time in candidly sharing what each person’s triggers are. This team-building activity brings people closer together (as most forms of self-disclosure tend to do), and informs everyone of how best to work with each other. It can also be a revelation to realize that the people around you do not necessarily share the same emotional triggers (although we tend to assume that other people share ours).</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/mindful-professional-development/202611/what-are-your-emotional-triggers-at-work" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/mindful-professional-development/202611/what-are-your-emotional-triggers-at-work</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mindful-professional-development/202611/what-are-your-emotional-triggers-at-work</guid>
+            <dc:creator><![CDATA[Michael W Wiederman PhD]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-pavel-danilyuk-8638024.jpg?h=5265a33d&amp;itok=6XN10hBZ" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lived Experience and Epistemic Privilege]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/-1_4.jpg?itok=PS9f6fcG" alt="Joachim I. Krueger Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Psychology</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Lived Experience and Epistemic Privilege</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">The trials of life are costly, but also precious.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Having lived experience is a privilege.</li><li style="margin-bottom:6px;">Some writers challenge the epistemic privileges of others.</li><li style="margin-bottom:6px;">Ultimately, findings obtained with methodological rigor form the core of psychological science.</li>
+            </ul>
+          </div>
+                    <p><em>"Ich habe Lebenserfahrung [I have life experience]."—</em>E. Rudolf Krüger, putting his son in his place</p>
+<p><em>"Experience keeps a dear school, but fools will learn in no other."—Benjamin</em> Franklin, 1743, meditating on the benefits of heeding advice</p>
+<p>A current trend in the psychological scene is seeking to rehabilitate <em>lived experience</em> as an element of scholarship (Krueger, 2026). The importance of lived experience as part of the human condition is undeniable (Casey, 2023). It is also undeniable that there is value in sampling reports of lived experience widely to ensure that a broad spectrum of voices is being heard; indeed, there is also value in oversampling voices from small populations to ensure that minority views are not drowned out by a majority din (Kalsbeek, 2003). </p>
+
+<p>There are good reasons to think, however, that a chorus of voices will not amount to scholarship unless it is tamed, disciplined, and critically examined. Scientific methods can do this. They impose standards on the collection, the organization, and the interpretation of evidence (Godwin &amp; Goodwin, 2016). Although stories and narratives are obligatory elements of the human condition (Gottschall, 2012), they cannot replace science; they can only be objects of scientific study. Stories are data, that is, material to be curated by theory and explored with standardized methodology. The idea that stories of lived experience can stand on their own is as mistaken as the idea that quantitative data, and especially “big data,” reveal reality all by themselves, without help from or intervention by a theoretically minded intellect (Felin et al., 2021). </p>
+
+<p>Sir Karl Popper (1963) made this point jokingly. Beginning in 1928, he invited his students to “observe,” and when they asked, "What?" Popper exclaimed, "Aha!" Observation needs guidance. Then, the act of making an observation can create value; indeed, it can bring forth a reality, but only inasmuch as the observation is embedded in a web of expectations, knowledge, and prior experience. A phenomenologist might say that the lived experience of sensing and perceiving <em>is</em> the thing: It is Kant’s (1783) <em>Ding an sich</em>. We do not perceive a reality that is out there; instead, having a sensory experience <em>is</em> the reality. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/ngram1.png.jpg?itok=w_VPu5q8" width="320" height="122" data-insert-type="image" alt="ngram tracking mentions of &amp;quot;self-esteem&amp;quot; and &amp;quot;memoir&amp;quot;" title="J. Krueger with google ngram viewer"></div>
+<div class="caption">ngram tracking mentions of "self-esteem" and "memoir"</div>
+<div class="insertArea--origin subtext">Source: J. Krueger with google ngram viewer</div>
+</div>
+</div>
+</div>
+<p>Important as they are, it is doubtful that lived experiences can supersede systematic scientific work. Yet, stories and narratives populate the literature. How do they get in? One pathway is for everyone so inclined to write up their story and get it published. This genre of literature exists. When asked, the AI engine Claude estimates the number of published biographies to exceed 10,000 annually. A search of the term "Google n-gram viewer" shows that during the post-WWII era, the term “memoir” has risen in popularity, in tandem with the term self-esteem, suggesting a cultural drift to greater concern with the individual self. Yet, the term "memoir" already enjoyed an earlier flowering during the era of romanticism (see Figure 1). </p>
+
+<p>To see how stories and narratives of lived experience enter the psychological literature, we have to look to the pathways offered by the field of qualitative psychology. Here, an increasingly popular view is that both the conductors of qualitative research and their informants gain <em>epistemic privilege</em> from lived experience relevant to the subject matter at hand (Levitt &amp; Pierorazio, 2026). This view is critical of investigative neutrality, a traditional value of the scientific mindset. Thomas Nagel (1986) referred to this mindset when asking whether we can take “a view from nowhere,” a perspective which privileges no one (also, Weber, 1904; 1917). </p>
+
+<p>Of course, the lived experience of informants is critical when it underlies the expertise that needs to be brought to the investigation. When researching, for example, what the experience of post-traumatic stress is like, informants must be found who have had that experience. Insisting that researchers ought to have had that same type of experience would be an odd demand. At best, an investigator’s lived experience is irrelevant; at worst, it sets the stage for methodological bias. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/ngram2.png.jpg?itok=LufgkjdQ" width="320" height="113" data-insert-type="image" alt="ngram tracking mentions of &amp;quot;lived experience&amp;quot; and &amp;quot;epistemic privilege&amp;quot;" title="J. Krueger with google ngram viewer"></div>
+<div class="caption">ngram tracking mentions of "lived experience" and "epistemic privilege"</div>
+<div class="insertArea--origin subtext">Source: J. Krueger with google ngram viewer</div>
+</div>
+</div>
+</div>
+<p>The terms of lived experience and epistemic privilege are increasingly seen in the literature, as shown by the second n-gram graph (Figure 2). The relative popularity of the term epistemic privilege seems to be lagging, perhaps because this term is more difficult to comprehend. One reason for this difficulty is that the term has been used in more than one way. One usage is to refer to a knowledgeable person who has privileged <em>access</em> to the material under investigation. To the early school of introspective psychology, pioneered by Wilhelm Wundt, privileged access to one’s own mental contents was the foundation of their scientific efforts. A very different way of referring to epistemic privilege is political (e.g., Hartsock, 1983). Here, the position of the researcher is called into question (or “interrogated”) as a source of bias or perhaps even oppressive intent. Wundt is turned on his head. </p>
+
+<p>Many authors feel strongly about critically assessing researchers’ epistemic privilege. Alas, limiting access to research outlets because of concerns regarding the researcher’s <em>positionality</em> sets up a slippery slope that can lead to unwarranted exclusion. It is worthwhile asking whether psychological science is not best served by an ethos of epistemic neutrality. Let the quality and rigor of the research speak for itself. This ethic allows authors of different positionality and authors with different kinds of epistemic privilege—or lack thereof—to contribute to the conversation. Authors in the progressive vein, for example, may wish to recall that from Marx to Lenin and to the Frankfurt School, the most influential authors emerged from the bourgeoisie. Should they have been denied the privilege of championing the interests of the proletariat? </p>
+
+<p>My sympathies lie with the conventional ethic of <em>blind reception</em>. Let the research speak for itself, and let it be evaluated in light of explicit, rigorous, and shared standards. In my teaching, though, I seek to help students situate individual research articles within the authors’ life’s work. When students give a presentation in class, I ask them to include a short author biography with key data from their career and even a photo if they can find one. This exercise helps students understand why the researchers care about their work and see connections across studies. The goal is not to “interrogate” the researchers’ motives or use their demographic data as grounds for speculation about their intentions. </p>
+
+
+
+  
+
+
+<p>Robust scientific results should stand regardless of who produced them. In time, memory for findings should crystallize, while memory for the authors’ identity should suffer the fate of source amnesia. May the findings last—if they are true and replicable—while the finders’ identities fade. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/one-among-many/202611/lived-experience-and-epistemic-privilege" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/one-among-many/202611/lived-experience-and-epistemic-privilege</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/one-among-many/202611/lived-experience-and-epistemic-privilege</guid>
+            <dc:creator><![CDATA[Joachim I. Krueger Ph.D.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-khutso-mokoena-2164696716-40079163.jpg?itok=D0OsPaHw" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Ache of Feeling Overlooked]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/471-dr-jan-bonhoeffer-biopic.png.jpg?itok=LPHENm1i" alt="Jan Bonhoeffer M.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Loneliness</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Ache of Feeling Overlooked</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">How recognition contributes to care.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Changes in a colleague's behavior can be easy to miss.</li><li style="margin-bottom:6px;">You don't have to be physically alone to feel lonely.</li><li style="margin-bottom:6px;">Social exclusion affects some of the brain regions associated with physical pain.</li>
+            </ul>
+          </div>
+                    <p>We never really know what someone else is carrying in their backpack of rocks. One of my former colleagues, a brilliant consultant, springs to mind. She was highly experienced, calmly present under pressure, and one of those people a hospital comes to depend upon without anyone saying as much.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/istock-2150275784_small.jpeg.jpg?itok=aQgKnxnx" width="320" height="213" data-insert-type="image" alt="You don't have to be alone to be lonely. " title="Aida Lopez Jimenez/iStock"></div>
+<div class="caption">You don't have to be alone to be lonely. </div>
+<div class="insertArea--origin subtext">Source: Aida Lopez Jimenez/iStock</div>
+</div>
+</div>
+</div>
+<p>Younger doctors would seek her out after shifts and, though she never gave much overt advice, when she spoke they paid attention. Usually she listened carefully, asked a question, or helped them see what had just happened from a new perspective. She was also the last person who would have wanted a fuss made of her.</p>
+
+<p>At some point, she started to change. Nothing dramatic, and she still came to work and took care of her patients as diligently and professionally as ever. If you'd asked me then whether anything was noticeably wrong, I am embarrassed to admit that I would probably have dismissed it. On reflection, I can see that she'd stopped staying behind after teaching sessions to chat with students. She also spoke less in meetings and our general conversations became shorter. She was responding to other colleagues differently too, but we were all over-extended and too preoccupied to rally round.</p>
+
+<p>I assumed she was tired. Nothing unusual about that in a hospital, after all. I never asked her directly what was going on, so I don't know. Maybe she had problems at home, or just decided to work less, and I would be doing her a disservice if I invented a reason for her withdrawal all these years later. What haunts me is that I noticed the change and didn't stop to ask why. She left the hospital soon after.</p>
+
+<h2>How We Observe Others </h2>
+<p>Doctors spend years learning to observe people. We study skin color, breathing, posture and movement. We become experts at listening to how people speak and notice when their account doesn't quite fit what we are seeing in front of us. Sometimes a tiny detail changes the direction of an examination. </p>
+
+<p>I'm less certain that we are equally observant of the people working alongside us. Hospitals are notoriously busy places, and when someone continues to show up, doing good work and causing us no interruptions, our attention naturally goes elsewhere. This is particularly the case with competent people, and when we are so cocooned in our own work with all its decisions and distractions, it's not so easy to notice when a colleague interacts less or keeps their door closed. Any one of these signals could mean absolutely nothing, but if you know someone well enough to spot their behavior has changed, why not ask? I wish I had.</p>
+
+<p>Years later, I came across a study by Naomi Eisenberger, Matthew Lieberman, and Kipling Williams that made me reconsider that colleague. The researchers used brain imaging to study what happened when people experienced social exclusion during a virtual ball-tossing game. They found activity in some of the brain regions also involved in the distress of physical pain. </p>
+
+<p>The study was published in <em>Science</em> in 2003 and has since generated a good deal of research and discussion. A brain scan can't tell us what my colleague was experiencing, of course. I cannot say whether she felt personally excluded, though the study piqued my interest in something I had previously underestimated: how much being included matters to us.</p>
+
+
+<p>You don't have to be physically alone to be lonely. I've known several people who have spent their lives elbow-deep in friends, family and colleagues, but who still feel disconnected from others. In a large hospital, and I'm sure in other workplaces, it's perfectly possible to speak to dozens of people every day, without enjoying a conversation where someone asks how you are and genuinely wants to hear the answer.</p>
+
+<h2>What True Recognition Looks Like in the Workplace </h2>
+<p>I used to believe that recognition was mainly about acknowledging exemplary work, but I'm no longer sure that's accurate. Praise has its place, and most of us like to hear what we did well, but in the difficult phases of my own life, the times I've felt truly noticed have been thanks to interactions that are much more subtle. Somebody maybe remembers a joke or a fact I told them weeks ago, or a colleague checks in when I'm unusually quiet. Occasionally a friend will hesitate and ask again after enquiring how I am and receiving the classic response 'Fine.'</p>
+
+
+
+  
+
+
+<p>None of these moments of recognition would appear in an organizational strategy. They cost nothing and can take less than a minute, but they tell us something valuable: someone has put their own busyness aside long enough to truly care.</p>
+<p>Healthcare organizations spend time and money figuring out how to best care for patients, as they should. I wonder if we forget to look sideways at the people providing that care. Who pays attention to them? The people I worry about most aren't necessarily those who announce they're struggling. Often it's the person who just gets on with the job without complaining, who continues to do an excellent job while gradually becoming harder to reach. </p>
+
+<p>I still have no idea what happened to the consultant I worked alongside all those years ago. I only know that I noticed her withdrawal and attributed it to tiredness. If I found myself in the same situation today, I hope I would be attentive enough to knock on the door of her office, sit down and ask how she was, and actually wait long enough for the answer.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/heart-of-healthcare/202611/the-ache-of-feeling-overlooked" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/heart-of-healthcare/202611/the-ache-of-feeling-overlooked</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/heart-of-healthcare/202611/the-ache-of-feeling-overlooked</guid>
+            <dc:creator><![CDATA[Jan Bonhoeffer M.D.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/field_blog_entry_images/2026-11/istock-2150275784_small.jpeg.jpg?itok=dEO6U1R0" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Does Life Feel Absurd?]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2023-10/20220519_083824-removebg-preview.jpg?itok=wGcI7Sfp" alt="Walter Veit Ph.D. " style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Philosophy</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Does Life Feel Absurd?</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Camus and Nagel on our search for meaning in an indifferent universe.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">The absurd arises from our desire for meaning clashing with a silent, indifferent universe.</li><li style="margin-bottom:6px;">Camus sees absurdity in the conflict, not in meaninglessness or the quest for meaning alone.</li><li style="margin-bottom:6px;">Nagel argues absurdity is a clash within ourselves—seriousness versus the arbitrariness of life.</li>
+            </ul>
+          </div>
+                    <p>“MOST people feel on occasion that life is absurd, and some feel it vividly and continually” is how Thomas Nagel opens his paper "The Absurd," yet "they could not really explain why life is absurd. Why then do they provide a natural expression for the sense that it is?” This is why I've recently published an academic <a href="https://walterveit.com/wp-content/uploads/2021/02/veit2018_existentialnihilism.pdf">article</a> on the topic.</p>
+
+<h2>Camus and the Absurd</h2>
+<p>What then is the absurd? As Albert Camus is most often associated with the term the absurd, I will begin with his account. He begins by illustrating the common uses of the word absurd and gives the example of a virtuous man, who we accuse of desiring his sister. Naturally, he would respond in shock: “That is absurd!” Thereby appealing to the “contradictory” and “impossible” notion of the accusation, like a man attacking a group of gunmen with a sword. The intention of the action clashes with the harsh reality, thereby rendering the whole endeavor absurd. For Camus, the “absurd is born of this confrontation between the human need [for meaning and reason] and the unreasonable silence of the world.”</p>
+
+<p>The feeling of the absurd therefore stems from two realizations taken together. First, man’s realization that life is meaningless and the universe purposeless; and secondly, man’s desire for meaning and purpose. The absurd is the futile search for meaning. It is neither existential nihilism that is absurd, nor the human search for meaning, but the comparison, the conflict, that arises between them.</p>
+
+<h2>Nagel and the Absurd</h2>
+<p>Let us now take a look at an analytical philosopher, i.e., Thomas Nagel and his paper “The Absurd." Nagel, too, starts from the notion of the absurd in ordinary life, giving a similar analysis to <a href="https://www.psychologytoday.com/us/blog/science-and-philosophy/201904/science-free-will-and-existentialism">Camus’</a>, stating that it “includes a conspicuous discrepancy between pretension or aspiration and reality," like someone giving a complex speech on a vote that has already been cast. A philosophical notion of absurdity, in contrast to the feeling of absurdity, however, must according to Nagel lie in “something universal-some respect in which pretension and reality inevitably clash for us all” and that is a “collision between the seriousness with which we take our lives and the perpetual possibility of regarding everything about which we are serious as arbitrary, or open to doubt.”</p>
+
+<p>As one might argue goes, “why struggle, if the struggle doesn’t amount to anything?” This question is unique for humans, in that only they have the ability to take a step back and look at themselves from a grander point of view, which is seemingly impossible for animals. From this perspective, our lives must appear “sobering and comical.” As Nagel says:</p>
+
+<blockquote><p>We step back to find that the whole system of justification and criticism, which controls our choices and supports our claims to rationality, rests on responses and habits that we never question, that we should not know how to defend without circularity, and to which we shall continue to adhere even after they are called into question.</p>
+</blockquote>
+
+<p>Our aims and goals must from this perspective appear arbitrary. They are, in the end, so small and insignificant that one can only wonder why we put so much energy into achieving our life goals. This is the absurd condition we cannot escape.</p>
+<p>We must, therefore, acknowledge that the “absurdity of our situation derives not from a collision between our expectations and the world, but from a collision within ourselves.” I don’t agree with Nagel, in his claim to provide a superior account to that of Camus. If anything, Nagel reinforces Camus’ argument. For Camus as for Nagel, the search for final justifications in God, religion, power, family or the state is just as futile, for their purposes must appear just as absurd if we take a step back. They are no more than an escape from the absurd, not a solution. For now, it seems as if Camus’ notion of the absurd is compatible with contemporary analytical philosophy after all.</p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/why-does-life-feel-absurd" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/why-does-life-feel-absurd</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/science-and-philosophy/202611/why-does-life-feel-absurd</guid>
+            <dc:creator><![CDATA[Walter Veit Ph.D.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-moshalex-34775655.jpg?itok=TgPpI-6-" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wild Conversations With Animals Foster Humility and Harmony]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/field_user_blogger_photo/a1wgut13wrl-removebg-preview_1.jpg?itok=a_9YRoP8" alt="Marc Bekoff Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Animal Behavior</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Wild Conversations With Animals Foster Humility and Harmony</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">In her new book, Susan Beilby Magee offers a sense of hope for the future.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">In her book, Susan Beilby Magee shares encounters and photographs that explore animal wisdom and family life.</li><li style="margin-bottom:6px;">Magee frames intuitive animal encounters as spiritual experiences, not scientific findings.</li><li style="margin-bottom:6px;">Connecting with wild neighbors near and afar can lead to respect, and respect can lead to stewardship.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/screen_shot_2026-11-19_at_2.04.44_pm.png.jpg?itok=n52guiQH" width="320" height="359" data-insert-type="image" alt="The African lion, whose majesty and vulnerability are central to Wild Conversations. An encounter with a male lion inspired Magee's promise to share the animals' messages with the world." title="Michael Lorentz/with permission."></div>
+<div class="caption">The African lion, whose majesty and vulnerability are central to Wild Conversations. An encounter with a male lion inspired Magee's promise to share the animals' messages with the world.</div>
+<div class="insertArea--origin subtext">Source: Michael Lorentz/with permission.</div>
+</div>
+</div>
+</div>
+<p>I'm always looking for books that foster a strong sense of community and connection with nonhuman animals. This is just what author Susan Beilby Magee does in her new book <a href="http://www.wildconversations.com/"><em>Wild Conversations: The Wisdom of African Animals</em></a>, in which she shares wisdom and illuminates a path toward resilience, purpose, and harmony for all of Earth’s inhabitants. She also offers pertinent data from detailed research. Many of her positive messages reminded me of an interview I did with George Bumann about <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202409/eavesdropping-on-animals-lessons-from-wild-conversations">how eavesdropping on the wild conversations</a> with different animals can offer lessons on the remarkable beings they are and what they need from us. </p>
+
+<p><strong>Marc Bekoff: Why did you write </strong><em><strong>Wild Conversations</strong></em><strong>?</strong></p>
+<p>Susan Beilby Magee: I wrote it because I made a promise to a lion. During a safari in northern Tanzania, I encountered a magnificent male lion walking through the bush. I greeted him silently and received a question in the intuitive way I have communicated with animals for decades: “Will you write a book about us? Will you share our messages with other humans?” I said: “Yes.”</p>
+
+<p>That promise deepened over three African safaris. Their messages were wise, sometimes humorous, but grew urgent as wilderness habitats shrank. For example, lions have disappeared from more than <a href="https://www.iucnsos.org/world-lion-day-conserving-the-king-of-the-jungle/">90 percent</a> of their historic range, and research shows that only about <a href="https://link.springer.com/article/10.1007/s10531-012-0381-4">25 percent</a> of Africa’s savannahs remain within the range of free-ranging lion populations. I wanted readers to encounter these animals not merely as tourist attractions on a safari, but as fellow beings with their own families, awareness, and place on Mother Earth. This book honors that promise.</p>
+
+<p><strong>MB: Who do you hope to reach?</strong></p>
+<p>SBM: I hope to reach animal lovers, conservationists, travelers, people curious about spirituality, and anyone who has felt renewed spending time in nature. I want to reach people overwhelmed by modern life. You need not believe in animal telepathy to recognize the intelligence and dignity of the animals. Although pollution, poaching, and human expansion threaten them, conservation can reverse some of the damage. For example, in Chad’s Zakouma National Park, where poaching had devastated the elephants, only one calf was counted in 2011. In 2018, due to intervention and protection by African Parks, <a href="https://www.africanparks.org/elephants-on-the-rise">127 calves</a> were counted. I want my granddaughter’s generation to see what is at stake. I hope readers finish with wonder, affection, and a desire to protect the wild.</p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/wild_conversations.png.jpg?itok=tVEuj1Zu" width="320" height="416" data-insert-type="image" title="Susan Beilby Magee." alt="Susan Beilby Magee."></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Susan Beilby Magee.</div>
+</div>
+</div>
+</div>
+<p><strong>MB: What are some of the topics you consider, and what are some of your major messages?</strong></p>
+<p>SBM: The book takes readers from the Serengeti and Tarangire to Ruaha and the Okavango Delta. I share personal encounters and photographs that explore animal wisdom, family life, interconnectedness, spiritual awareness, and conservation.</p>
+
+<p>Our jeep once approached a herd of more than 200 elephants. The matriarch stopped, watched us, and directed the herd to surround the youngest calves. When I silently asked for her message, I heard: “Slow down. Don’t rush. Enjoy the moment. Love your family. Play together. Know that you, we, all life is eternal.” How many of us need a reminder to slow down? The message was not just a comfort, but also a warning: When we move as fast as so many of us do today, we often miss what really matters, whether it’s time with loved ones or confronting the harm we’re causing to the planet.</p>
+
+<p>Other animals offered different lessons. A giraffe invited me to appreciate silence. A leopard encouraged spending time alone in nature and trusting our own inner resources. The hyenas urged purposeful work and devotion to one’s pack. And the lions reminded me to awaken my senses, appreciate beauty, and live with courage. Each message reflected its messenger.</p>
+
+<p>There is also a harder truth: Life and death are interconnected. I watched wildebeest cross the Mara River as crocodiles waited, while predators, scavengers and insects each played a role. Death is natural. What we are doing to these animals is not.</p>
+<p>In the book’s final section, Clarion Call, the messages become urgent. Habitat loss, pollution, and human expansion threaten these animals. I worry that lions, elephants, cheetahs and other magnificent creatures may disappear from the wild within my granddaughter’s lifetime. The population of Africa’s savanna elephants has fallen by at least <a href="https://iucn.org/news/species/202103/african-elephant-species-now-endangered-and-critically-endangered-iucn-red-list">60 percent</a> in 50 years, according to the IUCN. My central appeal is both spiritual and practical: Reconnect with Mother Earth, recognize that we belong to the same living community, and act to protect the places these animals call home</p>
+
+<p><strong>MB: How does your book differ from others concerned with similar topics?</strong></p>
+<p>SBM: <em>Wild Conversations </em>is neither a scientific field guide nor a conventional safari memoir. I write as a modern mystic, sharing the messages I personally experienced through silent, intuitive communication with animals. Readers may interpret these encounters differently; I welcome that. I simply invite them to pay attention. </p>
+
+
+
+  
+
+
+<p>The foreword is by Michael Lorentz, a wildlife photographer who has guided African safaris for 40 years. He writes that the animals are “far more present, far more aware, and far more communicative than most of us are conditioned to believe.” Frank Pope, CEO of Save the Elephants, has endorsed the book, calling it “A passionate love-letter to the wild.” You don’t have to be a mystic to appreciate the book’s photographs and messages.</p>
+
+<p><strong>MB: Are you hopeful that learning more about these animals will inspire greater action to save them and the African wilderness?</strong></p>
+<p>SBM: Yes. I hope people will protect wild animals and wilderness worldwide. When we watch an elephant protect her calf or lion cubs tumble together in play, the distance between “us” and “them” begins to disappear. We see families, relationships, and individual lives. That recognition can lead to respect, and respect can lead to stewardship. I want my granddaughter and all future generations to inherit a world where wild lions still roar, elephants still roam, and the Serengeti remains alive with migrating herds. </p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/animal-emotions/202611/wild-conversations-with-animals-foster-humility-and-harmony" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/animal-emotions/202611/wild-conversations-with-animals-foster-humility-and-harmony</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/animal-emotions/202611/wild-conversations-with-animals-foster-humility-and-harmony</guid>
+            <dc:creator><![CDATA[Marc Bekoff Ph.D.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/screen_shot_2026-11-19_at_2.04.44_pm.png.jpg?itok=OuGE1Dqa" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Being Home for the Holidays Makes You Feel 15 Again]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-03/shannon_sauer-zavala__1_.png.jpg?itok=y24iHfRV" alt="Shannon Sauer-Zavala Ph.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Personality</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">Why Being Home for the Holidays Makes You Feel 15 Again</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Old family dynamics can bring out behaviors you thought you'd outgrown.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Different situations can bring out different sides of one's personality.</li><li style="margin-bottom:6px;">Family gatherings can trigger old habits, even for someone who's made meaningful changes in their daily life.</li><li style="margin-bottom:6px;">Small, intentional changes in how one responds in interactions can help build new family patterns.</li>
+            </ul>
+          </div>
+                    <p dir="ltr">Every year, my clients tell me some version of the same story. <em>I've been making so much progress, but after five minutes at my parents' house, it all goes out the window.</em></p>
+<p dir="ltr">This topic frequently comes up in my sessions during the holiday season. They've spent months learning to better manage their emotions, or set healthier boundaries, and they’re enjoying the benefits of that work in their day-to-day lives.</p>
+
+<p dir="ltr">Then, when they go home for the holidays, they automatically fall back into old habits. They're arguing with their siblings like teenagers, getting defensive when their parents offer unsolicited advice, and agreeing to things they don't want to do just to keep the peace.</p>
+<p dir="ltr">Does slipping back into familiar family dynamics mean you haven't actually changed? That underneath all that growth, you're still the same person you were at 17?</p>
+
+<p dir="ltr">Long story short, the answer is “no.” Sliding into old roles is a completely normal, well-documented phenomenon in personality science. Let’s talk about why this happens—and what to do about it.</p>
+<h2 dir="ltr">Your Personality Is an Average, Not an Absolute</h2>
+<p dir="ltr">Personality traits are a descriptive summary of how you typically think and behave. Do you generally experience big emotions or are you less reactive? Do you usually plan ahead or fly by the seat of your pants? Are you typically the person driving the conversation, or do you often find yourself hanging back to observe during social situations?</p>
+
+<p dir="ltr">Importantly, personality is not black and white. Even though we often think about personality traits as categories (e.g., introvert vs. extrovert), traits actually exist on a continuum. People can fall anywhere along that spectrum (e.g., always introverted, often introverted, 50/50 depending on the situation, often extraverted, always extraverted).</p>
+
+<p dir="ltr">Where you fall on a particular personality trait reflects how you tend to think, feel, and behave on average, across different situations. For example, you might be more extraverted when you're out with friends and much quieter in a work meeting. </p>
+<p dir="ltr">You can shift that average, making it more likely that you'll think, feel, and behave in ways that align with your values. But even as your personality shifts, some situations will still bring out more or less of a particular trait. In other words, if you've become generally more confident and even-keeled in your everyday life, a few days of feeling insecure or emotionally reactive around your family doesn't mean you've lost the progress you've made.</p>
+
+<h2 dir="ltr">Our Personalities Change as We Get Older</h2>
+<p dir="ltr">And those personality averages do shift across our lives. Research shows that, on average, people become more emotionally stable, more conscientious, and better able to get along with others as they age. </p>
+<p dir="ltr">Much of this<a href="https://www.psychologytoday.com/us/basics/personality-change?utm_source=chatgpt.com"> </a>personality change takes place between ages 20 and 40, a period when many people leave their family homes and gain greater freedom to choose who they spend time with and how they spend their days.</p>
+
+<p dir="ltr">These new environments can encourage different patterns of behavior. Maybe growing up, you learned that raising your voice was the only way to get your point across. But in your adult friendships and romantic relationships, communicating calmly may be much more effective. As these healthier ways of interacting are reinforced over time, you may gradually become a more agreeable person.</p>
+
+
+<h2 dir="ltr">Families Are a Strong Situation</h2>
+<p dir="ltr">Even if you've changed considerably over the years, your family may expect you to behave like your old self, and those expectations may pull you to fall back into old habits. For example, if you grew up trying to keep the peace by sacrificing your needs, you might find yourself agreeing to sleep in a separate room from your partner to appease your parents, even if you’ve been actively making progress toward being more assertive.</p>
+
+<p dir="ltr">And the stress of the holidays doesn't help. When we're tired or otherwise stretched thin, we're more likely to fall back on well-practiced responses. The behaviors your family pulls from you were learned early and reinforced repeatedly, so under stress, your brain dusts them off because they require less energy than the newer patterns you might be working on.</p>
+
+
+
+  
+
+
+<h2 dir="ltr">Shaping a New Family Dynamic</h2>
+<p dir="ltr">The good news is that being around your family gives you an opportunity to practice the new ways of thinking and behaving you’ve been working on. Think of it like playing a video game on hard mode: The skills are the same, but the challenges are tougher. You can't necessarily change how your family treats you, but you can make small changes in how you respond to them. And over time, those small changes can help create a different dynamic. Here are three ways to start:</p>
+
+<ul>
+<li dir="ltr"><strong>Focus on one thing. </strong>Pick an aspect of yourself you’ve been working on, like becoming more assertive or less emotionally reactive, and make it your goal to be mindful of that specific thing during your visit.</li>
+<li dir="ltr"><strong>Get concrete. </strong>Plan a few small actions that represent the person you want to become. This could look like planning to express a preference about holiday plans or pausing before responding to a critical comment.</li>
+<li dir="ltr"><strong>Give yourself some grace.</strong> If you fall into an old pattern, don't let it overshadow your progress. A weekend of pleasing people or sensitivity doesn't undo all the changes you've made.</li>
+</ul>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/self-made/202611/why-being-home-for-the-holidays-makes-you-feel-15-again" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/self-made/202611/why-being-home-for-the-holidays-makes-you-feel-15-again</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/self-made/202611/why-being-home-for-the-holidays-makes-you-feel-15-again</guid>
+            <dc:creator><![CDATA[Shannon Sauer-Zavala Ph.D.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/ana-g-mendivil-6l5xzqfcovi-unsplash.jpg?h=acd59fdc&amp;itok=3JslOKxv" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Gift of Gratitude]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-07/Wartski.png.jpg?itok=wdeZMnFY" alt="Sandra Wartski Psy.D." style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Gratitude</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">The Gift of Gratitude</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">Practicing an attitude of gratitude is powerful.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Practicing positive noticing and thankfulness thinking is valuable anytime.</li><li style="margin-bottom:6px;">When we focus and savor, we strengthen and maximize the positivity.</li><li style="margin-bottom:6px;">Psychological science supports the value of gratitude practices.</li>
+            </ul>
+          </div>
+                    <p>Certain times of the year or milestone moments can increase the frequency with which we turn to appreciating the good, though this practice actually has value every single day of the year. </p>
+<p>The positive psychology movement has helped individuals focus more on what is strong rather than only on what is wrong. As a therapist who works with individuals at various life stages and in situations of distress, I know and embrace the fact that we can’t ignore the overwhelming symptoms, heartache, trauma, and pain; however, <em>I also believe that every individual has strengths and reserves of resilience that deserve to be incorporated and highlighted</em>. </p>
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/ralphs_fotos-hearts-3316495_1920.jpg?itok=4Ttqf8Ca" width="320" height="213" data-insert-type="image" title="Ralphs Fotos/Pixabay" alt="Ralphs Fotos/Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Ralphs Fotos/Pixabay</div>
+</div>
+</div>
+</div>
+<p>Some people find this practice of being thankful and looking for gratitude moments to be relatively easy, but others find this much more difficult and unnatural. </p>
+<p>Several tips are offered here for consideration to build the gratitude muscle. </p>
+<h2>Seeking Out the Good and the Good-Enough</h2>
+<p>Like the recent movement to incorporate more bloom-scrolling rather than just doom-scrolling on our phones, the notion of being on the lookout for more positivity can turn out to be a welcome shift for many. We know the gloom and doom exist, and we have plenty of opportunities to focus on it, but also actively seeking out more of the positive, the good, and the upbeat can be incredibly beneficial. Rather than dismissing the negative news or ignoring the overwhelming, we are making room for balance in our bodies and brains.</p>
+
+<p><em>We can be in charge of our media meal plan and how we choose to budget our time and attention</em>.</p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/pexels-erik-karits-2093459-27570096.jpg?itok=VQ9FpSbx" width="320" height="213" data-insert-type="image" title="Erik Karits/Pexels" alt="Erik Karits/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Erik Karits/Pexels</div>
+</div>
+</div>
+</div>
+<h2>The Big and the Bold—But Especially the Small</h2>
+<p>The idea of being on the lookout for gratitude moments is sometimes mistaken for waiting for those “big-ticket” items in life, like a windfall of money, a long-awaited vacation, or a promotion at work. While momentous moments are terrific, they tend to be rarer. However, the small moments of appreciating a delicious meal, a story about an everyday hero, a more scenic route home, the feel of a favorite blanket, or a beautiful bird on a branch are available to us on a much more regular basis. </p>
+
+<p>There is a Japanese concept of Ma, which translates to the gap, interval, or space between things. This is often referenced in Japanese architecture, art, or conversation, but the notion of embracing space or pause can also be utilized in this pursuit of the positive. The gap or interval is not empty or useless; instead, it represents a <strong>meaningful void</strong> full of potential. So even in those moments between hearing difficult news, awaiting dreaded test results, or anticipating the next migraine headache, we can attempt to orient to something small, quiet, amusing, or pleasant for which we can feel grateful. </p>
+
+<p>We can absolutely embrace the big, but <em>we might as well also be on the lookout for the small because they are much more plentiful, readily available, and repeatable</em>. </p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/pexels-karina-1622396627-27555647.jpg?itok=i4c8k3wy" width="320" height="480" data-insert-type="image" title="Karina/Pexels" alt="Karina/Pexels"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Karina/Pexels</div>
+</div>
+</div>
+</div>
+<h2>Go for the Glimmers</h2>
+<p>Being aware of possible triggers in our environment can have value and usefulness, but orienting toward noticing the glimmers internally and externally is often underutilized. </p>
+<p>Glimmers are those small moments of calm or joy that can cue safety and relaxation for the nervous system. The notion of looking for glimmers was introduced by Deb Dana and based on work by Stephen Porges<sup>1</sup>, and this practice cues the body toward a state of safety and grounding rather than the fight-flight-freeze mode of response that is activated under threat. </p>
+
+<p>Even on really bad days (or maybe even especially on really bad days), we can choose to notice some good or gratifying things. </p>
+<p><em>Glimmers are the opposite of triggers; both exist in our world, and we deserve to be able to know how to be alert to both</em>. </p>
+<h2>What We Focus on Flourishes</h2>
+<p>When we are actively looking for more positive, joyful, beautiful, interesting, or unique in our daily world, we begin to see more of it. Sometimes that elegant, sturdy tree, beautifully colored house, smell of our favorite beverage, or sparkling ray of sunlight coming through the window at a certain time of day has gone unnoticed until we take the time to notice. And once we notice, we tend to orient to seeing it again and again—along with that more satisfying sense of appreciation on repeat.</p>
+
+<p><em>Focus helps with flourishing.</em></p>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/johnhain-meditation-567593.jpg?itok=aNU-n_MP" width="320" height="293" data-insert-type="image" title="johnhain/Pixabay" alt="johnhain/Pixabay"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: johnhain/Pixabay</div>
+</div>
+</div>
+</div>
+<h2>Savor the Moment</h2>
+<p>Orienting to some good news, a funny joke, the stuffy nose that finally cleared up, an enthusiastic pet greeting, or a beloved song on the playlist can all be wonderful in the moment, but what really allows the biggest benefit is to allow the positivity to fully soak in. Like attending to a spill on the counter, dipping a sponge into the corner of the spill for just a moment won’t be as effective as slowly, carefully moving the sponge around the spill to fully absorb the liquid.</p>
+
+
+<p>When we pause to fully notice the benefits, orient the multi-sensorial delights, and stay with it for several moments, we are more wholeheartedly allowing the affirmative and encouraging to register in our systems. And if we choose to later repeat this positive moment in a journal or in a recounting to someone else, the benefits multiply and the positivity is reinforced. </p>
+
+<p>Intentionally, mindfully staying aware of the positive is a happiness hack. And <em>savoring the moment can be a superpower</em>.</p>
+<h2>Psychological Science Support</h2>
+<p>Various research studies support the notion that optimistic, grateful people are happier, calmer, more empathetic, less stressed, have better physical health, and even live longer<sup>2</sup>. Neuroimaging results (MRI and fMRI) also show that practicing gratitude engages key brain regions involved in reward processing and emotional regulation<sup>3</sup>. These findings support the incredible connection between mind and body.</p>
+
+
+
+  
+
+
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/gabrielle-henderson-m4lve6jr26e-unsplash.jpg?itok=phlGTwkf" width="320" height="213" data-insert-type="image" title="Gabrielle Henderson/Unsplash " alt="Gabrielle Henderson/Unsplash "></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Gabrielle Henderson/Unsplash</div>
+</div>
+</div>
+</div>
+<p>Studied gratitude interventions include gratitude journals, gratitude letters or texts, and other methods of counting more blessings than burdens. Although there are various self-administered psychological interventions that can improve overall well-being (such as spending time in nature, mindfulness, or acts of kindness), psychological science does consistently show that <em>gratitude practices improve overall mental and physical health</em>. </p>
+
+<h2>An Invitation</h2>
+<p>Even if this skill of looking for gratitude, positivity, and thankfulness doesn’t come easily or naturally to you, strive to refrain from self-blame about this. People have a wide variety of circumstances that can influence their ability to orient toward the good, and some of this is influenced by such things as external life circumstances and even genetics. The negativity bias in human brains is also well established and did have an evolutionary benefit<sup>4</sup>, but times are different now. A broader, more balanced perspective can help. And because brains are neuroplastic, practice in these skills makes for more permanence with these skills.</p>
+
+<p><em>Be on the lookout for the lovely, and you, too, can optimize your inner optimist.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/mindful-metaphors/202611/the-gift-of-gratitude" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/mindful-metaphors/202611/the-gift-of-gratitude</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/mindful-metaphors/202611/the-gift-of-gratitude</guid>
+            <dc:creator><![CDATA[Sandra Wartski Psy.D.]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/pexels-tim-douglas-6567219.jpg?itok=woCMJg0K" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[How 'Innocent Parties' Can Navigate Family Estrangement]]></title>
+            <description><![CDATA[<p><img src="https://cdn2.psychologytoday.com/assets/styles/profile_teaser_small/public/2024-08/rick_miller.png.jpg?itok=6mi-djOs" alt="Rick Miller LICSW" style="max-width:100%;border-radius:6px;"/></p><p><strong style="text-transform:uppercase;font-size:0.85em;color:#666;">Family Dynamics</strong></p><h1 style="font-size:1.6em;margin-bottom:4px;">How 'Innocent Parties' Can Navigate Family Estrangement</h1><h2 style="font-size:1.1em;color:#444;font-weight:normal;margin-top:0;">These forgotten family members at the holidays need clear boundaries.</h2><p style="font-size:0.9em;color:#666;">Posted November 22, 2026</p><hr style="border:none;border-top:1px solid #ddd;margin:16px 0;"/>
+          <div style="background:#f0f4ff;border-left:4px solid #3a5bd9;padding:12px 16px;margin-bottom:20px;border-radius:0 6px 6px 0;">
+            <strong style="display:block;margin-bottom:8px;font-size:1em;">Key points</strong>
+            <ul style="margin:0;padding-left:20px;">
+              <li style="margin-bottom:6px;">Estrangement pulls uninvolved relatives into loyalty tests, message-carrying, and information-gathering.</li><li style="margin-bottom:6px;">Holiday expectations can turn separate, loving relationships into pressure to prove loyalty.</li><li style="margin-bottom:6px;">Refusing to discuss one relative with another protects trust without requiring one to take sides.</li>
+            </ul>
+          </div>
+                    <div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/curated-lifestyle-xzcyq4lheh8-unsplash.jpg?itok=4xC9Dh7_" width="320" height="160" data-insert-type="image" title="Curated Lifestyle/Unsplash" alt="Curated Lifestyle/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Curated Lifestyle/Unsplash</div>
+</div>
+</div>
+</div>
+<p>The holidays are upon us, and with them comes the annual anxiety over family encounters. The messaging we receive is all about traditions, togetherness, and reunions, whereas many families experience grief, loneliness, and more due to estrangement within those families.</p>
+<p>We go through it every year, and I can say candidly, as a therapist, it doesn’t get a lot easier. But whereas most of the articles and advice columns we read address the family members experiencing the friction—the son who won’t reconcile with his father, the sister who can’t forgive her brother—there are a lot of people gravely affected by the estrangement even though they do not actively take part in it. </p>
+
+<p>These are estrangement’s forgotten people.</p>
+<p>When two or more relatives cut off contact, the people caught in the middle often absorb the emotional fallout. They get pulled into triangulation in different ways, depending on the specifics of the family dynamics and situation.</p>
+<h2>Taking Sides</h2>
+<p>One of my clients, John, experiences this triangulation every year at the holidays. His mother and sister haven’t spoken to each other in years, having fallen out due to the sister’s choice of husband. John loves and is in close communication with both, and this works—more or less—during the year; but the holidays bring greater expectations of “togetherness,” and he feels forced to make decisions, none of which are satisfying to him. Does he choose one holiday party over the other? Manage somehow to rush from one to the other to make both parties happy? Eschew celebrations with both of them?</p>
+
+<p>His mother and sister pull him into their dynamic by each pressuring John to prove his loyalty to each of them by attending their gathering. When he does, he feels forced to take sides, as each of them used the time to vent about the other. When he refuses to engage in this negative talk, there’s fallout from that, too.</p>
+
+<h2>Becoming the Messenger</h2>
+<p>Other families handle the triangulation differently. Rebecca’s large extended family has effectively shunned her cousin Peter after he came out as gay. But while they’ve cut off direct communication with him, they still expect Rebecca to act as the go-between, wanting to make sure Peter gets all their news and, again, passing on subtle negative messages to Peter through Rebecca. </p>
+
+<h2>Information-Gathering</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/kristina-flour-bcjdbykwquw-unsplash.jpg?itok=lvt9mTLE" width="320" height="205" data-insert-type="image" title="Kristina Flour/Unsplash" alt="Kristina Flour/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Kristina Flour/Unsplash</div>
+</div>
+</div>
+</div>
+<p>No one isn’t affected by estrangement, and families often seek to keep tabs on the “missing” relative or relatives. It can be as blatant as, “Where is Dad spending Thanksgiving?” or as subtle as, “Have you talked to your sister recently?” My client Ellen says this kind of questioning makes her feel like she has to edit everything she says, so that she doesn’t open doors to becoming the conduit, and so that she doesn’t accidentally betray any trust the missing family member has placed in her. Not exactly a jolly family gathering.</p>
+
+<p>And the result is that the family member who is absent from the dinner table gets as much airtime as everybody else.</p>
+<h2>How to Avoid Escalation</h2>
+<p>It helps to remind yourself that you’re not the one who chose the estrangement, and you don’t have to be the stand-in family member. But as we all know, that knowledge isn’t going to make everything all right. Chances are, your people-pleasing tendencies get fired up now, and your choices need to be balanced with what you need and want, and how you want your own family to experience the holidays. </p>
+
+<p>It may help to name the boundary you’re setting. “Remember, I spent last Thanksgiving with you, and I’m planning on going to Jason’s house this year. Maybe we can get together sometime next week to share leftovers.”</p>
+<h2>You Get to Decide</h2>
+<p>This may not have been the message your family of origin gave you, but it’s true for you now: <em>You get to decide</em>. You can set the boundaries you need, and you can reflect them calmly to family members who don’t want to honor them.</p>
+
+
+<p>For example, you might say to the information-seeking family member, “You're both important to me, so I don't want to talk about either of you with the other. Now, tell me about what you did this week." </p>
+<p>Pausing before answering can also be a great tool. When someone catches you off-guard with a comment or question about a missing family member, taking a breath may help you to not immediately try to smooth things over.</p>
+
+<h2>Things Can Change</h2>
+<p>Some mental-health practitioners encourage non-contact between family members who have fallen out over an event or a belief. That’s a topic for a different article, but I have to say that as a family therapist who works to improve communication, I’m optimistic that challenges within families are reparable to a point where agreeing to disagree and coming up with boundaries and limits can be incorporated into the family system and members can be in contact. </p>
+
+
+
+  
+
+
+<p>The invisible family members do not—and in fact <em>should</em> not—have to be the vehicles for reconciliation, but staying hopeful that it could happen will ease some of your feelings of frustration and resentment. Always staying open to that possibility can help you cope.</p>
+<h2>The Bottom Line</h2>
+<div class="insertArea ck-widget">
+<div class="image-article-inline-half">
+<div class="insert-inner">
+<div class="insert-image"><img class="image-article_inline_half_caption" src="https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-11/aron-thiwanka-88jcpucjalw-unsplash.jpg?itok=Dlf12LZf" width="320" height="213" data-insert-type="image" title="Aron Thiwank/Unsplash" alt="Aron Thiwank/Unsplash"></div>
+<div class="caption"> </div>
+<div class="insertArea--origin subtext">Source: Aron Thiwank/Unsplash</div>
+</div>
+</div>
+</div>
+<p>The best thing you can do for yourself in these situations is to get in the habit of establishing and maintaining the boundaries <em>you</em> choose and not succumbing to curiosity or hostility in the moment.</p>
+<p>For those of us who want everybody to just get along—that’s good. Encourage your family members to meet with a mediator or therapist. <em>It isn’t your job.</em></p>
+
+<p>And always remember that it’s perfectly reasonable for you to have a close relationship on your own with each party and enjoy them for who they are. </p>
+<p><em>To find a therapist, visit the </em><a href="https://www.psychologytoday.com/us/therapists"><em>Psychology Today Therapy Directory</em></a><em>.</em></p>
+
+            
+      <hr style="border:none;border-top:1px solid #ddd;margin:24px 0 12px;"/>
+      <p style="font-size:0.85em;color:#888;">
+        <a href="https://www.psychologytoday.com/us/blog/unwrapped/202611/how-innocent-parties-can-navigate-family-estrangement" target="_blank">Read the original article on Psychology Today →</a>
+      </p>]]></description>
+            <link>https://www.psychologytoday.com/us/blog/unwrapped/202611/how-innocent-parties-can-navigate-family-estrangement</link>
+            <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/unwrapped/202611/how-innocent-parties-can-navigate-family-estrangement</guid>
+            <dc:creator><![CDATA[Rick Miller LICSW]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2026-11/victoria-romulo-rxkpm2hzrgc-unsplash.jpg?itok=gxnnDfE6" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
